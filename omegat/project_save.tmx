@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base Handbook</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T140716Z" creationid="ldaghino" creationdate="20171002T140716Z">
+        <seg>Manuale di Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105558Z" creationid="ldaghino" creationdate="20171002T105558Z">
