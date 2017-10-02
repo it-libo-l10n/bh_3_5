@@ -1,0 +1,14 @@
+02/10/17 12.56
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	    6258	 69098	                 340598	               403210	    1	
+Restanti:        	    6252	 69032	                 340211	               402770	    1	
+Univoci:         	    5585	 67364	                 331001	               392548	    1	
+Univoci restanti:	    5580	 67299	                 330626	               392120	    1	
+
+
+Statistiche file singoli:
+
+Nome del file        	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+BH35-BaseHandbook.odt	           6258	             6252	            5585	                     5580	        69098	          69032	          67364	                   67299	                        340598	                          340211	                         331001	                                  330626	                      403210	                        402770	                       392548	                                392120	
