@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
+        <seg>Capitolo 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
@@ -138,6 +146,54 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
         <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free online support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085722Z" creationid="Marina Latini" creationdate="20171003T085722Z">
+        <seg>Assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frequently asked questions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085830Z" creationid="Marina Latini" creationdate="20171003T085830Z">
+        <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
+        <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085757Z" creationid="Marina Latini" creationdate="20171003T085757Z">
+        <seg>Icone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Illustrations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
+        <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paid support and training</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
+        <seg>Supporto e formazione a pagamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +246,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using LibreOffice on a Mac</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085806Z" creationid="Marina Latini" creationdate="20171003T085806Z">
+        <seg>Utilizzo di LibreOffice su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version 3.5</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105432Z" creationid="ldaghino" creationdate="20171002T105432Z">
         <seg>Versione 3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What are all these things called?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085814Z" creationid="Marina Latini" creationdate="20171003T085814Z">
+        <seg>Termini utilizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you see may be different</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085739Z" creationid="Marina Latini" creationdate="20171003T085739Z">
+        <seg>Differenze nelle immagini presenti nel libro</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +286,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where to get more help</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085701Z" creationid="Marina Latini" creationdate="20171003T085649Z">
+        <seg>Dove ottenere ulteriore aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Who is this book for?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070649Z" creationid="ldaghino" creationdate="20171003T070649Z">
         <seg>Destinatari del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who wrote this book?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085823Z" creationid="Marina Latini" creationdate="20171003T085823Z">
+        <seg>Autori</seg>
       </tuv>
     </tu>
     <tu>
