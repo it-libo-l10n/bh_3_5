@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070541Z" creationid="ldaghino" creationdate="20171003T070541Z">
         <seg>Pubblicato il &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;Giugno &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GUI in L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt; takes up this command, but unfortunately prefaces the statement with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NOT NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, so that the command sequence for HSQLDB is not readable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084412Z" creationid="Marina Latini" creationdate="20171003T084412Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
