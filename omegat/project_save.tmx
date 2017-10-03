@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Based on LibreOffice &lt;f3&gt;3.&lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070553Z" creationid="ldaghino" creationdate="20171003T070553Z">
+        <seg>Basato su LibreOffice &lt;f3&gt;3.&lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
+        <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105558Z" creationid="ldaghino" creationdate="20171002T105558Z">
@@ -46,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070621Z" creationid="ldaghino" creationdate="20171003T070621Z">
+        <seg>Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Published &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;June &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070541Z" creationid="ldaghino" creationdate="20171003T070541Z">
+        <seg>Pubblicato il &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;Giugno &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2013&lt;/f1&gt; by its contributors as listed below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105527Z" creationid="ldaghino" creationdate="20171002T105527Z">
@@ -58,6 +90,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105432Z" creationid="ldaghino" creationdate="20171002T105432Z">
         <seg>Versione 3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What's in this book?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
+        <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who is this book for?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070649Z" creationid="ldaghino" creationdate="20171003T070649Z">
+        <seg>Destinatari del manuale</seg>
       </tuv>
     </tu>
     <tu>
