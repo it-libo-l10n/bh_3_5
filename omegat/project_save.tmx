@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing external databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090747Z" creationid="Marina Latini" creationdate="20171003T090747Z">
+        <seg>Accedere a database esterni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070301Z" creationid="ldaghino" creationdate="20171003T070301Z">
@@ -118,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090548Z" creationid="Marina Latini" creationdate="20171003T090548Z">
+        <seg>Capitolo 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085033Z" creationid="Marina Latini" creationdate="20171003T085033Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a Database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090555Z" creationid="Marina Latini" creationdate="20171003T090555Z">
+        <seg>Creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085830Z" creationid="Marina Latini" creationdate="20171003T085830Z">
         <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General notes on the creation of a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090623Z" creationid="Marina Latini" creationdate="20171003T090623Z">
+        <seg>Note generali sulla creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +242,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090001Z" creationid="Marina Latini" creationdate="20171003T090001Z">
         <seg>Introduzione a Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MySQL databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
+        <seg>Database MySQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New database using the internal HSQL engine</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
+        <seg>Nuovo database che utilizza il motore HSQL interno</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090508Z" creationid="Marina Latini" creationdate="20171003T090508Z">
         <seg>Ricerche – ottenere informazioni sui dati nelle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports – presentation of data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090536Z" creationid="Marina Latini" creationdate="20171003T090536Z">
+        <seg>Rapporti – presentazione dei dati</seg>
       </tuv>
     </tu>
     <tu>
