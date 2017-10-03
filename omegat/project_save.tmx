@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data input directly into a table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090422Z" creationid="Marina Latini" creationdate="20171003T090422Z">
+        <seg>Inserimento dei dati direttamente in una tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070541Z" creationid="ldaghino" creationdate="20171003T070541Z">
         <seg>Pubblicato il &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;Giugno &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries – getting information on data in tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090508Z" creationid="Marina Latini" creationdate="20171003T090508Z">
+        <seg>Ricerche – ottenere informazioni sui dati nelle tabelle</seg>
       </tuv>
     </tu>
     <tu>
