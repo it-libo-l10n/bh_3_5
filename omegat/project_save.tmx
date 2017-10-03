@@ -6,6 +6,70 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Hazel Russman&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084954Z" creationid="Marina Latini" creationdate="20171003T084954Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Hazel Russman&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Martin Fox&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085114Z" creationid="Marina Latini" creationdate="20171003T085114Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Martin Fox&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Dan Lewis&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085102Z" creationid="Marina Latini" creationdate="20171003T085049Z">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Dan Lewis&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Jean Hollis Weber&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085130Z" creationid="Marina Latini" creationdate="20171003T085130Z">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Jean Hollis Weber&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Jochen Schiffers&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085013Z" creationid="Marina Latini" creationdate="20171003T085013Z">
+        <seg>&lt;f0&gt;Jochen Schiffers&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Jost Lange&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085138Z" creationid="Marina Latini" creationdate="20171003T085138Z">
+        <seg>&lt;f0&gt;Jost Lange&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Robert Großkopf&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085054Z" creationid="Marina Latini" creationdate="20171003T085054Z">
+        <seg>&lt;f0&gt;Robert Großkopf&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070301Z" creationid="ldaghino" creationdate="20171003T070301Z">
@@ -50,6 +114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105558Z" creationid="ldaghino" creationdate="20171002T105558Z">
         <seg>Collaboratori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085033Z" creationid="Marina Latini" creationdate="20171003T085033Z">
+        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
