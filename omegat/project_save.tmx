@@ -190,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090116Z" creationid="Marina Latini" creationdate="20171003T090116Z">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction to Base</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090001Z" creationid="Marina Latini" creationdate="20171003T090001Z">
+        <seg>Introduzione a Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
