@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the data &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in a spreadsheet &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;is laid out in a table view, plainly visible and able to be edited or added to, many users ask why they should use a database instead of a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190931Z" creationid="osvaldo" creationdate="20171012T190853Z">
+        <seg>Dato che i dati &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in un foglio di calcolo &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sono disposti in una vista tabellare, visibili semplicemente e che possono essere modificati o aggiunti, molti utenti chiedono perché dovrebbero usare un database invece di un foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base Handbook</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T140716Z" creationid="ldaghino" creationdate="20171002T140716Z">
