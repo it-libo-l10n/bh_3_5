@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One database is &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;named&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_without_macros.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; and the other, extended with the inclusion of macros, is &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;nam&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ed &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_with_macros.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T195831Z" creationid="osvaldo" creationdate="20171012T195831Z">
+        <seg>Un database è &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;denominato&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_senza_macro.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; e l'altro, esteso mediante inclusione di macro, è &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;chiama&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;to &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_con_macro.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
