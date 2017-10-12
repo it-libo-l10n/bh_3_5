@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;This chapter introduces two database examples and the entire Handbook is built around these.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T192042Z" creationid="osvaldo" creationdate="20171012T192042Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Questo capitolo introduce due esempi di database ed il manuale è costruito su questi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Jochen Schiffers&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085013Z" creationid="Marina Latini" creationdate="20171003T085013Z">
