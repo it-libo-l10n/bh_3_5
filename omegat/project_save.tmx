@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A &lt;/f0&gt;&lt;f1&gt;Form&lt;/f1&gt;&lt;f2&gt; in Base is a structure &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;invisible to the user&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183935Z" creationid="Marco Marega" creationdate="20171013T183935Z">
+        <seg>In Base &lt;f0&gt;un &lt;/f0&gt;&lt;f1&gt;Formulario&lt;/f1&gt;&lt;f2&gt; è una struttura &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;invisibile all'utente&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chapter 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090001Z" creationid="Marina Latini" creationdate="20171003T090001Z">
         <seg>Introduzione a Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It serves within Base to allow contact with the data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
+        <seg>Serve internamente a Base per permettere il contatto con il data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
