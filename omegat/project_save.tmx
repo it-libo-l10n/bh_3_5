@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&lt;f3&gt;t also describes&lt;/f3&gt; the properties of the various types of controls in a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185104Z" creationid="Marco Marega" creationdate="20171013T185104Z">
+        <seg>&lt;f3&gt;Descrive inoltre&lt;/f3&gt; le proprietà dei vari tipi di campi di controllo di un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085757Z" creationid="Marina Latini" creationdate="20171003T085757Z">
