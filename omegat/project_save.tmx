@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forms are used whe&lt;f0&gt;n&lt;/f0&gt; direct entry into a table is inconvenient, to pick up errors in data entry promptly, or when too many tables make direct management of data impossible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183652Z" creationid="Marco Marega" creationdate="20171013T183652Z">
+        <seg>I formulari vengono utilizzati quando &lt;f0&gt;&lt;/f0&gt; l'inserimento diretto in una tabella risulta sconveniente, per intercettare prontamente gli errori in fase di inserimento dati, o quando la presenza di troppe tabelle rende impossibile la gestione diretta dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forms make data entry easier</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183200Z" creationid="Marco Marega" creationdate="20171013T183200Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
         <seg>Nuovo database che utilizza il motore HSQL interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183701Z" creationid="Marco Marega" creationdate="20171013T183701Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
