@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;his handbook &lt;f1&gt;describes&lt;/f1&gt; the creation of a form without &lt;f2&gt;using&lt;/f2&gt; the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185003Z" creationid="Marco Marega" creationdate="20171013T185003Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Questo manuale &lt;f1&gt;descrive&lt;/f1&gt; la creazione di un formulario senza &lt;f2&gt;l'utilizzo&lt;/f2&gt; della procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessing external databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090747Z" creationid="Marina Latini" creationdate="20171003T090747Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085033Z" creationid="Marina Latini" creationdate="20171003T085033Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creati&lt;f0&gt;ng&lt;/f0&gt; &lt;f1&gt;f&lt;/f1&gt;orms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184352Z" creationid="Marco Marega" creationdate="20171013T184352Z">
+        <seg>Creare&lt;f0&gt;&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Th&lt;f5&gt;at&lt;/f5&gt; chapter also explains how &lt;f6&gt;you can further modify the form&lt;/f6&gt; after using the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184906Z" creationid="Marco Marega" creationdate="20171013T184906Z">
+        <seg>Quel&lt;f5&gt;&lt;/f5&gt; capitolo spiega anche come &lt;f6&gt;potete modificare ulteriormente il formulario&lt;/f6&gt; dopo aver usato la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GUI in L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt; takes up this command, but unfortunately prefaces the statement with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NOT NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, so that the command sequence for HSQLDB is not readable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084412Z" creationid="Marina Latini" creationdate="20171003T084412Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest way to create a form is to use the Form Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
+        <seg>Il modo più semplice per creare un formulario è quello di usare la procedura guidata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
         <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use of the Wizard to create a form is described in &lt;f0&gt;Chapter 8, &lt;/f0&gt;Getting Started with Base, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Getting Started with LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184811Z" creationid="Marco Marega" creationdate="20171013T184811Z">
+        <seg>L'uso della procedura guidata per la creazione di un formulario viene descritta nel &lt;f0&gt;Capitolo 8, &lt;/f0&gt;Introduzione a Base, &lt;f1&gt;della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva a LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
