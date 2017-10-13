@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085114Z" creationid="Marina Latini" creationdate="20171003T085114Z">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Martin Fox&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Forms&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183054Z" creationid="Marco Marega" creationdate="20171013T183054Z">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Formulari&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T192042Z" creationid="osvaldo" creationdate="20171012T192042Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Questo capitolo introduce due esempi di database ed il manuale è costruito su questi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Chapter 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
+        <seg>&lt;f0&gt;Capitolo 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
         <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forms make data entry easier</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183200Z" creationid="Marco Marega" creationdate="20171013T183200Z">
+        <seg>I formulari rendono più semplice l'inserimento dei dati.</seg>
       </tuv>
     </tu>
     <tu>
