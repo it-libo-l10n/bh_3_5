@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T192042Z" creationid="osvaldo" creationdate="20171012T192042Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Questo capitolo introduce due esempi di database ed il manuale è costruito su questi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;What is&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; visible&lt;/f2&gt;&lt;f3&gt; to the user is the set of &lt;/f3&gt;&lt;f4&gt;Controls&lt;/f4&gt;&lt;f5&gt;, which serve for the entry or display of text, numbers, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184211Z" creationid="Marco Marega" creationdate="20171013T184211Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quello che è&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; visibile&lt;/f2&gt;&lt;f3&gt; all'utente è un insieme di &lt;/f3&gt;&lt;f4&gt;Controlli&lt;/f4&gt;&lt;f5&gt;, che servono per l'inserimento o la visualizzazione di testo, numeri e via dicendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084412Z" creationid="Marina Latini" creationdate="20171003T084412Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These controls are divided by the&lt;/f5&gt;&lt;f6&gt; GUI into various types.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
+        <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
