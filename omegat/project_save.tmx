@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Content&lt;/f0&gt;: According to whether Table or Query was chosen above, all &lt;f1&gt;available tables and queries &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;are&lt;/f3&gt;&lt;/f2&gt; listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205428Z" creationid="Marco Marega" creationdate="20171014T205428Z">
+        <seg>&lt;f0&gt;Contenuto&lt;/f0&gt;: a seconda che sopra sia stato selezionato sopra Tabella o Query, vengono elencate &lt;f1&gt;tutte le tabelle e le query &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: Context menu for form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140712Z" creationid="Marco Marega" creationdate="20171014T140712Z">
