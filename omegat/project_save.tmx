@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This calls up the Form Editor and the Form Shown in Design View window appears (Fig&lt;f0&gt;ure&lt;/f0&gt; &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132809Z" creationid="Marco Marega" creationdate="20171014T132809Z">
+        <seg>Questa funzione richiama la finestra di modifica dei Formulari e appare il Formulario in vista struttura (Figura&lt;f0&gt;&lt;/f0&gt; &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2013&lt;/f1&gt; by its contributors as listed below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105527Z" creationid="ldaghino" creationdate="20171002T105527Z">
