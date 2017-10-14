@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, suppose you choose a text field: the cursor changes shape and a rectangular shape may be drawn on the white surface of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182120Z" creationid="Marco Marega" creationdate="20171014T182120Z">
+        <seg>Per esempio, supponete di scegliere un campo di testo: il cursore cambia forma e diventa possibile disegnare una sagoma rettangolare sulla superficie bianca del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forms are used whe&lt;f0&gt;n&lt;/f0&gt; direct entry into a table is inconvenient, to pick up errors in data entry promptly, or when too many tables make direct management of data impossible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183652Z" creationid="Marco Marega" creationdate="20171013T183652Z">
