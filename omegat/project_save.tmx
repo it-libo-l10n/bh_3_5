@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Analy&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;z&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;e SQL command&lt;/f3&gt;: If the &lt;f4&gt;a&lt;/f4&gt;nalysis of SQL commands should not be permitted (because, for example, you are using code that the GUI cannot show correctly), you should choose &lt;f5&gt;No&lt;/f5&gt; here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205943Z" creationid="Marco Marega" creationdate="20171014T205943Z">
+        <seg>&lt;f0&gt;Analizza&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;comando SQL&lt;/f3&gt;: Se volete che l'&lt;f4&gt;analisi&lt;/f4&gt; del comando SQL non sia premessa (ad esempio, perché state usando del codice che l'Interfaccia Grafica non può visualizzare correttamente), qui dovrete scegliere &lt;f5&gt;No&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chapter 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085757Z" creationid="Marina Latini" creationdate="20171003T085757Z">
         <seg>Icone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a SQL command is to be created, you can invoke the Query Editor by using the button with the three dots to the right of the Content field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
+        <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
       </tuv>
     </tu>
     <tu>
