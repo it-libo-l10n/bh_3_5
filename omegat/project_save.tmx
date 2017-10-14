@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;T&lt;/f1&gt;he symbols at the right end of the Form Design toolbar &lt;f2&gt;show t&lt;/f2&gt;hat the grid is visible and active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
+        <seg>&lt;f1&gt;I&lt;/f1&gt;simboli all'estremità destra della barra strumenti Struttura del formulario &lt;f2&gt;indica &lt;/f2&gt;che la griglia è visibile e attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
         <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Form &lt;f1&gt;s&lt;/f1&gt;hown in Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133608Z" creationid="Marco Marega" creationdate="20171014T133608Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Formulario &lt;f1&gt;&lt;/f1&gt;visualizzato in Vista struttura</seg>
       </tuv>
     </tu>
     <tu>
