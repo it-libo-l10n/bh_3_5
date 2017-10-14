@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Here you can change the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Name&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183212Z" creationid="Marco Marega" creationdate="20171014T183212Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Qui potete modificare il &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Nome&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General &lt;f0&gt;tab&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183152Z" creationid="Marco Marega" creationdate="20171014T183152Z">
+        <seg>Scheda &lt;f0&gt;generale&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General notes on the creation of a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090623Z" creationid="Marina Latini" creationdate="20171003T090623Z">
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition there are design possibilities that have no significance inside Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183405Z" creationid="Marco Marega" creationdate="20171014T183405Z">
+        <seg>In aggiunta ci sono delle possibilità di progettazione che non hanno rilevanza all'interno di Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
         <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They show only the more general possibilities for design using a form editor; when you create a Web form you will need to use them.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183903Z" creationid="Marco Marega" creationdate="20171014T183903Z">
+        <seg>Queste mostrano solo delle opzioni generiche per progettare formulari con l'utilizzo di un programma; se creerete dei formulari per il Web avrete bisogno di usarle.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
