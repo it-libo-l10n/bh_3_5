@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A window appears &lt;f8&gt;(Figure &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;23&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;); &lt;/f11&gt;&lt;f12&gt;it&lt;/f12&gt; shows only one folder, labeled &lt;f13&gt;Forms&lt;/f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134728Z" creationid="Marco Marega" creationdate="20171014T134728Z">
+        <seg>Compare una finestra &lt;f8&gt;(Figura &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;23&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;); &lt;/f11&gt;&lt;f12&gt;che&lt;/f12&gt; contiene solo una cartella denominata &lt;f13&gt;Moduli&lt;/f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessing external databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090747Z" creationid="Marina Latini" creationdate="20171003T090747Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
         <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the highest level of the area &lt;f14&gt;t&lt;/f14&gt;h&lt;f15&gt;at&lt;/f15&gt; we are editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134815Z" creationid="Marco Marega" creationdate="20171014T134815Z">
+        <seg>Questa rappresenta il livello più alto dell'area &lt;f14&gt;che&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt; stiamo modificando.</seg>
       </tuv>
     </tu>
     <tu>
