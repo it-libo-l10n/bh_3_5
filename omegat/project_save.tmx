@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: Context menu for form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140712Z" creationid="Marco Marega" creationdate="20171014T140712Z">
+        <seg>&lt;f0&gt;Figura&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: menu contestuale per i formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;23&lt;/seq1&gt;: Using the Form Navigator to create a new form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135047Z" creationid="Marco Marega" creationdate="20171014T135047Z">
@@ -696,8 +704,8 @@
       <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135551Z" creationid="Marco Marega" creationdate="20171014T135551Z">
-        <seg>Il formulario ha il nome predefinito &lt;f0&gt;Formulario1&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
+        <seg>Il formulario ha il nome predefinito &lt;f0&gt;Formulario&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
         <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select a form control, you automatically create a f&lt;f0&gt;orm&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140810Z" creationid="Marco Marega" creationdate="20171014T140810Z">
+        <seg>Quando selezionate un campo di controllo, automaticamente create un &lt;f0&gt;formulario&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
