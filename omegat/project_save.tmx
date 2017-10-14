@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Form &lt;f0&gt;p&lt;/f0&gt;roperties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182818Z" creationid="Marco Marega" creationdate="20171014T182731Z">
+        <seg>Proprietà &lt;f0&gt;modulo&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forms are used whe&lt;f0&gt;n&lt;/f0&gt; direct entry into a table is inconvenient, to pick up errors in data entry promptly, or when too many tables make direct management of data impossible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183652Z" creationid="Marco Marega" creationdate="20171013T183652Z">
@@ -734,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form has the default name Form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182713Z" creationid="Marco Marega" creationdate="20171014T182713Z">
+        <seg>Il formulario ha il nome predefinito Formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The only thing you need to ensure is that two elements with the same name do not occur on the same level in the folder tree.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135945Z" creationid="Marco Marega" creationdate="20171014T135945Z">
@@ -866,6 +882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
         <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the form properties are called up using the context menu in the Form Navigator or the context menu of a form control, a &lt;f0&gt;Form Properties &lt;/f0&gt;window appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182846Z" creationid="Marco Marega" creationdate="20171014T182801Z">
+        <seg>Quando When the form properties are called up using the context menu in the Form Navigator or the context menu of a form control, a &lt;f0&gt;Form Properties &lt;/f0&gt;window appears.</seg>
       </tuv>
     </tu>
     <tu>
