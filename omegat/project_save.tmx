@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;nvoke the Form Navigator to set up a form, or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134252Z" creationid="Marco Marega" creationdate="20171014T134252Z">
+        <seg>&lt;f0&gt;Invocando&lt;/f0&gt;il Navigatore formulario per impostare un formulario, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Jochen Schiffers&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085013Z" creationid="Marina Latini" creationdate="20171003T085013Z">
@@ -422,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now we will create a form on the empty page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133720Z" creationid="Marco Marega" creationdate="20171014T133720Z">
+        <seg>Ora creerete un formulario su di una pagina vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One database is &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;named&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_without_macros.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; and the other, extended with the inclusion of macros, is &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;nam&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ed &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_with_macros.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T195831Z" creationid="osvaldo" creationdate="20171012T195831Z">
@@ -558,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done in &lt;f0&gt;two&lt;/f0&gt; ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133743Z" creationid="Marco Marega" creationdate="20171014T133743Z">
+        <seg>Ciò può essere fatto in &lt;f0&gt;due&lt;/f0&gt; modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2013&lt;/f1&gt; by its contributors as listed below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105527Z" creationid="ldaghino" creationdate="20171002T105527Z">
@@ -570,6 +594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
         <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars for &lt;f0&gt;f&lt;/f0&gt;orm design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133633Z" creationid="Marco Marega" creationdate="20171014T133633Z">
+        <seg>Barre degli strumenti per la creazione di &lt;f0&gt;&lt;/f0&gt;formulari</seg>
       </tuv>
     </tu>
     <tu>
