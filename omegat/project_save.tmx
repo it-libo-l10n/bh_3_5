@@ -126,10 +126,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Add data only&lt;/f0&gt;: If you choose this option, an empty form will always be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210925Z" creationid="Marco Marega" creationdate="20171014T210925Z">
+        <seg>&lt;f0&gt;Aggiungi solo i dati&lt;/f0&gt;: Se selezionate questa opzione, verrà sempre visualizzato un formulario vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Allow additions&lt;/f0&gt;: Should the entry of new data be allowed?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210518Z" creationid="Marco Marega" creationdate="20171014T210518Z">
         <seg>&lt;f0&gt;Aggiungi dati&lt;/f0&gt;: Dev'essere permesso l'inserimento di nuovi dati?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Allow deletions&lt;/f0&gt;: The deletion of data is also allowed by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210827Z" creationid="Marco Marega" creationdate="20171014T210827Z">
+        <seg>&lt;f0&gt;Elimina dati&lt;/f0&gt;: Per impostazione predefinita anche l'eliminazione di dati è permessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Allow modifications&lt;/f0&gt;: Should editing of the data be allowed?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210638Z" creationid="Marco Marega" creationdate="20171014T210638Z">
+        <seg>&lt;f0&gt;Modifica dati&lt;/f0&gt;: Dev'essere permessa la modifica dei dati?</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070553Z" creationid="ldaghino" creationdate="20171003T070553Z">
         <seg>Basato su LibreOffice &lt;f3&gt;3.&lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default also &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210715Z" creationid="Marco Marega" creationdate="20171014T210715Z">
+        <seg>Anche per questo il valore predefinito è &lt;f1&gt;Si&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
