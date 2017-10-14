@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is also a possibility, when you have a subform, always to show the Navigation Bar for the main form, so that activation of this toolbar affects the main form only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211520Z" creationid="Marco Marega" creationdate="20171014T211520Z">
+        <seg>C'è anche la possibilità, nel caso abbiate un formulario secondario, di visualizzare sempre la barra di navigazione nel formulario principale, cosicché l'attivazione di questa barra ha effetto solo sul formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There will be no access to existing data, &lt;f1&gt;which&lt;/f1&gt; can neither be edited nor viewed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211020Z" creationid="Marco Marega" creationdate="20171014T211020Z">
