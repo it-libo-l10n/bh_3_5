@@ -470,6 +470,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Form Controls toolbar is docked on the left side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132906Z" creationid="Marco Marega" creationdate="20171014T132906Z">
+        <seg>La barra degli strumenti Controlli per formulario è agganciata sul lato sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Form Design toolbar &lt;f0&gt;(Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;22&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) &lt;/f3&gt;is docked at the bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133011Z" creationid="Marco Marega" creationdate="20171014T133011Z">
+        <seg>La barre degli strumenti Struttura del formulario &lt;f0&gt;(Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;22&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) &lt;/f3&gt;è agganciata in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GUI in L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt; takes up this command, but unfortunately prefaces the statement with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NOT NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, so that the command sequence for HSQLDB is not readable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084412Z" creationid="Marina Latini" creationdate="20171003T084412Z">
