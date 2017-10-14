@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then, on the stippled surface of the form, a text field appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182409Z" creationid="Marco Marega" creationdate="20171014T182130Z">
+        <seg>Quindi, sulla superficie tratteggiata dalla sagoma, appare un campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These controls are divided by the&lt;/f5&gt;&lt;f6&gt; GUI into various types.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
