@@ -646,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The context menu of the form (shown below) provides the way to create form properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140057Z" creationid="Marco Marega" creationdate="20171014T140057Z">
+        <seg>Il menu contestuale del formulario (mostrato sotto) fornisce il modo per creare le proprietà del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135551Z" creationid="Marco Marega" creationdate="20171014T135551Z">
         <seg>Il formulario ha il nome predefinito &lt;f0&gt;Formulario1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only thing you need to ensure is that two elements with the same name do not occur on the same level in the folder tree.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135945Z" creationid="Marco Marega" creationdate="20171014T135945Z">
+        <seg>L'unica cosa di cui dovrete assicurarvi è che, nello stesso livello dell'albero delle cartelle, non siano presenti due elementi con nomi identici.</seg>
       </tuv>
     </tu>
     <tu>
