@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To display t&lt;/f0&gt;he &lt;f1&gt;Form &lt;/f1&gt;Navigator, &lt;f2&gt;click &lt;/f2&gt;the Form Navigator &lt;f3&gt;b&lt;/f3&gt;utton &lt;f4&gt;(&lt;/f4&gt;shown in &lt;f5&gt;F&lt;/f5&gt;igure &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
+        <seg>&lt;f0&gt;Per visualizzare &lt;/f0&gt;il &lt;f1&gt;Navigatore &lt;/f1&gt;formulario, &lt;f2&gt;fate clic &lt;/f2&gt;sul pulsante Navigatore formulario &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;mostrato nella &lt;f5&gt;&lt;/f5&gt;Figura &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;T&lt;/f1&gt;he symbols at the right end of the Form Design toolbar &lt;f2&gt;show t&lt;/f2&gt;hat the grid is visible and active.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090422Z" creationid="Marina Latini" creationdate="20171003T090422Z">
         <seg>Inserimento dei dati direttamente in una tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Design the form controls and set up the form by using the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134413Z" creationid="Marco Marega" creationdate="20171014T134413Z">
+        <seg>Disegnando i campi di controllo e impostando il formulario usando il menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090536Z" creationid="Marina Latini" creationdate="20171003T090536Z">
         <seg>Rapporti – presentazione dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a &lt;f0&gt;f&lt;/f0&gt;orm with the &lt;f1&gt;Form &lt;/f1&gt;Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134444Z" creationid="Marco Marega" creationdate="20171014T134444Z">
+        <seg>Impostare un &lt;f0&gt;formulario&lt;/f0&gt; con il &lt;f1&gt;Navigatore formulario&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
