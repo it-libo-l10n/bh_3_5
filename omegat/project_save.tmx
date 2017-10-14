@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;s0/&gt;&lt;seq1&gt;24&lt;/seq1&gt;: Available &lt;f2&gt;b&lt;/f2&gt;uttons on the Form Controls &lt;f3&gt;t&lt;/f3&gt;oolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140521Z" creationid="Marco Marega" creationdate="20171014T140521Z">
+        <seg>Figura &lt;s0/&gt;&lt;seq1&gt;24&lt;/seq1&gt;: Pulsanti &lt;f2&gt;disponibili&lt;/f2&gt; nella barra degli strumenti Controlli per formulario&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Form &lt;f1&gt;s&lt;/f1&gt;hown in Design View</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133608Z" creationid="Marco Marega" creationdate="20171014T133608Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135012Z" creationid="Marco Marega" creationdate="20171014T135012Z">
         <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: pulsanti disponibili &lt;f1&gt;nella &lt;/f1&gt; barra degli strumenti Struttura formulario&lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Available &lt;f1&gt;b&lt;/f1&gt;uttons on the More Controls &lt;f2&gt;t&lt;/f2&gt;oolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140630Z" creationid="Marco Marega" creationdate="20171014T140630Z">
+        <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: Pulsanti &lt;f1&gt;disponibili&lt;/f1&gt; nella barra degli strumenti Altri campi di controllo&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
