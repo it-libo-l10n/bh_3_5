@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Section of the destination website to be addressed where necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Sezione del sito web di destinazione al quale indirizzare, se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;nvoke the Form Navigator to set up a form, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134252Z" creationid="Marco Marega" creationdate="20171014T134252Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
         <seg>&lt;f0&gt;Per visualizzare &lt;/f0&gt;il &lt;f1&gt;Navigatore &lt;/f1&gt;formulario, &lt;f2&gt;fate clic &lt;/f2&gt;sul pulsante Navigatore formulario &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;mostrato nella &lt;f5&gt;&lt;/f5&gt;Figura &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;URL&lt;/f0&gt;: Destination for the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183935Z" creationid="Marco Marega" creationdate="20171014T183935Z">
+        <seg>&lt;f0&gt;URL&lt;/f0&gt;: Destinazione dei dati.</seg>
       </tuv>
     </tu>
     <tu>
