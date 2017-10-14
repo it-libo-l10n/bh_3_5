@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
+        <seg>&lt;f0&gt;Barra di navigazione&lt;/f0&gt;: Permette di attivare o disattivare la visualizzazione della barra di navigazione in &lt;f1&gt;fondo&lt;/f1&gt; allo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Robert Großkopf&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085054Z" creationid="Marina Latini" creationdate="20171003T085054Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182409Z" creationid="Marco Marega" creationdate="20171014T182130Z">
         <seg>Quindi, sulla superficie tratteggiata dalla sagoma, appare un campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There will be no access to existing data, &lt;f1&gt;which&lt;/f1&gt; can neither be edited nor viewed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211020Z" creationid="Marco Marega" creationdate="20171014T211020Z">
+        <seg>Non ci sarà alcun accesso ai dati esistenti, &lt;f1&gt;che&lt;/f1&gt; non potranno essere né modificati né visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
