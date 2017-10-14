@@ -118,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;23&lt;/seq1&gt;: Using the Form Navigator to create a new form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135047Z" creationid="Marco Marega" creationdate="20171014T135047Z">
+        <seg>&lt;f0&gt;Figura&lt;/f0&gt; &lt;seq1&gt;23&lt;/seq1&gt;: Utilizzo del Navigatore formulario per creare un nuovo formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;nvoke the Form Navigator to set up a form, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134252Z" creationid="Marco Marega" creationdate="20171014T134252Z">
         <seg>&lt;f0&gt;Invocando&lt;/f0&gt;il Navigatore formulario per impostare un formulario, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In the Form Navigator (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;23&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), r&lt;/f3&gt;ight-click on &lt;f4&gt;Forms&lt;/f4&gt; &lt;f5&gt;to&lt;/f5&gt; open a context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135152Z" creationid="Marco Marega" creationdate="20171014T135152Z">
+        <seg>&lt;f0&gt;Nel Navigatore formulario (Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;23&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), fate clic con il tasto &lt;/f3&gt;destro del mouse su &lt;f4&gt;Moduli&lt;/f4&gt; &lt;f5&gt;in modo da&lt;/f5&gt; aprire un menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
         <seg>&lt;f0&gt;Per visualizzare &lt;/f0&gt;il &lt;f1&gt;Navigatore &lt;/f1&gt;formulario, &lt;f2&gt;fate clic &lt;/f2&gt;sul pulsante Navigatore formulario &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;mostrato nella &lt;f5&gt;&lt;/f5&gt;Figura &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f16&gt;S&lt;/f16&gt;everal forms can be accommodated here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134848Z" creationid="Marco Marega" creationdate="20171014T134848Z">
+        <seg>&lt;f16&gt;Qui&lt;/f16&gt; possono trovare spazio diversi formulari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133608Z" creationid="Marco Marega" creationdate="20171014T133608Z">
         <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Formulario &lt;f1&gt;&lt;/f1&gt;visualizzato in Vista struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Available &lt;f1&gt;b&lt;/f1&gt;uttons on the Form Design &lt;f2&gt;t&lt;/f2&gt;oolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135012Z" creationid="Marco Marega" creationdate="20171014T135012Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: pulsanti disponibili &lt;f1&gt;nella &lt;/f1&gt; barra degli strumenti Struttura formulario&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
