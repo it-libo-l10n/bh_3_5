@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
+        <seg>Qui abbiamo a che fare con una query che non è visibile nella sezione Ricerche di Base, ma in linea di principio ha la medesima struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can set the following initial properties for the form:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T185018Z" creationid="Marco Marega" creationdate="20171014T185018Z">
