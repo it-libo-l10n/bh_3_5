@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f11&gt;The &lt;f12&gt;o&lt;/f12&gt;ther&lt;f13&gt; &lt;/f13&gt;c&lt;f14&gt;hoice&lt;/f14&gt;s in the context menu &lt;f15&gt;(&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Open in Design Mode&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; and &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Automatic Control Focus&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;) &lt;/f21&gt;correspond to &lt;f22&gt;b&lt;/f22&gt;uttons in Fig&lt;f23&gt;ure&lt;/f23&gt; &lt;t24&gt;22&lt;/t24&gt;; &lt;f25&gt;we will discuss them later.&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135502Z" creationid="Marco Marega" creationdate="20171014T135502Z">
+        <seg>&lt;/f11&gt;Le&lt;f12&gt; &lt;/f12&gt;altre&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;scelte&lt;/f14&gt; nel menu contestuale&lt;f15&gt;(&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Apri nel modo bozza&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; e &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Punto focale automatico di controllo&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;) &lt;/f21&gt;corrispondono &lt;f22&gt;ai &lt;/f22&gt;pulsanti nella &lt;f23&gt;Figura&lt;/f23&gt; &lt;t24&gt;22&lt;/t24&gt;; &lt;f25&gt;che verranno trattati in seguito.&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Introduction to Base&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185244Z" creationid="osvaldo" creationdate="20171012T185244Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
         <seg>&lt;f1&gt;I&lt;/f1&gt;simboli all'estremità destra della barra strumenti Struttura del formulario &lt;f2&gt;indica &lt;/f2&gt;che la griglia è visibile e attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f6&gt;Choose&lt;/f6&gt; &lt;f7&gt;Ne&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;w &gt;&lt;/f9&gt;&lt;/f8&gt; &lt;f10&gt;Form&lt;/f10&gt; &lt;f11&gt;to create a new form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135258Z" creationid="Marco Marega" creationdate="20171014T135258Z">
+        <seg>&lt;f6&gt;Scegliete&lt;/f6&gt; &lt;f7&gt;Nuovo&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &gt;&lt;/f9&gt;&lt;/f8&gt; &lt;f10&gt;Formulario&lt;/f10&gt; &lt;f11&gt;per creare un nuovo formulario.</seg>
       </tuv>
     </tu>
     <tu>
