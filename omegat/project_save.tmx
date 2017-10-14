@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Events&lt;/f0&gt; can trigger macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212525Z" creationid="Marco Marega" creationdate="20171014T212525Z">
+        <seg>Gli&lt;f0&gt;Eventi&lt;/f0&gt; possono attivare delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: Context menu for form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140712Z" creationid="Marco Marega" creationdate="20171014T140712Z">
@@ -398,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A click on the button on the right (…) allows macros to be linked to the event.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212709Z" creationid="Marco Marega" creationdate="20171014T212709Z">
+        <seg>Un clic sul pulsante a destra (…) permette di collegare una macro all'evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134413Z" creationid="Marco Marega" creationdate="20171014T134413Z">
         <seg>Disegnando i campi di controllo e impostando il formulario usando il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Events &lt;f0&gt;tab&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212459Z" creationid="Marco Marega" creationdate="20171014T212459Z">
+        <seg>Scheda &lt;f0&gt;Eventi&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
