@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f10&gt;Current page&lt;/f10&gt; refers particularly to HTML Forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212334Z" creationid="Marco Marega" creationdate="20171014T212334Z">
+        <seg>&lt;f10&gt;Pagina corrente&lt;/f10&gt; si riferisce a particolari formulari in HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f16&gt;S&lt;/f16&gt;everal forms can be accommodated here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134848Z" creationid="Marco Marega" creationdate="20171014T134848Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070553Z" creationid="ldaghino" creationdate="20171003T070553Z">
         <seg>Basato su LibreOffice &lt;f3&gt;3.&lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, if you choose &lt;f9&gt;Active record&lt;/f9&gt;, the cursor will move only within the record; when it reaches the last field, it will jump back to the first field in that record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212301Z" creationid="Marco Marega" creationdate="20171014T212301Z">
+        <seg>Al contrario, se selezionate &lt;f9&gt;Record attivo&lt;/f9&gt;, il cursore si sposta solo all'interno del record corrente; quando raggiunge l'ultimo campo ritorna al primo campo dello stesso record.</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140057Z" creationid="Marco Marega" creationdate="20171014T140057Z">
         <seg>Il menu contestuale del formulario (mostrato sotto) fornisce il modo per creare le proprietà del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cursor jumps from the end of a form to the next form on that page further down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212446Z" creationid="Marco Marega" creationdate="20171014T212446Z">
+        <seg>Il cursore passa dalla fine di un formulario al formulario successivo più in basso nella stessa pagina.</seg>
       </tuv>
     </tu>
     <tu>
