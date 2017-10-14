@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;It has&lt;/f1&gt; three tabs: &lt;f2&gt;General&lt;/f2&gt;, &lt;f3&gt;Data&lt;/f3&gt; and &lt;f4&gt;Events.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183134Z" creationid="Marco Marega" creationdate="20171014T183134Z">
+        <seg>&lt;f1&gt;Questa contiene&lt;/f1&gt; tre schede: &lt;f2&gt;Generale&lt;/f2&gt;, &lt;f3&gt;Dati&lt;/f3&gt; ed &lt;f4&gt;Eventi.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;T&lt;/f1&gt;he symbols at the right end of the Form Design toolbar &lt;f2&gt;show t&lt;/f2&gt;hat the grid is visible and active.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
@@ -448,8 +456,8 @@
       <tuv lang="EN">
         <seg>Form &lt;f0&gt;p&lt;/f0&gt;roperties</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182818Z" creationid="Marco Marega" creationdate="20171014T182731Z">
-        <seg>Proprietà &lt;f0&gt;modulo&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182855Z" creationid="Marco Marega" creationdate="20171014T182731Z">
+        <seg>Proprietà del &lt;f0&gt;formulario&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +896,8 @@
       <tuv lang="EN">
         <seg>When the form properties are called up using the context menu in the Form Navigator or the context menu of a form control, a &lt;f0&gt;Form Properties &lt;/f0&gt;window appears.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182846Z" creationid="Marco Marega" creationdate="20171014T182801Z">
-        <seg>Quando When the form properties are called up using the context menu in the Form Navigator or the context menu of a form control, a &lt;f0&gt;Form Properties &lt;/f0&gt;window appears.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183104Z" creationid="Marco Marega" creationdate="20171014T182801Z">
+        <seg>Quando vengono richiamate le proprietà del formulario usanndo il menu contestuale del Navigatore formulario o di un campo di controllo, appare una finestra &lt;f0&gt;Proprietà modulo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
