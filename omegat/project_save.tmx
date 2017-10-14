@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cycle&lt;/f0&gt;: The &lt;f1&gt;&lt;f2&gt;D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;efault&lt;/f4&gt;&lt;/f3&gt; option for Base databases is that after entry into the last field in a form, the &lt;f5&gt;T&lt;/f5&gt;ab key &lt;f6&gt;takes you&lt;/f6&gt; to the first field of the next record – that is, a new record will be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212015Z" creationid="Marco Marega" creationdate="20171014T212015Z">
+        <seg>&lt;f0&gt;Ciclo&lt;/f0&gt;: Nei database di Base l'&lt;f1&gt;&lt;f2&gt;impostazione &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;predefinita&lt;/f4&gt;&lt;/f3&gt; prevede che dopo l'inserimento nell'ultimo campo di un formulario, il tasto &lt;f5&gt;Tab&lt;/f5&gt; &lt;f6&gt;vi porti&lt;/f6&gt; al primo campo del record successivo – il che equivale a creare un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: Context menu for form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140712Z" creationid="Marco Marega" creationdate="20171014T140712Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134815Z" creationid="Marco Marega" creationdate="20171014T134815Z">
         <seg>Questa rappresenta il livello più alto dell'area &lt;f14&gt;che&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt; stiamo modificando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting for the Navigation Bar is not relevant to the internal navigation toolbar that can be added as a form control if required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211656Z" creationid="Marco Marega" creationdate="20171014T211656Z">
+        <seg>Questa impostazione della barra di navigazione è irrilevante per la barra di navigazione interna che, se richiesto, può essere aggiunta come campo di controllo.</seg>
       </tuv>
     </tu>
     <tu>
