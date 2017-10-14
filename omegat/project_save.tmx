@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select t&lt;/f0&gt;he &lt;f1&gt;Form&lt;/f1&gt; menu option &lt;f2&gt;(highlighted in the illustration) &lt;/f2&gt;to set properties for the form you have just created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182648Z" creationid="Marco Marega" creationdate="20171014T182648Z">
+        <seg>&lt;f0&gt;Dal menu selezionate &lt;/f0&gt;l'opzione &lt;f1&gt;Formulario&lt;/f1&gt; &lt;f2&gt;(evidenziata nell'illustrazione) &lt;/f2&gt;per impostare le proprietà per il formulario che avete appena creato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;his handbook &lt;f1&gt;describes&lt;/f1&gt; the creation of a form without &lt;f2&gt;using&lt;/f2&gt; the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185003Z" creationid="Marco Marega" creationdate="20171013T185003Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133720Z" creationid="Marco Marega" creationdate="20171014T133720Z">
         <seg>Ora creerete un formulario su di una pagina vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you can create the form &lt;f0&gt;by right-clicking and &lt;/f0&gt;using the &lt;f1&gt;context menu&lt;/f1&gt; for the control &lt;f2&gt;(Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;1&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182513Z" creationid="Marco Marega" creationdate="20171014T182513Z">
+        <seg>Ora potete creare il formulario &lt;f0&gt;facendo clic con il pulsante destro del mouse &lt;/f0&gt;e usando il &lt;f1&gt;menu contestuale&lt;/f1&gt; del campo di controllo &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;1&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
