@@ -208,8 +208,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Submission encoding&lt;/f0&gt;: &lt;f1&gt;in addition to&lt;/f1&gt; the normal character encoding for transmission to the URL, you can specify here text encoding and multipart coding (for example, for transfer of data&lt;f2&gt;).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184503Z" creationid="Marco Marega" creationdate="20171014T184503Z">
-        <seg>&lt;f0&gt;Codifica all'invio&lt;/f0&gt;: &lt;f1&gt;in aggiunta&lt;/f1&gt; alla normale codifica dei caratteri per la trasmissione all'URL, qui potete specificare la codifica del testo e la codifica per diverse parti (ad esempio per il trasferimento dei dati&lt;f2&gt;).&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184624Z" creationid="Marco Marega" creationdate="20171014T184503Z">
+        <seg>&lt;f0&gt;Codifica all'invio&lt;/f0&gt;: &lt;f1&gt;in aggiunta&lt;/f1&gt; alla normale codifica dei caratteri per la trasmissione all'URL, qui potete specificare la codifica di tipo Testo o Multipart (ad esempio per il trasferimento dei dati&lt;f2&gt;).&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
         <seg>&lt;f0&gt;Per visualizzare &lt;/f0&gt;il &lt;f1&gt;Navigatore &lt;/f1&gt;formulario, &lt;f2&gt;fate clic &lt;/f2&gt;sul pulsante Navigatore formulario &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;mostrato nella &lt;f5&gt;&lt;/f5&gt;Figura &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Type of submission&lt;/f0&gt;: GET (visible via the URL attached to the filename; you can see this often in the web if you use a search engine) or POST (not visible; suitable for large data volumes).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184824Z" creationid="Marco Marega" creationdate="20171014T184545Z">
+        <seg>&lt;f0&gt;Tipo di submission&lt;/f0&gt;: GET (visibile nell'URL attaccato al nome del file; se usate un motore di ricerca potete vedere spesso questo tipo di comportamento) oppure POST (non visibile; indicato per grandi quantità di dati).</seg>
       </tuv>
     </tu>
     <tu>
