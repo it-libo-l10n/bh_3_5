@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For &lt;t7/&gt;databases, this has the same effect as &lt;f8&gt;All records&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212103Z" creationid="Marco Marega" creationdate="20171014T212103Z">
+        <seg>Per i &lt;t7/&gt;database, questo ha lo stesso effetto di &lt;f8&gt;Tutti i record&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For creating internal forms in Base, this is the most important tab.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184925Z" creationid="Marco Marega" creationdate="20171014T184925Z">
