@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Submission encoding&lt;/f0&gt;: &lt;f1&gt;in addition to&lt;/f1&gt; the normal character encoding for transmission to the URL, you can specify here text encoding and multipart coding (for example, for transfer of data&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184503Z" creationid="Marco Marega" creationdate="20171014T184503Z">
+        <seg>&lt;f0&gt;Codifica all'invio&lt;/f0&gt;: &lt;f1&gt;in aggiunta&lt;/f1&gt; alla normale codifica dei caratteri per la trasmissione all'URL, qui potete specificare la codifica del testo e la codifica per diverse parti (ad esempio per il trasferimento dei dati&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;his handbook &lt;f1&gt;describes&lt;/f1&gt; the creation of a form without &lt;f2&gt;using&lt;/f2&gt; the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185003Z" creationid="Marco Marega" creationdate="20171013T185003Z">
