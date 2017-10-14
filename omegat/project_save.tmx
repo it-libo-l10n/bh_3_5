@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -146,6 +146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185003Z" creationid="Marco Marega" creationdate="20171013T185003Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;Questo manuale &lt;f1&gt;descrive&lt;/f1&gt; la creazione di un formulario senza &lt;f2&gt;l'utilizzo&lt;/f2&gt; della procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
+        <seg>Un semplice &lt;f0&gt;&lt;/f0&gt;formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105432Z" creationid="ldaghino" creationdate="20171002T105432Z">
         <seg>Versione 3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We start by using the task &lt;f0&gt;Create &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;F&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;orm in Design View &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;in the Forms area &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;of the main Base window.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132451Z" creationid="Marco Marega" creationdate="20171014T132451Z">
+        <seg>Iniziate usando la funzione &lt;f0&gt;Crea &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formulario&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in vista struttura&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; nell'area Formulari &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;della finestra principale di Base.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
