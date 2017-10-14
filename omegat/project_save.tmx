@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data &lt;f0&gt;tab&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184838Z" creationid="Marco Marega" creationdate="20171014T184838Z">
+        <seg>Scheda &lt;f0&gt;dati&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data input directly into a table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090422Z" creationid="Marina Latini" creationdate="20171003T090422Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140630Z" creationid="Marco Marega" creationdate="20171014T140630Z">
         <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: Pulsanti &lt;f1&gt;disponibili&lt;/f1&gt; nella barra degli strumenti Altri campi di controllo&lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For creating internal forms in Base, this is the most important tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184925Z" creationid="Marco Marega" creationdate="20171014T184925Z">
+        <seg>Questa è la scheda più importante per la creazione di formulari interni a Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can set the following initial properties for the form:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T185018Z" creationid="Marco Marega" creationdate="20171014T185018Z">
+        <seg>Qui potete impostare le seguenti proprietà iniziali del formulario:</seg>
       </tuv>
     </tu>
     <tu>
