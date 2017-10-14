@@ -206,6 +206,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;You can change t&lt;/f1&gt;his name immediately or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135634Z" creationid="Marco Marega" creationdate="20171014T135634Z">
+        <seg>&lt;f1&gt;Potete cambiare &lt;/f1&gt;questo nome immediatamente o in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;I&lt;/f2&gt;t has no significance unless you need to access some part of the form using macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135742Z" creationid="Marco Marega" creationdate="20171014T135742Z">
+        <seg>&lt;f2&gt;Non&lt;/f2&gt; ha importanza a meno che non abbiate la necessità di accedere a qualche parte del formulario usando delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;Choose&lt;/f6&gt; &lt;f7&gt;Ne&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;w &gt;&lt;/f9&gt;&lt;/f8&gt; &lt;f10&gt;Form&lt;/f10&gt; &lt;f11&gt;to create a new form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135258Z" creationid="Marco Marega" creationdate="20171014T135258Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
         <seg>Nell'area bianca appare una griglia punteggiata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135551Z" creationid="Marco Marega" creationdate="20171014T135551Z">
+        <seg>Il formulario ha il nome predefinito &lt;f0&gt;Formulario1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
