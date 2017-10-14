@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If these toolbars do not appear automatically, use &lt;f4&gt;View &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Toolbars&lt;/f7&gt; to &lt;f8&gt;display&lt;/f8&gt; them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133112Z" creationid="Marco Marega" creationdate="20171014T133112Z">
+        <seg>Se queste due barre degli strumenti non compaiono automaticamente, usate &lt;f4&gt;Visualizza &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Barre degli strumenti&lt;/f7&gt; per &lt;f8&gt;visualizzarle&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
@@ -462,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Th&lt;f0&gt;is grid helps&lt;/f0&gt; you to position the controls accurately, especially in relation to each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133347Z" creationid="Marco Marega" creationdate="20171014T133347Z">
+        <seg>Questa&lt;f0&gt; griglia vi&lt;/f0&gt;aiuta a posizionare accuratamente i campi di controllo, specialmente l'uno rispetto all'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f5&gt;at&lt;/f5&gt; chapter also explains how &lt;f6&gt;you can further modify the form&lt;/f6&gt; after using the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184906Z" creationid="Marco Marega" creationdate="20171013T184906Z">
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084412Z" creationid="Marina Latini" creationdate="20171003T084412Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The blank area shows a grid of dots.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
+        <seg>Nell'area bianca appare una griglia punteggiata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085823Z" creationid="Marina Latini" creationdate="20171003T085823Z">
         <seg>Autori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without these toolbars, it is not possible to create a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133140Z" creationid="Marco Marega" creationdate="20171014T133140Z">
+        <seg>Senza queste barre degli strumenti non è possibile creare un formulario.</seg>
       </tuv>
     </tu>
     <tu>
