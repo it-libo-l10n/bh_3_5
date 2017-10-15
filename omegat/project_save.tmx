@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reloadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: This takes place when the content of the form is refreshed, for example by using a button on the Navigation Bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201308Z" creationid="Marco Marega" creationdate="20171015T201308Z">
+        <seg>&lt;f0&gt;Ricaricamento&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;: questo accade quando il contenuto di un formulario viene aggiornato, ad esempio usando un pulsante sulla Barra di navigazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reset&lt;/f0&gt;: The form is emptied of all new entries that have not yet been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200926Z" creationid="Marco Marega" creationdate="20171015T200847Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183935Z" creationid="Marco Marega" creationdate="20171014T183935Z">
         <seg>&lt;f0&gt;URL&lt;/f0&gt;: Destinazione dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Unloading&lt;/f0&gt;: &lt;f1&gt;T&lt;/f1&gt;his option seems not to function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201348Z" creationid="Marco Marega" creationdate="20171015T201348Z">
+        <seg>&lt;f0&gt;Scaricamento&lt;/f0&gt;: &lt;f1&gt;Questa&lt;/f1&gt; opzione sembra non funzionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
         <seg>Serve internamente a Base per permettere il contatto con il data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be expected to refer to the closing of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201430Z" creationid="Marco Marega" creationdate="20171015T201430Z">
+        <seg>Dovrebbe far riferimento alla chiusura del formulario.</seg>
       </tuv>
     </tu>
     <tu>
