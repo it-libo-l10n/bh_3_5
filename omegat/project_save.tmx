@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A frame around, for example, a set of option buttons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205831Z" creationid="Marco Marega" creationdate="20171015T205831Z">
+        <seg>Una cornice di delimitazione, ad esempio, per raggruppare un insieme di pulsanti di opzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
@@ -934,6 +942,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Group box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205630Z" creationid="Marco Marega" creationdate="20171015T205630Z">
+        <seg>Casella di gruppo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heading for the form, description of other controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205619Z" creationid="Marco Marega" creationdate="20171015T205619Z">
+        <seg>Intestazione per il formulario, descrizione per gli altri campi di controllo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help system</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
@@ -1074,6 +1098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201430Z" creationid="Marco Marega" creationdate="20171015T201430Z">
         <seg>Dovrebbe far riferimento alla chiusura del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Label field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205541Z" creationid="Marco Marega" creationdate="20171015T205541Z">
+        <seg>Testo fisso</seg>
       </tuv>
     </tu>
     <tu>
