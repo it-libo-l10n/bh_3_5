@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with forms, properties are grouped into three categories: General, Data and Events.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210536Z" creationid="Marco Marega" creationdate="20171015T210536Z">
+        <seg>Così come per i formulari, le proprietà sono suddivise in tre categorie: Generale, Dati ed Eventi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base Handbook</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T140716Z" creationid="ldaghino" creationdate="20171002T140716Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183152Z" creationid="Marco Marega" creationdate="20171014T183152Z">
         <seg>Scheda &lt;f0&gt;generale&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General comprises everything that is visible to the user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210615Z" creationid="Marco Marega" creationdate="20171015T210615Z">
+        <seg>Generale comprende tutto ciò che visibile all'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212446Z" creationid="Marco Marega" creationdate="20171014T212446Z">
         <seg>Il cursore passa dalla fine di un formulario al formulario successivo più in basso nella stessa pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data category specifies the binding to a field in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210721Z" creationid="Marco Marega" creationdate="20171015T210721Z">
+        <seg>La categoria dati specifica il legame con un campo del database.</seg>
       </tuv>
     </tu>
     <tu>
