@@ -590,6 +590,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205855Z" creationid="Marco Marega" creationdate="20171015T205855Z">
+        <seg>Pulsante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Button with label</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205905Z" creationid="Marco Marega" creationdate="20171015T205905Z">
+        <seg>Pulsante con un'etichetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, if you choose &lt;f9&gt;Active record&lt;/f9&gt;, the cursor will move only within the record; when it reaches the last field, it will jump back to the first field in that record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212301Z" creationid="Marco Marega" creationdate="20171014T212301Z">
@@ -750,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205839Z" creationid="Marco Marega" creationdate="20171015T205839Z">
+        <seg>Progettazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Design the form controls and set up the form by using the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134413Z" creationid="Marco Marega" creationdate="20171014T134413Z">
@@ -854,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File selector</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210050Z" creationid="Marco Marega" creationdate="20171015T210050Z">
+        <seg>Selezione file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For &lt;t7/&gt;databases, this has the same effect as &lt;f8&gt;All records&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212103Z" creationid="Marco Marega" creationdate="20171014T212103Z">
@@ -874,6 +906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182120Z" creationid="Marco Marega" creationdate="20171014T182120Z">
         <seg>Per esempio, supponete di scegliere un campo di testo: il cursore cambia forma e diventa possibile disegnare una sagoma rettangolare sulla superficie bianca del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For selecting files, for example to upload in an HTML form&lt;f0&gt;—&lt;/f0&gt;not further described</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210157Z" creationid="Marco Marega" creationdate="20171015T210157Z">
+        <seg>Per selezionare file, ad esempio per il caricamento in un formulario HTML &lt;f0&gt;—&lt;/f0&gt;non verrà ulteriormente descritto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Image Button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205909Z" creationid="Marco Marega" creationdate="20171015T205909Z">
+        <seg>Pulsante immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Image control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204931Z" creationid="Marco Marega" creationdate="20171015T204931Z">
@@ -1066,6 +1114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205454Z" creationid="Marco Marega" creationdate="20171015T205454Z">
         <seg>In questo campo di controllo sono integrati molti dei campi di controllo di cui sopra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interaction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205848Z" creationid="Marco Marega" creationdate="20171015T205848Z">
+        <seg>Interazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like a button, but with an additional graphic displayed on it</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205954Z" creationid="Marco Marega" creationdate="20171015T205954Z">
+        <seg>Come un pulsante, ma con sopra raffigurata un'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204209Z" creationid="Marco Marega" creationdate="20171015T204209Z">
@@ -1130,6 +1194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
         <seg>Database MySQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205958Z" creationid="Marco Marega" creationdate="20171015T205958Z">
+        <seg>Barra di navigazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210416Z" creationid="Marco Marega" creationdate="20171014T210416Z">
         <seg>Per ottenere un aiuto, fate clic sul pulsante alla destra del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbar very similar to the one at the bottom edge of the screen</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210036Z" creationid="Marco Marega" creationdate="20171015T210036Z">
+        <seg>Barre degli strumenti molto simile a quelle che si trova in fondo alla videata</seg>
       </tuv>
     </tu>
     <tu>
