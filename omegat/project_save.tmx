@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Can only be used with a macro&lt;f0&gt;—&lt;/f0&gt;not further described</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210242Z" creationid="Marco Marega" creationdate="20171015T210242Z">
+        <seg>Può essere usato solo con una macro&lt;f0&gt;—&lt;/f0&gt;non verrà ulteriormente descritto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203817Z" creationid="Marco Marega" creationdate="20171015T203817Z">
         <seg>Campo &lt;s0/&gt;data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default settings for many controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210413Z" creationid="Marco Marega" creationdate="20171015T210413Z">
+        <seg>Impostazioni predefinite per vari campi di controllo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scrollbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210256Z" creationid="Marco Marega" creationdate="20171015T210256Z">
+        <seg>Barra di scorrimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See also &lt;f1&gt;C&lt;/f1&gt;hapter &lt;f2&gt;3, &lt;/f2&gt;Tables, &lt;f3&gt;in this book&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210312Z" creationid="Marco Marega" creationdate="20171014T210312Z">
@@ -1386,6 +1410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
         <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spin box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210214Z" creationid="Marco Marega" creationdate="20171015T210214Z">
+        <seg>Pulsante di selezione</seg>
       </tuv>
     </tu>
     <tu>
