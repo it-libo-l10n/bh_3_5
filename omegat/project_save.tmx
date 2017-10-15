@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;adio button; &lt;f1&gt;a&lt;/f1&gt;llows you to choose &lt;f2&gt;from&lt;/f2&gt; a small number of possibilities</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204913Z" creationid="Marco Marega" creationdate="20171015T204913Z">
+        <seg>&lt;f0&gt;Pulsante&lt;/f0&gt; di scelta; &lt;f1&gt;vi&lt;/f1&gt; permette di scegliere &lt;f2&gt;tra&lt;/f2&gt; un numero limitato di possibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Record action&lt;/f0&gt;: This includes, for example, storage using a button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201604Z" creationid="Marco Marega" creationdate="20171015T201604Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090548Z" creationid="Marina Latini" creationdate="20171003T090548Z">
         <seg>Capitolo 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204715Z" creationid="Marco Marega" creationdate="20171015T204715Z">
+        <seg>Casella di controllo</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Image control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204931Z" creationid="Marco Marega" creationdate="20171015T204931Z">
+        <seg>Campo di controllo immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition there are design possibilities that have no significance inside Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183405Z" creationid="Marco Marega" creationdate="20171014T183405Z">
@@ -1122,6 +1146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T195831Z" creationid="osvaldo" creationdate="20171012T195831Z">
         <seg>Un database è &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;denominato&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_senza_macro.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; e l'altro, esteso mediante inclusione di macro, è &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;chiama&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;to &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_con_macro.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204816Z" creationid="Marco Marega" creationdate="20171015T204816Z">
+        <seg>Pulsante di opzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133140Z" creationid="Marco Marega" creationdate="20171014T133140Z">
         <seg>Senza queste barre degli strumenti non è possibile creare un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes/No Field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
+        <seg>Campo con valore Si o No</seg>
       </tuv>
     </tu>
     <tu>
