@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Error occurred:&lt;/f0&gt; This event could not be reconstructed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202754Z" creationid="Marco Marega" creationdate="20171015T202754Z">
+        <seg>&lt;f0&gt;Si è verificato un errore:&lt;/f0&gt; Questo evento non può essere predeterminato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Events&lt;/f0&gt; can trigger macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212525Z" creationid="Marco Marega" creationdate="20171014T212525Z">
@@ -842,6 +850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133112Z" creationid="Marco Marega" creationdate="20171014T133112Z">
         <seg>Se queste due barre degli strumenti non compaiono automaticamente, usate &lt;f4&gt;Visualizza &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Barre degli strumenti&lt;/f7&gt; per &lt;f8&gt;visualizzarle&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this event is not caught, a parameter query will follow the loading of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202608Z" creationid="Marco Marega" creationdate="20171015T202608Z">
+        <seg>Se questo evento non viene intercettato, al caricamento del formulario seguirà la richiesta del parametro.</seg>
       </tuv>
     </tu>
     <tu>
