@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integrated into this control are many of the above controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205454Z" creationid="Marco Marega" creationdate="20171015T205454Z">
+        <seg>In questo campo di controllo sono integrati molti dei campi di controllo di cui sopra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090116Z" creationid="Marina Latini" creationdate="20171003T090116Z">
@@ -1530,6 +1538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133633Z" creationid="Marco Marega" creationdate="20171014T133633Z">
         <seg>Barre degli strumenti per la creazione di &lt;f0&gt;&lt;/f0&gt;formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Universal entry module, which can display a whole table.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205342Z" creationid="Marco Marega" creationdate="20171015T205342Z">
+        <seg>Modulo di inserimento universale, che può visualizzare un'intera tabella.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
