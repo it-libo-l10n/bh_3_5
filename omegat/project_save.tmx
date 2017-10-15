@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reset&lt;/f0&gt;: The form is emptied of all new entries that have not yet been saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200847Z" creationid="Marco Marega" creationdate="20171015T200847Z">
+        <seg>&lt;f0&gt;Prima del ripristino&lt;/f0&gt;: Il formulario viene vuotato da tutti i nuovi inserimenti che non sono stati ancora salvati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Robert Großkopf&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085054Z" creationid="Marina Latini" creationdate="20171003T085054Z">
