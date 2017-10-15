@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display of images from a database and entry of images into a database via a path selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205107Z" creationid="Marco Marega" creationdate="20171015T205107Z">
+        <seg>Visualizza e inserisce delle immagini in un database tramite la selezione del percorso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203824Z" creationid="Marco Marega" creationdate="20171015T203824Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203853Z" creationid="Marco Marega" creationdate="20171015T203853Z">
         <seg>Inserimento di orari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entry into a preset mask; limits the entry possibilities to specific character combinations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205215Z" creationid="Marco Marega" creationdate="20171015T205215Z">
+        <seg>Inserimento in base a una maschera predefinita; limita la possibilità di inserimento ad una specifica combinazione di caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205111Z" creationid="Marco Marega" creationdate="20171015T205111Z">
+        <seg>Campo a maschera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please direct any comments or suggestions about this document to:&lt;f0&gt; &lt;/f0&gt;&lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085541Z" creationid="Marina Latini" creationdate="20171003T085541Z">
@@ -1250,6 +1274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
         <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205228Z" creationid="Marco Marega" creationdate="20171015T205228Z">
+        <seg>Campo di controllo tabella</seg>
       </tuv>
     </tu>
     <tu>
