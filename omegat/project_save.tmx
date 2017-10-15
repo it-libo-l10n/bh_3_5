@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Some &lt;/f2&gt;controls serve for additional graphical reworking of the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203401Z" creationid="Marco Marega" creationdate="20171015T203211Z">
-        <seg>&lt;f2&gt;Taluni&lt;/f2&gt; campi di controllo servono per for additional graphical reworking of the form.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203518Z" creationid="Marco Marega" creationdate="20171015T203211Z">
+        <seg>&lt;f2&gt;Taluni&lt;/f2&gt; campi di controllo servono per rimaneggiare ulteriormente l'aspetto del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203639Z" creationid="Marco Marega" creationdate="20171015T203639Z">
+        <seg>Campo di controllo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085033Z" creationid="Marina Latini" creationdate="20171003T085033Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184838Z" creationid="Marco Marega" creationdate="20171014T184838Z">
         <seg>Scheda &lt;f0&gt;dati&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data entry and Data display</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203635Z" creationid="Marco Marega" creationdate="20171015T203635Z">
+        <seg>Inserimento e visualizzazione dei dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203714Z" creationid="Marco Marega" creationdate="20171015T203714Z">
+        <seg>Campo di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f0&gt;is grid helps&lt;/f0&gt; you to position the controls accurately, especially in relation to each other.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133347Z" creationid="Marco Marega" creationdate="20171014T133347Z">
@@ -1322,6 +1346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133633Z" creationid="Marco Marega" creationdate="20171014T133633Z">
         <seg>Barre degli strumenti per la creazione di &lt;f0&gt;&lt;/f0&gt;formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203651Z" creationid="Marco Marega" creationdate="20171015T203651Z">
+        <seg>Utilizzo</seg>
       </tuv>
     </tu>
     <tu>
