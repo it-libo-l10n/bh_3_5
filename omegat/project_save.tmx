@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Combo box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204457Z" creationid="Marco Marega" creationdate="20171015T204457Z">
+        <seg>Casella combinata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
@@ -1202,6 +1210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134444Z" creationid="Marco Marega" creationdate="20171014T134444Z">
         <seg>Impostare un &lt;f0&gt;formulario&lt;/f0&gt; con il &lt;f1&gt;Navigatore formulario&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similar to a list field, but with only the displayed value transferred, or you can enter new values by hand</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
+        <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
       </tuv>
     </tu>
     <tu>
