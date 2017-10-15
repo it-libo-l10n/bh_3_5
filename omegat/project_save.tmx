@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a database without macros, this category plays no role.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210852Z" creationid="Marco Marega" creationdate="20171015T210852Z">
+        <seg>In un database senza macro, questa categoria non ha nessun ruolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition there are design possibilities that have no significance inside Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183405Z" creationid="Marco Marega" creationdate="20171014T183405Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184906Z" creationid="Marco Marega" creationdate="20171013T184906Z">
         <seg>Quel&lt;f5&gt;&lt;/f5&gt; capitolo spiega anche come &lt;f6&gt;potete modificare ulteriormente il formulario&lt;/f6&gt; dopo aver usato la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Events category controls actions, which can be bound to some macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210829Z" creationid="Marco Marega" creationdate="20171015T210829Z">
+        <seg>La categora Eventi controlla le azioni, che possono essere collegate a qualche macro.</seg>
       </tuv>
     </tu>
     <tu>
