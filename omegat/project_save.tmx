@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fill parameters: &lt;/f0&gt;This macro will be run if a parameter query is to be invoked in a subform, but for some reason the parameter is not correctly transmitted from the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202459Z" creationid="Marco Marega" creationdate="20171015T202459Z">
+        <seg>&lt;f0&gt;Compila parametri: &lt;/f0&gt;Questa macro viene eseguita se in un formulario secondario viene invocata una richiesta di un parametro, ma, per qualche motivo, il formulario principale non trasmette correttamente il parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Filter&lt;/f0&gt;: Here you can set a filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210117Z" creationid="Marco Marega" creationdate="20171014T210117Z">
@@ -890,6 +898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201430Z" creationid="Marco Marega" creationdate="20171015T201430Z">
         <seg>Dovrebbe far riferimento alla chiusura del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros are therefore run twice in succession.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202127Z" creationid="Marco Marega" creationdate="20171015T202127Z">
+        <seg>Le macro quindi vengono eseguite due volte di seguito.</seg>
       </tuv>
     </tu>
     <tu>
