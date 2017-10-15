@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Record change&lt;/f0&gt;: The opening of a form counts as a record change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201905Z" creationid="Marco Marega" creationdate="20171015T201905Z">
+        <seg>&lt;f0&gt;Modifica del record&lt;/f0&gt;: L'apertura di un formulario conta come una modifica al record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reloadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: This takes place when the content of the form is refreshed, for example by using a button on the Navigation Bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201308Z" creationid="Marco Marega" creationdate="20171015T201308Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140810Z" creationid="Marco Marega" creationdate="20171014T140810Z">
         <seg>Quando selezionate un campo di controllo, automaticamente create un &lt;f0&gt;formulario&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever one record changes to another within the form, this action likewise occurs twice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202108Z" creationid="Marco Marega" creationdate="20171015T202108Z">
+        <seg>Ogni volta che all'interno di un formulario si passa da un record all'altro, questa azione allo stesso modo ricorre due volte.</seg>
       </tuv>
     </tu>
     <tu>
