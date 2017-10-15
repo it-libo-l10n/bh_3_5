@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Other&lt;/f1&gt; controls are used exclusively for navigation, for searching, and for carrying out commands (interaction).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203218Z" creationid="Marco Marega" creationdate="20171015T203151Z">
+        <seg>&lt;f1&gt;Altri&lt;/f1&gt; campi di controllo vengono usati esclusivamente alla navigazione, alla ricerca e per eseguire dei comandi (interazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;T&lt;/f1&gt;he symbols at the right end of the Form Design toolbar &lt;f2&gt;show t&lt;/f2&gt;hat the grid is visible and active.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135742Z" creationid="Marco Marega" creationdate="20171014T135742Z">
         <seg>&lt;f2&gt;Non&lt;/f2&gt; ha importanza a meno che non abbiate la necessità di accedere a qualche parte del formulario usando delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Some &lt;/f2&gt;controls serve for additional graphical reworking of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203401Z" creationid="Marco Marega" creationdate="20171015T203211Z">
+        <seg>&lt;f2&gt;Taluni&lt;/f2&gt; campi di controllo servono per for additional graphical reworking of the form.</seg>
       </tuv>
     </tu>
     <tu>
