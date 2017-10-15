@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Record action&lt;/f0&gt;: This includes, for example, storage using a button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201604Z" creationid="Marco Marega" creationdate="20171015T201604Z">
+        <seg>&lt;f0&gt;Azioni sul record&lt;/f0&gt;: Queste comprendono, ad esempio, il salvataggio usando un pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reloadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: This takes place when the content of the form is refreshed, for example by using a button on the Navigation Bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201308Z" creationid="Marco Marega" creationdate="20171015T201308Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183405Z" creationid="Marco Marega" creationdate="20171014T183405Z">
         <seg>In aggiunta ci sono delle possibilità di progettazione che non hanno rilevanza all'interno di Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In tests, this action regularly &lt;s1/&gt;duplicates itself; macros run twice in succession.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
+        <seg>Nelle prove fatte questa azione &lt;s1/&gt; si ripete; le macro vengono eseguite due volte di seguito.</seg>
       </tuv>
     </tu>
     <tu>
