@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Before submit&lt;/f0&gt;&lt;f1&gt;ting&lt;/f1&gt;: Before the form data are sent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200917Z" creationid="Marco Marega" creationdate="20171015T200917Z">
+        <seg>&lt;f0&gt;Prima dell'&lt;/f0&gt;&lt;f1&gt;invio&lt;/f1&gt;: Prima che i dati del formulario vengano inviati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chapter 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
@@ -280,8 +288,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reset&lt;/f0&gt;: The form is emptied of all new entries that have not yet been saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200847Z" creationid="Marco Marega" creationdate="20171015T200847Z">
-        <seg>&lt;f0&gt;Prima del ripristino&lt;/f0&gt;: Il formulario viene vuotato da tutti i nuovi inserimenti che non sono stati ancora salvati.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200926Z" creationid="Marco Marega" creationdate="20171015T200847Z">
+        <seg>&lt;f0&gt;Ripristino&lt;/f0&gt;: Il formulario viene vuotato da tutti i nuovi inserimenti che non sono stati ancora salvati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183935Z" creationid="Marco Marega" creationdate="20171014T183935Z">
         <seg>&lt;f0&gt;URL&lt;/f0&gt;: Destinazione dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When loadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: Only when opening the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201110Z" creationid="Marco Marega" creationdate="20171015T201110Z">
+        <seg>&lt;f0&gt;Durante il &lt;/f0&gt;&lt;f1&gt;caricamento&lt;/f1&gt;: Solo all'apertura del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not when loading a new record into the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201129Z" creationid="Marco Marega" creationdate="20171015T201129Z">
+        <seg>Non quando si carica un nuovo record nel formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183701Z" creationid="Marco Marega" creationdate="20171013T183701Z">
@@ -1130,6 +1154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
         <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is only meaningful for Web forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201014Z" creationid="Marco Marega" creationdate="20171015T201014Z">
+        <seg>Questa opzione è significativa solo per formulari per il Web.</seg>
       </tuv>
     </tu>
     <tu>
