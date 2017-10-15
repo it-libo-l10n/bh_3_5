@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing between several different possibilities, also for transfer into the database of values other than those displayed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204450Z" creationid="Marco Marega" creationdate="20171015T204450Z">
+        <seg>Scegliere tra una serie di diverse possibilità, anche per trasferire nel database altri valori oltre a quelli visualizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134413Z" creationid="Marco Marega" creationdate="20171014T134413Z">
         <seg>Disegnando i campi di controllo e impostando il formulario usando il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display and entry with additional formatting, for example using measurement units</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204150Z" creationid="Marco Marega" creationdate="20171015T204150Z">
+        <seg>Visualizzare e inserire dati con formattazioni aggiuntive, ad esempio usando delle unità di misura</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201430Z" creationid="Marco Marega" creationdate="20171015T201430Z">
         <seg>Dovrebbe far riferimento alla chiusura del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204209Z" creationid="Marco Marega" creationdate="20171015T204209Z">
+        <seg>Casella di riepilogo</seg>
       </tuv>
     </tu>
     <tu>
