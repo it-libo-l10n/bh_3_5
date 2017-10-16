@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203915Z" creationid="Marco Marega" creationdate="20171016T203915Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Chapter&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; 1 &lt;s3/&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185013Z" creationid="osvaldo" creationdate="20171012T185013Z">
@@ -534,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A field that is read-only does not need a tab stop; it can be skipped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204103Z" creationid="Marco Marega" creationdate="20171016T204103Z">
+        <seg>In un campo di sola lettura non è necessario che il cursore si fermi; può essere saltato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A frame around, for example, a set of option buttons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205831Z" creationid="Marco Marega" creationdate="20171015T205831Z">
@@ -846,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the field have a tab stop?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204156Z" creationid="Marco Marega" creationdate="20171016T204156Z">
+        <seg>Il campo prevede lo stop del cursore?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203824Z" creationid="Marco Marega" creationdate="20171015T203824Z">
@@ -1058,6 +1082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here the activation sequence within the form is specified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204229Z" creationid="Marco Marega" creationdate="20171016T204229Z">
+        <seg>Qui viene specificata la sequenza di attivazione all'interno del formulario.</seg>
       </tuv>
     </tu>
     <tu>
