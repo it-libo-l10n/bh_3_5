@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Yes&lt;/f0&gt; will exclude any modification of the value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203532Z" creationid="Marco Marega" creationdate="20171016T203532Z">
+        <seg>&lt;f0&gt;Si&lt;/f0&gt; esclude qualunque modifica del valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f10&gt;Current page&lt;/f10&gt; refers particularly to HTML Forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212334Z" creationid="Marco Marega" creationdate="20171014T212334Z">
@@ -1430,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f3&gt;C&lt;/f3&gt;hapter &lt;f4&gt;9,&lt;/f4&gt; Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203513Z" creationid="Marco Marega" creationdate="20171016T203513Z">
+        <seg>Vedete il &lt;f3&gt;Capitolo&lt;/f3&gt; &lt;f4&gt;9,&lt;/f4&gt; Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See also &lt;f1&gt;C&lt;/f1&gt;hapter &lt;f2&gt;3, &lt;/f2&gt;Tables, &lt;f3&gt;in this book&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210312Z" creationid="Marco Marega" creationdate="20171014T210312Z">
@@ -1714,6 +1730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134815Z" creationid="Marco Marega" creationdate="20171014T134815Z">
         <seg>Questa rappresenta il livello più alto dell'area &lt;f14&gt;che&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt; stiamo modificando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful, for example, for an automatically generated primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203611Z" creationid="Marco Marega" creationdate="20171016T203611Z">
+        <seg>Ciò è utile, ad esempio, per una chiave primaria generata automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
