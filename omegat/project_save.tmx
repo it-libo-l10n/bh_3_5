@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background color of the text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
+        <seg>Colore di sfondo per il campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base Handbook</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T140716Z" creationid="ldaghino" creationdate="20171002T140716Z">
@@ -1946,6 +1954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105432Z" creationid="ldaghino" creationdate="20171002T105432Z">
         <seg>Versione 3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vertical alignment: Standard | Top | Middle | Bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205202Z" creationid="Marco Marega" creationdate="20171016T205202Z">
+        <seg>Allineamento verticale: Standard | In alto | Al centro | In basso.</seg>
       </tuv>
     </tu>
     <tu>
