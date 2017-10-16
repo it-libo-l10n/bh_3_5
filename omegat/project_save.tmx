@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Example: If Field 1 contains a value, Field 2 must not contain one; Field 2 is deactivated.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203231Z" creationid="Marco Marega" creationdate="20171016T203231Z">
+        <seg>(Esempio: Se il Campo 1 contiene un valore, il Campo 2 non ne deve contenere; il Campo 2 viene disattivato.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
@@ -1782,10 +1790,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Useful for control using macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203116Z" creationid="Marco Marega" creationdate="20171016T203116Z">
+        <seg>Utile per i campo di controllo che utilizzano macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using LibreOffice on a Mac</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085806Z" creationid="Marina Latini" creationdate="20171003T085806Z">
         <seg>Utilizzo di LibreOffice su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually &lt;f0&gt;&lt;f1&gt;Y&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;es&lt;/f2&gt;; invisible fields can be used as intermediate storage, for example in creating combination fields with macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203457Z" creationid="Marco Marega" creationdate="20171016T203457Z">
+        <seg>Abitualmente &lt;f0&gt;&lt;f1&gt;Si&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;; i campi invisibili possono essere utilizzati come archivio temporaneo, ad esempio per creare delle combinazioni di campi con delle macro.</seg>
       </tuv>
     </tu>
     <tu>
