@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, not all fields may be required to appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203810Z" creationid="Marco Marega" creationdate="20171016T203810Z">
+        <seg>In questo caso, potrebbe non essere richiesto che appaiano tutti i campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integrated into this control are many of the above controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205454Z" creationid="Marco Marega" creationdate="20171015T205454Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
         <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes it is useful to print a page from a form rather than a separate report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203713Z" creationid="Marco Marega" creationdate="20171016T203713Z">
+        <seg>Alle volte è utile per stampare una pagina dal formulario piuttosto che da un Rapporto separato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085823Z" creationid="Marina Latini" creationdate="20171003T085823Z">
         <seg>Autori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within a form, the &lt;f0&gt;Tab&lt;/f0&gt; key is normally used for navigation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203914Z" creationid="Marco Marega" creationdate="20171016T203914Z">
+        <seg>All'interno di un formulario, per la navigazione normalmente viene usato il tasto &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
