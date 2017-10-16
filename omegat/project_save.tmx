@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the field have a label?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202842Z" creationid="Marco Marega" creationdate="20171016T202842Z">
+        <seg>Il campo ha un'etichetta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203824Z" creationid="Marco Marega" creationdate="20171015T203824Z">
@@ -1570,6 +1578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182713Z" creationid="Marco Marega" creationdate="20171014T182713Z">
         <seg>Il formulario ha il nome predefinito Formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name of a control must be unique within the form&lt;f0&gt;—&lt;/f0&gt;used for access using macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
+        <seg>Il nome di un campo di controllo all'interno del formulario deve essere univoco &lt;f0&gt;—&lt;/f0&gt;viene usato per accedervi con le macro.</seg>
       </tuv>
     </tu>
     <tu>
