@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alignment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204601Z" creationid="Marco Marega" creationdate="20171016T204601Z">
+        <seg>Allineamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
@@ -1106,6 +1114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here text entry is left-justified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204701Z" creationid="Marco Marega" creationdate="20171016T204701Z">
+        <seg>Qui il testo contenuto è allineato a sinistra.</seg>
       </tuv>
     </tu>
     <tu>
