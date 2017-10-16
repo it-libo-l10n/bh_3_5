@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-enabled fields cannot be used and are grayed out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203054Z" creationid="Marco Marega" creationdate="20171016T203054Z">
+        <seg>I campi non abilitati non possono essere usati e sono in grigetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not when loading a new record into the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201129Z" creationid="Marco Marega" creationdate="20171015T201129Z">
@@ -1666,6 +1674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105527Z" creationid="ldaghino" creationdate="20171002T105527Z">
         <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2013&lt;/f1&gt; dei collaboratori di seguito elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This groups field and label together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202907Z" creationid="Marco Marega" creationdate="20171016T202907Z">
+        <seg>Questo raggruppa il campo con l'etichetta.</seg>
       </tuv>
     </tu>
     <tu>
