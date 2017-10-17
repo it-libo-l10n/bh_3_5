@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Mouse&lt;/f0&gt;: Self-explanatory; These events only takes place if the mouse is or was already within the field ("outside" corresponds to the javascript onMouseOut).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200742Z" creationid="Marco Marega" creationdate="20171017T200742Z">
+        <seg>&lt;f0&gt;Mouse&lt;/f0&gt;: Autoesplicativi; Questi eventi si verificano solo se il mouse è o era all'interno del campo ("fuori" corrisponde all'evento in javascript onMouseOut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184925Z" creationid="Marco Marega" creationdate="20171014T184925Z">
         <seg>Questa è la scheda più importante per la creazione di formulari interni a Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a key is pressed when you move through the form using the Tab key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200323Z" creationid="Marco Marega" creationdate="20171017T200323Z">
+        <seg>Ad esempio, un tasto viene premuto quando vi spostate attraverso il formulario usando il tasto Tab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then the key is released.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200400Z" creationid="Marco Marega" creationdate="20171017T200400Z">
+        <seg>Poi il tasto viene rilasciato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then, on the stippled surface of the form, a text field appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182409Z" creationid="Marco Marega" creationdate="20171014T182130Z">
@@ -2010,6 +2034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200156Z" creationid="Marco Marega" creationdate="20171017T200156Z">
         <seg>Può portare allo stesso tipo di interazione quando la gestione dell'evento provoca la sua ripetizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This causes a field to receive the focus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200346Z" creationid="Marco Marega" creationdate="20171017T200346Z">
+        <seg>Questo causa la ricezione del focus da parte di un campo.</seg>
       </tuv>
     </tu>
     <tu>
