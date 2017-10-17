@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ke&lt;/f0&gt;&lt;f1&gt;y&lt;/f1&gt;: Refers to the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200213Z" creationid="Marco Marega" creationdate="20171017T200213Z">
+        <seg>&lt;f0&gt;Tasto &lt;/f0&gt;&lt;f1&gt;premuto&lt;/f1&gt;: Si riferisce alla tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When losing f&lt;/f0&gt;&lt;f1&gt;ocus&lt;/f1&gt;: The cursor leaves the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200038Z" creationid="Marco Marega" creationdate="20171017T200038Z">
+        <seg>&lt;f0&gt;Alla perdita del punto &lt;/f0&gt;&lt;f1&gt;focale&lt;/f1&gt;: Il cursore esce dal campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When receiving f&lt;/f0&gt;&lt;f1&gt;ocus&lt;/f1&gt;: The cursor enters the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195531Z" creationid="Marco Marega" creationdate="20171017T195531Z">
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205831Z" creationid="Marco Marega" creationdate="20171015T205831Z">
         <seg>Una cornice di delimitazione, ad esempio, per raggruppare un insieme di pulsanti di opzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A loop is created which can only be broken by using the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195943Z" creationid="Marco Marega" creationdate="20171017T195943Z">
+        <seg>Si creerebbe un loop che sarebbe possibile arrestare solamene usando la tastiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,6 +2002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133743Z" creationid="Marco Marega" creationdate="20171014T133743Z">
         <seg>Ciò può essere fatto in &lt;f0&gt;due&lt;/f0&gt; modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can lead to the same kind of interplay when the handling of the event causes it to recur.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200156Z" creationid="Marco Marega" creationdate="20171017T200156Z">
+        <seg>Può portare allo stesso tipo di interazione quando la gestione dell'evento provoca la sua ripetizione.</seg>
       </tuv>
     </tu>
     <tu>
