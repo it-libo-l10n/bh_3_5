@@ -1056,8 +1056,8 @@
       <tuv lang="EN">
         <seg>Framing: No frame | 3D-Look | Flat.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T190955Z" creationid="Marco Marega" creationdate="20171017T190955Z">
-        <seg>Framing: No frame | 3D-Look | Flat.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191453Z" creationid="Marco Marega" creationdate="20171017T190955Z">
+        <seg>Bordo: Senza cornice | Aspetto 3D | Piatto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlighted text loses the highlight when the text field loses focus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
+        <seg>Il testo selezionato perde l'evidenziazione quando il campo di testo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However this will prevent the form accessing the underlying data using a filter or a sort.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210103Z" creationid="Marco Marega" creationdate="20171014T210103Z">
@@ -1194,6 +1202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
         <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there is a frame, its color can be set here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191521Z" creationid="Marco Marega" creationdate="20171017T191521Z">
+        <seg>Se è previsto un bordo, qui può essere impostato il suo colore.</seg>
       </tuv>
     </tu>
     <tu>
