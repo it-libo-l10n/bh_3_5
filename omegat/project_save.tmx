@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data fi&lt;/f0&gt;&lt;f1&gt;eld&lt;/f1&gt;: Here you create the binding with the table on which the form is based.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194120Z" creationid="Marco Marega" creationdate="20171017T194120Z">
+        <seg>&lt;f0&gt;Campo di dati&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;: Qui potete creare il collegamento con la tabella sulla quale si basa il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Error occurred:&lt;/f0&gt; This event could not be reconstructed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202754Z" creationid="Marco Marega" creationdate="20171015T202754Z">
