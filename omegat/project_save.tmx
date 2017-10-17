@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Updating&lt;/f0&gt;: If the event is bound to a form control, update takes place when the focus is lost and jumps to another form control, after altering the content of the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201343Z" creationid="Marco Marega" creationdate="20171017T201343Z">
+        <seg>&lt;f0&gt;Aggiornamento&lt;/f0&gt;: Se l'evento è legato a un campo del formulario, l'aggiornamento si verifica quando il focus viene perso e passa a un altro campo del formulario, dopo aver variato il contenuto del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When loadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: Only when opening the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201110Z" creationid="Marco Marega" creationdate="20171015T201110Z">
@@ -2266,6 +2274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
         <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a form is first loaded, the two events &lt;f1&gt;Prior to reset&lt;/f1&gt; and &lt;f2&gt;After resetting&lt;/f2&gt; occur in succession, before the form is available for input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201101Z" creationid="Marco Marega" creationdate="20171017T201101Z">
+        <seg>Quando un formulario viene caricato per la prima volta, i due eventi &lt;f1&gt;Prima del ripristino&lt;/f1&gt; e &lt;f2&gt;Dopo il ripristino&lt;/f2&gt; si verificano in sequenza, prima che il formulario diventi disponibile per l'inserimento.</seg>
       </tuv>
     </tu>
     <tu>
