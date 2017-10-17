@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes in the form are accepted and displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201414Z" creationid="Marco Marega" creationdate="20171017T201414Z">
+        <seg>Le modifiche nel formulario vengono accettate e visualizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
         <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a form is closed, the two events &lt;f1&gt;Before updating&lt;/f1&gt; and &lt;f2&gt;After updating&lt;/f2&gt; occur in succession.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201518Z" creationid="Marco Marega" creationdate="20171017T201518Z">
+        <seg>Quando chiudete un formulario, i due eventi &lt;f1&gt;Prima di aggiornare&lt;/f1&gt; e &lt;f2&gt;Dopo l'aggiornamento&lt;/f2&gt; si verificano in sequenza.</seg>
       </tuv>
     </tu>
     <tu>
