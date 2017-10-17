@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Never&lt;/f0&gt; does not allow alterations using the mouse wheel; &lt;f1&gt;When selected&lt;/f1&gt; allows such changes when the field is selected and the mouse is over the field; &lt;f2&gt;Alway&lt;/f2&gt;s means whenever the mouse is over the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192806Z" creationid="Marco Marega" creationdate="20171017T192806Z">
+        <seg>&lt;f0&gt;Mai&lt;/f0&gt; impedisce modifiche usando la rotella del mouse; &lt;f1&gt;Se selezionato&lt;/f1&gt; permette queste modifiche se il campo è selezionato e il mouse si trova sopra al campo; &lt;f2&gt;Sempre&lt;/f2&gt; significa anche se il mouse non è sopra al campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;adio button; &lt;f1&gt;a&lt;/f1&gt;llows you to choose &lt;f2&gt;from&lt;/f2&gt; a small number of possibilities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204913Z" creationid="Marco Marega" creationdate="20171015T204913Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
         <seg>Un semplice &lt;f0&gt;&lt;/f0&gt;formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A spin symbol is incorporated into the right side of the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193050Z" creationid="Marco Marega" creationdate="20171017T193050Z">
+        <seg>Un simbolo A spin symbol is incorporated into the right side of the field.</seg>
       </tuv>
     </tu>
     <tu>
