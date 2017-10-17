@@ -230,6 +230,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Empty string is NULL&lt;/f0&gt;: Whether an empty string should be treated as (NULL) or the content simply deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194326Z" creationid="Marco Marega" creationdate="20171017T194326Z">
+        <seg>&lt;f0&gt;Lo string vuoto è ZERO&lt;/f0&gt;: determina se una stringa vuota deve essere trattata come valore ZERO (NULL) o se il contenuto va semplicemente cancellato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Entry required&lt;/f0&gt;: This condition should match the one in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194401Z" creationid="Marco Marega" creationdate="20171017T194401Z">
+        <seg>&lt;f0&gt;Digitazione necessaria&lt;/f0&gt;: Questa condizione dovrebbe corrispondere a quella nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Error occurred:&lt;/f0&gt; This event could not be reconstructed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202754Z" creationid="Marco Marega" creationdate="20171015T202754Z">
