@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reset&lt;/f0&gt;: The form is emptied of all data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200810Z" creationid="Marco Marega" creationdate="20171017T200810Z">
+        <seg>&lt;f0&gt;Ripristino&lt;/f0&gt;: Il formulario viene vuotato da tutti i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reset&lt;/f0&gt;: The form is emptied of all new entries that have not yet been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200926Z" creationid="Marco Marega" creationdate="20171015T200847Z">
@@ -2066,6 +2074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
         <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This happens, for example, when starting a new record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200842Z" creationid="Marco Marega" creationdate="20171017T200842Z">
+        <seg>Questo accade, ad esempio, quando si inizia un nuovo record.</seg>
       </tuv>
     </tu>
     <tu>
