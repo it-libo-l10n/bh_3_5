@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Filter proposal&lt;/f0&gt;: When the data is to be filtered, the content of this field is temporarily stored as a suggestion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194931Z" creationid="Marco Marega" creationdate="20171017T194931Z">
+        <seg>&lt;f0&gt;Filtro proposto&lt;/f0&gt;: Quando i dati devono essere filtrati, il contenuto di questo campo viene temporaneamente utilizzato come suggerimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Filter&lt;/f0&gt;: Here you can set a filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210117Z" creationid="Marco Marega" creationdate="20171014T210117Z">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191026Z" creationid="Marco Marega" creationdate="20171017T191017Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GUI will prompt for entry if the user has not entered a value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194511Z" creationid="Marco Marega" creationdate="20171017T194511Z">
+        <seg>Se l'utente non inserisce un valore, l'interfaccia grafica ne richiederà l'inserimento.</seg>
       </tuv>
     </tu>
     <tu>
