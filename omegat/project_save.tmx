@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text modifie&lt;/f0&gt;&lt;f1&gt;d&lt;/f1&gt;: Refers to the content, which can in fact be text, numeric, or whatever.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195413Z" creationid="Marco Marega" creationdate="20171017T195413Z">
+        <seg>&lt;f0&gt;Testo modificato&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;: Si riferisce al contenuto, che nei fatti può essere testo, numerico, o quant'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To display t&lt;/f0&gt;he &lt;f1&gt;Form &lt;/f1&gt;Navigator, &lt;f2&gt;click &lt;/f2&gt;the Form Navigator &lt;f3&gt;b&lt;/f3&gt;utton &lt;f4&gt;(&lt;/f4&gt;shown in &lt;f5&gt;F&lt;/f5&gt;igure &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201110Z" creationid="Marco Marega" creationdate="20171015T201110Z">
         <seg>&lt;f0&gt;Durante il &lt;/f0&gt;&lt;f1&gt;caricamento&lt;/f1&gt;: Solo all'apertura del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When receiving f&lt;/f0&gt;&lt;f1&gt;ocus&lt;/f1&gt;: The cursor enters the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195531Z" creationid="Marco Marega" creationdate="20171017T195531Z">
+        <seg>&lt;f0&gt;Al ricevimento del punto &lt;/f0&gt;&lt;f1&gt;focale&lt;/f1&gt;: Il cursore entra nel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Occurs after each additional character is entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195450Z" creationid="Marco Marega" creationdate="20171017T195450Z">
+        <seg>Si verifica dopo l'aggiunta di ciascun carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a form has been created, it can be filled with visible controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202938Z" creationid="Marco Marega" creationdate="20171015T202938Z">
@@ -2050,6 +2074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133633Z" creationid="Marco Marega" creationdate="20171014T133633Z">
         <seg>Barre degli strumenti per la creazione di &lt;f0&gt;&lt;/f0&gt;formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under no circumstances must the macro create a message dialog on the screen; clicking in such a dialog causes the form field to lose the focus and then recover it, triggering the macro again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195857Z" creationid="Marco Marega" creationdate="20171017T195857Z">
+        <seg>La macro non deve in nessuna circostanza creare una finestra di dialogo sullo schermo; facendo clic in tale finestra causerebbe per la perdita e poi il ritorno del focus nel campo, riattivando di nuovo la macro.</seg>
       </tuv>
     </tu>
     <tu>
