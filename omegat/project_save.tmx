@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
+        <seg>Può essere richiamato usando &lt;f0&gt;F1&lt;/f0&gt; quando il focus è sul campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can only be used with a macro&lt;f0&gt;—&lt;/f0&gt;not further described</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210242Z" creationid="Marco Marega" creationdate="20171015T210242Z">
@@ -1278,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, numeric, date fields, etc have the following properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192218Z" creationid="Marco Marega" creationdate="20171017T192218Z">
+        <seg>In aggiunta i campi numerici, data, ecc. hanno le seguenti proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In tests, this action regularly &lt;s1/&gt;duplicates itself; macros run twice in succession.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
@@ -1498,6 +1514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085541Z" creationid="Marina Latini" creationdate="20171003T085541Z">
         <seg>Per commenti o suggerimenti su questo documento rivolgersi a:&lt;f0&gt; &lt;/f0&gt;&lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to a help file, useful mostly for HTML.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192031Z" creationid="Marco Marega" creationdate="20171017T192031Z">
+        <seg>Punta a un file di aiuto, utile soprattutto in HTML.</seg>
       </tuv>
     </tu>
     <tu>
