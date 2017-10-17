@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Chang&lt;/f0&gt;&lt;f1&gt;ed&lt;/f1&gt;: This event takes place when a control is modified and afterwards loses the focus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195314Z" creationid="Marco Marega" creationdate="20171017T195314Z">
+        <seg>&lt;f0&gt;Modificato&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;: Questo evento si verifica quando un campo di controllo viene modificato e subito dopo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chapter 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
