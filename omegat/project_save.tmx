@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Caution – with large contents, this &lt;f1&gt;choice &lt;/f1&gt;can use a lot of storage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195027Z" creationid="Marco Marega" creationdate="20171017T195027Z">
+        <seg>Attenzione – con molti contenuti, questa &lt;f1&gt;scelta &lt;/f1&gt;può utilizzare molto spazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
