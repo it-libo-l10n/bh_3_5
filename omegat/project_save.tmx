@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As well as the properties set out on page &lt;bf0&gt;70&lt;/bf0&gt;, text fields can have the following additional properties:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201625Z" creationid="Marco Marega" creationdate="20171017T201625Z">
+        <seg>Oltre alle proprietà elencate a pagina &lt;bf0&gt;70&lt;/bf0&gt;, i campi di testo possono avere le seguenti proprietà aggiuntive:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with forms, properties are grouped into three categories: General, Data and Events.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210536Z" creationid="Marco Marega" creationdate="20171015T210536Z">
