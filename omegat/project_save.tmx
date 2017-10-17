@@ -576,8 +576,8 @@
       <tuv lang="EN">
         <seg>A spin symbol is incorporated into the right side of the field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193050Z" creationid="Marco Marega" creationdate="20171017T193050Z">
-        <seg>Un simbolo A spin symbol is incorporated into the right side of the field.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193254Z" creationid="Marco Marega" creationdate="20171017T193050Z">
+        <seg>Un pulsante di selezione è incorporato sul lato destro del campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
         <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a spin arrow is pressed down and held, this determines if the entry in the box should be incremented beyond the next value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193643Z" creationid="Marco Marega" creationdate="20171017T193643Z">
+        <seg>Se viene premuta a lungo una freccia del pulsante di selezione, si determina l'incremento del valore inserito nella casella oltre al prossimo valore.</seg>
       </tuv>
     </tu>
     <tu>
