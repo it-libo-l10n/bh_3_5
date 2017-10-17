@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appears as a tooltip when the mouse is hovered over the text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191937Z" creationid="Marco Marega" creationdate="20171017T191937Z">
+        <seg>Appare come suggerimento quando il mouse si ferma sopra al campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the data &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in a spreadsheet &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;is laid out in a table view, plainly visible and able to be edited or added to, many users ask why they should use a database instead of a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190931Z" creationid="osvaldo" creationdate="20171012T190853Z">
@@ -1566,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;9,&lt;/f1&gt; Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191838Z" creationid="Marco Marega" creationdate="20171017T191838Z">
+        <seg>Vedete il &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;9,&lt;/f1&gt; Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f3&gt;C&lt;/f3&gt;hapter &lt;f4&gt;9,&lt;/f4&gt; Macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203513Z" creationid="Marco Marega" creationdate="20171016T203513Z">
@@ -1946,6 +1962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184811Z" creationid="Marco Marega" creationdate="20171013T184811Z">
         <seg>L'uso della procedura guidata per la creazione di un formulario viene descritta nel &lt;f0&gt;Capitolo 8, &lt;/f0&gt;Introduzione a Base, &lt;f1&gt;della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva a LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used for information to be read by macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191816Z" creationid="Marco Marega" creationdate="20171017T191816Z">
+        <seg>Utilizzato per informazioni che devono essere lette da delle macro.</seg>
       </tuv>
     </tu>
     <tu>
