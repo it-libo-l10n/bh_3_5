@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Framing: No frame | 3D-Look | Flat.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T190955Z" creationid="Marco Marega" creationdate="20171017T190955Z">
+        <seg>Framing: No frame | 3D-Look | Flat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free online support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085722Z" creationid="Marina Latini" creationdate="20171003T085722Z">
@@ -1672,8 +1680,8 @@
       <tuv lang="EN">
         <seg>The GUI in L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt; takes up this command, but unfortunately prefaces the statement with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NOT NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, so that the command sequence for HSQLDB is not readable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T084412Z" creationid="Marina Latini" creationdate="20171003T084412Z">
-        <seg>Nota</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191026Z" creationid="Marco Marega" creationdate="20171017T191017Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
