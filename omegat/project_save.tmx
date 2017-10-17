@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;N&lt;/f0&gt;othing of significance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201717Z" creationid="Marco Marega" creationdate="20171017T201717Z">
+        <seg>&lt;f0&gt;Niente&lt;/f0&gt;di significativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
@@ -1454,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to properties already described, the following properties exist:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201817Z" creationid="Marco Marega" creationdate="20171017T201817Z">
+        <seg>In aggiunta alle proprietà già descritte, esistono le seguenti proprietà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, numeric, date fields, etc have the following properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192218Z" creationid="Marco Marega" creationdate="20171017T192218Z">
@@ -1618,6 +1634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182513Z" creationid="Marco Marega" creationdate="20171014T182513Z">
         <seg>Ora potete creare il formulario &lt;f0&gt;facendo clic con il pulsante destro del mouse &lt;/f0&gt;e usando il &lt;f1&gt;menu contestuale&lt;/f1&gt; del campo di controllo &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;1&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numeric &lt;f0&gt;f&lt;/f0&gt;ield</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201737Z" creationid="Marco Marega" creationdate="20171017T201737Z">
+        <seg>Campo &lt;f0&gt;numerico&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
