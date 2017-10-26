@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;See &lt;f5&gt;also &lt;/f5&gt;the general Help on numeric format codes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212248Z" creationid="Marco Marega" creationdate="20171026T212248Z">
+        <seg>&lt;/f4&gt;Vedete &lt;f5&gt;anche &lt;/f5&gt; l'Aiuto in linea sui codici dei formati numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203915Z" creationid="Marco Marega" creationdate="20171016T203915Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Among the numeric formats can be seen, alongside Date, Time, Currency or normal numeric format, possibilities for using fields with a measurement unit such as &lt;f0&gt;kg&lt;/f0&gt; &lt;f1&gt;(see Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;27&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212143Z" creationid="Marco Marega" creationdate="20171026T212143Z">
+        <seg>Tra i formati numerici, accanto a quelli Data, Ora, Valuta o normali, potete vedere la possibilità di usare campi con delle unità di misura tipo &lt;f0&gt;kg&lt;/f0&gt; &lt;f1&gt;(vedete la Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;27&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
