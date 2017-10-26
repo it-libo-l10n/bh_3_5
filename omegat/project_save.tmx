@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A month calender for selecting dates can be included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205956Z" creationid="Marco Marega" creationdate="20171026T205956Z">
+        <seg>Potete includere un calendario mensile dal quale selezionare le date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205252Z" creationid="Marco Marega" creationdate="20171026T205252Z">
         <seg>Oltre alle proprietà descritte a pagina &lt;bf0&gt;70&lt;/bf0&gt;, sono da evidenziare le seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As well as the properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;, the following features are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210118Z" creationid="Marco Marega" creationdate="20171026T210118Z">
+        <seg>Oltre alle proprietà elencate a pagina &lt;bf0&gt;70&lt;/bf0&gt;, sono disponibili le seguenti caratteristiche.</seg>
       </tuv>
     </tu>
     <tu>
