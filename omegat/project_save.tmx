@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimum value for the field, selectable using a drop-down &lt;s0/&gt;calendar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205334Z" creationid="Marco Marega" creationdate="20171026T205334Z">
+        <seg>Valore minimo per il campo, selezionabile usando un &lt;s0/&gt;calendario a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimum value for the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204151Z" creationid="Marco Marega" creationdate="20171026T204151Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134444Z" creationid="Marco Marega" creationdate="20171014T134444Z">
         <seg>Impostare un &lt;f0&gt;formulario&lt;/f0&gt; con il &lt;f1&gt;Navigatore formulario&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Short form as 10.02.12 or various forms using &lt;f0&gt;'/'&lt;/f0&gt; instead of &lt;f1&gt;'.'&lt;/f1&gt; or &lt;f2&gt;'-'&lt;/f2&gt; in the American style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205632Z" creationid="Marco Marega" creationdate="20171026T205632Z">
+        <seg>Formato breve come in 10.02.12 o vari formati che usano &lt;f0&gt;'/'&lt;/f0&gt; al posto del &lt;f1&gt;'.'&lt;/f1&gt; oppure il &lt;f2&gt;'-'&lt;/f2&gt; nello stile Americano.</seg>
       </tuv>
     </tu>
     <tu>
