@@ -2038,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The vertical alignment is not active for multi-line fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203549Z" creationid="Marco Marega" creationdate="20171026T203549Z">
+        <seg>L'allineamento verticale per i campi con più righe non è attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then the key is released.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200400Z" creationid="Marco Marega" creationdate="20171017T200400Z">
@@ -2174,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This mainly affects line endings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
+        <seg>Questo influenza principalmente i fine riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setting for the Navigation Bar is not relevant to the internal navigation toolbar that can be added as a form control if required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211656Z" creationid="Marco Marega" creationdate="20171014T211656Z">
@@ -2242,6 +2258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205342Z" creationid="Marco Marega" creationdate="20171015T205342Z">
         <seg>Modulo di inserimento universale, che può visualizzare un'intera tabella.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unix or Windows?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203553Z" creationid="Marco Marega" creationdate="20171026T203553Z">
+        <seg>Unix o Windows?</seg>
       </tuv>
     </tu>
     <tu>
