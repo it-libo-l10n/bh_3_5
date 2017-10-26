@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The button to the right with the three dots provides a choice of numeric formats, as you usually do in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211937Z" creationid="Marco Marega" creationdate="20171026T211937Z">
+        <seg>Il pulsante alla destra con tre puntini mette a disposizione una scelta di formati numerici, come quelli che usate abitualmente in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The context menu of the form (shown below) provides the way to create form properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140057Z" creationid="Marco Marega" creationdate="20171014T140057Z">
