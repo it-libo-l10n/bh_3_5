@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As well as the properties described on page &lt;bf0&gt;70&lt;/bf0&gt;, the following are to be noted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205252Z" creationid="Marco Marega" creationdate="20171026T205252Z">
+        <seg>Oltre alle proprietà descritte a pagina &lt;bf0&gt;70&lt;/bf0&gt;, sono da evidenziare le seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As well as the properties set out on page &lt;bf0&gt;70&lt;/bf0&gt;, text fields can have the following additional properties:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201625Z" creationid="Marco Marega" creationdate="20171017T201625Z">
@@ -882,6 +890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201414Z" creationid="Marco Marega" creationdate="20171017T201414Z">
         <seg>Le modifiche nel formulario vengono accettate e visualizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes must be handled using the "Text modified" event (the word text is not to be taken literally here).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205127Z" creationid="Marco Marega" creationdate="20171026T205127Z">
+        <seg>Le modifiche devono essere gestite utilizzando l'evento "Testo modificato" (in questo caso la parola testo non va presa letteralmente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203817Z" creationid="Marco Marega" creationdate="20171015T203817Z">
         <seg>Campo &lt;s0/&gt;data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205155Z" creationid="Marco Marega" creationdate="20171026T205155Z">
+        <seg>Campo data</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184906Z" creationid="Marco Marega" creationdate="20171013T184906Z">
         <seg>Quel&lt;f5&gt;&lt;/f5&gt; capitolo spiega anche come &lt;f6&gt;potete modificare ulteriormente il formulario&lt;/f6&gt; dopo aver usato la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Changed" event is absent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205010Z" creationid="Marco Marega" creationdate="20171026T205010Z">
+        <seg>L'evento "Modificato" è assente.</seg>
       </tuv>
     </tu>
     <tu>
