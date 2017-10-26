@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active only for single-line fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203905Z" creationid="Marco Marega" creationdate="20171026T203905Z">
+        <seg>Attivo solo per i campi a riga singola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alignment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204601Z" creationid="Marco Marega" creationdate="20171016T204601Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195027Z" creationid="Marco Marega" creationdate="20171017T195027Z">
         <seg>Attenzione – con molti contenuti, questa &lt;f1&gt;scelta &lt;/f1&gt;può utilizzare molto spazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes characters to see only points.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204122Z" creationid="Marco Marega" creationdate="20171026T204122Z">
+        <seg>Modifica i caratteri in modo da visualizzare solo dei segnaposti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internally Windows lines end with two control characters (CR and LF).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203749Z" creationid="Marco Marega" creationdate="20171026T203749Z">
+        <seg>Internamente in Windows le linee terminano con due caratteri di controllo (CR e LF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090116Z" creationid="Marina Latini" creationdate="20171003T090116Z">
@@ -1682,6 +1706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T195831Z" creationid="osvaldo" creationdate="20171012T195831Z">
         <seg>Un database è &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;denominato&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_senza_macro.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; e l'altro, esteso mediante inclusione di macro, è &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;chiama&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;to &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_con_macro.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only for multi-line fields: Horizontal | Vertical | Both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203846Z" creationid="Marco Marega" creationdate="20171026T203846Z">
+        <seg>Solo per campi con più righe: Nessuno | Orizzontale | Verticale | Entrambi.</seg>
       </tuv>
     </tu>
     <tu>
