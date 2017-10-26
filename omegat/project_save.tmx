@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing special to report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212303Z" creationid="Marco Marega" creationdate="20171026T212303Z">
+        <seg>Niente di particolare da segnalare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now we will create a form on the empty page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133720Z" creationid="Marco Marega" creationdate="20171014T133720Z">
