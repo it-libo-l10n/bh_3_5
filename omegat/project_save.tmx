@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimum value for the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204151Z" creationid="Marco Marega" creationdate="20171026T204151Z">
+        <seg>Valore minimo per il campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MySQL databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
@@ -1874,6 +1882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134444Z" creationid="Marco Marega" creationdate="20171014T134444Z">
         <seg>Impostare un &lt;f0&gt;formulario&lt;/f0&gt; con il &lt;f1&gt;Navigatore formulario&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should agree with the minimum value defined in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204253Z" creationid="Marco Marega" creationdate="20171026T204253Z">
+        <seg>Deve essere compatibile con il valore minimo definito nella tabella.</seg>
       </tuv>
     </tu>
     <tu>
