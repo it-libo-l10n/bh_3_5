@@ -1654,10 +1654,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum value, by default set to 1 second before 24:00.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210250Z" creationid="Marco Marega" creationdate="20171026T210250Z">
+        <seg>Valore massimo, il predefinito è impostato a 1 secondo prima delle 24:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204259Z" creationid="Marco Marega" creationdate="20171026T204259Z">
         <seg>Valore massimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum value for the field, by default set to 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210159Z" creationid="Marco Marega" creationdate="20171026T210159Z">
+        <seg>Valore minimo per il campo, il predefinito è impostato a 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205632Z" creationid="Marco Marega" creationdate="20171026T205632Z">
         <seg>Formato breve come in 10.02.12 o vari formati che usano &lt;f0&gt;'/'&lt;/f0&gt; al posto del &lt;f1&gt;'.'&lt;/f1&gt; oppure il &lt;f2&gt;'-'&lt;/f2&gt; nello stile Americano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Short form without seconds, long form with seconds, and also 12-hour formats with AM and PM.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210400Z" creationid="Marco Marega" creationdate="20171026T210400Z">
+        <seg>Formato breve senza i secondi, formato lungo con i secondi e anche formati di 12 ore con l'indicazione AM e PM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,6 +2698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
         <seg>Campo con valore Si o No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set a fixed time but unfortunately not (yet) the actual time of saving the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210544Z" creationid="Marco Marega" creationdate="20171026T210544Z">
+        <seg>Potete inserire un'ora fissa, ma sfortunatamente non (ancora) l'ora al momento del salvataggio del formulario.</seg>
       </tuv>
     </tu>
     <tu>
