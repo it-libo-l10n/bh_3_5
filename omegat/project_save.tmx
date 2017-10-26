@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the properties listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are offered:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211309Z" creationid="Marco Marega" creationdate="20171026T211309Z">
+        <seg>&lt;f0&gt;In aggiunta alle&lt;/f0&gt; proprietà elencate a pagina &lt;bf1&gt;70&lt;/bf1&gt;, offre le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the Form Navigator (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;23&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), r&lt;/f3&gt;ight-click on &lt;f4&gt;Forms&lt;/f4&gt; &lt;f5&gt;to&lt;/f5&gt; open a context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135152Z" creationid="Marco Marega" creationdate="20171014T135152Z">
@@ -1286,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatted &lt;f0&gt;f&lt;/f0&gt;ield</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211225Z" creationid="Marco Marega" creationdate="20171026T211225Z">
+        <seg>Campo &lt;f0&gt;f&lt;/f0&gt;ormattato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatted field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204054Z" creationid="Marco Marega" creationdate="20171015T204054Z">
@@ -1694,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimum and maximum values, and the default value, depend on the formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211354Z" creationid="Marco Marega" creationdate="20171026T211354Z">
+        <seg>I valori minimo, massimo e predefinito dipendono dalla formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimum value for the field, by default set to 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210159Z" creationid="Marco Marega" creationdate="20171026T210159Z">
@@ -2062,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should the symbol be placed before or after the number?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211203Z" creationid="Marco Marega" creationdate="20171026T211203Z">
+        <seg>Il simbolo va posto prima o dopo il numero?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similar to a list field, but with only the displayed value transferred, or you can enter new values by hand</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
@@ -2250,6 +2282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
         <seg>Il modo più semplice per creare un formulario è quello di usare la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The symbol is displayed but not stored in the table that underlies the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211125Z" creationid="Marco Marega" creationdate="20171026T211125Z">
+        <seg>Il simbolo viene visualizzato, ma non viene memorizzato nella tabella sottostante al formulario.</seg>
       </tuv>
     </tu>
     <tu>
