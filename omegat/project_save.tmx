@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should default text be put into an empty field?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202721Z" creationid="Marco Marega" creationdate="20171026T202721Z">
+        <seg>In un campo vuoto va inserito un testo predefinito?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similar to a list field, but with only the displayed value transferred, or you can enter new values by hand</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
@@ -2166,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This text must be deleted if any other entry is to be made successfully.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202904Z" creationid="Marco Marega" creationdate="20171026T202904Z">
+        <seg>Questo testo deve essere cancellato se viene effettuato con successo un qualsiasi altro inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Time field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203837Z" creationid="Marco Marega" creationdate="20171015T203837Z">
@@ -2270,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually the length of the database field to which the text field corresponds is used here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202644Z" creationid="Marco Marega" creationdate="20171026T202644Z">
+        <seg>Di solito qui viene usata la lunghezza del corrispondente campo del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version 3.5</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105432Z" creationid="ldaghino" creationdate="20171002T105432Z">
@@ -2338,6 +2362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183104Z" creationid="Marco Marega" creationdate="20171014T182801Z">
         <seg>Quando vengono richiamate le proprietà del formulario usanndo il menu contestuale del Navigatore formulario o di un campo di controllo, appare una finestra &lt;f0&gt;Proprietà modulo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this value is 0, entry is not permitted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202544Z" creationid="Marco Marega" creationdate="20171026T202544Z">
+        <seg>Se questo valore è 0, l'inserimento non consentito.</seg>
       </tuv>
     </tu>
     <tu>
