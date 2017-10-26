@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Possible types: Single-line | Multi-line | Multi-line with formatting (the last two differ in tabbing behaviour and, in addition, a pattern field can not be bound to a database).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203515Z" creationid="Marco Marega" creationdate="20171026T203515Z">
+        <seg>Tipi possibili: Riga singola | Più righe | Più righe con formattazione (le ultime due si differenziano per il comportamento del tabulatore, inoltre, un campo a maschera non può essere collegato a un database).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070621Z" creationid="ldaghino" creationdate="20171003T070621Z">
