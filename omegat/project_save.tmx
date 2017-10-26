@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Behind the button for Formating &lt;f0&gt;i&lt;/f0&gt;s a flexible field &lt;f1&gt;t&lt;/f1&gt;h&lt;f2&gt;at&lt;/f2&gt; makes most currency and numeric fields unnecessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211621Z" creationid="Marco Marega" creationdate="20171026T211621Z">
+        <seg>Dietro al pulsante per la Formattazione &lt;f0&gt;si&lt;/f0&gt; nasconde un campo flessibile &lt;f1&gt;che&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; rende inutili la maggior parte dei campi valuta e numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205855Z" creationid="Marco Marega" creationdate="20171015T205855Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203553Z" creationid="Marco Marega" creationdate="20171026T203553Z">
         <seg>Unix o Windows?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike a simple currency field, a pattern field can show negative sums in red.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211717Z" creationid="Marco Marega" creationdate="20171026T211717Z">
+        <seg>A differenza di un semplice campo valuta, un campo a maschera può visualizzare in rosso gli importi negativi.</seg>
       </tuv>
     </tu>
     <tu>
