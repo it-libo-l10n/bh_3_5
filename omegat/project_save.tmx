@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In addition to&lt;/f1&gt; these, there is only:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211040Z" creationid="Marco Marega" creationdate="20171026T211040Z">
+        <seg>&lt;f1&gt;In aggiunta a&lt;/f1&gt; queste, ci sono solamente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;It has&lt;/f1&gt; three tabs: &lt;f2&gt;General&lt;/f2&gt;, &lt;f3&gt;Data&lt;/f3&gt; and &lt;f4&gt;Events.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183134Z" creationid="Marco Marega" creationdate="20171014T183134Z">
@@ -1678,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Min.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210854Z" creationid="Marco Marega" creationdate="20171026T210854Z">
+        <seg>Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimum value for the field, by default set to 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210159Z" creationid="Marco Marega" creationdate="20171026T210159Z">
@@ -2726,10 +2742,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>correspond to the general properties listed on page &lt;bf0&gt;75&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211018Z" creationid="Marco Marega" creationdate="20171026T211018Z">
+        <seg>corrispondono alle proprietà generali elencate a pagina &lt;bf0&gt;75&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dBase databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090829Z" creationid="Marina Latini" creationdate="20171003T090829Z">
         <seg>Database dBase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value, Increment, Default value, Decimal places, and Thousands separator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210951Z" creationid="Marco Marega" creationdate="20171026T210951Z">
+        <seg>massimo, Incremento, Valore Predefinito, Posizioni decimali e Separatore migliaia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value, Max.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210906Z" creationid="Marco Marega" creationdate="20171026T210906Z">
+        <seg>minimo, Valore</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
