@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to the&lt;/f0&gt; properties already listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are available:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210722Z" creationid="Marco Marega" creationdate="20171026T210722Z">
+        <seg>&lt;f0&gt;In aggiunta alle&lt;/f0&gt; proprietà già elencate a pagina &lt;bf1&gt;70&lt;/bf1&gt;, sono disponibili le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the Form Navigator (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;23&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), r&lt;/f3&gt;ight-click on &lt;f4&gt;Forms&lt;/f4&gt; &lt;f5&gt;to&lt;/f5&gt; open a context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135152Z" creationid="Marco Marega" creationdate="20171014T135152Z">
@@ -1400,8 +1408,8 @@
       <tuv lang="EN">
         <seg>Here you can enter a literal date but unfortunately not (yet) the current date (Today) at the time the form is opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205928Z" creationid="Marco Marega" creationdate="20171026T205928Z">
-        <seg>Qui potete inserire una data specifica, ma sfortunatamente non (ancora) la data attuale (oggi) del momento in cui viene aperto il formulario.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210552Z" creationid="Marco Marega" creationdate="20171026T205928Z">
+        <seg>Qui potete inserire una data specifica, ma sfortunatamente non (ancora) la data corrente (oggi) del momento in cui viene aperto il formulario.</seg>
       </tuv>
     </tu>
     <tu>
