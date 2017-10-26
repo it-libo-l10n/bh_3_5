@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can enter a literal date but unfortunately not (yet) the current date (Today) at the time the form is opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205928Z" creationid="Marco Marega" creationdate="20171026T205928Z">
+        <seg>Qui potete inserire una data specifica, ma sfortunatamente non (ancora) la data attuale (oggi) del momento in cui viene aperto il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can set the following initial properties for the form:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T185018Z" creationid="Marco Marega" creationdate="20171014T185018Z">
