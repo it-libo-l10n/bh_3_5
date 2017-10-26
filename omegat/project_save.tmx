@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204259Z" creationid="Marco Marega" creationdate="20171026T204259Z">
+        <seg>Valore massimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimum value for the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204151Z" creationid="Marco Marega" creationdate="20171026T204151Z">
@@ -1666,6 +1674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182513Z" creationid="Marco Marega" creationdate="20171014T182513Z">
         <seg>Ora potete creare il formulario &lt;f0&gt;facendo clic con il pulsante destro del mouse &lt;/f0&gt;e usando il &lt;f1&gt;menu contestuale&lt;/f1&gt; del campo di controllo &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;1&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of decimal places, set to 0 for integers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204530Z" creationid="Marco Marega" creationdate="20171026T204530Z">
+        <seg>Numero di posizioni decimali, per gli interi impostate a 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scrolling increment when using the mouse wheel or within a spin box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204426Z" creationid="Marco Marega" creationdate="20171026T204426Z">
+        <seg>Incremento di valore usato quando di agisce con la rotella del mouse o sui pulsanti di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;9,&lt;/f1&gt; Macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191838Z" creationid="Marco Marega" creationdate="20171017T191838Z">
@@ -1874,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210442Z" creationid="Marco Marega" creationdate="20171014T210442Z">
         <seg>Vedete anche il &lt;f1&gt;Capitolo&lt;/f1&gt; &lt;f2&gt;3,&lt;/f2&gt; Tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separator for thousands, usually a &lt;f0&gt;comma&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204604Z" creationid="Marco Marega" creationdate="20171026T204604Z">
+        <seg>Separatore delle migliaia, di solito una &lt;f0&gt;virgola&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202644Z" creationid="Marco Marega" creationdate="20171026T202644Z">
         <seg>Di solito qui viene usata la lunghezza del corrispondente campo del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value displayed when a new record is being created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204500Z" creationid="Marco Marega" creationdate="20171026T204500Z">
+        <seg>Valore visualizzato quando viene creato un nuovo record.</seg>
       </tuv>
     </tu>
     <tu>
