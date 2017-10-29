@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Formatted &lt;f1&gt;f&lt;/f1&gt;ield with general numeric options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211132Z" creationid="Marco Marega" creationdate="20171029T211132Z">
+        <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: Campo &lt;f1&gt;formattato&lt;/f1&gt; con opzioni numeriche generiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File selector</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210050Z" creationid="Marco Marega" creationdate="20171015T210050Z">
