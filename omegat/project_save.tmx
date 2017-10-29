@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the field is drop-down, this property gives the maximum visible number of lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215522Z" creationid="Marco Marega" creationdate="20171029T215522Z">
+        <seg>Se il campo è apribile, questa proprietà indica il numero massimo di linee visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the field is not specified as drop-down, scroll arrows will appear on the right side of the list box when the form is loaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215249Z" creationid="Marco Marega" creationdate="20171029T215249Z">
@@ -2426,6 +2434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214653Z" creationid="Marco Marega" creationdate="20171029T214653Z">
         <seg>Le voci dell'elenco sono già state impostate usando la Procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list field then automatically becomes a multi-line field, in which the actual value selected is highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215444Z" creationid="Marco Marega" creationdate="20171029T215444Z">
+        <seg>Il campo della lista diventa quindi automaticamente un campo multi-linea, nel quale il valore correntemente selezionato viene evidenziato.</seg>
       </tuv>
     </tu>
     <tu>
