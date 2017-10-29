@@ -2238,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Surname&lt;/f0&gt; field f&lt;f1&gt;rom the &lt;/f1&gt;Reader table s&lt;f2&gt;hould &lt;/f2&gt;be visible in the list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213210Z" creationid="Marco Marega" creationdate="20171029T213210Z">
+        <seg>Il campo &lt;f0&gt;LastName&lt;/f0&gt; della &lt;f1&gt;tabella &lt;/f1&gt;Reader &lt;f2&gt;dovrebbe &lt;/f2&gt;essere visibile nella casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Events category controls actions, which can be bound to some macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210829Z" creationid="Marco Marega" creationdate="20171015T210829Z">
