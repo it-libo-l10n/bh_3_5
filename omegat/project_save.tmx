@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Reader table i&lt;f5&gt;s desc&lt;/f5&gt;ribed here as the &lt;f6&gt;List table&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214203Z" creationid="Marco Marega" creationdate="20171029T213659Z">
+        <seg>La tabella Reader viene &lt;f5&gt;in questo caso&lt;/f5&gt; definita come &lt;f6&gt;Tabella di elenco&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
@@ -2608,8 +2616,8 @@
       <tuv lang="EN">
         <seg>This table is described here as the &lt;f2&gt;Value table&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213552Z" creationid="Marco Marega" creationdate="20171029T213552Z">
-        <seg>Questa tabella viene definita come Tabella dei &lt;f2&gt;Valori&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213729Z" creationid="Marco Marega" creationdate="20171029T213552Z">
+        <seg>Questa tabella viene in questo caso definita come Tabella dei &lt;f2&gt;Valori&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
