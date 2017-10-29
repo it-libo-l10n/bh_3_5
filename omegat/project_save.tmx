@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you could add further entries that are not from any table in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214738Z" creationid="Marco Marega" creationdate="20171029T214738Z">
+        <seg>Qui potete aggiungere ulteriori voci che non provengono da nessuna tabella del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlighted text loses the highlight when the text field loses focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
@@ -1746,6 +1754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204209Z" creationid="Marco Marega" creationdate="20171015T204209Z">
         <seg>Casella di riepilogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List entries here means the visible entries, not those that the form will transmit to the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214953Z" creationid="Marco Marega" creationdate="20171029T214953Z">
+        <seg>Voci dell'elenco va inteso come quelle visibili, non quelle che il formulario trasmetterà alla tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2394,6 +2410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214357Z" creationid="Marco Marega" creationdate="20171029T214357Z">
         <seg>La casella di riepilogo è stata così creata completa dei dati, della configurazione predefinita e perfettamente funzionante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list entries have already been set using the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214653Z" creationid="Marco Marega" creationdate="20171029T214653Z">
+        <seg>Le voci dell'elenco sono già state impostate usando la Procedura guidata.</seg>
       </tuv>
     </tu>
     <tu>
