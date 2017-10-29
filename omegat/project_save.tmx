@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List &lt;f0&gt;b&lt;/f0&gt;ox</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211226Z" creationid="Marco Marega" creationdate="20171029T211226Z">
+        <seg>Casella &lt;f0&gt;di&lt;/f0&gt; riepilogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204209Z" creationid="Marco Marega" creationdate="20171015T204209Z">
@@ -2584,8 +2592,8 @@
       <tuv lang="EN">
         <seg>Unlike a simple currency field, a pattern field can show negative sums in red.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211717Z" creationid="Marco Marega" creationdate="20171026T211717Z">
-        <seg>A differenza di un semplice campo valuta, un campo a maschera può visualizzare in rosso gli importi negativi.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211149Z" creationid="Marco Marega" creationdate="20171026T211717Z">
+        <seg>A differenza di un semplice campo valuta, un campo formattato può visualizzare in rosso gli importi negativi.</seg>
       </tuv>
     </tu>
     <tu>
