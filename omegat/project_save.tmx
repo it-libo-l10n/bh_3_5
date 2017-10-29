@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;, the following features are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214507Z" creationid="Marco Marega" creationdate="20171029T214507Z">
+        <seg>In aggiunta alle proprietà elencate a pagina &lt;bf0&gt;70&lt;/bf0&gt;, sono disponibili le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, numeric, date fields, etc have the following properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192218Z" creationid="Marco Marega" creationdate="20171017T192218Z">
