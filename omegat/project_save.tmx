@@ -2238,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Reader_ID&lt;/f0&gt; field o&lt;f1&gt;ccurs in &lt;/f1&gt;the Loan table which underlies the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213442Z" creationid="Marco Marega" creationdate="20171029T213442Z">
+        <seg>Il campo &lt;f0&gt;Reader_ID&lt;/f0&gt; &lt;f1&gt;ricorre &lt;/f1&gt;nella tabella Loan che sottostà al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Surname&lt;/f0&gt; field f&lt;f1&gt;rom the &lt;/f1&gt;Reader table s&lt;f2&gt;hould &lt;/f2&gt;be visible in the list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213210Z" creationid="Marco Marega" creationdate="20171029T213210Z">
@@ -2570,6 +2578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
         <seg>Questo influenza principalmente i fine riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This serves as the &lt;f3&gt;Display&lt;/f3&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213241Z" creationid="Marco Marega" creationdate="20171029T213241Z">
+        <seg>Questo campo serve da &lt;f3&gt;campo di visualizzazione&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
