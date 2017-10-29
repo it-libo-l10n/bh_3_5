@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It could well be the case that the record corresponding to the default selection in the example table &lt;f0&gt;Readers&lt;/f0&gt; is no longer present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220450Z" creationid="Marco Marega" creationdate="20171029T220450Z">
+        <seg>Potrebbe benissimo succedere che il record corrispondente alla selezione predefinita non sia più presente nella tabella di esempio &lt;f0&gt;Reader&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is bound to a &lt;f0&gt;Table&lt;/f0&gt; named &lt;f1&gt;Loans&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
