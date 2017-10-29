@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is bound to a &lt;f0&gt;Table&lt;/f0&gt; named &lt;f1&gt;Loans&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
+        <seg>Questo è collegato a una &lt;f0&gt;Tabella&lt;/f0&gt; denominata &lt;f1&gt;Loan&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It serves within Base to allow contact with the data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
@@ -2318,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form is already defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212039Z" creationid="Marco Marega" creationdate="20171029T212039Z">
+        <seg>Il formulario è già stato definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name of a control must be unique within the form&lt;f0&gt;—&lt;/f0&gt;used for access using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
@@ -2834,6 +2850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133140Z" creationid="Marco Marega" creationdate="20171014T133140Z">
         <seg>Senza queste barre degli strumenti non è possibile creare un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211930Z" creationid="Marco Marega" creationdate="20171029T211930Z">
+        <seg>Procedura guidata</seg>
       </tuv>
     </tu>
     <tu>
