@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list box shows the user different data from what is actually transmitted into the &lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212330Z" creationid="Marco Marega" creationdate="20171029T212330Z">
+        <seg>Una casella di riepilogo mostra all'utente dati differenti da ciò che viene effettivamente trasmesso alla &lt;f2&gt;&lt;f3&gt;tabella&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A loop is created which can only be broken by using the keyboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195943Z" creationid="Marco Marega" creationdate="20171017T195943Z">
@@ -2466,6 +2474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200346Z" creationid="Marco Marega" creationdate="20171017T200346Z">
         <seg>Questo causa la ricezione del focus da parte di un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This data usually comes from another table in the database, and not from the table to which the form is bound.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212502Z" creationid="Marco Marega" creationdate="20171029T212502Z">
+        <seg>Questi dati di solito provengono da un'altra tabella del database e non da quella a cui è collegato il formulario.</seg>
       </tuv>
     </tu>
     <tu>
