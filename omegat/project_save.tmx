@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The primary key &lt;f3&gt;ID&lt;/f3&gt; from the Reader table m&lt;f4&gt;ust be&lt;/f4&gt; bound to this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213642Z" creationid="Marco Marega" creationdate="20171029T213642Z">
+        <seg>La chiave primaria &lt;f3&gt;ID&lt;/f3&gt; della tabella Reader &lt;f4&gt;deve essere&lt;/f4&gt; collegata a questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The simplest way to create a form is to use the Form Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
@@ -2594,6 +2602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211656Z" creationid="Marco Marega" creationdate="20171014T211656Z">
         <seg>Questa impostazione della barra di navigazione è irrilevante per la barra di navigazione interna che, se richiesto, può essere aggiunta come campo di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This table is described here as the &lt;f2&gt;Value table&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213552Z" creationid="Marco Marega" creationdate="20171029T213552Z">
+        <seg>Questa tabella viene definita come Tabella dei &lt;f2&gt;Valori&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
