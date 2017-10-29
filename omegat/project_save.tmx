@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the deactivated button makes clear, a default selection makes little sense in the context of a binding with a database table, as created by the List Field Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220341Z" creationid="Marco Marega" creationdate="20171029T220341Z">
+        <seg>Come la disattivazione del pulsante rende chiaro, una selezione predefinita ha poco senso nel contesto di un collegamento con una tabella del database, così come viene creata dalla Creazione guidata casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As well as the properties described on page &lt;bf0&gt;70&lt;/bf0&gt;, the following are to be noted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205252Z" creationid="Marco Marega" creationdate="20171026T205252Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193643Z" creationid="Marco Marega" creationdate="20171017T193643Z">
         <seg>Se viene premuta a lungo una freccia del pulsante di selezione, si determina l'incremento del valore inserito nella casella oltre al prossimo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, macros can help in the interpretation of multiple entries in the list field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220003Z" creationid="Marco Marega" creationdate="20171029T220003Z">
+        <seg>Se necessario, le macro possono aiutare a interpretare selezioni multiple nell'elenco del campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202644Z" creationid="Marco Marega" creationdate="20171026T202644Z">
         <seg>Di solito qui viene usata la lunghezza del corrispondente campo del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually this function is not used for databases, since each field should only contain one value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215854Z" creationid="Marco Marega" creationdate="20171029T215854Z">
+        <seg>Di solito questa funzione non viene usata per i database, in quanto ogni campo dovrebbe contenere un solo valore.</seg>
       </tuv>
     </tu>
     <tu>
