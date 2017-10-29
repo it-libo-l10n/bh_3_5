@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However this table does not store the name of the reader but the corresponding primary key from the Reader table&lt;f2&gt;.&lt;/f2&gt; It is therefore the Reader table t&lt;f3&gt;hat fo&lt;/f3&gt;rm&lt;f4&gt;s&lt;/f4&gt; the basis for the list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212951Z" creationid="Marco Marega" creationdate="20171029T212951Z">
+        <seg>Però questa tabella non contiene il nome del lettore, bensì la corrispondente chiave primaria della tabella Reader&lt;f2&gt;.&lt;/f2&gt; Perciò è la tabella Reader che &lt;f3&gt;rappresenta &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; la base per la casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However this will prevent the form accessing the underlying data using a filter or a sort.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210103Z" creationid="Marco Marega" creationdate="20171014T210103Z">
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194511Z" creationid="Marco Marega" creationdate="20171017T194511Z">
         <seg>Se l'utente non inserisce un valore, l'interfaccia grafica ne richiederà l'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Loans table i&lt;f0&gt;s suppos&lt;/f0&gt;ed to show which Reader has borro&lt;f1&gt;wed w&lt;/f1&gt;hich Media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212718Z" creationid="Marco Marega" creationdate="20171029T212718Z">
+        <seg>La tabella Loan si &lt;f0&gt;suppone&lt;/f0&gt; che visualizzi quale Lettore ha preso in prestito &lt;f1&gt;un determinato&lt;/f1&gt; Media.</seg>
       </tuv>
     </tu>
     <tu>
