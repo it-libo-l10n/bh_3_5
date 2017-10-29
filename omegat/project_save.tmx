@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Can more than one value be selected?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215733Z" creationid="Marco Marega" creationdate="20171029T215733Z">
+        <seg>E' possibile selezionare più di un valore?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can only be used with a macro&lt;f0&gt;—&lt;/f0&gt;not further described</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210242Z" creationid="Marco Marega" creationdate="20171015T210242Z">
@@ -1550,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the content extends over more lines, a scrollbar appears when the list drops down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
+        <seg>Se il contenuto prosegue su ulteriori linee, quando l'elenco viene aperto comparirà una barra di scorrimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the field is drop-down, this property gives the maximum visible number of lines.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215522Z" creationid="Marco Marega" creationdate="20171029T215522Z">
@@ -1666,6 +1682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
         <seg>Nelle prove fatte questa azione &lt;s1/&gt; si ripete; le macro vengono eseguite due volte di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, this is not possible since a foreign key is being stored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215805Z" creationid="Marco Marega" creationdate="20171029T215805Z">
+        <seg>Nell'esempio di cui sopra, questo non è possibile in quanto viene memorizzata una chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
