@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the field is not specified as drop-down, scroll arrows will appear on the right side of the list box when the form is loaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215249Z" creationid="Marco Marega" creationdate="20171029T215249Z">
+        <seg>Se il campo non è indicato come apribile, quando il formulario viene caricato appariranno delle frecce di selezione sul lato destro della linea di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is a frame, its color can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191521Z" creationid="Marco Marega" creationdate="20171017T191521Z">
