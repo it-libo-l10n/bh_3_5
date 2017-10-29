@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list box has now been created complete with data and default configuration and is fully functional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214357Z" creationid="Marco Marega" creationdate="20171029T214357Z">
+        <seg>La casella di riepilogo è stata così creata completa dei dati, della configurazione predefinita e perfettamente funzionante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name of a control must be unique within the form&lt;f0&gt;—&lt;/f0&gt;used for access using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
