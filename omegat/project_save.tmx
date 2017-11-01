@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List contents SQL [Native]&lt;/f0&gt;: The SQL formula is entered directly, not using the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212651Z" creationid="Marco Marega" creationdate="20171101T212651Z">
+        <seg>&lt;f0&gt;Contenuti della lista da SQL [Nativo]&lt;/f0&gt;: La formula SQL viene inserita direttamente, senza usare la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List contents Table&lt;/f0&gt;: Here one of the database tables can be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205928Z" creationid="Marco Marega" creationdate="20171101T205928Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212334Z" creationid="Marco Marega" creationdate="20171014T212334Z">
         <seg>&lt;f10&gt;Pagina corrente&lt;/f10&gt; si riferisce a particolari formulari in HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f10&gt;See&lt;/f10&gt; &lt;f11&gt;C&lt;/f11&gt;hapter &lt;f12&gt;5,&lt;/f12&gt; Queries, &lt;f13&gt;for information on &lt;/f13&gt;how this works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212542Z" creationid="Marco Marega" creationdate="20171101T212542Z">
+        <seg>&lt;f10&gt;Vedete il&lt;/f10&gt; &lt;f11&gt;Capitolo&lt;/f11&gt; &lt;f12&gt;5,&lt;/f12&gt; Query, &lt;f13&gt;per maggiori informazioni &lt;/f13&gt;sul funzionamento di questi aspetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T140716Z" creationid="ldaghino" creationdate="20171002T140716Z">
         <seg>Manuale di Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base does not evaluate the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212710Z" creationid="Marco Marega" creationdate="20171101T212710Z">
+        <seg>Base non valuta la query.</seg>
       </tuv>
     </tu>
     <tu>
