@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The creation of such queries is described in &lt;f1&gt;Chapter 5, &lt;/f1&gt;Queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211204Z" creationid="Marco Marega" creationdate="20171101T211204Z">
+        <seg>La creazione di questo tipo di query è descritta nel &lt;f1&gt;Capitolo 5, &lt;/f1&gt;Query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cursor jumps from the end of a form to the next form on that page further down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212446Z" creationid="Marco Marega" creationdate="20171014T212446Z">
