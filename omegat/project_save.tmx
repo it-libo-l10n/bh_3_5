@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Error occurred&lt;/f0&gt;: Unfortunately, this event cannot be reconstructed for list boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T214228Z" creationid="Marco Marega" creationdate="20171101T214228Z">
+        <seg>&lt;f0&gt;Si è verificato un errore&lt;/f0&gt;: Sfortunatamente, per le caselle di riepilogo non è possibile ricostruire questo evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Events&lt;/f0&gt; can trigger macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212525Z" creationid="Marco Marega" creationdate="20171014T212525Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090001Z" creationid="Marina Latini" creationdate="20171003T090001Z">
         <seg>Introduzione a Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It could also be a click on the drop-down button of the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T214108Z" creationid="Marco Marega" creationdate="20171101T214108Z">
+        <seg>Potrebbe essere anche un clic sul pulsante per la comparsa dell'elenco del campo.</seg>
       </tuv>
     </tu>
     <tu>
