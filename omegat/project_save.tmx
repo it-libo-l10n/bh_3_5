@@ -2566,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The position of this field within the table is specified in &lt;f1&gt;Bound Field&lt;/f1&gt;, where the &lt;f2&gt;Numbering begins with 0 for the first field of the database table&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210635Z" creationid="Marco Marega" creationdate="20171101T210635Z">
+        <seg>La posizione di questo campo viene specificata in &lt;f1&gt;Campo collegato&lt;/f1&gt;, dove la &lt;f2&gt;Numerazione inizia con 0 per indicare il primo campo della tabella del database&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The primary key &lt;f3&gt;ID&lt;/f3&gt; from the Reader table m&lt;f4&gt;ust be&lt;/f4&gt; bound to this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213642Z" creationid="Marco Marega" creationdate="20171029T213642Z">
