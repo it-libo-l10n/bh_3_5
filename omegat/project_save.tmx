@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Item status changed&lt;/f0&gt;: This could be the change of the displayed content of a list box through the use of the drop-down button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213954Z" creationid="Marco Marega" creationdate="20171101T213954Z">
+        <seg>&lt;f0&gt;Stato modificato&lt;/f0&gt;: Questo potrebbe essere la modifica del contenuto visualizzato di una casella di riepilogo a seguito dell'uso del pulsante per la comparsa a discesa dell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Jochen Schiffers&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085013Z" creationid="Marina Latini" creationdate="20171003T085013Z">
