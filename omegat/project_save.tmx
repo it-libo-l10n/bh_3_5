@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List contents Query&lt;/f0&gt;: Here a query is first created separately and stored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211031Z" creationid="Marco Marega" creationdate="20171101T211031Z">
+        <seg>&lt;f0&gt;Contenuti della lista da Query&lt;/f0&gt;: In questo caso, separatamente, viene prima creata e salvata una query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List contents Table&lt;/f0&gt;: Here one of the database tables can be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205928Z" creationid="Marco Marega" creationdate="20171101T205928Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211621Z" creationid="Marco Marega" creationdate="20171026T211621Z">
         <seg>Dietro al pulsante per la Formattazione &lt;f0&gt;si&lt;/f0&gt; nasconde un campo flessibile &lt;f1&gt;che&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; rende inutili la maggior parte dei campi valuta e numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But this 0 is reserved for the displayed value, in the above example the &lt;f3&gt;Surname&lt;/f3&gt;, while the 1 refers to the &lt;f4&gt;ID &lt;/f4&gt;field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210836Z" creationid="Marco Marega" creationdate="20171101T210836Z">
+        <seg>Ma questo 0 è riservato per il valore da visualizzare, nell'esempio di cui sopra &lt;f3&gt;Last Name&lt;/f3&gt;, mentre 1 si riferisce al campo &lt;f4&gt;ID&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
