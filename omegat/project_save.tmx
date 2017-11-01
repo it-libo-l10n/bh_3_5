@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the usual data properties &lt;f0&gt;Data field&lt;/f0&gt; and &lt;f1&gt;Input required&lt;/f1&gt;, there are significant properties which affect the binding between the displayed data and the data to be entered into the table that underlies the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205008Z" creationid="Marco Marega" creationdate="20171101T205008Z">
+        <seg>In aggiunta alle consuete proprietà dei dati &lt;f0&gt;Campo di dati&lt;/f0&gt; e &lt;f1&gt;Digitazione necessaria&lt;/f1&gt;, ci sono proprietà importanti che influiscono sul collegamento tra i dati visualizzati e quelli da inserire nella tabella che sottostà al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, numeric, date fields, etc have the following properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192218Z" creationid="Marco Marega" creationdate="20171017T192218Z">
