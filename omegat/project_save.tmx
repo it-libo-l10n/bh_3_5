@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the bound field is Field 1, this SQL formula works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211958Z" creationid="Marco Marega" creationdate="20171101T211958Z">
+        <seg>Dato che il campo collegato è il Campo 1, questa formula SQL funziona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the data &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in a spreadsheet &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;is laid out in a table view, plainly visible and able to be edited or added to, many users ask why they should use a database instead of a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190931Z" creationid="osvaldo" creationdate="20171012T190853Z">
@@ -1514,6 +1522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here should be added &lt;f1&gt;ORDER BY "LastName" ASC&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212024Z" creationid="Marco Marega" creationdate="20171101T212024Z">
+        <seg>Qui dovrebbe essere aggiunto &lt;f1&gt;ORDER BY "LastName" ASC&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
         <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So you haven't to scroll to long through the list to find somebody.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212126Z" creationid="Marco Marega" creationdate="20171101T212126Z">
+        <seg>In modo che per trovare qualcuno non dobbiate scorrere la lista troppo a lungo.</seg>
       </tuv>
     </tu>
     <tu>
