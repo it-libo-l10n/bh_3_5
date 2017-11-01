@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Type of list contents&lt;/f0&gt;: Valuelist | Table | Query | SQL | SQL [Native] | Tablefields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205138Z" creationid="Marco Marega" creationdate="20171101T205138Z">
+        <seg>&lt;f0&gt;Tipo del contenuto della lista&lt;/f0&gt;: Elenco valori | Tabelle | Query | SQL | SQL [Nativo] | Campi tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Type of submission&lt;/f0&gt;: GET (visible via the URL attached to the filename; you can see this often in the web if you use a search engine) or POST (not visible; suitable for large data volumes).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184824Z" creationid="Marco Marega" creationdate="20171014T184545Z">
