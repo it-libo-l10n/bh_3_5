@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both are read from the Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211823Z" creationid="Marco Marega" creationdate="20171101T211823Z">
+        <seg>Entrambi vengono letti dalla tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But this 0 is reserved for the displayed value, in the above example the &lt;f3&gt;Surname&lt;/f3&gt;, while the 1 refers to the &lt;f4&gt;ID &lt;/f4&gt;field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210836Z" creationid="Marco Marega" creationdate="20171101T210836Z">
@@ -2478,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Surname field o&lt;f0&gt;ccurs at&lt;/f0&gt; position 0, the ID field at position 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211742Z" creationid="Marco Marega" creationdate="20171101T211742Z">
+        <seg>Il campo Last name &lt;f0&gt;si trova nella&lt;/f0&gt; posizione 0, il campo ID nella posizione 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
@@ -2610,6 +2626,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213642Z" creationid="Marco Marega" creationdate="20171029T213642Z">
         <seg>La chiave primaria &lt;f3&gt;ID&lt;/f3&gt; della tabella Reader &lt;f4&gt;deve essere&lt;/f4&gt; collegata a questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query constructed by the Wizard looks like this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
+        <seg>La query costruita dalla procedura guidata è così strutturata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query is the simplest possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211659Z" creationid="Marco Marega" creationdate="20171101T211641Z">
+        <seg>La query è la più semplice possibile.</seg>
       </tuv>
     </tu>
     <tu>
