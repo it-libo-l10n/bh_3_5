@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List contents tablefields&lt;/f0&gt;: Here &lt;f1&gt;Field names&lt;/f1&gt; from a table are listed, not their content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213317Z" creationid="Marco Marega" creationdate="20171101T213317Z">
+        <seg>&lt;f0&gt;Contenuti della lista da Campi tabella&lt;/f0&gt;: qui sono elencati i &lt;f1&gt;nomi dei Campi&lt;/f1&gt; di una tabella, non il loro contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List contents&lt;/f0&gt;&lt;f1&gt; SQL&lt;/f1&gt;: The List Box Wizard fills this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211552Z" creationid="Marco Marega" creationdate="20171101T211552Z">
