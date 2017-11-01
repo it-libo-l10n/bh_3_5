@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case the query is not checked for errors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212933Z" creationid="Marco Marega" creationdate="20171101T212933Z">
+        <seg>In questo caso sulla query non vengono effettuati controlli alla ricerca di errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, not all fields may be required to appear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203810Z" creationid="Marco Marega" creationdate="20171016T203810Z">
@@ -2018,6 +2026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204151Z" creationid="Marco Marega" creationdate="20171026T204151Z">
         <seg>Valore minimo per il campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More about &lt;f1&gt;direct SQL Mode&lt;/f1&gt; can be found in &lt;f2&gt;C&lt;/f2&gt;hapter &lt;f3&gt;5,&lt;/f3&gt; Queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213048Z" creationid="Marco Marega" creationdate="20171101T213048Z">
+        <seg>Maggiori informazioni su &lt;f1&gt;SQL in Modalità diretta&lt;/f1&gt; si possono trovare nel &lt;f2&gt;Capitolo&lt;/f2&gt; &lt;f3&gt;5,&lt;/f3&gt; Query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +2898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201014Z" creationid="Marco Marega" creationdate="20171015T201014Z">
         <seg>Questa opzione è significativa solo per formulari per il Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is suitable when the query contains functions that might perhaps not be understood by the Base GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212844Z" creationid="Marco Marega" creationdate="20171101T212844Z">
+        <seg>Questo è indicato quando la query contiene funzioni che probabilmente potrebbero non essere comprese dall'Interfaccia di Base.</seg>
       </tuv>
     </tu>
     <tu>
