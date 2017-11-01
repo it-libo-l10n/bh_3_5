@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Execute action&lt;/f0&gt;: If a value is chosen by the keyboard &lt;f1&gt;or the mouse&lt;/f1&gt;, the list box executes &lt;f2&gt;this action&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213705Z" creationid="Marco Marega" creationdate="20171101T213705Z">
+        <seg>&lt;f0&gt;Eseguire l'azione&lt;/f0&gt;: quando un valore viene selezionato con la tastiera &lt;f1&gt;o con il mouse&lt;/f1&gt;, la casella di riepilogo esegue &lt;f2&gt;questa azione&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: Context menu for form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140712Z" creationid="Marco Marega" creationdate="20171014T140712Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211309Z" creationid="Marco Marega" creationdate="20171026T211309Z">
         <seg>&lt;f0&gt;In aggiunta alle&lt;/f0&gt; proprietà elencate a pagina &lt;bf1&gt;70&lt;/bf1&gt;, offre le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the standard events, the following events are available:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213528Z" creationid="Marco Marega" creationdate="20171101T213528Z">
+        <seg>&lt;f0&gt;In aggiunta agli&lt;/f0&gt; eventi standard, sono disponibili i seguenti eventi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210157Z" creationid="Marco Marega" creationdate="20171015T210157Z">
         <seg>Per selezionare file, ad esempio per il caricamento in un formulario HTML &lt;f0&gt;—&lt;/f0&gt;non verrà ulteriormente descritto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the Reader &lt;f2&gt;table,&lt;/f2&gt; the List contents would be "&lt;f3&gt;ID", "Given name", "Surname", "Lock", "Gender_ID".&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213449Z" creationid="Marco Marega" creationdate="20171101T213449Z">
+        <seg>Per la tabella Reader&lt;f2&gt;,&lt;/f2&gt; i contenuti dell'elenco saranno "&lt;f3&gt;ID", "FirstName", "LastName", "Lock", "Gender_ID".&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
