@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List contents Table&lt;/f0&gt;: Here one of the database tables can be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205928Z" creationid="Marco Marega" creationdate="20171101T205928Z">
+        <seg>&lt;f0&gt;Contenuti della lista da Tabella&lt;/f0&gt;: qui è possibile selezionare una delle tabelle del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List contents Valuelist&lt;/f0&gt;: If list entr&lt;f1&gt;ies have been created unde&lt;/f1&gt;r &lt;f2&gt;General&lt;/f2&gt;, the corresponding values to be stored are entered here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205447Z" creationid="Marco Marega" creationdate="20171101T205217Z">
@@ -1530,6 +1538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
         <seg>Il testo selezionato perde l'evidenziazione quando il campo di testo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However this is seldom possible as it requires the content of the table to be so structured that the first table field contains the values to be displayed in the list field, and one of the following fields contains the primary key which the table underlying the form uses as a foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210434Z" creationid="Marco Marega" creationdate="20171101T210434Z">
+        <seg>Questo però è possibile raramente in quanto richiede che il contenuto della tabella sia strutturato in modo che il primo capo contenga i valori da visualizzare nella casella di riepilogo e uno dei campi successivi contenga la chiave primaria, che viene usata come chiave esterna dalla tabella sottostante al formulario.</seg>
       </tuv>
     </tu>
     <tu>
