@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List contents&lt;/f0&gt;&lt;f1&gt; SQL&lt;/f1&gt;: The List Box Wizard fills this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211552Z" creationid="Marco Marega" creationdate="20171101T211552Z">
+        <seg>&lt;f0&gt;Contenuti della lista da&lt;/f0&gt;&lt;f1&gt; SQL&lt;/f1&gt;: La procedura guidata Comando SQL riempie questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Mouse&lt;/f0&gt;: Self-explanatory; These events only takes place if the mouse is or was already within the field ("outside" corresponds to the javascript onMouseOut).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200742Z" creationid="Marco Marega" creationdate="20171017T200742Z">
@@ -2938,6 +2946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085806Z" creationid="Marina Latini" creationdate="20171003T085806Z">
         <seg>Utilizzo di LibreOffice su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the query, it is possible to move the &lt;f2&gt;ID field&lt;/f2&gt; from the first position in the underlying table to the second position, here represented by the bound field 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211348Z" creationid="Marco Marega" creationdate="20171101T211348Z">
+        <seg>Usando la query, è possibile spostare il campo &lt;f2&gt;ID&lt;/f2&gt; dalla prima posizione nella tabella sottostante alla seconda posizione, qui rappresentata dal campo collegato 1.</seg>
       </tuv>
     </tu>
     <tu>
