@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the data to be displayed in the combo box is also to be stored in this table, the source selected for the data for the list is likewise the Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222750Z" creationid="Marco Marega" creationdate="20171102T222750Z">
+        <seg>Considerato che i dati da visualizzare nella casella combinata vanno anche memorizzati in questa tabella, la sorgente selezionata per i dati dell'elenco è parimenti  la tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the deactivated button makes clear, a default selection makes little sense in the context of a binding with a database table, as created by the List Field Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220341Z" creationid="Marco Marega" creationdate="20171029T220341Z">
