@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, creation using the Wizard once more makes it impossible for the content to be sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232014Z" creationid="Marco Marega" creationdate="20171102T232014Z">
+        <seg>Però, ancora una volta, la creazione mediante la proceduta guidata rende impossibile ordinare in contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&lt;f3&gt;t also describes&lt;/f3&gt; the properties of the various types of controls in a form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185104Z" creationid="Marco Marega" creationdate="20171013T185104Z">
@@ -3336,8 +3344,8 @@
       <tuv lang="EN">
         <seg>We want to read given names from the Reader table, and also to make them available for new readers, so that new records do not need to be created for a given name that already exists in the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T223930Z" creationid="Marco Marega" creationdate="20171102T223930Z">
-        <seg>Si desidera leggere determinati nomi dalla tabella Reader e anche renderli disponibili per nuovi lettori, in modo che non sia necessario creare nuovi record per un determinato nome che già esiste nel database.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231848Z" creationid="Marco Marega" creationdate="20171102T223930Z">
+        <seg>Si desidera leggere i nomi dati dalla tabella Reader e anche renderli disponibili per nuovi lettori, in modo che non sia necessario creare nuovi record per un determinato nome che già esiste nel database.</seg>
       </tuv>
     </tu>
     <tu>
