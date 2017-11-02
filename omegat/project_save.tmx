@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Combo boxes write the selected text directly into the table underlying the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221409Z" creationid="Marco Marega" creationdate="20171102T221409Z">
+        <seg>Le caselle combinate scrivono il testo selezionato direttamente nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
@@ -2858,6 +2866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211020Z" creationid="Marco Marega" creationdate="20171014T211020Z">
         <seg>Non ci sarà alcun accesso ai dati esistenti, &lt;f1&gt;che&lt;/f1&gt; non potranno essere né modificati né visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore the following example shows both the table linked to the form and the one selected for the control as the Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221547Z" creationid="Marco Marega" creationdate="20171102T221547Z">
+        <seg>Perciò gli esempi seguenti mostrano sia la tabella collegata al formulario, sia quella selezionata per il campo di controllo come la tabella Reader.</seg>
       </tuv>
     </tu>
     <tu>
