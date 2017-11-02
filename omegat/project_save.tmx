@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During entry of new values, a list of matching values (if any) is displayed for possible selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
+        <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203824Z" creationid="Marco Marega" creationdate="20171015T203824Z">
