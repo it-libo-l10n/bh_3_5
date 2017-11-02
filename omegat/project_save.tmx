@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a database, there seems to be little point in not storing the value of a combo box within a field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T223712Z" creationid="Marco Marega" creationdate="20171102T223038Z">
+        <seg>In un database, non sembra avere molto senso non memorizzare in un campo il valore di una casella combinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition there are design possibilities that have no significance inside Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183405Z" creationid="Marco Marega" creationdate="20171014T183405Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
         <seg>Nelle prove fatte questa azione &lt;s1/&gt; si ripete; le macro vengono eseguite due volte di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Reader table the FirstName field occurs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T223047Z" creationid="Marco Marega" creationdate="20171102T222853Z">
+        <seg>Nella tabella Reader è presente il campo FirstName.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211656Z" creationid="Marco Marega" creationdate="20171014T211656Z">
         <seg>Questa impostazione della barra di navigazione è irrilevante per la barra di navigazione interna che, se richiesto, può essere aggiunta come campo di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This should be displayed in the combo box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222917Z" creationid="Marco Marega" creationdate="20171102T222917Z">
+        <seg>Questo dovrebbe essere visualizzato nella casella combinata.</seg>
       </tuv>
     </tu>
     <tu>
