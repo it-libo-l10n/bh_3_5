@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as a combo box is created, a Wizard appears by default, just as with a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221102Z" creationid="Marco Marega" creationdate="20171102T221102Z">
+        <seg>Come per una casella di riepilogo, appena viene creata una casella combinata, in maniera predefinita compare una procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the bound field is Field 1, this SQL formula works.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211958Z" creationid="Marco Marega" creationdate="20171101T211958Z">
@@ -2874,6 +2882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211916Z" creationid="Marco Marega" creationdate="20171029T211916Z">
         <seg>Se necessario, questa comparsa automatica può essere attivata  o&lt;f2&gt;disattivata&lt;/f2&gt; usando il pulsante Procedura guidata &lt;f3&gt;si&lt;/f3&gt;/&lt;f4&gt;no&lt;/f4&gt; (&lt;f5&gt;mostrato nella &lt;/f5&gt;Figura&lt;f6&gt;&lt;/f6&gt; &lt;t7&gt;24&lt;/t7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This automatic behavior can be switched off if necessary using the Wizards &lt;f0&gt;O&lt;/f0&gt;n/&lt;f1&gt;O&lt;/f1&gt;ff &lt;f2&gt;button&lt;/f2&gt; (&lt;f3&gt;see &lt;/f3&gt;Fig&lt;f4&gt;ure &lt;/f4&gt;&lt;t5&gt;24&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221312Z" creationid="Marco Marega" creationdate="20171102T221312Z">
+        <seg>Se necessario, questo comportamento automatico può essere disattivato usando il pulsante Procedura guidata &lt;f0&gt;Si&lt;/f0&gt;/&lt;f1&gt;no&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; (&lt;f3&gt;vedete &lt;/f3&gt;Figura&lt;f4&gt; &lt;/f4&gt;&lt;t5&gt;24&lt;/t5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
