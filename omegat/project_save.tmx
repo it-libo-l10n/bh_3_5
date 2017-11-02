@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding the &lt;f0&gt;DISTINCT&lt;/f0&gt; keyword ensures that duplicate given names are shown only once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231749Z" creationid="Marco Marega" creationdate="20171102T231749Z">
+        <seg>Aggiungendo la parola chiave &lt;f0&gt;DISTINCT&lt;/f0&gt; ci si assicura che i nomi restituiti aventi dei duplicati, vengano mostrati solo una volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the form is predefined, this time with the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
@@ -2422,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT DISTINCT "FirstName" FROM "Reader"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231607Z" creationid="Marco Marega" creationdate="20171102T231607Z">
+        <seg>SELECT DISTINCT "FirstName" FROM "Reader"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scrollbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210256Z" creationid="Marco Marega" creationdate="20171015T210256Z">
@@ -2702,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The SQL command however shows a special feature:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231606Z" creationid="Marco Marega" creationdate="20171102T231515Z">
+        <seg>Il comando SQL però evidenzia una caratteristica speciale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Surname field o&lt;f0&gt;ccurs at&lt;/f0&gt; position 0, the ID field at position 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211742Z" creationid="Marco Marega" creationdate="20171101T211742Z">
@@ -2762,6 +2786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210721Z" creationid="Marco Marega" creationdate="20171015T210721Z">
         <seg>La categoria dati specifica il legame con un campo del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data fields conform to the existing default settings and the settings for a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231523Z" creationid="Marco Marega" creationdate="20171102T231451Z">
+        <seg>I campi di dati si conformano alle impostazioni predefinite e a quelle per una casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
