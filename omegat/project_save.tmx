@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again the form is predefined, this time with the Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
+        <seg>Di nuovo il formulario è predefinito, questa volta con la tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alignment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204601Z" creationid="Marco Marega" creationdate="20171016T204601Z">
