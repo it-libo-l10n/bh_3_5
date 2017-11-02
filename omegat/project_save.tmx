@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a new value does need to be entered, this can be done easily in a combo box, as the box shows exactly what is going into the underlying table for the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230638Z" creationid="Marco Marega" creationdate="20171102T230638Z">
+        <seg>Se c'è la necessità di inserire un nuovo valore, in una casella combinata questo può essere fatto facilmente, dato che la casella mostra esattamente ciò che va nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a spin arrow is pressed down and held, this determines if the entry in the box should be incremented beyond the next value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193643Z" creationid="Marco Marega" creationdate="20171017T193643Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214507Z" creationid="Marco Marega" creationdate="20171029T214507Z">
         <seg>In aggiunta alle proprietà elencate a pagina &lt;bf0&gt;70&lt;/bf0&gt;, sono disponibili le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the properties shown on page &lt;bf0&gt;70&lt;/bf0&gt; and described for list boxes, the following features are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230741Z" creationid="Marco Marega" creationdate="20171102T230741Z">
+        <seg>In aggiunta alle proprietà mostrate a pagina &lt;bf0&gt;70&lt;/bf0&gt;, e descritte per le caselle di riepilogo, sono disponibili le seguenti caratteristiche:</seg>
       </tuv>
     </tu>
     <tu>
