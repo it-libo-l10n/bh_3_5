@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The events correspond to those for a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232041Z" creationid="Marco Marega" creationdate="20171102T232041Z">
+        <seg>Gli eventi corrispondono a quelli di una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
