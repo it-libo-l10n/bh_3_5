@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The combo box shows the first name, and text input is not necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230414Z" creationid="Marco Marega" creationdate="20171102T230414Z">
+        <seg>La casella combinata mostra il nome e non è necessario inserire del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The context menu of the form (shown below) provides the way to create form properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140057Z" creationid="Marco Marega" creationdate="20171014T140057Z">
@@ -3266,6 +3274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132451Z" creationid="Marco Marega" creationdate="20171014T132451Z">
         <seg>Iniziate usando la funzione &lt;f0&gt;Crea &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formulario&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in vista struttura&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; nell'area Formulari &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;della finestra principale di Base.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want to read given names from the Reader table, and also to make them available for new readers, so that new records do not need to be created for a given name that already exists in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T223930Z" creationid="Marco Marega" creationdate="20171102T223930Z">
+        <seg>Si desidera leggere determinati nomi dalla tabella Reader e anche renderli disponibili per nuovi lettori, in modo che non sia necessario creare nuovi record per un determinato nome che già esiste nel database.</seg>
       </tuv>
     </tu>
     <tu>
