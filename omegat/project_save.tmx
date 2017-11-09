@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202820Z" creationid="Marco Marega" creationdate="20171109T202820Z">
+        <seg>Scheda Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205630Z" creationid="Marco Marega" creationdate="20171015T205630Z">
@@ -1914,6 +1922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201817Z" creationid="Marco Marega" creationdate="20171017T201817Z">
         <seg>In aggiunta alle proprietà già descritte, esistono le seguenti proprietà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the properties described on page &lt;bf0&gt;70&lt;/bf0&gt;, the following features are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202756Z" creationid="Marco Marega" creationdate="20171109T202756Z">
+        <seg>In aggiunta alle proprietà descritte a pagina &lt;bf0&gt;70&lt;/bf0&gt;, sono disponibili le seguenti caratteristiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The check box appears immediately as a combination of a check box field and a label for the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202718Z" creationid="Marco Marega" creationdate="20171109T202718Z">
+        <seg>La casella di controllo compare immediatamente in abbinamento a una etichetta per la casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The combo box shows the first name, and text input is not necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230414Z" creationid="Marco Marega" creationdate="20171102T230414Z">
@@ -2834,6 +2858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212039Z" creationid="Marco Marega" creationdate="20171029T212039Z">
         <seg>Il formulario è già stato definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The label for this box appears by default to the right of the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202909Z" creationid="Marco Marega" creationdate="20171109T202909Z">
+        <seg>Come impostazione predefinita l'etichetta per questa casella appare alla sua destra.</seg>
       </tuv>
     </tu>
     <tu>
