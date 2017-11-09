@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Option button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210247Z" creationid="Marco Marega" creationdate="20171109T210247Z">
+        <seg>Pulsante di scelta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204816Z" creationid="Marco Marega" creationdate="20171015T204816Z">
@@ -3030,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The option button is similar to the check box described above, except for its &lt;f0&gt;g&lt;/f0&gt;eneral properties and its external (round) form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210441Z" creationid="Marco Marega" creationdate="20171109T210441Z">
+        <seg>Il pulsante di scelta è simile alla casella di controllo appena descritta, ad eccezione delle proprietà &lt;f0&gt;&lt;/f0&gt;generali e alla sua forma esterna rotonda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The position of this field within the table is specified in &lt;f1&gt;Bound Field&lt;/f1&gt;, where the &lt;f2&gt;Numbering begins with 0 for the first field of the database table&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210635Z" creationid="Marco Marega" creationdate="20171101T210635Z">
@@ -3546,6 +3562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211442Z" creationid="Marco Marega" creationdate="20171029T211442Z">
         <seg>Quando create una casella di riepilogo, per impostazione predefinita, compare la finestra di creazione guidata &lt;f0&gt;Casella &lt;/f0&gt;di &lt;f1&gt;riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When several option buttons in the form are linked to the same table field, only one of the options can be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210607Z" creationid="Marco Marega" creationdate="20171109T210607Z">
+        <seg>Quando in un formulario più pulsanti di scelta sono collegati allo stesso campo di una tabella, solo una di queste opzioni può essere selezionata.</seg>
       </tuv>
     </tu>
     <tu>
