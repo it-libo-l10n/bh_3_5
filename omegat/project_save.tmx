@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can specify a graphic instead of or in addition to the label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204649Z" creationid="Marco Marega" creationdate="20171109T204649Z">
+        <seg>Qui potete specificare di usare un'immagine invece o in aggiunta all'etichetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you could add further entries that are not from any table in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214738Z" creationid="Marco Marega" creationdate="20171029T214738Z">
@@ -2902,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The label is truncated if the field is not big enough.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204248Z" creationid="Marco Marega" creationdate="20171109T204248Z">
+        <seg>Se il campo non è abbastanza grande, l'etichetta viene troncata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list box has now been created complete with data and default configuration and is fully functional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214357Z" creationid="Marco Marega" creationdate="20171029T214357Z">
@@ -3594,6 +3610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105548Z" creationid="ldaghino" creationdate="20171002T105548Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a3&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should note that these graphics are not bound into the *.odb document by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
+        <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
       </tuv>
     </tu>
     <tu>
