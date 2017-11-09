@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, checkboxes have only two states: &lt;f0&gt;Selected&lt;/f0&gt; (Value: 1) and &lt;f1&gt;Not selected&lt;/f1&gt; (Value: 0).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205200Z" creationid="Marco Marega" creationdate="20171109T205131Z">
+        <seg>Per impostazione predefinita, le caselle di controllo possiedono solo due stati: &lt;f0&gt;Selezionato&lt;/f0&gt; (Valore: 1) e &lt;f1&gt;Non selezionato&lt;/f1&gt; (Valore: 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the label is not broken up.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202608Z" creationid="Marco Marega" creationdate="20171015T202608Z">
         <seg>Se questo evento non viene intercettato, al caricamento del formulario seguirà la richiesta del parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have chosen to use a graphic, its alignment with the label can be set here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205039Z" creationid="Marco Marega" creationdate="20171109T205039Z">
+        <seg>Se avete scelto di usare un'immagine, qui potete impostare il suo allineamento rispetto all'etichetta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204438Z" creationid="Marco Marega" creationdate="20171016T204438Z">
         <seg>Larghezza del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With Tri-state, a definition of &lt;f2&gt;Empty fi&lt;/f2&gt;&lt;f3&gt;eld&lt;/f3&gt; (NULL) is added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205439Z" creationid="Marco Marega" creationdate="20171109T205134Z">
+        <seg>Con Stato triplo viene aggiunta la definizione di campo &lt;f2&gt;Non definito&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt; (NULL).</seg>
       </tuv>
     </tu>
     <tu>
