@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However only the values of 1 (for On) or 0 (for Off) can be transferred to the underlying data field &lt;f0&gt;(c&lt;/f0&gt;heck boxes act as fields for the choice of Yes and No&lt;f1&gt;)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205717Z" creationid="Marco Marega" creationdate="20171109T205717Z">
+        <seg>In ogni caso, solo i valori 1 (per On) e 0 (per Off) possono essere trasferiti al campo di dati sottostante &lt;f0&gt;(le&lt;/f0&gt; caselle di controllo agiscono come campi per la scelta tra un Si o un No&lt;f1&gt;)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However this is seldom possible as it requires the content of the table to be so structured that the first table field contains the values to be displayed in the list field, and one of the following fields contains the primary key which the table underlying the form uses as a foreign key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210434Z" creationid="Marco Marega" creationdate="20171101T210434Z">
@@ -2842,6 +2850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202718Z" creationid="Marco Marega" creationdate="20171109T202718Z">
         <seg>La casella di controllo compare immediatamente in abbinamento a una etichetta per la casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The check box can be given a reference value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205528Z" creationid="Marco Marega" creationdate="20171109T205528Z">
+        <seg>Alla casella di controllo può fare riferimento a un valore.</seg>
       </tuv>
     </tu>
     <tu>
