@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Before updating" and "After updating" are all absent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210202Z" creationid="Marco Marega" creationdate="20171109T210202Z">
+        <seg>"Prima di aggiornare" e "Ad aggiornamento avvenuto" sono assenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Example: If Field 1 contains a value, Field 2 must not contain one; Field 2 is deactivated.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203231Z" creationid="Marco Marega" creationdate="20171016T203231Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231749Z" creationid="Marco Marega" creationdate="20171102T231749Z">
         <seg>Aggiungendo la parola chiave &lt;f0&gt;DISTINCT&lt;/f0&gt; ci si assicura che i nomi restituiti aventi dei duplicati, vengano mostrati solo una volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional fields for a check box are "Execute action" (see List box) und "Item status changed" (corresponds to "Changed").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210041Z" creationid="Marco Marega" creationdate="20171109T210041Z">
+        <seg>Per la casella di controllo ci sono i campi aggiuntivi "Esegui azione" (vedi Casella di riepilogo) e "Stato modificato" (che corrisponde a "Modificato").</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,6 +2930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232041Z" creationid="Marco Marega" creationdate="20171102T232041Z">
         <seg>Gli eventi corrispondono a quelli di una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields "Changed", "Text modified".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210214Z" creationid="Marco Marega" creationdate="20171109T210057Z">
+        <seg>I campi: "Modificato", "Testo modificato",</seg>
       </tuv>
     </tu>
     <tu>
