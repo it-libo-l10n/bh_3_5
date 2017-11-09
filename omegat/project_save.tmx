@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, however, reference values that are entered are actually transferred to the data field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T211114Z" creationid="Marco Marega" creationdate="20171109T211114Z">
+        <seg>In ogni caso, i valori che qui inseriti vengono effettivamente trasferiti al campo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlighted text loses the highlight when the text field loses focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
@@ -2610,6 +2618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210442Z" creationid="Marco Marega" creationdate="20171014T210442Z">
         <seg>Vedete anche il &lt;f1&gt;Capitolo&lt;/f1&gt; &lt;f2&gt;3,&lt;/f2&gt; Tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See under Check box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210930Z" creationid="Marco Marega" creationdate="20171109T210930Z">
+        <seg>Vedete sotto Casella di controllo.</seg>
       </tuv>
     </tu>
     <tu>
