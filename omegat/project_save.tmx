@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For small graphics, it is useful to embed the graphic and not link it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205001Z" creationid="Marco Marega" creationdate="20171109T204849Z">
+        <seg>Per immagini piccole, è più utile incorporarle piuttosto che collegarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the Reader &lt;f2&gt;table,&lt;/f2&gt; the List contents would be "&lt;f3&gt;ID", "Given name", "Surname", "Lock", "Gender_ID".&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213449Z" creationid="Marco Marega" creationdate="20171101T213449Z">
@@ -1752,8 +1760,8 @@
       <tuv lang="EN">
         <seg>Here, dependent on the choice in the Tri-state field, up to three possibilities are available: &lt;f0&gt;Not selected&lt;/f0&gt; | &lt;f1&gt;Selected&lt;/f1&gt; | &lt;f2&gt;Not defined&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T203444Z" creationid="Marco Marega" creationdate="20171109T203444Z">
-        <seg>Qui, a seconda della scelta nel campo a tre stati, sono disponibili fino a tre possibilità: &lt;f0&gt;Non selezionato&lt;/f0&gt; | &lt;f1&gt;Selezionato&lt;/f1&gt; | &lt;f2&gt;Non definito&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204901Z" creationid="Marco Marega" creationdate="20171109T203444Z">
+        <seg>Qui, a seconda della scelta nel campo a Stati triplo, sono disponibili fino a tre possibilità: &lt;f0&gt;Non selezionato&lt;/f0&gt; | &lt;f1&gt;Selezionato&lt;/f1&gt; | &lt;f2&gt;Non definito&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
