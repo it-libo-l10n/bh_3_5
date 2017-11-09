@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of several options can then be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210739Z" creationid="Marco Marega" creationdate="20171109T210739Z">
+        <seg>Può essere selezionata una tra diverse opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only for multi-line fields: Horizontal | Vertical | Both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203846Z" creationid="Marco Marega" creationdate="20171026T203846Z">
@@ -2742,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That is why a Group name appears here, under which the options can be addressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210904Z" creationid="Marco Marega" creationdate="20171109T210904Z">
+        <seg>Per questo motivo qui appare un Nome gruppo, all'interno del quale indirizzare le opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Changed" event is absent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205010Z" creationid="Marco Marega" creationdate="20171026T205010Z">
@@ -3034,6 +3050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135945Z" creationid="Marco Marega" creationdate="20171014T135945Z">
         <seg>L'unica cosa di cui dovrete assicurarvi è che, nello stesso livello dell'albero delle cartelle, non siano presenti due elementi con nomi identici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The option button is designed to be used in groups.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210708Z" creationid="Marco Marega" creationdate="20171109T210708Z">
+        <seg>Il pulsante di scelta è progettato per essere utilizzato in gruppi.</seg>
       </tuv>
     </tu>
     <tu>
