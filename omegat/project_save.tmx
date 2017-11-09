@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the label is not broken up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
+        <seg>In modo predefinito, l'etichetta non viene spezzata per andare a capo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
