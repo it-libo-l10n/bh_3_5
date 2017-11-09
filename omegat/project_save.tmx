@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, dependent on the choice in the Tri-state field, up to three possibilities are available: &lt;f0&gt;Not selected&lt;/f0&gt; | &lt;f1&gt;Selected&lt;/f1&gt; | &lt;f2&gt;Not defined&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T203444Z" creationid="Marco Marega" creationdate="20171109T203444Z">
+        <seg>Qui, a seconda della scelta nel campo a tre stati, sono disponibili fino a tre possibilità: &lt;f0&gt;Non selezionato&lt;/f0&gt; | &lt;f1&gt;Selezionato&lt;/f1&gt; | &lt;f2&gt;Non definito&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlighted text loses the highlight when the text field loses focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205008Z" creationid="Marco Marega" creationdate="20171101T205008Z">
         <seg>In aggiunta alle consuete proprietà dei dati &lt;f0&gt;Campo di dati&lt;/f0&gt; e &lt;f1&gt;Digitazione necessaria&lt;/f1&gt;, ci sono proprietà importanti che influiscono sul collegamento tra i dati visualizzati e quelli da inserire nella tabella che sottostà al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition you can bind it to a separate label field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202959Z" creationid="Marco Marega" creationdate="20171109T202959Z">
+        <seg>In aggiunta potete collegarla a un distinto campo etichetta.</seg>
       </tuv>
     </tu>
     <tu>
