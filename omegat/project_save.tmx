@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the properties described on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are avail&lt;f2&gt;a&lt;/f2&gt;ble.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204923Z" creationid="Marco Marega" creationdate="20171118T204923Z">
+        <seg>&lt;f0&gt;In aggiunta alle&lt;/f0&gt; proprietà descritte a pagina &lt;bf1&gt;70&lt;/bf1&gt;, sono disponibili le seguenti &lt;f2&gt;caratteristiche&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the properties listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are offered:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211309Z" creationid="Marco Marega" creationdate="20171026T211309Z">
