@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A graphical control by default has no Tab stop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204736Z" creationid="Marco Marega" creationdate="20171118T204736Z">
+        <seg>Un campo di controllo grafico per impostazione predefinita non prevede la selezione con il tasto Tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A image control handles the entry and display of graphical material in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204231Z" creationid="Marco Marega" creationdate="20171118T204231Z">
