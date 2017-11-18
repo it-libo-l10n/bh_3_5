@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A image control handles the entry and display of graphical material in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204231Z" creationid="Marco Marega" creationdate="20171118T204231Z">
+        <seg>Un campo di controllo immagine gestisce l'inserimento e la visualizzazione di materiale grafico nel database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list box shows the user different data from what is actually transmitted into the &lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212330Z" creationid="Marco Marega" creationdate="20171029T212330Z">
@@ -1454,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entry into a image control takes place either by a double-click with the mouse to open a file selection dialog, or a right-click to choose whether an existing graphic is to be deleted or replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204545Z" creationid="Marco Marega" creationdate="20171118T204545Z">
+        <seg>L'inserimento in un campo di controllo immagine avviene, o tramite un doppio clic con il mouse per aprire la finestra di dialogo di selezione file, oppure facendo clic con il tasto destro del mouse per scegliere se l'immagine esistente va eliminata o sostituita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entry into a preset mask; limits the entry possibilities to specific character combinations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205215Z" creationid="Marco Marega" creationdate="20171015T205215Z">
@@ -1962,6 +1978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image &lt;f0&gt;c&lt;/f0&gt;ontrol</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204129Z" creationid="Marco Marega" creationdate="20171118T204129Z">
+        <seg>Campo di controllo Immagine&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211125Z" creationid="Marco Marega" creationdate="20171026T211125Z">
         <seg>Il simbolo viene visualizzato, ma non viene memorizzato nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The underlying data field must be a binary field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204306Z" creationid="Marco Marega" creationdate="20171118T204306Z">
+        <seg>Il campo di dati sottostante deve essere un campo binario.</seg>
       </tuv>
     </tu>
     <tu>
