@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194658Z" creationid="Marco Marega" creationdate="20171125T194658Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A click on the button on the right (…) allows macros to be linked to the event.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212709Z" creationid="Marco Marega" creationdate="20171014T212709Z">
@@ -1282,6 +1290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210242Z" creationid="Marco Marega" creationdate="20171015T210242Z">
         <seg>Può essere usato solo con una macro&lt;f0&gt;—&lt;/f0&gt;non verrà ulteriormente descritto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Capital letters are not converted into lower case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194656Z" creationid="Marco Marega" creationdate="20171125T194656Z">
+        <seg>Le lettere maiuscole non vengono convertite in minuscolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If lower-case letters are entered, they will automatically be converted to upper case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194754Z" creationid="Marco Marega" creationdate="20171125T194754Z">
+        <seg>Se vengono inserite lettere minuscole, queste vengono convertite automaticamente in maiuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, macros can help in the interpretation of multiple entries in the list field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220003Z" creationid="Marco Marega" creationdate="20171029T220003Z">
@@ -2826,6 +2850,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090536Z" creationid="Marina Latini" creationdate="20171003T090536Z">
         <seg>Rapporti – presentazione dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Represents any of the characters a-z/A-Z plus the digits 0-9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194901Z" creationid="Marco Marega" creationdate="20171125T194901Z">
+        <seg>Rappresenta qualsiasi carattere a-z/A-Z con l'aggiunta delle cifre 0-9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Represents any of the letters A-Z.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194715Z" creationid="Marco Marega" creationdate="20171125T194715Z">
+        <seg>Rappresenta qualsiasi lettera: A-Z.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Represents any of the letters a-z/A-Z.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194621Z" creationid="Marco Marega" creationdate="20171125T194621Z">
+        <seg>Rappresenta qualsiasi lettera: a-z/A-Z.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4154,6 +4202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194447Z" creationid="Marco Marega" creationdate="20171125T194447Z">
         <seg>a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194755Z" creationid="Marco Marega" creationdate="20171125T194755Z">
+        <seg>c</seg>
       </tuv>
     </tu>
     <tu>
