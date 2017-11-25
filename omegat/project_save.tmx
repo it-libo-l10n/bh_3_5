@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;wo &lt;f7&gt;dialog&lt;/f7&gt;s appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174439Z" creationid="Manuel Frassinetti" creationdate="20171125T174439Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;V&lt;/f6&gt;&lt;/f5&gt;engono visualizzate due finestre di &lt;f7&gt;dialogo&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;See &lt;f5&gt;also &lt;/f5&gt;the general Help on numeric format codes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212248Z" creationid="Marco Marega" creationdate="20171026T212248Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Sezione del sito web di destinazione al quale indirizzare, se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;n the main database window, click the Queries icon in the Databases section, then in the Tasks section, click &lt;f1&gt;Create Quer&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;y in Design View&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174256Z" creationid="Manuel Frassinetti" creationdate="20171125T174143Z">
+        <seg>&lt;f0&gt;N&lt;/f0&gt;ella finestra principale del database, fate click sull'icona Ricerche nella sezione Database, poi nella sezione Attività, fate click su&lt;f1&gt;Crea Ricerca&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; in vista struttura&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210739Z" creationid="Marco Marega" creationdate="20171109T210739Z">
         <seg>Può essere selezionata una tra diverse opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One provides the basis for a design-view creation of the query; the other serves to add tables, views, or queries to the current query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174628Z" creationid="Manuel Frassinetti" creationdate="20171125T174628Z">
+        <seg>Una fornisce le basi per una creazione della ricerca in vista struttura; l'altra serve per aggiungere tabelle, viste o ricerche alla ricerca corrente.</seg>
       </tuv>
     </tu>
     <tu>
