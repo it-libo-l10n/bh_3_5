@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For fields such as &lt;f2&gt;Reader_ID&lt;/f2&gt; or &lt;f3&gt;Media_ID&lt;/f3&gt;, it would be more useful to be able to choose the reader or the media directly, rather than a number representing the reader or media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202825Z" creationid="Marco Marega" creationdate="20171125T202825Z">
+        <seg>Per campi come &lt;f2&gt;Reader_ID&lt;/f2&gt; o &lt;f3&gt;Media_ID&lt;/f3&gt;, sarebbe più utile avere la possibilità di scegliere direttamente il lettore o il supporto, piuttosto che il numero che li rappresenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For selecting files, for example to upload in an HTML form&lt;f0&gt;—&lt;/f0&gt;not further described</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210157Z" creationid="Marco Marega" creationdate="20171015T210157Z">
