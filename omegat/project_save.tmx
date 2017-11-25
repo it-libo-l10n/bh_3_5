@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3146,6 +3146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212039Z" creationid="Marco Marega" creationdate="20171029T212039Z">
         <seg>Il formulario è già stato definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The graphic selected here is only shown inside the control, while the form is being edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191605Z" creationid="Marco Marega" creationdate="20171125T191605Z">
+        <seg>L'immagine qui selezionata viene visualizzata nel campo di controllo solo durante la compilazione del formulario.</seg>
       </tuv>
     </tu>
     <tu>
