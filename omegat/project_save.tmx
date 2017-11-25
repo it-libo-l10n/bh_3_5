@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following content is taken from LibreOffice Help:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193905Z" creationid="Marco Marega" creationdate="20171125T193905Z">
+        <seg>Il contenuto che segue è riportato dall'Aiuto di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
@@ -3550,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This determines what characters can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193727Z" creationid="Marco Marega" creationdate="20171125T193727Z">
+        <seg>Questo determina quali caratteri possono essere inseriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2013&lt;/f1&gt; by its contributors as listed below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105527Z" creationid="ldaghino" creationdate="20171002T105527Z">
@@ -3610,6 +3626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203611Z" creationid="Marco Marega" creationdate="20171016T203611Z">
         <seg>Ciò è utile, ad esempio, per una chiave primaria generata automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is what the form user sees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193748Z" creationid="Marco Marega" creationdate="20171125T193748Z">
+        <seg>Questo è ciò che vede l'utente del formulario.</seg>
       </tuv>
     </tu>
     <tu>
