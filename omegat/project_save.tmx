@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In addition to&lt;/f1&gt; the &lt;f2&gt;ID&lt;/f2&gt; (primary key) field and the &lt;f3&gt;Media_ID_BC&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;field&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;(entry of media using a bar-code scanner), all fields are to be used in the control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202140Z" creationid="Marco Marega" creationdate="20171125T202140Z">
+        <seg>&lt;f1&gt;In aggiunta ai &lt;/f1&gt; campi &lt;f2&gt;ID&lt;/f2&gt; (chiave primaria) e &lt;f3&gt;Media_ID_BC&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;(per l'inserimento dei media usando uno scanner di codici a barre), tutti i campi verranno usati nel controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In addition to&lt;/f1&gt; these, there is only:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211040Z" creationid="Marco Marega" creationdate="20171026T211040Z">
@@ -2322,6 +2330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215805Z" creationid="Marco Marega" creationdate="20171029T215805Z">
         <seg>Nell'esempio di cui sopra, questo non è possibile in quanto viene memorizzata una chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the control the Loans table i&lt;f0&gt;s availab&lt;/f0&gt;le for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201318Z" creationid="Marco Marega" creationdate="20171125T201318Z">
+        <seg>Nel campo di controllo la tabella Loans è &lt;f0&gt;disponibile&lt;/f0&gt; per la modifica.</seg>
       </tuv>
     </tu>
     <tu>
