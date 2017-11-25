@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The creation of queries using the Wizard is briefly described in &lt;/f0&gt;&lt;f1&gt;Chapter 8 of the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Getting Started&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide, &lt;/f4&gt;&lt;f5&gt;Getting Started with Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T172903Z" creationid="Manuel Frassinetti" creationdate="20171125T172903Z">
+        <seg>&lt;f0&gt;La creazione di ricerche utilizzando la procedura guidata è descritta brevemente nel &lt;/f0&gt;&lt;f1&gt;Capitolo 8 della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide, &lt;/f4&gt;&lt;f5&gt;Guida Introduttiva a Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To display t&lt;/f0&gt;he &lt;f1&gt;Form &lt;/f1&gt;Navigator, &lt;f2&gt;click &lt;/f2&gt;the Form Navigator &lt;f3&gt;b&lt;/f3&gt;utton &lt;f4&gt;(&lt;/f4&gt;shown in &lt;f5&gt;F&lt;/f5&gt;igure &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
@@ -1346,6 +1354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090555Z" creationid="Marina Latini" creationdate="20171003T090555Z">
         <seg>Creazione di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating queries using the &lt;f0&gt;Query Design dialog&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T172333Z" creationid="Manuel Frassinetti" creationdate="20171125T172333Z">
+        <seg>Creazione di ricerche utilizzando la finestra di &lt;f0&gt;dialogo Struttura della Ricerca&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
