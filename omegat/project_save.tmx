@@ -3582,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The previously created table control must now be further developed, to allow entry into the Lo&lt;f0&gt;ans &lt;s1/&gt;table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202333Z" creationid="Marco Marega" creationdate="20171125T202333Z">
+        <seg>Il campo di controllo tabella creato in precedenza va ora ulteriormente sviluppato, al fine di permettere l'inserimento nella tabella Lo&lt;f0&gt;ans &lt;s1/&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The primary key &lt;f3&gt;ID&lt;/f3&gt; from the Reader table m&lt;f4&gt;ust be&lt;/f4&gt; bound to this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213642Z" creationid="Marco Marega" creationdate="20171029T213642Z">
