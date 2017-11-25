@@ -3278,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Table Control Wizard assembles in a window the fields that will appear afterwards in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201201Z" creationid="Marco Marega" creationdate="20171125T201201Z">
+        <seg>La Creazione guidata elemento tabella raggruppa in una finestra i campi di controllo che poi appariranno nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The actual character is displayed at the corresponding position in the literal mask.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194557Z" creationid="Marco Marega" creationdate="20171125T194441Z">
