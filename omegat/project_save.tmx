@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Autom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192431Z" creationid="Marco Marega" creationdate="20171125T192431Z">
+        <seg>&lt;f4&gt;Adatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;W&lt;/f5&gt;hen there are reader&lt;f6&gt;s&lt;/f6&gt; with the same &lt;f7&gt;LastName&lt;/f7&gt; and the same &lt;f8&gt;FirstName&lt;/f8&gt;, the primary key &lt;f9&gt;ID&lt;/f9&gt; must also be shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212444Z" creationid="Marco Marega" creationdate="20171101T212444Z">
@@ -2866,6 +2874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
         <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size&lt;/f4&gt;: The image is fitted to the control and may be shown in a distorted form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192524Z" creationid="Marco Marega" creationdate="20171125T192524Z">
+        <seg>alla dimensione&lt;/f4&gt;: l'immagine viene adattata al campo di controllo e può essere visualizzata in maniera distorta.</seg>
       </tuv>
     </tu>
     <tu>
