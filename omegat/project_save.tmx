@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since this is a field that contains no data itself but manages other fields, there are no data properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204959Z" creationid="Marco Marega" creationdate="20171125T204959Z">
+        <seg>Considerato che questo è un campo di controllo che non contiene dati, ma gestisce altri campi, non ci sono proprietà per i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size&lt;/f4&gt;: The image is fitted to the control and may be shown in a distorted form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192524Z" creationid="Marco Marega" creationdate="20171125T192524Z">
@@ -3246,10 +3254,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Changed" and "Text modified" events are missing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T205038Z" creationid="Marco Marega" creationdate="20171125T205038Z">
+        <seg>Mancano gli eventi "Modificato" e "Testo modificato".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Changed" event is absent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205010Z" creationid="Marco Marega" creationdate="20171026T205010Z">
         <seg>L'evento "Modificato" è assente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Error occurred" event is added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T205226Z" creationid="Marco Marega" creationdate="20171125T205226Z">
+        <seg>Ha l'evento aggiuntivo "Si è verificato un errore".</seg>
       </tuv>
     </tu>
     <tu>
