@@ -3782,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the most comprehensive control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195811Z" creationid="Marco Marega" creationdate="20171125T195811Z">
+        <seg>Questo è un campo di controllo onnicomprensivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful, for example, for an automatically generated primary key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203611Z" creationid="Marco Marega" creationdate="20171016T203611Z">
