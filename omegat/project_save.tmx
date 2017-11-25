@@ -3430,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Title and Subtitle are displayed together in one query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171125T132225Z" creationid="luke" creationdate="20171125T132225Z">
+        <seg>Titolo e sottotitolo vengono visualizzati insieme in una singola query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get help with this, click the button to the right of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210236Z" creationid="Marco Marega" creationdate="20171014T210236Z">
