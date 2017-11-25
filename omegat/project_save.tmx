@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The large Internet databases that people use every day exist mainly to deliver a quick and practical result for the user from a huge amount of information by &lt;f1&gt;though&lt;/f1&gt;&lt;f2&gt;t&lt;/f2&gt;&lt;f3&gt;ful selection &lt;/f3&gt;of keywords – including the search-related advertisements that encourage people to make purchases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T171413Z" creationid="Manuel Frassinetti" creationdate="20171125T171413Z">
+        <seg>I grandi database Internet che le persone utilizzano ogni giorno esistono principalmente per fornire all'utente un risultato rapido e pratico grazie a un'enorme quantità di informazioni by &lt;f1&gt;though&lt;/f1&gt;&lt;f2&gt;t&lt;/f2&gt;&lt;f3&gt;ful selection &lt;/f3&gt;di parole chiave – tra cui gli annunci correlati alla ricerca che incoraggiano le persone a fare acquisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list box has now been created complete with data and default configuration and is fully functional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214357Z" creationid="Marco Marega" creationdate="20171029T214357Z">
