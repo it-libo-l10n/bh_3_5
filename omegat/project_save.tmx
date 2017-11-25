@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Caution: word wrapping does not recognize spaces, so if the field is too small, a break can occur within a word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210506Z" creationid="Marco Marega" creationdate="20171125T210506Z">
+        <seg>Attenzione: l'a capo automatico non riconosce gli spazi, perciò se il campo è troppo piccolo, le parole possono essere spezzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes characters to see only points.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204122Z" creationid="Marco Marega" creationdate="20171026T204122Z">
@@ -2154,6 +2162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191819Z" creationid="Marco Marega" creationdate="20171125T191819Z">
         <seg>Se è troppo grande, il campo visualizzerà una finestra nell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is too long for the field, it is truncated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210224Z" creationid="Marco Marega" creationdate="20171125T210224Z">
+        <seg>Se è troppo lunga per il campo, viene troncata.</seg>
       </tuv>
     </tu>
     <tu>
