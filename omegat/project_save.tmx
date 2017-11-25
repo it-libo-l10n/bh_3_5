@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It indicates the current record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204744Z" creationid="Marco Marega" creationdate="20171125T204744Z">
+        <seg>Questo indica il record attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is bound to a &lt;f0&gt;Table&lt;/f0&gt; named &lt;f1&gt;Loans&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
@@ -4386,6 +4394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210544Z" creationid="Marco Marega" creationdate="20171026T210544Z">
         <seg>Potete inserire un'ora fissa, ma sfortunatamente non (ancora) l'ora al momento del salvataggio del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the record marker to access the delete function for the whole record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204844Z" creationid="Marco Marega" creationdate="20171125T204844Z">
+        <seg>Potete usare il selettore dei record per accedere alla funzione di eliminazione dell'intero record.</seg>
       </tuv>
     </tu>
     <tu>
