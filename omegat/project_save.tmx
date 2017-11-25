@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not every field that is possible in a form can be selected for a table control field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200624Z" creationid="Marco Marega" creationdate="20171125T200624Z">
+        <seg>In un campo di controllo tabella non è possibile selezionare tutti i tipi di campo di controllo possibili in un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not when loading a new record into the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201129Z" creationid="Marco Marega" creationdate="20171015T201129Z">
@@ -2858,6 +2866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070541Z" creationid="ldaghino" creationdate="20171003T070541Z">
         <seg>Pubblicato il &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;Giugno &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push buttons, image buttons and option buttons are not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200952Z" creationid="Marco Marega" creationdate="20171125T200952Z">
+        <seg>I pulsanti, i pulsanti immagine e i pulsanti di scelta non sono disponibili.</seg>
       </tuv>
     </tu>
     <tu>
