@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default there is a record marker on the left edge of the control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204731Z" creationid="Marco Marega" creationdate="20171125T204731Z">
+        <seg>Per impostazione predefinita sul margine sinistro del campo di controllo si trova un selettore dei record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default this is set to &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210601Z" creationid="Marco Marega" creationdate="20171014T210601Z">
