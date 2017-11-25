@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Keep ratio&lt;/f2&gt;: The image is fitted to the control but not distorted (aspect ratio preserved).&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192234Z" creationid="Marco Marega" creationdate="20171125T192234Z">
+        <seg>&lt;f2&gt;Mantieni rapporto&lt;/f2&gt;: l'immagine viene adattata al campo di controllo ma non distorta (viene mantenuto il rapporto delle proporzioni).&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Some &lt;/f2&gt;controls serve for additional graphical reworking of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203518Z" creationid="Marco Marega" creationdate="20171015T203211Z">
