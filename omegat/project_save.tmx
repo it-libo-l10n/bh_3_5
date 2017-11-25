@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210714Z" creationid="Marco Marega" creationdate="20171125T210714Z">
+        <seg>Niente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not every field that is possible in a form can be selected for a table control field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200624Z" creationid="Marco Marega" creationdate="20171125T200624Z">
@@ -3586,6 +3594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
         <seg>L'immagine non è distorta.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The label field reacts only to events that are connected with the mouse, a key or the focus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210933Z" creationid="Marco Marega" creationdate="20171125T210933Z">
+        <seg>Il campo testo fisso reagisce solo a eventi connessi all'uso del mouse, di un tasto o al passaggio del focus.</seg>
       </tuv>
     </tu>
     <tu>
