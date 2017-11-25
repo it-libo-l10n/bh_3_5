@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the user's entry does not match the mask, the entry is rejected on leaving the control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194154Z" creationid="Marco Marega" creationdate="20171125T194154Z">
+        <seg>Se l'inserimento da parte dell'utente non corrisponde alla maschera, all'uscita dal campo di controllo, viene rifiutato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is a frame, its color can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191521Z" creationid="Marco Marega" creationdate="20171017T191521Z">
@@ -3290,6 +3298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T171413Z" creationid="Manuel Frassinetti" creationdate="20171125T171413Z">
         <seg>I grandi database Internet che le persone utilizzano ogni giorno esistono principalmente per fornire all'utente un risultato rapido e pratico grazie a un'enorme quantità di informazioni by &lt;f1&gt;though&lt;/f1&gt;&lt;f2&gt;t&lt;/f2&gt;&lt;f3&gt;ful selection &lt;/f3&gt;di parole chiave – tra cui gli annunci correlati alla ricerca che incoraggiano le persone a fare acquisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The length of the edit mask determines how many characters may be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194039Z" creationid="Marco Marega" creationdate="20171125T194039Z">
+        <seg>La lunghezza della maschera di digitazione determina quanti caratteri si possono inserire.</seg>
       </tuv>
     </tu>
     <tu>
