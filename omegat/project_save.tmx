@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T165817Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
+        <seg>Inserimento di richieste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering times</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203853Z" creationid="Marco Marega" creationdate="20171015T203853Z">
