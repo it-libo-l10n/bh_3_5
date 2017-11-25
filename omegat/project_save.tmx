@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;No&lt;/f0&gt;: The image will not be fitted to the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191743Z" creationid="Marco Marega" creationdate="20171125T191743Z">
+        <seg>&lt;f0&gt;No&lt;/f0&gt;: l'immagine non verrà adattata al campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;adio button; &lt;f1&gt;a&lt;/f1&gt;llows you to choose &lt;f2&gt;from&lt;/f2&gt; a small number of possibilities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204913Z" creationid="Marco Marega" creationdate="20171015T204913Z">
@@ -1990,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is too big, the field will show a window into the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191819Z" creationid="Marco Marega" creationdate="20171125T191819Z">
+        <seg>Se è troppo grande, il campo visualizzerà una finestra nell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, macros can help in the interpretation of multiple entries in the list field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220003Z" creationid="Marco Marega" creationdate="20171029T220003Z">
@@ -2274,6 +2290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220450Z" creationid="Marco Marega" creationdate="20171029T220450Z">
         <seg>Potrebbe benissimo succedere che il record corrispondente alla selezione predefinita non sia più presente nella tabella di esempio &lt;f0&gt;Reader&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It has no significance for later input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191647Z" creationid="Marco Marega" creationdate="20171125T191647Z">
+        <seg>Non ha alcun significato per gli inserimenti successivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3154,6 +3178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191605Z" creationid="Marco Marega" creationdate="20171125T191605Z">
         <seg>L'immagine qui selezionata viene visualizzata nel campo di controllo solo durante la compilazione del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The image is not distorted.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
+        <seg>L'immagine non è distorta.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
