@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In both cases a window opens, &lt;f0&gt;where&lt;/f0&gt; you &lt;f1&gt;can&lt;/f1&gt; create a query and also correct it if necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T170701Z" creationid="Manuel Frassinetti" creationdate="20171125T170701Z">
+        <seg>In entrambi i casi si apre una finestra, &lt;f0&gt;dove&lt;/f0&gt;&lt;f1&gt;potete&lt;/f1&gt; creare una richiesta e anche correggerla se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In tests, this action regularly &lt;s1/&gt;duplicates itself; macros run twice in succession.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070541Z" creationid="ldaghino" creationdate="20171003T070541Z">
         <seg>Pubblicato il &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;Giugno &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries can be entered both in the GUI and directly as SQL code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T170500Z" creationid="Manuel Frassinetti" creationdate="20171125T170500Z">
+        <seg>Le ricerche possono essere inserite sia nella GUI che direttamente come codice SQL</seg>
       </tuv>
     </tu>
     <tu>
