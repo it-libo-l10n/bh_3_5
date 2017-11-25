@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here we shall explain the direct creation of queries&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;D&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esign &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;V&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;iew.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T173748Z" creationid="Manuel Frassinetti" creationdate="20171125T173748Z">
+        <seg>Qui spiegheremo la creazione diretta di ricerche&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;V&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;sta &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;S&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;truttura.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can enter a literal date but unfortunately not (yet) the current date (Today) at the time the form is opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210552Z" creationid="Marco Marega" creationdate="20171026T205928Z">
