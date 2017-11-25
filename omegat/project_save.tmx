@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212248Z" creationid="Marco Marega" creationdate="20171026T212248Z">
         <seg>&lt;/f4&gt;Vedete &lt;f5&gt;anche &lt;/f5&gt; l'Aiuto in linea sui codici dei formati numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f7&gt;Queries&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T155200Z" creationid="Manuel Frassinetti" creationdate="20171125T155200Z">
+        <seg>&lt;/f5&gt;&lt;f7&gt;Ricerche&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
         <seg>&lt;f0&gt;Capitolo 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Chapter &lt;/f0&gt;&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;s4/&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T155111Z" creationid="Manuel Frassinetti" creationdate="20171125T155111Z">
+        <seg>&lt;f0&gt;Capitolo &lt;/f0&gt;&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;s4/&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210615Z" creationid="Marco Marega" creationdate="20171015T210615Z">
         <seg>Generale comprende tutto ciò che visibile all'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General information on queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T155515Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
+        <seg>Informazione generale sulle ricerche</seg>
       </tuv>
     </tu>
     <tu>
