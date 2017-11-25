@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All printable characters are allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195021Z" creationid="Marco Marega" creationdate="20171125T195021Z">
+        <seg>Sono ammessi tutti i caratteri stampabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
@@ -1266,6 +1274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
         <seg>In modo predefinito, l'etichetta non viene spezzata per andare a capo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194904Z" creationid="Marco Marega" creationdate="20171125T194904Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194928Z" creationid="Marco Marega" creationdate="20171125T194928Z">
+        <seg>N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigation bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205958Z" creationid="Marco Marega" creationdate="20171015T205958Z">
@@ -2710,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the digits 0-9 can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195005Z" creationid="Marco Marega" creationdate="20171125T195005Z">
+        <seg>Si possono inserire solo cifre 0-9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Option button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210247Z" creationid="Marco Marega" creationdate="20171109T210247Z">
@@ -2858,6 +2890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194901Z" creationid="Marco Marega" creationdate="20171125T194901Z">
         <seg>Rappresenta qualsiasi carattere a-z/A-Z con l'aggiunta delle cifre 0-9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Represents any of the letters A-Z plus the digits 0-9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194923Z" creationid="Marco Marega" creationdate="20171125T194923Z">
+        <seg>Rappresenta qualsiasi lettera A-Z con l'aggiunta delle cifre 0-9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212126Z" creationid="Marco Marega" creationdate="20171101T212126Z">
         <seg>In modo che per trovare qualcuno non dobbiate scorrere la lista troppo a lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, for example, you can define the literal mask as &lt;s0/&gt;"__/__/2012" and the edit mask as "NNLNNLLLLL", to allow the user to enter four characters only for a date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195433Z" creationid="Marco Marega" creationdate="20171125T195433Z">
+        <seg>Quindi, ad esempio, per permettere all'utente di inserire solo quattro caratteri di una data, potete definire la maschera caratteri come  &lt;s0/&gt;"__/__/2012" e la maschera di digitazione "NNLNNLLLLL".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195037Z" creationid="Marco Marega" creationdate="20171125T195037Z">
+        <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yes/No Field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
@@ -4242,6 +4298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210906Z" creationid="Marco Marega" creationdate="20171026T210906Z">
         <seg>minimo, Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195007Z" creationid="Marco Marega" creationdate="20171125T195007Z">
+        <seg>x</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
