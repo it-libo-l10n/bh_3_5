@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with tables, the lower edge of the control shows the record number and navigation aids.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204304Z" creationid="Marco Marega" creationdate="20171125T204304Z">
+        <seg>Come per le tabelle, il bordo inferiore del campo di controllo visualizza il numero del record e gli aiuti per la navigazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background color of the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
@@ -1926,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Height of individual lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203625Z" creationid="Marco Marega" creationdate="20171125T203625Z">
+        <seg>Altezza delle singole linee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Height of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204447Z" creationid="Marco Marega" creationdate="20171016T204447Z">
@@ -2602,6 +2618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213048Z" creationid="Marco Marega" creationdate="20171101T213048Z">
         <seg>Maggiori informazioni su &lt;f1&gt;SQL in Modalità diretta&lt;/f1&gt; si possono trovare nel &lt;f2&gt;Capitolo&lt;/f2&gt; &lt;f3&gt;5,&lt;/f3&gt; Query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multi-line text fields are then shown as single lines to be scrolled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204111Z" creationid="Marco Marega" creationdate="20171125T204111Z">
+        <seg>I campi di testo multi-linea vengono visualizzati come singole linee da scorrere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205439Z" creationid="Marco Marega" creationdate="20171109T205134Z">
         <seg>Con Stato triplo viene aggiunta la definizione di campo &lt;f2&gt;Non definito&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt; (NULL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With no value here, the height is automatically adjusted to the font size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203934Z" creationid="Marco Marega" creationdate="20171125T203934Z">
+        <seg>Se questo valore è vuoto, l'altezza viene automaticamente regolata in base automatico al carattere in uso.</seg>
       </tuv>
     </tu>
     <tu>
