@@ -2414,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides a table, which can then be provided with controls for individual columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200008Z" creationid="Marco Marega" creationdate="20171125T200008Z">
+        <seg>Mette a disposizione una tabella, che a sua volta può contenere dei campi di controllo per ciascuna colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It serves within Base to allow contact with the data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
@@ -3810,6 +3818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
         <seg>Questo influenza principalmente i fine riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This not only allows the actual data to be viewed during input, but also the previously entered data, without the need to use the Navigation bar to scroll through the records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200050Z" creationid="Marco Marega" creationdate="20171125T200050Z">
+        <seg>This not only allows the actual data to be viewed during input, but also the previously entered data, without the need to use the Navigation bar to scroll through the records.</seg>
       </tuv>
     </tu>
     <tu>
