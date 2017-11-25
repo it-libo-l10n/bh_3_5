@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the properties described on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193629Z" creationid="Marco Marega" creationdate="20171125T193629Z">
+        <seg>&lt;f0&gt;In aggiunta&lt;/f0&gt; alle proprietà descritte a pagina &lt;bf1&gt;70&lt;/bf1&gt;, sono disponibili le seguenti caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the properties listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are offered:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211309Z" creationid="Marco Marega" creationdate="20171026T211309Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090548Z" creationid="Marina Latini" creationdate="20171003T090548Z">
         <seg>Capitolo 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters are pre-specified for particular positions, determining the properties of entered characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193413Z" creationid="Marco Marega" creationdate="20171125T193413Z">
+        <seg>Vengono predefinite delle particolari disposizioni dei caratteri, determinando così le proprietà dei caratteri da inserire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,6 +3354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210635Z" creationid="Marco Marega" creationdate="20171101T210635Z">
         <seg>La posizione di questo campo viene specificata in &lt;f1&gt;Campo collegato&lt;/f1&gt;, dove la &lt;f2&gt;Numerazione inizia con 0 per indicare il primo campo della tabella del database&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The preset characters are stored along with the entered ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193514Z" creationid="Marco Marega" creationdate="20171125T193514Z">
+        <seg>I caratteri predefiniti vengono memorizzati assieme a quelli inseriti.</seg>
       </tuv>
     </tu>
     <tu>
