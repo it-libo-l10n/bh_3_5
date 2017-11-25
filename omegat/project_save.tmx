@@ -2416,8 +2416,8 @@
       <tuv lang="EN">
         <seg>It provides a table, which can then be provided with controls for individual columns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200008Z" creationid="Marco Marega" creationdate="20171125T200008Z">
-        <seg>Mette a disposizione una tabella, che a sua volta può contenere dei campi di controllo per ciascuna colonna</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200054Z" creationid="Marco Marega" creationdate="20171125T200008Z">
+        <seg>Mette a disposizione una tabella, che a sua volta può contenere dei campi di controllo per ciascuna colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3824,8 +3824,8 @@
       <tuv lang="EN">
         <seg>This not only allows the actual data to be viewed during input, but also the previously entered data, without the need to use the Navigation bar to scroll through the records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200050Z" creationid="Marco Marega" creationdate="20171125T200050Z">
-        <seg>This not only allows the actual data to be viewed during input, but also the previously entered data, without the need to use the Navigation bar to scroll through the records.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200425Z" creationid="Marco Marega" creationdate="20171125T200050Z">
+        <seg>Questo permette non solo di visualizzare i dati correnti durante il loro inserimento, ma anche quelli precedentemente inseriti, senza bisogno di usare la barra di navigazione per scorrere tra i record.</seg>
       </tuv>
     </tu>
     <tu>
