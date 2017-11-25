@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A text constant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194256Z" creationid="Marco Marega" creationdate="20171125T194256Z">
+        <seg>Un testo costante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A window appears &lt;f8&gt;(Figure &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;23&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;); &lt;/f11&gt;&lt;f12&gt;it&lt;/f12&gt; shows only one folder, labeled &lt;f13&gt;Forms&lt;/f13&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134728Z" creationid="Marco Marega" creationdate="20171014T134728Z">
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090548Z" creationid="Marina Latini" creationdate="20171003T090548Z">
         <seg>Capitolo 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
+        <seg>Carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194247Z" creationid="Marco Marega" creationdate="20171125T194247Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Label field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205541Z" creationid="Marco Marega" creationdate="20171015T205541Z">
@@ -2434,6 +2458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204259Z" creationid="Marco Marega" creationdate="20171026T204259Z">
         <seg>Valore massimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meaning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194246Z" creationid="Marco Marega" creationdate="20171125T194246Z">
+        <seg>Significato</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The actual character is displayed at the corresponding position in the literal mask.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194557Z" creationid="Marco Marega" creationdate="20171125T194441Z">
+        <seg>Il carattere effettivo viene visualizzato nella posizione corrispondente a quella nella maschera caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
@@ -3226,6 +3266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210214Z" creationid="Marco Marega" creationdate="20171109T210057Z">
         <seg>I campi: "Modificato", "Testo modificato",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following characters are available for defining the edit mask.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194222Z" creationid="Marco Marega" creationdate="20171125T194222Z">
+        <seg>Per definire la maschera di digitazione si possono usare i seguenti caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3662,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This position cannot be edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194310Z" creationid="Marco Marega" creationdate="20171125T194310Z">
+        <seg>La posizione non può essere modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This serves as the &lt;f3&gt;Display&lt;/f3&gt; field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213241Z" creationid="Marco Marega" creationdate="20171029T213241Z">
@@ -4090,6 +4146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
         <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194447Z" creationid="Marco Marega" creationdate="20171125T194447Z">
+        <seg>a</seg>
       </tuv>
     </tu>
     <tu>
