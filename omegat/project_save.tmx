@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An input mask is used to control input into the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193158Z" creationid="Marco Marega" creationdate="20171125T193158Z">
+        <seg>Per controllare l'inserimento nel campo viene usata una maschera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anchoring of graphics within a text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204303Z" creationid="Marco Marega" creationdate="20171016T204303Z">
@@ -2510,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing further to report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192624Z" creationid="Marco Marega" creationdate="20171125T192624Z">
+        <seg>Nient'altro da segnalare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing special to report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212303Z" creationid="Marco Marega" creationdate="20171026T212303Z">
@@ -2634,6 +2650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
         <seg>Supporto e formazione a pagamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern &lt;f0&gt;f&lt;/f0&gt;ield</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192907Z" creationid="Marco Marega" creationdate="20171125T192907Z">
+        <seg>Campo &lt;f0&gt;a&lt;/f0&gt; maschera</seg>
       </tuv>
     </tu>
     <tu>
@@ -3154,6 +3178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231523Z" creationid="Marco Marega" creationdate="20171102T231451Z">
         <seg>I campi di dati si conformano alle impostazioni predefinite e a quelle per una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The events "Changed", "Text modified", "Before updating" and "After updating" are missing..</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192810Z" creationid="Marco Marega" creationdate="20171125T192810Z">
+        <seg>Mancano gli eventi "Modificato", "Testo modificato", "Prima di aggiornata" e "Ad aggiornamento avvenuto".</seg>
       </tuv>
     </tu>
     <tu>
