@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Queries to a database are the most powerful tool that we have to &lt;f0&gt;use&lt;/f0&gt; databases in a practical way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T160153Z" creationid="Manuel Frassinetti" creationdate="20171125T160153Z">
+        <seg>Le ricerche su un database sono lo strumento più potente che dobbiamo &lt;f0&gt;utilizzare&lt;/f0&gt; in modo pratico sui database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Queries – getting information on data in tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090508Z" creationid="Marina Latini" creationdate="20171003T090508Z">
@@ -3266,6 +3274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
         <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can bring together data from different tables, calculate results where necessary, and quickly filter a specific record from a mass of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T160455Z" creationid="Manuel Frassinetti" creationdate="20171125T160455Z">
+        <seg>Possono riunire dati da tabelle diverse, calcolare i risultati laddove necessario e filtrare rapidamente un record specifico da una massa di dati.</seg>
       </tuv>
     </tu>
     <tu>
