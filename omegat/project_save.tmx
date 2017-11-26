@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is activated by pressing the Enter key, when no other action needs to depend on this key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214248Z" creationid="Marco Marega" creationdate="20171126T214248Z">
+        <seg>Quando non sono necessarie ulteriori azioni dipendenti da questo pulsante, è possibile attivarlo premendo il tasto Invio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is bound to a &lt;f0&gt;Table&lt;/f0&gt; named &lt;f1&gt;Loans&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
@@ -4570,6 +4578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183104Z" creationid="Marco Marega" creationdate="20171014T182801Z">
         <seg>Quando vengono richiamate le proprietà del formulario usanndo il menu contestuale del Navigatore formulario o di un campo di controllo, appare una finestra &lt;f0&gt;Proprietà modulo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When there are several alternative buttons on a form, the one most often used should have this characteristic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214117Z" creationid="Marco Marega" creationdate="20171126T214117Z">
+        <seg>Quando su di un formulario ci sono diversi pulsanti alternativi tra loro, quello di uso più frequente dovrebbe avere questa caratteristica.</seg>
       </tuv>
     </tu>
     <tu>
