@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he entries are the labels of the option buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210645Z" creationid="Marco Marega" creationdate="20171126T210645Z">
+        <seg>&lt;f0&gt;Le&lt;/f0&gt; voci sono le etichette dei pulsanti di scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;his handbook &lt;f1&gt;describes&lt;/f1&gt; the creation of a form without &lt;f2&gt;using&lt;/f2&gt; the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185003Z" creationid="Marco Marega" creationdate="20171013T185003Z">
@@ -2014,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the default option is "female".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210722Z" creationid="Marco Marega" creationdate="20171126T210722Z">
+        <seg>In questo caso l'opzione predefinita è "female".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
@@ -2250,6 +2266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204843Z" creationid="Marco Marega" creationdate="20171026T204843Z">
         <seg>Se non viene inserito nulla, il campo sarà ZERO e non 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there is to be no default field, the default entry in the underlying table is &lt;f0&gt;NULL.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210815Z" creationid="Marco Marega" creationdate="20171126T210815Z">
+        <seg>Se non ci dev'essere un campo predefinito, la voce nella tabella sottostante è &lt;f0&gt;NULL.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,6 +3458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201201Z" creationid="Marco Marega" creationdate="20171125T201201Z">
         <seg>La Creazione guidata elemento tabella raggruppa in una finestra i campi di controllo che poi appariranno nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Wizard gives the option buttons separate values by default, here 1 for &lt;f0&gt;fem&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;le&lt;/f3&gt; and 2 for &lt;f4&gt;m&lt;/f4&gt;ale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210954Z" creationid="Marco Marega" creationdate="20171126T210954Z">
+        <seg>La procedura guidata assegna dei valori predefiniti ai pulsanti di scelta, in questo caso 1 per &lt;f0&gt;fem&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;le&lt;/f3&gt; e 2 per &lt;f4&gt;m&lt;/f4&gt;ale.</seg>
       </tuv>
     </tu>
     <tu>
