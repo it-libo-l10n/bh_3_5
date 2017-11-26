@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
+        <seg>Se nel formulario attivo viene selezionato female &lt;f0&gt;&lt;/f0&gt;, male viene deselezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is too big, the field will show a window into the image.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191819Z" creationid="Marco Marega" creationdate="20171125T191819Z">
@@ -2450,6 +2458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201318Z" creationid="Marco Marega" creationdate="20171125T201318Z">
         <seg>Nel campo di controllo la tabella Loans è &lt;f0&gt;disponibile&lt;/f0&gt; per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the example shown above, the option buttons replace a two-element list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212129Z" creationid="Marco Marega" creationdate="20171126T212129Z">
+        <seg>Nell'esempio sopra riportato, i pulsanti di scelta sostituiscono una casella di riepilogo di due elementi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200842Z" creationid="Marco Marega" creationdate="20171017T200842Z">
         <seg>Questo accade, ad esempio, quando si inizia un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a characteristic of option buttons that are bound to the same field in the underlying table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212035Z" creationid="Marco Marega" creationdate="20171126T212035Z">
+        <seg>Questa è una caratteristica dei pulsanti di scelta che sono collegati allo stesso campo della tabella sottostante.</seg>
       </tuv>
     </tu>
     <tu>
