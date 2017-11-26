@@ -3942,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This form is based on the Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210425Z" creationid="Marco Marega" creationdate="20171126T210425Z">
+        <seg>Questo formulario si basa sulla tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This groups field and label together.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202907Z" creationid="Marco Marega" creationdate="20171016T202907Z">
@@ -4258,6 +4266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205202Z" creationid="Marco Marega" creationdate="20171016T205202Z">
         <seg>Allineamento verticale: Standard | In alto | Al centro | In basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are dealing with the choice of gender.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210558Z" creationid="Marco Marega" creationdate="20171126T210558Z">
+        <seg>Abbiamo a che fare con la scelta del genere.</seg>
       </tuv>
     </tu>
     <tu>
