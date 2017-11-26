@@ -3822,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The value selected by clicking an option button is transferred to the &lt;f0&gt;Gender_ID&lt;/f0&gt; field &lt;f1&gt;of the form’s u&lt;/f1&gt;nderlying table Readers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211331Z" creationid="Marco Marega" creationdate="20171126T211121Z">
+        <seg>Il valore selezionato facendo clic su un pulsante di scelta viene riportato nel campo &lt;f0&gt;Gender_ID&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;della tabella Reader sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vertical alignment is not active for multi-line fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203549Z" creationid="Marco Marega" creationdate="20171026T203549Z">
@@ -3882,6 +3890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
         <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These values correspond to the examples of primary key fields in the Gender table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211134Z" creationid="Marco Marega" creationdate="20171126T211117Z">
+        <seg>Nell'esempio questi valori corrispondono al campo chiave primaria della tabella Gender.</seg>
       </tuv>
     </tu>
     <tu>
