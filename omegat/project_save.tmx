@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active, when Toggle is set to &lt;f0&gt;Yes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213204Z" creationid="Marco Marega" creationdate="20171126T213204Z">
+        <seg>Attivo, se Attiva/Disattiva è impostato a &lt;f0&gt;Si&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding the &lt;f0&gt;DISTINCT&lt;/f0&gt; keyword ensures that duplicate given names are shown only once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231749Z" creationid="Marco Marega" creationdate="20171102T231749Z">
@@ -2170,6 +2178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085757Z" creationid="Marina Latini" creationdate="20171003T085757Z">
         <seg>Icone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;f0&gt;Y&lt;/f0&gt;es, the button can be shown pressed in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212840Z" creationid="Marco Marega" creationdate="20171126T212840Z">
+        <seg>Se &lt;f0&gt;Si&lt;/f0&gt;, il pulsante può essere visualizzato come già premuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,6 +3566,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The button receives the focus when it is clicked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212803Z" creationid="Marco Marega" creationdate="20171126T212803Z">
+        <seg>Il pulsante riceve il focus quando si fa clic sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The button state is shown as for a switch.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212931Z" creationid="Marco Marega" creationdate="20171126T212931Z">
+        <seg>Lo stato del pulsante viene visualizzato come se si trattasse di un interruttore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The button to the right with the three dots provides a choice of numeric formats, as you usually do in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211937Z" creationid="Marco Marega" creationdate="20171026T211937Z">
@@ -4506,6 +4538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202544Z" creationid="Marco Marega" creationdate="20171026T202544Z">
         <seg>Se questo valore è 0, l'inserimento non consentito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you press it a second time, it shows an unpressed button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213011Z" creationid="Marco Marega" creationdate="20171126T213011Z">
+        <seg>Quando lo premete una seconda volta, verrà visualizzato il pulsante non premuto.</seg>
       </tuv>
     </tu>
     <tu>
