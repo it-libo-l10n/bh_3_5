@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Approve action", "Execute action" and "Item status changed".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214634Z" creationid="Marco Marega" creationdate="20171126T214634Z">
+        <seg>"Approva l'azione", "Esegui azione" e "Stato modificato".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Before updating" and "After updating" are all absent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210202Z" creationid="Marco Marega" creationdate="20171109T210202Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Sezione del sito web di destinazione al quale indirizzare, se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;&lt;f1&gt;n addition to&lt;/f1&gt; the properties already described on page &lt;bf2&gt;70&lt;/bf2&gt;, the following features are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214750Z" creationid="Marco Marega" creationdate="20171126T214750Z">
+        <seg>&lt;f0&gt;In&lt;/f0&gt;&lt;f1&gt; aggiunta&lt;/f1&gt; alle proprietà descritte a pagina &lt;bf2&gt;70&lt;/bf2&gt;, sono disponibili le seguenti caratteristiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However this button has no text and the button itself is not visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214832Z" creationid="Marco Marega" creationdate="20171126T214832Z">
+        <seg>However this button has no text and the button itself is not visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However this is seldom possible as it requires the content of the table to be so structured that the first table field contains the values to be displayed in the list field, and one of the following fields contains the primary key which the table underlying the form uses as a foreign key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210434Z" creationid="Marco Marega" creationdate="20171101T210434Z">
@@ -2378,6 +2402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image &lt;f0&gt;b&lt;/f0&gt;utton</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214649Z" creationid="Marco Marega" creationdate="20171126T214649Z">
+        <seg>Pulsante &lt;f0&gt;immagine&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,6 +3402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204647Z" creationid="Marco Marega" creationdate="20171015T204647Z">
         <seg>Simile a una casella di riepilogo, ma con il trasferimento del solo valore visualizzato, oppure con la possibilità di aggiungere a mano nuovi valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similar to a normal button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214910Z" creationid="Marco Marega" creationdate="20171126T214828Z">
+        <seg>È simile a un pulsante normale.</seg>
       </tuv>
     </tu>
     <tu>
