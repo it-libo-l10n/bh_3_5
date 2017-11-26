@@ -2544,8 +2544,8 @@
       <tuv lang="EN">
         <seg>In both cases a window opens, &lt;f0&gt;where&lt;/f0&gt; you &lt;f1&gt;can&lt;/f1&gt; create a query and also correct it if necessary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T170701Z" creationid="Manuel Frassinetti" creationdate="20171125T170701Z">
-        <seg>In entrambi i casi si apre una finestra, &lt;f0&gt;dove&lt;/f0&gt;&lt;f1&gt;potete&lt;/f1&gt; creare una richiesta e anche correggerla se necessario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171126T234003Z" creationid="Manuel Frassinetti" creationdate="20171125T170701Z">
+        <seg>In entrambi i casi si apre una finestra, &lt;f0&gt;dove&lt;/f0&gt; &lt;f1&gt;potete&lt;/f1&gt; creare una richiesta e anche correggerla se necessario.</seg>
       </tuv>
     </tu>
     <tu>
