@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Selected&lt;/f1&gt; corresponds to the pressed-in button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213226Z" creationid="Marco Marega" creationdate="20171126T213226Z">
+        <seg>&lt;f1&gt;Selezionato&lt;/f1&gt; corrisponde al pulsante premuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;T&lt;/f1&gt;he symbols at the right end of the Form Design toolbar &lt;f2&gt;show t&lt;/f2&gt;hat the grid is visible and active.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194256Z" creationid="Marco Marega" creationdate="20171125T194256Z">
         <seg>Un testo costante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A variety of actions similar to those for the navigation bar are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213449Z" creationid="Marco Marega" creationdate="20171126T213449Z">
+        <seg>Sono disponibili una serie di operazioni simili a quelle presenti sulla barra di navigazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211930Z" creationid="Marco Marega" creationdate="20171029T211930Z">
         <seg>Procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word wrapping if the button is too narrow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213315Z" creationid="Marco Marega" creationdate="20171126T213315Z">
+        <seg>Il testo va a capo se il pulsante è troppo piccolo.</seg>
       </tuv>
     </tu>
     <tu>
