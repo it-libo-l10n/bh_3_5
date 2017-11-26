@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The option button group is given a group box (frame) with the label Gender.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211835Z" creationid="Marco Marega" creationdate="20171126T211835Z">
+        <seg>Al gruppo di pulsanti di scelta viene assegnata una casella di gruppo (cornice) con etichetta Gender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option button is designed to be used in groups.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210708Z" creationid="Marco Marega" creationdate="20171109T210708Z">
