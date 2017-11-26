@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Events &lt;f0&gt;rab&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212534Z" creationid="Marco Marega" creationdate="20171126T212534Z">
+        <seg>Scheda &lt;f0&gt;Eventi&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Events &lt;f0&gt;tab&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212459Z" creationid="Marco Marega" creationdate="20171014T212459Z">
@@ -2622,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Label on the button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212721Z" creationid="Marco Marega" creationdate="20171126T212721Z">
+        <seg>Etichetta del pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like a button, but with an additional graphic displayed on it</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205954Z" creationid="Marco Marega" creationdate="20171015T205954Z">
@@ -2786,6 +2802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203054Z" creationid="Marco Marega" creationdate="20171016T203054Z">
         <seg>I campi non abilitati non possono essere usati e sono in grigetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None, since this control serves only for visual grouping of fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212503Z" creationid="Marco Marega" creationdate="20171126T212503Z">
+        <seg>Niente, dato che questo controllo serve unicamente a raggruppare visivamente i campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070541Z" creationid="ldaghino" creationdate="20171003T070541Z">
         <seg>Pubblicato il &lt;f0&gt;3 &lt;/f0&gt;&lt;f1&gt;Giugno &lt;/f1&gt;&lt;f2&gt;2013&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push &lt;f0&gt;b&lt;/f0&gt;utton</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212657Z" creationid="Marco Marega" creationdate="20171126T212657Z">
+        <seg>Pulsante&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191605Z" creationid="Marco Marega" creationdate="20171125T191605Z">
         <seg>L'immagine qui selezionata viene visualizzata nel campo di controllo solo durante la compilazione del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The group box reacts to events involving the mouse, a key, or the focus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212646Z" creationid="Marco Marega" creationdate="20171126T212646Z">
+        <seg>La casella di gruppo reagisce a eventi che comportano l'uso del mouse, di un tasto o il passaggio del focus.</seg>
       </tuv>
     </tu>
     <tu>
