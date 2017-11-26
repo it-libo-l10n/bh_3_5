@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way the Readers table is provided with the corresponding foreign key from the Gender table by using the option button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211745Z" creationid="Marco Marega" creationdate="20171126T211745Z">
+        <seg>In questo modo, usando il pulsante di scelta, la tabella Reader viene fornita con la corrispondente chiave esterna della tabella Gender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integrated into this control are many of the above controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205454Z" creationid="Marco Marega" creationdate="20171015T205454Z">
