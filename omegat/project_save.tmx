@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, an image button has no tab stop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215236Z" creationid="Marco Marega" creationdate="20171126T215236Z">
+        <seg>Per impostazione predefinita, un pulsante immagine non viene selezionato dal tabulatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, checkboxes have only two states: &lt;f0&gt;Selected&lt;/f0&gt; (Value: 1) and &lt;f1&gt;Not selected&lt;/f1&gt; (Value: 0).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205200Z" creationid="Marco Marega" creationdate="20171109T205131Z">
@@ -2184,8 +2192,8 @@
       <tuv lang="EN">
         <seg>However this button has no text and the button itself is not visible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214832Z" creationid="Marco Marega" creationdate="20171126T214832Z">
-        <seg>However this button has no text and the button itself is not visible.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215033Z" creationid="Marco Marega" creationdate="20171126T214832Z">
+        <seg>Anche se non ha un testo e il pulsante stesso non è visibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +4842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105548Z" creationid="ldaghino" creationdate="20171002T105548Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a3&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You see only a frame around the graphic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215117Z" creationid="Marco Marega" creationdate="20171126T215117Z">
+        <seg>È visibile solo una cornice attorno all'immagine.</seg>
       </tuv>
     </tu>
     <tu>
