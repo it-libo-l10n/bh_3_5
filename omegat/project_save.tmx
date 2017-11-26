@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML: File to be called up with this button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213553Z" creationid="Marco Marega" creationdate="20171126T213553Z">
+        <seg>HTML: con questo pulsante è possibile richiamare un File.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Heading for the form, description of other controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205619Z" creationid="Marco Marega" creationdate="20171015T205619Z">
@@ -2978,6 +2986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174628Z" creationid="Manuel Frassinetti" creationdate="20171125T174628Z">
         <seg>Una fornisce le basi per una creazione della ricerca in vista struttura; l'altra serve per aggiungere tabelle, viste o ricerche alla ricerca corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only for HTML forms: The target‑frame (frame arrangement for different HTML pages) in which the file should be opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213751Z" creationid="Marco Marega" creationdate="20171126T213751Z">
+        <seg>Solo per i formulari HTML: il frame di destinazione (disposizione dei frame per diverse pagine HTML) nel quale il file dev'essere aperto.</seg>
       </tuv>
     </tu>
     <tu>
