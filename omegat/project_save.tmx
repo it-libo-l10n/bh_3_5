@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default button is framed when this is set to &lt;f0&gt;Ye&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214018Z" creationid="Marco Marega" creationdate="20171126T214018Z">
+        <seg>Il pulsante predefinito viene visualizzato con una cornice se impostato su &lt;f0&gt;Si&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The events "Changed", "Text modified", "Before updating" and "After updating" are missing..</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192810Z" creationid="Marco Marega" creationdate="20171125T192810Z">
