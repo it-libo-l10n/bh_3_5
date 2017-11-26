@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A button only carries out actions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214528Z" creationid="Marco Marega" creationdate="20171126T214528Z">
+        <seg>Un pulsante serve esclusivamente a eseguire delle azioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A click on the button on the right (…) allows macros to be linked to the event.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212709Z" creationid="Marco Marega" creationdate="20171014T212709Z">
@@ -2998,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only active when a graphic has been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214423Z" creationid="Marco Marega" creationdate="20171126T214423Z">
+        <seg>Attivo solo quando si seleziona un'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only for HTML forms: The target‑frame (frame arrangement for different HTML pages) in which the file should be opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213751Z" creationid="Marco Marega" creationdate="20171126T213751Z">
@@ -3010,6 +3026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203846Z" creationid="Marco Marega" creationdate="20171026T203846Z">
         <seg>Solo per campi con più righe: Nessuno | Orizzontale | Verticale | Entrambi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only one button on the form can be the default button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214325Z" creationid="Marco Marega" creationdate="20171126T214325Z">
+        <seg>Un solo pulsante del formulario può essere quello predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should a graphic appear on the button?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214355Z" creationid="Marco Marega" creationdate="20171126T214355Z">
+        <seg>Sul pulsante deve apparire un'immagine?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should agree with the minimum value defined in the table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204253Z" creationid="Marco Marega" creationdate="20171026T204253Z">
@@ -3386,6 +3418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203713Z" creationid="Marco Marega" creationdate="20171016T203713Z">
         <seg>Alle volte è utile per stampare una pagina dal formulario piuttosto che da un Rapporto separato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies the alignment of the graphic to the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214442Z" creationid="Marco Marega" creationdate="20171126T214442Z">
+        <seg>Specifica l'allineamento dell'immagine rispetto al testo.</seg>
       </tuv>
     </tu>
     <tu>
