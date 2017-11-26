@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At present the frame properties (Line thickness, line color) cannot be changed but you can change the font formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212411Z" creationid="Marco Marega" creationdate="20171126T212411Z">
+        <seg>Allo stato attuale le proprietà della cornice (spessore e colore della linea) non possono essere modificati, ma potete cambiare la formattazione dei caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background color of the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
@@ -3666,6 +3674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
         <seg>L'immagine non è distorta.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The label can be changed from its default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212301Z" creationid="Marco Marega" creationdate="20171126T212301Z">
+        <seg>L'etichetta può essere modificata rispetto al suo valore predefinito.</seg>
       </tuv>
     </tu>
     <tu>
