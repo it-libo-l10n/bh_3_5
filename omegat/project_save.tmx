@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A group box graphically groups several controls and provides them with a collective label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210145Z" creationid="Marco Marega" creationdate="20171126T210145Z">
+        <seg>Una casella di gruppo riunisce graficamente diversi controlli ai quali attribuisce un'etichetta collettiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A image control handles the entry and display of graphical material in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204231Z" creationid="Marco Marega" creationdate="20171118T204231Z">
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
         <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a group box is created with Wizards active, the Wizard proceeds from the assumption that several option buttons will occur together within this frame.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210349Z" creationid="Marco Marega" creationdate="20171126T210349Z">
+        <seg>Se una casella di gruppo viene creata con la procedura guidata, questa procede partendo dal presupposto che all'interno di questa cornice troveranno posto diversi pulsanti di scelta.</seg>
       </tuv>
     </tu>
     <tu>
