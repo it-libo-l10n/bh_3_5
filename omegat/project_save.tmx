@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;wo &lt;f7&gt;dialog&lt;/f7&gt;s appear.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174439Z" creationid="Manuel Frassinetti" creationdate="20171125T174439Z">
-        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;V&lt;/f6&gt;&lt;/f5&gt;engono visualizzate due finestre di &lt;f7&gt;dialogo&lt;/f7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T085358Z" creationid="Manuel Frassinetti" creationdate="20171125T174439Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Vengono&lt;/f6&gt;&lt;/f5&gt; visualizzate due finestre di &lt;f7&gt;dialogo&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;n the main database window, click the Queries icon in the Databases section, then in the Tasks section, click &lt;f1&gt;Create Quer&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;y in Design View&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174256Z" creationid="Manuel Frassinetti" creationdate="20171125T174143Z">
-        <seg>&lt;f0&gt;N&lt;/f0&gt;ella finestra principale del database, fate click sull'icona Ricerche nella sezione Database, poi nella sezione Attività, fate click su&lt;f1&gt;Crea Ricerca&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; in vista struttura&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T085344Z" creationid="Manuel Frassinetti" creationdate="20171125T174143Z">
+        <seg>&lt;f0&gt;Nella&lt;/f0&gt; finestra principale del database, fate click sull'icona Ricerche nella sezione Database, poi nella sezione Attività, fate click su&lt;f1&gt;Crea Ricerca&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; in Vista Struttura&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
