@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;To s&lt;/f1&gt;&lt;f2&gt;elect &lt;/f2&gt;&lt;f3&gt;a table, click its name and then click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Add&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092440Z" creationid="Manuel Frassinetti" creationdate="20171127T092440Z">
+        <seg>&lt;f1&gt;Per &lt;/f1&gt;&lt;f2&gt;selezionare &lt;/f2&gt;&lt;f3&gt;una tabella, fare clic sul nome e poi clic sul pulsante &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Aggiungi&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;You can change t&lt;/f1&gt;his name immediately or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135634Z" creationid="Marco Marega" creationdate="20171014T135634Z">
@@ -1738,6 +1746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
         <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either method&lt;/f6&gt; add&lt;f7&gt;s&lt;/f7&gt; &lt;f8&gt;t&lt;/f8&gt;&lt;f9&gt;he table&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;to the graphical area of the &lt;f11&gt;Q&lt;/f11&gt;uery &lt;f12&gt;Design dialog&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092842Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
+        <seg>entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata di dialogo della &lt;f11&gt;Struttura&lt;/f11&gt;della Richiesta&lt;f12&gt;&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204816Z" creationid="Marco Marega" creationdate="20171015T204816Z">
         <seg>Pulsante di opzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, double-click the table’s name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092515Z" creationid="Manuel Frassinetti" creationdate="20171127T092515Z">
+        <seg>Oppure , doppio clic sul nome della tabella.</seg>
       </tuv>
     </tu>
     <tu>
