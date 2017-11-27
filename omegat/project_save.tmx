@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;As our simple form refers to the Loan table, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;we will f&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;irst explain the &lt;/f3&gt;&lt;f4&gt;creation&lt;/f4&gt;&lt;f5&gt; of a query using this table.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091415Z" creationid="Manuel Frassinetti" creationdate="20171127T091415Z">
+        <seg>&lt;f0&gt;Poiché il nostro semplice formulario si riferisce alla tabella Prestito, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;prima&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; spieghiamo la &lt;/f3&gt;&lt;f4&gt;creazione&lt;/f4&gt;&lt;f5&gt; di una richiesta utilizzando questa tabella.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Before submit&lt;/f0&gt;&lt;f1&gt;ting&lt;/f1&gt;: Before the form data are sent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200917Z" creationid="Marco Marega" creationdate="20171015T200917Z">
@@ -2002,6 +2010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085830Z" creationid="Marina Latini" creationdate="20171003T085830Z">
         <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the tables available, &lt;f0&gt;select &lt;/f0&gt;the Loan table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091536Z" creationid="Manuel Frassinetti" creationdate="20171127T091536Z">
+        <seg>Dalle tabelle disponibili, &lt;f0&gt;selezionate &lt;/f0&gt;la tabella Prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,6 +4450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202904Z" creationid="Marco Marega" creationdate="20171026T202904Z">
         <seg>Questo testo deve essere cancellato se viene effettuato con successo un qualsiasi altro inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This window allows multiple tables (and also views and queries) to be combined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091724Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
+        <seg>Questa finestra permette di combinare più tabelle (e anche viste e richieste).</seg>
       </tuv>
     </tu>
     <tu>
