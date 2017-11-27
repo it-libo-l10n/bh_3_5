@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additional tables and queries can be added later if required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T093442Z" creationid="Manuel Frassinetti" creationdate="20171127T093442Z">
+        <seg>Tabelle e richieste supplementari possono essere aggiunte in seguito se richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the form is predefined, this time with the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
@@ -4730,6 +4738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211442Z" creationid="Marco Marega" creationdate="20171029T211442Z">
         <seg>Quando create una casella di riepilogo, per impostazione predefinita, compare la finestra di creazione guidata &lt;f0&gt;Casella &lt;/f0&gt;di &lt;f1&gt;riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When all necessary tables have been selected, &lt;f0&gt;click the&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;lose&lt;/f3&gt; &lt;f4&gt;button&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T093327Z" creationid="Manuel Frassinetti" creationdate="20171127T093327Z">
+        <seg>Quando tutte le tabelle necessarie sono state selezionate, &lt;f0&gt;fate clic&lt;/f0&gt; sul pulsante&lt;f1&gt;&lt;f2&gt;Chiudi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
