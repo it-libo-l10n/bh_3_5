@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The selected field designation &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan.*&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; has a special meaning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115040Z" creationid="Manuel Frassinetti" creationdate="20171129T114859Z">
+        <seg>&lt;f0&gt;La designazione del campo selezionato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito.*&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ha un significato speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To display t&lt;/f0&gt;he &lt;f1&gt;Form &lt;/f1&gt;Navigator, &lt;f2&gt;click &lt;/f2&gt;the Form Navigator &lt;f3&gt;b&lt;/f3&gt;utton &lt;f4&gt;(&lt;/f4&gt;shown in &lt;f5&gt;F&lt;/f5&gt;igure &lt;t6&gt;22&lt;/t6&gt;&lt;f7&gt;)&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134547Z" creationid="Marco Marega" creationdate="20171014T134547Z">
@@ -2170,6 +2178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here one click allows you to add all fields from the underlying table to the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115018Z" creationid="Manuel Frassinetti" creationdate="20171129T115018Z">
+        <seg>Qui un clic vi consente di aggiungere tutti i campi dalla tabella sottostante alla ricerca.</seg>
       </tuv>
     </tu>
     <tu>
