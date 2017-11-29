@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2242,6 +2242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
         <seg>Il testo selezionato perde l'evidenziazione quando il campo di testo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However no query can be created without at least one table, so a &lt;f5&gt;selection&lt;/f5&gt; must be made at the beginning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T110043Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
+        <seg>Tuttavia nessuna ricerca può essere creata senza almeno una tabella, quindi una  &lt;f5&gt;selezione&lt;/f5&gt; deve essere fatta all'inizio.</seg>
       </tuv>
     </tu>
     <tu>
