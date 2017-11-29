@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The format is &lt;f5&gt;Table_name.Field_name&lt;/f5&gt; – which is why all field names here begin with the word &lt;f6&gt;Loan&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T113828Z" creationid="Manuel Frassinetti" creationdate="20171129T113828Z">
+        <seg>Il formato è &lt;f5&gt;nome_Tabella.nome_Campo&lt;/f5&gt; – ecco perché tutti i nomi dei campi qui iniziano con la parola &lt;f6&gt;Prestito&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting of the &lt;f4&gt;Extension&lt;/f4&gt; field with two decimal places was certainly not intended.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203446Z" creationid="Marco Marega" creationdate="20171125T203446Z">
