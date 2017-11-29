@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;lick on the field in the first column in the table area &lt;f1&gt;to &lt;/f1&gt;&lt;f2&gt;reveal a down arrow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111907Z" creationid="Manuel Frassinetti" creationdate="20171129T111907Z">
+        <seg>&lt;f0&gt;Fate&lt;/f0&gt; clic su campo nella prima colonna nell'area tabella &lt;f1&gt;per  &lt;/f1&gt;&lt;f2&gt;mostrare una freccia a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chang&lt;/f0&gt;&lt;f1&gt;ed&lt;/f1&gt;: This event takes place when a control is modified and afterwards loses the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195314Z" creationid="Marco Marega" creationdate="20171017T195314Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204450Z" creationid="Marco Marega" creationdate="20171015T204450Z">
         <seg>Scegliere tra una serie di diverse possibilità, anche per trasferire nel database altri valori oltre a quelli visualizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click this arrow to &lt;/f2&gt;open the &lt;f3&gt;drop-down list of available &lt;/f3&gt;field&lt;f4&gt;s&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T112030Z" creationid="Manuel Frassinetti" creationdate="20171129T112030Z">
+        <seg>Fate clic su questa fraccia per &lt;/f2&gt;aprire &lt;f3&gt;la lista a discesa dei campi disponibili&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
