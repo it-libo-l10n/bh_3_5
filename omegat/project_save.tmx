@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;s&lt;/f2&gt;hows the basic divisions of the &lt;f3&gt;Query Design &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;: the graphical area displays the tables &lt;f5&gt;that&lt;/f5&gt; are to be linked to the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111349Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
+        <seg>&lt;f0&gt;La Figura &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;mostra&lt;/f2&gt; la divisione di base della finestra di dialogo della &lt;f3&gt;Struttura Ricerca &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;: l'area grafica modea le tabelle &lt;f5&gt;che&lt;/f5&gt; sono collegate alla ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;1&lt;/seq1&gt;: Context menu for form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140712Z" creationid="Marco Marega" creationdate="20171014T140712Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171127T201548Z" creationid="Marco Marega" creationdate="20171127T201548Z">
         <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;: campo di controllo &lt;f1&gt;Barra &lt;/f1&gt;di Navigazione &lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111230Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: Aree della finestra di &lt;f1&gt;dialogo&lt;/f1&gt;  &lt;f2&gt;della Struttura&lt;/f2&gt; &lt;f3&gt;Ricerca&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table area is for the selection of fields for display, or for setting conditions related to these fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111531Z" creationid="Manuel Frassinetti" creationdate="20171129T111531Z">
+        <seg>L'area della tabella serve per la selezione dei campi per la visualizzazione o per l'impostazione delle condizioni relative a questi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The underlying data field must be a binary field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204306Z" creationid="Marco Marega" creationdate="20171118T204306Z">
@@ -4186,6 +4210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203549Z" creationid="Marco Marega" creationdate="20171026T203549Z">
         <seg>L'allineamento verticale per i campi con più righe non è attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Their relationships to each other in relation to the query may also be shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111445Z" creationid="Manuel Frassinetti" creationdate="20171129T111445Z">
+        <seg>Possono anche essere mostrate le loro relazioni reciproche in relazione alla ricerca.</seg>
       </tuv>
     </tu>
     <tu>
