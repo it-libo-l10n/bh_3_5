@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A test run of a query is always useful before saving it, to clarify for the user whether the query actually achieves its goal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180657Z" creationid="Manuel Frassinetti" creationdate="20171130T180657Z">
+        <seg>Un'esecuzione di prova di una ricerca è sempre utile prima di salvarla, per chiarire all'utente se la ricerca raggiunge effettivamente il suo obiettivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text constant.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194256Z" creationid="Marco Marega" creationdate="20171125T194256Z">
@@ -1934,6 +1942,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: An editable query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181219Z" creationid="Manuel Frassinetti" creationdate="20171130T181219Z">
+        <seg>Figura &lt;seq0&gt;43&lt;/seq0&gt;: Una ricerca modificabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: A non-editable query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181249Z" creationid="Manuel Frassinetti" creationdate="20171130T181223Z">
+        <seg>Figura &lt;seq0&gt;44&lt;/seq0&gt;: Una ricerca non modificabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File selector</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210050Z" creationid="Marco Marega" creationdate="20171015T210050Z">
@@ -2654,6 +2678,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180834Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
+        <seg>In altri casi può accadere che vengano visualizzati esattamente quei record che si desidera escludere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In principle a query &lt;f0&gt;that&lt;/f0&gt; produces an error message in the underlying database cannot be saved &lt;f1&gt;until the error is corrected&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181156Z" creationid="Manuel Frassinetti" creationdate="20171130T181156Z">
+        <seg>In linea di principio una ricerca &lt;f0&gt;che&lt;/f0&gt; genera un messaggio di errore non può essere salvata nel database sottostante &lt;f1&gt;fin tanto che l'errore non è corretto&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In tests, this action regularly &lt;s1/&gt;duplicates itself; macros run twice in succession.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
@@ -3146,6 +3186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195450Z" creationid="Marco Marega" creationdate="20171017T195450Z">
         <seg>Si verifica dopo l'aggiunta di ciascun carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often a logical error prevents a query from retrieving any data at all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180742Z" creationid="Manuel Frassinetti" creationdate="20171130T180742Z">
+        <seg>Spesso un errore logico impedisce a una ricerca di recuperare tutti i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,6 +4450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200346Z" creationid="Marco Marega" creationdate="20171017T200346Z">
         <seg>Questo causa la ricezione del focus da parte di un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This causes a tabular view of the data to appear above the graphical view of the &lt;f0&gt;Loan table with its list of fields&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180556Z" creationid="Manuel Frassinetti" creationdate="20171130T180556Z">
+        <seg>Ciò causa una visualizzazione tabellare dei dati da visualizzare sopra la vista grafica della &lt;f0&gt;tabella Prestito con la sua lista di campi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
