@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Queries in Design Mode can always be run as tests.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T175923Z" creationid="Manuel Frassinetti" creationdate="20171130T175923Z">
+        <seg>Le ricerche in Modo bozza  possono sempre essere eseguite come test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Queries to a database are the most powerful tool that we have to &lt;f0&gt;use&lt;/f0&gt; databases in a practical way.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084135Z" creationid="Manuel Frassinetti" creationdate="20171125T160153Z">
