@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the above test, special attention should be paid to the first column of the query result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181349Z" creationid="Manuel Frassinetti" creationdate="20171130T181349Z">
+        <seg>&lt;f0&gt;Nel test precedente, un'attenzione particolare dovrebbe essere rivolta alla prima colonna del risultato della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Item status changed&lt;/f0&gt;: This could be the change of the displayed content of a list box through the use of the drop-down button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213954Z" creationid="Marco Marega" creationdate="20171101T213954Z">
@@ -3874,6 +3882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210954Z" creationid="Marco Marega" creationdate="20171126T210954Z">
         <seg>La procedura guidata assegna dei valori predefiniti ai pulsanti di scelta, in questo caso 1 per &lt;f0&gt;fem&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;le&lt;/f3&gt; e 2 per &lt;f4&gt;m&lt;/f4&gt;ale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The active record marker &lt;/f0&gt;&lt;f1&gt;(green arrow) &lt;/f1&gt;&lt;f2&gt;always appears on the left side of the table, here pointing to the first record as the active record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181743Z" creationid="Manuel Frassinetti" creationdate="20171130T181743Z">
+        <seg>L'evidenziatore del record attivo &lt;/f0&gt;&lt;f1&gt;(freccia verde) &lt;/f1&gt;&lt;f2&gt;appare sempre sul lato sinistro della tabella, in questo punto punta al primo record come record attivo.</seg>
       </tuv>
     </tu>
     <tu>
