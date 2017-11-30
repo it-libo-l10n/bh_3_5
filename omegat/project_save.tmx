@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first five fields of the Loan table are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T173018Z" creationid="Manuel Frassinetti" creationdate="20171130T173018Z">
+        <seg>I primi cinque campi della tabella Prestito sono selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following characters are available for defining the edit mask.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194222Z" creationid="Marco Marega" creationdate="20171125T194222Z">
@@ -4802,6 +4810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
         <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;/f3&gt;&lt;f4&gt;you use &lt;/f4&gt;&lt;f5&gt;this field designation with the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;wildcard *&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; for all fields, the query becomes indistinguishable from the table.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T172937Z" creationid="Manuel Frassinetti" creationdate="20171130T172937Z">
+        <seg>Quando &lt;/f3&gt;&lt;f4&gt;usate &lt;/f4&gt;&lt;f5&gt;questo campo designato con il &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;carattere jolly  *&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; per tutti i campi, la richiesta diventa indistinguibile dalla tabella.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
