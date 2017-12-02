@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;The data may not have &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;the&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; same meaning.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165910Z" creationid="Manuel Frassinetti" creationdate="20171202T165910Z">
-        <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;I dati potrebbro non avere  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;lo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; stesso significato.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T170819Z" creationid="Manuel Frassinetti" creationdate="20171202T165910Z">
+        <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;I dati potrebbero non avere  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;lo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; stesso significato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200323Z" creationid="Marco Marega" creationdate="20171017T200323Z">
         <seg>Ad esempio, un tasto viene premuto quando vi spostate attraverso il formulario usando il tasto Tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, change the name of the reader, and you have also changed what books the reader has borrowed and returned.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T170715Z" creationid="Manuel Frassinetti" creationdate="20171202T170715Z">
+        <seg>Per esempio, cambiare il nome del lettore, e avete anche cambiato quale libro il lettore ha preso e restituito.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
