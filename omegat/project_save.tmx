@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If a link is absent, it can be created at this point by dragging the mouse from "&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan"."Reader_ID"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Reader"."ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162151Z" creationid="Manuel Frassinetti" creationdate="20171202T162151Z">
+        <seg>&lt;f0&gt;Se un collegamento è assente, può essere creato a questo punto col trascinamento del mouse da "&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito"."Lettore_ID"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; a "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Lettore"."ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to the&lt;/f0&gt; properties already listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are available:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210722Z" creationid="Marco Marega" creationdate="20171026T210722Z">
@@ -2318,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here further tables or queries can subsequently be added and made visible in the graphical user interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161520Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
+        <seg>Qui ulteriori tabelle o ricerche possono essere successivamente aggiunte e rese visibili nell'interfaccia utente grafica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here one click allows you to add all fields from the underlying table to the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115018Z" creationid="Manuel Frassinetti" creationdate="20171129T115018Z">
@@ -2570,6 +2586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210224Z" creationid="Marco Marega" creationdate="20171125T210224Z">
         <seg>Se è troppo lunga per il campo, viene troncata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If links between the tables were declared at the time of their creation (see &lt;f0&gt;Chapter&lt;/f0&gt; &lt;f1&gt;3,&lt;/f1&gt; Tables), then these tables are shown with the corresponding direct links.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161834Z" creationid="Manuel Frassinetti" creationdate="20171202T161834Z">
+        <seg>Se i collegamenti fra le tabelle sono stati dichiarati al momento della loro creazione (consultate il &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;3,&lt;/f1&gt; Tabelle), allora queste tabelle vengono mostrate con i corrispondenti collegamenti diretti.</seg>
       </tuv>
     </tu>
     <tu>
