@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also sorting by Surname and First_name makes more sense than sorting by Reader_ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164658Z" creationid="Manuel Frassinetti" creationdate="20171202T164658Z">
+        <seg>Anche l'ordinamento per cognome e primo_name ha più senso dell'ordinamento per Lettore_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Among the numeric formats can be seen, alongside Date, Time, Currency or normal numeric format, possibilities for using fields with a measurement unit such as &lt;f0&gt;kg&lt;/f0&gt; &lt;f1&gt;(see Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;27&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212143Z" creationid="Marco Marega" creationdate="20171026T212143Z">
@@ -2822,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact it then becomes completely editable so that the readers’ names can also be altered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165321Z" creationid="Manuel Frassinetti" creationdate="20171202T165321Z">
+        <seg>Diventa quindi completamente modificabile in modo che anche i nomi dei lettori possano essere modificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180834Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
@@ -3286,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now the names are visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164445Z" creationid="Manuel Frassinetti" creationdate="20171202T164445Z">
+        <seg>Ora i nomi sono visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now we will create a form on the empty page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133720Z" creationid="Marco Marega" creationdate="20171014T133720Z">
@@ -3402,6 +3426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203846Z" creationid="Marco Marega" creationdate="20171026T203846Z">
         <seg>Solo per campi con più righe: Nessuno | Orizzontale | Verticale | Entrambi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if this primary key is built in, does the query become editable again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165135Z" creationid="Manuel Frassinetti" creationdate="20171202T165135Z">
+        <seg>Solo se questa chiave primaria è incorporata, la query diventa nuovamente modificabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So for example, the First_name field has been dragged into position directly before the Loan_date field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164412Z" creationid="Manuel Frassinetti" creationdate="20171202T164412Z">
+        <seg>Così ad esempio, il campo Primo_nome è stato trascinato nella posizione direttamente prima del campo Prestito_data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So you haven't to scroll to long through the list to find somebody.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212126Z" creationid="Marco Marega" creationdate="20171101T212126Z">
@@ -4002,6 +4042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214203Z" creationid="Marco Marega" creationdate="20171029T213659Z">
         <seg>La tabella Reader viene &lt;f5&gt;in questo caso&lt;/f5&gt; definita come &lt;f6&gt;Tabella di elenco&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Reader_ID has become superfluous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164522Z" creationid="Manuel Frassinetti" creationdate="20171202T164522Z">
+        <seg>Il Lettore_ID è diventato superfluo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,6 +4898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194310Z" creationid="Marco Marega" creationdate="20171125T194310Z">
         <seg>La posizione non può essere modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query is no longer suitable for use as a query that allows new entries into the resulting table, since it lacks the primary key for the added Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164849Z" creationid="Manuel Frassinetti" creationdate="20171202T164849Z">
+        <seg>Questa ricerca non è più adatta per l'uso come una ricerca che consente nuovi inserimenti nella tabella risultante, poiché manca la chiave primaria per la tabella Lettore aggiunta.</seg>
       </tuv>
     </tu>
     <tu>
