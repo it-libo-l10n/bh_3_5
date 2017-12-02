@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Editing data in the query also edits data in the underlying table and the records contained in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;the&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165812Z" creationid="Manuel Frassinetti" creationdate="20171202T165812Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La modifica dei dati nella ricerca modifica anche i dati nella tabella sottostante e i record di dati contenuti  &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nella&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AS&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; specifies the field aliases to be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114911Z" creationid="Manuel Frassinetti" creationdate="20171202T114911Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;The data may not have &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;the&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; same meaning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165910Z" creationid="Manuel Frassinetti" creationdate="20171202T165910Z">
+        <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;I dati potrebbro non avere  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;lo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; stesso significato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; gives the conditions for the query, namely that the Return_date field is to be empty (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T123921Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
@@ -194,6 +210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185013Z" creationid="osvaldo" creationdate="20171012T185013Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Capitolo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; 1 &lt;s3/&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Having a query that you can edit can create problems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165628Z" creationid="Manuel Frassinetti" creationdate="20171202T165628Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Avere una ricerca che potete modificare può creare problemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165500Z" creationid="Manuel Frassinetti" creationdate="20171202T165500Z">
+        <seg>Attenzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Caution – with large contents, this &lt;f1&gt;choice &lt;/f1&gt;can use a lot of storage.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195027Z" creationid="Marco Marega" creationdate="20171017T195027Z">
@@ -2170,6 +2202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203057Z" creationid="Marco Marega" creationdate="20171125T203057Z">
         <seg>Per questo scopo, è possibile posizionare all'interno del campo di controllo tabella dei controlli come le caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, making query results editable is a facility that should be used with extreme caution, if necessary under the control of a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165439Z" creationid="Manuel Frassinetti" creationdate="20171202T165439Z">
+        <seg>Per questo motivo, rendere modificabili i risultati delle query è una funzione che dovrebbe essere utilizzata con estrema cautela, se necessario sotto il controllo di un modulo.</seg>
       </tuv>
     </tu>
     <tu>
