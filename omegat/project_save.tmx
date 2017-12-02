@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan_Date&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Return_Date&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields are given aliases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T110904Z" creationid="Manuel Frassinetti" creationdate="20171202T110904Z">
+        <seg>&lt;f0&gt;I campi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data_Prestito&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Data_Rientro&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; hanno degli alias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The creation of queries using the Wizard is briefly described in &lt;/f0&gt;&lt;f1&gt;Chapter 8 of the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Getting Started&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide, &lt;/f4&gt;&lt;f5&gt;Getting Started with Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084414Z" creationid="Manuel Frassinetti" creationdate="20171125T172903Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194658Z" creationid="Marco Marega" creationdate="20171125T194658Z">
         <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A basic rule is that no new entries are possible if the primary key in the queried table is not included in the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T110703Z" creationid="Manuel Frassinetti" creationdate="20171202T110703Z">
+        <seg>Una regola di base è che non sono possibili nuovi inserimenti se la chiave primaria nella tabella interrogata non è inclusa nella ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Return_Date field is given not just an alias but also a search criterion, which will cause only those records to be displayed for which the Return_Date field is empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111531Z" creationid="Manuel Frassinetti" creationdate="20171202T111531Z">
+        <seg>Il campo Data_Rientro viene fornito non solo di un alias ma anche di un criterio di ricerca, che causerà la visualizzazione di quei soli record di dati per i quali il campo Data_Rientro è vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The SQL command however shows a special feature:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231606Z" creationid="Marco Marega" creationdate="20171102T231515Z">
@@ -4342,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table view above shows how the aliases replace the actual field names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111238Z" creationid="Manuel Frassinetti" creationdate="20171202T111238Z">
+        <seg>La tabella precedente mostra come gli alias sostituiscono i nomi dei campi effettivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The underlying data field must be a binary field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204306Z" creationid="Marco Marega" creationdate="20171118T204306Z">
@@ -4538,6 +4570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105527Z" creationid="ldaghino" creationdate="20171002T105527Z">
         <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2013&lt;/f1&gt; dei collaboratori di seguito elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This does not cause them to be renamed but only to appear under these names for the user of the query.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111117Z" creationid="Manuel Frassinetti" creationdate="20171202T111117Z">
+        <seg>Questo non li fa rinominare ma solo apparire sotto questi nomi per l'utente della ricerca.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
