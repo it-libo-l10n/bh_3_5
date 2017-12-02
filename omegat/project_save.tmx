@@ -4902,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To show these in a query, the Reader table must be included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150146Z" creationid="Manuel Frassinetti" creationdate="20171202T150146Z">
+        <seg>Per visualizzarli in una ricerca, è necessario includere la tabella Lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbar very similar to the one at the bottom edge of the screen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210036Z" creationid="Marco Marega" creationdate="20171015T210036Z">
