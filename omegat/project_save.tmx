@@ -4110,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The highlight indicates that this field can be modified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101315Z" creationid="Manuel Frassinetti" creationdate="20171202T101315Z">
+        <seg>L'evidenziazione indica che questo campo può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The image is not distorted.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
@@ -4282,6 +4290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211659Z" creationid="Marco Marega" creationdate="20171101T211641Z">
         <seg>La query è la più semplice possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The records, in other words, are editable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101433Z" creationid="Manuel Frassinetti" creationdate="20171202T101433Z">
+        <seg>I record di dati, in altre parole, sono modificabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T204939Z" creationid="Marco Marega" creationdate="20171014T204939Z">
         <seg>Mentre le Tabelle possono sempre essere utilizzate per inserire dati in un formulario, ciò non è sempre possibile per le Query &lt;f5&gt;(per maggiori informazioni vedete il Capitolo &lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; Query&lt;f8&gt;&lt;/f8&gt;, &lt;f9&gt;di questo libro) o&lt;/f9&gt; per l'inserimento diretto di un comando SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the first field of the first record in &lt;/f2&gt;&lt;f3&gt;Figure&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;43&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt; is highlighted, the corresponding field in &lt;/f7&gt;&lt;f8&gt;Figure&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;44&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt; shows only a dashed border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101445Z" creationid="Manuel Frassinetti" creationdate="20171202T100823Z">
+        <seg>Mentre il primo campo del primo record di dati in &lt;/f2&gt;&lt;f3&gt;Figura&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;43&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt; è evidenziato, il corrispondente campo in &lt;/f7&gt;&lt;f8&gt;Figura&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;44&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt; mostra solo un bordo tratteggiato.</seg>
       </tuv>
     </tu>
     <tu>
