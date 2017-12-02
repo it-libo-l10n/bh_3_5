@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ORDER BY&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; defines the sort criteria, namely ascending order (ASC – ascending) for the two fields Reader_ID and Loan date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T123833Z" creationid="Manuel Frassinetti" creationdate="20171202T123833Z">
-        <seg>&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ORDER BY&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; definisce il criterio di ordinamento, namely ascending order (ASC – ascending) for the two fields Reader_ID and Loan date.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T143856Z" creationid="Manuel Frassinetti" creationdate="20171202T123833Z">
+        <seg>&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ORDER BY&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; definisce il criterio di ordinamento, cioè ordine ascendente (ASC - crescente) per i due campi Lettore_ID e data di Prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4778,6 +4778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222917Z" creationid="Marco Marega" creationdate="20171102T222917Z">
         <seg>Questo dovrebbe essere visualizzato nella casella combinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This sort specification illustrates how the alias for the Loan_Date field can be used within the query itself.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144024Z" creationid="Manuel Frassinetti" creationdate="20171202T144024Z">
+        <seg>Questa specifica di ordinamento illustra come l'alias del campo Prestito_Data può essere utilizzato all'interno della ricerca stessa.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
