@@ -3278,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now fields from the Reader table can be entered into the tabular area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162446Z" creationid="Manuel Frassinetti" creationdate="20171202T162446Z">
+        <seg>Ora i campi dalla tabella Lettore possono essere inclusi nell'area tabulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now we will create a form on the empty page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133720Z" creationid="Marco Marega" creationdate="20171014T133720Z">
@@ -4182,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields are initially added to the end of the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162515Z" creationid="Manuel Frassinetti" creationdate="20171202T162515Z">
+        <seg>I campi sono inizialmente aggiunti alla fine della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first five fields of the Loan table are selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T173018Z" creationid="Manuel Frassinetti" creationdate="20171130T173018Z">
@@ -4394,6 +4410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210441Z" creationid="Marco Marega" creationdate="20171109T210441Z">
         <seg>Il pulsante di scelta è simile alla casella di controllo appena descritta, ad eccezione delle proprietà &lt;f0&gt;&lt;/f0&gt;generali e alla sua forma esterna rotonda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The position of the fields can be corrected in the tabular area of the editor using the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162655Z" creationid="Manuel Frassinetti" creationdate="20171202T162655Z">
+        <seg>La posizione di questi campi può essere corretta nell'area tabellare  dell'editor tramite l'uso del mouse.</seg>
       </tuv>
     </tu>
     <tu>
