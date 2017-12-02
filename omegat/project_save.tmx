@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the SQL formula created by our previous choices is revealed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114233Z" creationid="Manuel Frassinetti" creationdate="20171202T114233Z">
+        <seg>Qui viene rivelata la formula SQL creata dalle nostre precedenti scelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the activation sequence within the form is specified.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204229Z" creationid="Marco Marega" creationdate="20171016T204229Z">
@@ -4798,6 +4806,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To learn the SQL language better, it is worth switching from time to time between Design Mode and SQL &lt;f0&gt;Mode&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114154Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
+        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra Modalità Struttura e Modalità &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it easier to read, some line breaks have been included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114528Z" creationid="Manuel Frassinetti" creationdate="20171202T114528Z">
+        <seg>Per facilitare la lettura, sono state incluse alcune interruzioni di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbar very similar to the one at the bottom edge of the screen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210036Z" creationid="Marco Marega" creationdate="20171015T210036Z">
@@ -4818,6 +4842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195857Z" creationid="Marco Marega" creationdate="20171017T195857Z">
         <seg>La macro non deve in nessuna circostanza creare una finestra di dialogo sullo schermo; facendo clic in tale finestra causerebbe per la perdita e poi il ritorno del focus nel campo, riattivando di nuovo la macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately the editor does not store these line breaks, so when the query is called up again, it will appear as a single continuous line breaking at the window edge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114645Z" creationid="Manuel Frassinetti" creationdate="20171202T114645Z">
+        <seg>Sfortunatamente l'editor non memorizza queste interruzioni di riga, quindi quando la ricerca viene richiamata di nuovo, apparirà come una singola interruzione di linea continua sul bordo della finestra.</seg>
       </tuv>
     </tu>
     <tu>
