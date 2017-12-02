@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ORDER BY&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; defines the sort criteria, namely ascending order (ASC – ascending) for the two fields Reader_ID and Loan date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T123833Z" creationid="Manuel Frassinetti" creationdate="20171202T123833Z">
+        <seg>&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ORDER BY&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; definisce il criterio di ordinamento, namely ascending order (ASC – ascending) for the two fields Reader_ID and Loan date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AS&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; specifies the field aliases to be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114911Z" creationid="Manuel Frassinetti" creationdate="20171202T114911Z">
@@ -160,8 +168,8 @@
       <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; gives the conditions for the query, namely that the Return_date field is to be empty (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T115149Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
-        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; fornisce le condizioni per la ricerca, vale a dire che il campo Data_Rientro deve essere vuoto (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T123921Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; fornisce le condizioni per la ricerca, vale a dire che il campo Data_Rientro deve essere vuoto (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;È  NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
       </tuv>
     </tu>
     <tu>
