@@ -4502,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then a new table can be added to the Design view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T151334Z" creationid="Manuel Frassinetti" creationdate="20171202T151334Z">
+        <seg>Allora una nuova tabella può essere aggiunta alla vista Struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then the key is released.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200400Z" creationid="Marco Marega" creationdate="20171017T200400Z">
