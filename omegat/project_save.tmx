@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AS&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; specifies the field aliases to be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114911Z" creationid="Manuel Frassinetti" creationdate="20171202T114911Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AS&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; indica come i campi alias devono essere usati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Introduction to Base&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185244Z" creationid="osvaldo" creationdate="20171012T185244Z">
@@ -134,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;FROM&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; shows the table which is to be used as the source of the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T115011Z" creationid="Manuel Frassinetti" creationdate="20171202T115011Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;FROM&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; mostra a tabella che è usata come sorgente per la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f7&gt;Queries&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T155200Z" creationid="Manuel Frassinetti" creationdate="20171125T155200Z">
         <seg>&lt;/f5&gt;&lt;f7&gt;Ricerche&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; gives the conditions for the query, namely that the Return_date field is to be empty (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T115149Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; fornisce le condizioni per la ricerca, vale a dire che il campo Data_Rientro deve essere vuoto (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Nelle attività giornaliere di ufficio, i fogli di calcolo vengono regolarmente utilizzati per aggregare insiemi di dati e per eseguire alcune analisi su di essi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SELECT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; begins the selection criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114834Z" creationid="Manuel Frassinetti" creationdate="20171202T114834Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SELECT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; inizia il criterio di selezione.</seg>
       </tuv>
     </tu>
     <tu>
