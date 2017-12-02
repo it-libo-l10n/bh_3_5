@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f12&gt;&lt;f13&gt;The dashed border indicates that this field cannot be modified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101637Z" creationid="Manuel Frassinetti" creationdate="20171202T101637Z">
+        <seg>&lt;/f12&gt;&lt;f13&gt;Il bordo tratteggiato indica che questo campo non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Introduction to Base&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185244Z" creationid="osvaldo" creationdate="20171012T185244Z">
@@ -3888,8 +3896,8 @@
       <tuv lang="EN">
         <seg>The active record marker &lt;/f0&gt;&lt;f1&gt;(green arrow) &lt;/f1&gt;&lt;f2&gt;always appears on the left side of the table, here pointing to the first record as the active record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181743Z" creationid="Manuel Frassinetti" creationdate="20171130T181743Z">
-        <seg>L'evidenziatore del record attivo &lt;/f0&gt;&lt;f1&gt;(freccia verde) &lt;/f1&gt;&lt;f2&gt;appare sempre sul lato sinistro della tabella, in questo punto punta al primo record come record attivo.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101542Z" creationid="Manuel Frassinetti" creationdate="20171130T181743Z">
+        <seg>L'evidenziatore del record di dati attivo &lt;/f0&gt;&lt;f1&gt;(freccia verde) &lt;/f1&gt;&lt;f2&gt;appare sempre sul lato sinistro della tabella, in questo punto punta al primo record di dati come record di dati attivo.</seg>
       </tuv>
     </tu>
     <tu>
