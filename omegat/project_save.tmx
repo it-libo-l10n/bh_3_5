@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When working in Design View Mode, use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;IS EMPTY&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to require a field be empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144613Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Quando si lavora in modalità Vista Struttura, utilizzate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;È  VUOTO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per richiedere che un campo sia vuoto.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150957Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando si lavora in Modalità Vista Struttura, utilizzate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;È  VUOTO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per richiedere che un campo sia vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213449Z" creationid="Marco Marega" creationdate="20171101T213449Z">
         <seg>Per la tabella Reader&lt;f2&gt;,&lt;/f2&gt; i contenuti dell'elenco saranno "&lt;f3&gt;ID", "FirstName", "LastName", "Lock", "Gender_ID".&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose we return to Design Mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T151117Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
+        <seg>Per questo proposito torniamo al Modo Bozza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,8 +4896,8 @@
       <tuv lang="EN">
         <seg>To learn the SQL language better, it is worth switching from time to time between Design Mode and SQL &lt;f0&gt;Mode&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114154Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
-        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra Modalità Struttura e Modalità &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150445Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
+        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra Modalità bozza e Modalità &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5184,8 +5192,8 @@
       <tuv lang="EN">
         <seg>When working in SQL Mode, use &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IS NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; which is what SQL (Structured Query Language) requires.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144802Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
-        <seg>Quando si lavora in modalità SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;È NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (Structured Query Language).&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T151011Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
+        <seg>Quando si lavora in Modalità SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;È NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (Structured Query Language).&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
