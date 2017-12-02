@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Figure&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; also contains an extra line for the entry of &lt;/f18&gt;&lt;f19&gt;a &lt;/f19&gt;&lt;f20&gt;new record, with the ID field already marked as &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104636Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Figura&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; contiene anche una riga in più per l'inserimento di &lt;/f18&gt;&lt;f19&gt;un &lt;/f19&gt;&lt;f20&gt;nuovo record di dati, con il campo ID già marcato come &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Introduction to Base&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185244Z" creationid="osvaldo" creationdate="20171012T185244Z">
@@ -4446,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This also shows that new entries are possible.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104714Z" creationid="Manuel Frassinetti" creationdate="20171202T104714Z">
+        <seg>Questo mostra anche che sono possibili nuovi inserimenti.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This automatic appearance can be switched o&lt;f2&gt;f&lt;/f2&gt;f if required using the Wizards &lt;f3&gt;O&lt;/f3&gt;n/&lt;f4&gt;O&lt;/f4&gt;ff button (&lt;f5&gt;shown in &lt;/f5&gt;Fig&lt;f6&gt;ure&lt;/f6&gt; &lt;t7&gt;24&lt;/t7&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211916Z" creationid="Marco Marega" creationdate="20171029T211916Z">
@@ -4698,6 +4714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203837Z" creationid="Marco Marega" creationdate="20171015T203837Z">
         <seg>Campo orario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104722Z" creationid="Manuel Frassinetti" creationdate="20171202T104722Z">
+        <seg>Suggerimento</seg>
       </tuv>
     </tu>
     <tu>
