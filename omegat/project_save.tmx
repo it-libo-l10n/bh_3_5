@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;(Enter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;IS EMPTY&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; in the Criterion&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; row of the Return_Date field.) &lt;/f5&gt;&lt;s6/&gt;This exclusion criterion will cause only those records to be displayed that relate to media &lt;f7&gt;that&lt;/f7&gt; have not yet been returned from loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T113452Z" creationid="Manuel Frassinetti" creationdate="20171202T113452Z">
+        <seg>&lt;f0&gt;(Invio &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;È VUOTO&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; nella riga Criterio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; del campo Data_Rientro.) &lt;/f5&gt;&lt;s6/&gt;Questo criterio di esclusione causerà la visualizzazione di quei record di dati relativi al supporto &lt;f7&gt;che&lt;/f7&gt; non è ancora stato restituito dal prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Chapter&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; 1 &lt;s3/&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185013Z" creationid="osvaldo" creationdate="20171012T185013Z">
