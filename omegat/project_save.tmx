@@ -3648,8 +3648,8 @@
       <tuv lang="EN">
         <seg>Queries in Design Mode can always be run as tests.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T175923Z" creationid="Manuel Frassinetti" creationdate="20171130T175923Z">
-        <seg>Le ricerche in Modo bozza  possono sempre essere eseguite come test.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165414Z" creationid="Manuel Frassinetti" creationdate="20171130T175923Z">
+        <seg>Le ricerche in modalità bozza possono sempre essere eseguite come test.</seg>
       </tuv>
     </tu>
     <tu>
