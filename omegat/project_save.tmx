@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If we now switch back to SQL View, we see that all fields are now shown in double quotes: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Table _name"."Field_name"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172934Z" creationid="Manuel Frassinetti" creationdate="20171204T172934Z">
+        <seg>&lt;f0&gt;Se adesso torniamo alla vista SQL, vedremo che tutto i campi ora sono mostrati tra virgolette doppie: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Tabella_nome"."Campo_nome"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to the&lt;/f0&gt; properties already listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are available:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210722Z" creationid="Marco Marega" creationdate="20171026T210722Z">
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T093442Z" creationid="Manuel Frassinetti" creationdate="20171127T093442Z">
         <seg>Tabelle e richieste supplementari possono essere aggiunte in seguito se richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After all, fields in different tables can easily have the same field names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173616Z" creationid="Manuel Frassinetti" creationdate="20171204T173616Z">
+        <seg>Dopotutto, i campi in tabelle diverse possono facilmente avere lo stesso nome di campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List boxes cannot be added to a query; they are only usable in forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172746Z" creationid="Manuel Frassinetti" creationdate="20171204T172746Z">
+        <seg>Le caselle di riepilogo non possono essere aggiunte alla ricerca; possono essere usate solo nei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List entries here means the visible entries, not those that the form will transmit to the table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214953Z" creationid="Marco Marega" creationdate="20171029T214953Z">
@@ -4890,6 +4914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203221Z" creationid="Marco Marega" creationdate="20171125T203221Z">
         <seg>Un tanto verrà definito in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is necessary so that the database knows from which table the previously selected fields come from.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173331Z" creationid="Manuel Frassinetti" creationdate="20171204T173331Z">
+        <seg>Ciò è necessario in modo che il database sappia da quale tabella provengono i campi selezionati in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
