@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the ID is taken from the table which comes first in the FROM definition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T180148Z" creationid="Manuel Frassinetti" creationdate="20171204T180148Z">
+        <seg>Qui l'ID viene preso dalla tabella che viene prima nella definizione FROM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the SQL formula created by our previous choices is revealed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165915Z" creationid="Manuel Frassinetti" creationdate="20171202T114233Z">
@@ -4666,6 +4674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111531Z" creationid="Manuel Frassinetti" creationdate="20171129T111531Z">
         <seg>L'area della tabella serve per la selezione dei campi per la visualizzazione o per l'impostazione delle condizioni relative a questi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table definition in the WHERE Formula is also superfluous, because stockID only occurs once (in the Dispatch table) and ID was clearly taken from the Stock table (from the position of the table in the query).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T180850Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
+        <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché lo magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella ricerca).</seg>
       </tuv>
     </tu>
     <tu>
