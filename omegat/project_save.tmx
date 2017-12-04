@@ -464,8 +464,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;s&lt;/f2&gt;hows the basic divisions of the &lt;f3&gt;Query Design &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;: the graphical area displays the tables &lt;f5&gt;that&lt;/f5&gt; are to be linked to the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111349Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
-        <seg>&lt;f0&gt;La Figura &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;mostra&lt;/f2&gt; la divisione di base della finestra di dialogo della &lt;f3&gt;Struttura Ricerca &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;: l'area grafica modea le tabelle &lt;f5&gt;che&lt;/f5&gt; sono collegate alla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164316Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
+        <seg>&lt;f0&gt;La Figura &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;mostra&lt;/f2&gt; la divisione di base della finestra di dialogo della &lt;f3&gt;struttura ricerca &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;: l'area grafica delle tabelle &lt;f5&gt;che&lt;/f5&gt; sono collegate alla ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1744,8 +1744,8 @@
       <tuv lang="EN">
         <seg>Click this arrow to &lt;/f2&gt;open the &lt;f3&gt;drop-down list of available &lt;/f3&gt;field&lt;f4&gt;s&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T112030Z" creationid="Manuel Frassinetti" creationdate="20171129T112030Z">
-        <seg>Fate clic su questa fraccia per &lt;/f2&gt;aprire &lt;f3&gt;la lista a discesa dei campi disponibili&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164336Z" creationid="Manuel Frassinetti" creationdate="20171129T112030Z">
+        <seg>Fate clic su questa freccia per &lt;/f2&gt;aprire &lt;f3&gt;la lista a discesa dei campi disponibili&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="EN">
         <seg>Either method&lt;/f6&gt; add&lt;f7&gt;s&lt;/f7&gt; &lt;f8&gt;t&lt;/f8&gt;&lt;f9&gt;he table&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;to the graphical area of the &lt;f11&gt;Q&lt;/f11&gt;uery &lt;f12&gt;Design dialog&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092842Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
-        <seg>entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata di dialogo della &lt;f11&gt;Struttura&lt;/f11&gt;della Richiesta&lt;f12&gt;&lt;/f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164158Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
+        <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2088,8 +2088,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111230Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
-        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: Aree della finestra di &lt;f1&gt;dialogo&lt;/f1&gt;  &lt;f2&gt;della Struttura&lt;/f2&gt; &lt;f3&gt;Ricerca&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: Aree della finestra di &lt;f1&gt;dialogo&lt;/f1&gt;  &lt;f2&gt;della struttura&lt;/f2&gt; &lt;f3&gt;ricerca&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
