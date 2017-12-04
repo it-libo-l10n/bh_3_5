@@ -2958,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above table structure this is particularly true of the ID f&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;iel&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;d.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T174040Z" creationid="Manuel Frassinetti" creationdate="20171204T174040Z">
+        <seg>Nella struttura della precedente tabella ciò è particolarmente vero per il campo ID &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the control the Loans table i&lt;f0&gt;s availab&lt;/f0&gt;le for editing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201318Z" creationid="Marco Marega" creationdate="20171125T201318Z">
