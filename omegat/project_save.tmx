@@ -4366,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following query works without putting table names in front of the field names:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175528Z" creationid="Manuel Frassinetti" creationdate="20171204T175528Z">
+        <seg>La seguente ricerca funziona senza inserire i nomi delle tabelle davanti ai nomi dei campi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
