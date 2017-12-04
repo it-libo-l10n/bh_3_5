@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If a field in the query has an alias, it can be referred to – for example in sorting – by this alias without a table name being given.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T181212Z" creationid="Manuel Frassinetti" creationdate="20171204T181212Z">
+        <seg>&lt;f0&gt;Se un campo nella ricerca ha un alias, può essere indirizzato, ad esempio nell'ordinamento, da questo alias senza che venga fornito un nome di tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If a link is absent, it can be created at this point by dragging the mouse from "&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan"."Reader_ID"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Reader"."ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162151Z" creationid="Manuel Frassinetti" creationdate="20171202T162151Z">
@@ -3978,6 +3986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203713Z" creationid="Marco Marega" creationdate="20171016T203713Z">
         <seg>Alle volte è utile per stampare una pagina dal formulario piuttosto che da un Rapporto separato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorting is carried out in the graphical user interface according to the sequence of fields in the tabular view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T181648Z" creationid="Manuel Frassinetti" creationdate="20171204T181648Z">
+        <seg>L'ordinamento viene eseguito nell'interfaccia utente grafica in base alla sequenza di campi nella vista tabellare.</seg>
       </tuv>
     </tu>
     <tu>
