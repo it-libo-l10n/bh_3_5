@@ -3758,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
+        <seg>SELECT "ID", "Numero", "Prezzo" FROM "Magazzino", "Spedizione" WHERE "Spedizione"."magazzinoID" = "Magazzino"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT DISTINCT "FirstName" FROM "Reader"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231607Z" creationid="Marco Marega" creationdate="20171102T231607Z">
