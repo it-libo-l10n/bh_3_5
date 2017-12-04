@@ -2152,8 +2152,8 @@
       <tuv lang="EN">
         <seg>For example, change the name of the reader, and you have also changed what books the reader has borrowed and returned.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T170715Z" creationid="Manuel Frassinetti" creationdate="20171202T170715Z">
-        <seg>Per esempio, cambiare il nome del lettore, e avete anche cambiato quale libro il lettore ha preso e restituito.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170722Z" creationid="Manuel Frassinetti" creationdate="20171202T170715Z">
+        <seg>Per esempio, cambiate il nome del lettore, e avete anche cambiato quale libro il lettore ha preso e restituito.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2216,8 +2216,8 @@
       <tuv lang="EN">
         <seg>For this reason, making query results editable is a facility that should be used with extreme caution, if necessary under the control of a form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165439Z" creationid="Manuel Frassinetti" creationdate="20171202T165439Z">
-        <seg>Per questo motivo, rendere modificabili i risultati delle query è una funzione che dovrebbe essere utilizzata con estrema cautela, se necessario sotto il controllo di un modulo.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170617Z" creationid="Manuel Frassinetti" creationdate="20171202T165439Z">
+        <seg>Per questo motivo, rendere modificabili i risultati delle ricerca è una funzione che dovrebbe essere utilizzata con estrema cautela, se necessario sotto il controllo di un formulario.</seg>
       </tuv>
     </tu>
     <tu>
