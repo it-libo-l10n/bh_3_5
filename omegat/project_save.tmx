@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;f14&gt;Figure&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; also contains an extra line for the entry of &lt;/f18&gt;&lt;f19&gt;a &lt;/f19&gt;&lt;f20&gt;new record, with the ID field already marked as &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104636Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
-        <seg>&lt;/f13&gt;&lt;f14&gt;Figura&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; contiene anche una riga in più per l'inserimento di &lt;/f18&gt;&lt;f19&gt;un &lt;/f19&gt;&lt;f20&gt;nuovo record di dati, con il campo ID già marcato come &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165636Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Figura&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; contiene anche una riga in più per l'inserimento di &lt;/f18&gt;&lt;f19&gt;un &lt;/f19&gt;&lt;f20&gt;nuovo record di dati, con il campo ID già marcato come &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;Campo automatico&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When working in Design View Mode, use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;IS EMPTY&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to require a field be empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150957Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Quando si lavora in Modalità Vista Struttura, utilizzate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;È  VUOTO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per richiedere che un campo sia vuoto.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170102Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando lavorate in modalità vista struttura, utilizzate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;È  VUOTO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per richiedere che un campo sia vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,8 +1336,8 @@
       <tuv lang="EN">
         <seg>Also sorting by Surname and First_name makes more sense than sorting by Reader_ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164658Z" creationid="Manuel Frassinetti" creationdate="20171202T164658Z">
-        <seg>Anche l'ordinamento per cognome e primo_name ha più senso dell'ordinamento per Lettore_ID.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170516Z" creationid="Manuel Frassinetti" creationdate="20171202T164658Z">
+        <seg>Anche l'ordinamento per cognome e nome ha più senso dell'ordinamento per Lettore_ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,8 +2200,8 @@
       <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T151117Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
-        <seg>Per questo proposito torniamo al Modo Bozza.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170222Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
+        <seg>Per questo proposito torniamo al modalità bozza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,8 +2416,8 @@
       <tuv lang="EN">
         <seg>Here the SQL formula created by our previous choices is revealed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114233Z" creationid="Manuel Frassinetti" creationdate="20171202T114233Z">
-        <seg>Qui viene rivelata la formula SQL creata dalle nostre precedenti scelte.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165915Z" creationid="Manuel Frassinetti" creationdate="20171202T114233Z">
+        <seg>Qui viene mostrata la formula SQL creata dalle nostre precedenti scelte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,8 +3480,8 @@
       <tuv lang="EN">
         <seg>Only if this primary key is built in, does the query become editable again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165135Z" creationid="Manuel Frassinetti" creationdate="20171202T165135Z">
-        <seg>Solo se questa chiave primaria è incorporata, la query diventa nuovamente modificabile.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170542Z" creationid="Manuel Frassinetti" creationdate="20171202T165135Z">
+        <seg>Solo se questa chiave primaria è incorporata, la ricerca diventa nuovamente modificabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,8 +3888,8 @@
       <tuv lang="EN">
         <seg>So for example, the First_name field has been dragged into position directly before the Loan_date field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164412Z" creationid="Manuel Frassinetti" creationdate="20171202T164412Z">
-        <seg>Così ad esempio, il campo Primo_nome è stato trascinato nella posizione direttamente prima del campo Prestito_data.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170451Z" creationid="Manuel Frassinetti" creationdate="20171202T164412Z">
+        <seg>Così ad esempio, il campo Nome è stato trascinato nella posizione direttamente prima del campo Prestito_data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4104,8 +4104,8 @@
       <tuv lang="EN">
         <seg>The Return_Date field is given not just an alias but also a search criterion, which will cause only those records to be displayed for which the Return_Date field is empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111531Z" creationid="Manuel Frassinetti" creationdate="20171202T111531Z">
-        <seg>Il campo Data_Rientro viene fornito non solo di un alias ma anche di un criterio di ricerca, che causerà la visualizzazione di quei soli record di dati per i quali il campo Data_Rientro è vuoto.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165807Z" creationid="Manuel Frassinetti" creationdate="20171202T111531Z">
+        <seg>Il campo Data_Rientro viene fornito non solo di un alias ma anche di un criterio di ricerca, che causerà la visualizzazione solo di quei record di dati per i quali il campo Data_Rientro è vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4648,8 +4648,8 @@
       <tuv lang="EN">
         <seg>Then a new table can be added to the Design view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T151334Z" creationid="Manuel Frassinetti" creationdate="20171202T151334Z">
-        <seg>Allora una nuova tabella può essere aggiunta alla vista Struttura.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170232Z" creationid="Manuel Frassinetti" creationdate="20171202T151334Z">
+        <seg>Allora una nuova tabella può essere aggiunta alla vista struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5056,8 +5056,8 @@
       <tuv lang="EN">
         <seg>To learn the SQL language better, it is worth switching from time to time between Design Mode and SQL &lt;f0&gt;Mode&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150445Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
-        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra Modalità bozza e Modalità &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165856Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
+        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra modalità bozza e modalità &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5352,8 +5352,8 @@
       <tuv lang="EN">
         <seg>When working in SQL Mode, use &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IS NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; which is what SQL (Structured Query Language) requires.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T151011Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
-        <seg>Quando si lavora in Modalità SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;È NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (Structured Query Language).&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170141Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
+        <seg>Quando lavorate in modalità SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;È NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (linguaggio di ricerca strutturato).&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
