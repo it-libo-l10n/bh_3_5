@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If you have to edit data, do so in a form &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;so&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; you &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;can&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; see the effects of editing data.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172207Z" creationid="Manuel Frassinetti" creationdate="20171204T172207Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se dovete modificare dati, fatelo in un formulario &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in modo che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;possiate&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;  vedere gli effetti della modifica dei dati.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
@@ -2002,6 +2010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205215Z" creationid="Marco Marega" creationdate="20171015T205215Z">
         <seg>Inserimento in base a una maschera predefinita; limita la possibilità di inserimento ad una specifica combinazione di caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even when a query can be further edited, it is not so easy to use as a form with list boxes, which show the readers’ &lt;s0/&gt;names but contain the Reader_ID from the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172450Z" creationid="Manuel Frassinetti" creationdate="20171204T172450Z">
+        <seg>Anche quando una ricerca può essere ulteriormente modificata, non è così facile da usare come un formulario con caselle di riepilogo, che mostrano i nomi  &lt;s0/&gt;dei lettori ma contengono il Lettore_ID dalla tabella.</seg>
       </tuv>
     </tu>
     <tu>
