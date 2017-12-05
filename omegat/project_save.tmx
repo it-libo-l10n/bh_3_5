@@ -1878,6 +1878,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162051Z" creationid="Marina Latini" creationdate="20171205T162051Z">
+        <seg>Creazione delle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creation using the graphical user interface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162125Z" creationid="Marina Latini" creationdate="20171205T162125Z">
+        <seg>Creazione usando l'interfaccia grafica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currency field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203907Z" creationid="Marco Marega" creationdate="20171015T203907Z">
@@ -1966,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Direct entry of SQL commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162151Z" creationid="Marina Latini" creationdate="20171205T162151Z">
+        <seg>Inserimento diretto di comandi SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display and entry with additional formatting, for example using measurement units</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204150Z" creationid="Marco Marega" creationdate="20171015T204150Z">
@@ -2014,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering data into tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162221Z" creationid="Marina Latini" creationdate="20171205T162221Z">
+        <seg>Inserire dei dati nelle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203824Z" creationid="Marco Marega" creationdate="20171015T203824Z">
@@ -2058,6 +2090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205215Z" creationid="Marco Marega" creationdate="20171015T205215Z">
         <seg>Inserimento in base a una maschera predefinita; limita la possibilità di inserimento ad una specifica combinazione di caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entry using the Base GUI</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162312Z" creationid="Marina Latini" creationdate="20171205T162312Z">
+        <seg>Inserimento usando l'interfaccia grafica di Base</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linking tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162211Z" creationid="Marina Latini" creationdate="20171205T162211Z">
+        <seg>Collegare tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List &lt;f0&gt;b&lt;/f0&gt;ox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211226Z" creationid="Marco Marega" creationdate="20171029T211226Z">
@@ -4082,6 +4130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161538Z" creationid="Marina Latini" creationdate="20171205T161538Z">
         <seg>Tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tables and relationships for the example database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162030Z" creationid="Marina Latini" creationdate="20171205T162030Z">
+        <seg>Tabelle e relazioni per il database di esempio</seg>
       </tuv>
     </tu>
     <tu>
