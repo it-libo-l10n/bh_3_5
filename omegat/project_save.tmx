@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition you can choose which groups are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223504Z" creationid="Marco Marega" creationdate="20171205T223504Z">
+        <seg>In aggiunta potete scegliere quali gruppi visualizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, numeric, date fields, etc have the following properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192218Z" creationid="Marco Marega" creationdate="20171017T192218Z">
@@ -5618,6 +5626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221547Z" creationid="Marco Marega" creationdate="20171102T221547Z">
         <seg>Perciò gli esempi seguenti mostrano sia la tabella collegata al formulario, sia quella selezionata per il campo di controllo come la tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are shown in Fig&lt;f0&gt;ure&lt;/f0&gt; &lt;t1&gt;29&lt;/t1&gt; from left to right using a vertical line as a group separator: Positioning, Navigation, Acting on a record, and groups of commands for Filtering and Sorting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223854Z" creationid="Marco Marega" creationdate="20171205T223854Z">
+        <seg>Questi sono visualizzati nella Fig&lt;f0&gt;ura&lt;/f0&gt; &lt;t1&gt;29&lt;/t1&gt; da sinistra a destra usando una linea verticale come separatore per i gruppi: Posizionamento, Navigazione, Azione su record, e gruppi di comandi per Filtrare e Ordinare.</seg>
       </tuv>
     </tu>
     <tu>
