@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Form properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162948Z" creationid="Marina Latini" creationdate="20171205T162948Z">
+        <seg>Proprietà formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatted &lt;f0&gt;f&lt;/f0&gt;ield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211225Z" creationid="Marco Marega" creationdate="20171026T211225Z">
