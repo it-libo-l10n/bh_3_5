@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base – a container for database content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161210Z" creationid="Marina Latini" creationdate="20171205T161210Z">
+        <seg>Base – un contenitore per contenere database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Based on LibreOffice &lt;f3&gt;3.&lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070553Z" creationid="ldaghino" creationdate="20171003T070553Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090422Z" creationid="Marina Latini" creationdate="20171003T090422Z">
         <seg>Inserimento dei dati direttamente in una tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data input using forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161311Z" creationid="Marina Latini" creationdate="20171205T161311Z">
+        <seg>Inserimento dei dati utilizzando i moduli</seg>
       </tuv>
     </tu>
     <tu>
