@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1978,6 +1978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205905Z" creationid="Marco Marega" creationdate="20171015T205905Z">
         <seg>Pulsante con un'etichetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, a navigation bar &lt;f0&gt;control that&lt;/f0&gt; is part of the form, separate from the corresponding items, makes it clear through which items you navigate with the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T212411Z" creationid="Marco Marega" creationdate="20171205T212411Z">
+        <seg>Al contrario, una barra di navigazione &lt;f0&gt;che&lt;/f0&gt; fa parte del formulario, separata dagli elementi corrispondenti, rende evidente quali sono gli elementi attraverso i quali navigate con tale barra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5150,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form for Loan&lt;f1&gt;s&lt;/f1&gt;, for example, needs to search &lt;f2&gt;first &lt;/f2&gt;through the readers and then show the media &lt;f3&gt;loaded to &lt;/f3&gt;the reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T213142Z" creationid="Marco Marega" creationdate="20171205T213142Z">
+        <seg>Il formulario &lt;f1&gt;Loan&lt;/f1&gt;, ad esempio, deve cercare &lt;f2&gt;prima &lt;/f2&gt;tra i lettori (reader) e poi visualizza i media &lt;f3&gt;in carico &lt;/f3&gt;a quel lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form has the default name Form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182713Z" creationid="Marco Marega" creationdate="20171014T182713Z">
@@ -5210,6 +5226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
         <seg>L'immagine non è distorta.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The insertion of this toolbar can cause a brief rightward shift of the form as it builds up on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T211823Z" creationid="Marco Marega" creationdate="20171205T211823Z">
+        <seg>L'inserimento di questa barre degli strumenti può causare un breve spostamento a destra del formulario mentre questo viene composto sullo schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
         <seg>Il nome di un campo di controllo all'interno del formulario deve essere univoco &lt;f0&gt;—&lt;/f0&gt;viene usato per accedervi con le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The navigation bar &lt;f4&gt;control &lt;/f4&gt;is positioned near the reader, so the user notice&lt;f5&gt;s&lt;/f5&gt; that the navigation bar is used for the reader and not for the media &lt;f6&gt;loaned to &lt;/f6&gt;the reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T213334Z" creationid="Marco Marega" creationdate="20171205T213334Z">
+        <seg>Il controllo barra di navigazione &lt;f4&gt;&lt;/f4&gt;è posizionato vicino al lettore (reader), in modo che l'utente &lt;f5&gt;capisca&lt;/f5&gt; che la barra di navigazione va usata per il lettore e non per i media &lt;f6&gt;prestati &lt;/f6&gt;al lettore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5442,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
         <seg>Il modo più semplice per creare un formulario è quello di usare la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigation bar is inserted into forms at the lower edge of the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T211614Z" creationid="Marco Marega" creationdate="20171205T211614Z">
+        <seg>La &lt;f0&gt;Barra di navigazione&lt;/f0&gt; standard del &lt;f1&gt;Formulario&lt;/f1&gt; viene inserita sul bordo inferiore della schermata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigation bar makes available the &lt;f2&gt;buttons shown in Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;30&lt;/t4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T222448Z" creationid="Marco Marega" creationdate="20171205T222448Z">
+        <seg>La &lt;f0&gt;Barra di navigazione &lt;/f0&gt;standard del &lt;f1&gt;Formulario &lt;/f1&gt;mette a disposizione i &lt;f2&gt;pulsanti mostrati nella Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;30&lt;/t4&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5602,6 +5650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132809Z" creationid="Marco Marega" creationdate="20171014T132809Z">
         <seg>Questa funzione richiama la finestra di modifica dei Formulari e appare il Formulario in vista struttura (Figura&lt;f0&gt;&lt;/f0&gt; &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be distracting in cases where the navigation bar is switched off again for some parts of the visible form, &lt;f2&gt;for example&lt;/f2&gt; when there are subforms or more than one form in the &lt;f3&gt;visible&lt;/f3&gt; form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T212147Z" creationid="Marco Marega" creationdate="20171205T212147Z">
+        <seg>Ciò può distrarre nei casi in cui la barra di navigazione viene nuovamente disattivata per alcune parti del formulario visibile, &lt;f2&gt;ad esempio&lt;/f2&gt; quando sono presenti dei sotto-formulari o più di un formulario all'interno di quello &lt;f3&gt;visibile&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
