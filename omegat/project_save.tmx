@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>150</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173728Z" creationid="Marina Latini" creationdate="20171205T173728Z">
+        <seg>150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>16</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165629Z" creationid="Marina Latini" creationdate="20171205T165629Z">
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163758Z" creationid="Marina Latini" creationdate="20171205T163758Z">
         <seg>Creare ricerche utilizzando la finestra di dialogo struttura ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating reports using the Report Builder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173725Z" creationid="Marina Latini" creationdate="20171205T173725Z">
+        <seg>Creazione di rapporti usando il Report Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204306Z" creationid="Marco Marega" creationdate="20171118T204306Z">
         <seg>Il campo di dati sottostante deve essere un campo binario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface of the Report Builder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173758Z" creationid="Marina Latini" creationdate="20171205T173758Z">
+        <seg>L'interfaccia utente del Report Builder</seg>
       </tuv>
     </tu>
     <tu>
