@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162557Z" creationid="Marina Latini" creationdate="20171205T162557Z">
+        <seg>Un formulario semplice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A spin symbol is incorporated into the right side of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193254Z" creationid="Marco Marega" creationdate="20171017T193050Z">
@@ -1874,6 +1882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090555Z" creationid="Marina Latini" creationdate="20171003T090555Z">
         <seg>Creazione di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162540Z" creationid="Marina Latini" creationdate="20171205T162540Z">
+        <seg>Creazione di un formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133633Z" creationid="Marco Marega" creationdate="20171014T133633Z">
         <seg>Barre degli strumenti per la creazione di &lt;f0&gt;&lt;/f0&gt;formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars for form design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162641Z" creationid="Marina Latini" creationdate="20171205T162641Z">
+        <seg>Barre degli strumenti per la progettazione del formulario</seg>
       </tuv>
     </tu>
     <tu>
