@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;30&lt;/seq1&gt;: Navigation buttons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223257Z" creationid="Marco Marega" creationdate="20171205T223257Z">
+        <seg>&lt;f0&gt;Figura&lt;/f0&gt; &lt;seq1&gt;30&lt;/seq1&gt;: pulsanti di Navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fill parameters: &lt;/f0&gt;This macro will be run if a parameter query is to be invoked in a subform, but for some reason the parameter is not correctly transmitted from the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202459Z" creationid="Marco Marega" creationdate="20171015T202459Z">
@@ -3470,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;, the following features are available &lt;f1&gt;for the Navigator Bar control&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223358Z" creationid="Marco Marega" creationdate="20171205T223358Z">
+        <seg>In aggiunta alle proprietà elencate a pagina &lt;bf0&gt;70&lt;/bf0&gt;, &lt;f1&gt;per il controllo Barra di navigazione&lt;/f1&gt;, sono disponibili le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;, the following features are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214507Z" creationid="Marco Marega" creationdate="20171029T214507Z">
@@ -5218,6 +5234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101315Z" creationid="Manuel Frassinetti" creationdate="20171202T101315Z">
         <seg>L'evidenziazione indica che questo campo può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icon size is adjustable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223434Z" creationid="Marco Marega" creationdate="20171205T223434Z">
+        <seg>La dimensione delle icone è regolabile.</seg>
       </tuv>
     </tu>
     <tu>
