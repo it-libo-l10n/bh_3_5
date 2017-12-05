@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data properties of fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T175942Z" creationid="Marina Latini" creationdate="20171205T175942Z">
+        <seg>Data properties of fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date &lt;s0/&gt;field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203817Z" creationid="Marco Marega" creationdate="20171015T203817Z">
