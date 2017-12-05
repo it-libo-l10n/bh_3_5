@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162416Z" creationid="Marina Latini" creationdate="20171205T162416Z">
+        <seg>Capitolo 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162151Z" creationid="Marina Latini" creationdate="20171205T162151Z">
         <seg>Inserimento diretto di comandi SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Direct entry using SQL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162329Z" creationid="Marina Latini" creationdate="20171205T162329Z">
+        <seg>Inserimento diretto usando SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204054Z" creationid="Marco Marega" creationdate="20171015T204054Z">
         <seg>Campo formattato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162457Z" creationid="Marina Latini" creationdate="20171205T162457Z">
+        <seg>Formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,6 +3762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070621Z" creationid="ldaghino" creationdate="20171003T070621Z">
         <seg>Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with these data entry methods</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162406Z" creationid="Marina Latini" creationdate="20171205T162406Z">
+        <seg>Problemi con questi metodi d'inserimento</seg>
       </tuv>
     </tu>
     <tu>
