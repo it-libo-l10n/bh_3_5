@@ -4854,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That creates a disturbing effect on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T225224Z" creationid="Marco Marega" creationdate="20171205T225224Z">
+        <seg>Quando questo avviene si genera un fastidioso effetto sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That is why a Group name appears here, under which the options can be addressed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210904Z" creationid="Marco Marega" creationdate="20171109T210904Z">
