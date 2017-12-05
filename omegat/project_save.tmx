@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple form completed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163454Z" creationid="Marina Latini" creationdate="20171205T163454Z">
+        <seg>Un formulario semplice completo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A spin symbol is incorporated into the right side of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193254Z" creationid="Marco Marega" creationdate="20171017T193050Z">
@@ -3342,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main forms and subforms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163551Z" creationid="Marina Latini" creationdate="20171205T163551Z">
+        <seg>Formulari principali e secondari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum value, by default set to 1 second before 24:00.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210250Z" creationid="Marco Marega" creationdate="20171026T210250Z">
@@ -3642,6 +3658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174628Z" creationid="Manuel Frassinetti" creationdate="20171125T174628Z">
         <seg>Una fornisce le basi per una creazione della ricerca in vista struttura; l'altra serve per aggiungere tabelle, viste o ricerche alla ricerca corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One view – many forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163620Z" creationid="Marina Latini" creationdate="20171205T163620Z">
+        <seg>Una vista - molti formulari</seg>
       </tuv>
     </tu>
     <tu>
