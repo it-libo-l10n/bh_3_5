@@ -3774,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relationships for tables in databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161945Z" creationid="Marina Latini" creationdate="20171205T161945Z">
+        <seg>Relazioni tra tabelle nei database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reports – presentation of data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090536Z" creationid="Marina Latini" creationdate="20171003T090536Z">
