@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 3 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161531Z" creationid="Marina Latini" creationdate="20171205T161531Z">
+        <seg>Capitolo 3 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -2370,6 +2378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084115Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
         <seg>Informazioni generali sulle ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General information on tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161620Z" creationid="Marina Latini" creationdate="20171205T161620Z">
+        <seg>Informazioni generali sulle tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relationships between tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161641Z" creationid="Marina Latini" creationdate="20171205T161641Z">
+        <seg>Relazioni tra tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reports – presentation of data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090536Z" creationid="Marina Latini" creationdate="20171003T090536Z">
@@ -4030,10 +4054,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161450Z" creationid="Marina Latini" creationdate="20171205T161450Z">
+        <seg>Fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205228Z" creationid="Marco Marega" creationdate="20171015T205228Z">
         <seg>Campo di controllo tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161538Z" creationid="Marina Latini" creationdate="20171205T161538Z">
+        <seg>Tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,6 +5170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091724Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
         <seg>Questa finestra permette di combinare più tabelle (e anche viste e richieste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thunderbird address book</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161523Z" creationid="Marina Latini" creationdate="20171205T161523Z">
+        <seg>Rubrica di Thunderbird</seg>
       </tuv>
     </tu>
     <tu>
