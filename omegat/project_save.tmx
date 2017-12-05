@@ -5830,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This insertable navigation bar provides additionally the &lt;f0&gt;general record search&lt;/f0&gt;, the &lt;f1&gt;form-based filter&lt;/f1&gt; and the display of the form's underlying &lt;f2&gt;data source in table view&lt;/f2&gt; above the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224845Z" creationid="Marco Marega" creationdate="20171205T224845Z">
+        <seg>In aggiunta la barra di navigazione attivabile rende disponibile &lt;f0&gt;la ricerca generale dei record&lt;/f0&gt;, il &lt;f1&gt;filtro basato su formula&lt;/f1&gt; e la visualizzazione della sorgente dei dati sottostante &lt;f2&gt;in modalità tabella&lt;/f2&gt; al di sopra del formulario .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a characteristic of option buttons that are bound to the same field in the underlying table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212035Z" creationid="Marco Marega" creationdate="20171126T212035Z">
