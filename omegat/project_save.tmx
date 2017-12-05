@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>144</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171608Z" creationid="Marina Latini" creationdate="20171205T171608Z">
+        <seg>144</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>145</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171646Z" creationid="Marina Latini" creationdate="20171205T171646Z">
+        <seg>145</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>15</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165624Z" creationid="Marina Latini" creationdate="20171205T165624Z">
@@ -2214,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Correlated subqueries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171643Z" creationid="Marina Latini" creationdate="20171205T171643Z">
+        <seg>Sottoricerche correlate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creati&lt;f0&gt;ng&lt;/f0&gt; &lt;f1&gt;f&lt;/f1&gt;orms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184352Z" creationid="Marco Marega" creationdate="20171013T184352Z">
@@ -2298,6 +2322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203635Z" creationid="Marco Marega" creationdate="20171015T203635Z">
         <seg>Inserimento e visualizzazione dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data entry possibilities within queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171546Z" creationid="Marina Latini" creationdate="20171205T171546Z">
+        <seg>Possibilità d'immissione di dati all'interno di ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Queries as source tables for queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171739Z" creationid="Marina Latini" creationdate="20171205T171739Z">
+        <seg>Ricerche come tabelle sorgente per ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Queries can be entered both in the GUI and directly as SQL code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T170500Z" creationid="Manuel Frassinetti" creationdate="20171125T170500Z">
@@ -4586,6 +4626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161450Z" creationid="Marina Latini" creationdate="20171205T161450Z">
         <seg>Fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subqueries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
+        <seg>Sottoricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +5898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203651Z" creationid="Marco Marega" creationdate="20171015T203651Z">
         <seg>Utilizzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use of parameters in queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171607Z" creationid="Marina Latini" creationdate="20171205T171607Z">
+        <seg>Usare parametri nelle ricerche</seg>
       </tuv>
     </tu>
     <tu>
