@@ -5334,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The navigation bar control shows the same &lt;f5&gt;button&lt;/f5&gt;s except th&lt;f6&gt;ose&lt;/f6&gt; for Find Record, Form-Based Filters and Data &lt;f7&gt;s&lt;/f7&gt;ource as Table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223242Z" creationid="Marco Marega" creationdate="20171205T223242Z">
+        <seg>Il controllo barra di navigazione visualizza gli stessi &lt;f5&gt;pulsanti&lt;/f5&gt; ad eccezione &lt;f6&gt;di&lt;/f6&gt; Trova Record, Filtro basato su formula e &lt;f7&gt;Sorgente dati&lt;/f7&gt; come tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The only thing you need to ensure is that two elements with the same name do not occur on the same level in the folder tree.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135945Z" creationid="Marco Marega" creationdate="20171014T135945Z">
