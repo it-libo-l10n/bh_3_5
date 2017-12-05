@@ -166,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>147</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173036Z" creationid="Marina Latini" creationdate="20171205T173036Z">
+        <seg>147</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>149</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173102Z" creationid="Marina Latini" creationdate="20171205T173102Z">
+        <seg>149</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>15</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165624Z" creationid="Marina Latini" creationdate="20171205T165624Z">
@@ -2150,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173044Z" creationid="Marina Latini" creationdate="20171205T173044Z">
+        <seg>Capitolo 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -3822,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More rapid access to queries using table views</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173034Z" creationid="Marina Latini" creationdate="20171205T173034Z">
+        <seg>Accesso più rapido alle ricerche usando le viste delle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multi-line text fields are then shown as single lines to be scrolled.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204111Z" creationid="Marco Marega" creationdate="20171125T204111Z">
@@ -4346,6 +4378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161945Z" creationid="Marina Latini" creationdate="20171205T161945Z">
         <seg>Relazioni tra tabelle nei database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173058Z" creationid="Marina Latini" creationdate="20171205T173058Z">
+        <seg>Rapporti</seg>
       </tuv>
     </tu>
     <tu>
