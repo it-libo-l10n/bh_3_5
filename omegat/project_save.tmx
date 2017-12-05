@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>157</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T175628Z" creationid="Marina Latini" creationdate="20171205T175628Z">
+        <seg>157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>16</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165629Z" creationid="Marina Latini" creationdate="20171205T165629Z">
@@ -2922,6 +2930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090623Z" creationid="Marina Latini" creationdate="20171003T090623Z">
         <seg>Note generali sulla creazione di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General properties of fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T175624Z" creationid="Marina Latini" creationdate="20171205T175624Z">
+        <seg>Proprietà generali dei comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
