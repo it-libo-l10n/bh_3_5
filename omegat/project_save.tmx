@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T225237Z" creationid="Marco Marega" creationdate="20171205T225237Z">
+        <seg>Selezioni multiple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MySQL databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
