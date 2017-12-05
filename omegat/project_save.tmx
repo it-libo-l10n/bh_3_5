@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are working not just with a form but with subforms and ancillary forms, you must be careful that this insertable navigation bar does not disappear as you switch forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T225124Z" creationid="Marco Marega" creationdate="20171205T225124Z">
+        <seg>Se non state lavorando solo con un formulario, ma con sotto-formulari e formulari ausiliari, dovete fare attenzione che la barra di navigazione attivabile non scompaia mentre vi spostate da un formulario all'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have chosen to use a graphic, its alignment with the label can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205039Z" creationid="Marco Marega" creationdate="20171109T205039Z">
