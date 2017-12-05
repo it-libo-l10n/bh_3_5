@@ -102,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>134</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171034Z" creationid="Marina Latini" creationdate="20171205T171034Z">
+        <seg>134</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>14</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165616Z" creationid="Marina Latini" creationdate="20171205T165616Z">
         <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>141</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171141Z" creationid="Marina Latini" creationdate="20171205T171141Z">
+        <seg>141</seg>
       </tuv>
     </tu>
     <tu>
@@ -4232,8 +4248,8 @@
       <tuv lang="EN">
         <seg>Query enhancement using SQL Mode</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170919Z" creationid="Marina Latini" creationdate="20171205T170919Z">
-        <seg>Query enhancement using SQL Mode</seg>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171030Z" creationid="Marina Latini" creationdate="20171205T170919Z">
+        <seg>Miglioramento delle ricerche usando la modalità SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -5834,6 +5850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085806Z" creationid="Marina Latini" creationdate="20171003T085806Z">
         <seg>Utilizzo di LibreOffice su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using an alias in a query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171139Z" creationid="Marina Latini" creationdate="20171205T171139Z">
+        <seg>Usare un alias in una ricerca</seg>
       </tuv>
     </tu>
     <tu>
