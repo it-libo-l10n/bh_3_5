@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None, as this control only carries out actions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223944Z" creationid="Marco Marega" creationdate="20171205T223944Z">
+        <seg>Niente; dato che questo controllo esegue esclusivamente delle azioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>None, since this control serves only for visual grouping of fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212503Z" creationid="Marco Marega" creationdate="20171126T212503Z">
