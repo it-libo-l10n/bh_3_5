@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163627Z" creationid="Marina Latini" creationdate="20171205T163627Z">
+        <seg>Capitolo 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162645Z" creationid="Manuel Frassinetti" creationdate="20171125T172333Z">
         <seg>Creare ricerche utilizzando il &lt;f0&gt;dialogo struttura ricerca&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating queries using the Query Design dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163758Z" creationid="Marina Latini" creationdate="20171205T163758Z">
+        <seg>Creare ricerche utilizzando la finestra di dialogo struttura ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200952Z" creationid="Marco Marega" creationdate="20171125T200952Z">
         <seg>I pulsanti, i pulsanti immagine e i pulsanti di scelta non sono disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163642Z" creationid="Marina Latini" creationdate="20171205T163642Z">
+        <seg>Ricerche</seg>
       </tuv>
     </tu>
     <tu>
