@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All events that involve the Mouse, a key, or the focus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224137Z" creationid="Marco Marega" creationdate="20171205T224137Z">
+        <seg>Tutti gli eventi che comportano l'uso del mouse, di un tasto o il passaggio del focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All printable characters are allowed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195021Z" creationid="Marco Marega" creationdate="20171125T195021Z">
@@ -3634,6 +3642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211745Z" creationid="Marco Marega" creationdate="20171126T211745Z">
         <seg>In questo modo, usando il pulsante di scelta, la tabella Reader viene fornita con la corrispondente chiave esterna della tabella Gender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Independent of this form control, the &lt;f0&gt;insertable navigation bar&lt;/f0&gt; naturally continues to exist with the same items as the above figure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224535Z" creationid="Marco Marega" creationdate="20171205T224535Z">
+        <seg>Indipendentemente da questo campo di controllo, la &lt;f0&gt;barra di navigazione attivabile&lt;/f0&gt; naturalmente continua a sussistere con gli stessi elementi della figura soprastante.</seg>
       </tuv>
     </tu>
     <tu>
