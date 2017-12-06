@@ -294,6 +294,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>185</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161747Z" creationid="Marina Latini" creationdate="20171206T161747Z">
+        <seg>185</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>188</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161824Z" creationid="Marina Latini" creationdate="20171206T161824Z">
+        <seg>188</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>189</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161921Z" creationid="Marina Latini" creationdate="20171206T161921Z">
+        <seg>189</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>190</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161938Z" creationid="Marina Latini" creationdate="20171206T161938Z">
+        <seg>190</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>191</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162007Z" creationid="Marina Latini" creationdate="20171206T162007Z">
+        <seg>191</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165420Z" creationid="Marina Latini" creationdate="20171205T165420Z">
@@ -2430,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating form letters by selecting fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161918Z" creationid="Marina Latini" creationdate="20171206T161918Z">
+        <seg>Creazione di stampa in serie selezionando i comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162540Z" creationid="Marina Latini" creationdate="20171205T162540Z">
@@ -2574,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database use in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162005Z" creationid="Marina Latini" creationdate="20171206T162005Z">
+        <seg>Uso di database in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date &lt;s0/&gt;field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203817Z" creationid="Marco Marega" creationdate="20171015T203817Z">
@@ -2618,6 +2674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193753Z" creationid="Marco Marega" creationdate="20171017T193753Z">
         <seg>Determina il ritardo minimo per cui il pulsante del mouse deve restare premuto prima che si attivi la ripetizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Direct creation of mail merge and label documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161822Z" creationid="Marina Latini" creationdate="20171206T161822Z">
+        <seg>Creazione diretta di documenti ed etichette in stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +2746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164158Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
         <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering data into Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162027Z" creationid="Marina Latini" creationdate="20171206T162027Z">
+        <seg>Inserire dati in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -2786,6 +2858,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160336Z" creationid="Marina Latini" creationdate="20171206T160336Z">
         <seg>Explorer on/off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting data from Calc into a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162035Z" creationid="Marina Latini" creationdate="20171206T162035Z">
+        <seg>Exporting data from Calc into a database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161936Z" creationid="Marina Latini" creationdate="20171206T161936Z">
+        <seg>Formulari esterni</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Label printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161741Z" creationid="Marina Latini" creationdate="20171206T161741Z">
+        <seg>stampa di etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like a button, but with an additional graphic displayed on it</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205954Z" creationid="Marco Marega" creationdate="20171015T205954Z">
@@ -4058,6 +4154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160229Z" creationid="Marina Latini" creationdate="20171206T160229Z">
         <seg>Stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mail merge using the mouse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161842Z" creationid="Marina Latini" creationdate="20171206T161842Z">
+        <seg>Stampa in serie usando il mouse</seg>
       </tuv>
     </tu>
     <tu>
