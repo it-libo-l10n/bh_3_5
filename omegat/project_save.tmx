@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>174</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160139Z" creationid="Marina Latini" creationdate="20171206T160139Z">
+        <seg>174</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165420Z" creationid="Marina Latini" creationdate="20171205T165420Z">
@@ -2506,6 +2514,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105758Z" creationid="Marina Latini" creationdate="20171205T175942Z">
         <seg>Prorietà dei dati dei comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data source browser</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160118Z" creationid="Marina Latini" creationdate="20171206T160118Z">
+        <seg>Visualizzazione della sorgente dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data to Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160137Z" creationid="Marina Latini" creationdate="20171206T160137Z">
+        <seg>Dati in testo</seg>
       </tuv>
     </tu>
     <tu>
