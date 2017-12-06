@@ -334,10 +334,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>193</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162109Z" creationid="Marina Latini" creationdate="20171206T162109Z">
+        <seg>193</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>196</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162137Z" creationid="Marina Latini" creationdate="20171206T162137Z">
+        <seg>196</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>197</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162229Z" creationid="Marina Latini" creationdate="20171206T162229Z">
+        <seg>197</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>198</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162302Z" creationid="Marina Latini" creationdate="20171206T162302Z">
+        <seg>198</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165420Z" creationid="Marina Latini" creationdate="20171205T165420Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>200</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162327Z" creationid="Marina Latini" creationdate="20171206T162327Z">
+        <seg>200</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162142Z" creationid="Marina Latini" creationdate="20171206T162142Z">
+        <seg>Capitolo 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -2426,6 +2474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203639Z" creationid="Marco Marega" creationdate="20171015T203639Z">
         <seg>Campo di controllo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting data from one database to another</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162135Z" creationid="Marina Latini" creationdate="20171206T162135Z">
+        <seg>Converire dati da un database a un altro</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data filtering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162311Z" creationid="Marina Latini" creationdate="20171206T162311Z">
+        <seg>Filtraggio dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data input directly into a table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090422Z" creationid="Marina Latini" creationdate="20171003T090422Z">
@@ -2618,6 +2682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160137Z" creationid="Marina Latini" creationdate="20171206T160137Z">
         <seg>Dati in testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database tasks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162227Z" creationid="Marina Latini" creationdate="20171206T162227Z">
+        <seg>Attività di database</seg>
       </tuv>
     </tu>
     <tu>
@@ -3234,6 +3306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T175624Z" creationid="Marina Latini" creationdate="20171205T175624Z">
         <seg>Proprietà generali dei comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General remarks on database tasks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162259Z" creationid="Marina Latini" creationdate="20171206T162259Z">
+        <seg>Note generali sulle attività del database</seg>
       </tuv>
     </tu>
     <tu>
@@ -4882,6 +4962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204426Z" creationid="Marco Marega" creationdate="20171026T204426Z">
         <seg>Incremento di valore usato quando di agisce con la rotella del mouse o sui pulsanti di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching for data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162324Z" creationid="Marina Latini" creationdate="20171206T162324Z">
+        <seg>Ricercare dati</seg>
       </tuv>
     </tu>
     <tu>
