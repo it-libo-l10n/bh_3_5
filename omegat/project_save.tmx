@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;In t&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;he graphic &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;in the next section&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;, Return_Date &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;is an example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180235Z" creationid="Manuel Frassinetti" creationdate="20171206T180235Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Nel&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; grafico &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;della prossima sezione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;, Rientro_Data &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;ne è un esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;FROM&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; shows the table which is to be used as the source of the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T115011Z" creationid="Manuel Frassinetti" creationdate="20171202T115011Z">
@@ -6594,6 +6602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164849Z" creationid="Manuel Frassinetti" creationdate="20171202T164849Z">
         <seg>Questa ricerca non è più adatta per l'uso come una ricerca che consente nuovi inserimenti nella tabella risultante, poiché manca la chiave primaria per la tabella Lettore aggiunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query is searching for records that do &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;not&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contain a return date.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; This field provides a criterion for the query but no useful visible data.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180748Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
+        <seg>Questa ricerca cerca i record che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce a un criterio per la ricerca ma nessun utile dato visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
