@@ -278,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>177</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160221Z" creationid="Marina Latini" creationdate="20171206T160221Z">
+        <seg>177</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>178</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160231Z" creationid="Marina Latini" creationdate="20171206T160231Z">
+        <seg>178</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165420Z" creationid="Marina Latini" creationdate="20171205T165420Z">
@@ -2526,6 +2542,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data source of current document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160324Z" creationid="Marina Latini" creationdate="20171206T160324Z">
+        <seg>Sorgente dati del documento corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data to Fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160219Z" creationid="Marina Latini" creationdate="20171206T160219Z">
+        <seg>Dati in comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data to Text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160137Z" creationid="Marina Latini" creationdate="20171206T160137Z">
@@ -2738,6 +2770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212459Z" creationid="Marco Marega" creationdate="20171014T212459Z">
         <seg>Scheda &lt;f0&gt;Eventi&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explorer on/off</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160336Z" creationid="Marina Latini" creationdate="20171206T160336Z">
+        <seg>Explorer on/off</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202127Z" creationid="Marco Marega" creationdate="20171015T202127Z">
         <seg>Le macro quindi vengono eseguite due volte di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mail merge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160229Z" creationid="Marina Latini" creationdate="20171206T160229Z">
+        <seg>Stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
