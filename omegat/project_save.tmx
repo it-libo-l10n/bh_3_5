@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating mail merge documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161730Z" creationid="Marina Latini" creationdate="20171206T161730Z">
+        <seg>Creazione di documenti in stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating queries using the &lt;f0&gt;Query Design dialog&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162645Z" creationid="Manuel Frassinetti" creationdate="20171125T172333Z">
