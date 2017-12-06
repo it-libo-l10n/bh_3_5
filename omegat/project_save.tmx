@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>171</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154638Z" creationid="Marina Latini" creationdate="20171206T154638Z">
+        <seg>171</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165420Z" creationid="Marina Latini" creationdate="20171205T165420Z">
@@ -2246,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154619Z" creationid="Marina Latini" creationdate="20171206T154619Z">
+        <seg>Capitolo 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -2298,6 +2314,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221409Z" creationid="Marco Marega" creationdate="20171102T221409Z">
         <seg>Le caselle combinate scrivono il testo selezionato direttamente nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154606Z" creationid="Marina Latini" creationdate="20171206T154606Z">
+        <seg>Formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conditional print</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154525Z" creationid="Marina Latini" creationdate="20171206T154525Z">
+        <seg>Stampa condizionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,6 +3906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162211Z" creationid="Marina Latini" creationdate="20171205T162211Z">
         <seg>Collegare tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linking to Databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154635Z" creationid="Marina Latini" creationdate="20171206T154635Z">
+        <seg>Collegamento a Database</seg>
       </tuv>
     </tu>
     <tu>
