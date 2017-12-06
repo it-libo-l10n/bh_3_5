@@ -406,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>205</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165433Z" creationid="Marina Latini" creationdate="20171206T165433Z">
+        <seg>205</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>207</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165507Z" creationid="Marina Latini" creationdate="20171206T165507Z">
+        <seg>207</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170727Z" creationid="Marina Latini" creationdate="20171205T170727Z">
@@ -2406,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165500Z" creationid="Marina Latini" creationdate="20171206T165500Z">
+        <seg>Capitolo 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194236Z" creationid="Marco Marega" creationdate="20171125T194236Z">
@@ -3358,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Getting a line break through a query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165431Z" creationid="Marina Latini" creationdate="20171206T165431Z">
+        <seg>Ottenere un'interruzione di riga attraverso un'interrogazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Getting a running balance by categories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163603Z" creationid="Marina Latini" creationdate="20171206T163603Z">
@@ -3378,6 +3410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205630Z" creationid="Marco Marega" creationdate="20171015T205630Z">
         <seg>Casella di gruppo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping and summarizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165452Z" creationid="Marina Latini" creationdate="20171206T165452Z">
+        <seg>Raggruppare e rieplilogare</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214953Z" creationid="Marco Marega" creationdate="20171029T214953Z">
         <seg>Voci dell'elenco va inteso come quelle visibili, non quelle che il formulario trasmetterà alla tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165504Z" creationid="Marina Latini" creationdate="20171206T165504Z">
+        <seg>Macro</seg>
       </tuv>
     </tu>
     <tu>
