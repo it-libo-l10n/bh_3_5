@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(These fields do not have a check in the Visible row.&lt;/f18&gt;&lt;f19&gt;)&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T175529Z" creationid="Manuel Frassinetti" creationdate="20171206T175529Z">
+        <seg>(Questi campi non hanno un segno di spunta nella riga visibile.&lt;/f18&gt;&lt;f19&gt;)&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165552Z" creationid="Marina Latini" creationdate="20171205T165552Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f13&gt;&lt;f14&gt;From version&lt;/f14&gt;&lt;f15&gt; 3.5.3, sorting from the SQL view is correctly registered and displayed in the graphical user interface, &lt;/f15&gt;&lt;f16&gt;including the fields that are used in the query but &lt;/f16&gt;&lt;f17&gt;are &lt;/f17&gt;&lt;f18&gt;not visible in the query output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T175425Z" creationid="Manuel Frassinetti" creationdate="20171206T175425Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Dalla versione&lt;/f14&gt;&lt;f15&gt; 3.5.3, l'ordinamento dalla vista SQL è correttamente registrato e mostrato nell'interfaccia grafica utente, &lt;/f15&gt;&lt;f16&gt;include i campi che sono stati usati nella ricerca ma &lt;/f16&gt;&lt;f17&gt;non sono &lt;/f17&gt;&lt;f18&gt;visibili nel risultato della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ORDER BY&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; defines the sort criteria, namely ascending order (ASC – ascending) for the two fields Reader_ID and Loan date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T143856Z" creationid="Manuel Frassinetti" creationdate="20171202T123833Z">
@@ -818,6 +834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T113452Z" creationid="Manuel Frassinetti" creationdate="20171202T113452Z">
         <seg>&lt;f0&gt;(Invio &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;È VUOTO&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; nella riga Criterio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; del campo Data_Rientro.) &lt;/f5&gt;&lt;s6/&gt;Questo criterio di esclusione causerà la visualizzazione di quei record di dati relativi al supporto &lt;f7&gt;che&lt;/f7&gt; non è ancora stato restituito dal prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A query may require a field that is not part of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; query output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180110Z" creationid="Manuel Frassinetti" creationdate="20171206T180110Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Un ricerca potrebbe richiedere una campo che non è parte  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; risultato della ricerca.</seg>
       </tuv>
     </tu>
     <tu>
