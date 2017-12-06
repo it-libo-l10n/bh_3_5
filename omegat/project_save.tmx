@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>201</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162858Z" creationid="Marina Latini" creationdate="20171206T162858Z">
+        <seg>201</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170727Z" creationid="Marina Latini" creationdate="20171205T170727Z">
@@ -2422,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code snippets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162849Z" creationid="Marina Latini" creationdate="20171206T162849Z">
+        <seg>Frammenti di codice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Combo box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204457Z" creationid="Marco Marega" creationdate="20171015T204457Z">
@@ -3322,6 +3338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202820Z" creationid="Marco Marega" creationdate="20171109T202820Z">
         <seg>Scheda Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting someone's current age</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162941Z" creationid="Marina Latini" creationdate="20171206T162941Z">
+        <seg>Ottenere l'età attuale di qualcuno</seg>
       </tuv>
     </tu>
     <tu>
