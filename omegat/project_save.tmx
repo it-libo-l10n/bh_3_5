@@ -422,10 +422,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>208</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165536Z" creationid="Marina Latini" creationdate="20171206T165536Z">
+        <seg>208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>209</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165549Z" creationid="Marina Latini" creationdate="20171206T165549Z">
+        <seg>209</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170727Z" creationid="Marina Latini" creationdate="20171205T170727Z">
         <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>210</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165626Z" creationid="Marina Latini" creationdate="20171206T165626Z">
+        <seg>210</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>213</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165651Z" creationid="Marina Latini" creationdate="20171206T165651Z">
+        <seg>213</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic updating of forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165612Z" creationid="Marina Latini" creationdate="20171206T165612Z">
+        <seg>Aggiornamento automatico dei formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background color of the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
@@ -3102,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filtering records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165624Z" creationid="Marina Latini" creationdate="20171206T165624Z">
+        <seg>Filtrare i record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font, font size, and font effects can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204551Z" creationid="Marco Marega" creationdate="20171016T204551Z">
@@ -3370,6 +3418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162259Z" creationid="Marina Latini" creationdate="20171206T162259Z">
         <seg>Note generali sulle attività del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General remarks on macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165534Z" creationid="Marina Latini" creationdate="20171206T165534Z">
+        <seg>Note generali sulle macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204931Z" creationid="Marco Marega" creationdate="20171015T204931Z">
         <seg>Campo di controllo immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improving usability</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165547Z" creationid="Marina Latini" creationdate="20171206T165547Z">
+        <seg>Migliorare l'usabilità</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,6 +5130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204426Z" creationid="Marco Marega" creationdate="20171026T204426Z">
         <seg>Incremento di valore usato quando di agisce con la rotella del mouse o sui pulsanti di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching data records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165647Z" creationid="Marina Latini" creationdate="20171206T165647Z">
+        <seg>Ricercare i record di dati</seg>
       </tuv>
     </tu>
     <tu>
