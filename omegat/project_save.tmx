@@ -390,6 +390,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>202</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163713Z" creationid="Marina Latini" creationdate="20171206T163713Z">
+        <seg>202</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>203</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163720Z" creationid="Marina Latini" creationdate="20171206T163720Z">
+        <seg>203</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170727Z" creationid="Marina Latini" creationdate="20171205T170727Z">
@@ -4202,6 +4218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205954Z" creationid="Marco Marega" creationdate="20171015T205954Z">
         <seg>Come un pulsante, ma con sopra raffigurata un'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line numbering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163718Z" creationid="Marina Latini" creationdate="20171206T163718Z">
+        <seg>Numerazione delle righe</seg>
       </tuv>
     </tu>
     <tu>
