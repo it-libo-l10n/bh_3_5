@@ -920,8 +920,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;n additional field is added, set to be invisible, just for sorting (however, the editor will register this only temporarily if no alias was defined for it) &lt;f1&gt;[add another &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Loan date&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; field just before &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Loan&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;Reader_ID&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;or add another &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Loan&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;.&lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;"&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;Reader_ID&lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;field just after &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;"&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;Loan date&lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;]&lt;/f39&gt;, or</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T170029Z" creationid="Manuel Frassinetti" creationdate="20171206T165417Z">
-        <seg>&lt;f0&gt;Un&lt;/f0&gt;campo addizionale è aggiunto, configurato per essere invisibile, solo per ordinare (in ogni caso, l'editor lo registrerà solo temporaneamente se nessun altro alias è stato definito per questo) &lt;f1&gt;[add another &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Loan date&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; field just before &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Loan&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;Reader_ID&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;or add another &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Loan&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;.&lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;"&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;Reader_ID&lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;field just after &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;"&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;Loan date&lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;]&lt;/f39&gt;, or</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T170337Z" creationid="Manuel Frassinetti" creationdate="20171206T165417Z">
+        <seg>&lt;f0&gt;Un&lt;/f0&gt;campo addizionale è aggiunto, configurato per essere invisibile, solo per ordinare (in ogni caso, l'editor lo registrerà solo temporaneamente se nessun altro alias è stato definito per questo) &lt;f1&gt;[aggiungete un altro campo &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;data prestito&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; prima di &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Prestito&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;Lettore_ID&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;oppure aggiungete un altro campo &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Prestito&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;.&lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;"&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;Lettore_ID&lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;subito dopo &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;"&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;data prestito&lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;]&lt;/f39&gt;, oppure</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Specifying the sort order &lt;/f0&gt;&lt;f1&gt;may&lt;/f1&gt;&lt;f2&gt; not &lt;/f2&gt;&lt;f3&gt;be&lt;/f3&gt;&lt;f4&gt; completely error-free&lt;/f4&gt;&lt;f5&gt;, depending&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;on the &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;LibreOffice &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;version&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T170900Z" creationid="Manuel Frassinetti" creationdate="20171206T170900Z">
+        <seg>&lt;f0&gt;Specificare il tipo di ordinamento &lt;/f0&gt;&lt;f1&gt;potrebbe&lt;/f1&gt;&lt;f2&gt; non &lt;/f2&gt;&lt;f3&gt;essere&lt;/f3&gt;&lt;f4&gt; completamente privo di errori&lt;/f4&gt;&lt;f5&gt;, ciò dipende &lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;dalla versione di &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;LibreOffice &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Submission encoding&lt;/f0&gt;: &lt;f1&gt;in addition to&lt;/f1&gt; the normal character encoding for transmission to the URL, you can specify here text encoding and multipart coding (for example, for transfer of data&lt;f2&gt;).&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184624Z" creationid="Marco Marega" creationdate="20171014T184503Z">
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T164307Z" creationid="Manuel Frassinetti" creationdate="20171206T164031Z">
         <seg>&lt;f0&gt;La &lt;/f0&gt;sequenza dei campi nell'area tabella dell'interfaccia grafica utente viene modificata&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;trascinate e rilasciate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;data prestito&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;"&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; alla sinistra di "&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Prestito"."Lettore_ID"&lt;/f11&gt;&lt;/f10&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he text for the ORDER BY command in the SQL editor is altered correspondingly &lt;f1&gt;(ORDER BY &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Loan date&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Loan&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;."Reader_ID"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;).&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T170546Z" creationid="Manuel Frassinetti" creationdate="20171206T170546Z">
+        <seg>&lt;f0&gt;Il&lt;/f0&gt; testo del comando ORDER BY nell'editor SQL è modificato di conseguenza &lt;f1&gt;(ORDER BY &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;data prestito&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Prestito&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;."Lettore_ID"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;).&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
