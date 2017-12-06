@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he sequence of fields in the table area of the graphical user interface is changed&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;(d&lt;/f2&gt;&lt;f3&gt;rag and drop &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Loan date&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;"&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to the left of "&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Loan"."Reader_ID"&lt;/f11&gt;&lt;/f10&gt;, or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T164307Z" creationid="Manuel Frassinetti" creationdate="20171206T164031Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;sequenza dei campi nell'area tabella dell'interfaccia grafica utente viene modificata&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;trascinate e rilasciate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;data prestito&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;"&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; alla sinistra di "&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Prestito"."Lettore_ID"&lt;/f11&gt;&lt;/f10&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;his handbook &lt;f1&gt;describes&lt;/f1&gt; the creation of a form without &lt;f2&gt;using&lt;/f2&gt; the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185003Z" creationid="Marco Marega" creationdate="20171013T185003Z">
