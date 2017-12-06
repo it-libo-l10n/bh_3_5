@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Getting a running balance by categories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163603Z" creationid="Marina Latini" creationdate="20171206T163603Z">
+        <seg>Ottenere un bilanciamento per categorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Getting someone's current age</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162941Z" creationid="Marina Latini" creationdate="20171206T162941Z">
