@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -210,6 +210,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165629Z" creationid="Marina Latini" creationdate="20171205T165629Z">
         <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>161</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105802Z" creationid="Marina Latini" creationdate="20171206T105802Z">
+        <seg>161</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>162</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105826Z" creationid="Marina Latini" creationdate="20171206T105826Z">
+        <seg>162</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>168</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105857Z" creationid="Marina Latini" creationdate="20171206T105857Z">
+        <seg>168</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,8 +2456,8 @@
       <tuv lang="EN">
         <seg>Data properties of fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T175942Z" creationid="Marina Latini" creationdate="20171205T175942Z">
-        <seg>Data properties of fields</seg>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105758Z" creationid="Marina Latini" creationdate="20171205T175942Z">
+        <seg>Prorietà dei dati dei comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203824Z" creationid="Marco Marega" creationdate="20171015T203824Z">
         <seg>Inserimento di date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105839Z" creationid="Marina Latini" creationdate="20171206T105839Z">
+        <seg>Inserimento Formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +2954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091536Z" creationid="Manuel Frassinetti" creationdate="20171127T091536Z">
         <seg>Dalle tabelle disponibili, &lt;f0&gt;selezionate &lt;/f0&gt;la tabella Prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions in the Report Builder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105824Z" creationid="Marina Latini" creationdate="20171206T105824Z">
+        <seg>Funzioni nel Report Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -6194,6 +6234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203116Z" creationid="Marco Marega" creationdate="20171016T203116Z">
         <seg>Utile per i campo di controllo che utilizzano macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User-defined functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105855Z" creationid="Marina Latini" creationdate="20171206T105855Z">
+        <seg>Funzioni pesonalizzate</seg>
       </tuv>
     </tu>
     <tu>
