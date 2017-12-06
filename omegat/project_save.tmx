@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>172</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154727Z" creationid="Marina Latini" creationdate="20171206T154727Z">
+        <seg>172</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165420Z" creationid="Marina Latini" creationdate="20171205T165420Z">
@@ -3046,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General notes on database linkage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154725Z" creationid="Marina Latini" creationdate="20171206T154725Z">
+        <seg>Note generali sul collegamento di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General notes on the creation of a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090623Z" creationid="Marina Latini" creationdate="20171003T090623Z">
@@ -4570,6 +4586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171030Z" creationid="Marina Latini" creationdate="20171205T170919Z">
         <seg>Miglioramento delle ricerche usando la modalità SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Registration of databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154743Z" creationid="Marina Latini" creationdate="20171206T154743Z">
+        <seg>Registrazione dei database</seg>
       </tuv>
     </tu>
     <tu>
