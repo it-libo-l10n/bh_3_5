@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164450Z" creationid="Marina Latini" creationdate="20171207T164450Z">
+        <seg>&lt;f0&gt;Domande e risposte dalla comunità di LibreOffice&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;adio button; &lt;f1&gt;a&lt;/f1&gt;llows you to choose &lt;f2&gt;from&lt;/f2&gt; a small number of possibilities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204913Z" creationid="Marco Marega" creationdate="20171015T204913Z">
@@ -2466,6 +2474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204304Z" creationid="Marco Marega" creationdate="20171125T204304Z">
         <seg>Come per le tabelle, il bordo inferiore del campo di controllo visualizza il numero del record e gli aiuti per la navigazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ask LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164422Z" creationid="Marina Latini" creationdate="20171207T164422Z">
+        <seg>Ask LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191453Z" creationid="Marco Marega" creationdate="20171017T190955Z">
         <seg>Bordo: Senza cornice | Aspetto 3D | Piatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free LibreOffice support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164414Z" creationid="Marina Latini" creationdate="20171207T164414Z">
+        <seg>Assistenza gratuita per LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102312Z" creationid="Marina Latini" creationdate="20171207T102312Z">
         <seg>Sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164407Z" creationid="Marina Latini" creationdate="20171207T164407Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita per gli utenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
