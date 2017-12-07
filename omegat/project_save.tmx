@@ -542,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>240</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095323Z" creationid="Marina Latini" creationdate="20171207T095323Z">
+        <seg>240</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>241</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095509Z" creationid="Marina Latini" creationdate="20171207T095509Z">
+        <seg>241</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -2670,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compacting a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095336Z" creationid="Marina Latini" creationdate="20171207T095336Z">
+        <seg>Compattare un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conditional formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154606Z" creationid="Marina Latini" creationdate="20171206T154606Z">
@@ -3602,6 +3626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165534Z" creationid="Marina Latini" creationdate="20171206T165534Z">
         <seg>Note generali sulle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General remarks on maintaining databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095322Z" creationid="Marina Latini" creationdate="20171207T095322Z">
+        <seg>Note generali sulla manutenzione dei database</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Querying database properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095442Z" creationid="Marina Latini" creationdate="20171207T095442Z">
+        <seg>Interrogare le proprietà del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Registration of databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154743Z" creationid="Marina Latini" creationdate="20171206T154743Z">
@@ -5298,6 +5338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194621Z" creationid="Marco Marega" creationdate="20171125T194621Z">
         <seg>Rappresenta qualsiasi lettera: a-z/A-Z.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resetting autovalues</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095412Z" creationid="Marina Latini" creationdate="20171207T095412Z">
+        <seg>Ripristinare i valori automatici</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,6 +5658,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162030Z" creationid="Marina Latini" creationdate="20171205T162030Z">
         <seg>Tabelle e relazioni per il database di esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing entries using relationship definition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095536Z" creationid="Marina Latini" creationdate="20171207T095536Z">
+        <seg>Testare i valori usando la definizione delle relazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing tables for unnecessary entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095507Z" creationid="Marina Latini" creationdate="20171207T095507Z">
+        <seg>Testare le tabelle per voci non necessarie</seg>
       </tuv>
     </tu>
     <tu>
