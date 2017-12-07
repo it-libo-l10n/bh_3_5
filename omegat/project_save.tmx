@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;&lt;f3&gt;Base uses the HSQLDB database engine to create database documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103726Z" creationid="Marina Latini" creationdate="20171207T103726Z">
+        <seg>&lt;f2&gt;&lt;f3&gt;Base usa il motore HSQLDB per creare database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;t has no significance unless you need to access some part of the form using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135742Z" creationid="Marco Marega" creationdate="20171014T135742Z">
@@ -6906,6 +6914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221312Z" creationid="Marco Marega" creationdate="20171102T221312Z">
         <seg>Se necessario, questo comportamento automatico può essere disattivato usando il pulsante Procedura guidata &lt;f0&gt;Si&lt;/f0&gt;/&lt;f1&gt;no&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; (&lt;f3&gt;vedete &lt;/f3&gt;Figura&lt;f4&gt; &lt;/f4&gt;&lt;t5&gt;24&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book introduces &lt;f0&gt;Base, &lt;/f0&gt;the &lt;f1&gt;database&lt;/f1&gt; component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103606Z" creationid="Marina Latini" creationdate="20171207T103606Z">
+        <seg>Questa guida è un'introduzione a &lt;f0&gt;Base, &lt;/f0&gt;il componente per i &lt;f1&gt;database&lt;/f1&gt; di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
