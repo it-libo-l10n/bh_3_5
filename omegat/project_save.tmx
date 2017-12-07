@@ -5582,6 +5582,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt;LibreOffice &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170733Z" creationid="Marina Latini" creationdate="20171207T170733Z">
+        <seg>Su sistemi operativi Linux e Windows, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt;LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170813Z" creationid="Marina Latini" creationdate="20171207T170813Z">
+        <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a form has been created, it can be filled with visible controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202938Z" creationid="Marco Marega" creationdate="20171015T202938Z">
@@ -7678,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change to using LibreOffice dialogs:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170716Z" creationid="Marina Latini" creationdate="20171207T170716Z">
+        <seg>Per usare le finestre di dialogo di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display the full Help system, press &lt;f4&gt;F1&lt;/f4&gt; or select &lt;f5&gt;LibreOffice Help&lt;/f5&gt; from the Help menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131148Z" creationid="Marina Latini" creationdate="20171207T111258Z">
@@ -8194,6 +8218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
         <seg>Campo con valore Si o No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either use dialogs from your computer system (default) or dialogs provided by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170710Z" creationid="Marina Latini" creationdate="20171207T170710Z">
+        <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema (impostazione predefinita) sia le finestre di dialogo fornite da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
