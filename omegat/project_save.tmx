@@ -6134,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Use LibreOffice dialogs&lt;/f0&gt; in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; &lt;f2&gt;and, in Linux &lt;/f2&gt;&lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Mac OS X operating systems only, &lt;/f4&gt;&lt;f5&gt;Print dialogs &lt;/f5&gt;to display the LibreOffice dialogs on your computer display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T171119Z" creationid="Marina Latini" creationdate="20171207T171119Z">
+        <seg>Selezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X , &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa &lt;/f5&gt;per visualizzare le finestre di dialoo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Separator for thousands, usually a &lt;f0&gt;comma&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204604Z" creationid="Marco Marega" creationdate="20171026T204604Z">
