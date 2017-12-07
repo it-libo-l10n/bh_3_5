@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;You may wish to first read Chapter 8, Getting Started with Base, in the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Getting Started&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; guide.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103442Z" creationid="Marina Latini" creationdate="20171207T103442Z">
+        <seg>&lt;f2&gt;Si consiglia di leggere prima il Capitolo 8, della &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Guida introduttiva&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, Introduzione a Base.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Not defined&lt;/f3&gt; corresponds to a &lt;f4&gt;NULL &lt;/f4&gt;entry in the table underlying the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204028Z" creationid="Marco Marega" creationdate="20171109T204028Z">
