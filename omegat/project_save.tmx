@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/international-sites/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170228Z" creationid="Marina Latini" creationdate="20171207T170228Z">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/international-sites/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203915Z" creationid="Marco Marega" creationdate="20171016T203915Z">
