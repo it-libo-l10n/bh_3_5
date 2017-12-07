@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170330Z" creationid="Marina Latini" creationdate="20171207T170330Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists/it&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181349Z" creationid="Manuel Frassinetti" creationdate="20171130T181349Z">
         <seg>&lt;f0&gt;Nel test precedente, un'attenzione particolare dovrebbe essere rivolta alla prima colonna del risultato della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170251Z" creationid="Marina Latini" creationdate="20171207T170251Z">
+        <seg>&lt;f0&gt;Mailing list internazionali&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212240Z" creationid="Marco Marega" creationdate="20171101T212240Z">
         <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessibility options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170338Z" creationid="Marina Latini" creationdate="20171207T170338Z">
+        <seg>Accesso facilitato</seg>
       </tuv>
     </tu>
     <tu>
