@@ -7166,6 +7166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This forum provides community support for LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164223Z" creationid="Marina Latini" creationdate="20171207T164223Z">
+        <seg>Questo forum fornisce supporto da parte della comunità per LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This groups field and label together.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202907Z" creationid="Marco Marega" creationdate="20171016T202907Z">
