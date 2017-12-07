@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more detailed explanation, select &lt;f0&gt;Help &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; What's This?&lt;/f3&gt;&lt;f4&gt; and hold the pointer over the icon.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132001Z" creationid="Marina Latini" creationdate="20171207T132001Z">
+        <seg>Per una spiegazione più approfondita, selezionate &lt;f0&gt;?&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Cos'è questo?&lt;/f3&gt;&lt;f4&gt; e tenete il puntatore sopra l'icona.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For creating internal forms in Base, this is the most important tab.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184925Z" creationid="Marco Marega" creationdate="20171014T184925Z">
@@ -4274,6 +4282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212840Z" creationid="Marco Marega" creationdate="20171126T212840Z">
         <seg>Se &lt;f0&gt;Si&lt;/f0&gt;, il pulsante può essere visualizzato come già premuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131925Z" creationid="Marina Latini" creationdate="20171207T131925Z">
+        <seg>Quando l'identificazione degli strumenti è attivata, posizionando il cursore del mouse sull'icona di un qualsiasi strumento verrà visualizzata una breve descrizione della sua funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +5846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;t0&gt;Table 1&lt;/t0&gt; and this web page: &lt;a1&gt;http://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132044Z" creationid="Marina Latini" creationdate="20171207T132044Z">
+        <seg>Vedere la &lt;t0&gt;Tabella 1&lt;/t0&gt; e questa pagina web: &lt;a1&gt;http://it.libreoffice.org/supporto/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See also &lt;f1&gt;C&lt;/f1&gt;hapter &lt;f2&gt;3, &lt;/f2&gt;Tables, &lt;f3&gt;in this book&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210312Z" creationid="Marco Marega" creationdate="20171014T210312Z">
@@ -6242,6 +6266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194511Z" creationid="Marco Marega" creationdate="20171017T194511Z">
         <seg>Se l'utente non inserisce un valore, l'interfaccia grafica ne richiederà l'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132021Z" creationid="Marina Latini" creationdate="20171207T132021Z">
+        <seg>La comunità di LibreOffice non sviluppa solo il software, ma offre anche un servizio di supporto gratuito fornito da volontari.</seg>
       </tuv>
     </tu>
     <tu>
