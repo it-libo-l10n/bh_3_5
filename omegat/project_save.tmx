@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;This book introduces the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;features and&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; functions of Base, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;using two example databases.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105347Z" creationid="Marina Latini" creationdate="20171207T105347Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Questo libro introduce le &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;caratteristiche e &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;le funzioni di Base, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;usando due database di esempio.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;This chapter introduces two database examples and the entire Handbook is built around these.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T192042Z" creationid="osvaldo" creationdate="20171012T192042Z">
@@ -2986,6 +2994,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090555Z" creationid="Marina Latini" creationdate="20171003T090555Z">
         <seg>Creazione di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105354Z" creationid="Marina Latini" creationdate="20171207T105354Z">
+        <seg>Creazione di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating and using forms for data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105504Z" creationid="Marina Latini" creationdate="20171207T105504Z">
+        <seg>Creazione e uso di formulari per l'inserimento dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating and using tables in relational databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105436Z" creationid="Marina Latini" creationdate="20171207T105436Z">
+        <seg>Creazione e uso di tabelle in database relazionali</seg>
       </tuv>
     </tu>
     <tu>
