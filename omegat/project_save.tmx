@@ -574,6 +574,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>244</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095828Z" creationid="Marina Latini" creationdate="20171207T095828Z">
+        <seg>244</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>245</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095840Z" creationid="Marina Latini" creationdate="20171207T095840Z">
+        <seg>245</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>246</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095852Z" creationid="Marina Latini" creationdate="20171207T095852Z">
+        <seg>246</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>247</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100023Z" creationid="Marina Latini" creationdate="20171207T100023Z">
+        <seg>247</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -2206,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendix</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095838Z" creationid="Marina Latini" creationdate="20171207T095838Z">
+        <seg>Appendice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as a combo box is created, a Wizard appears by default, just as with a list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221102Z" creationid="Marco Marega" creationdate="20171102T221102Z">
@@ -2306,6 +2346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
         <seg>Colore di sfondo per il campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Barcodes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095849Z" creationid="Marina Latini" creationdate="20171207T095849Z">
+        <seg>Codici a barre</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data types for the table editor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095929Z" creationid="Marina Latini" creationdate="20171207T095929Z">
+        <seg>Tipi di dato per l'editor della tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database Maintenance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095239Z" creationid="Marina Latini" creationdate="20171207T095239Z">
@@ -3138,6 +3194,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095631Z" creationid="Marina Latini" creationdate="20171207T095631Z">
         <seg>Modificare le voci usando formulari e formulari secondari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effect of listboxes and comboboxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095825Z" creationid="Marina Latini" creationdate="20171207T095825Z">
+        <seg>Effetto di liste di scelta e caselle combo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effect of queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095754Z" creationid="Marina Latini" creationdate="20171207T095754Z">
+        <seg>Effetto delle ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,6 +3450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165624Z" creationid="Marina Latini" creationdate="20171206T165624Z">
         <seg>Filtrare i record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating-point numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100014Z" creationid="Marina Latini" creationdate="20171207T100014Z">
+        <seg>Numeri in virgola mobile</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,6 +4482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224535Z" creationid="Marco Marega" creationdate="20171205T224535Z">
         <seg>Indipendentemente da questo campo di controllo, la &lt;f0&gt;barra di navigazione attivabile&lt;/f0&gt; naturalmente continua a sussistere con gli stessi elementi della figura soprastante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095948Z" creationid="Marina Latini" creationdate="20171207T095948Z">
+        <seg>Numeri interi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5718,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100021Z" creationid="Marina Latini" creationdate="20171207T100021Z">
+        <seg>Testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203728Z" creationid="Marco Marega" creationdate="20171015T203728Z">
@@ -6922,6 +7018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161523Z" creationid="Marina Latini" creationdate="20171205T161523Z">
         <seg>Rubrica di Thunderbird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100035Z" creationid="Marina Latini" creationdate="20171207T100035Z">
+        <seg>Orario</seg>
       </tuv>
     </tu>
     <tu>
