@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170505Z" creationid="Marina Latini" creationdate="20171207T170505Z">
+        <seg>&lt;/f0&gt;Contratti di assistenza possono essere acquistati presso un distributore o da una ditta di consulenza specializzata in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f11&gt;The &lt;f12&gt;o&lt;/f12&gt;ther&lt;f13&gt; &lt;/f13&gt;c&lt;f14&gt;hoice&lt;/f14&gt;s in the context menu &lt;f15&gt;(&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Open in Design Mode&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; and &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Automatic Control Focus&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;) &lt;/f21&gt;correspond to &lt;f22&gt;b&lt;/f22&gt;uttons in Fig&lt;f23&gt;ure&lt;/f23&gt; &lt;t24&gt;22&lt;/t24&gt;; &lt;f25&gt;we will discuss them later.&lt;/f25&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135502Z" creationid="Marco Marega" creationdate="20171014T135502Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T123921Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
         <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; fornisce le condizioni per la ricerca, vale a dire che il campo Data_Rientro deve essere vuoto (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;È  NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170440Z" creationid="Marina Latini" creationdate="20171207T170440Z">
+        <seg>&lt;a0&gt;http://it.libreoffice.org/supporto/accessibilita/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,6 +2450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170516Z" creationid="Manuel Frassinetti" creationdate="20171202T164658Z">
         <seg>Anche l'ordinamento per cognome e nome ha più senso dell'ordinamento per Lettore_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170452Z" creationid="Marina Latini" creationdate="20171207T170452Z">
+        <seg>In alternativa, è possibile usufruire di servizi di supporto a pagamento&lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4894,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information about available accessibility options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170348Z" creationid="Marina Latini" creationdate="20171207T170348Z">
+        <seg>Informazioni relative all'accesso facilitato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information tables for HSQLDB</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102456Z" creationid="Marina Latini" creationdate="20171207T102456Z">
@@ -5082,6 +5114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161741Z" creationid="Marina Latini" creationdate="20171206T161741Z">
         <seg>stampa di etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170527Z" creationid="Marina Latini" creationdate="20171207T170527Z">
+        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
