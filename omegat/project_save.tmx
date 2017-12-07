@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>215</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094256Z" creationid="Marina Latini" creationdate="20171207T094256Z">
+        <seg>215</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>22</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170732Z" creationid="Marina Latini" creationdate="20171205T170732Z">
@@ -2594,6 +2602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221409Z" creationid="Marco Marega" creationdate="20171102T221409Z">
         <seg>Le caselle combinate scrivono il testo selezionato direttamente nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comboboxes as listboxes with an entry option</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094246Z" creationid="Marina Latini" creationdate="20171207T094246Z">
+        <seg>Comboboxes as listboxes with an entry option</seg>
       </tuv>
     </tu>
     <tu>
