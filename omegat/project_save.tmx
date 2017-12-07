@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://forum.openoffice.org/en/forum/&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164353Z" creationid="Marina Latini" creationdate="20171207T164353Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://forum.openoffice.org/it/forum/&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
@@ -1786,6 +1794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115040Z" creationid="Manuel Frassinetti" creationdate="20171129T114859Z">
         <seg>&lt;f0&gt;La designazione del campo selezionato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito.*&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ha un significato speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This site provides support for LibreOffice, among other programs:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
+        <seg>&lt;f0&gt;Questo sito fornisce supporto per LibreOffice e altri programmi:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
