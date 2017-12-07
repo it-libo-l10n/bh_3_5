@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; comes with an extensive &lt;is1/&gt;Help system&lt;ie2/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111218Z" creationid="Marina Latini" creationdate="20171207T111218Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; offre un &lt;is1/&gt;sistema di aiuto&lt;ie2/&gt; vasto e articolato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List contents Query&lt;/f0&gt;: Here a query is first created separately and stored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211031Z" creationid="Marco Marega" creationdate="20171101T211031Z">
@@ -7206,6 +7214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is your first line of support for using &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111240Z" creationid="Marina Latini" creationdate="20171207T111240Z">
+        <seg>Questo è il vostro primo supporto per l'utilizzo di &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This mainly affects line endings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
@@ -7338,6 +7354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20171125T132225Z" creationid="luke" creationdate="20171125T132225Z">
         <seg>Titolo e sottotitolo vengono visualizzati insieme in una singola query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the full Help system, press &lt;f4&gt;F1&lt;/f4&gt; or select &lt;f5&gt;LibreOffice Help&lt;/f5&gt; from the Help menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111258Z" creationid="Marina Latini" creationdate="20171207T111258Z">
+        <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; dal menu di Aiuto.</seg>
       </tuv>
     </tu>
     <tu>
