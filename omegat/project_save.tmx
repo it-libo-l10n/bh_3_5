@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165536Z" creationid="Marina Latini" creationdate="20171207T165536Z">
+        <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://ask.libreoffice.org/en/questions/&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165359Z" creationid="Marina Latini" creationdate="20171207T165359Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085130Z" creationid="Marina Latini" creationdate="20171003T085130Z">
         <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Jean Hollis Weber&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165541Z" creationid="Marina Latini" creationdate="20171207T165541Z">
+        <seg>[fuzzy]&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +1882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201343Z" creationid="Marco Marega" creationdate="20171017T201343Z">
         <seg>&lt;f0&gt;Aggiornamento&lt;/f0&gt;: Se l'evento è legato a un campo del formulario, l'aggiornamento si verifica quando il focus viene perso e passa a un altro campo del formulario, dopo aver variato il contenuto del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;User guides, how-tos, and other documentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165517Z" creationid="Marina Latini" creationdate="20171207T165517Z">
+        <seg>&lt;f0&gt;Guide utente, istruzioni, e altra documentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,6 +3450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205107Z" creationid="Marco Marega" creationdate="20171015T205107Z">
         <seg>Visualizza e inserisce delle immagini in un database tramite la selezione del percorso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165408Z" creationid="Marina Latini" creationdate="20171207T165408Z">
+        <seg>Documentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203116Z" creationid="Marco Marega" creationdate="20171016T203116Z">
         <seg>Utile per i campo di controllo che utilizzano macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User guides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165413Z" creationid="Marina Latini" creationdate="20171207T165413Z">
+        <seg>Guide utente</seg>
       </tuv>
     </tu>
     <tu>
