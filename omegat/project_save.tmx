@@ -654,6 +654,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>255</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102803Z" creationid="Marina Latini" creationdate="20171207T102803Z">
+        <seg>255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>257</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102846Z" creationid="Marina Latini" creationdate="20171207T102846Z">
+        <seg>257</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -2654,6 +2670,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the database connection for multi-user access</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102936Z" creationid="Marina Latini" creationdate="20171207T102936Z">
+        <seg>Modificare la connessione al database per un accesso multi utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing the database connection to external HSQLDB</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102844Z" creationid="Marina Latini" creationdate="20171207T102844Z">
+        <seg>Modifica della connessione al database a HSQLDB esterno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
@@ -2826,6 +2858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154525Z" creationid="Marina Latini" creationdate="20171206T154525Z">
         <seg>Stampa condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connecting a database to an external HSQLDB</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102800Z" creationid="Marina Latini" creationdate="20171207T102800Z">
+        <seg>Collegamento di un database a un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
