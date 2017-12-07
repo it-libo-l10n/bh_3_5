@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base includes additional functionality that allows you to create full data-driven applications.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105155Z" creationid="Marina Latini" creationdate="20171207T105155Z">
+        <seg>Base include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base – a container for database content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161210Z" creationid="Marina Latini" creationdate="20171205T161210Z">
@@ -4698,6 +4706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090001Z" creationid="Marina Latini" creationdate="20171003T090001Z">
         <seg>Introduzione a Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can access databases created by many database programs, including Microsoft Access, MySQL, Oracle, and PostgreSQL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105120Z" creationid="Marina Latini" creationdate="20171207T105120Z">
+        <seg>Può accedere a database creati da numerosi programmi di database, inclusi Microsoft Access, MySQL, Oracle e PostgreSQL.</seg>
       </tuv>
     </tu>
     <tu>
