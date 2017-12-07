@@ -502,6 +502,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>227</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095009Z" creationid="Marina Latini" creationdate="20171207T095009Z">
+        <seg>227</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>228</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095034Z" creationid="Marina Latini" creationdate="20171207T095034Z">
+        <seg>228</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>23</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170736Z" creationid="Marina Latini" creationdate="20171205T170736Z">
@@ -2878,10 +2894,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database compaction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095033Z" creationid="Marina Latini" creationdate="20171207T095033Z">
+        <seg>Compressione del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database tasks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162227Z" creationid="Marina Latini" creationdate="20171206T162227Z">
         <seg>Attività di database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database tasks expanded using macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094916Z" creationid="Marina Latini" creationdate="20171207T094916Z">
+        <seg>Attività del database estesi usando le macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,6 +4550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Making a connection to a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094950Z" creationid="Marina Latini" creationdate="20171207T094950Z">
+        <seg>Effettuare un collegamento a un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum value, by default set to 1 second before 24:00.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210250Z" creationid="Marco Marega" creationdate="20171026T210250Z">
@@ -5258,6 +5298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162324Z" creationid="Marina Latini" creationdate="20171206T162324Z">
         <seg>Ricercare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Securing your database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095007Z" creationid="Marina Latini" creationdate="20171207T095007Z">
+        <seg>Proteggere il database</seg>
       </tuv>
     </tu>
     <tu>
