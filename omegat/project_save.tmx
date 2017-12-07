@@ -486,6 +486,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>225</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094603Z" creationid="Marina Latini" creationdate="20171207T094603Z">
+        <seg>225</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>226</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094633Z" creationid="Marina Latini" creationdate="20171207T094633Z">
+        <seg>226</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>23</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170736Z" creationid="Marina Latini" creationdate="20171205T170736Z">
@@ -2608,8 +2624,8 @@
       <tuv lang="EN">
         <seg>Comboboxes as listboxes with an entry option</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094246Z" creationid="Marina Latini" creationdate="20171207T094246Z">
-        <seg>Comboboxes as listboxes with an entry option</seg>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094533Z" creationid="Marina Latini" creationdate="20171207T094246Z">
+        <seg>Caselle combo come liste di scelta con una voce di opzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigation from one form to another</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094601Z" creationid="Marina Latini" creationdate="20171207T094601Z">
+        <seg>Navigazione da un formulario all'altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New database using the internal HSQL engine</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
@@ -5130,6 +5154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161945Z" creationid="Marina Latini" creationdate="20171205T161945Z">
         <seg>Relazioni tra tabelle nei database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing distracting elements from forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094631Z" creationid="Marina Latini" creationdate="20171207T094631Z">
+        <seg>Rimuove gli elementi di distrazione dai formulari</seg>
       </tuv>
     </tu>
     <tu>
