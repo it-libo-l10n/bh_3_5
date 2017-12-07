@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You&lt;/f0&gt; can get comprehensive online &lt;is1/&gt;support&lt;ie2/&gt; from the community through mailing lists &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;the Ask LibreOffice website&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T152036Z" creationid="Marina Latini" creationdate="20171207T152036Z">
+        <seg>&lt;f0&gt;Potete&lt;/f0&gt; ottenere &lt;is1/&gt;assistenza in rete&lt;ie2/&gt; dalla comunità attraverso le mailing list &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;il sito web di LibreOffice Ask&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f10&gt;Current page&lt;/f10&gt; refers particularly to HTML Forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212334Z" creationid="Marco Marega" creationdate="20171014T212334Z">
