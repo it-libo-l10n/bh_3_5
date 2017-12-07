@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://wiki.documentfoundation.org/Faq&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165835Z" creationid="Marina Latini" creationdate="20171207T165835Z">
+        <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AS&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; specifies the field aliases to be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114911Z" creationid="Manuel Frassinetti" creationdate="20171202T114911Z">
@@ -992,8 +1000,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165541Z" creationid="Marina Latini" creationdate="20171207T165541Z">
-        <seg>[fuzzy]&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165637Z" creationid="Marina Latini" creationdate="20171207T165541Z">
+        <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205943Z" creationid="Marco Marega" creationdate="20171014T205943Z">
         <seg>&lt;f0&gt;Analizza&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;comando SQL&lt;/f3&gt;: Se volete che l'&lt;f4&gt;analisi&lt;/f4&gt; del comando SQL non sia premessa (ad esempio, perché state usando del codice che l'Interfaccia Grafica non può visualizzare correttamente), qui dovrete scegliere &lt;f5&gt;No&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Answers to frequently asked questions&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165740Z" creationid="Marina Latini" creationdate="20171207T165740Z">
+        <seg>&lt;f0&gt;Risposte alle Domande frequenti&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,6 +3658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161936Z" creationid="Marina Latini" creationdate="20171206T161936Z">
         <seg>Formulari esterni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FAQs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165649Z" creationid="Marina Latini" creationdate="20171207T165649Z">
+        <seg>Domande frequenti</seg>
       </tuv>
     </tu>
     <tu>
