@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://ask.libreoffice.org/en/questions/&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165359Z" creationid="Marina Latini" creationdate="20171207T165359Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://ask.libreoffice.org/it/questions/&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://forum.openoffice.org/en/forum/&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164353Z" creationid="Marina Latini" creationdate="20171207T164353Z">
