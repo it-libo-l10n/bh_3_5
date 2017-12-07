@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also, some of the dialogs may be differ because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170653Z" creationid="Marina Latini" creationdate="20171207T170653Z">
+        <seg>Anche alcune finestre di dialogo potrebbero essere differenti a causa delle impostazioni selezioante in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170452Z" creationid="Marina Latini" creationdate="20171207T170452Z">
@@ -6854,6 +6862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170539Z" creationid="Marina Latini" creationdate="20171207T170539Z">
+        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The image is not distorted.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
@@ -7226,6 +7242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221547Z" creationid="Marco Marega" creationdate="20171102T221547Z">
         <seg>Perciò gli esempi seguenti mostrano sia la tabella collegata al formulario, sia quella selezionata per il campo di controllo come la tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170546Z" creationid="Marina Latini" creationdate="20171207T170546Z">
+        <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
