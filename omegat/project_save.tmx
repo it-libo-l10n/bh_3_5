@@ -614,6 +614,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>249</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102227Z" creationid="Marina Latini" creationdate="20171207T102227Z">
+        <seg>249</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>250</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102249Z" creationid="Marina Latini" creationdate="20171207T102249Z">
+        <seg>250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>251</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102305Z" creationid="Marina Latini" creationdate="20171207T102305Z">
+        <seg>251</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>252</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102503Z" creationid="Marina Latini" creationdate="20171207T102503Z">
+        <seg>252</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>253</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102724Z" creationid="Marina Latini" creationdate="20171207T102724Z">
+        <seg>253</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -3046,6 +3086,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database connection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102303Z" creationid="Marina Latini" creationdate="20171207T102303Z">
+        <seg>Connessione al database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database repair for *.odb files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102712Z" creationid="Marina Latini" creationdate="20171207T102712Z">
+        <seg>Riparazione del database per i file *.odb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database search speed</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095726Z" creationid="Marina Latini" creationdate="20171207T095726Z">
@@ -3090,6 +3146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205155Z" creationid="Marco Marega" creationdate="20171026T205155Z">
         <seg>Campo data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date/Time</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102246Z" creationid="Marina Latini" creationdate="20171207T102246Z">
+        <seg>Data/ora</seg>
       </tuv>
     </tu>
     <tu>
@@ -4502,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information tables for HSQLDB</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102456Z" creationid="Marina Latini" creationdate="20171207T102456Z">
+        <seg>Tabelle delle informazioni per HSQLDB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095948Z" creationid="Marina Latini" creationdate="20171207T095948Z">
@@ -5034,6 +5106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204530Z" creationid="Marco Marega" creationdate="20171026T204530Z">
         <seg>Numero di posizioni decimali, per gli interi impostate a 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numeric</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102215Z" creationid="Marina Latini" creationdate="20171207T102215Z">
+        <seg>Valori numerici</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,6 +5866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T172946Z" creationid="Marina Latini" creationdate="20171205T172946Z">
         <seg>Riepilogare i dati con le ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102312Z" creationid="Marina Latini" creationdate="20171207T102312Z">
+        <seg>Sistema</seg>
       </tuv>
     </tu>
     <tu>
