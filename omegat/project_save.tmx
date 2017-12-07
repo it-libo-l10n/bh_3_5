@@ -4990,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maintaining databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111055Z" creationid="Marina Latini" creationdate="20171207T111055Z">
+        <seg>Manutenzione dei database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Making a connection to a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094950Z" creationid="Marina Latini" creationdate="20171207T094950Z">
@@ -7490,6 +7498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171139Z" creationid="Marina Latini" creationdate="20171205T171139Z">
         <seg>Usare un alias in una ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using macros to prevent input errors, simplify tasks, and improve usability of forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111041Z" creationid="Marina Latini" creationdate="20171207T111041Z">
+        <seg>Uso di macro per prevenire errori di digitazione, semplificare le attività e migliorare l'usabilità dei formulari</seg>
       </tuv>
     </tu>
     <tu>
