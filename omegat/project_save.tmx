@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/mailing-lists/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170042Z" creationid="Marina Latini" creationdate="20171207T170042Z">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://it.libreoffice.org/supporto/mailing-list/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203915Z" creationid="Marco Marega" creationdate="20171016T203915Z">
@@ -3982,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170016Z" creationid="Marina Latini" creationdate="20171207T170016Z">
+        <seg>Il supporto gratuito della comunità è offerto da una rete di utilizzatori esperti.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free online support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085722Z" creationid="Marina Latini" creationdate="20171003T085722Z">
@@ -4886,6 +4902,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>International Support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170048Z" creationid="Marina Latini" creationdate="20171207T170048Z">
+        <seg>Supporto Internazionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>International support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170055Z" creationid="Marina Latini" creationdate="20171207T170055Z">
+        <seg>Supporto Internazionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090116Z" creationid="Marina Latini" creationdate="20171003T090116Z">
@@ -5122,6 +5154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161842Z" creationid="Marina Latini" creationdate="20171206T161842Z">
         <seg>Stampa in serie usando il mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170007Z" creationid="Marina Latini" creationdate="20171207T170007Z">
+        <seg>Mailing list</seg>
       </tuv>
     </tu>
     <tu>
@@ -6402,6 +6442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132021Z" creationid="Marina Latini" creationdate="20171207T132021Z">
         <seg>La comunità di LibreOffice non sviluppa solo il software, ma offre anche un servizio di supporto gratuito fornito da volontari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice website in your language.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170106Z" creationid="Marina Latini" creationdate="20171207T170106Z">
+        <seg>Il sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
