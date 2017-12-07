@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>259</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103014Z" creationid="Marina Latini" creationdate="20171207T103014Z">
+        <seg>259</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -2294,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anyone who wants to get up to speed quickly with LibreOffice &lt;f0&gt;Base &lt;/f0&gt;will find this &lt;f1&gt;book&lt;/f1&gt; valuable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103201Z" creationid="Marina Latini" creationdate="20171207T103201Z">
+        <seg>Chiunque voglia velocizzare l'utilizzo di LibreOffice &lt;f0&gt;Base &lt;/f0&gt;troverà questo &lt;f1&gt;libro&lt;/f1&gt; prezioso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appears as a tooltip when the mouse is hovered over the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191937Z" creationid="Marco Marega" creationdate="20171017T191937Z">
@@ -2394,6 +2410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212411Z" creationid="Marco Marega" creationdate="20171126T212411Z">
         <seg>Allo stato attuale le proprietà della cornice (spessore e colore della linea) non possono essere modificati, ma potete cambiare la formattazione dei caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-incrementing values with external HSQLDB</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103011Z" creationid="Marina Latini" creationdate="20171207T103011Z">
+        <seg>Valori a incremento automatico con HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
