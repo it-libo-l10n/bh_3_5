@@ -558,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>242</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095633Z" creationid="Marina Latini" creationdate="20171207T095633Z">
+        <seg>242</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>243</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095707Z" creationid="Marina Latini" creationdate="20171207T095707Z">
+        <seg>243</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -2958,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database search speed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095726Z" creationid="Marina Latini" creationdate="20171207T095726Z">
+        <seg>Velocità di ricerca del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database tasks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162227Z" creationid="Marina Latini" creationdate="20171206T162227Z">
@@ -3106,6 +3130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
         <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing entries using forms and subforms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095631Z" creationid="Marina Latini" creationdate="20171207T095631Z">
+        <seg>Modificare le voci usando formulari e formulari secondari</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T170500Z" creationid="Manuel Frassinetti" creationdate="20171125T170500Z">
         <seg>Le ricerche possono essere inserite sia nella GUI che direttamente come codice SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries for finding orphan entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095704Z" creationid="Marina Latini" creationdate="20171207T095704Z">
+        <seg>Interrogazioni per cercare voci orfane</seg>
       </tuv>
     </tu>
     <tu>
