@@ -7368,8 +7368,8 @@
       <tuv lang="EN">
         <seg>To display the full Help system, press &lt;f4&gt;F1&lt;/f4&gt; or select &lt;f5&gt;LibreOffice Help&lt;/f5&gt; from the Help menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111258Z" creationid="Marina Latini" creationdate="20171207T111258Z">
-        <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; dal menu di Aiuto.</seg>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131148Z" creationid="Marina Latini" creationdate="20171207T111258Z">
+        <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f4&gt;F1&lt;/f4&gt; oppure selezionate &lt;f5&gt;Guida di LibreOffice&lt;/f5&gt; dal menu di Aiuto.</seg>
       </tuv>
     </tu>
     <tu>
