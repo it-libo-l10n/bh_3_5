@@ -3654,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filtering and searching data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T110029Z" creationid="Marina Latini" creationdate="20171207T110029Z">
+        <seg>Filtrare e ricercare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filtering records</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165624Z" creationid="Marina Latini" creationdate="20171206T165624Z">
@@ -4882,6 +4890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163718Z" creationid="Marina Latini" creationdate="20171206T163718Z">
         <seg>Numerazione delle righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linking databases to other documents and external forms, including use in mail merge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T110006Z" creationid="Marina Latini" creationdate="20171207T110006Z">
+        <seg>Collagare database ad altri documenti e formulari esterni, incluso l'uso in stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
