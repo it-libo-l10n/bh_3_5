@@ -6806,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following query calculates how many media have been loaned out, depending on the Reader_ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175022Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
+        <seg>La seguente ricerca calcola quanti supporti sono stati prestati a seconda del Lettore_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following query works without putting table names in front of the field names:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175528Z" creationid="Manuel Frassinetti" creationdate="20171204T175528Z">
@@ -7194,6 +7202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204306Z" creationid="Marco Marega" creationdate="20171118T204306Z">
         <seg>Il campo di dati sottostante deve essere un campo binario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The use of functions allows a query to provide more than just a filtered view of the data in one or more tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T174801Z" creationid="Manuel Frassinetti" creationdate="20171209T174801Z">
+        <seg>L'uso delle funzioni permette ad una ricerca di fornire più di una semplice visualizzazione filtrata dei dati in una o più tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,6 +7922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171139Z" creationid="Marina Latini" creationdate="20171205T171139Z">
         <seg>Usare un alias in una ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using functions in a query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T174137Z" creationid="Manuel Frassinetti" creationdate="20171209T174137Z">
+        <seg>Usare le funzioni in una ricerca</seg>
       </tuv>
     </tu>
     <tu>
