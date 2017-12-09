@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For the R&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;eader_ID&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, which gives access to reader information, the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Grouping&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; function is chosen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180801Z" creationid="Manuel Frassinetti" creationdate="20171209T180801Z">
+        <seg>&lt;f0&gt;Per il&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, che dà accesso alle informazioni del lettore, la funzione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Raggruppamento&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; è selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Section of the destination website to be addressed where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224137Z" creationid="Marco Marega" creationdate="20171205T224137Z">
         <seg>Tutti gli eventi che comportano l'uso del mouse, di un tasto o il passaggio del focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All fields with a content other than NULL are counted.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180253Z" creationid="Manuel Frassinetti" creationdate="20171209T180253Z">
+        <seg>Tutti i campi con un contenuto diverso da NULL sono conteggiati.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, the primary key field, which is never empty, is the most suitable choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180141Z" creationid="Manuel Frassinetti" creationdate="20171209T180141Z">
+        <seg>Per questa ragione, il campo chiave primaria. che non è mai vuoto, è la scelta più adatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Form &lt;f0&gt;p&lt;/f0&gt;roperties</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182855Z" creationid="Marco Marega" creationdate="20171014T182731Z">
@@ -4938,6 +4962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211745Z" creationid="Marco Marega" creationdate="20171126T211745Z">
         <seg>In questo modo, usando il pulsante di scelta, la tabella Reader viene fornita con la corrispondente chiave esterna della tabella Gender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this way, the records with the same &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Reader_ID&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; are grouped together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180906Z" creationid="Manuel Frassinetti" creationdate="20171209T180906Z">
+        <seg>In questo modo, i record di dati con lo stesso &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Lettore_ID&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; sono raggruppate insieme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7162,6 +7194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101433Z" creationid="Manuel Frassinetti" creationdate="20171202T101433Z">
         <seg>I record di dati, in altre parole, sono modificabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result shows the number of records for each &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Reader_ID&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180953Z" creationid="Manuel Frassinetti" creationdate="20171209T180953Z">
+        <seg>Il risultato mostra il numero di record di dati per ogni &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Lettore_ID&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
