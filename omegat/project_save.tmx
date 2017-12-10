@@ -5446,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple selection is more useful for changing the font, the height or the background color of controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194031Z" creationid="Marco Marega" creationdate="20171210T194031Z">
+        <seg>Le selezioni multiple sono più utili per i cambiamenti del carattere, dell'altezza o del colore di sfondo dei campi di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MySQL databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
