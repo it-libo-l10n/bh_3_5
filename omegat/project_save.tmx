@@ -4062,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For future work, it will be clearer if we use the &lt;f5&gt;F&lt;/f5&gt;orm &lt;f6&gt;N&lt;/f6&gt;avigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214912Z" creationid="Marco Marega" creationdate="20171210T214617Z">
+        <seg>Per lavorare in futuro, vi sarà più chiaro se usate il &lt;f5&gt;Navigatore &lt;/f5&gt;&lt;f6&gt;formulario&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For selecting files, for example to upload in an HTML form&lt;f0&gt;—&lt;/f0&gt;not further described</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210157Z" creationid="Marco Marega" creationdate="20171015T210157Z">
@@ -7752,8 +7760,8 @@
       <tuv lang="EN">
         <seg>This can be done with a right&lt;f0&gt;-&lt;/f0&gt;click on the group and then following the context menu &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214613Z" creationid="Marco Marega" creationdate="20171210T214518Z">
-        <seg>Potete farlo con un &lt;f0&gt;clic con il tasto destro del mouse&lt;/f0&gt; sul gruppo e seguendo poi il menu contestualeand then following the context menu &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214626Z" creationid="Marco Marega" creationdate="20171210T214518Z">
+        <seg>Potete farlo con un &lt;f0&gt;clic con il tasto destro del mouse&lt;/f0&gt; sul gruppo e seguendo poi il menu contestuale &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
