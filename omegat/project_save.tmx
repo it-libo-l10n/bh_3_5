@@ -7286,6 +7286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The quick way &lt;f0&gt;to &lt;/f0&gt;us&lt;f1&gt;e&lt;/f1&gt; the Form Wizard &lt;f2&gt;is&lt;/f2&gt; described in &lt;f3&gt;Chapter 8,&lt;/f3&gt; Getting Started with Base, &lt;f4&gt;in the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Getting Started with LibreOffice&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201622Z" creationid="Marco Marega" creationdate="20171210T201622Z">
+        <seg>Il metodo veloce &lt;f0&gt;con &lt;/f0&gt;l'uso&lt;f1&gt; della&lt;/f1&gt; Procedura guidata &lt;f2&gt;è&lt;/f2&gt; descritto nel &lt;f3&gt;Capitolo 8,&lt;/f3&gt; Introduzione a Base, &lt;f4&gt;della &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Guida Introduttiva a LibreOffice&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The readers’ names are unclear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145137Z" creationid="Manuel Frassinetti" creationdate="20171202T145137Z">
