@@ -5606,6 +5606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now the choice of properties that you can change is greater as you are dealing only with similar fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194548Z" creationid="Marco Marega" creationdate="20171210T194548Z">
+        <seg>A questo punto le proprietà tra cui è possibile scegliere sono di più, in quanto avete a che fare solo con campi tra loro simili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now the names are visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164445Z" creationid="Manuel Frassinetti" creationdate="20171202T164445Z">
@@ -8386,6 +8394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
         <seg>Campo con valore Si o No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change anything here that is available in a label field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194644Z" creationid="Marco Marega" creationdate="20171210T194644Z">
+        <seg>Qui potete modificare qualsiasi cosa disponibile per un campo etichetta.</seg>
       </tuv>
     </tu>
     <tu>
