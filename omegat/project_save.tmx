@@ -3950,6 +3950,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Selecting &lt;f1&gt;f&lt;/f1&gt;orm &lt;f2&gt;c&lt;/f2&gt;ontrols &lt;f3&gt;d&lt;/f3&gt;irectly &lt;f4&gt;u&lt;/f4&gt;sing the &lt;f5&gt;F&lt;/f5&gt;orm &lt;f6&gt;N&lt;/f6&gt;avigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215629Z" creationid="Marco Marega" creationdate="20171210T215629Z">
+        <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: Selezione diretta dei &lt;f1&gt;campi&lt;/f1&gt; &lt;f2&gt;di &lt;/f2&gt;controllo &lt;f3&gt;usando&lt;/f3&gt; &lt;f4&gt;&lt;/f4&gt; il &lt;f5&gt;Navigatore&lt;/f5&gt; &lt;f6&gt;formulario&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Replacing &lt;f1&gt;o&lt;/f1&gt;ne &lt;f2&gt;k&lt;/f2&gt;ind of &lt;f3&gt;c&lt;/f3&gt;ontrol by &lt;f4&gt;a&lt;/f4&gt;nother using the Form Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215737Z" creationid="Marco Marega" creationdate="20171210T215737Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Sostituzione &lt;f1&gt;di &lt;/f1&gt;un &lt;f2&gt;tipo&lt;/f2&gt; di &lt;f3&gt;campo &lt;/f3&gt;di controllo con &lt;f4&gt;un &lt;/f4&gt; altro usando il Navigatore formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -8042,6 +8058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180748Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
         <seg>Questa ricerca cerca i record che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce a un criterio per la ricerca ma nessun utile dato visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This replacement is carried out for the &lt;f0&gt;Media_ID&lt;/f0&gt; and &lt;f1&gt;Reader_ID&lt;/f1&gt; controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215830Z" creationid="Marco Marega" creationdate="20171210T215830Z">
+        <seg>Questa sostituzione è stata effettuata sui campi di controllo &lt;f0&gt;Media_ID&lt;/f0&gt; e &lt;f1&gt;Reader_ID&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
