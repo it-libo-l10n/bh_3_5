@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A quick variant for direct entry of fields with labels is to use the &lt;f0&gt;Add Field&lt;/f0&gt; function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205427Z" creationid="Marco Marega" creationdate="20171210T205427Z">
+        <seg>Una variante rapida per inserire direttamente dei campi con delle etichette è quella di usare la funzione&lt;f0&gt;Aggiungi campo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
