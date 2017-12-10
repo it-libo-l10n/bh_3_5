@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All fields have been selected except &lt;f0&gt;Media_ID_BC&lt;/f0&gt;, which is designed to be used only with a barcode scanner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211021Z" creationid="Marco Marega" creationdate="20171210T211021Z">
+        <seg>Sono stati selezionati tutti i campi a eccezione di &lt;f0&gt;Media_ID_BC&lt;/f0&gt;, che è pensato per essere usato solo con uno scanner di codici a barre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All fields with a content other than NULL are counted.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180253Z" creationid="Manuel Frassinetti" creationdate="20171209T180253Z">
@@ -3886,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Simple &lt;f1&gt;f&lt;/f1&gt;orm made by using &lt;f2&gt;A&lt;/f2&gt;dd Field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211118Z" creationid="Marco Marega" creationdate="20171210T211118Z">
+        <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;: Formulario &lt;f1&gt;semplice&lt;/f1&gt; realizzato usando &lt;f2&gt;Aggiungi &lt;/f2&gt;campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -3978,6 +3994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184925Z" creationid="Marco Marega" creationdate="20171014T184925Z">
         <seg>Questa è la scheda più importante per la creazione di formulari interni a Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For each table field, an appropriate form control has been automatically selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211711Z" creationid="Marco Marega" creationdate="20171210T211711Z">
+        <seg>A ciascun campo della tabella è stato assegnato automaticamente un appropriato campo di controllo del formulario.</seg>
       </tuv>
     </tu>
     <tu>
