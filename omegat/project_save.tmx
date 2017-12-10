@@ -7718,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This function, available on the Formula Design toolbar (see &lt;f0&gt;Figure&lt;/f0&gt; &lt;t1&gt;22&lt;/t1&gt;), allows all fields of the underlying table to be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205930Z" creationid="Marco Marega" creationdate="20171210T205930Z">
+        <seg>Questa funzione, presente nella barre degli strumenti Struttura formulario (vedete la &lt;f0&gt;Figura&lt;/f0&gt; &lt;t1&gt;22&lt;/t1&gt;), permette di selezionare tutti i campi della tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This groups field and label together.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202907Z" creationid="Marco Marega" creationdate="20171016T202907Z">
