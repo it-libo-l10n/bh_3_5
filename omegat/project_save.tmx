@@ -6974,6 +6974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The font was changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201903Z" creationid="Marco Marega" creationdate="20171210T201903Z">
+        <seg>Il carattere è stato modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
@@ -7038,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The heading for the form was created using a label field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201934Z" creationid="Marco Marega" creationdate="20171210T201837Z">
+        <seg>Il titolo del formulario è stato creato usando un campo di testo fisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The highlight indicates that this field can be modified.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101315Z" creationid="Manuel Frassinetti" creationdate="20171202T101315Z">
@@ -7090,6 +7106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212301Z" creationid="Marco Marega" creationdate="20171126T212301Z">
         <seg>L'etichetta può essere modificata rispetto al suo valore predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The label field is anchored to a paragraph in the top left corner of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202041Z" creationid="Marco Marega" creationdate="20171210T201929Z">
+        <seg>Il campo di testo fisso è ancorato a un paragrafo all'angolo in alto a sinistra del documento.</seg>
       </tuv>
     </tu>
     <tu>
