@@ -3526,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date fields are represented correctly as date controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211827Z" creationid="Marco Marega" creationdate="20171210T211827Z">
+        <seg>I campi data sono rappresentati correttamente come campo di controllo data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date/Time</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102246Z" creationid="Marina Latini" creationdate="20171207T102246Z">
@@ -5730,6 +5738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204530Z" creationid="Marco Marega" creationdate="20171026T204530Z">
         <seg>Numero di posizioni decimali, per gli interi impostate a 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbers are in numeric fields and &lt;f0&gt;are &lt;/f0&gt;declared as integers without decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211754Z" creationid="Marco Marega" creationdate="20171210T211754Z">
+        <seg>I numeri sono in campi numerici e &lt;f0&gt;sono &lt;/f0&gt;impostati come interi senza posizioni decimali.</seg>
       </tuv>
     </tu>
     <tu>
