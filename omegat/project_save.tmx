@@ -4286,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>H&lt;/f7&gt;ere &lt;f8&gt;we describe &lt;/f8&gt;the creation in &lt;f9&gt;D&lt;/f9&gt;esign &lt;f10&gt;V&lt;/f10&gt;iew.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201756Z" creationid="Marco Marega" creationdate="20171210T201756Z">
+        <seg>&lt;/f7&gt;Qui &lt;f8&gt;viene descritta &lt;/f8&gt;la creazione in &lt;f9&gt;Vista&lt;/f9&gt; &lt;f10&gt;struttura&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML: File to be called up with this button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213553Z" creationid="Marco Marega" creationdate="20171126T213553Z">
