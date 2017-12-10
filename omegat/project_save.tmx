@@ -6694,6 +6694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That will not be assumed in what follows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214423Z" creationid="Marco Marega" creationdate="20171210T214423Z">
+        <seg>Cose che non vengono considerate in quanto segue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That would cause all the selected elements suddenly to a&lt;f0&gt;c&lt;/f0&gt;quire the same name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193624Z" creationid="Marco Marega" creationdate="20171210T193609Z">
@@ -7742,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done with a right&lt;f0&gt;-&lt;/f0&gt;click on the group and then following the context menu &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214613Z" creationid="Marco Marega" creationdate="20171210T214518Z">
+        <seg>Potete farlo con un &lt;f0&gt;clic con il tasto destro del mouse&lt;/f0&gt; sul gruppo e seguendo poi il menu contestualeand then following the context menu &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can lead to the same kind of interplay when the handling of the event causes it to recur.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200156Z" creationid="Marco Marega" creationdate="20171017T200156Z">
@@ -8066,6 +8082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20171125T132225Z" creationid="luke" creationdate="20171125T132225Z">
         <seg>Titolo e sottotitolo vengono visualizzati insieme in una singola query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To adjust individual fields, we must edit the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214522Z" creationid="Marco Marega" creationdate="20171210T214502Z">
+        <seg>Per regolare i singoli campi, dovete modificare il gruppo.</seg>
       </tuv>
     </tu>
     <tu>
