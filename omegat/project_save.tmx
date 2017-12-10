@@ -3926,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Form controls: &lt;f1&gt;e&lt;/f1&gt;diting the &lt;f2&gt;g&lt;/f2&gt;roup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215004Z" creationid="Marco Marega" creationdate="20171210T215004Z">
+        <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: Controlli del formulario: &lt;f1&gt;modifica&lt;/f1&gt; del &lt;f2&gt;gruppo&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -4010,6 +4018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132001Z" creationid="Marina Latini" creationdate="20171207T132001Z">
         <seg>Per una spiegazione più approfondita, selezionate &lt;f0&gt;?&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Cos'è questo?&lt;/f3&gt;&lt;f4&gt; e tenete il puntatore sopra l'icona.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For controls, the names are taken directly from the names of the fields in the underlying table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215133Z" creationid="Marco Marega" creationdate="20171210T215133Z">
+        <seg>Per i campi di controllo, i nomi vengono derivati direttamente dal nome dei campi della tabella sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Form &lt;f0&gt;N&lt;/f0&gt;avigator displays all the elements of the form with their labels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215049Z" creationid="Marco Marega" creationdate="20171210T215049Z">
+        <seg>Il &lt;f0&gt;Navigatore&lt;/f0&gt; formulario visualizza tutti gli elementi del formulario con le rispettive etichette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Form Controls toolbar (Fig&lt;f0&gt;ure&lt;/f0&gt; &lt;t1&gt;24&lt;/t1&gt;) makes available some fields for your form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140245Z" creationid="Marco Marega" creationdate="20171014T140245Z">
@@ -7322,6 +7346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
         <seg>Il nome di un campo di controllo all'interno del formulario deve essere univoco &lt;f0&gt;—&lt;/f0&gt;viene usato per accedervi con le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names of the labels have the suffix &lt;f1&gt;Label&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215311Z" creationid="Marco Marega" creationdate="20171210T215311Z">
+        <seg>I nomi dei campi di testo fisso hanno il prefisso &lt;f1&gt;Etichetta&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
