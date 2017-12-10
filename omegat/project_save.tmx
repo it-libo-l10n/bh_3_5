@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a better view, all unnecessary toolbars have been removed from the window, which has also been compressed so that not all elements of the &lt;f4&gt;N&lt;/f4&gt;avigation bar are visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T210915Z" creationid="Marco Marega" creationdate="20171210T210915Z">
+        <seg>Per una migliore visualizzazione, tutte le barre degli strumenti non necessarie sono state rimosse dalla finestra, che è anche stata ridotta sicché non tutti gli elementi della &lt;f4&gt;Barra &lt;/f4&gt; di navigazione sono visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; What's This?&lt;/f3&gt;&lt;f4&gt; and hold the pointer over the icon.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132001Z" creationid="Marina Latini" creationdate="20171207T132001Z">
