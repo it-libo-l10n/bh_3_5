@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple form has form controls for writing or reading records from a single table or query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T200958Z" creationid="Marco Marega" creationdate="20171210T200958Z">
+        <seg>Un formulario semplice contiene i campi di controllo necessari a scrivere o leggere dei record di dati in una singola tabella o ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A spin symbol is incorporated into the right side of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193254Z" creationid="Marco Marega" creationdate="20171017T193050Z">
@@ -5190,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its construction is shown by the following example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201048Z" creationid="Marco Marega" creationdate="20171210T201048Z">
+        <seg>La sua realizzazione viene illustrata nell'esempio seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194247Z" creationid="Marco Marega" creationdate="20171125T194247Z">
@@ -6882,6 +6898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232041Z" creationid="Marco Marega" creationdate="20171102T232041Z">
         <seg>Gli eventi corrispondono a quelli di una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The example of a simple form for library loans is shown here using several variants.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201237Z" creationid="Marco Marega" creationdate="20171210T201237Z">
+        <seg>L'esempio di un formulario semplice per i prestiti della libreria viene qui illustrato usando diverse varianti.</seg>
       </tuv>
     </tu>
     <tu>
