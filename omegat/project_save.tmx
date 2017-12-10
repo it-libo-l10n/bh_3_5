@@ -5166,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It would make finding individual elements using the &lt;f1&gt;F&lt;/f1&gt;orm &lt;f2&gt;N&lt;/f2&gt;avigator difficult, and management of the form by using named controls in macros impossible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193912Z" creationid="Marco Marega" creationdate="20171210T193616Z">
+        <seg>Ciò renderebbe difficile trovare i singoli elementi utilizzando il &lt;f1&gt;Navigatore&lt;/f1&gt; del &lt;f2&gt;Formulario&lt;/f2&gt; e renderebbe impossibile la gestione del formulario attraverso l'uso dei nomi dei controlli all'interno delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194247Z" creationid="Marco Marega" creationdate="20171125T194247Z">
@@ -6514,6 +6522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210904Z" creationid="Marco Marega" creationdate="20171109T210904Z">
         <seg>Per questo motivo qui appare un Nome gruppo, all'interno del quale indirizzare le opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That would cause all the selected elements suddenly to a&lt;f0&gt;c&lt;/f0&gt;quire the same name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193624Z" creationid="Marco Marega" creationdate="20171210T193609Z">
+        <seg>Un tanto farebbe si che immediatamente tutti gli elementi selezionati &lt;f0&gt;acquisiscano&lt;/f0&gt; lo stesso nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,6 +8402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215117Z" creationid="Marco Marega" creationdate="20171126T215117Z">
         <seg>È visibile solo una cornice attorno all'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should not alter the name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193453Z" creationid="Marco Marega" creationdate="20171210T193453Z">
+        <seg>Non dovreste modificare il nome.</seg>
       </tuv>
     </tu>
     <tu>
