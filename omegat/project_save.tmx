@@ -7070,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The group needs to be separated out so that the form eventually looks like the following illustration.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T210532Z" creationid="Marco Marega" creationdate="20171210T210532Z">
+        <seg>Il gruppo dev'essere separato per poter far si che il formulario possa essere visualizzato come nella seguente illustrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The heading for the form was created using a label field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201934Z" creationid="Marco Marega" creationdate="20171210T201837Z">
