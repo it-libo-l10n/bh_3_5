@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding &lt;f0&gt;g&lt;/f0&gt;roups of &lt;f1&gt;f&lt;/f1&gt;ields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205113Z" creationid="Marco Marega" creationdate="20171210T205113Z">
+        <seg>Aggiungere &lt;f0&gt;gruppi&lt;/f0&gt; di &lt;f1&gt;campi&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding the &lt;f0&gt;DISTINCT&lt;/f0&gt; keyword ensures that duplicate given names are shown only once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231749Z" creationid="Marco Marega" creationdate="20171102T231749Z">
@@ -7254,6 +7262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The page has also been given a uniformly colored background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202313Z" creationid="Marco Marega" creationdate="20171210T202313Z">
+        <seg>Alla pagina è stato inoltre assegnato un colore di sfondo uniforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The position of the fields can be corrected in the tabular area of the editor using the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162655Z" creationid="Manuel Frassinetti" creationdate="20171202T162655Z">
@@ -8146,6 +8162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111041Z" creationid="Marina Latini" creationdate="20171207T111041Z">
         <seg>Uso di macro per prevenire errori di digitazione, semplificare le attività e migliorare l'usabilità dei formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the context menu of the label field, a form was created that was linked to the Loans table (see “&lt;bf0&gt;Form properties&lt;/bf0&gt;” &lt;f1&gt;on page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;66&lt;/bf3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202214Z" creationid="Marco Marega" creationdate="20171210T202214Z">
+        <seg>Usando il menu contestuale del campo di testo fisso, è stato creato un formulario collegato alla tabella Loan (vedete “&lt;bf0&gt;Proprietà del formulario&lt;/bf0&gt;” &lt;f1&gt;a pagina &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;66&lt;/bf3&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
