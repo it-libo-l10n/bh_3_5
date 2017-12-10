@@ -4718,6 +4718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to alter only the labels, &lt;f0&gt;hold down&lt;/f0&gt; the &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; key &lt;f4&gt;and &lt;/f4&gt;click these controls directly or in the &lt;f5&gt;N&lt;/f5&gt;avigator, or &lt;f6&gt;right-click&lt;/f6&gt; on a field to call up the control properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194417Z" creationid="Marco Marega" creationdate="20171210T194417Z">
+        <seg>Se volete modificare solo le etichette, &lt;f0&gt;tenete premuto&lt;/f0&gt; il tasto &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; &lt;f4&gt;e &lt;/f4&gt;fate clic su questi campi di controllo, direttamente  o, nel &lt;f5&gt;N&lt;/f5&gt;avigatore, oppure &lt;f6&gt;fate clic con il tasto destro del mouse&lt;/f6&gt; sopra ad un campo in modo da richiamare le proprietà di quel controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
@@ -5562,6 +5570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183701Z" creationid="Marco Marega" creationdate="20171013T183701Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that changing the background color affects the labels as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194125Z" creationid="Marco Marega" creationdate="20171210T194125Z">
+        <seg>Fate attenzione che le modifiche del colore di sfondo ha effetto anche sulle etichette.</seg>
       </tuv>
     </tu>
     <tu>
