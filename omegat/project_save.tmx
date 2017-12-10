@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: General &lt;f1&gt;p&lt;/f1&gt;roperties of &lt;f2&gt;f&lt;/f2&gt;orm &lt;f3&gt;f&lt;/f3&gt;ields in a &lt;f4&gt;m&lt;/f4&gt;ultiple &lt;f5&gt;s&lt;/f5&gt;election</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193429Z" creationid="Marco Marega" creationdate="20171210T193429Z">
+        <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: &lt;f1&gt;scheda proprietà &lt;/f1&gt;Generale &lt;f2&gt;dei campi di un &lt;/f2&gt;formulario &lt;f3&gt;&lt;/f3&gt; in una &lt;f4&gt;selezione&lt;/f4&gt; &lt;f5&gt;multipla&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
