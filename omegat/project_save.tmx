@@ -6926,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The SQL query for the list field can now be created through the graphical user interface by clicking on the button at the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220629Z" creationid="Marco Marega" creationdate="20171210T220629Z">
+        <seg>Ora potete creare la ricerca SQL per la casella di riepilogo mediante l'interfaccia grafica, facendo clic sul pulsante a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Surname field o&lt;f0&gt;ccurs at&lt;/f0&gt; position 0, the ID field at position 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211742Z" creationid="Marco Marega" creationdate="20171101T211742Z">
