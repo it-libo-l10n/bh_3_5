@@ -5550,6 +5550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More important still is for the &lt;f0&gt;Media_ID&lt;/f0&gt; and the &lt;f1&gt;Reader_ID&lt;/f1&gt; fields to be made more user-friendly, unless every library user &lt;f2&gt;ha&lt;/f2&gt;s &lt;f3&gt;a library&lt;/f3&gt; &lt;f4&gt;ID &lt;/f4&gt;card and every medium is supplied with an ID on accession.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214341Z" creationid="Marco Marega" creationdate="20171210T214341Z">
+        <seg>Ancora più importante è rendere i campi &lt;f0&gt;Media_ID&lt;/f0&gt; e &lt;f1&gt;Reader_ID&lt;/f1&gt; più facili da usare per gli utenti, a meno che ogni utente della libreria non &lt;f2&gt;possieda&lt;/f2&gt; una &lt;f3&gt;tessera con il codice identificativo&lt;/f3&gt; &lt;f4&gt;&lt;/f4&gt; e ogni supporto non venga fornito di un codice d'accesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More rapid access to queries using table views</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173034Z" creationid="Marina Latini" creationdate="20171205T173034Z">
