@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjusting &lt;f0&gt;f&lt;/f0&gt;ield &lt;f1&gt;p&lt;/f1&gt;roportions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T212029Z" creationid="Marco Marega" creationdate="20171210T212029Z">
+        <seg>Regolare le proporzioni dei &lt;f0&gt;campi&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After all, fields in different tables can easily have the same field names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173616Z" creationid="Manuel Frassinetti" creationdate="20171204T173616Z">
@@ -2482,6 +2490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224137Z" creationid="Marco Marega" creationdate="20171205T224137Z">
         <seg>Tutti gli eventi che comportano l'uso del mouse, di un tasto o il passaggio del focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All fields have been given the same width.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211852Z" creationid="Marco Marega" creationdate="20171210T211852Z">
+        <seg>A tutti i campi è stata impostata la stessa larghezza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4626,6 +4642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
         <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a graphical control had been included, it would have been given a square field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T212005Z" creationid="Marco Marega" creationdate="20171210T212005Z">
+        <seg>Se fosse stato incluso un campo di controllo grafico, gli sarebbe stato assegnato un campo quadrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210558Z" creationid="Marco Marega" creationdate="20171126T210558Z">
         <seg>Abbiamo a che fare con la scelta del genere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We can now do some creative things, including adjusting the length of the fields and making the dates into drop-down fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214030Z" creationid="Marco Marega" creationdate="20171210T214030Z">
+        <seg>Ora potete fare alcune cose creative, come regolare la lunghezza dei campi e rendere i campi data apribili a discesa.</seg>
       </tuv>
     </tu>
     <tu>
