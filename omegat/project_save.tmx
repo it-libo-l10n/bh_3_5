@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can simultaneously change c&lt;/f0&gt;ontrols of the same kind&lt;f1&gt; that&lt;/f1&gt; have all &lt;f2&gt;the &lt;/f2&gt;properties that exist for a single instance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194949Z" creationid="Marco Marega" creationdate="20171210T194949Z">
+        <seg>&lt;f0&gt;Potete modificare simultaneamente i &lt;/f0&gt;controlli dello stesso tipo&lt;f1&gt; che&lt;/f1&gt; possiedono tutte &lt;f2&gt;le &lt;/f2&gt;proprietà esistenti per la singola istanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You&lt;/f0&gt; can get comprehensive online &lt;is1/&gt;support&lt;ie2/&gt; from the community through mailing lists &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;the Ask LibreOffice website&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T152036Z" creationid="Marina Latini" creationdate="20171207T152036Z">
@@ -7202,6 +7210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210635Z" creationid="Marco Marega" creationdate="20171101T210635Z">
         <seg>La posizione di questo campo viene specificata in &lt;f1&gt;Campo collegato&lt;/f1&gt;, dove la &lt;f2&gt;Numerazione inizia con 0 per indicare il primo campo della tabella del database&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The possibilities of multiple selection depend therefore on the choice of fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194804Z" creationid="Marco Marega" creationdate="20171210T194804Z">
+        <seg>Le possibilità offerte dalle selezioni multiple dipendono quindi dalla scelta dei campi.</seg>
       </tuv>
     </tu>
     <tu>
