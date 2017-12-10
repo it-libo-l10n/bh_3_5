@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;D&lt;/f0&gt;ouble&lt;f1&gt;-&lt;/f1&gt;click on the fields &lt;f2&gt;t&lt;/f2&gt;o insert &lt;f3&gt;them&lt;/f3&gt; into the form as a group with labels (unfortunately all on the same spot).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T210115Z" creationid="Marco Marega" creationdate="20171210T210115Z">
+        <seg>&lt;f0&gt;Fate un &lt;/f0&gt;doppio&lt;f1&gt; &lt;/f1&gt;clic sui campi &lt;f2&gt;per&lt;/f2&gt; inserirli &lt;f3&gt;nel&lt;/f3&gt; formulario raggruppati alla loro etichetta (sfortunatamente nello stesso punto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data fi&lt;/f0&gt;&lt;f1&gt;eld&lt;/f1&gt;: Here you create the binding with the table on which the form is based.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194120Z" creationid="Marco Marega" creationdate="20171017T194120Z">
