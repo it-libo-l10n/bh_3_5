@@ -7966,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is carried out automatically when a list box is created directly, but not when it is formed by conversion from another type of control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220757Z" creationid="Marco Marega" creationdate="20171210T220757Z">
+        <seg>Questa operazione è effettuata automaticamente quando la casella di riepilogo viene creata direttamente, ma non quando deriva dalla conversione da un altro tipo di campo di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is declared later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203221Z" creationid="Marco Marega" creationdate="20171125T203221Z">
