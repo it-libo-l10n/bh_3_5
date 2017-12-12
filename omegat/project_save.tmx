@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the SQL command, see &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;5,&lt;/f1&gt; Queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193132Z" creationid="Marco Marega" creationdate="20171212T193132Z">
+        <seg>Per l'istruzione SQL, vedete il &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170222Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
@@ -6522,6 +6530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214910Z" creationid="Marco Marega" creationdate="20171126T214828Z">
         <seg>È simile a un pulsante normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since the list boxes are to be made drop-down, the following defects can be corrected at the same time:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193259Z" creationid="Marco Marega" creationdate="20171212T193259Z">
+        <seg>Dato che le caselle di riepilogo devono essere rese apribili, è possibile correggere allo stesso tempo anche i seguenti difetti:</seg>
       </tuv>
     </tu>
     <tu>
