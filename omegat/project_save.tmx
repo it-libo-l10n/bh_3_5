@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, the tab stop can also be adjusted &lt;f0&gt;using&lt;/f0&gt; the activation sequence (see page &lt;bf1&gt;70&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193821Z" creationid="Marco Marega" creationdate="20171212T193821Z">
+        <seg>Se necessario, la selezione tramite tabulatore può essere regolata &lt;f0&gt;usando&lt;/f0&gt; la sequenza di attivazione (vedete a pagina &lt;bf1&gt;70&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the content extends over more lines, a scrollbar appears when the list drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
@@ -5994,6 +6002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214325Z" creationid="Marco Marega" creationdate="20171126T214325Z">
         <seg>Un solo pulsante del formulario può essere quello predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the &lt;f2&gt;Media&lt;/f2&gt;, &lt;f3&gt;Reader&lt;/f3&gt; and &lt;f4&gt;Loan date&lt;/f4&gt; fields must be accessible in all cases using the &lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ab&lt;/f7&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T194117Z" creationid="Marco Marega" creationdate="20171212T194117Z">
+        <seg>Solamente i campi &lt;f2&gt;Media&lt;/f2&gt;, &lt;f3&gt;Reader&lt;/f3&gt; e &lt;f4&gt;Loan date&lt;/f4&gt; devono essere accessibili in ogni caso usando il tasto &lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ab&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8746,6 +8762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203914Z" creationid="Marco Marega" creationdate="20171016T203914Z">
         <seg>All'interno di un formulario, per la navigazione normalmente viene usato il tasto &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without it, the form can be traversed much faster.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193722Z" creationid="Marco Marega" creationdate="20171212T193722Z">
+        <seg>Così facendo, è possibile attraversare il formulario molto più velocemente.</seg>
       </tuv>
     </tu>
     <tu>
