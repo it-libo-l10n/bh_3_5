@@ -2598,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any fields which are not absolutely necessary for issuing loans for a new medium do not need a tab stop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193633Z" creationid="Marco Marega" creationdate="20171212T193633Z">
+        <seg>Tutti i campi che non sono strettamente necessari per registrare i prestiti di un supporto non necessitano di poter essere selezionati con il tabulatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice &lt;f0&gt;Base &lt;/f0&gt;will find this &lt;f1&gt;book&lt;/f1&gt; valuable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103201Z" creationid="Marina Latini" creationdate="20171207T103201Z">
@@ -6806,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;ID&lt;/f0&gt; control should be declared as read-only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193430Z" creationid="Marco Marega" creationdate="20171212T193430Z">
+        <seg>Il campo di controllo &lt;f0&gt;ID&lt;/f0&gt; dovrebbe essere impostato come di sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reader_ID&lt;/f0&gt; field o&lt;f1&gt;ccurs in &lt;/f1&gt;the Loan table which underlies the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213442Z" creationid="Marco Marega" creationdate="20171029T213442Z">
@@ -7354,6 +7370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204248Z" creationid="Marco Marega" creationdate="20171109T204248Z">
         <seg>Se il campo non è abbastanza grande, l'etichetta viene troncata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The labels for the list boxes should be &lt;f0&gt;Media&lt;/f0&gt; instead of &lt;f1&gt;Media_ID&lt;/f1&gt; and &lt;f2&gt;Reader&lt;/f2&gt; instead of &lt;f3&gt;Reader&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;_&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ID&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193353Z" creationid="Marco Marega" creationdate="20171212T193353Z">
+        <seg>Le etichette delle caselle di riepilogo dovrebbero essere &lt;f0&gt;Media&lt;/f0&gt; invece di &lt;f1&gt;Media_ID&lt;/f1&gt; e &lt;f2&gt;Reader&lt;/f2&gt; anziché &lt;f3&gt;Reader&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;_&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ID&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
