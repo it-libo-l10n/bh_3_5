@@ -6662,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112930Z" creationid="Marina Latini" creationdate="20171213T112930Z">
+        <seg>Alcuni tasti e voci di menu su un Mac sono differenti da quelli utilizzati in ambiente Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes it is useful to print a page from a form rather than a separate report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203713Z" creationid="Marco Marega" creationdate="20171016T203713Z">
@@ -7706,6 +7714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111531Z" creationid="Manuel Frassinetti" creationdate="20171129T111531Z">
         <seg>L'area della tabella serve per la selezione dei campi per la visualizzazione o per l'impostazione delle condizioni relative a questi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112938Z" creationid="Marina Latini" creationdate="20171213T112938Z">
+        <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
