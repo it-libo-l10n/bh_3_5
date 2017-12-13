@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is it written in Java?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143745Z" creationid="Marina Latini" creationdate="20171213T143745Z">
+        <seg>È scritto in Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can access databases created by many database programs, including Microsoft Access, MySQL, Oracle, and PostgreSQL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105120Z" creationid="Marina Latini" creationdate="20171207T105120Z">
@@ -5638,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java is one of several languages that can be used to extend the software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143811Z" creationid="Marina Latini" creationdate="20171213T143811Z">
+        <seg>Java è uno dei numerosi linguaggi che è possibile usare per ampliare il software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194247Z" creationid="Marco Marega" creationdate="20171125T194247Z">
@@ -5682,6 +5698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143521Z" creationid="Marina Latini" creationdate="20171213T143521Z">
         <seg>LibreOffice è sviluppato e mantenuto da volontari ed è sostenuto da diverse &lt;f0&gt;organizzazioni&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is not &lt;f0&gt;written&lt;/f0&gt; in Java; it is written in the C++ &lt;f1&gt;language&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143803Z" creationid="Marina Latini" creationdate="20171213T143803Z">
+        <seg>LibreOffice non è &lt;f0&gt;scritto&lt;/f0&gt; in Java; è scritto in &lt;f1&gt;linguaggio&lt;/f1&gt; C++.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114003Z" creationid="Marina Latini" creationdate="20171213T114003Z">
         <seg>Pulsanti Radio (permettono una singola scelta esclusiva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read the license: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143721Z" creationid="Marina Latini" creationdate="20171213T143721Z">
+        <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9222,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143740Z" creationid="Marina Latini" creationdate="20171213T143740Z">
+        <seg>Perché è necessario avere Java per poter avviare LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Width of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204438Z" creationid="Marco Marega" creationdate="20171016T204438Z">
@@ -9362,6 +9402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105548Z" creationid="ldaghino" creationdate="20171002T105548Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a3&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may, within the parameters set in the &lt;is0/&gt;LGPL&lt;ie1/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143715Z" creationid="Marina Latini" creationdate="20171213T143715Z">
+        <seg>Potete usarlo, in conformità con i limiti della licenza &lt;is0/&gt;LGPL&lt;ie1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
