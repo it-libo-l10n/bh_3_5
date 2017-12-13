@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As many as you like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142348Z" creationid="Marina Latini" creationdate="20171213T142348Z">
+        <seg>Su tutti quelli che volete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as a combo box is created, a Wizard appears by default, just as with a list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221102Z" creationid="Marco Marega" creationdate="20171102T221102Z">
@@ -4766,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How many computers may I install it on?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142323Z" creationid="Marina Latini" creationdate="20171213T142323Z">
+        <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However no query can be created without at least one table, so a &lt;f5&gt;selection&lt;/f5&gt; must be made at the beginning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T110043Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
@@ -5454,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is LibreOffice available in my language?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142446Z" creationid="Marina Latini" creationdate="20171213T142446Z">
+        <seg>LibreOffice è disponibile nella mia lingua?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can access databases created by many database programs, including Microsoft Access, MySQL, Oracle, and PostgreSQL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105120Z" creationid="Marina Latini" creationdate="20171207T105120Z">
@@ -5786,6 +5810,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114414Z" creationid="Marina Latini" creationdate="20171213T114414Z">
         <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I sell it?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142355Z" creationid="Marina Latini" creationdate="20171213T142355Z">
+        <seg>È possibile venderlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I use LibreOffice in my business?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142437Z" creationid="Marina Latini" creationdate="20171213T142437Z">
+        <seg>È possibile usare LibreOffice in ambieto lavorativo?</seg>
       </tuv>
     </tu>
     <tu>
