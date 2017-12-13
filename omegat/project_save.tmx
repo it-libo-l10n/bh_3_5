@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;E&lt;/f0&gt;nd by saving the entire form, and finally the database itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214704Z" creationid="Marco Marega" creationdate="20171213T214704Z">
+        <seg>&lt;f0&gt;Concludete&lt;/f0&gt; salvando l'intero formulario, e infine il database stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Empty string is NULL&lt;/f0&gt;: Whether an empty string should be treated as (NULL) or the content simply deleted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194326Z" creationid="Marco Marega" creationdate="20171017T194326Z">
@@ -5414,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, you do not have the option of skipping individual columns by removing their tab stops.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T215103Z" creationid="Marco Marega" creationdate="20171213T215103Z">
+        <seg>Inoltre, non avete la possibilità di saltare singole colonne togliendogli il passaggio con il tabulatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In both cases a window opens, &lt;f0&gt;where&lt;/f0&gt; you &lt;f1&gt;can&lt;/f1&gt; create a query and also correct it if necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20171126T234003Z" creationid="Manuel Frassinetti" creationdate="20171125T170701Z">
@@ -7942,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The font, for example, can be set only for the entire table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214856Z" creationid="Marco Marega" creationdate="20171213T214856Z">
+        <seg>I caratteri, ad esempio, possono essere impostati solamente per l'intero campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
@@ -8314,6 +8338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214159Z" creationid="Marco Marega" creationdate="20171213T214159Z">
         <seg>Le proprietà dei comandi di campo, dietro al concetto delle colonne, sono nascoste nel menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The properties of the fields built into a table control are not so comprehensive as for those outside.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214823Z" creationid="Marco Marega" creationdate="20171213T214823Z">
+        <seg>Le proprietà dei campi di controllo inseriti in un campo di controllo tabella non sono così completi come quelli al di fuori.</seg>
       </tuv>
     </tu>
     <tu>
