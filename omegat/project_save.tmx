@@ -4790,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can I contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145202Z" creationid="Marina Latini" creationdate="20171213T145202Z">
+        <seg>Come si può contribuire a LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can you make it for free?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142625Z" creationid="Marina Latini" creationdate="20171213T142625Z">
@@ -7366,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java JDK/JRE is only required for some features; &lt;f2&gt;t&lt;/f2&gt;he most notable one is the HSQLDB relational database engine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145154Z" creationid="Marina Latini" creationdate="20171213T145154Z">
+        <seg>Il Java JDK/JRE è necessario solo per acune funzioni; &lt;f2&gt;l&lt;/f2&gt;a più importante è il motore di database relazionale HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LGPL &lt;i3/&gt;license is available from the LibreOffice website: &lt;a4&gt;http://www.libreoffice.org/download/license/&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114409Z" creationid="Marina Latini" creationdate="20171213T114409Z">
@@ -9378,6 +9394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170710Z" creationid="Marina Latini" creationdate="20171207T170710Z">
         <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema (impostazione predefinita) sia le finestre di dialogo fornite da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145212Z" creationid="Marina Latini" creationdate="20171213T145212Z">
+        <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
       </tuv>
     </tu>
     <tu>
