@@ -5286,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, we request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145521Z" creationid="Marina Latini" creationdate="20171213T145521Z">
+        <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, you can choose whether to activate Tips, Extended &lt;f6&gt;T&lt;/f6&gt;ips, and the Help Agent (using &lt;f7&gt;Tools &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Options &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; LibreOffice &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; General&lt;/f16&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131835Z" creationid="Marina Latini" creationdate="20171207T112623Z">
@@ -5890,6 +5898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114414Z" creationid="Marina Latini" creationdate="20171213T114414Z">
         <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I distribute the PDF of this book, or print and sell copies?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145452Z" creationid="Marina Latini" creationdate="20171213T145452Z">
+        <seg>È possibile distribuire il file PDF di questa Guida, o stamparla e venderne delle copie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6680,8 +6696,8 @@
       <tuv lang="EN">
         <seg>Read the license: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143721Z" creationid="Marina Latini" creationdate="20171213T143721Z">
-        <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145438Z" creationid="Marina Latini" creationdate="20171213T143721Z">
+        <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8838,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start, check out this webpage: &lt;a0&gt;http://www.documentfoundation.org/contribution/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145410Z" creationid="Marina Latini" creationdate="20171213T145410Z">
+        <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbar very similar to the one at the bottom edge of the screen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210036Z" creationid="Marco Marega" creationdate="20171015T210036Z">
@@ -9366,6 +9390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145503Z" creationid="Marina Latini" creationdate="20171213T145503Z">
+        <seg>Sì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114418Z" creationid="Marina Latini" creationdate="20171213T114418Z">
@@ -9418,6 +9450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204844Z" creationid="Marco Marega" creationdate="20171125T204844Z">
         <seg>Potete usare il selettore dei record per accedere alla funzione di eliminazione dell'intero record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to request special permission.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145509Z" creationid="Marina Latini" creationdate="20171213T145509Z">
+        <seg>Non è necessario richiedere un permesso speciale.</seg>
       </tuv>
     </tu>
     <tu>
