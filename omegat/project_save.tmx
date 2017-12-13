@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142546Z" creationid="Marina Latini" creationdate="20171213T142546Z">
+        <seg>&lt;f0&gt;LibreOffice è stato tradotto (localizzato) in più di 40 lingue, quindi la vostra lingua è probabilmente supportata&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114209Z" creationid="Marina Latini" creationdate="20171213T114209Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T093442Z" creationid="Manuel Frassinetti" creationdate="20171127T093442Z">
         <seg>Tabelle e richieste supplementari possono essere aggiunte in seguito se richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additionally,&lt;f1&gt; t&lt;/f1&gt;&lt;f2&gt;here are over 70 &lt;/f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;f4&gt;pelling&lt;/f4&gt;, &lt;f5&gt;hyphenation&lt;/f5&gt;, and &lt;f6&gt;thesaurus&lt;/f6&gt; dictionaries &lt;f7&gt;available for languages, and dialects that do not have a localized program interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142609Z" creationid="Marina Latini" creationdate="20171213T142609Z">
+        <seg>Inoltre &lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;ono disponibili oltre 70 dizionari di &lt;/f2&gt;&lt;f3&gt;c&lt;/f3&gt;&lt;f4&gt;orrezione ortografica&lt;/f4&gt;, &lt;f5&gt;sillabazione&lt;/f5&gt;, e di &lt;f6&gt;sinonimi&lt;/f6&gt; &lt;f7&gt;per le lingue e anche per i dialetti per i quali non è ancora disponibile un'interfaccia localizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,6 +4778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
         <seg>Il testo selezionato perde l'evidenziazione quando il campo di testo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How can you make it for free?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142625Z" creationid="Marina Latini" creationdate="20171213T142625Z">
+        <seg>Come riuscite a fare tutto questo gratis?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,6 +7530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214018Z" creationid="Marco Marega" creationdate="20171126T214018Z">
         <seg>Il pulsante predefinito viene visualizzato con una cornice se impostato su &lt;f0&gt;Si&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dictionaries are available from the LibreOffice website at: &lt;/f7&gt;&lt;a8&gt;&lt;f9&gt;www.libreoffice.org&lt;/f9&gt;&lt;/a8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142620Z" creationid="Marina Latini" creationdate="20171213T142620Z">
+        <seg>I dizionari sono disponibili sul sito web di LibreOffice all'indirizzo: &lt;/f7&gt;&lt;a8&gt;&lt;f9&gt;www.libreoffice.org&lt;/f9&gt;&lt;/a8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
