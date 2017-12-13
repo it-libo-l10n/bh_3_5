@@ -7750,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The controls within the table control are called columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213646Z" creationid="Marco Marega" creationdate="20171213T213646Z">
+        <seg>I campo di controllo all'interno del campo di controllo tabella vengono definiti colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The creation of such queries is described in &lt;f1&gt;Chapter 5, &lt;/f1&gt;Queries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211204Z" creationid="Marco Marega" creationdate="20171101T211204Z">
@@ -8534,6 +8542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They cannot be accessed by name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213619Z" creationid="Marco Marega" creationdate="20171213T213619Z">
+        <seg>Non è possibile accedervi richiamandoli per nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They show only the more general possibilities for design using a form editor; when you create a Web form you will need to use them.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183903Z" creationid="Marco Marega" creationdate="20171014T183903Z">
@@ -8674,6 +8690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111117Z" creationid="Manuel Frassinetti" creationdate="20171202T111117Z">
         <seg>Questo non li fa rinominare ma solo apparire sotto questi nomi per l'utente della ricerca.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This equally applies later, when attempts are made to access the fields using macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213550Z" creationid="Marco Marega" creationdate="20171213T213550Z">
+        <seg>Questo vale anche in seguito, quando si tenterà di accedere ai comandi di campo usando delle macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9210,6 +9234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202214Z" creationid="Marco Marega" creationdate="20171210T202214Z">
         <seg>Usando il menu contestuale del campo di testo fisso, è stato creato un formulario collegato alla tabella Loan (vedete “&lt;bf0&gt;Proprietà del formulario&lt;/bf0&gt;” &lt;f1&gt;a pagina &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;66&lt;/bf3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the context menu, it is now possible to replace one type of field by another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213738Z" creationid="Marco Marega" creationdate="20171213T213738Z">
+        <seg>Usando il menu contestuale, ora è possibile sostituire un tipo di comandi di campo con un altro.</seg>
       </tuv>
     </tu>
     <tu>
