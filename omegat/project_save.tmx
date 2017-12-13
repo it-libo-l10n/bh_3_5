@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tools &gt; Options&lt;/f1&gt;&lt;/f0&gt; menu selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113015Z" creationid="Marina Latini" creationdate="20171213T113015Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Strumenti &gt; Opzioni&lt;/f1&gt;&lt;/f0&gt; selezione del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Using queries to &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;bring together data from different tables, calculate results where necessary, and quickly filter a specific record from a mass of data&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105840Z" creationid="Marina Latini" creationdate="20171207T105840Z">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205428Z" creationid="Marco Marega" creationdate="20171014T205428Z">
         <seg>&lt;f0&gt;Contenuto&lt;/f0&gt;: a seconda che sopra sia stato selezionato sopra Tabella o Query, vengono elencate &lt;f1&gt;tutte le tabelle e le query &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Control+click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; and/or &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;right-click&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; depending on computer setup&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113215Z" creationid="Marina Latini" creationdate="20171213T113215Z">
+        <seg>&lt;f0&gt;Control+clic&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; e/o &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;clic con il pulsante secondario del mouse&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; in base all'impostazione del computer&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113239Z" creationid="Marina Latini" creationdate="20171213T113239Z">
+        <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Comando)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f10&gt;Current page&lt;/f10&gt; refers particularly to HTML Forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212334Z" creationid="Marco Marega" creationdate="20171014T212334Z">
@@ -2394,6 +2418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212240Z" creationid="Marco Marega" creationdate="20171101T212240Z">
         <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113025Z" creationid="Marina Latini" creationdate="20171213T113025Z">
+        <seg>Accesso alle opzioni di configurazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl (Control)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113233Z" creationid="Marina Latini" creationdate="20171213T113233Z">
+        <seg>Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currency field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203907Z" creationid="Marco Marega" creationdate="20171015T203907Z">
@@ -3706,6 +3746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095631Z" creationid="Marina Latini" creationdate="20171207T095631Z">
         <seg>Modificare le voci usando formulari e formulari secondari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113010Z" creationid="Marina Latini" creationdate="20171213T113010Z">
+        <seg>Effetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4058,6 +4106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132001Z" creationid="Marina Latini" creationdate="20171207T132001Z">
         <seg>Per una spiegazione più approfondita, selezionate &lt;f0&gt;?&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Cos'è questo?&lt;/f3&gt;&lt;f4&gt; e tenete il puntatore sopra l'icona.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112957Z" creationid="Marina Latini" creationdate="20171213T112957Z">
+        <seg>Per un elenco più dettagliato, consultate la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5430,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113020Z" creationid="Marina Latini" creationdate="20171213T113020Z">
+        <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170527Z" creationid="Marina Latini" creationdate="20171207T170527Z">
@@ -5506,6 +5570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214953Z" creationid="Marco Marega" creationdate="20171029T214953Z">
         <seg>Voci dell'elenco va inteso come quelle visibili, non quelle che il formulario trasmetterà alla tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac equivalent</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113006Z" creationid="Marina Latini" creationdate="20171213T113006Z">
+        <seg>Equivalente su Mac</seg>
       </tuv>
     </tu>
     <tu>
@@ -6054,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113227Z" creationid="Marina Latini" creationdate="20171213T113227Z">
+        <seg>Aprire un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Option button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210247Z" creationid="Marco Marega" creationdate="20171109T210247Z">
@@ -6394,6 +6474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095412Z" creationid="Marina Latini" creationdate="20171207T095412Z">
         <seg>Ripristinare i valori automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113029Z" creationid="Marina Latini" creationdate="20171213T113029Z">
+        <seg>Pulsante destro del mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113244Z" creationid="Marina Latini" creationdate="20171213T113244Z">
+        <seg>Usato con altri tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Useful for control using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203116Z" creationid="Marco Marega" creationdate="20171016T203116Z">
@@ -8794,6 +8890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204438Z" creationid="Marco Marega" creationdate="20171016T204438Z">
         <seg>Larghezza del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113002Z" creationid="Marina Latini" creationdate="20171213T113002Z">
+        <seg>Windows o Linux</seg>
       </tuv>
     </tu>
     <tu>
