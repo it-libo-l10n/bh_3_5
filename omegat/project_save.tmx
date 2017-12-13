@@ -5646,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has however some defects which need to be improved:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T212631Z" creationid="Marco Marega" creationdate="20171213T212631Z">
+        <seg>Ci sono però dei difetti da migliorare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It has no significance for later input.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191647Z" creationid="Marco Marega" creationdate="20171125T191647Z">
@@ -6330,6 +6338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203749Z" creationid="Marco Marega" creationdate="20171015T203749Z">
         <seg>Campo numerico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numeric fields must be stripped of their decimal places, since the Wizard always specifies two decimal places for numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T212830Z" creationid="Marco Marega" creationdate="20171213T212830Z">
+        <seg>Ai campi numerici vanno eliminate le posizioni decimali, in quanto la procedura guidata imposta sempre i numeri con due posizioni decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7418,6 +7434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193430Z" creationid="Marco Marega" creationdate="20171212T193430Z">
         <seg>Il campo di controllo &lt;f0&gt;ID&lt;/f0&gt; dovrebbe essere impostato come di sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Media_ID&lt;/f0&gt; and &lt;f1&gt;Reader_ID&lt;/f1&gt; fields must become list boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T212659Z" creationid="Marco Marega" creationdate="20171213T212659Z">
+        <seg>I campi &lt;f0&gt;Media_ID&lt;/f0&gt; e &lt;f1&gt;Reader_ID&lt;/f1&gt; devono diventare caselle di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
