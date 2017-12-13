@@ -2638,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of this type is the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114110Z" creationid="Marina Latini" creationdate="20171213T114110Z">
+        <seg>Un esempio di questo tipo è la finestra di dialogo Cerca e Sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An input mask is used to control input into the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193158Z" creationid="Marco Marega" creationdate="20171125T193158Z">
@@ -3186,6 +3194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204715Z" creationid="Marco Marega" creationdate="20171015T204715Z">
         <seg>Casella di controllo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checkbox (more than one can be selected at a time).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114011Z" creationid="Marina Latini" creationdate="20171213T114011Z">
+        <seg>Casella di controllo (permette scelte multiple).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204156Z" creationid="Marco Marega" creationdate="20171016T204156Z">
         <seg>Il campo prevede lo stop del cursore?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop-down list from which to select an item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114043Z" creationid="Marina Latini" creationdate="20171213T114043Z">
+        <seg>Menu a tendina dal quale selezionare una voce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114056Z" creationid="Marina Latini" creationdate="20171213T114056Z">
+        <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) fino a quando la finestra di dialogo rimane aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180834Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
@@ -6342,6 +6374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114124Z" creationid="Marina Latini" creationdate="20171213T114124Z">
+        <seg>I guadagni derivanti dalla vendita dell'edizione stampata saranno utilizzati a favore della comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties of &lt;f0&gt;c&lt;/f0&gt;ontrols</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202818Z" creationid="Marco Marega" creationdate="20171015T202818Z">
@@ -6386,6 +6426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200952Z" creationid="Marco Marega" creationdate="20171125T200952Z">
         <seg>I pulsanti, i pulsanti immagine e i pulsanti di scelta non sono disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114046Z" creationid="Marina Latini" creationdate="20171213T114046Z">
+        <seg>Pulsanti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,6 +6522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095442Z" creationid="Marina Latini" creationdate="20171207T095442Z">
         <seg>Interrogare le proprietà del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Radio buttons (only one can be selected at a time).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114003Z" creationid="Marina Latini" creationdate="20171213T114003Z">
+        <seg>Pulsanti Radio (permettono una singola scelta esclusiva).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6838,6 +6894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114105Z" creationid="Marina Latini" creationdate="20171213T114105Z">
+        <seg>Alcune finestre di dialogo possono rimanere aperte mentre lavorate, quindi potete spostarvi avanti e indietro tra la finestra di dialogo e il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112930Z" creationid="Marina Latini" creationdate="20171213T112930Z">
@@ -6874,6 +6938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210214Z" creationid="Marco Marega" creationdate="20171015T210214Z">
         <seg>Pulsante di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spin box (click the up and down arrows to change the number shown in the text box next to it, or type in the text box).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114028Z" creationid="Marina Latini" creationdate="20171213T114022Z">
+        <seg>Casella di selezione (fate clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo accanto a esse oppure digitate nella casella di testo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8126,6 +8198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This book was written by volunteers from the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114117Z" creationid="Marina Latini" creationdate="20171213T114117Z">
+        <seg>Questo libro è stato scritto dai volontari della comunità di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This book, the other &lt;f0&gt;LibreOffice&lt;/f0&gt; user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111146Z" creationid="Marina Latini" creationdate="20171207T111146Z">
@@ -8466,6 +8546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091724Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
         <seg>Questa finestra permette di combinare più tabelle (e anche viste e richieste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thumbnail or preview.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114033Z" creationid="Marina Latini" creationdate="20171213T114024Z">
+        <seg>Miniatura o anteprima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8930,6 +9018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170141Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
         <seg>Quando lavorate in modalità SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;È NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (linguaggio di ricerca strutturato).&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114100Z" creationid="Marina Latini" creationdate="20171213T114100Z">
+        <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
       </tuv>
     </tu>
     <tu>
