@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However the whole range of types is not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213830Z" creationid="Marco Marega" creationdate="20171213T213830Z">
+        <seg>Però non è disponibile l'intera gamma dei tipi di comando di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However there is a &lt;f5&gt;problem&lt;/f5&gt; here in that readers can be sorted only by ID, not alphabetically, &lt;f6&gt;bec&lt;/f6&gt;a&lt;f7&gt;u&lt;/f7&gt;s&lt;f8&gt;e&lt;/f8&gt; the table underlying the form only contains the ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205541Z" creationid="Marco Marega" creationdate="20171213T205541Z">
@@ -8262,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The properties of the fields are hidden in the context menu behind the concept of columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214159Z" creationid="Marco Marega" creationdate="20171213T214159Z">
+        <seg>Le proprietà dei comandi di campo, dietro al concetto delle colonne, sono nascoste nel menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query constructed by the Wizard looks like this:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
@@ -8466,6 +8482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182409Z" creationid="Marco Marega" creationdate="20171014T182130Z">
         <seg>Quindi, sulla superficie tratteggiata dalla sagoma, appare un campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no push buttons, option boxes, or graphical controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213953Z" creationid="Marco Marega" creationdate="20171213T213953Z">
+        <seg>Non sono presenti i pulsanti, i pulsante di scelta e i campi di controllo immagine.</seg>
       </tuv>
     </tu>
     <tu>
