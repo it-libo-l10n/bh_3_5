@@ -8350,6 +8350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The use of the Table Wizard to create a table control has already been described on page &lt;bf0&gt;87&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T212559Z" creationid="Marco Marega" creationdate="20171213T212559Z">
+        <seg>L'uso della Creazione guidata elemento Tabella è già stata descritta a pagina &lt;bf0&gt;87&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface of the Report Builder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173758Z" creationid="Marina Latini" creationdate="20171205T173758Z">
