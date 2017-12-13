@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he entries are not automatically sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210818Z" creationid="Marco Marega" creationdate="20171213T210818Z">
+        <seg>&lt;f0&gt;Gli&lt;/f0&gt; inserimenti automatici non sono ordinati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he entries are the labels of the option buttons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210645Z" creationid="Marco Marega" creationdate="20171126T210645Z">
@@ -2918,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beyond that point, &lt;f1&gt;the &lt;/f1&gt;Wizard ceases to meet requirements &lt;f2&gt;bec&lt;/f2&gt;a&lt;f3&gt;u&lt;/f3&gt;s&lt;f4&gt;e&lt;/f4&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210741Z" creationid="Marco Marega" creationdate="20171213T210613Z">
+        <seg>Oltre a quel punto, &lt;f1&gt;la &lt;/f1&gt;Procedura guidata perde i requisiti richiesti &lt;f2&gt;perché&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both are read from the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211823Z" creationid="Marco Marega" creationdate="20171101T211823Z">
@@ -3282,6 +3298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162849Z" creationid="Marina Latini" creationdate="20171206T162849Z">
         <seg>Frammenti di codice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combining several fields in the list box content is not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210929Z" creationid="Marco Marega" creationdate="20171213T210929Z">
+        <seg>Non è possibile combinare più campi nel contenuto di una casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085713Z" creationid="Marina Latini" creationdate="20171003T085713Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here again we need to make retrospective improvements, so that the required SQL code can be created quite quickly using the built-in query editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211321Z" creationid="Marco Marega" creationdate="20171213T211321Z">
+        <seg>Anche in questo caso c'è la necessità di apportare dei miglioramenti in retrospettiva, in modo che il codice SQL richiesto possa essere creato abbastanza rapidamente usando l'editor di query integrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6440,8 +6472,8 @@
       <tuv lang="EN">
         <seg>Only when creating list boxes does the Wizard come into play, making it easier for a novice to carry out the steps for creating correct fields—&lt;f0&gt;u&lt;/f0&gt;p to a point.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210552Z" creationid="Marco Marega" creationdate="20171213T210552Z">
-        <seg>La procedura guidata viene in aiuto solamente quando si creano caselle di riepilogo, rendendo più semplice ai principianti l'esecuzione dei passi per la corretta creazione di un campo —&lt;f0&gt;fino&lt;/f0&gt; a un certo punto.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210620Z" creationid="Marco Marega" creationdate="20171213T210552Z">
+        <seg>La procedura guidata viene in aiuto solamente quando si creano caselle di riepilogo, rendendo più semplice ai principianti l'esecuzione dei passi necessari per la corretta creazione di un campo —&lt;f0&gt;fino&lt;/f0&gt; a un certo punto.</seg>
       </tuv>
     </tu>
     <tu>
