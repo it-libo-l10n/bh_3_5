@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing fields within the table control is not possible using the same method as described for other controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213034Z" creationid="Marco Marega" creationdate="20171213T213034Z">
+        <seg>All'interno di un campo di controllo tabella non è possibile modificare i comandi di campo usando lo stesso metodo descritto per gli altri campi di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the database connection for multi-user access</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102936Z" creationid="Marina Latini" creationdate="20171207T102936Z">
@@ -5442,6 +5450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
         <seg>Nelle prove fatte questa azione &lt;s1/&gt; si ripete; le macro vengono eseguite due volte di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;N&lt;/f0&gt;avigator, the description of fields ends with the table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213126Z" creationid="Marco Marega" creationdate="20171213T213126Z">
+        <seg>Nel &lt;f0&gt;Navigatore&lt;/f0&gt;, la descrizione dei comandi di campo termina con il campo di controllo tabella.</seg>
       </tuv>
     </tu>
     <tu>
