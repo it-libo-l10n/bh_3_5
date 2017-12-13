@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Shift&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113257Z" creationid="Marina Latini" creationdate="20171213T113257Z">
+        <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Som&lt;/f0&gt;e controls allow the content of the database to be displayed, or data to be entered into the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203051Z" creationid="Marco Marega" creationdate="20171015T203051Z">
@@ -2054,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;z&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113318Z" creationid="Marina Latini" creationdate="20171213T113318Z">
+        <seg>&lt;f0&gt;z&lt;/f0&gt; + &lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f10&gt;Current page&lt;/f10&gt; refers particularly to HTML Forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212334Z" creationid="Marco Marega" creationdate="20171014T212334Z">
@@ -2234,6 +2250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194658Z" creationid="Marco Marega" creationdate="20171125T194658Z">
         <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113359Z" creationid="Marina Latini" creationdate="20171213T113359Z">
+        <seg>Una &lt;f0&gt;finestra di dialogo&lt;/f0&gt; è un tipo speciale di finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,6 +3934,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>F11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113311Z" creationid="Marina Latini" creationdate="20171213T113311Z">
+        <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113247Z" creationid="Marina Latini" creationdate="20171213T113247Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FAQs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165649Z" creationid="Marina Latini" creationdate="20171207T165649Z">
@@ -3930,6 +3970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140521Z" creationid="Marco Marega" creationdate="20171014T140521Z">
         <seg>Figura &lt;s0/&gt;&lt;seq1&gt;24&lt;/seq1&gt;: Pulsanti &lt;f2&gt;disponibili&lt;/f2&gt; nella barra degli strumenti Controlli per formulario&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases we do not use the technical terms in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113510Z" creationid="Marina Latini" creationdate="20171213T113510Z">
+        <seg>Nella maggior parte dei casi in questo libro non si usano termini tecnici, ma può essere utile conoscerli perché si possono ritrovare frequentemente nella Guida in linea e in altre guide e manuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180834Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
@@ -5422,6 +5478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides controls for you to use to specify how to carry out an action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113420Z" creationid="Marina Latini" creationdate="20171213T113420Z">
+        <seg>Vi fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It serves within Base to allow contact with the data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
@@ -5450,6 +5514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201048Z" creationid="Marco Marega" creationdate="20171210T201048Z">
         <seg>La sua realizzazione viene illustrata nell'esempio seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113415Z" creationid="Marina Latini" creationdate="20171213T113415Z">
+        <seg>Il suo scopo è quello d'informarvi di qualcosa, o richiedervi un'immissione, oppure entrambe le cose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6130,6 +6202,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113227Z" creationid="Marina Latini" creationdate="20171213T113227Z">
         <seg>Aprire un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113308Z" creationid="Marina Latini" creationdate="20171213T113308Z">
+        <seg>Aprire il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113330Z" creationid="Marina Latini" creationdate="20171213T113330Z">
+        <seg>Aprire la finestra Stili e formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6818,6 +6906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102312Z" creationid="Marina Latini" creationdate="20171207T102312Z">
         <seg>Sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tabbed page (not strictly speaking a control).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113523Z" creationid="Marina Latini" creationdate="20171213T113523Z">
+        <seg>Pagina a schede (non un controllo in senso stretto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7826,6 +7922,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111238Z" creationid="Manuel Frassinetti" creationdate="20171202T111238Z">
         <seg>La tabella precedente mostra come gli alias sostituiscono i nomi dei campi effettivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The technical names for common controls are shown in &lt;f1&gt;Figure &lt;/f1&gt;&lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113455Z" creationid="Marina Latini" creationdate="20171213T113455Z">
+        <seg>I nomi tecnici per i controlli più comuni sono mostrati in &lt;f1&gt;Figura &lt;/f1&gt;&lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;&lt;f1&gt;user interface&lt;/f1&gt; (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113353Z" creationid="Marina Latini" creationdate="20171213T113353Z">
+        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9082,6 +9194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090829Z" creationid="Marina Latini" creationdate="20171003T090829Z">
         <seg>Database dBase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user interface, parts of</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113340Z" creationid="Marina Latini" creationdate="20171213T113340Z">
+        <seg>Parti dell'interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
