@@ -2526,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding &lt;f0&gt;s&lt;/f0&gt;ingle &lt;f1&gt;f&lt;/f1&gt;ields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205641Z" creationid="Marco Marega" creationdate="20171213T205620Z">
+        <seg>Aggiungere &lt;f0&gt;singoli&lt;/f0&gt; &lt;f1&gt;campi&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding the &lt;f0&gt;DISTINCT&lt;/f0&gt; keyword ensures that duplicate given names are shown only once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231749Z" creationid="Marco Marega" creationdate="20171102T231749Z">
@@ -7550,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The addition of single fields is a bit more complicated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205657Z" creationid="Marco Marega" creationdate="20171213T205634Z">
+        <seg>L'aggiunta di singoli campi è un po' più complicata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
@@ -7706,6 +7722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162515Z" creationid="Manuel Frassinetti" creationdate="20171202T162515Z">
         <seg>I campi sono inizialmente aggiunti alla fine della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields must be selected, dragged onto the form surface, and the appropriate field from the underlying table specified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205855Z" creationid="Marco Marega" creationdate="20171213T205855Z">
+        <seg>Il campo deve essere selezionato, trascinato sulla superficie del formulario e deve essere abbinato al campo appropriato della tabella sottostante.</seg>
       </tuv>
     </tu>
     <tu>
