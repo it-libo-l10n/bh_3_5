@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as the properties of a column are called up, you can select another column without shutting the properties dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214530Z" creationid="Marco Marega" creationdate="20171213T214530Z">
+        <seg>Mentre sono visualizzate le proprietà di una colonna, potete selezionare un'altra colonna senza chiudere la finestra di dialogo delle proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the bound field is Field 1, this SQL formula works.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211958Z" creationid="Marco Marega" creationdate="20171101T211958Z">
@@ -5550,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way you can work on all the fields, one after another, without having to save in between.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214628Z" creationid="Marco Marega" creationdate="20171213T214628Z">
+        <seg>In questo modo potete lavorare su tutti i comandi di campo, uno dopo l'altro, senza dover salvare dopo ognuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way, the records with the same &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Reader_ID&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; are grouped together.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180906Z" creationid="Manuel Frassinetti" creationdate="20171209T180906Z">
@@ -8186,6 +8202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223242Z" creationid="Marco Marega" creationdate="20171205T223242Z">
         <seg>Il controllo barra di navigazione visualizza gli stessi &lt;f5&gt;pulsanti&lt;/f5&gt; ad eccezione &lt;f6&gt;di&lt;/f6&gt; Trova Record, Filtro basato su formula e &lt;f7&gt;Sorgente dati&lt;/f7&gt; come tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number should always remain small and positive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214428Z" creationid="Marco Marega" creationdate="20171213T214428Z">
+        <seg>Il numero dovrebbe mantenersi sempre piccolo e positivo.</seg>
       </tuv>
     </tu>
     <tu>
