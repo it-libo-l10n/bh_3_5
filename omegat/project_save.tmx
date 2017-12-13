@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1/&gt;Also the default minimum value of –1,000,000.00 hardly makes sense for a loan extension.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214331Z" creationid="Marco Marega" creationdate="20171213T214331Z">
+        <seg>&lt;t1/&gt;Anche il valore minimo di –1,000,000.00 difficilmente avrebbe senso per la durata di un prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194658Z" creationid="Marco Marega" creationdate="20171125T194658Z">
@@ -4818,6 +4826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204901Z" creationid="Marco Marega" creationdate="20171109T203444Z">
         <seg>Qui, a seconda della scelta nel campo a Stati triplo, sono disponibili fino a tre possibilità: &lt;f0&gt;Non selezionato&lt;/f0&gt; | &lt;f1&gt;Selezionato&lt;/f1&gt; | &lt;f2&gt;Non definito&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here, for example, the numeric field &lt;f0&gt;Extension&lt;/f0&gt; can be changed so that no decimal places are shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214235Z" creationid="Marco Marega" creationdate="20171213T214235Z">
+        <seg>Qui, ad esempio, il campo numerico &lt;f0&gt;Extension&lt;/f0&gt; può essere modificato in modo che non vengano visualizzate posizioni decimali.</seg>
       </tuv>
     </tu>
     <tu>
