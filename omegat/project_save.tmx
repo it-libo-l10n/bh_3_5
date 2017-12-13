@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;May I use programming code from LibreOffice in my program?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143659Z" creationid="Marina Latini" creationdate="20171213T143659Z">
+        <seg>&lt;/f0&gt;è possibile usare il codice sorgente di LibreOffice nel mio programma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170505Z" creationid="Marina Latini" creationdate="20171207T170505Z">
@@ -4862,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I am writing a software application&lt;f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143628Z" creationid="Marina Latini" creationdate="20171213T143628Z">
+        <seg>Sto scrivendo un'applicazione software&lt;f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&lt;f3&gt;t also describes&lt;/f3&gt; the properties of the various types of controls in a form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185104Z" creationid="Marco Marega" creationdate="20171013T185104Z">
@@ -5658,6 +5674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113020Z" creationid="Marina Latini" creationdate="20171213T113020Z">
         <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is developed and maintained by volunteers and has the backing of several &lt;f0&gt;organizations&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143521Z" creationid="Marina Latini" creationdate="20171213T143521Z">
+        <seg>LibreOffice è sviluppato e mantenuto da volontari ed è sostenuto da diverse &lt;f0&gt;organizzazioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
