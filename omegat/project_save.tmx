@@ -6654,6 +6654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the Galaxy &lt;f0&gt;set of &lt;/f0&gt;icon&lt;f1&gt;s&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112818Z" creationid="Marina Latini" creationdate="20171213T112818Z">
+        <seg>Alcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il &lt;f0&gt;set di &lt;/f0&gt;icon&lt;f1&gt;e Galaxy.&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes it is useful to print a page from a form rather than a separate report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203713Z" creationid="Marco Marega" creationdate="20171016T203713Z">
@@ -8898,6 +8906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215117Z" creationid="Marco Marega" creationdate="20171126T215117Z">
         <seg>È visibile solo una cornice attorno all'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should be able to download the Galaxy icon set from the software repository for your Linux operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112828Z" creationid="Marina Latini" creationdate="20171213T112828Z">
+        <seg>Dovreste comunque essere in grado di scaricare le icone Galaxy dal repository della vostra distribuzione Linux.</seg>
       </tuv>
     </tu>
     <tu>
