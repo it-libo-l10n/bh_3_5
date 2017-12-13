@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish, you can change your LibreOffice software package to display Galaxy icons as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T111953Z" creationid="Marina Latini" creationdate="20171213T111953Z">
+        <seg>Se lo desiderate, potete visualizzare le icone Galaxy in LibreOffice nel modo seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085748Z" creationid="Marina Latini" creationdate="20171003T085748Z">
@@ -4962,6 +4970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165547Z" creationid="Marina Latini" creationdate="20171206T165547Z">
         <seg>Migliorare l'usabilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;User interface &gt; Icon size and style&lt;/f0&gt; select &lt;f1&gt;Galaxy&lt;/f1&gt; from the options available in the dro&lt;f2&gt;p&lt;/f2&gt;&lt;f3&gt;-&lt;/f3&gt;down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112334Z" creationid="Marina Latini" creationdate="20171213T112334Z">
+        <seg>In &lt;f0&gt;Interfaccia utente &gt; Dimensione e stile delle icone&lt;/f0&gt; selezionate &lt;f1&gt;Galaxy&lt;/f1&gt; dalle opzioni disponibili nel men&lt;f2&gt;u&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.a tendina</seg>
       </tuv>
     </tu>
     <tu>
@@ -5918,10 +5934,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt;LibreOffice &gt; View&lt;/f0&gt; on the main menu bar to open the dialog for view options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112024Z" creationid="Marina Latini" creationdate="20171213T112024Z">
+        <seg>Su sistemi operativi Linux e Windows, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170813Z" creationid="Marina Latini" creationdate="20171207T170813Z">
         <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; View&lt;/f0&gt; on the main menu bar to open the dialog for view options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112043Z" creationid="Marina Latini" creationdate="20171213T112043Z">
+        <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,6 +7346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223434Z" creationid="Marco Marega" creationdate="20171205T223434Z">
         <seg>La dimensione delle icone è regolabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icons in this guide have been taken from a LibreOffice installation that has been set to display the Galaxy set of icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T111935Z" creationid="Marina Latini" creationdate="20171213T111935Z">
+        <seg>Le icone in questa guida sono relative a una installazione di LibreOffice impostata per visualizzare il set di icone Galaxy.</seg>
       </tuv>
     </tu>
     <tu>
