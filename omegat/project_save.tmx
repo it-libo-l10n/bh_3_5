@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However there is a &lt;f5&gt;problem&lt;/f5&gt; here in that readers can be sorted only by ID, not alphabetically, &lt;f6&gt;bec&lt;/f6&gt;a&lt;f7&gt;u&lt;/f7&gt;s&lt;f8&gt;e&lt;/f8&gt; the table underlying the form only contains the ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205541Z" creationid="Marco Marega" creationdate="20171213T205541Z">
+        <seg>In questo caso però c'è un &lt;f5&gt;problema&lt;/f5&gt; in quanto i lettori possono essere ordinati solo per ID e non alfabeticamente, &lt;f6&gt;questo&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;perché&lt;/f8&gt; la tabella sottostante al formulario contiene solamente l'ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However this button has no text and the button itself is not visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215033Z" creationid="Marco Marega" creationdate="20171126T214832Z">
