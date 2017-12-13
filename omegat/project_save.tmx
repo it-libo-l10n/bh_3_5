@@ -5318,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, the type of field must be correctly chosen; for example, numeric fields have two decimal places by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210022Z" creationid="Marco Marega" creationdate="20171213T210022Z">
+        <seg>Inoltre, deve essere scelto correttamente il tipo di campo; ad esempio, i campi numerici per impostazione predefinita hanno due posizioni decimali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, we request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145521Z" creationid="Marina Latini" creationdate="20171213T145521Z">
@@ -6426,6 +6434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195005Z" creationid="Marco Marega" creationdate="20171125T195005Z">
         <seg>Si possono inserire solo cifre 0-9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only when creating list boxes does the Wizard come into play, making it easier for a novice to carry out the steps for creating correct fields—&lt;f0&gt;u&lt;/f0&gt;p to a point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210552Z" creationid="Marco Marega" creationdate="20171213T210552Z">
+        <seg>La procedura guidata viene in aiuto solamente quando si creano caselle di riepilogo, rendendo più semplice ai principianti l'esecuzione dei passi per la corretta creazione di un campo —&lt;f0&gt;fino&lt;/f0&gt; a un certo punto.</seg>
       </tuv>
     </tu>
     <tu>
