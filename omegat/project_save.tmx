@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice it could be better &lt;f4&gt;if&lt;/f4&gt; you do n&lt;f5&gt;o&lt;/f5&gt;t associate fields with the labels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211756Z" creationid="Marco Marega" creationdate="20171213T211756Z">
+        <seg>In pratica potrebbe essere meglio &lt;f4&gt;se&lt;/f4&gt; &lt;f5&gt;non&lt;/f5&gt; associate i campi con le etichette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In principle a query &lt;f0&gt;that&lt;/f0&gt; produces an error message in the underlying database cannot be saved &lt;f1&gt;until the error is corrected&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181156Z" creationid="Manuel Frassinetti" creationdate="20171130T181156Z">
@@ -7138,6 +7146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212126Z" creationid="Marco Marega" creationdate="20171101T212126Z">
         <seg>In modo che per trovare qualcuno non dobbiate scorrere la lista troppo a lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So you must not choose &lt;f6&gt;Edit Group&lt;/f6&gt; before chang&lt;f7&gt;ing&lt;/f7&gt; the properties of a field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211855Z" creationid="Marco Marega" creationdate="20171213T211855Z">
+        <seg>Così non dovrete scegliere &lt;f6&gt;Modifica gruppo&lt;/f6&gt; prima di poter &lt;f7&gt;cambiare &lt;/f7&gt; le proprietà di un campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,8 +9304,8 @@
       <tuv lang="EN">
         <seg>When adding single controls, the field and its label must be explicitly associated (see “&lt;bf0&gt;Default settings for many controls&lt;/bf0&gt;” &lt;f1&gt;on page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;70&lt;/bf3&gt;&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211555Z" creationid="Marco Marega" creationdate="20171213T211337Z">
-        <seg>Quando aggiungete un singolo campo di controllo, il campo e la sua etichetta devono essere associati esplicitamente (vedete “&lt;bf0&gt;Impostazioni predefinite per più campi di controllo&lt;/bf0&gt;” &lt;f1&gt;a pagina &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;70&lt;/bf3&gt;&lt;/f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211648Z" creationid="Marco Marega" creationdate="20171213T211337Z">
+        <seg>Quando aggiungete un singolo campo di controllo, il campo e la sua etichetta devono essere associati esplicitamente (vedete “&lt;bf0&gt;Impostazioni predefinite per vari campi di controllo&lt;/bf0&gt;” &lt;f1&gt;a pagina &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;70&lt;/bf3&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
