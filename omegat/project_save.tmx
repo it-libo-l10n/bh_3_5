@@ -1584,8 +1584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If we now switch back to SQL View, we see that all fields are now shown in double quotes: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Table _name"."Field_name"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172934Z" creationid="Manuel Frassinetti" creationdate="20171204T172934Z">
-        <seg>&lt;f0&gt;Se adesso torniamo alla vista SQL, vedremo che tutto i campi ora sono mostrati tra virgolette doppie: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Tabella_nome"."Campo_nome"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172433Z" creationid="Manuel Frassinetti" creationdate="20171204T172934Z">
+        <seg>&lt;f0&gt;Se adesso torniamo alla vista SQL, vedremo che tutti i campi ora sono mostrati tra virgolette doppie: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"tabella_nome"."campo_nome"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,7 +2600,7 @@
       <tuv lang="EN">
         <seg>After all, fields in different tables can easily have the same field names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173616Z" creationid="Manuel Frassinetti" creationdate="20171204T173616Z">
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172546Z" creationid="Manuel Frassinetti" creationdate="20171204T173616Z">
         <seg>Dopotutto, i campi in tabelle diverse possono facilmente avere lo stesso nome di campo.</seg>
       </tuv>
     </tu>
@@ -8448,8 +8448,8 @@
       <tuv lang="EN">
         <seg>The table definition in the WHERE Formula is also superfluous, because stockID only occurs once (in the Dispatch table) and ID was clearly taken from the Stock table (from the position of the table in the query).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T180850Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
-        <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché lo magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella ricerca).</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172634Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
+        <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché il magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella ricerca).</seg>
       </tuv>
     </tu>
     <tu>
