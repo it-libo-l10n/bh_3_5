@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When a field is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associated with a function, &lt;/f3&gt;&lt;f4&gt;the number of rows in the query output is determined by the search conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181031Z" creationid="Manuel Frassinetti" creationdate="20171214T181031Z">
+        <seg>&lt;f0&gt;Quando un campo non &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;è&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associato con una funzione, &lt;/f3&gt;&lt;f4&gt;il numero di righe restituite nella ricerca è determinato dalle condizioni di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When loadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: Only when opening the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201110Z" creationid="Marco Marega" creationdate="20171015T201110Z">
@@ -5238,10 +5246,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there is grouping, the number of rows matches the number of distinct values that the &lt;/f4&gt;&lt;f5&gt;grouping &lt;/f5&gt;&lt;f6&gt;field &lt;/f6&gt;&lt;f7&gt;has&lt;/f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181723Z" creationid="Manuel Frassinetti" creationdate="20171214T181723Z">
+        <seg>Se è presente un raggruppamento, il numero di righe corrisponde al numero di valori distinti del &lt;/f4&gt;&lt;f5&gt;campo &lt;/f5&gt;&lt;f6&gt;di &lt;/f6&gt;&lt;f7&gt;raggruppamento&lt;/f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is no entry, the field will be NULL and not 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204843Z" creationid="Marco Marega" creationdate="20171026T204843Z">
         <seg>Se non viene inserito nulla, il campo sarà ZERO e non 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there is no grouping, there is only one row in the query output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181853Z" creationid="Manuel Frassinetti" creationdate="20171214T181400Z">
+        <seg>Se non è presente un raggruppamento, è restituito come risultato della ricerca una sola riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9546,6 +9570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T172937Z" creationid="Manuel Frassinetti" creationdate="20171130T172937Z">
         <seg>Quando &lt;/f3&gt;&lt;f4&gt;usate &lt;/f4&gt;&lt;f5&gt;questo campo designato con il &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;carattere jolly  *&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; per tutti i campi, la richiesta diventa indistinguibile dalla tabella.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a field is associated with a function, the number of rows in the query output is determined by whether there is any grouping or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181244Z" creationid="Manuel Frassinetti" creationdate="20171214T181244Z">
+        <seg>Quando un campo è associato con una funziona, il numero di righe restituite nella ricerca è determinato da un eventuale presenza o meno di un raggruppamento.</seg>
       </tuv>
     </tu>
     <tu>
