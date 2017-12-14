@@ -3520,8 +3520,8 @@
       <tuv lang="EN">
         <seg>Creating queries using the &lt;f0&gt;Query Design dialog&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162645Z" creationid="Manuel Frassinetti" creationdate="20171125T172333Z">
-        <seg>Creare ricerche utilizzando il &lt;f0&gt;dialogo struttura ricerca&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T163902Z" creationid="Manuel Frassinetti" creationdate="20171125T172333Z">
+        <seg>Creare ricerche utilizzando la &lt;f0&gt;finestra dialogo struttura ricerca&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3928,8 +3928,8 @@
       <tuv lang="EN">
         <seg>Either method&lt;/f6&gt; add&lt;f7&gt;s&lt;/f7&gt; &lt;f8&gt;t&lt;/f8&gt;&lt;f9&gt;he table&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;to the graphical area of the &lt;f11&gt;Q&lt;/f11&gt;uery &lt;f12&gt;Design dialog&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164158Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
-        <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164134Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
+        <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata della finestra di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5464,8 +5464,8 @@
       <tuv lang="EN">
         <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180834Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
-        <seg>In altri casi può accadere che vengano visualizzati esattamente quei record che si desidera escludere.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164339Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
+        <seg>In altri casi può accadere che vengano visualizzati esattamente quei record di dati che si desidera escludere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8000,8 +8000,8 @@
       <tuv lang="EN">
         <seg>The format is &lt;f5&gt;Table_name.Field_name&lt;/f5&gt; – which is why all field names here begin with the word &lt;f6&gt;Loan&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T113828Z" creationid="Manuel Frassinetti" creationdate="20171129T113828Z">
-        <seg>Il formato è &lt;f5&gt;nome_Tabella.nome_Campo&lt;/f5&gt; – ecco perché tutti i nomi dei campi qui iniziano con la parola &lt;f6&gt;Prestito&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164239Z" creationid="Manuel Frassinetti" creationdate="20171129T113828Z">
+        <seg>Il formato è &lt;f5&gt;nome_tabella.nome_campo&lt;/f5&gt; – ecco perché tutti i nomi dei campi qui iniziano con la parola &lt;f6&gt;Prestito&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
