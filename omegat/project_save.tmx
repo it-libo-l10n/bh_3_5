@@ -5974,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will show only the records for which the field is empty, where “empty” stands for the SQL designation NULL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T230531Z" creationid="Marco Marega" creationdate="20171214T230531Z">
+        <seg>Questo visualizzerà solo i record nei quali il campo è vuoto, indicato con “nullo” che in SQL è equivalente a NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It would be expected to refer to the closing of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201430Z" creationid="Marco Marega" creationdate="20171015T201430Z">
