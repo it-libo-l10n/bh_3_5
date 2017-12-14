@@ -5206,6 +5206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If only certain field&lt;f0&gt;s&lt;/f0&gt; should be visible during use, you can use several different table controls in &lt;f1&gt;the&lt;/f1&gt; form, as the &lt;f2&gt;&lt;f3&gt;T&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;ab&lt;/f4&gt; is captured by default by each table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224539Z" creationid="Marco Marega" creationdate="20171214T224539Z">
+        <seg>Se durante l'uso dovrebbero essere visibili solo determinati &lt;f0&gt;campi&lt;/f0&gt;, potete usare all'intero del formulario più campi di controllo &lt;f1&gt;tabella&lt;/f1&gt;, in quanto lo spostamento con il tasto &lt;f2&gt;&lt;f3&gt;Tab&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt; in maniera predefinita viene catturato da ciascun campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Count&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; function had been assigned to the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Return_&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;D&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;ate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; instead of the ID, every &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Reader_ID&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; would have '0' media on loan, since &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Return_date&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; is predefined as NULL.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174904Z" creationid="Manuel Frassinetti" creationdate="20171214T174904Z">
