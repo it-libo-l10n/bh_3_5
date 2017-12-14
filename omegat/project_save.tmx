@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you tab into a table control, the cursor will move one field to the right for each additional tab; at the end of the line, it will move back to the first field of the next record in the table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223757Z" creationid="Marco Marega" creationdate="20171214T223757Z">
+        <seg>Se usate il tasto tab in un campo di controllo tabella, il cursore si sposterà di un campo a destra ogni volta che premete il tasto tab; alla fine della riga, si posizionerà di nuovo nel primo campo del record successivo nel campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use the Select icon (Fig&lt;f0&gt;ure&lt;/f0&gt; &lt;t1&gt;24&lt;/t1&gt;) to select a large region or several elements of a form, the following modifications may be carried out (see Fig&lt;f2&gt;ure&lt;/f2&gt; &lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193157Z" creationid="Marco Marega" creationdate="20171210T193157Z">
@@ -8398,6 +8406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The order of the columns can be changed by dragging the column header:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223908Z" creationid="Marco Marega" creationdate="20171214T223908Z">
+        <seg>L'ordine delle colonne può essere modificato trascinando l'intestazione di una colonna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The page has also been given a uniformly colored background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202313Z" creationid="Marco Marega" creationdate="20171210T202313Z">
@@ -9234,6 +9250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131148Z" creationid="Marina Latini" creationdate="20171207T111258Z">
         <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f4&gt;F1&lt;/f4&gt; oppure selezionate &lt;f5&gt;Guida di LibreOffice&lt;/f5&gt; dal menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To exit the table control, use &lt;/f4&gt;&lt;f5&gt;Ctrl+Tab&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223820Z" creationid="Marco Marega" creationdate="20171214T223820Z">
+        <seg>Per uscire dal campo di controllo tabella, premete &lt;/f4&gt;&lt;f5&gt;Ctrl+Tab&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
