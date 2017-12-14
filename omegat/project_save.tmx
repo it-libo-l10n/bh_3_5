@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A temporary change in order can be carried out during data entry by using the same method.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224315Z" creationid="Marco Marega" creationdate="20171214T224315Z">
+        <seg>Mentre si inseriscono i dati è invece possibile modificare l'ordine solo temporaneamente utilizzando lo stesso metodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A test run of a query is always useful before saving it, to clarify for the user whether the query actually achieves its goal.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180657Z" creationid="Manuel Frassinetti" creationdate="20171130T180657Z">
@@ -5298,6 +5306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202608Z" creationid="Marco Marega" creationdate="20171015T202608Z">
         <seg>Se questo evento non viene intercettato, al caricamento del formulario seguirà la richiesta del parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this is done in form design view, it is permanent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223959Z" creationid="Marco Marega" creationdate="20171214T223959Z">
+        <seg>Se ciò viene fatto in visualizzazione struttura, la modifica sarà permanente.</seg>
       </tuv>
     </tu>
     <tu>
