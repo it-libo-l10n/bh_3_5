@@ -4278,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: A &lt;f1&gt;f&lt;/f1&gt;orm with multiple table controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224936Z" creationid="Marco Marega" creationdate="20171214T224936Z">
+        <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: Un &lt;f1&gt;formulario&lt;/f1&gt; con più campi di controllo tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -5690,6 +5698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212129Z" creationid="Marco Marega" creationdate="20171126T212129Z">
         <seg>Nell'esempio sopra riportato, i pulsanti di scelta sostituiscono una casella di riepilogo di due elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the upper table control, the same medium sometimes occurs more than once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225137Z" creationid="Marco Marega" creationdate="20171214T225137Z">
+        <seg>Nel campo di controllo tabella in alto, in certi casi lo stesso supporto può apparire più di una sola volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8978,6 +8994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213550Z" creationid="Marco Marega" creationdate="20171213T213550Z">
         <seg>Questo vale anche in seguito, quando si tenterà di accedere ai comandi di campo usando delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This figure shows an aesthetic failing &lt;f0&gt;t&lt;/f0&gt;h&lt;f1&gt;at&lt;/f1&gt; needs urgent attention.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225030Z" creationid="Marco Marega" creationdate="20171214T225030Z">
+        <seg>La figura mostra un errore estetico &lt;f0&gt;&lt;/f0&gt;che &lt;f1&gt;&lt;/f1&gt;richiede urgentemente attenzione.</seg>
       </tuv>
     </tu>
     <tu>
