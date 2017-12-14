@@ -952,8 +952,8 @@
       <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;f14&gt;Figure&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; also contains an extra line for the entry of &lt;/f18&gt;&lt;f19&gt;a &lt;/f19&gt;&lt;f20&gt;new record, with the ID field already marked as &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165636Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
-        <seg>&lt;/f13&gt;&lt;f14&gt;Figura&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; contiene anche una riga in più per l'inserimento di &lt;/f18&gt;&lt;f19&gt;un &lt;/f19&gt;&lt;f20&gt;nuovo record di dati, con il campo ID già marcato come &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;Campo automatico&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T170432Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Figura&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; contiene anche una riga in più per l'inserimento di &lt;/f18&gt;&lt;f19&gt;un &lt;/f19&gt;&lt;f20&gt;nuovo record di dati, con il campo ID già marcato come &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;campo automatico&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
       </tuv>
     </tu>
     <tu>
