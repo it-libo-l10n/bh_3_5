@@ -8118,6 +8118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filtering is carried out using the button with the three dots, which opens the dialog shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225818Z" creationid="Marco Marega" creationdate="20171214T225818Z">
+        <seg>Il filtro viene applicato usando il pulsante con tre puntini, che fa apparire la finestra di dialogo mostrata di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first five fields of the Loan table are selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T173018Z" creationid="Manuel Frassinetti" creationdate="20171130T173018Z">
@@ -9598,6 +9606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;GUI&lt;/f0&gt;, you can now select the field named &lt;f1&gt;Return_Date&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T230044Z" creationid="Marco Marega" creationdate="20171214T230044Z">
+        <seg>Usando l'&lt;f0&gt;interfaccia grafica&lt;/f0&gt;, ora potete selezionare il campo di nome &lt;f1&gt;Return_Date&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the context menu of the label field, a form was created that was linked to the Loans table (see “&lt;bf0&gt;Form properties&lt;/bf0&gt;” &lt;f1&gt;on page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;66&lt;/bf3&gt;&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202214Z" creationid="Marco Marega" creationdate="20171210T202214Z">
@@ -10018,6 +10034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
         <seg>Campo con valore Si o No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also enter the filter directly into the &lt;f0&gt;Filter&lt;/f0&gt; text field if you know the SQL coding.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225921Z" creationid="Marco Marega" creationdate="20171214T225921Z">
+        <seg>Se conoscete il codice SQL potete anche inserire direttamente i comandi nel campo testuale &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
