@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For a&lt;/f0&gt;n explanation of the functions, &lt;f1&gt;see&lt;/f1&gt; &lt;f2&gt;“&lt;/f2&gt;&lt;bf3&gt;Query enhancement using SQL Mode&lt;/bf3&gt;“ &lt;f4&gt;on page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;134&lt;/bf6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175354Z" creationid="Manuel Frassinetti" creationdate="20171214T175354Z">
+        <seg>&lt;f0&gt;Per una&lt;/f0&gt; spiegazione delle funzioni, &lt;f1&gt;vedete&lt;/f1&gt; &lt;f2&gt;“&lt;/f2&gt;&lt;bf3&gt;Ricerche avanzate usando la modalità SQL&lt;/bf3&gt;“ &lt;f4&gt; a pagina &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;134&lt;/bf6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ID&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; table, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Count&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; function is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175625Z" creationid="Manuel Frassinetti" creationdate="20171209T175625Z">
@@ -2706,6 +2714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170452Z" creationid="Marina Latini" creationdate="20171207T170452Z">
         <seg>In alternativa, è possibile usufruire di servizi di supporto a pagamento&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Altogether the graphical user interface provides the following functions, which correspond to functions in the underlying HSQLDB.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175138Z" creationid="Manuel Frassinetti" creationdate="20171214T175138Z">
+        <seg>Complessivamente l'interfaccia grafica utente fornisce le seguenti funzioni, che corrispondono alle funzioni nel sottostante HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,6 +5154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193821Z" creationid="Marco Marega" creationdate="20171212T193821Z">
         <seg>Se necessario, la selezione tramite tabulatore può essere regolata &lt;f0&gt;usando&lt;/f0&gt; la sequenza di attivazione (vedete a pagina &lt;bf1&gt;70&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If one field in a query is &lt;f0&gt;associated with&lt;/f0&gt; a function, all the remaining fields mentioned in the query must also be associated with functions if they are to be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175747Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
+        <seg>Se un campo in una ricerca è &lt;f0&gt;associato con&lt;/f0&gt; una funzione, tutti i campi rimanenti menzionati nella ricerca devono essere associati alle funzioni se anche devono essere visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,6 +7866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213646Z" creationid="Marco Marega" creationdate="20171213T213646Z">
         <seg>I campo di controllo all'interno del campo di controllo tabella vengono definiti colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corresponding Formula in SQL code is shown above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175208Z" creationid="Manuel Frassinetti" creationdate="20171214T174958Z">
+        <seg>La formula corrispondente in codice SQL è stata mostrata in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
