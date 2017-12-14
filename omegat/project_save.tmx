@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;When using Design View Mode, a field is only visible if the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Visible&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; row contains a check mark for the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180713Z" creationid="Manuel Frassinetti" creationdate="20171214T180713Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando si usa la modalità vista struttura, un campo è visibile solo se la riga &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Visibile&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; contiene una marcatura per il campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When working in Design View Mode, use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;IS EMPTY&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to require a field be empty.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170102Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
@@ -2466,6 +2474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T200958Z" creationid="Marco Marega" creationdate="20171210T200958Z">
         <seg>Un formulario semplice contiene i campi di controllo necessari a scrivere o leggere dei record di dati in una singola tabella o ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A somewhat free translation would be: The following expression contains no aggregate function or grouping.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180355Z" creationid="Manuel Frassinetti" creationdate="20171214T180355Z">
+        <seg>Una traduzione un po' libera sarebbe: la seguente espressione non contiene alcuna funzione o raggruppamento aggregato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5160,8 +5176,8 @@
       <tuv lang="EN">
         <seg>If one field in a query is &lt;f0&gt;associated with&lt;/f0&gt; a function, all the remaining fields mentioned in the query must also be associated with functions if they are to be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175747Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
-        <seg>Se un campo in una ricerca è &lt;f0&gt;associato con&lt;/f0&gt; una funzione, tutti i campi rimanenti menzionati nella ricerca devono essere associati alle funzioni se anche devono essere visualizzati.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180147Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
+        <seg>Se un campo in una ricerca è &lt;f0&gt;associato con&lt;/f0&gt; una funzione, tutti i campi rimanenti menzionati nella ricerca devono essere associati alle funzioni anche se devono essere visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202608Z" creationid="Marco Marega" creationdate="20171015T202608Z">
         <seg>Se questo evento non viene intercettato, al caricamento del formulario seguirà la richiesta del parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this is not ensured, you get the following error message:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180133Z" creationid="Manuel Frassinetti" creationdate="20171214T180133Z">
+        <seg>Se questo non è garantito, si ottiene il seguente messaggio di errore:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9594,6 +9618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202544Z" creationid="Marco Marega" creationdate="20171026T202544Z">
         <seg>Se questo valore è 0, l'inserimento non consentito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using SQL Mode, a field is only visible when it &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;follows&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;the keyword, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;SELECT.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180843Z" creationid="Manuel Frassinetti" creationdate="20171214T180843Z">
+        <seg>Quando si usa la modalità SQL, un campo è visibile solo quando questi  &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;segue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;la parola, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;SELECT.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
