@@ -6710,6 +6710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the fields immediately necessary are shown in the upper table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224734Z" creationid="Marco Marega" creationdate="20171214T224734Z">
+        <seg>Nel campo di controllo tabella della parte superiore vengono mostrati solo i campi immediatamente necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only when creating list boxes does the Wizard come into play, making it easier for a novice to carry out the steps for creating correct fields—&lt;f0&gt;u&lt;/f0&gt;p to a point.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210620Z" creationid="Marco Marega" creationdate="20171213T210552Z">
@@ -8150,6 +8158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form shown in &lt;f0&gt;Figure&lt;/f0&gt; &lt;t1&gt;36&lt;/t1&gt; is for the loan of media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224638Z" creationid="Marco Marega" creationdate="20171214T224638Z">
+        <seg>Il formulario mostrato nella &lt;f0&gt;Figura&lt;/f0&gt; &lt;t1&gt;36&lt;/t1&gt; è usato per i prestiti dei supporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The format is &lt;f5&gt;Table_name.Field_name&lt;/f5&gt; – which is why all field names here begin with the word &lt;f6&gt;Loan&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164239Z" creationid="Manuel Frassinetti" creationdate="20171129T113828Z">
@@ -8346,6 +8362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215444Z" creationid="Marco Marega" creationdate="20171029T215444Z">
         <seg>Il campo della lista diventa quindi automaticamente un campo multi-linea, nel quale il valore correntemente selezionato viene evidenziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The lower one shows all the fields, so that it is apparent which person and medium the return is for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
+        <seg>Quello in basso mostra invece tutti i campi, in modo che sia evidente a quale persona e a quale supporto si riferisce il reso.</seg>
       </tuv>
     </tu>
     <tu>
