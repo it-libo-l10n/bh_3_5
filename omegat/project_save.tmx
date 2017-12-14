@@ -4334,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filtering using a query is described in &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;5,&lt;/f1&gt; Queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225641Z" creationid="Marco Marega" creationdate="20171214T225641Z">
+        <seg>Il filtro con l'uso di una ricerca è descritto nel &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating-point numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100014Z" creationid="Marina Latini" creationdate="20171207T100014Z">
@@ -4886,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here we describe how to do it using form properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225718Z" creationid="Marco Marega" creationdate="20171214T225718Z">
+        <seg>Qui viene descritto come farlo usando le proprietà del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we shall explain the direct creation of queries&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;D&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esign &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;V&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;iew.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162804Z" creationid="Manuel Frassinetti" creationdate="20171125T173748Z">
@@ -5154,6 +5170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T160336Z" creationid="Manuel Frassinetti" creationdate="20171206T160336Z">
         <seg>Se invece volete ordinare prima per &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"data di prestito"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e poi per "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Prestito"."Lettore_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, che può essere fatto se:&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is done using the form properties, the filter can be temporarily switched off during input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225546Z" creationid="Marco Marega" creationdate="20171214T225546Z">
+        <seg>Se viene effettuato usando le proprietà del formulario, durante l'inserimento dei dati il filtro può essere temporaneamente disattivato.</seg>
       </tuv>
     </tu>
     <tu>
