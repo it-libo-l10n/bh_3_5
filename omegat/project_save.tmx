@@ -7054,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Records with a return date should not appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225341Z" creationid="Marco Marega" creationdate="20171214T225341Z">
+        <seg>I record contenenti una data di restituzione non devono comparire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Registration of databases</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154743Z" creationid="Marina Latini" creationdate="20171206T154743Z">
@@ -8790,6 +8798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore the data needs to be filtered to show only the loans.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225244Z" creationid="Marco Marega" creationdate="20171214T225244Z">
+        <seg>Perciò i dati devono essere filtrati in modo da visualizzare solo i prestiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore the following example shows both the table linked to the form and the one selected for the control as the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221547Z" creationid="Marco Marega" creationdate="20171102T221547Z">
@@ -9006,6 +9022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This filtering is possible either by a query or directly using the form properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225449Z" creationid="Marco Marega" creationdate="20171214T225449Z">
+        <seg>E' possibile applicare il filtro sia con una ricerca, che direttamente usando le proprietà del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This form is based on the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210425Z" creationid="Marco Marega" creationdate="20171126T210425Z">
@@ -9042,6 +9066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
         <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This happens because the table also shows media that have been returned earlier.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225216Z" creationid="Marco Marega" creationdate="20171214T225216Z">
+        <seg>Questo accade perché la tabella visualizza anche i supporti che sono già stati restituiti in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
