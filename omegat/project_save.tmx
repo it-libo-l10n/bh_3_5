@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174512Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
+        <seg>&lt;f0&gt;Il risultato della ricerca mostra che il  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' ha un totale di 3 supporti in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The selected field designation &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan.*&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; has a special meaning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115040Z" creationid="Manuel Frassinetti" creationdate="20171129T114859Z">
@@ -2194,6 +2202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135634Z" creationid="Marco Marega" creationdate="20171014T135634Z">
         <seg>&lt;f1&gt;Potete cambiare &lt;/f1&gt;questo nome immediatamente o in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;(Below, the SQL for this is &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;WHERE “Return_Date” IS NULL&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.)&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174345Z" creationid="Manuel Frassinetti" creationdate="20171214T174345Z">
+        <seg>&lt;f2&gt;(Di seguito, il comando SQL per questo è &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;WHERE “Rientro_Data” IS NULL&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.)&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095838Z" creationid="Marina Latini" creationdate="20171207T095838Z">
         <seg>Appendice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a search criterion, the Return_&lt;f0&gt;D&lt;/f0&gt;ate is set to “IS &lt;f1&gt;EMPTY&lt;/f1&gt;”, as in the previous example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174239Z" creationid="Manuel Frassinetti" creationdate="20171214T173940Z">
+        <seg>Come un criterio di ricerca, il Rientro_&lt;f0&gt;Data&lt;/f0&gt; è configurato a “È  &lt;f1&gt;VUOTO&lt;/f1&gt;”, come nel precedente esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193821Z" creationid="Marco Marega" creationdate="20171212T193821Z">
         <seg>Se necessario, la selezione tramite tabulatore può essere regolata &lt;f0&gt;usando&lt;/f0&gt; la sequenza di attivazione (vedete a pagina &lt;bf1&gt;70&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Count&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; function had been assigned to the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Return_&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;D&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;ate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; instead of the ID, every &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Reader_ID&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; would have '0' media on loan, since &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Return_date&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; is predefined as NULL.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174904Z" creationid="Manuel Frassinetti" creationdate="20171214T174904Z">
+        <seg>Se la funzione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Conteggio&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fosse stata assegnata a  &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Rientro_&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Data&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; invece di ID, ciascun &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Lettore_ID&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; avrebbe avuto '0' supporti in prestito, dal momento che &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Rientro_data&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; è predefinito come NULL.&lt;/f19&gt;</seg>
       </tuv>
     </tu>
     <tu>
