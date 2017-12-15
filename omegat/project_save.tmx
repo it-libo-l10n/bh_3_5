@@ -5030,6 +5030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However its data source can be another table or a query (or a SQL command).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210003Z" creationid="Marco Marega" creationdate="20171215T210003Z">
+        <seg>Anche se la sua sorgente di dati può essere un'altra tabella o una ricerca (o un comando SQL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However no query can be created without at least one table, so a &lt;f5&gt;selection&lt;/f5&gt; must be made at the beginning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T110043Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
@@ -6130,6 +6138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205954Z" creationid="Marco Marega" creationdate="20171015T205954Z">
         <seg>Come un pulsante, ma con sopra raffigurata un'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like a form control, it is bound to data from the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205903Z" creationid="Marco Marega" creationdate="20171215T205903Z">
+        <seg>Come un campo di controllo collegato ai dati del formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,6 +8402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191905Z" creationid="Marco Marega" creationdate="20171125T191905Z">
         <seg>L'immagine non è distorta.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The important thing for a subform is that its data source is somehow linked to the data source of the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210108Z" creationid="Marco Marega" creationdate="20171215T210108Z">
+        <seg>La cosa importante di un formulario secondario è che la sua sorgente dei dati è in qualche modo collegata alla sorgente dei dati del formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
