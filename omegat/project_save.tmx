@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A right&lt;f0&gt;-&lt;/f0&gt;click on the record header of an existing record causes it to be deleted, and an entry can be canceled or saved in the case of new records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T204651Z" creationid="Marco Marega" creationdate="20171215T204651Z">
+        <seg>Un clic con il pulsante destro del mouse &lt;f0&gt;&lt;/f0&gt; sopra all'intestazione di un record esistente consente di cancellarlo, mentre, nel caso di un nuovo record, l'inserimento può essere cancellato o salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
@@ -8594,6 +8602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213642Z" creationid="Marco Marega" creationdate="20171029T213642Z">
         <seg>La chiave primaria &lt;f3&gt;ID&lt;/f3&gt; della tabella Reader &lt;f4&gt;deve essere&lt;/f4&gt; collegata a questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The processing of data using table controls is similar to using an actual table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T203836Z" creationid="Marco Marega" creationdate="20171215T203836Z">
+        <seg>La modifica dei dati usando un campo di controllo tabella è simile a farlo usando una vera tabella.</seg>
       </tuv>
     </tu>
     <tu>
