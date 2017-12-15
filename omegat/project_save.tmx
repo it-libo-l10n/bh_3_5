@@ -4366,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First we will use the relationship of the Reader table t&lt;f0&gt;o the &lt;/f0&gt;Loan table (see &lt;f1&gt;Chapter 3, &lt;/f1&gt;Tables).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210652Z" creationid="Marco Marega" creationdate="20171215T210652Z">
+        <seg>Per prima cosa verrà usata la relazione della tabella Reader &lt;f0&gt;con la tabella &lt;/f0&gt;Loan (vedete il &lt;f1&gt;Capitolo 3, &lt;/f1&gt;Tabelle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating-point numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100014Z" creationid="Marina Latini" creationdate="20171207T100014Z">
