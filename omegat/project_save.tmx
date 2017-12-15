@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the main form is linked to the Reader &lt;f0&gt;table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210848Z" creationid="Marco Marega" creationdate="20171215T210848Z">
+        <seg>In questo caso il formulario principale è collegato alla tabella &lt;f0&gt;Reader&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
@@ -7942,6 +7950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Reader table will form&lt;f2&gt; the ba&lt;/f2&gt;sis for the main form and &lt;f3&gt;the &lt;/f3&gt;Loan table will be repro&lt;f4&gt;duced in &lt;/f4&gt;the sub‑form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210755Z" creationid="Marco Marega" creationdate="20171215T210755Z">
+        <seg>La tabella Reader costituirà &lt;f2&gt; la base&lt;/f2&gt; per il formulario principale, mentre &lt;f3&gt;la tabella &lt;/f3&gt;Loan sarà &lt;f4&gt;riprodotta &lt;/f4&gt;nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Reader_ID has become superfluous.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164522Z" creationid="Manuel Frassinetti" creationdate="20171202T164522Z">
@@ -9566,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To speed up the search for readers, the table is sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210923Z" creationid="Marco Marega" creationdate="20171215T210923Z">
+        <seg>Per accelerare la ricerca dei lettori, la tabella è ordinata alfabeticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start, check out this webpage: &lt;a0&gt;http://www.documentfoundation.org/contribution/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145410Z" creationid="Marina Latini" creationdate="20171213T145410Z">
@@ -9858,6 +9882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231848Z" creationid="Marco Marega" creationdate="20171102T223930Z">
         <seg>Si desidera leggere i nomi dati dalla tabella Reader e anche renderli disponibili per nuovi lettori, in modo che non sia necessario creare nuovi record per un determinato nome che già esiste nel database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will do without a navigation bar, since the content of the subform would come between the main form and the navigation bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211139Z" creationid="Marco Marega" creationdate="20171215T211139Z">
+        <seg>Non è prevista una barra di navigazione, in quanto il contenuto del formulario secondario sarà visibile tra il formulario principale e la barra di navigazione.</seg>
       </tuv>
     </tu>
     <tu>
