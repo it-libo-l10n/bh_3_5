@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure&lt;/f0&gt; &lt;seq1&gt;37&lt;/seq1&gt;: Amended form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T204836Z" creationid="Marco Marega" creationdate="20171215T204836Z">
+        <seg>&lt;f0&gt;Figura&lt;/f0&gt; &lt;seq1&gt;37&lt;/seq1&gt;: il Formulario con le correzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fill parameters: &lt;/f0&gt;This macro will be run if a parameter query is to be invoked in a subform, but for some reason the parameter is not correctly transmitted from the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202459Z" creationid="Marco Marega" creationdate="20171015T202459Z">
@@ -9890,6 +9898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114100Z" creationid="Marina Latini" creationdate="20171213T114100Z">
         <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you leave a line, the record is automatically saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T204731Z" creationid="Marco Marega" creationdate="20171215T204731Z">
+        <seg>Quando abbandonate una riga, il record viene salvato automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
