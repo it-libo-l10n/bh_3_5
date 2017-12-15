@@ -5854,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead we will use the built-in form control (&lt;f1&gt;Figure&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211324Z" creationid="Marco Marega" creationdate="20171215T211324Z">
+        <seg>Al suo posto viene usato il campo di controllo incorporato (&lt;f1&gt;Figura&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095948Z" creationid="Marina Latini" creationdate="20171207T095948Z">
