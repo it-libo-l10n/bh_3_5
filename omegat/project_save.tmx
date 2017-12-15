@@ -2526,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A subform lies within a form like a form control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205817Z" creationid="Marco Marega" creationdate="20171215T205817Z">
+        <seg>Un formulario secondario viene posizionato all'interno di un formulario come se fosse un campo di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A temporary change in order can be carried out during data entry by using the same method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224315Z" creationid="Marco Marega" creationdate="20171214T224315Z">
@@ -7578,6 +7586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
         <seg>Sottoricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such solutions are available using further forms that are hierarchically arranged and make possible separate views of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205704Z" creationid="Marco Marega" creationdate="20171215T205704Z">
+        <seg>Una soluzione simile è possibile utilizzando ulteriori formulari, che siano organizzati gerarchicamente e che consentano di visualizzare i dati separatamente.</seg>
       </tuv>
     </tu>
     <tu>
