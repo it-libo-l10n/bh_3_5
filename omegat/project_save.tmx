@@ -5032,8 +5032,8 @@
       <tuv lang="EN">
         <seg>However its data source can be another table or a query (or a SQL command).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210003Z" creationid="Marco Marega" creationdate="20171215T210003Z">
-        <seg>Anche se la sua sorgente di dati può essere un'altra tabella o una ricerca (o un comando SQL).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210111Z" creationid="Marco Marega" creationdate="20171215T210003Z">
+        <seg>Anche se la sua sorgente dei dati può essere un'altra tabella o una ricerca (o un comando SQL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8526,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main form shows a table with records to which many dependent records in the subform can be linked and displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210548Z" creationid="Marco Marega" creationdate="20171215T210548Z">
+        <seg>Il formulario principale visualizza una tabella con i record in dipendenza dei quali è possibile collegare e visualizzare molti record nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name of a control must be unique within the form&lt;f0&gt;—&lt;/f0&gt;used for access using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
@@ -9578,6 +9586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162641Z" creationid="Marina Latini" creationdate="20171205T162641Z">
         <seg>Barre degli strumenti per la progettazione del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typical table structures that lend themselves to use &lt;f0&gt;as &lt;/f0&gt;subforms are tables with a one-to-many relationship (see &lt;f1&gt;Chapter 3,&lt;/f1&gt; Tables).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210304Z" creationid="Marco Marega" creationdate="20171215T210304Z">
+        <seg>La tipica struttura di tabella che porta a usarle &lt;f0&gt;come &lt;/f0&gt;formulari secondari, sono le tabelle con delle relazioni uno a molti (vedete il &lt;f1&gt;Capitolo 3,&lt;/f1&gt; Tabelle).</seg>
       </tuv>
     </tu>
     <tu>
