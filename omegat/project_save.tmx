@@ -5742,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the table shown above, you can see a lot of records that are not necessary &lt;f0&gt;because&lt;/f0&gt; &lt;f1&gt;t&lt;/f1&gt;hese media are already on loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205402Z" creationid="Marco Marega" creationdate="20171215T205402Z">
+        <seg>Nella tabella visualizzata sopra, potete vedere molti record che non sarebbero necessari &lt;f0&gt;perché&lt;/f0&gt; &lt;f1&gt;questi&lt;/f1&gt; supporti sono già concessi in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the upper table control, the same medium sometimes occurs more than once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225137Z" creationid="Marco Marega" creationdate="20171214T225137Z">
@@ -8754,6 +8762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111238Z" creationid="Manuel Frassinetti" creationdate="20171202T111238Z">
         <seg>La tabella precedente mostra come gli alias sostituiscono i nomi dei campi effettivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table was created to allow loans to be made, so it would be better if only an empty page appeared, which could then be filled with the new loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205539Z" creationid="Marco Marega" creationdate="20171215T205539Z">
+        <seg>La tabella è stata creata per permettere di effettuare i prestiti, perciò sarebbe preferibile se apparisse solamente una pagina vuota, che possa poi essere compilata con i dati del nuovo prestito.</seg>
       </tuv>
     </tu>
     <tu>
