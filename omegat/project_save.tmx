@@ -6006,6 +6006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It would be nice if selecting a reader in one part of the form caused the media on loan to this reader to be displayed in another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205147Z" creationid="Marco Marega" creationdate="20171215T205147Z">
+        <seg>Sarebbe bello se, selezionando un lettore in una sezione del formulario, in un'altra parte venissero visualizzati i supporti in prestito a quel lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It would make finding individual elements using the &lt;f1&gt;F&lt;/f1&gt;orm &lt;f2&gt;N&lt;/f2&gt;avigator difficult, and management of the form by using named controls in macros impossible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193912Z" creationid="Marco Marega" creationdate="20171210T193616Z">
@@ -9746,6 +9754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214030Z" creationid="Marco Marega" creationdate="20171210T214030Z">
         <seg>Ora potete fare alcune cose creative, come regolare la lunghezza dei campi e rendere i campi data apribili a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We can still improve the &lt;f0&gt;Loan of M&lt;/f0&gt;edia form in a number of ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205009Z" creationid="Marco Marega" creationdate="20171215T205009Z">
+        <seg>È possibile migliorare ancora il formulario &lt;f0&gt;Loan of Media&lt;/f0&gt; (Prestito dei supporti) in diversi modi.</seg>
       </tuv>
     </tu>
     <tu>
