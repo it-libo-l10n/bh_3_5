@@ -6990,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the table controls have been set up, we need to carry out the modifications already discussed when creating the simpler form:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214222Z" creationid="Marco Marega" creationdate="20171216T214222Z">
+        <seg>Dopo che nella tabella avrete impostato i campi di controllo, dovrete effettuare le modifiche già discusse per la creazione del formulario semplice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One database is &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;named&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_without_macros.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; and the other, extended with the inclusion of macros, is &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;nam&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ed &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_with_macros.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T195831Z" creationid="osvaldo" creationdate="20171012T195831Z">
@@ -8152,8 +8160,8 @@
       <tuv lang="EN">
         <seg>The Form Creation Wizard solves this better by reading the relation from the relationship of the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213413Z" creationid="Marco Marega" creationdate="20171216T213413Z">
-        <seg>La Procedura guidata di creazione formulario risolve meglio questo problema andando a leggere il collegamento nelle relazioni del database.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213901Z" creationid="Marco Marega" creationdate="20171216T213413Z">
+        <seg>La Creazione guidata formulario risolve meglio questo problema andando a leggere il collegamento nelle relazioni del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9320,8 +9328,8 @@
       <tuv lang="EN">
         <seg>Then, if the Table Control Wizard is enabled, it will show the fields available in the main form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213851Z" creationid="Marco Marega" creationdate="20171216T213851Z">
-        <seg>Quindi, se è abilitata la Creazione guidata elemento tabella, it will show the fields available in the main form.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213940Z" creationid="Marco Marega" creationdate="20171216T213851Z">
+        <seg>Quindi, se è abilitata la Creazione guidata elemento tabella, verranno visualizzati i campi disponibili nel formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10322,6 +10330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205009Z" creationid="Marco Marega" creationdate="20171215T205009Z">
         <seg>È possibile migliorare ancora il formulario &lt;f0&gt;Loan of Media&lt;/f0&gt; (Prestito dei supporti) in diversi modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We deal with the subform in a similar way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214029Z" creationid="Marco Marega" creationdate="20171216T214029Z">
+        <seg>Nel formulario secondario il procedimento è simile.</seg>
       </tuv>
     </tu>
     <tu>
