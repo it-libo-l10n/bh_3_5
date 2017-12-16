@@ -6390,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limiting the minimum and maximum values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214646Z" creationid="Marco Marega" creationdate="20171216T214646Z">
+        <seg>Limitare i valori minimi e massimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line numbering</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163718Z" creationid="Marina Latini" creationdate="20171206T163718Z">
@@ -6626,6 +6634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204151Z" creationid="Marco Marega" creationdate="20171026T204151Z">
         <seg>Valore minimo per il campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying the numeric fields to a format without decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214403Z" creationid="Marco Marega" creationdate="20171216T214403Z">
+        <seg>Modificare i campi numerici per formattarli senza cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7466,6 +7482,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094631Z" creationid="Marina Latini" creationdate="20171207T094631Z">
         <seg>Rimuove gli elementi di distrazione dai formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Renaming the &lt;f0&gt;Media_ID&lt;/f0&gt; field &lt;f1&gt;Media&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214332Z" creationid="Marco Marega" creationdate="20171216T214332Z">
+        <seg>Rinominare il campo &lt;f0&gt;Media_ID&lt;/f0&gt; in &lt;f1&gt;Media&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replacing the numeric field &lt;f0&gt;Media_ID&lt;/f0&gt; in the subform with a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214412Z" creationid="Marco Marega" creationdate="20171216T214253Z">
+        <seg>Sostituire il campo numerico &lt;f0&gt;Media_ID&lt;/f0&gt; del formulario secondario con una casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
