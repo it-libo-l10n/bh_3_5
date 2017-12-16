@@ -9318,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then, if the Table Control Wizard is enabled, it will show the fields available in the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213851Z" creationid="Marco Marega" creationdate="20171216T213851Z">
+        <seg>Quindi, se è abilitata la Creazione guidata elemento tabella, it will show the fields available in the main form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then, on the stippled surface of the form, a text field appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182409Z" creationid="Marco Marega" creationdate="20171014T182130Z">
@@ -9946,6 +9954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170716Z" creationid="Marina Latini" creationdate="20171207T170716Z">
         <seg>Per usare le finestre di dialogo di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a table control for the main form, we must now select the main form in the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213712Z" creationid="Marco Marega" creationdate="20171216T213712Z">
+        <seg>Per creare un campo di controllo tabella nel formulario principale, dovete ora selezionare il formulario principale nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
