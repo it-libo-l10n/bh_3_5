@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If you wish to enter numbers with decimal places using the graphical user interface, you must ensure that a decimal point rather than a comma is used to separate the decimal places within the final SQL statement.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T160918Z" creationid="Manuel Frassinetti" creationdate="20171216T160918Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se desiderate inserire numeri con posizioni decimali attraverso l'interfaccia grafica utente, dovete assicurarvi che sia usato il punto decimale piuttosto che la virgola per separare le posizioni decimali all'interno dell'istruzione SQL finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
