@@ -5934,6 +5934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead of a field name, the field designation is given as &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Count&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(Recalls.Date)*2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T152554Z" creationid="Manuel Frassinetti" creationdate="20171216T152554Z">
+        <seg>Invece del nome di un campo, la designazione del campo è data come  &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;conteggio&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(Richiami.Data)*2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead we will use the built-in form control (&lt;f1&gt;Figure&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211324Z" creationid="Marco Marega" creationdate="20171215T211324Z">
