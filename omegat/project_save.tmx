@@ -8094,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;Reader_ID&lt;/f2&gt; from &lt;f3&gt;Loans&lt;/f3&gt; should be set as equivalent to the &lt;f4&gt;ID&lt;/f4&gt; from the R&lt;f5&gt;eader &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;table&lt;/f7&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212306Z" creationid="Marco Marega" creationdate="20171216T212306Z">
+        <seg>Il campo &lt;f2&gt;Reader_ID&lt;/f2&gt; della tabella &lt;f3&gt;Loan&lt;/f3&gt; deve essere impostato come equivalente al campo &lt;f4&gt;ID&lt;/f4&gt; della tabella &lt;f5&gt;Reader &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f4&gt;List content&lt;/f4&gt; field then shows them as &lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Value1&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;Value2&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;;&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;Value3&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; … &lt;/f22&gt;The &lt;f23&gt;Bound Field&lt;/f23&gt; property is &lt;f24&gt;inactive&lt;/f24&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205821Z" creationid="Marco Marega" creationdate="20171101T205821Z">
@@ -10018,6 +10026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210304Z" creationid="Marco Marega" creationdate="20171215T210304Z">
         <seg>La tipica struttura di tabella che porta a usarle &lt;f0&gt;come &lt;/f0&gt;formulari secondari, sono le tabelle con delle relazioni uno a molti (vedete il &lt;f1&gt;Capitolo 3,&lt;/f1&gt; Tabelle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Loans&lt;/f0&gt;, the fields in the Loans table are shown, under &lt;f1&gt;Readers&lt;/f1&gt; those of the Reader table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212125Z" creationid="Marco Marega" creationdate="20171216T212125Z">
+        <seg>Sotto a &lt;f0&gt;Loan&lt;/f0&gt;, sono visualizzati i campi della tabella Loan, sotto a &lt;f1&gt;Reader&lt;/f1&gt; quelli della tabella Reader.</seg>
       </tuv>
     </tu>
     <tu>
