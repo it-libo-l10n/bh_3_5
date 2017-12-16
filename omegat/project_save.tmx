@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the query shown above, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Recalls&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tables are queried jointly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151512Z" creationid="Manuel Frassinetti" creationdate="20171216T151512Z">
+        <seg>&lt;f0&gt;Nella ricerca mostrata sopra, le tabelle &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Richiami&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; sono richiamate congiuntamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170251Z" creationid="Marina Latini" creationdate="20171207T170251Z">
@@ -4694,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the &lt;/f6&gt;&lt;f7&gt;count&lt;/f7&gt;&lt;f8&gt; of the data entries in the table Recalls, the total number of recall notices is determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151716Z" creationid="Manuel Frassinetti" creationdate="20171216T151716Z">
+        <seg>Dal &lt;/f6&gt;&lt;f7&gt;conteggio&lt;/f7&gt;&lt;f8&gt; delle voci di dati nella tabella Richiami, viene determinato il numero totale di avvisi di richiamo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the tables available, &lt;f0&gt;select &lt;/f0&gt;the Loan table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091536Z" creationid="Manuel Frassinetti" creationdate="20171127T091536Z">
@@ -5066,6 +5082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142625Z" creationid="Marina Latini" creationdate="20171213T142625Z">
         <seg>Come riuscite a fare tutto questo gratis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do we calculate these fines?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151125Z" creationid="Manuel Frassinetti" creationdate="20171216T151125Z">
+        <seg>Come calcoliamo queste multe?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5834,6 +5858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115704Z" creationid="Manuel Frassinetti" creationdate="20171216T115704Z">
         <seg>In questo caso il campo &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Rientro_&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Data&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; è stato aggiunto come un campo da visualizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the issue of an overdue notice automatically means that a fine must be paid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151055Z" creationid="Manuel Frassinetti" creationdate="20171216T151055Z">
+        <seg>In questo caso il rilascio di un avviso scaduto significa automaticamente che deve essere pagata una multa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225818Z" creationid="Marco Marega" creationdate="20171214T225818Z">
         <seg>Il filtro viene applicato usando il pulsante con tre puntini, che fa apparire la finestra di dialogo mostrata di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fine for overdue &lt;/f8&gt;&lt;f9&gt;media&lt;/f9&gt;&lt;f10&gt; is set in the query to 2.00 €.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151920Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
+        <seg>La multa per il ritardo &lt;/f8&gt;&lt;f9&gt;medio&lt;/f9&gt;&lt;f10&gt; è impostato nella ricerca a € 2.00.</seg>
       </tuv>
     </tu>
     <tu>
