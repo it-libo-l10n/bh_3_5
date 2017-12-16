@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Instead of listing the media for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 0 separately, all the "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Recalls"."Date" fields have been &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;count&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;ed and the total of 8.00€ entered as the fine due.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164849Z" creationid="Manuel Frassinetti" creationdate="20171216T164849Z">
+        <seg>&lt;f0&gt;Invece di elencare i supporti per &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 0 separatamente, tutti i campi  "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Richiami"."Data" sono stati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;conteggiati&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; e il totale di 8.00 € inserito come ammenda dovuta.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170251Z" creationid="Marina Latini" creationdate="20171207T170251Z">
@@ -8408,8 +8416,8 @@
       <tuv lang="EN">
         <seg>The fine for overdue &lt;/f8&gt;&lt;f9&gt;media&lt;/f9&gt;&lt;f10&gt; is set in the query to 2.00 €.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151920Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
-        <seg>La multa per il ritardo &lt;/f8&gt;&lt;f9&gt;medio&lt;/f9&gt;&lt;f10&gt; è impostato nella ricerca a € 2.00.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164928Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
+        <seg>La multa per il ritardo &lt;/f8&gt;&lt;f9&gt;medio&lt;/f9&gt;&lt;f10&gt; è impostato nella ricerca a 2.00 €.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8970,6 +8978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101433Z" creationid="Manuel Frassinetti" creationdate="20171202T101433Z">
         <seg>I record di dati, in altre parole, sono modificabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result of the query looks like this:&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164329Z" creationid="Manuel Frassinetti" creationdate="20171216T164329Z">
+        <seg>Il risultato della ricerca è simile a questo:&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
