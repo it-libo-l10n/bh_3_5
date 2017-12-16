@@ -4214,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even the path from a main form to a subform is not navigable by the built-in search function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172943Z" creationid="Manuel Frassinetti" creationdate="20171216T172943Z">
+        <seg>Anche il percorso da un formulario principale a un sotto-formulario non è navigabile tramite la funzione di ricerca integrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even when a query can be further edited, it is not so easy to use as a form with list boxes, which show the readers’ &lt;s0/&gt;names but contain the Reader_ID from the table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172450Z" creationid="Manuel Frassinetti" creationdate="20171204T172450Z">
@@ -10234,6 +10242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T093327Z" creationid="Manuel Frassinetti" creationdate="20171127T093327Z">
         <seg>Quando tutte le tabelle necessarie sono state selezionate, &lt;f0&gt;fate clic&lt;/f0&gt; sul pulsante&lt;f1&gt;&lt;f2&gt;Chiudi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When data is searched for in tables or forms, the search is usually limited to one table or one form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172341Z" creationid="Manuel Frassinetti" creationdate="20171216T172341Z">
+        <seg>Quando i dati vengono cercati in tabelle o formulari, la ricerca è generalmente limitata a una tabella o a un formulario.</seg>
       </tuv>
     </tu>
     <tu>
