@@ -9238,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This field has no function associated with it and is not included in the grouping statement either.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T120654Z" creationid="Manuel Frassinetti" creationdate="20171216T120654Z">
+        <seg>Questo campo non ha alcuna funzione associata ad esso e non è incluso nella dichiarazione di raggruppamento.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This figure shows an aesthetic failing &lt;f0&gt;t&lt;/f0&gt;h&lt;f1&gt;at&lt;/f1&gt; needs urgent attention.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225030Z" creationid="Marco Marega" creationdate="20171214T225030Z">
