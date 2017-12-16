@@ -8486,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The graphical user interface adds the quotation marks and converts the term “&lt;/f15&gt;&lt;f16&gt;count&lt;/f16&gt;&lt;f17&gt;” into the appropriate SQL command.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T153540Z" creationid="Manuel Frassinetti" creationdate="20171216T153540Z">
+        <seg>L'interfaccia grafica utente aggiunge le virgolette e converte il termine“&lt;/f15&gt;&lt;f16&gt;conteggio&lt;/f16&gt;&lt;f17&gt;” nell'appropriato comando SQL.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The group box reacts to events involving the mouse, a key, or the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212646Z" creationid="Marco Marega" creationdate="20171126T212646Z">
