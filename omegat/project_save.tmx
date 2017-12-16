@@ -8398,6 +8398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The chosen link between the table for the subform and the table for the main form is now specified in terms of fields from the tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213556Z" creationid="Marco Marega" creationdate="20171216T213556Z">
+        <seg>Ora il collegamento selezionato tra la tabella per il formulario secondario e la tabella del formulario principale è specificato in termini di campi delle tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cleaned-up form &lt;f0&gt;(shown in Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;37&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) &lt;/f3&gt;now looks rather simpler.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T203502Z" creationid="Marco Marega" creationdate="20171215T203502Z">
