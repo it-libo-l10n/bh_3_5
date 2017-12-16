@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f8&gt;&lt;f9&gt;So, all of the visible fields must either be associated with a function or &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;not be associated with a function&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; to prevent this conflict in the query output.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115159Z" creationid="Manuel Frassinetti" creationdate="20171216T115159Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;Quindi, tutti i campi visibili devono essere associati a una funzione o  &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;non essere associati a una funzione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; per prevenire questo conflitto nel risultato della ricerca.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170440Z" creationid="Marina Latini" creationdate="20171207T170440Z">
@@ -1274,6 +1282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210925Z" creationid="Marco Marega" creationdate="20171014T210925Z">
         <seg>&lt;f0&gt;Aggiungi solo i dati&lt;/f0&gt;: Se selezionate questa opzione, verrà sempre visualizzato un formulario vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;After this, the complete query is listed &lt;/f0&gt;&lt;f1&gt;in the error message&lt;/f1&gt;&lt;f2&gt;, but unfortunately without the offending field being named specifically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115516Z" creationid="Manuel Frassinetti" creationdate="20171216T115516Z">
+        <seg>&lt;f0&gt;Dopo questo, la ricerca completa viene elencata &lt;/f0&gt;&lt;f1&gt;nel messaggio di errore&lt;/f1&gt;&lt;f2&gt;, ma sfortunatamente senza che il campo incriminato sia indicato chiaramente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5794,6 +5810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225137Z" creationid="Marco Marega" creationdate="20171214T225137Z">
         <seg>Nel campo di controllo tabella in alto, in certi casi lo stesso supporto può apparire più di una sola volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the field &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Return_&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;ate&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; has been added as a displayed field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115704Z" creationid="Manuel Frassinetti" creationdate="20171216T115704Z">
+        <seg>In questo caso il campo &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Rientro_&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Data&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; è stato aggiunto come un campo da visualizzare.</seg>
       </tuv>
     </tu>
     <tu>
