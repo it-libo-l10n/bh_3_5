@@ -7350,6 +7350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relationship definition in the query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172143Z" creationid="Manuel Frassinetti" creationdate="20171216T172143Z">
+        <seg>Definizione della relazione nella ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Relationships between tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161641Z" creationid="Marina Latini" creationdate="20171205T161641Z">
