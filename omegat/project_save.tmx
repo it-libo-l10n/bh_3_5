@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the filter we specify that the Return date field should be empty ("&lt;f0&gt;Return_Date" IS NULL&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211210Z" creationid="Marco Marega" creationdate="20171216T211210Z">
+        <seg>Nel filtro va specificato che il campo Return date (data di restituzione) deve essere vuoto ("&lt;f0&gt;Return_Date" IS NULL&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170222Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
@@ -8286,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The ascending sort shows the medium on loan for the longest period at the top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211504Z" creationid="Marco Marega" creationdate="20171216T211504Z">
+        <seg>L'ordine ascendente mostra in cima i supporti in prestito da un periodo più lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
@@ -9054,6 +9070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The records should be sorted by loan date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211343Z" creationid="Marco Marega" creationdate="20171216T211343Z">
+        <seg>I record dovrebbero essere ordinati in base alla data del prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The records, in other words, are editable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101433Z" creationid="Manuel Frassinetti" creationdate="20171202T101433Z">
@@ -9722,6 +9746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194310Z" creationid="Marco Marega" creationdate="20171125T194310Z">
         <seg>La posizione non può essere modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This prevents any media that have already been returned from appearing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211249Z" creationid="Marco Marega" creationdate="20171216T211249Z">
+        <seg>Questo previene la visualizzazione dei supporti che sono già stati restituiti.</seg>
       </tuv>
     </tu>
     <tu>
