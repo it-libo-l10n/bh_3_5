@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commas are used as field separators, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;so n&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ew query fields are created for the decimal part.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162003Z" creationid="Manuel Frassinetti" creationdate="20171216T162003Z">
+        <seg>Le virgole sono utilizzate come separatori di campo, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;quindi &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;vengono creati nuovi campi di ricerca per la parte decimale.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compacting a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095336Z" creationid="Marina Latini" creationdate="20171207T095336Z">
