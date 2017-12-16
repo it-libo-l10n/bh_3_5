@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Link master fields&lt;/f0&gt; and &lt;f1&gt;Link slave fields&lt;/f1&gt; are used to create a linkage to the main form, in which the subform lies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211857Z" creationid="Marco Marega" creationdate="20171216T211857Z">
+        <seg>I campi &lt;f0&gt;Collega da&lt;/f0&gt; e &lt;f1&gt;Collega per&lt;/f1&gt; vengono usati per creare un collegamento al formulario principale, all'interno del quale si trova il formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List contents Query&lt;/f0&gt;: Here a query is first created separately and stored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211031Z" creationid="Marco Marega" creationdate="20171101T211031Z">
