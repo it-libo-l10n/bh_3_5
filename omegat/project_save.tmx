@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;n entry with a comma in the SQL view always leads to a further field containing the numerical value of the decimal part.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162617Z" creationid="Manuel Frassinetti" creationdate="20171216T162617Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Un&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; inserimento con una virgola nella vista SQL porta sempre ad un ulteriore campo contenente il valore numerico della parte decimale.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Chapter&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; 1 &lt;s3/&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185013Z" creationid="osvaldo" creationdate="20171012T185013Z">
@@ -8422,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following query structure will also be useful for calculating the fines due from individual users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162915Z" creationid="Manuel Frassinetti" creationdate="20171216T162915Z">
+        <seg>La seguente struttura di ricerca sarà utile anche per calcolare le multe dovute dai singoli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following query works without putting table names in front of the field names:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175528Z" creationid="Manuel Frassinetti" creationdate="20171204T175528Z">
@@ -8906,6 +8922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211659Z" creationid="Marco Marega" creationdate="20171101T211641Z">
         <seg>La query è la più semplice possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query now yields for each medium still on loan the fines that have accrued, based on the recall notices issued and the additional multiplication field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162736Z" creationid="Manuel Frassinetti" creationdate="20171216T162736Z">
+        <seg>La ricerca ora restituisce per ogni supporto ancora in prestito le ammende che sono maturate, in base agli avvisi di richiamo emessi e al campo di moltiplicazione aggiuntivo.</seg>
       </tuv>
     </tu>
     <tu>
