@@ -4606,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For such purposes, the data to be searched for are better collected by using a query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173327Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
+        <seg>Per tali scopi, i dati da cercare vengono raccolti meglio utilizzando una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the Reader &lt;f2&gt;table,&lt;/f2&gt; the List contents would be "&lt;f3&gt;ID", "Given name", "Surname", "Lock", "Gender_ID".&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213449Z" creationid="Marco Marega" creationdate="20171101T213449Z">
@@ -9010,6 +9018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180953Z" creationid="Manuel Frassinetti" creationdate="20171209T180953Z">
         <seg>Il risultato mostra il numero di record di dati per ogni &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Lettore_ID&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simple query for the Title field from the Media table shows the test entries for this table, 9 records in all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173525Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
+        <seg>La ricerca semplice per il campo Titolo dalla tabella Supporto mostra le voci di test per questa tabella, 9 record in tutto.</seg>
       </tuv>
     </tu>
     <tu>
