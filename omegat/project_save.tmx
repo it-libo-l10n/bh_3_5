@@ -7878,6 +7878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort and filter functions are supplemented for the main form by adding a navigation bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215257Z" creationid="Marco Marega" creationdate="20171216T215257Z">
+        <seg>Le funzioni di ordinamento e di filtro vengono fornite al formulariosupplemented for the main form by adding a navigation bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorting is carried out in the graphical user interface according to the sequence of fields in the tabular view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T181648Z" creationid="Manuel Frassinetti" creationdate="20171204T181648Z">
