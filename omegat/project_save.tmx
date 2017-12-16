@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6960,8 +6960,8 @@
       <tuv lang="EN">
         <seg>Once again this form has the default name of Form, but it is now an element in the subfolder of the main form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211646Z" creationid="Marco Marega" creationdate="20171215T211646Z">
-        <seg>Di nuovo anche questo formulario ha il nome predefinito Formulario, ma questa volta è un elemento all'interno della sotto-cartella del formulario principale.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T210758Z" creationid="Marco Marega" creationdate="20171215T211646Z">
+        <seg>Anche questo formulario ha il nome predefinito Formulario, ma questa volta è un elemento all'interno della sotto-cartella del formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8182,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Loans table is chosen for the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211118Z" creationid="Marco Marega" creationdate="20171216T211118Z">
+        <seg>Per il formulario secondario viene scelta la tabella Loan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Reader table i&lt;f5&gt;s desc&lt;/f5&gt;ribed here as the &lt;f6&gt;List table&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214203Z" creationid="Marco Marega" creationdate="20171029T213659Z">
@@ -8994,6 +9002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214823Z" creationid="Marco Marega" creationdate="20171213T214823Z">
         <seg>Le proprietà dei campi di controllo inseriti in un campo di controllo tabella non sono così completi come quelli al di fuori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The properties of the subform must now be set up to give it the right data source, in order to reproduce the data for the correct reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211020Z" creationid="Marco Marega" creationdate="20171216T211020Z">
+        <seg>Ora è necessario impostare le proprietà del formulario secondario per assegnargli la corretta sorgente dei dati, cosicché possa riprodurre i dati del lettore giusto.</seg>
       </tuv>
     </tu>
     <tu>
