@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175442Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
+        <seg>&lt;f0&gt;Le condizioni di congiunzione devono essere aperte per la modifica per visualizzare tutti i record desiderati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174512Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
