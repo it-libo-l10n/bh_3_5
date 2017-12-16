@@ -7486,6 +7486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Renaming other fields, to save space or to add non-ASCII characters which should not be used in field names in database tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214808Z" creationid="Marco Marega" creationdate="20171216T214808Z">
+        <seg>Rinominare gli altri campi, per risparmiare spazio e per aggiungere i caratteri non-ASCII che non possono essere usati nei nomi dei campi nelle tabella del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Renaming the &lt;f0&gt;Media_ID&lt;/f0&gt; field &lt;f1&gt;Media&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214332Z" creationid="Marco Marega" creationdate="20171216T214332Z">
