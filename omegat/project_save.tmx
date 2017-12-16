@@ -8150,6 +8150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Form Creation Wizard solves this better by reading the relation from the relationship of the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213413Z" creationid="Marco Marega" creationdate="20171216T213413Z">
+        <seg>La Procedura guidata di creazione formulario risolve meglio questo problema andando a leggere il collegamento nelle relazioni del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Form Design toolbar &lt;f0&gt;(Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;22&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) &lt;/f3&gt;is docked at the bottom.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133011Z" creationid="Marco Marega" creationdate="20171014T133011Z">
