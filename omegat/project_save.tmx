@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Its search condition (Criterion) is applied when the query is run, but it is not visible in the query output.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150451Z" creationid="Manuel Frassinetti" creationdate="20171216T150451Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;La sua condizione di ricerca (criterio) viene applicata quando viene eseguita la ricerca, ma non è visibile nel risultato della ricerca.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AS&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; specifies the field aliases to be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114911Z" creationid="Manuel Frassinetti" creationdate="20171202T114911Z">
@@ -2042,6 +2050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
         <seg>&lt;f0&gt;Questo sito fornisce supporto per LibreOffice e altri programmi:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To correct the error, remove the check mark in the Visible row for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Return_Date field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150336Z" creationid="Manuel Frassinetti" creationdate="20171216T150336Z">
+        <seg>&lt;f0&gt;Per correggere l'errore, rimuovete il segno di spunta nella riga Visibile per il campo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Rientro_Data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6046,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It just displays the SQL error code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150145Z" creationid="Manuel Frassinetti" creationdate="20171216T150145Z">
+        <seg>Mostra solo il codice di errore SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides a table, which can then be provided with controls for individual columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200054Z" creationid="Marco Marega" creationdate="20171125T200008Z">
@@ -7686,6 +7710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Suppose that a library does not issue recall notices when an item is due for return, but issues overdue notices in cases where the loan period has expired and the item has not been returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150825Z" creationid="Manuel Frassinetti" creationdate="20171216T150825Z">
+        <seg>Supponiamo che una biblioteca non emetta avvisi di richiamo quando un articolo è dovuto per la restituzione, ma emetta comunicazioni in ritardo nei casi in cui il periodo di prestito è scaduto e l'articolo non è stato restituito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>System</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102312Z" creationid="Marina Latini" creationdate="20171207T102312Z">
@@ -8482,6 +8514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210108Z" creationid="Marco Marega" creationdate="20171215T210108Z">
         <seg>La cosa importante di un formulario secondario è che la sua sorgente dei dati è in qualche modo collegata alla sorgente dei dati del formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The information provided by using the More button is not very illuminating for the normal database user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150054Z" creationid="Manuel Frassinetti" creationdate="20171216T150054Z">
+        <seg>Le informazioni fornite utilizzando il pulsante Altro non sono molto illuminanti per il normale utente del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is common practice in school and public libraries that issue loans only for short, fixed periods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150912Z" creationid="Manuel Frassinetti" creationdate="20171216T150912Z">
+        <seg>Questa è una pratica comune nelle scuole e nelle biblioteche pubbliche che emettono prestiti solo per periodi brevi e fissi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is declared later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203221Z" creationid="Marco Marega" creationdate="20171125T203221Z">
@@ -9826,6 +9874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T230044Z" creationid="Marco Marega" creationdate="20171214T230044Z">
         <seg>Usando l'&lt;f0&gt;interfaccia grafica&lt;/f0&gt;, ora potete selezionare il campo di nome &lt;f1&gt;Return_Date&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the GUI, basic calculations and additional functions can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150528Z" creationid="Manuel Frassinetti" creationdate="20171216T150528Z">
+        <seg>Utilizzando la GUI, è possibile utilizzare calcoli di base e funzioni aggiuntive.</seg>
       </tuv>
     </tu>
     <tu>
