@@ -4454,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Form consisting of a main form (above) and a subform (below).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215757Z" creationid="Marco Marega" creationdate="20171216T215757Z">
+        <seg>Figura &lt;seq0&gt;38&lt;/seq0&gt;: Formulario composta da un formulario principale (sopra) ed un formulario secondario (sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -7880,8 +7888,8 @@
       <tuv lang="EN">
         <seg>Sort and filter functions are supplemented for the main form by adding a navigation bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215257Z" creationid="Marco Marega" creationdate="20171216T215257Z">
-        <seg>Le funzioni di ordinamento e di filtro vengono fornite al formulariosupplemented for the main form by adding a navigation bar.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215319Z" creationid="Marco Marega" creationdate="20171216T215257Z">
+        <seg>Le funzioni di ordinamento e di filtro vengono fornite al formulario principale dall'aggiunta di una barra di navigazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8606,6 +8614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final form might look like the figure b&lt;f0&gt;elow.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215715Z" creationid="Marco Marega" creationdate="20171216T215715Z">
+        <seg>Il formulario definitivo dovrebbe apparire come nella figura &lt;f0&gt;sottostante.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fine for overdue &lt;/f8&gt;&lt;f9&gt;media&lt;/f9&gt;&lt;f10&gt; is set in the query to 2.00 €.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164928Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
@@ -9042,6 +9058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223908Z" creationid="Marco Marega" creationdate="20171214T223908Z">
         <seg>L'ordine delle colonne può essere modificato trascinando l'intestazione di una colonna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The other fields on the navigation bar are not needed, as they are mostly available from the table control (record display, record navigation) or else carried out by movement through the table control (data storage).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215647Z" creationid="Marco Marega" creationdate="20171216T215301Z">
+        <seg>Gli altri campi della barra di navigazione non sono necessari, in quanto la maggior parte degli stessi è disponibile nel campo di controllo tabella (visualizzazione e navigazione dei record), o in altri casi viene eseguita tramite gli spostamenti attraverso il campo di controllo tabella (memorizzazione dei dati).</seg>
       </tuv>
     </tu>
     <tu>
