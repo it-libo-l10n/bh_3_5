@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other records are excluded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175305Z" creationid="Manuel Frassinetti" creationdate="20171216T175305Z">
+        <seg>Tutti gli altri record di dati sono esclusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All printable characters are allowed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195021Z" creationid="Marco Marega" creationdate="20171125T195021Z">
@@ -3162,6 +3170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100219Z" creationid="Marina Latini" creationdate="20171207T100219Z">
         <seg>Funzioni integrate e procedure salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But if you enter Subtitle into the query table, the record content of the Media table is reduced to only 2 Titles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174835Z" creationid="Manuel Frassinetti" creationdate="20171216T174835Z">
+        <seg>Ma se inserite sottotitoli nella tabella delle ricerca, il contenuto del record della tabella Supporto viene ridotto a soli 2 titoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112957Z" creationid="Marina Latini" creationdate="20171213T112957Z">
         <seg>Per un elenco più dettagliato, consultate la Guida in linea dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all the other Titles, no subtitles exist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174947Z" creationid="Manuel Frassinetti" creationdate="20171216T174947Z">
+        <seg>Per tutti gli altri titoli, non ci sono sottotitoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6990,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only for these two Titles are there also Subtitles in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174920Z" creationid="Manuel Frassinetti" creationdate="20171216T174920Z">
+        <seg>Solo per questi due titoli ci sono anche i sottotitoli nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if this primary key is built in, does the query become editable again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170542Z" creationid="Manuel Frassinetti" creationdate="20171202T165135Z">
@@ -9410,6 +9442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180556Z" creationid="Manuel Frassinetti" creationdate="20171130T180556Z">
         <seg>Ciò causa una visualizzazione tabellare dei dati da visualizzare sopra la vista grafica della &lt;f0&gt;tabella Prestito con la sua lista di campi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This corresponds to the join condition that only those records for which the Media_ID field in the Subtitle table is equal to the ID field in the Media table should be shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175239Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
+        <seg>Corrisponde alla condizione di congiunzione per cui devono essere visualizzati solo i record di dati per i quali il campo Supporto_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Supporto.</seg>
       </tuv>
     </tu>
     <tu>
