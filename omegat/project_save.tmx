@@ -4742,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the main form we need a table, into which the list box can write a value linked to this table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221104Z" creationid="Marco Marega" creationdate="20171217T221104Z">
+        <seg>Per il formulario principale abbiamo bisogno di una tabella, nella quale la casella di riepilogo possa scrivere un valore collegato a questa tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170222Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
@@ -6394,6 +6402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215808Z" creationid="Marco Marega" creationdate="20171217T215808Z">
         <seg>Sarebbe preferibile che fosse possibile registrare nuovi utenti, ma che i dati di quelli esistenti non fossero modificabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be better to use a list box to find the reader and carry out the issue and return operations in separate table controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220420Z" creationid="Marco Marega" creationdate="20171217T220420Z">
+        <seg>Sarebbe preferibile usare una casella di riepilogo per trovare il lettore ed effettuare le operazioni di emissione e restituzione in un separato campo di controllo tabella.</seg>
       </tuv>
     </tu>
     <tu>
