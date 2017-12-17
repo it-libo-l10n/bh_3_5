@@ -6390,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will always contain only one record, so the primary key field ID can safely be declared as Tiny Integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221254Z" creationid="Marco Marega" creationdate="20171217T221254Z">
+        <seg>Conterrà sempre un solo record, quindi il campo ID della chiave primaria può essere dichiarato tranquillamente Tiny Integer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will show only the records for which the field is empty, where “empty” stands for the SQL designation NULL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T230531Z" creationid="Marco Marega" creationdate="20171214T230531Z">
@@ -9450,6 +9458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172634Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
         <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché il magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella ricerca).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table requires an integer field and a primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221140Z" creationid="Marco Marega" creationdate="20171217T221140Z">
+        <seg>La tabella richiede un campo intero e una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
