@@ -5422,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a reader record is not selected by clicking on the record header at the left, only the little green arrow on the header shows which record is currently active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214552Z" creationid="Marco Marega" creationdate="20171217T214552Z">
+        <seg>Se il record di un lettore non viene selezionato facendo clic sull'intestazione alla sua sinistra, il record attivo al momento viene evidenziato solamente da una piccola freccia verde sull'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a spin arrow is pressed down and held, this determines if the entry in the box should be incremented beyond the next value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193643Z" creationid="Marco Marega" creationdate="20171017T193643Z">
