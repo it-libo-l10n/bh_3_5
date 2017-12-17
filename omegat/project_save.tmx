@@ -6622,6 +6622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Media and loan dates might be changed when the media is to be loaned out for longer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T212623Z" creationid="Marco Marega" creationdate="20171217T212623Z">
+        <seg>Le date dei supporti e dei prestiti possono essere modificate mentre il supporto è dato in prestito più a lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Media with a return date should be filtered out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T204244Z" creationid="Marco Marega" creationdate="20171213T204244Z">
