@@ -6424,8 +6424,16 @@
       <tuv lang="EN">
         <seg>It will always contain only one record, so the primary key field ID can safely be declared as Tiny Integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221254Z" creationid="Marco Marega" creationdate="20171217T221254Z">
-        <seg>Conterrà sempre un solo record, quindi il campo ID della chiave primaria può essere dichiarato tranquillamente Tiny Integer.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221518Z" creationid="Marco Marega" creationdate="20171217T221254Z">
+        <seg>Conterrà sempre un solo record, quindi il campo ID della chiave primaria può essere dichiarato tranquillamente Intero molto piccolo (Tiny Integer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will just read the value from the table which is associated with the primary key &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;ID&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;)&lt;/f4&gt;&lt;/f3&gt; of 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221803Z" creationid="Marco Marega" creationdate="20171217T221803Z">
+        <seg>Semplicemente leggerà dalla tabella il valore associato alla chiave primaria &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;ID&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;)&lt;/f4&gt;&lt;/f3&gt; 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9182,6 +9190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main form is based on the &lt;f0&gt;Filter table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221653Z" creationid="Marco Marega" creationdate="20171217T221653Z">
+        <seg>Il formulario principale si basa sulla tabella &lt;f0&gt;Filter&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main form shows a table with records to which many dependent records in the subform can be linked and displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210548Z" creationid="Marco Marega" creationdate="20171215T210548Z">
@@ -9506,6 +9522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172634Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
         <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché il magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella ricerca).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table is given a primary key with the value 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221550Z" creationid="Marco Marega" creationdate="20171217T221550Z">
+        <seg>Alla tabella viene assegnata una chiave primaria con il valore 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10162,6 +10186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T173523Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
         <seg>Questa ricerca cerca i record di dati che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce un criterio per la ricerca ma nessun utile dato visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This record will be repeatedly read and rewritten by the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221620Z" creationid="Marco Marega" creationdate="20171217T221620Z">
+        <seg>Questo record verrà letto e riscritto ripetutamente dal formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
