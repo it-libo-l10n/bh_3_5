@@ -5350,6 +5350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&lt;f0&gt;t&lt;/f0&gt; is possible to delete the record for a&lt;f1&gt;n item&lt;/f1&gt; on loan quite easily.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215120Z" creationid="Marco Marega" creationdate="20171217T215120Z">
+        <seg>&lt;f0&gt;È&lt;/f0&gt; abbastanza facile cancellare il record di &lt;f1&gt;un articolo&lt;/f1&gt; in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&lt;f3&gt;t also describes&lt;/f3&gt; the properties of the various types of controls in a form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T185104Z" creationid="Marco Marega" creationdate="20171013T185104Z">
@@ -6118,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead of the text “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;”, it would be better to have the reader’s name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214901Z" creationid="Marco Marega" creationdate="20171217T214901Z">
+        <seg>Al posto del testo “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;” (Supporti in prestito al lettore selezionato), sarebbe preferibile avere il nome del lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead we will use the built-in form control (&lt;f1&gt;Figure&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211324Z" creationid="Marco Marega" creationdate="20171215T211324Z">
@@ -6266,6 +6282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
         <seg>Questo è collegato a una &lt;f0&gt;Tabella&lt;/f0&gt; denominata &lt;f1&gt;Loan&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to loan out the same medium twice without it having been returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214947Z" creationid="Marco Marega" creationdate="20171217T214947Z">
+        <seg>È possibile concedere in prestito due volte lo stesso supporto senza che questo sia stato restituito.</seg>
       </tuv>
     </tu>
     <tu>
