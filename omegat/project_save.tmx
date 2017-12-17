@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data can be changed or deleted in the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215150Z" creationid="Marco Marega" creationdate="20171217T215150Z">
+        <seg>I dati possono essere modificati o cancellati nel formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data entry and Data display</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203635Z" creationid="Marco Marega" creationdate="20171015T203635Z">
@@ -5330,6 +5338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210103Z" creationid="Marco Marega" creationdate="20171014T210103Z">
         <seg>In ogni caso questo impedisce al formulario di accedere ai dati sottostanti usando un filtro o un ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However when things become hectic at the loans counter, editing of user data should not take place at the same time as issuing loans.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215713Z" creationid="Marco Marega" creationdate="20171217T215713Z">
+        <seg>Però, se le cose diventano frenetiche nel tenere il conto dei prestiti, la modifica dei dati degli utenti non dovrebbe avvenire nello stesso momento della registrazione dei prestiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9698,6 +9714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214626Z" creationid="Marco Marega" creationdate="20171210T214518Z">
         <seg>Potete farlo con un &lt;f0&gt;clic con il tasto destro del mouse&lt;/f0&gt; sul gruppo e seguendo poi il menu contestuale &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be useful for small libraries with little public traffic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215233Z" creationid="Marco Marega" creationdate="20171217T215233Z">
+        <seg>Questo può essere utile per delle piccole librerie con un traffico di utenti ridotto.</seg>
       </tuv>
     </tu>
     <tu>
