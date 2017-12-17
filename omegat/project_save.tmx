@@ -6278,6 +6278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is quite possible that the active record will be scrolled right out of the table control window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214752Z" creationid="Marco Marega" creationdate="20171217T214752Z">
+        <seg>È abbastanza facile che il record attivo venga fatto scorrere al di fuori della finestra del campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It just displays the SQL error code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150145Z" creationid="Manuel Frassinetti" creationdate="20171216T150145Z">
