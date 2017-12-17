@@ -4542,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First let us improve the selection of readers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215946Z" creationid="Marco Marega" creationdate="20171217T215946Z">
+        <seg>Per prima cosa va migliorata la selezione dei lettori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First we will use the relationship of the Reader table t&lt;f0&gt;o the &lt;/f0&gt;Loan table (see &lt;f1&gt;Chapter 3, &lt;/f1&gt;Tables).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210652Z" creationid="Marco Marega" creationdate="20171215T210652Z">
@@ -4666,6 +4674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214912Z" creationid="Marco Marega" creationdate="20171210T214617Z">
         <seg>Per lavorare in futuro, vi sarà più chiaro se usate il &lt;f5&gt;Navigatore &lt;/f5&gt;&lt;f6&gt;formulario&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For libraries, this applies equally to deletions or complete name changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215906Z" creationid="Marco Marega" creationdate="20171217T215906Z">
+        <seg>Per le librerie, questo vale allo stesso modo per le cancellazioni o per modifiche complete del nominativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,6 +6378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T230531Z" creationid="Marco Marega" creationdate="20171214T230531Z">
         <seg>Questo visualizzerà solo i record nei quali il campo è vuoto, indicato con “nullo” che in SQL è equivalente a NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be better if new users could be registered but existing user data left untouched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215808Z" creationid="Marco Marega" creationdate="20171217T215808Z">
+        <seg>Sarebbe preferibile che fosse possibile registrare nuovi utenti, ma che i dati di quelli esistenti non fossero modificabili.</seg>
       </tuv>
     </tu>
     <tu>
