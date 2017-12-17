@@ -3422,6 +3422,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the loan date could lead to errors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T212806Z" creationid="Marco Marega" creationdate="20171217T212806Z">
+        <seg>Modificare la data del prestito può condurre a degli errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing the media date might make it impossible to trace which &lt;f0&gt;item&lt;/f0&gt; is still available in the library and which is on loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T212730Z" creationid="Marco Marega" creationdate="20171217T212730Z">
+        <seg>Modificare la data del supporto può rendere impossibile tenere traccia di quali &lt;f0&gt;articoli&lt;/f0&gt; sono ancora disponibili nella libreria e quali sono in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
@@ -7474,6 +7490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145438Z" creationid="Marina Latini" creationdate="20171213T143721Z">
         <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recall notices could n&lt;f1&gt;o&lt;/f1&gt;t be verified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T213213Z" creationid="Marco Marega" creationdate="20171217T213213Z">
+        <seg>Le note di promemoria &lt;f1&gt;non&lt;/f1&gt; possono essere verificate.</seg>
       </tuv>
     </tu>
     <tu>
