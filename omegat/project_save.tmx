@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5386,6 +5386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230638Z" creationid="Marco Marega" creationdate="20171102T230638Z">
         <seg>Se c'è la necessità di inserire un nuovo valore, in una casella combinata questo può essere fatto facilmente, dato che la casella mostra esattamente ciò che va nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a reader is now selected in the main form, the subform will show the media on loan to that reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T204631Z" creationid="Marco Marega" creationdate="20171217T204631Z">
+        <seg>Ora se viene selezionato un lettore nel formulario principale, il formulario secondario visualizzerà i supporti in prestito a quel lettore.</seg>
       </tuv>
     </tu>
     <tu>
