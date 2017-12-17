@@ -5534,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the original reader is selected again, returned media are no longer displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T204917Z" creationid="Marco Marega" creationdate="20171217T204917Z">
+        <seg>Se viene selezionato nuovamente il lettore originario, il supporto restituito non sarà più visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the user's entry does not match the mask, the entry is rejected on leaving the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194154Z" creationid="Marco Marega" creationdate="20171125T194154Z">
@@ -9886,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This occurs automatically when another record is loaded into the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T204816Z" creationid="Marco Marega" creationdate="20171217T204816Z">
+        <seg>Ciò succede automaticamente quando un altro record viene caricato nel formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This position cannot be edited.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194310Z" creationid="Marco Marega" creationdate="20171125T194310Z">
@@ -10506,6 +10522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211442Z" creationid="Marco Marega" creationdate="20171029T211442Z">
         <seg>Quando create una casella di riepilogo, per impostazione predefinita, compare la finestra di creazione guidata &lt;f0&gt;Casella &lt;/f0&gt;di &lt;f1&gt;riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a&lt;f0&gt;n item&lt;/f0&gt; is returned, it continues to appear on the form until the form itself is refreshed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T204738Z" creationid="Marco Marega" creationdate="20171217T204738Z">
+        <seg>Quando un &lt;f0&gt;articolo&lt;/f0&gt; viene restituito, lo stesso continuerà ad apparire nel formulario fino a quando questo non verrà aggiornato.</seg>
       </tuv>
     </tu>
     <tu>
