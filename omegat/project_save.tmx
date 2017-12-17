@@ -5270,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However there are still details that can be improved:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T212459Z" creationid="Marco Marega" creationdate="20171217T212459Z">
+        <seg>Ad ogni modo ci sono ancora dei dettagli che possono essere migliorati:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However there is a &lt;f5&gt;problem&lt;/f5&gt; here in that readers can be sorted only by ID, not alphabetically, &lt;f6&gt;bec&lt;/f6&gt;a&lt;f7&gt;u&lt;/f7&gt;s&lt;f8&gt;e&lt;/f8&gt; the table underlying the form only contains the ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205541Z" creationid="Marco Marega" creationdate="20171213T205541Z">
@@ -9662,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This delayed updating is actually desirable in this case, as it allows one to inspect the media currently lying on the library counter and see at once whether these have been registered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T205123Z" creationid="Marco Marega" creationdate="20171217T205123Z">
+        <seg>Questo aggiornamento ritardato in realtà è auspicabile in questo caso, in quanto permette verificare i supporti al momento presenti nel contatore della libreria e vedere a colpo d'occhio se questi sono stati registrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This determines what characters can be entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193727Z" creationid="Marco Marega" creationdate="20171125T193727Z">
@@ -9722,6 +9738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210425Z" creationid="Marco Marega" creationdate="20171126T210425Z">
         <seg>Questo formulario si basa sulla tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This form structure is significantly easier to use than the previous one with only a single form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T205203Z" creationid="Marco Marega" creationdate="20171217T205203Z">
+        <seg>Questa struttura di formulario è decisamente più facile da usare rispetto alla precedente con un singolo formulario.</seg>
       </tuv>
     </tu>
     <tu>
