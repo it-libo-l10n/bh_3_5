@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As only edits of a single record are allowed, a navigation bar would be superfluous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221958Z" creationid="Marco Marega" creationdate="20171217T221958Z">
+        <seg>Considerato che sono permesse le modifiche di un solo record, una barra di navigazione sarebbe superflua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as a combo box is created, a Wizard appears by default, just as with a list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221102Z" creationid="Marco Marega" creationdate="20171102T221102Z">
@@ -6938,6 +6946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
         <seg>Nuovo database che utilizza il motore HSQL interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No data will be added; the current record will just be repeatedly rewritten.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221854Z" creationid="Marco Marega" creationdate="20171217T221854Z">
+        <seg>Non saranno aggiunti dati; semplicemente il record corrente verrà ripetutamente riscritto.</seg>
       </tuv>
     </tu>
     <tu>
