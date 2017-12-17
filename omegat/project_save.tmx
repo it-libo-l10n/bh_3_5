@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple solution would be not to allow any modification except the entry of new records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220127Z" creationid="Marco Marega" creationdate="20171217T220127Z">
+        <seg>Un soluzione semplice sarebbe quella di non permettere alcuna modifica a eccezione dell'inserimento di nuovi record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A somewhat free translation would be: The following expression contains no aggregate function or grouping.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180355Z" creationid="Manuel Frassinetti" creationdate="20171214T180355Z">
@@ -10110,10 +10118,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This should protect us from changes to the loan records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220026Z" creationid="Marco Marega" creationdate="20171217T220026Z">
+        <seg>Questo dovrebbe prevenire la modifica ai record dei prestiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This sort specification illustrates how the alias for the Loan_Date field can be used within the query itself.&lt;/f17&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144024Z" creationid="Manuel Frassinetti" creationdate="20171202T144024Z">
         <seg>Questa specifica di ordinamento illustra come l'alias del campo Prestito_Data può essere utilizzato all'interno della ricerca stessa.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This still requires a search function when a reader wishes to borrow a&lt;f0&gt;n item&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220247Z" creationid="Marco Marega" creationdate="20171217T220247Z">
+        <seg>Ciò richiede una funzione di ricerca quando un lettore desidera prendere in prestito &lt;f0&gt;un articolo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
