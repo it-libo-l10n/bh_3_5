@@ -4374,6 +4374,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Field name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221347Z" creationid="Marco Marega" creationdate="20171217T221347Z">
+        <seg>Nome campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Field type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221402Z" creationid="Marco Marega" creationdate="20171217T221402Z">
+        <seg>Tipo del campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;s0/&gt;&lt;seq1&gt;24&lt;/seq1&gt;: Available &lt;f2&gt;b&lt;/f2&gt;uttons on the Form Controls &lt;f3&gt;t&lt;/f3&gt;oolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140521Z" creationid="Marco Marega" creationdate="20171014T140521Z">
@@ -5414,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221405Z" creationid="Marco Marega" creationdate="20171217T221405Z">
+        <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085757Z" creationid="Marina Latini" creationdate="20171003T085757Z">
@@ -6186,6 +6210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211324Z" creationid="Marco Marega" creationdate="20171215T211324Z">
         <seg>Al suo posto viene usato il campo di controllo incorporato (&lt;f1&gt;Figura&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221413Z" creationid="Marco Marega" creationdate="20171217T221413Z">
+        <seg>Intero</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,6 +8198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table name: Filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221340Z" creationid="Marco Marega" creationdate="20171217T221340Z">
+        <seg>Nome tabella: Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161538Z" creationid="Marina Latini" creationdate="20171205T161538Z">
@@ -8842,6 +8882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175528Z" creationid="Manuel Frassinetti" creationdate="20171204T175528Z">
         <seg>La seguente ricerca funziona senza inserire i nomi delle tabelle davanti ai nomi dei campi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following table named Filter should therefore be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221322Z" creationid="Marco Marega" creationdate="20171217T221322Z">
+        <seg>Perciò deve essere creata la seguente tabella denominata Filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10226,6 +10274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203837Z" creationid="Marco Marega" creationdate="20171015T203837Z">
         <seg>Campo orario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tiny Integer, Primary key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221409Z" creationid="Marco Marega" creationdate="20171217T221409Z">
+        <seg>Tiny Integer, Primary key</seg>
       </tuv>
     </tu>
     <tu>
