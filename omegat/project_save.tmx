@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Natural&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option specifies that the linked fields in the tables are treated as equal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162827Z" creationid="Manuel Frassinetti" creationdate="20171218T162827Z">
+        <seg>&lt;f0&gt;L'opzione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;naturale&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; specifica che i campi collegati nelle tabelle sono considerati uguali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The creation of queries using the Wizard is briefly described in &lt;/f0&gt;&lt;f1&gt;Chapter 8 of the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Getting Started&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide, &lt;/f4&gt;&lt;f5&gt;Getting Started with Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084414Z" creationid="Manuel Frassinetti" creationdate="20171125T172903Z">
@@ -7430,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or you can choose the opposite: that in any case all records from the table Media are displayed, regardless of whether they have a subtitle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162623Z" creationid="Manuel Frassinetti" creationdate="20171218T162623Z">
+        <seg>Oppure potete scegliere il contrario: che in ogni caso vengano visualizzati tutti i record dalla tabella Supporto, indipendentemente dal fatto che abbiano un sottotitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or, double-click the table’s name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092515Z" creationid="Manuel Frassinetti" creationdate="20171127T092515Z">
@@ -11186,6 +11202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
         <seg>Campo con valore Si o No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also avoid having to use this setting by defining your relationships properly at the very start of planning your database.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162920Z" creationid="Manuel Frassinetti" creationdate="20171218T162920Z">
+        <seg>È inoltre possibile evitare di dover utilizzare questa impostazione definendo le relazioni correttamente all'inizio della pianificazione del database.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
