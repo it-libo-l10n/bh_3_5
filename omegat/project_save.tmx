@@ -10448,8 +10448,8 @@
       <tuv lang="EN">
         <seg>Title and Subtitle are displayed together in one query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171125T132225Z" creationid="luke" creationdate="20171125T132225Z">
-        <seg>Titolo e sottotitolo vengono visualizzati insieme in una singola query.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T174909Z" creationid="luke" creationdate="20171125T132225Z">
+        <seg>Titolo e sottotitolo vengono visualizzati insieme in una singola ricerca.</seg>
       </tuv>
     </tu>
     <tu>
