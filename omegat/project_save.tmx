@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For the type &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Right join&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;the description shows that all records from the &lt;/f5&gt;&lt;f6&gt;Media &lt;/f6&gt;&lt;f7&gt;table will be displayed &lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;(Subtitle RIGHT JOIN Media)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T170453Z" creationid="Manuel Frassinetti" creationdate="20171218T170453Z">
+        <seg>&lt;f0&gt;Per il tipo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;congiunzione a destra&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;la descrizione mostra che tutti i record dalla tabella &lt;/f5&gt;&lt;f6&gt;Supporto &lt;/f6&gt;&lt;f7&gt; verranno mostrati &lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;(Sottotitolo RIGHT JOIN Supporto)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Section of the destination website to be addressed where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
@@ -3074,6 +3082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T220341Z" creationid="Marco Marega" creationdate="20171029T220341Z">
         <seg>Come la disattivazione del pulsante rende chiaro, una selezione predefinita ha poco senso nel contesto di un collegamento con una tabella del database, così come viene creata dalla Creazione guidata casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As there is no Subtitle that lacks a title in Media but there are certainly Titles in Media that lack a Subtitle, this is the right choice.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T170606Z" creationid="Manuel Frassinetti" creationdate="20171218T170606Z">
+        <seg>Dato che non ci sono sottotitoli che mancano di un titolo in Supporto ma ci sono certamente titoli in Supporto privi di sottotitolo, questa è la scelta giusta.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
