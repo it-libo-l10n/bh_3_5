@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1378,6 +1378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200917Z" creationid="Marco Marega" creationdate="20171015T200917Z">
         <seg>&lt;f0&gt;Prima dell'&lt;/f0&gt;&lt;f1&gt;invio&lt;/f1&gt;: Prima che i dati del formulario vengano inviati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;By default, relationships are set as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inner Joins&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161509Z" creationid="Manuel Frassinetti" creationdate="20171218T161509Z">
+        <seg>&lt;f0&gt;Come predefinito, le relazioni sono impostate come &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;congiunzioni interne&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10738,6 +10746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214029Z" creationid="Marco Marega" creationdate="20171216T214029Z">
         <seg>Nel formulario secondario il procedimento è simile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We refer here &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to joins between tables in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Relationship design&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;but&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to joins within &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;queries&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161040Z" creationid="Manuel Frassinetti" creationdate="20171218T161040Z">
+        <seg>Non ci riferiamo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;qui&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; alla congiunzione tra tabelle in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Relazione struttura&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ma&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; alla congiunzione all'interno &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;di ricerche&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
