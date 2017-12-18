@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The most important setting is the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Join&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162316Z" creationid="Manuel Frassinetti" creationdate="20171218T162316Z">
+        <seg>&lt;f0&gt;L'impostazione più importante è l'opzione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;congiungi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174512Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
@@ -5142,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here relationships can be so chosen that all records from the Subtitle table are selected, but only those records from Media which have a subtitle entered in the Subtitle table.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162454Z" creationid="Manuel Frassinetti" creationdate="20171218T162454Z">
+        <seg>Qui le relazioni possono essere scelte in modo che tutti i record della tabella Sottotitoli siano selezionati, ma solo quei record dalla tabella Supporto che hanno un sottotitolo inserito nella tabella Sottotitoli.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here should be added &lt;f1&gt;ORDER BY "LastName" ASC&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212024Z" creationid="Marco Marega" creationdate="20171101T212024Z">
@@ -5418,6 +5434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232014Z" creationid="Marco Marega" creationdate="20171102T232014Z">
         <seg>Però, ancora una volta, la creazione mediante la proceduta guidata rende impossibile ordinare in contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you have planned your database in an orderly manner using HSQLDB, there should be no need to alter these fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162144Z" creationid="Manuel Frassinetti" creationdate="20171218T162144Z">
+        <seg>Tuttavia, se il database è stato pianificato in modo ordinato utilizzando HSQLDB, non è necessario modificare questi campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181853Z" creationid="Manuel Frassinetti" creationdate="20171214T181400Z">
         <seg>Se non è presente un raggruppamento, è restituito come risultato della ricerca una sola riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there is no relationship specified in the table definition, one can be created at this point for the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161947Z" creationid="Manuel Frassinetti" creationdate="20171218T161947Z">
+        <seg>Se non è stata specificata alcuna relazione nella definizione della tabella, è possibile crearne una a questo punto per la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,6 +9502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relevant fields from the two tables are read from the table definitions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161903Z" creationid="Manuel Frassinetti" creationdate="20171218T161903Z">
+        <seg>I campi rilevanti delle due tabelle vengono letti dalle definizioni della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result of the query looks like this:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164329Z" creationid="Manuel Frassinetti" creationdate="20171216T164329Z">
@@ -9598,6 +9638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two previously selected tables are listed as Tables &lt;f0&gt;I&lt;/f0&gt;nvolved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161803Z" creationid="Manuel Frassinetti" creationdate="20171218T161803Z">
+        <seg>Le due tabelle precedenti sono elencate come tabelle &lt;f0&gt;coinvolte&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The underlying data field must be a binary field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204306Z" creationid="Marco Marega" creationdate="20171118T204306Z">
@@ -9642,6 +9690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203549Z" creationid="Marco Marega" creationdate="20171026T203549Z">
         <seg>L'allineamento verticale per i campi con più righe non è attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window provides information on the way this type of join works in practice.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161708Z" creationid="Manuel Frassinetti" creationdate="20171218T161708Z">
+        <seg>La finestra fornisce informazioni sul modo in cui questo tipo di congiunzione funziona in pratica.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9762,6 +9818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211134Z" creationid="Marco Marega" creationdate="20171126T211117Z">
         <seg>Nell'esempio questi valori corrispondono al campo chiave primaria della tabella Gender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are not selectable here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161820Z" creationid="Manuel Frassinetti" creationdate="20171218T161820Z">
+        <seg>Non sono selezionabili da qui.</seg>
       </tuv>
     </tu>
     <tu>
