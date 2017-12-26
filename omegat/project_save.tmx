@@ -10638,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To ensure the functionality of the list box in Fig&lt;f0&gt;ure&lt;/f0&gt; &lt;t1&gt;39&lt;/t1&gt;, both subforms must be placed one level further down, as subforms of a subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213301Z" creationid="Marco Marega" creationdate="20171226T213301Z">
+        <seg>Per assicurare il funzionamento della casella di riepilogo della Fig&lt;f0&gt;ura&lt;/f0&gt; &lt;t1&gt;39&lt;/t1&gt;, entrambi i formulari secondari devono essere posizionati un livello più in basso, come formulari secondari di un formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To exit the table control, use &lt;/f4&gt;&lt;f5&gt;Ctrl+Tab&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223820Z" creationid="Marco Marega" creationdate="20171214T223820Z">
