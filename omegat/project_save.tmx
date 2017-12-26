@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No reader can now be edited, altered or deleted, and</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T212721Z" creationid="Marco Marega" creationdate="20171226T212721Z">
+        <seg>Non può essere modificato, alterato o cancellato nessun utente e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-enabled fields cannot be used and are grayed out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203054Z" creationid="Marco Marega" creationdate="20171016T203054Z">
@@ -9102,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form now functions better in that:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T212626Z" creationid="Marco Marega" creationdate="20171226T212626Z">
+        <seg>Ora il formulario funziona meglio in quanto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form shown in &lt;f0&gt;Figure&lt;/f0&gt; &lt;t1&gt;36&lt;/t1&gt; is for the loan of media.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224638Z" creationid="Marco Marega" creationdate="20171214T224638Z">
@@ -9354,6 +9370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
         <seg>Quello in basso mostra invece tutti i campi, in modo che sia evidente a quale persona e a quale supporto si riferisce il reso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main form consists only of the heading and the list box; the subform contains another heading, the table control from the previous version and the button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T212528Z" creationid="Marco Marega" creationdate="20171226T212528Z">
+        <seg>Il formulario principale è composto solo dall'intestazione e dalla casella di riepilogo; il formulario secondario contiene un'altra intestazione, il campo di controllo tabella della versione precedente e il pulsante.</seg>
       </tuv>
     </tu>
     <tu>
