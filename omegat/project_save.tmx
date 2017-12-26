@@ -6454,6 +6454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is good enough to entrust the update to the button in the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175814Z" creationid="Marco Marega" creationdate="20171226T175814Z">
+        <seg>È sufficiente assegnare l'aggiornamento al pulsante nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to loan out the same medium twice without it having been returned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214947Z" creationid="Marco Marega" creationdate="20171217T214947Z">
@@ -6506,6 +6514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
         <seg>Serve internamente a Base per permettere il contatto con il data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It takes over two functions: saving the record in the main form and updating the table in the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175513Z" creationid="Marco Marega" creationdate="20171226T175513Z">
+        <seg>Esso ha due funzioni: salvare il record nel formulario principale e aggiornare la tabella in quello secondario.</seg>
       </tuv>
     </tu>
     <tu>
