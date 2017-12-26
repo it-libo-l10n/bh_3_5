@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data is updated hierarchically from the main form down through the subforms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213450Z" creationid="Marco Marega" creationdate="20171226T213450Z">
+        <seg>I dati vengono aggiornati in modo gerarchico partendo dal formulario principale e attraversando i formulari secondari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data properties of fields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105758Z" creationid="Marina Latini" creationdate="20171205T175942Z">
@@ -8794,6 +8802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180016Z" creationid="Marco Marega" creationdate="20171226T180016Z">
         <seg>Il pulsante può avere semplicemente l'etichetta &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The button in the previously described form must now be placed in the first subform and not in the two subforms that come under it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213636Z" creationid="Marco Marega" creationdate="20171226T213636Z">
+        <seg>Il pulsante del formulario descritto in precedenza va ora posizionato nel primo formulario secondario e non nei due formulari secondari a esso collegati.</seg>
       </tuv>
     </tu>
     <tu>
