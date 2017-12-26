@@ -5238,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator is used to show the different levels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213733Z" creationid="Marco Marega" creationdate="20171226T213733Z">
+        <seg>Qui il &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt; viene usato per mostrare i vari livelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the ID is taken from the table which comes first in the FROM definition.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T180148Z" creationid="Manuel Frassinetti" creationdate="20171204T180148Z">
@@ -6202,6 +6210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212129Z" creationid="Marco Marega" creationdate="20171126T212129Z">
         <seg>Nell'esempio sopra riportato, i pulsanti di scelta sostituiscono una casella di riepilogo di due elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main form we have the text field for the form title and the list box for finding the reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213855Z" creationid="Marco Marega" creationdate="20171226T213855Z">
+        <seg>Nel formulario principale troviamo il campo di testo con il titolo del formulario  e la casella di riepilogo per la ricerca dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9354,6 +9370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175135Z" creationid="Marco Marega" creationdate="20171226T174731Z">
         <seg>La procedura guidata per la casella di riepilogo consente di creare solamente un casella che visualizza il contenuto di un solo campo; sarebbe impossibile avere il cognome, &lt;f0&gt;il&lt;/f0&gt; nome e un numero aggiuntivo nell'elenco visualizzato dalla casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list box appears at the bottom of the form, as it is declared after the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213950Z" creationid="Marco Marega" creationdate="20171226T213950Z">
+        <seg>La casella di riepilogo appare in cima al formulario, in quanto è stata dichiarata dopo il formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
