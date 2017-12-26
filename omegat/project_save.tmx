@@ -7398,6 +7398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One level further down are the two additional subforms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214205Z" creationid="Marco Marega" creationdate="20171226T214205Z">
+        <seg>Un livello ancora più in basso ci sono i due formulari secondari aggiuntivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of several options can then be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210739Z" creationid="Marco Marega" creationdate="20171109T210739Z">
@@ -9758,6 +9766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The subform has only one button, for updating its contents and at the same time saving the main &lt;t2/&gt;form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214140Z" creationid="Marco Marega" creationdate="20171226T214140Z">
+        <seg>Il formulario secondario contiene solo un pulsante, per aggiornare i suoi contenuti e allo stesso tempo salvare il formulario&lt;t2/&gt; principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The subform’s properties are unchanged from the version shown above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173728Z" creationid="Marco Marega" creationdate="20171226T173728Z">
@@ -10802,6 +10818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114645Z" creationid="Manuel Frassinetti" creationdate="20171202T114645Z">
         <seg>Sfortunatamente l'editor non memorizza queste interruzioni di riga, quindi quando la ricerca viene richiamata di nuovo, apparirà come una singola interruzione di linea continua sul bordo della finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately this display sequence cannot be altered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214026Z" creationid="Marco Marega" creationdate="20171226T214026Z">
+        <seg>Sfortunatamente quest'ordine di visualizzazione non può essere modificato.</seg>
       </tuv>
     </tu>
     <tu>
