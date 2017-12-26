@@ -6166,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, this means an empty table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T221040Z" creationid="Marco Marega" creationdate="20171226T221040Z">
+        <seg>In pratica questo si traduce in un campo di controllo tabella vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In principle a query &lt;f0&gt;that&lt;/f0&gt; produces an error message in the underlying database cannot be saved &lt;f1&gt;until the error is corrected&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181156Z" creationid="Manuel Frassinetti" creationdate="20171130T181156Z">
