@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before we create a list box in the main form, we must switch off the wizards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173816Z" creationid="Marco Marega" creationdate="20171226T173816Z">
+        <seg>Prima di creare una casella di riepilogo all'interno del formulario principale, è necessario disattivare le procedure guidate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Behind the button for Formating &lt;f0&gt;i&lt;/f0&gt;s a flexible field &lt;f1&gt;t&lt;/f1&gt;h&lt;f2&gt;at&lt;/f2&gt; makes most currency and numeric fields unnecessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211621Z" creationid="Marco Marega" creationdate="20171026T211621Z">
@@ -9238,6 +9246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list box Wizard only allows you to create a box that shows the content of a single field; it would be impossible to have surname &lt;f0&gt;a&lt;/f0&gt;nd given name and an additional number in the display area of a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T174731Z" creationid="Marco Marega" creationdate="20171226T174731Z">
+        <seg>The list box Wizard only allows you to create a box that shows the content of a single field; it would be impossible to have surname &lt;f0&gt;a&lt;/f0&gt;nd given name and an additional number in the display area of a list box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list box has now been created complete with data and default configuration and is fully functional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214357Z" creationid="Marco Marega" creationdate="20171029T214357Z">
@@ -9586,6 +9602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T222448Z" creationid="Marco Marega" creationdate="20171205T222448Z">
         <seg>La &lt;f0&gt;Barra di navigazione &lt;/f0&gt;standard del &lt;f1&gt;Formulario &lt;/f1&gt;mette a disposizione i &lt;f2&gt;pulsanti mostrati nella Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;30&lt;/t4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The subform’s properties are unchanged from the version shown above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173728Z" creationid="Marco Marega" creationdate="20171226T173728Z">
+        <seg>Le proprietà del formulario secondario sono immutate rispetto alla versione illustrata sopra.</seg>
       </tuv>
     </tu>
     <tu>
