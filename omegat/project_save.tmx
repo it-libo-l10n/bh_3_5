@@ -3022,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As in the simpler form, we now enter for the list box contents &lt;f1&gt;Surname, Given name – ID Nr&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175245Z" creationid="Marco Marega" creationdate="20171226T175245Z">
+        <seg>Come nel formulario semplice, ora inseriremo i contenuti della casella di riepilogo &lt;f1&gt;Surname (Cognome), Given name (Nome) – ID Nr&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142348Z" creationid="Marina Latini" creationdate="20171213T142348Z">
@@ -7022,6 +7030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next to the list box, a button is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175334Z" creationid="Marco Marega" creationdate="20171226T175334Z">
+        <seg>A lato della casella di riepilogo, viene creato un pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No data will be added; the current record will just be repeatedly rewritten.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221854Z" creationid="Marco Marega" creationdate="20171217T221854Z">
@@ -9262,6 +9278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list box transmits the ID to the underlying table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175306Z" creationid="Marco Marega" creationdate="20171226T175306Z">
+        <seg>La casella di riepilogo trasmetto l'ID alla tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list contents are loaded with individual items separated by &lt;f3&gt;Shift – Enter&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205559Z" creationid="Marco Marega" creationdate="20171101T205559Z">
@@ -9962,6 +9986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111146Z" creationid="Marina Latini" creationdate="20171207T111146Z">
         <seg>Questo libro, le altre guide utente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, il sistema di aiuto integrato, e i sistemi di assistenza agli utilizzatori presuppongono che da parte vostra vi sia un minimo di familiarità con il vostro computer e con funzioni basilari quali l'avvio di un programma, l'apertura ed il salvataggio di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button is actually part of the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175404Z" creationid="Marco Marega" creationdate="20171226T175404Z">
+        <seg>Questo pulsante in realtà fa parte del formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
