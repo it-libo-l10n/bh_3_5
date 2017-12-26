@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10250,6 +10250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111240Z" creationid="Marina Latini" creationdate="20171207T111240Z">
         <seg>Questo è il vostro primo supporto per l'utilizzo di &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This main form is linked to the subform in such a way that the value of the &lt;f0&gt;Integer&lt;/f0&gt; field in the &lt;f1&gt;Filter&lt;/f1&gt; table is the same as the value of the &lt;f2&gt;Reader_ID&lt;/f2&gt; field in the Loan Table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173648Z" creationid="Marco Marega" creationdate="20171226T173648Z">
+        <seg>Questo formulario principale è collegato al formulario secondario in modo tale che il valore del campo &lt;f0&gt;Integer&lt;/f0&gt; nella tabella &lt;f1&gt;Filter&lt;/f1&gt; sia lo stesso del campo &lt;f2&gt;Reader_ID&lt;/f2&gt; nella tabella Loan.</seg>
       </tuv>
     </tu>
     <tu>
