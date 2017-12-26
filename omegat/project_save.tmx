@@ -4574,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Main form as a filter for a subform</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180506Z" creationid="Marco Marega" creationdate="20171226T180506Z">
+        <seg>Figura &lt;seq0&gt;39&lt;/seq0&gt;: Formulario principale come filtro per un formulario secondario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
