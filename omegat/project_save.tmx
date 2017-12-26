@@ -8534,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That is why all the fields for this form are set to &lt;f0&gt;No.&lt;/f0&gt; The main form and the subform are linked through the field, whose value is to be transmitted to the sub‑subforms: the &lt;f1&gt;Integer field in the&lt;/f1&gt; &lt;f2&gt;Filter&lt;/f2&gt; table&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220632Z" creationid="Marco Marega" creationdate="20171226T220632Z">
+        <seg>Per questo tutti i campi di questo formulario sono impostato a &lt;f0&gt;No.&lt;/f0&gt; Il formulario principale e il formulario secondario sono collegati attraverso il campo, il cui valore va trasmetto ai formulari secondari del formulario secondario: il campo &lt;f1&gt;Integer nella tabella&lt;/f1&gt; &lt;f2&gt;Filter&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That will not be assumed in what follows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214423Z" creationid="Marco Marega" creationdate="20171210T214423Z">
