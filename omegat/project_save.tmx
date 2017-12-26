@@ -4686,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a greater degree of functionality (returns without alteration of previous data) a second subform must be created, linked to the same Loans table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213102Z" creationid="Marco Marega" creationdate="20171226T213102Z">
+        <seg>Per ottenere un maggior grado di funzionalità (restituzioni senza modifica dei dati precedenti) deve essere creato un secondo formulario secondario, collegato sempre alla tabella Loan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; What's This?&lt;/f3&gt;&lt;f4&gt; and hold the pointer over the icon.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T132001Z" creationid="Marina Latini" creationdate="20171207T132001Z">
@@ -7786,6 +7794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145438Z" creationid="Marina Latini" creationdate="20171213T143721Z">
         <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Readers can be found more quickly by typing into the control than by using a filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T212853Z" creationid="Marco Marega" creationdate="20171226T212853Z">
+        <seg>gli utenti possono essere trovati più velocemente digitando nel campo di controllo piuttosto che usando un filtro.</seg>
       </tuv>
     </tu>
     <tu>
