@@ -5624,16 +5624,16 @@
       <tuv lang="EN">
         <seg>If a reader is now selected in the main form, the subform will show the media on loan to that reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T204631Z" creationid="Marco Marega" creationdate="20171217T204631Z">
-        <seg>Ora se viene selezionato un lettore nel formulario principale, il formulario secondario visualizzerà i supporti in prestito a quel lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215646Z" creationid="Marco Marega" creationdate="20171217T204631Z">
+        <seg>Ora se viene selezionato un utente nel formulario principale, il formulario secondario visualizzerà i supporti in prestito a quell'utente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If a reader record is not selected by clicking on the record header at the left, only the little green arrow on the header shows which record is currently active.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214552Z" creationid="Marco Marega" creationdate="20171217T214552Z">
-        <seg>Se il record di un lettore non viene selezionato facendo clic sull'intestazione alla sua sinistra, il record attivo al momento viene evidenziato solamente da una piccola freccia verde sull'intestazione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215721Z" creationid="Marco Marega" creationdate="20171217T214552Z">
+        <seg>Se il record di un utente non viene selezionato facendo clic sull'intestazione alla sua sinistra, il record attivo al momento viene evidenziato solamente da una piccola freccia verde sull'intestazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5776,8 +5776,8 @@
       <tuv lang="EN">
         <seg>If the original reader is selected again, returned media are no longer displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T204917Z" creationid="Marco Marega" creationdate="20171217T204917Z">
-        <seg>Se viene selezionato nuovamente il lettore originario, il supporto restituito non sarà più visualizzato.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215706Z" creationid="Marco Marega" creationdate="20171217T204917Z">
+        <seg>Se viene selezionato nuovamente l'utente originario, il supporto restituito non sarà più visualizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,8 +6072,8 @@
       <tuv lang="EN">
         <seg>In addition, the display order could be sorted by &lt;f0&gt;R&lt;/f0&gt;eader, so that media on loan to the same person are displayed successively.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T204440Z" creationid="Marco Marega" creationdate="20171213T204440Z">
-        <seg>Inoltre, la visualizzazione potrebbe essere ordinata per &lt;f0&gt;Lettore&lt;/f0&gt;(Reader), in modo che i supporti prestati alla stessa persona vengano visualizzati in successione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215535Z" creationid="Marco Marega" creationdate="20171213T204440Z">
+        <seg>Inoltre, la visualizzazione potrebbe essere ordinata per &lt;f0&gt;Utente&lt;/f0&gt;(Reader), in modo che i supporti prestati alla stessa persona vengano visualizzati in successione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6640,8 +6640,8 @@
       <tuv lang="EN">
         <seg>It would be nice if selecting a reader in one part of the form caused the media on loan to this reader to be displayed in another.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205147Z" creationid="Marco Marega" creationdate="20171215T205147Z">
-        <seg>Sarebbe bello se, selezionando un lettore in una sezione del formulario, in un'altra parte venissero visualizzati i supporti in prestito a quel lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215602Z" creationid="Marco Marega" creationdate="20171215T205147Z">
+        <seg>Sarebbe bello se, selezionando un utente in una sezione del formulario, in un'altra parte venissero visualizzati i supporti in prestito a quell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9528,8 +9528,8 @@
       <tuv lang="EN">
         <seg>The navigation bar &lt;f4&gt;control &lt;/f4&gt;is positioned near the reader, so the user notice&lt;f5&gt;s&lt;/f5&gt; that the navigation bar is used for the reader and not for the media &lt;f6&gt;loaned to &lt;/f6&gt;the reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215501Z" creationid="Marco Marega" creationdate="20171205T213334Z">
-        <seg>Il controllo barra di navigazione &lt;f4&gt;&lt;/f4&gt;è posizionato vicino all'utente (reader), in modo che l'utilizzatore &lt;f5&gt;capisca&lt;/f5&gt; che la barra di navigazione va usata per l'utente e non per i media &lt;f6&gt;prestati &lt;/f6&gt;al lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215518Z" creationid="Marco Marega" creationdate="20171205T213334Z">
+        <seg>Il controllo barra di navigazione &lt;f4&gt;&lt;/f4&gt;è posizionato vicino all'utente (reader), in modo che l'utilizzatore &lt;f5&gt;capisca&lt;/f5&gt; che la barra di navigazione va usata per l'utente e non per i media &lt;f6&gt;prestati &lt;/f6&gt;all'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9688,8 +9688,8 @@
       <tuv lang="EN">
         <seg>The properties of the subform must now be set up to give it the right data source, in order to reproduce the data for the correct reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211020Z" creationid="Marco Marega" creationdate="20171216T211020Z">
-        <seg>Ora è necessario impostare le proprietà del formulario secondario per assegnargli la corretta sorgente dei dati, cosicché possa riprodurre i dati del lettore giusto.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215620Z" creationid="Marco Marega" creationdate="20171216T211020Z">
+        <seg>Ora è necessario impostare le proprietà del formulario secondario per assegnargli la corretta sorgente dei dati, cosicché possa riprodurre i dati dell'utente giusto.</seg>
       </tuv>
     </tu>
     <tu>
