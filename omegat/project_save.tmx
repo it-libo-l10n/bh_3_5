@@ -8710,6 +8710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The action assigned to it in the general properties of the button is &lt;f1&gt;Refresh Form&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180435Z" creationid="Marco Marega" creationdate="20171226T180435Z">
+        <seg>L'operazione che gli viene assegnata nelle proprietà generali del pulsante è &lt;f1&gt;Aggiorna Formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The active record marker &lt;/f0&gt;&lt;f1&gt;(green arrow) &lt;/f1&gt;&lt;f2&gt;always appears on the left side of the table, here pointing to the first record as the active record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101542Z" creationid="Manuel Frassinetti" creationdate="20171130T181743Z">
