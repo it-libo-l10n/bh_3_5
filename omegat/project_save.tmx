@@ -6456,8 +6456,8 @@
       <tuv lang="EN">
         <seg>It is good enough to entrust the update to the button in the subform.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175814Z" creationid="Marco Marega" creationdate="20171226T175814Z">
-        <seg>È sufficiente assegnare l'aggiornamento al pulsante nel formulario secondario.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175829Z" creationid="Marco Marega" creationdate="20171226T175814Z">
+        <seg>È sufficiente assegnare al pulsante l'aggiornamento del formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,6 +8750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The button can simply be labeled &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180016Z" creationid="Marco Marega" creationdate="20171226T180016Z">
+        <seg>Il pulsante può avere semplicemente l'etichetta &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The button receives the focus when it is clicked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212803Z" creationid="Marco Marega" creationdate="20171126T212803Z">
@@ -9610,6 +9618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180953Z" creationid="Manuel Frassinetti" creationdate="20171209T180953Z">
         <seg>Il risultato mostra il numero di record di dati per ogni &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Lettore_ID&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The save process for the modified main form is then carried out automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175902Z" creationid="Marco Marega" creationdate="20171226T175817Z">
+        <seg>Il processo di salvataggio delle modifiche nel formulario principale viene eseguito automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
