@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Basically the names of forms and controls are without significance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214505Z" creationid="Marco Marega" creationdate="20171226T214505Z">
+        <seg>&lt;f0&gt;Fondamentalmente i nomi dei formulari e dei campi di controllo sono privi di significato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Before submit&lt;/f0&gt;&lt;f1&gt;ting&lt;/f1&gt;: Before the form data are sent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T200917Z" creationid="Marco Marega" creationdate="20171015T200917Z">
@@ -5410,6 +5418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142323Z" creationid="Marina Latini" creationdate="20171213T142323Z">
         <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However if these names are to be &lt;/f0&gt;&lt;f1&gt;accessed by macros, they must be distinguishable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214603Z" creationid="Marco Marega" creationdate="20171226T214603Z">
+        <seg>Però se si deve accedere a questi nomi &lt;/f0&gt;&lt;f1&gt;attraverso delle macro, questi devono essere distinguibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10018,6 +10034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170546Z" creationid="Marina Latini" creationdate="20171207T170546Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are given different names when created so that no confusion arises in any level of the tree.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214405Z" creationid="Marco Marega" creationdate="20171226T214405Z">
+        <seg>A questi, quando sono stati creati, sono stati assegnati dei nomi diversi, in modo che non possa sorgere confusione in nessun livello della struttura ad albero.</seg>
       </tuv>
     </tu>
     <tu>
