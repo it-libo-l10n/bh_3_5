@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Naturally it makes sense, when creating larger form structures to have meaningful names for forms and their controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214807Z" creationid="Marco Marega" creationdate="20171226T214807Z">
+        <seg>Ovviamente, quando si creano strutture di formulari più grandi, è più sensato avere dei nomi significativi per i formulari e per i loro campi di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigation bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205958Z" creationid="Marco Marega" creationdate="20171015T205958Z">
@@ -7594,6 +7602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T162724Z" creationid="Marina Latini" creationdate="20171207T162724Z">
         <seg>Anche altri siti web gestiti da utenti offrono gratuitamente consigli e tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise finding the right field could quickly become problematic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214932Z" creationid="Marco Marega" creationdate="20171226T214932Z">
+        <seg>Altrimenti trovare il giusto campo di controllo in breve tempo potrebbe diventare problematico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11522,6 +11538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204844Z" creationid="Marco Marega" creationdate="20171125T204844Z">
         <seg>Potete usare il selettore dei record per accedere alla funzione di eliminazione dell'intero record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot distinguish identical names at the same level.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214640Z" creationid="Marco Marega" creationdate="20171226T214640Z">
+        <seg>Non potreste distinguere dei nomi identici sullo stesso livello.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
