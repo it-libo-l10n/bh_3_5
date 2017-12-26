@@ -4344,8 +4344,8 @@
       <tuv lang="EN">
         <seg>Entry into a image control takes place either by a double-click with the mouse to open a file selection dialog, or a right-click to choose whether an existing graphic is to be deleted or replaced.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204545Z" creationid="Marco Marega" creationdate="20171118T204545Z">
-        <seg>L'inserimento in un campo di controllo immagine avviene, o tramite un doppio clic con il mouse per aprire la finestra di dialogo di selezione file, oppure facendo clic con il tasto destro del mouse per scegliere se l'immagine esistente va eliminata o sostituita.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220001Z" creationid="Marco Marega" creationdate="20171118T204545Z">
+        <seg>L'inserimento in un campo di controllo immagine avviene, o tramite un doppio clic con il mouse per aprire la finestra di dialogo di selezione file, oppure facendo clic con il pulsante destro del mouse per scegliere se l'immagine esistente va eliminata o sostituita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6352,8 +6352,8 @@
       <tuv lang="EN">
         <seg>Instead of the text “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;”, it would be better to have the reader’s name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214901Z" creationid="Marco Marega" creationdate="20171217T214901Z">
-        <seg>Al posto del testo “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;” (Supporti in prestito al lettore selezionato), sarebbe preferibile avere il nome del lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215746Z" creationid="Marco Marega" creationdate="20171217T214901Z">
+        <seg>Al posto del testo “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;” (Supporti in prestito all'utente selezionato), sarebbe preferibile avere il nome dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6624,8 +6624,8 @@
       <tuv lang="EN">
         <seg>It would be better to use a list box to find the reader and carry out the issue and return operations in separate table controls.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220420Z" creationid="Marco Marega" creationdate="20171217T220420Z">
-        <seg>Sarebbe preferibile usare una casella di riepilogo per trovare il lettore ed effettuare le operazioni di emissione e restituzione in un separato campo di controllo tabella.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215811Z" creationid="Marco Marega" creationdate="20171217T220420Z">
+        <seg>Sarebbe preferibile usare una casella di riepilogo per trovare l'utente ed effettuare le operazioni di emissione e restituzione in un separato campo di controllo tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10632,8 +10632,8 @@
       <tuv lang="EN">
         <seg>This still requires a search function when a reader wishes to borrow a&lt;f0&gt;n item&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220247Z" creationid="Marco Marega" creationdate="20171217T220247Z">
-        <seg>Ciò richiede una funzione di ricerca quando un lettore desidera prendere in prestito &lt;f0&gt;un articolo&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215800Z" creationid="Marco Marega" creationdate="20171217T220247Z">
+        <seg>Ciò richiede una funzione di ricerca quando un utente desidera prendere in prestito &lt;f0&gt;un articolo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
