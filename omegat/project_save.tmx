@@ -4894,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this, the suggested filter is adequate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220809Z" creationid="Marco Marega" creationdate="20171226T220809Z">
+        <seg>Per questo il filtro suggerito è adeguato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Form &lt;f0&gt;p&lt;/f0&gt;roperties</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182855Z" creationid="Marco Marega" creationdate="20171014T182731Z">
@@ -6230,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the first sub-subform, no existing data are displayed; it is used only for creating new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220741Z" creationid="Marco Marega" creationdate="20171226T220741Z">
+        <seg>Nel primo formulario secondario del formulario secondario, non vengono visualizzati dati già esistenti; viene usato solo per la creazioni di nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main form we have the text field for the form title and the list box for finding the reader.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213855Z" creationid="Marco Marega" creationdate="20171226T213855Z">
@@ -7506,6 +7522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214325Z" creationid="Marco Marega" creationdate="20171126T214325Z">
         <seg>Un solo pulsante del formulario può essere quello predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only records matching the &lt;f0&gt;Reader_ID&lt;/f0&gt; and with an empty loan date field ("&lt;f1&gt;Loan_Date" IS NULL&lt;/f1&gt;) will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T221006Z" creationid="Marco Marega" creationdate="20171226T221006Z">
+        <seg>Verranno visualizzati solo i record corrispondenti a un determinato &lt;f0&gt;Reader_ID&lt;/f0&gt; e con il campo relativo alla data del prestito vuoto ("&lt;f1&gt;Loan_Date" IS NULL&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
