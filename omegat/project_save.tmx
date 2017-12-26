@@ -2728,8 +2728,8 @@
       <tuv lang="EN">
         <seg>A&lt;f2&gt;n a&lt;/f2&gt;dditional problem might be, that &lt;f3&gt;LastName&lt;/f3&gt; could be the same for more than one reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212240Z" creationid="Marco Marega" creationdate="20171101T212240Z">
-        <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215321Z" creationid="Marco Marega" creationdate="20171101T212240Z">
+        <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@
       <tuv lang="EN">
         <seg>For fields such as &lt;f2&gt;Reader_ID&lt;/f2&gt; or &lt;f3&gt;Media_ID&lt;/f3&gt;, it would be more useful to be able to choose the reader or the media directly, rather than a number representing the reader or media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202825Z" creationid="Marco Marega" creationdate="20171125T202825Z">
-        <seg>Per campi come &lt;f2&gt;Reader_ID&lt;/f2&gt; o &lt;f3&gt;Media_ID&lt;/f3&gt;, sarebbe più utile avere la possibilità di scegliere direttamente il lettore o il supporto, piuttosto che il numero che li rappresenta.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215342Z" creationid="Marco Marega" creationdate="20171125T202825Z">
+        <seg>Per campi come &lt;f2&gt;Reader_ID&lt;/f2&gt; o &lt;f3&gt;Media_ID&lt;/f3&gt;, sarebbe più utile avere la possibilità di scegliere direttamente l'utente o il supporto, piuttosto che il numero che li rappresenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5496,8 +5496,8 @@
       <tuv lang="EN">
         <seg>However this table does not store the name of the reader but the corresponding primary key from the Reader table&lt;f2&gt;.&lt;/f2&gt; It is therefore the Reader table t&lt;f3&gt;hat fo&lt;/f3&gt;rm&lt;f4&gt;s&lt;/f4&gt; the basis for the list box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212951Z" creationid="Marco Marega" creationdate="20171029T212951Z">
-        <seg>Però questa tabella non contiene il nome del lettore, bensì la corrispondente chiave primaria della tabella Reader&lt;f2&gt;.&lt;/f2&gt; Perciò è la tabella Reader che &lt;f3&gt;rappresenta &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; la base per la casella di riepilogo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215216Z" creationid="Marco Marega" creationdate="20171029T212951Z">
+        <seg>Però questa tabella non contiene il nome dell'utente, bensì la corrispondente chiave primaria della tabella Reader&lt;f2&gt;.&lt;/f2&gt; Perciò è la tabella Reader che &lt;f3&gt;rappresenta &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; la base per la casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8728,8 +8728,8 @@
       <tuv lang="EN">
         <seg>The Loans table i&lt;f0&gt;s suppos&lt;/f0&gt;ed to show which Reader has borro&lt;f1&gt;wed w&lt;/f1&gt;hich Media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212718Z" creationid="Marco Marega" creationdate="20171029T212718Z">
-        <seg>La tabella Loan si &lt;f0&gt;suppone&lt;/f0&gt; che visualizzi quale Lettore ha preso in prestito &lt;f1&gt;un determinato&lt;/f1&gt; Media.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215146Z" creationid="Marco Marega" creationdate="20171029T212718Z">
+        <seg>La tabella Loan si &lt;f0&gt;suppone&lt;/f0&gt; che visualizzi quale Utente ha preso in prestito &lt;f1&gt;un determinato&lt;/f1&gt; Media.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +9184,8 @@
       <tuv lang="EN">
         <seg>The form for Loan&lt;f1&gt;s&lt;/f1&gt;, for example, needs to search &lt;f2&gt;first &lt;/f2&gt;through the readers and then show the media &lt;f3&gt;loaded to &lt;/f3&gt;the reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T213142Z" creationid="Marco Marega" creationdate="20171205T213142Z">
-        <seg>Il formulario &lt;f1&gt;Loan&lt;/f1&gt;, ad esempio, deve cercare &lt;f2&gt;prima &lt;/f2&gt;tra i lettori (reader) e poi visualizza i media &lt;f3&gt;in carico &lt;/f3&gt;a quel lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215400Z" creationid="Marco Marega" creationdate="20171205T213142Z">
+        <seg>Il formulario &lt;f1&gt;Loan&lt;/f1&gt;, ad esempio, deve cercare &lt;f2&gt;prima &lt;/f2&gt;tra i lettori (reader) e poi visualizza i media &lt;f3&gt;in carico &lt;/f3&gt;a quell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9528,8 +9528,8 @@
       <tuv lang="EN">
         <seg>The navigation bar &lt;f4&gt;control &lt;/f4&gt;is positioned near the reader, so the user notice&lt;f5&gt;s&lt;/f5&gt; that the navigation bar is used for the reader and not for the media &lt;f6&gt;loaned to &lt;/f6&gt;the reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T213334Z" creationid="Marco Marega" creationdate="20171205T213334Z">
-        <seg>Il controllo barra di navigazione &lt;f4&gt;&lt;/f4&gt;è posizionato vicino al lettore (reader), in modo che l'utente &lt;f5&gt;capisca&lt;/f5&gt; che la barra di navigazione va usata per il lettore e non per i media &lt;f6&gt;prestati &lt;/f6&gt;al lettore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215501Z" creationid="Marco Marega" creationdate="20171205T213334Z">
+        <seg>Il controllo barra di navigazione &lt;f4&gt;&lt;/f4&gt;è posizionato vicino all'utente (reader), in modo che l'utilizzatore &lt;f5&gt;capisca&lt;/f5&gt; che la barra di navigazione va usata per l'utente e non per i media &lt;f6&gt;prestati &lt;/f6&gt;al lettore.</seg>
       </tuv>
     </tu>
     <tu>
