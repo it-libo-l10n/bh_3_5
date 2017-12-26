@@ -1936,8 +1936,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;ight-click on the main form in the &lt;f1&gt;F&lt;/f1&gt;orm &lt;f2&gt;N&lt;/f2&gt;avigator &lt;f3&gt;t&lt;/f3&gt;o &lt;f4&gt;use&lt;/f4&gt; the context menu to create a new form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211514Z" creationid="Marco Marega" creationdate="20171215T211514Z">
-        <seg>Fate clic con il &lt;f0&gt;tasto destro&lt;/f0&gt; del mouse sul formulario principale all'interno del &lt;f1&gt;Navigatore &lt;/f1&gt; &lt;f2&gt;formulario&lt;/f2&gt; &lt;f3&gt;in&lt;/f3&gt; modo da &lt;f4&gt;usare&lt;/f4&gt; il menu contestuale per creare un nuovo formulario.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220121Z" creationid="Marco Marega" creationdate="20171215T211514Z">
+        <seg>Fate clic con il &lt;f0&gt;pulsante destro&lt;/f0&gt; del mouse sul formulario principale all'interno del &lt;f1&gt;Navigatore &lt;/f1&gt; &lt;f2&gt;formulario&lt;/f2&gt; &lt;f3&gt;in&lt;/f3&gt; modo da &lt;f4&gt;usare&lt;/f4&gt; il menu contestuale per creare un nuovo formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2656,8 +2656,8 @@
       <tuv lang="EN">
         <seg>A simple solution would be not to allow any modification except the entry of new records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T220127Z" creationid="Marco Marega" creationdate="20171217T220127Z">
-        <seg>Un soluzione semplice sarebbe quella di non permettere alcuna modifica a eccezione dell'inserimento di nuovi record.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220151Z" creationid="Marco Marega" creationdate="20171217T220127Z">
+        <seg>Una soluzione semplice sarebbe quella di non permettere alcuna modifica a eccezione dell'inserimento di nuovi record.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5904,8 +5904,8 @@
       <tuv lang="EN">
         <seg>If you want to alter only the labels, &lt;f0&gt;hold down&lt;/f0&gt; the &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; key &lt;f4&gt;and &lt;/f4&gt;click these controls directly or in the &lt;f5&gt;N&lt;/f5&gt;avigator, or &lt;f6&gt;right-click&lt;/f6&gt; on a field to call up the control properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194417Z" creationid="Marco Marega" creationdate="20171210T194417Z">
-        <seg>Se volete modificare solo le etichette, &lt;f0&gt;tenete premuto&lt;/f0&gt; il tasto &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; &lt;f4&gt;e &lt;/f4&gt;fate clic su questi campi di controllo, direttamente  o, nel &lt;f5&gt;N&lt;/f5&gt;avigatore, oppure &lt;f6&gt;fate clic con il tasto destro del mouse&lt;/f6&gt; sopra ad un campo in modo da richiamare le proprietà di quel controllo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220049Z" creationid="Marco Marega" creationdate="20171210T194417Z">
+        <seg>Se volete modificare solo le etichette, &lt;f0&gt;tenete premuto&lt;/f0&gt; il tasto &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; &lt;f4&gt;e &lt;/f4&gt;fate clic su questi campi di controllo, direttamente  o, nel &lt;f5&gt;N&lt;/f5&gt;avigatore, oppure &lt;f6&gt;fate clic con il pulsante destro del mouse&lt;/f6&gt; sopra ad un campo in modo da richiamare le proprietà di quel controllo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10224,8 +10224,8 @@
       <tuv lang="EN">
         <seg>This can be done with a right&lt;f0&gt;-&lt;/f0&gt;click on the group and then following the context menu &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214626Z" creationid="Marco Marega" creationdate="20171210T214518Z">
-        <seg>Potete farlo con un &lt;f0&gt;clic con il tasto destro del mouse&lt;/f0&gt; sul gruppo e seguendo poi il menu contestuale &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220104Z" creationid="Marco Marega" creationdate="20171210T214518Z">
+        <seg>Potete farlo con un &lt;f0&gt;clic con il pulsante destro del mouse&lt;/f0&gt; sul gruppo e seguendo poi il menu contestuale &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10696,8 +10696,8 @@
       <tuv lang="EN">
         <seg>Tiny Integer, Primary key</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221409Z" creationid="Marco Marega" creationdate="20171217T221409Z">
-        <seg>Tiny Integer, Primary key</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220308Z" creationid="Marco Marega" creationdate="20171217T221409Z">
+        <seg>Intero piccolo, Chiave primaria</seg>
       </tuv>
     </tu>
     <tu>
