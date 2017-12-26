@@ -6238,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the subform, no data are entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215026Z" creationid="Marco Marega" creationdate="20171226T215026Z">
+        <seg>Nel formulario secondario non vengono inseriti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the table shown above, you can see a lot of records that are not necessary &lt;f0&gt;because&lt;/f0&gt; &lt;f1&gt;t&lt;/f1&gt;hese media are already on loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205402Z" creationid="Marco Marega" creationdate="20171215T205402Z">
@@ -9466,6 +9474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
         <seg>Quello in basso mostra invece tutti i campi, in modo che sia evidente a quale persona e a quale supporto si riferisce il reso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main form and the subform use the same table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215002Z" creationid="Marco Marega" creationdate="20171226T215002Z">
+        <seg>Il formulario principale e il formulario secondario usano la stessa tabella.</seg>
       </tuv>
     </tu>
     <tu>
