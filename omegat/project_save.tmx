@@ -6286,6 +6286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above table control, all fields that have nothing to do with the loan are removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210818Z" creationid="Marco Marega" creationdate="20171229T210727Z">
+        <seg>Nel campo di controllo tabella di sopra, tutti i campi che non hanno a che fare con il prestito vanno rimossi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above table structure this is particularly true of the ID f&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;iel&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;d.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T174040Z" creationid="Manuel Frassinetti" creationdate="20171204T174040Z">
@@ -7634,6 +7642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224734Z" creationid="Marco Marega" creationdate="20171214T224734Z">
         <seg>Nel campo di controllo tabella della parte superiore vengono mostrati solo i campi immediatamente necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the medium as a selection field and the loan date &lt;f0&gt;Loan_Date&lt;/f0&gt; remain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210933Z" creationid="Marco Marega" creationdate="20171229T210731Z">
+        <seg>Rimangono solo i supporti in un campo di selezione e la data del prestito &lt;f0&gt;Loan_Date&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
