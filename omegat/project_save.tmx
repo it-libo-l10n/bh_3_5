@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>("&lt;f1&gt;Return_Date" IS NULL&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205028Z" creationid="Marco Marega" creationdate="20171229T205028Z">
+        <seg>("&lt;f1&gt;Return_Date" IS NULL&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Example: If Field 1 contains a value, Field 2 must not contain one; Field 2 is deactivated.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203231Z" creationid="Marco Marega" creationdate="20171016T203231Z">
@@ -9046,6 +9054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data are sorted as in the previous form, so that the media on loan for the longest time are immediately visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205149Z" creationid="Marco Marega" creationdate="20171229T205149Z">
+        <seg>I dati sono ordinati come nel formulario precedente, in modo che siano immediatamente visibili i supporti in prestito da più tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data category specifies the binding to a field in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210721Z" creationid="Marco Marega" creationdate="20171015T210721Z">
@@ -10410,6 +10426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T205203Z" creationid="Marco Marega" creationdate="20171217T205203Z">
         <seg>Questa struttura di formulario è decisamente più facile da usare rispetto alla precedente con un singolo formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This form too contains data from the "Loans" table&lt;f0&gt;.&lt;/f0&gt; Here the data is filtered for an empty return date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205024Z" creationid="Marco Marega" creationdate="20171229T205024Z">
+        <seg>Anche questo formulario contiene dati che provengono dalla tabella "Loan"&lt;f0&gt;.&lt;/f0&gt; In questo caso i dati sono filtrati in modo da avere solo i record senza una data di restituzione vuota.</seg>
       </tuv>
     </tu>
     <tu>
