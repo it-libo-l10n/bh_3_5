@@ -6054,6 +6054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Imagine a day in the library with perhaps 200 loan transactions, perhaps just one person, who has to loan out about 10 media each time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220427Z" creationid="Marco Marega" creationdate="20171229T220427Z">
+        <seg>Immaginate un giorno in una libreria con 200 ipotetiche transazioni per i prestiti, probabilmente una sola persona potrebbe avere circa 10 supporti da prendere in prestito ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Improving usability</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165547Z" creationid="Marina Latini" creationdate="20171206T165547Z">
@@ -8714,6 +8722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193624Z" creationid="Marco Marega" creationdate="20171210T193609Z">
         <seg>Un tanto farebbe si che immediatamente tutti gli elementi selezionati &lt;f0&gt;acquisiscano&lt;/f0&gt; lo stesso nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That would require the same entry for the date field over and over again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220520Z" creationid="Marco Marega" creationdate="20171229T220520Z">
+        <seg>Questo richiederebbe il continuo reinserimento dello stesso valore nel campo della data.</seg>
       </tuv>
     </tu>
     <tu>
