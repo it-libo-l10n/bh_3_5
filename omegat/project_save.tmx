@@ -4150,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deletion is also impossible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205318Z" creationid="Marco Marega" creationdate="20171229T205318Z">
+        <seg>Anche la cancellazione è impossibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Design</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205839Z" creationid="Marco Marega" creationdate="20171015T205839Z">
@@ -7406,6 +7414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Old records can be changed, but no new records can be added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205251Z" creationid="Marco Marega" creationdate="20171229T205251Z">
+        <seg>I record esistenti possono essere modificati, ma non possono essere aggiunti nuovi record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt;LibreOffice &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170733Z" creationid="Marina Latini" creationdate="20171207T170733Z">
@@ -9190,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following points are also important.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205218Z" creationid="Marco Marega" creationdate="20171229T205218Z">
+        <seg>Anche i seguenti punti sono importanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following query calculates how many media have been loaned out, depending on the Reader_ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175022Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
@@ -10546,6 +10570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212844Z" creationid="Marco Marega" creationdate="20171101T212844Z">
         <seg>Questo è indicato quando la query contiene funzioni che probabilmente potrebbero non essere comprese dall'Interfaccia di Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the first necessary step to prevent loan records from being simply deleted later on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205429Z" creationid="Marco Marega" creationdate="20171229T205429Z">
+        <seg>Questo è il primo passo necessario a prevenire che le registrazioni dei prestiti possano essere facilmente cancellate in un secondo momento.</seg>
       </tuv>
     </tu>
     <tu>
