@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the table control is not continuously updated, newly loaned media will remain within it until the &lt;f2&gt;OK&lt;/f2&gt; update button is used either to select a new name or to transfer the data into the second sub-subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204747Z" creationid="Marco Marega" creationdate="20171229T204747Z">
+        <seg>Siccome il campo di controllo tabella non viene aggiornato continuamente, i supporti appena concessi in prestito rimarranno al suo interno fino a che non verrà usato il tasto  &lt;f2&gt;OK&lt;/f2&gt;, sia per selezionare un nuovo nome che per trasferire i dati nel secondo formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As there is no Subtitle that lacks a title in Media but there are certainly Titles in Media that lack a Subtitle, this is the right choice.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T170606Z" creationid="Manuel Frassinetti" creationdate="20171218T170606Z">
@@ -9818,6 +9826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175902Z" creationid="Marco Marega" creationdate="20171226T175817Z">
         <seg>Il processo di salvataggio delle modifiche nel formulario principale viene eseguito automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second sub-subform requires more settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
+        <seg>Il secondo formulario secondario richiede più impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
