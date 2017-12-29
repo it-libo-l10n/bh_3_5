@@ -3318,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But additional fields can be built into the &lt;f5&gt;Filter&lt;/f5&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220910Z" creationid="Marco Marega" creationdate="20171229T220910Z">
+        <seg>Ma è possibile inserire dei campi aggiuntivi alla tabella &lt;f5&gt;Filter&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you enter Subtitle into the query table, the record content of the Media table is reduced to only 2 Titles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174835Z" creationid="Manuel Frassinetti" creationdate="20171216T174835Z">
