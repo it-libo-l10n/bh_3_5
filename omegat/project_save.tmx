@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But it would still be possible to change the medium and the loan date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205507Z" creationid="Marco Marega" creationdate="20171229T205507Z">
+        <seg>È comunque ancora possibile modificare il supporto e la data del prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But this 0 is reserved for the displayed value, in the above example the &lt;f3&gt;Surname&lt;/f3&gt;, while the 1 refers to the &lt;f4&gt;ID &lt;/f4&gt;field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210836Z" creationid="Marco Marega" creationdate="20171101T210836Z">
@@ -4418,6 +4426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212459Z" creationid="Marco Marega" creationdate="20171014T212459Z">
         <seg>Scheda &lt;f0&gt;Eventi&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Eventually the medium and the loan date should be displayed but protected from modification.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205726Z" creationid="Marco Marega" creationdate="20171229T205726Z">
+        <seg>Infine il supporto e la data del prestito dovrebbero essere visualizzate, ma protette dalla modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10154,6 +10170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221547Z" creationid="Marco Marega" creationdate="20171102T221547Z">
         <seg>Perciò gli esempi seguenti mostrano sia la tabella collegata al formulario, sia quella selezionata per il campo di controllo come la tabella Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore the properties of the columns will require adjustment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205547Z" creationid="Marco Marega" creationdate="20171229T205547Z">
+        <seg>Perciò sono necessari degli aggiustamenti alle proprietà delle colonne.</seg>
       </tuv>
     </tu>
     <tu>
