@@ -9062,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The copy will be at the same position as the original, and will therefore need to be dragged away.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210043Z" creationid="Marco Marega" creationdate="20171229T210043Z">
+        <seg>La copia si troverà nella stessa posizione dell'originale e quindi andrà trascinata via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The corresponding Formula in SQL code is shown above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175208Z" creationid="Manuel Frassinetti" creationdate="20171214T174958Z">
@@ -9966,6 +9974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table control is simply duplicated after the creation of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205825Z" creationid="Marco Marega" creationdate="20171229T205825Z">
+        <seg>Il campo di controllo tabella è stato semplicemente duplicato dopo la creazione del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table definition in the WHERE Formula is also superfluous, because stockID only occurs once (in the Dispatch table) and ID was clearly taken from the Stock table (from the position of the table in the query).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172634Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
@@ -10570,6 +10586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203221Z" creationid="Marco Marega" creationdate="20171125T203221Z">
         <seg>Un tanto verrà definito in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is done by selecting it, copying, deselecting, and then pasting it in from the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205955Z" creationid="Marco Marega" creationdate="20171229T205955Z">
+        <seg>Questo si ottiene selezionandolo, copiandolo, deselezionandolo e quindi incollandolo dagli appunti.</seg>
       </tuv>
     </tu>
     <tu>
