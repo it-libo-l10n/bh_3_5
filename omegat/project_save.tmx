@@ -7790,6 +7790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Our main form is linked to the &lt;f0&gt;Filter table&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt; The main form works only with the record that has as its primary key the "&lt;f2&gt;ID"&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;0&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220828Z" creationid="Marco Marega" creationdate="20171229T220828Z">
+        <seg>Il formulario principale è collegato alla tabella &lt;f0&gt;Filter&lt;/f0&gt;&lt;f1&gt; e &lt;/f1&gt; funziona tramite il record che ha come valore della chiave primaria "&lt;f2&gt;ID"&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;0&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
@@ -10290,6 +10298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204741Z" creationid="Marco Marega" creationdate="20171026T204741Z">
         <seg>Non viene controllato se un campo può essere impostato a ZERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There must be a way to simplify this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220558Z" creationid="Marco Marega" creationdate="20171229T220558Z">
+        <seg>Dev'essere un modo per poter semplificare questo aspetto.</seg>
       </tuv>
     </tu>
     <tu>
