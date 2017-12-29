@@ -5726,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If finally the query for the list box in the upper table control is selected, only those media are displayed which can actually be loaned out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215529Z" creationid="Marco Marega" creationdate="20171229T215529Z">
+        <seg>Infine, se viene selezionata la stessa ricerca della casella di riepilogo del campo di controllo tabella superiore, verranno visualizzati solo quei supporti che risultano effettivamente concessi in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If instead you want to sort first by &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Loan date"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and then by "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan"."Reader_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, that can be done if:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T160336Z" creationid="Manuel Frassinetti" creationdate="20171206T160336Z">
