@@ -4654,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: The selection field in the upper subform shows only media that are not on loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215749Z" creationid="Marco Marega" creationdate="20171229T215749Z">
+        <seg>Figura &lt;seq0&gt;40&lt;/seq0&gt;: Il campo di selezione nel formulario secondario superiore mostra solo i supporti che non sono in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -5728,8 +5736,8 @@
       <tuv lang="EN">
         <seg>If finally the query for the list box in the upper table control is selected, only those media are displayed which can actually be loaned out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215529Z" creationid="Marco Marega" creationdate="20171229T215529Z">
-        <seg>Infine, se viene selezionata la stessa ricerca della casella di riepilogo del campo di controllo tabella superiore, verranno visualizzati solo quei supporti che risultano effettivamente concessi in prestito.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215800Z" creationid="Marco Marega" creationdate="20171229T215529Z">
+        <seg>Infine, se viene selezionata la stessa ricerca della casella di riepilogo del campo di controllo tabella superiore, verranno visualizzati solo quei supporti che possono effettivamente essere concessi in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,6 +7138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213048Z" creationid="Marco Marega" creationdate="20171101T213048Z">
         <seg>Maggiori informazioni su &lt;f1&gt;SQL in Modalità diretta&lt;/f1&gt; si possono trovare nel &lt;f2&gt;Capitolo&lt;/f2&gt; &lt;f3&gt;5,&lt;/f3&gt; Query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More about this &lt;f0&gt;is &lt;/f0&gt;in &lt;f1&gt;Chapter 5,&lt;/f1&gt; Quer&lt;f2&gt;ies&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215622Z" creationid="Marco Marega" creationdate="20171229T215622Z">
+        <seg>Maggiori informazioni su questo argomento &lt;f0&gt;si trovano &lt;/f0&gt;nel &lt;f1&gt;Capitolo 5,&lt;/f1&gt; &lt;f2&gt;Ricerche&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
