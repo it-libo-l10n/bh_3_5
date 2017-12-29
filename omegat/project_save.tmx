@@ -2854,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After that, both table controls can be edited separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210122Z" creationid="Marco Marega" creationdate="20171229T210122Z">
+        <seg>Dopo di ciò, entrambe i campi di controllo tabella potranno essere modificati separatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the form is predefined, this time with the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
@@ -7614,6 +7622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the write access for the &lt;f0&gt;Media&lt;/f0&gt; and &lt;f1&gt;&lt;f2&gt;L&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;oan date&lt;/f3&gt; columns need to be changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210258Z" creationid="Marco Marega" creationdate="20171229T210258Z">
+        <seg>Va modificato solo il permesso di scrittura per le colonne &lt;f0&gt;Media&lt;/f0&gt; e &lt;f1&gt;&lt;f2&gt;L&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;oan date&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only when creating list boxes does the Wizard come into play, making it easier for a novice to carry out the steps for creating correct fields—&lt;f0&gt;u&lt;/f0&gt;p to a point.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210620Z" creationid="Marco Marega" creationdate="20171213T210552Z">
@@ -9974,6 +9990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table control for the media return can be left practically the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210209Z" creationid="Marco Marega" creationdate="20171229T210209Z">
+        <seg>Il campo di controllo tabella per la restituzione dei supporti può essere lasciato praticamente così com'è.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table control is simply duplicated after the creation of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205825Z" creationid="Marco Marega" creationdate="20171229T205825Z">
@@ -11514,6 +11538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T204939Z" creationid="Marco Marega" creationdate="20171014T204939Z">
         <seg>Mentre le Tabelle possono sempre essere utilizzate per inserire dati in un formulario, ciò non è sempre possibile per le Query &lt;f5&gt;(per maggiori informazioni vedete il Capitolo &lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; Query&lt;f8&gt;&lt;/f8&gt;, &lt;f9&gt;di questo libro) o&lt;/f9&gt; per l'inserimento diretto di un comando SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While for the &lt;f0&gt;&lt;f1&gt;Lo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;an date&lt;/f2&gt; it is only necessary to choose &lt;f3&gt;Read &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;only&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;this is not sufficient for list boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210416Z" creationid="Marco Marega" creationdate="20171229T210416Z">
+        <seg>Mentre per la data del prestito (&lt;f0&gt;&lt;f1&gt;Lo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;an date&lt;/f2&gt;) è necessario solamente scegliere &lt;f3&gt;Sola &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;lettura&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;questo non è sufficiente per le caselle di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
