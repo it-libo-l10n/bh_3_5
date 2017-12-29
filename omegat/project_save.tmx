@@ -2590,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list box contained within the table control is then displayed as a read-only text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210709Z" creationid="Marco Marega" creationdate="20171229T210709Z">
+        <seg>Quindi una casella di riepilogo inserita all'interno di un campo di controllo tabella viene visualizzata come un campo di testo di sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list box shows the user different data from what is actually transmitted into the &lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212330Z" creationid="Marco Marega" creationdate="20171029T212330Z">
@@ -5474,6 +5482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142323Z" creationid="Marina Latini" creationdate="20171213T142323Z">
         <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However if &lt;f7&gt;Enabled&lt;/f7&gt; is set to &lt;f8&gt;No&lt;/f8&gt;, a choice cannot be made there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210559Z" creationid="Marco Marega" creationdate="20171229T210559Z">
+        <seg>Però se &lt;f7&gt;Abilitato&lt;/f7&gt; viene impostato a &lt;f8&gt;No&lt;/f8&gt;, non è possibile effettuare alcuna scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10778,6 +10794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213241Z" creationid="Marco Marega" creationdate="20171029T213241Z">
         <seg>Questo campo serve da &lt;f3&gt;campo di visualizzazione&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting does not prevent the list box from being used to make changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210503Z" creationid="Marco Marega" creationdate="20171229T210503Z">
+        <seg>Questa impostazione non impedisce alle caselle di riepilogo di essere usate per apportare modifiche.</seg>
       </tuv>
     </tu>
     <tu>
