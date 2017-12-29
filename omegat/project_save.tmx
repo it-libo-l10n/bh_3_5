@@ -2558,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A final improvement is also desirable: at present the loan date must be selected each time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220202Z" creationid="Marco Marega" creationdate="20171229T220202Z">
+        <seg>Sarebbe auspicabile un ultimo miglioramento: allo stato attuale la data del prestito dev'essere selezionata ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A frame around, for example, a set of option buttons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205831Z" creationid="Marco Marega" creationdate="20171015T205831Z">
@@ -8734,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ab&lt;/f2&gt; key then takes you to the next record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220101Z" creationid="Marco Marega" creationdate="20171229T220101Z">
+        <seg>Il tasto &lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ab&lt;/f2&gt; vi porta quindi al prossimo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;ID&lt;/f0&gt; control should be declared as read-only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193430Z" creationid="Marco Marega" creationdate="20171212T193430Z">
@@ -9690,6 +9706,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210548Z" creationid="Marco Marega" creationdate="20171215T210548Z">
         <seg>Il formulario principale visualizza una tabella con i record in dipendenza dei quali è possibile collegare e visualizzare molti record nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The media loan form is already significantly more useful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215840Z" creationid="Marco Marega" creationdate="20171229T215840Z">
+        <seg>Il formulario per il prestito dei supporti è già sensibilmente più utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The media to be loaned can be selected using the list box and the loan date entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220016Z" creationid="Marco Marega" creationdate="20171229T220016Z">
+        <seg>Il supporto da prestare può essere selezionato usando la casella di riepilogo e può essere inserita la data del prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11466,6 +11498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211442Z" creationid="Marco Marega" creationdate="20171029T211442Z">
         <seg>Quando create una casella di riepilogo, per impostazione predefinita, compare la finestra di creazione guidata &lt;f0&gt;Casella &lt;/f0&gt;di &lt;f1&gt;riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a reader arrives at the loan counter, his or her name is searched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215922Z" creationid="Marco Marega" creationdate="20171229T215922Z">
+        <seg>Quando un utente arriva allo sportello dei prestiti, viene cercato il suo nome.</seg>
       </tuv>
     </tu>
     <tu>
