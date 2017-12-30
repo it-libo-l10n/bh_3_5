@@ -4894,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For in fact each medium will have a printed accession number, so why does that have to be searched?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154924Z" creationid="Marco Marega" creationdate="20171230T154924Z">
+        <seg>Dato che di fatto ogni supporto riporta stampato un codice di accesso, perché questo non può essere ricercato?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For libraries, this applies equally to deletions or complete name changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215906Z" creationid="Marco Marega" creationdate="20171217T215906Z">
@@ -11042,6 +11050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091724Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
         <seg>Questa finestra permette di combinare più tabelle (e anche viste e richieste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This would be the ideal requirement for speeding up even more the work of the library.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154721Z" creationid="Marco Marega" creationdate="20171230T154721Z">
+        <seg>Questo sarebbe un requisito ideale per accelerare ancor di più il lavoro della libreria.</seg>
       </tuv>
     </tu>
     <tu>
