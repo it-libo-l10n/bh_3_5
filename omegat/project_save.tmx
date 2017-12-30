@@ -3166,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As there are several such tables, their values are entered into the main form using list boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214314Z" creationid="Marco Marega" creationdate="20171230T214314Z">
+        <seg>Dato che ci sono diverse di queste tabelle, i loro valori vengono inseriti nel formulario principale utilizzando delle caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As there is no Subtitle that lacks a title in Media but there are certainly Titles in Media that lack a Subtitle, this is the right choice.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T170606Z" creationid="Manuel Frassinetti" creationdate="20171218T170606Z">
@@ -10394,6 +10402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221550Z" creationid="Marco Marega" creationdate="20171217T221550Z">
         <seg>Alla tabella viene assegnata una chiave primaria con il valore 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table of a main form stands to the table of a subform in a 1:n relationship, or in some exceptional cases 1:1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214517Z" creationid="Marco Marega" creationdate="20171230T214517Z">
+        <seg>La tabella del formulario principale è in una relazione di uno a molti con la tabella dei formulari secondari, o in qualche caso eccezionale in una relazione di 1 a 1.</seg>
       </tuv>
     </tu>
     <tu>
