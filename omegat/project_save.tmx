@@ -7414,6 +7414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nor is it possible to delete records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161324Z" creationid="Marco Marega" creationdate="20171230T161324Z">
+        <seg>Non è nemmeno possibile cancellare dei record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not every field that is possible in a form can be selected for a table control field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200624Z" creationid="Marco Marega" creationdate="20171125T200624Z">
