@@ -8808,8 +8808,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Integer&lt;/f0&gt; field is bound to the &lt;f1&gt;Reader_ID&lt;/f1&gt; field of the sub-subform.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153111Z" creationid="Marco Marega" creationdate="20171230T153111Z">
-        <seg>Il campo &lt;f0&gt;Integer&lt;/f0&gt; è collegato al controllo di campo &lt;f1&gt;Reader_ID&lt;/f1&gt; del formulario secondario.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153157Z" creationid="Marco Marega" creationdate="20171230T153111Z">
+        <seg>Il campo &lt;f0&gt;Integer&lt;/f0&gt; è collegato al campo di controllo &lt;f1&gt;Reader_ID&lt;/f1&gt; del formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8842,6 +8842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213433Z" creationid="Marco Marega" creationdate="20171213T213433Z">
         <seg>Il &lt;f1&gt;Navigatore&lt;/f1&gt; non sa nulla dei campi di controllo disposti all'interno del campo di controllo tabella e che fanno riferimento a campi della tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f2&gt;Date&lt;/f2&gt; field is bound to the &lt;f3&gt;Loan_Date&lt;/f3&gt;&lt;f4&gt; field.&lt;/f4&gt; This ensures that the &lt;f5&gt;Loan_Date&lt;/f5&gt; is automatically transferred from the &lt;f6&gt;Filter&lt;/f6&gt; table to the &lt;f7&gt;Loans&lt;/f7&gt; table when the loan is made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153344Z" creationid="Marco Marega" creationdate="20171230T153142Z">
+        <seg>Il campo &lt;f2&gt;Date&lt;/f2&gt; è collegato al campo di controllo &lt;f3&gt;Loan_Date&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt; Questo assicura che, quando si effettua un prestito, la data &lt;f5&gt;Loan_Date&lt;/f5&gt; venga trasferita automaticamente dalla tabella &lt;f6&gt;Filter&lt;/f6&gt; alla tabella &lt;f7&gt;Loan&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
