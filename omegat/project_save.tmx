@@ -9086,6 +9086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The above example should suffice for understanding the initial form design but, as the example database, Media_without_Macros.odb, develops the form further, the extra refinements are briefly presented below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155832Z" creationid="Marco Marega" creationdate="20171230T155832Z">
+        <seg>L'esempio di cui sopra dovrebbe essere sufficiente a comprendere la progettazione iniziale, ma dato che il database di esempio, Media_without_Macros.odb, sviluppa ulteriormente il formulario, le migliorie sono brevemente esposte qui di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The action assigned to it in the general properties of the button is &lt;f1&gt;Refresh Form&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180435Z" creationid="Marco Marega" creationdate="20171226T180435Z">
@@ -10842,6 +10850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205955Z" creationid="Marco Marega" creationdate="20171229T205955Z">
         <seg>Questo si ottiene selezionandolo, copiandolo, deselezionandolo e quindi incollandolo dagli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is illustrated in the example database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155537Z" creationid="Marco Marega" creationdate="20171230T155537Z">
+        <seg>Questo viene illustrato nel database di esempio.</seg>
       </tuv>
     </tu>
     <tu>
