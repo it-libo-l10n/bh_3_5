@@ -7726,6 +7726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One view – &lt;f0&gt;m&lt;/f0&gt;any &lt;f1&gt;f&lt;/f1&gt;orms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163925Z" creationid="Marco Marega" creationdate="20171230T163925Z">
+        <seg>Una vista – &lt;f0&gt;molti&lt;/f0&gt; &lt;f1&gt;formulari&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One view – many forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163620Z" creationid="Marina Latini" creationdate="20171205T163620Z">
@@ -12178,6 +12186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145212Z" creationid="Marina Latini" creationdate="20171213T145212Z">
         <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can learn more about the essentials of this in &lt;f0&gt;Chapter 5,&lt;/f0&gt; Queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163824Z" creationid="Marco Marega" creationdate="20171230T163824Z">
+        <seg>Potrete imparare di più sui principi che ne stanno alla base nel &lt;f0&gt;Capitolo 5,&lt;/f0&gt; Ricerche.</seg>
       </tuv>
     </tu>
     <tu>
