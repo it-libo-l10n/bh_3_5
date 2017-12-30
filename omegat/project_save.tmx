@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the return, the Update button need only be pressed once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163534Z" creationid="Marco Marega" creationdate="20171230T163534Z">
+        <seg>Dopo la restituzione, il pulsante Refresh va premuto solo una volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the form is predefined, this time with the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
@@ -6674,6 +6682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143745Z" creationid="Marina Latini" creationdate="20171213T143745Z">
         <seg>È scritto in Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It becomes possible again only when the medium is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163502Z" creationid="Marco Marega" creationdate="20171230T163502Z">
+        <seg>Ritorna possibile solo quanto il supporto viene restituito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10882,6 +10898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205024Z" creationid="Marco Marega" creationdate="20171229T205024Z">
         <seg>Anche questo formulario contiene dati che provengono dalla tabella "Loan"&lt;f0&gt;.&lt;/f0&gt; In questo caso i dati sono filtrati in modo da avere solo i record senza una data di restituzione vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This form, made by using queries, is significantly more complex in its structure than the previously shown version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163649Z" creationid="Marco Marega" creationdate="20171230T163649Z">
+        <seg>Questo formulario, realizzato usando le ricerche, nella sua struttura è sensibilmente più complesso rispetto alla versione illustrata in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
