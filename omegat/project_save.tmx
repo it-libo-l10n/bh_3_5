@@ -5334,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here it is also possible to correct an error retrospectively by deleting the line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161140Z" creationid="Marco Marega" creationdate="20171230T161140Z">
+        <seg>Qui, cancellando la riga, è anche possibile correggere un errore pregresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here one click allows you to add all fields from the underlying table to the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115018Z" creationid="Manuel Frassinetti" creationdate="20171129T115018Z">
@@ -6410,6 +6418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220741Z" creationid="Marco Marega" creationdate="20171226T220741Z">
         <seg>Nel primo formulario secondario del formulario secondario, non vengono visualizzati dati già esistenti; viene usato solo per la creazioni di nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the lower table control, as in the above example, alteration of media and loan dates is &lt;f0&gt;not &lt;/f0&gt;possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161303Z" creationid="Marco Marega" creationdate="20171230T161303Z">
+        <seg>Nel campo di controllo tabella in basso, come nel esempio sopra riportato, &lt;f0&gt;non &lt;/f0&gt;è possibile modificare il supporto e la data del prestito.</seg>
       </tuv>
     </tu>
     <tu>
