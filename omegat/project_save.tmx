@@ -8806,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Integer&lt;/f0&gt; field is bound to the &lt;f1&gt;Reader_ID&lt;/f1&gt; field of the sub-subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153111Z" creationid="Marco Marega" creationdate="20171230T153111Z">
+        <seg>Il campo &lt;f0&gt;Integer&lt;/f0&gt; è collegato al controllo di campo &lt;f1&gt;Reader_ID&lt;/f1&gt; del formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Media_ID&lt;/f0&gt; and &lt;f1&gt;Reader_ID&lt;/f1&gt; fields must become list boxes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T212659Z" creationid="Marco Marega" creationdate="20171213T212659Z">
@@ -9658,6 +9666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194039Z" creationid="Marco Marega" creationdate="20171125T194039Z">
         <seg>La lunghezza della maschera di digitazione determina quanti caratteri si possono inserire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The linkage between the two forms now refers to two fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152846Z" creationid="Marco Marega" creationdate="20171230T152846Z">
+        <seg>Ora il collegamento tra i due formulari fa riferimento a due campi.</seg>
       </tuv>
     </tu>
     <tu>
