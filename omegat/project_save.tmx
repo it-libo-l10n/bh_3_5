@@ -12006,6 +12006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While the example for the Loans form only involves entries into one table (the Loans table) and additionally allows entry into the simpler form for new readers, the entry procedure for media is significantly more extensive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T213538Z" creationid="Marco Marega" creationdate="20171230T213538Z">
+        <seg>Mentre l'esempio del formulario per i prestiti (Loan) comporta l'inserimento di dati solamente in una tabella (la tabella Loan) ed in aggiunta, nella versione formulario semplice, permette l'inserimento di nuovi utenti; la procedura di inserimento di nuovi supporti è decisamente più ampia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While the first field of the first record in &lt;/f2&gt;&lt;f3&gt;Figure&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;43&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt; is highlighted, the corresponding field in &lt;/f7&gt;&lt;f8&gt;Figure&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;44&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt; shows only a dashed border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101445Z" creationid="Manuel Frassinetti" creationdate="20171202T100823Z">
