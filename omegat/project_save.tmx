@@ -7022,6 +7022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loanable media are selected using a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160806Z" creationid="Marco Marega" creationdate="20171230T160806Z">
+        <seg>I supporti che possono essere prestati sono selezionati tramite una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113006Z" creationid="Marina Latini" creationdate="20171213T113006Z">
@@ -10262,6 +10270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table control in the middle serves only to display the actual date of loan for the media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161012Z" creationid="Marco Marega" creationdate="20171230T161012Z">
+        <seg>Il campo di controllo tabella nel mezzo serve solo a visualizzare la data effettiva del prestito di quel supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table control is simply duplicated after the creation of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205825Z" creationid="Marco Marega" creationdate="20171229T205825Z">
@@ -11794,6 +11810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153511Z" creationid="Marco Marega" creationdate="20171230T153511Z">
         <seg>Quando cambia l'Utente &lt;f3&gt;&lt;/f3&gt;, deve essere reinserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Update button is pressed, the loan is transferred to the table control below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160906Z" creationid="Marco Marega" creationdate="20171230T160906Z">
+        <seg>Quando viene premuto il pulsante Refresh, il prestito viene trasferito al campo di controllo tabella sottostante.</seg>
       </tuv>
     </tu>
     <tu>
