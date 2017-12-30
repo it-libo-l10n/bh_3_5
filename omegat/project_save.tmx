@@ -6382,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the main form, an additional date field appears, along with a label referring to its content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152650Z" creationid="Marco Marega" creationdate="20171230T152650Z">
+        <seg>Nel formulario principale, appare un campo data aggiuntivo, assieme a un testo fisso che riferito al suo contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the subform, no data are entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215026Z" creationid="Marco Marega" creationdate="20171226T215026Z">
@@ -10226,6 +10234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173758Z" creationid="Marina Latini" creationdate="20171205T173758Z">
         <seg>L'interfaccia utente del Report Builder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value from the date field is stored in the &lt;f0&gt;Filter&lt;/f0&gt; table and transferred &lt;f1&gt;by&lt;/f1&gt; the linkages from subform to sub-subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152810Z" creationid="Marco Marega" creationdate="20171230T152810Z">
+        <seg>Il valore del campo data viene memorizzato nella tabella &lt;f0&gt;Filter&lt;/f0&gt; e trasferito &lt;f1&gt;per mezzo&lt;/f1&gt; dei collegamenti dal formulario secondario ai suo formulari secondari.</seg>
       </tuv>
     </tu>
     <tu>
