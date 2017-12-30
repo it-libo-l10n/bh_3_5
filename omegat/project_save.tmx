@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ubforms are use&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;d&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to link the rel_Media_Author and Subtitle tables with the main form and through it with the Media table.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T220138Z" creationid="Marco Marega" creationdate="20171230T220138Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; formulari secondari sono usati &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;per&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; collegare le tabelle rel_Media_Author e Subtitle con il formulario principale e per il suo tramite alla tabella Media.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
