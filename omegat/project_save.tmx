@@ -5438,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can also enter new readers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155941Z" creationid="Marco Marega" creationdate="20171230T155941Z">
+        <seg>Qui potete anche inserire nuovi utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can enter a literal date but unfortunately not (yet) the current date (Today) at the time the form is opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210552Z" creationid="Marco Marega" creationdate="20171026T205928Z">
@@ -8102,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Readers are displayed in a table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155924Z" creationid="Marco Marega" creationdate="20171230T155924Z">
+        <seg>Gli Utenti vengono visualizzati in un campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Readers can be found more quickly by typing into the control than by using a filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T212853Z" creationid="Marco Marega" creationdate="20171226T212853Z">
@@ -8994,6 +9010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170106Z" creationid="Marina Latini" creationdate="20171207T170106Z">
         <seg>Il sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Loan form shows the following properties:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155905Z" creationid="Marco Marega" creationdate="20171230T155905Z">
+        <seg>Il formulario Loan mostra le seguenti caratteristiche:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11418,6 +11442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085806Z" creationid="Marina Latini" creationdate="20171003T085806Z">
         <seg>Utilizzo di LibreOffice su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a filter, linked to the Filter table, names can be filtered using their initial letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160152Z" creationid="Marco Marega" creationdate="20171230T160152Z">
+        <seg>Usando un filtro, collegato alla tabella Filter, i nomi possono essere selezionati usando la loro iniziale.</seg>
       </tuv>
     </tu>
     <tu>
