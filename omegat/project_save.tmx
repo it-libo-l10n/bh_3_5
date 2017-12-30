@@ -8542,6 +8542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, if you enter A, only people whose surname begins with A will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160246Z" creationid="Marco Marega" creationdate="20171230T160246Z">
+        <seg>Quindi, se inserite A, verranno visualizzate solo le persone il cui cognome inizia per A .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the Galaxy &lt;f0&gt;set of &lt;/f0&gt;icon&lt;f1&gt;s&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112818Z" creationid="Marina Latini" creationdate="20171213T112818Z">
@@ -10198,6 +10206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The subtitle shows again the name of the person to whom the loan is to be made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160359Z" creationid="Marco Marega" creationdate="20171230T160359Z">
+        <seg>Il sottotitolo mostra nuovamente il nome della persona a cui va effettuato il prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The symbol is displayed but not stored in the table that underlies the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211125Z" creationid="Marco Marega" creationdate="20171026T211125Z">
@@ -10746,6 +10762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225030Z" creationid="Marco Marega" creationdate="20171214T225030Z">
         <seg>La figura mostra un errore estetico &lt;f0&gt;&lt;/f0&gt;che &lt;f1&gt;&lt;/f1&gt;richiede urgentemente attenzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This filtering is case-independent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160334Z" creationid="Marco Marega" creationdate="20171230T160334Z">
+        <seg>Questo filtro non distingue tra maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
