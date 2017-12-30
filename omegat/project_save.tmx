@@ -4686,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: The &lt;f1&gt;d&lt;/f1&gt;ate of the &lt;f2&gt;l&lt;/f2&gt;oan is entered only once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153424Z" creationid="Marco Marega" creationdate="20171230T153424Z">
+        <seg>Figura &lt;seq0&gt;41&lt;/seq0&gt;: La &lt;f1&gt;data&lt;/f1&gt; del &lt;f2&gt;prestito&lt;/f2&gt; viene inserita solo una volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
@@ -9270,6 +9278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The date field is now removed from the table control, so that the latter contains only one search field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154611Z" creationid="Marco Marega" creationdate="20171230T154611Z">
+        <seg>Il campo di controllo data viene rimosso dal campo di controllo tabella, cosicché quest'ultimo contiene solamente un campo di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default button is framed when this is set to &lt;f0&gt;Ye&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214018Z" creationid="Marco Marega" creationdate="20171126T214018Z">
@@ -11634,6 +11650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210607Z" creationid="Marco Marega" creationdate="20171109T210607Z">
         <seg>Quando in un formulario più pulsanti di scelta sono collegati allo stesso campo di una tabella, solo una di queste opzioni può essere selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Reader &lt;f3&gt;c&lt;/f3&gt;hanges, it must be reentered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153511Z" creationid="Marco Marega" creationdate="20171230T153511Z">
+        <seg>Quando cambia l'Utente &lt;f3&gt;&lt;/f3&gt;, deve essere reinserita.</seg>
       </tuv>
     </tu>
     <tu>
