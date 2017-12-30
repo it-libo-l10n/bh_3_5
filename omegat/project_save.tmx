@@ -3414,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By contrast, tables with a 1:n relationship to the Media table should be represented by forms that lie above the Media table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214131Z" creationid="Marco Marega" creationdate="20171230T214131Z">
+        <seg>Al contrario, le tabelle con una relazione di 1 a molti con la tabella Media dovrebbero essere rappresentate da formulari disposti sopra alla tabella Media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default a label is not wrapped.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210205Z" creationid="Marco Marega" creationdate="20171125T210205Z">
@@ -9178,6 +9186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220629Z" creationid="Marco Marega" creationdate="20171210T220629Z">
         <seg>Ora potete creare la ricerca SQL per la casella di riepilogo mediante l'interfaccia grafica, facendo clic sul pulsante a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Subtitle and rel_Media_author tables are linked to subforms of the Media form through a n:1 relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T213939Z" creationid="Marco Marega" creationdate="20171230T213939Z">
+        <seg>Le tabelle Subtitle e rel_Media_author sono collegate ai formulari secondari del formulario Media tramite una relazione di molti a 1.</seg>
       </tuv>
     </tu>
     <tu>
