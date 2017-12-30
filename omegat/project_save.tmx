@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0/&gt;You can just enter the number directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154957Z" creationid="Marco Marega" creationdate="20171230T154957Z">
+        <seg>&lt;t0/&gt;Potete solo inserire il numero manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;Also the default minimum value of –1,000,000.00 hardly makes sense for a loan extension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214331Z" creationid="Marco Marega" creationdate="20171213T214331Z">
@@ -7798,6 +7806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or, better still, it could be scanned in with a barcode reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155120Z" creationid="Marco Marega" creationdate="20171230T155120Z">
+        <seg>O, meglio ancora, potrebbe essere acquisito con un lettore di codici a barre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or, double-click the table’s name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092515Z" creationid="Manuel Frassinetti" creationdate="20171127T092515Z">
@@ -10330,6 +10346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170232Z" creationid="Manuel Frassinetti" creationdate="20171202T151334Z">
         <seg>Allora una nuova tabella può essere aggiunta alla vista struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then media can be loaned as rapidly as the borrower can stow them in his bag.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155518Z" creationid="Marco Marega" creationdate="20171230T155518Z">
+        <seg>Quindi il supporto potrebbe essere concesso in prestito tanto velocemente quanto l'utente impieghi per inserirlo nella sua borsa.</seg>
       </tuv>
     </tu>
     <tu>
