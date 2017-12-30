@@ -10638,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, after long use of the database, the main form usually manages a table which has significantly fewer records in it than the table belonging to the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214711Z" creationid="Marco Marega" creationdate="20171230T214711Z">
+        <seg>Perciò, dopo un utilizzo prolungato del database, di solito il formulario principale gestisce una tabella che contiene un numero sensibilmente inferiore di record rispetto alla tabella appartenente al formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170546Z" creationid="Marina Latini" creationdate="20171207T170546Z">
