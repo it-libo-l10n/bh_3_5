@@ -2238,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using list boxes, the main form based on the Media table can be assigned values from the Category, Town or Publisher tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T220009Z" creationid="Marco Marega" creationdate="20171230T220009Z">
+        <seg>&lt;f0&gt;Usando le caselle di riepilogo, è possibile assegnare al formulario principale basato sulla tabella Media valori tratti dalle tabelle Category (categoria), Town (città) o Publisher (Editore).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When a field is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associated with a function, &lt;/f3&gt;&lt;f4&gt;the number of rows in the query output is determined by the search conditions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181031Z" creationid="Manuel Frassinetti" creationdate="20171214T181031Z">
@@ -5458,6 +5466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210848Z" creationid="Marco Marega" creationdate="20171215T210848Z">
         <seg>In questo caso il formulario principale è collegato alla tabella &lt;f0&gt;Reader&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here there are only a few terms available from another table, those whose foreign keys can be entered into the main form's table in this way.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T215844Z" creationid="Marco Marega" creationdate="20171230T215844Z">
+        <seg>Qui sono disponibili solo alcuni termini di un'altra tabella, quelli le cui chiavi esterne possono essere inserite nella tabella del formulario principale in questo modo.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
