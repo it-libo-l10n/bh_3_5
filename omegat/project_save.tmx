@@ -3206,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At present there is no field that can store a date, but we can easily create a new field with the field name &lt;f6&gt;Date&lt;/f6&gt; and the field type &lt;f7&gt;D&lt;/f7&gt;&lt;f8&gt;ate.&lt;/f8&gt; In the Filter table we now have stored not only the &lt;f9&gt;Reader_ID&lt;/f9&gt; ("Filter"."Integer") but also the &lt;f10&gt;Loan_Date&lt;/f10&gt; ("Filter"."Date").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152531Z" creationid="Marco Marega" creationdate="20171230T152531Z">
+        <seg>Al momento non c'è un campo che possa contenere una data, ma potete facilmente creare un nuovo campo denominato &lt;f6&gt;Date&lt;/f6&gt; e con tipo di campo &lt;f7&gt;Data&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt; Nella tabella Filter ora avremmo memorizzato non solo l'ID dell'utente &lt;f9&gt;Reader_ID&lt;/f9&gt; ("Filter"."Integer") ma anche la data del prestito &lt;f10&gt;Loan_Date&lt;/f10&gt; ("Filter"."Date").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-incrementing values with external HSQLDB</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103011Z" creationid="Marina Latini" creationdate="20171207T103011Z">
