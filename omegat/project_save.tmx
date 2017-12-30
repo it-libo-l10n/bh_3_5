@@ -6318,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In its final form, the media table is surrounded by a total of &lt;f0&gt;eight&lt;/f0&gt; additional tables (see &lt;f1&gt;Chapter 3, &lt;/f1&gt;Tables).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T213812Z" creationid="Marco Marega" creationdate="20171230T213812Z">
+        <seg>Nel suo formulario completo, la tabella dei supporti è attorniata da un totale di &lt;f0&gt;otto&lt;/f0&gt; tabelle aggiuntive (vedete il &lt;f1&gt;Capitolo 3, &lt;/f1&gt;Tabelle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most cases we do not use the technical terms in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113510Z" creationid="Marina Latini" creationdate="20171213T113510Z">
