@@ -5750,6 +5750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a lock has been placed on this borrower, this is also displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160509Z" creationid="Marco Marega" creationdate="20171230T160509Z">
+        <seg>Se quell'utente è stato bloccato, l'informazione viene visualizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a new value does need to be entered, this can be done easily in a combo box, as the box shows exactly what is going into the underlying table for the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230638Z" creationid="Marco Marega" creationdate="20171102T230638Z">
@@ -9822,6 +9830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The loan date is set to the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160619Z" creationid="Marco Marega" creationdate="20171230T160619Z">
+        <seg>La data del prestito è impostata alla data attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The lower one shows all the fields, so that it is apparent which person and medium the return is for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
@@ -10898,6 +10914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205955Z" creationid="Marco Marega" creationdate="20171229T205955Z">
         <seg>Questo si ottiene selezionandolo, copiandolo, deselezionandolo e quindi incollandolo dagli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is done in the filter table using SQL such that, when no date is entered, the default value to be stored is the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160737Z" creationid="Marco Marega" creationdate="20171230T160737Z">
+        <seg>Questo viene ottenuto nella tabella di filtro usando un comando SQL in modo che, quando non viene inserita una data, il valore predefinito da memorizzare è quello della data attuale.</seg>
       </tuv>
     </tu>
     <tu>
