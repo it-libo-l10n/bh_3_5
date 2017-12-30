@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Multiple main forms cannot include the same subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214800Z" creationid="Marco Marega" creationdate="20171230T214800Z">
+        <seg>&lt;f0&gt;Formulari principali multipli non possono comprendere lo stesso formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;N&lt;/f0&gt;othing of significance.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201717Z" creationid="Marco Marega" creationdate="20171017T201717Z">
@@ -10614,6 +10622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore it is not possible to create a form arrangement for many simultaneous 1:n relationships in which the subform has the same content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214937Z" creationid="Marco Marega" creationdate="20171230T214937Z">
+        <seg>Perciò non è possibile creare un formulario organizzato per gestire simultaneamente più relazioni 1 a molti, nel quale il formulario secondario abbia lo stesso contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore the data needs to be filtered to show only the loans.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225244Z" creationid="Marco Marega" creationdate="20171214T225244Z">
@@ -11962,6 +11978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214117Z" creationid="Marco Marega" creationdate="20171126T214117Z">
         <seg>Quando su di un formulario ci sono diversi pulsanti alternativi tra loro, quello di uso più frequente dovrebbe avere questa caratteristica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When there is a 1:n relationship for the table belonging to a form, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;y&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;o&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;u&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; can use a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T215048Z" creationid="Marco Marega" creationdate="20171230T215048Z">
+        <seg>Quando c'è una relazione di 1 a molti per la tabella appartenente ad un formulario, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;potete &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;usare &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;una&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
