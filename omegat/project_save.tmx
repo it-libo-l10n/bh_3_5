@@ -3046,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apart from the entry of the return date or, if appropriate, an extension of the loan, this table also displays the number of days for which the medium can be loaned and how many days remain of the current loan period.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T162657Z" creationid="Marco Marega" creationdate="20171230T162657Z">
+        <seg>Oltre all'inserimento della data di restituzione o, se del caso, di un'estensione del prestito, questa tabella visualizza anche il numero di giorni per i quali il supporto può essere preso in prestito e quanti giorni rimangono per la fine dell'attuale periodo di prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appears as a tooltip when the mouse is hovered over the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191937Z" creationid="Marco Marega" creationdate="20171017T191937Z">
