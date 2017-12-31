@@ -2990,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the other forms relate to one or other of the table controls shown above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143618Z" creationid="Marco Marega" creationdate="20171231T143618Z">
+        <seg>Tutti gli altri formulari si relazionano con uno o con l'altro dei campi di controllo tabella visti sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
@@ -12338,6 +12346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193722Z" creationid="Marco Marega" creationdate="20171212T193722Z">
         <seg>Così facendo, è possibile attraversare il formulario molto più velocemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without the table controls, the main form looks somewhat simpler.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143704Z" creationid="Marco Marega" creationdate="20171231T143704Z">
+        <seg>Senza campi di controllo tabella, il formulario principale appare piuttosto semplice.</seg>
       </tuv>
     </tu>
     <tu>
