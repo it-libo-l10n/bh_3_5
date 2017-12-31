@@ -5766,6 +5766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the more entries &lt;f1&gt;that &lt;/f1&gt;are available for the list boxes of the main form, the less often will access to the table controls in the group box be necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142109Z" creationid="Marco Marega" creationdate="20171231T142109Z">
+        <seg>Però, più voci &lt;f1&gt;diventeranno &lt;/f1&gt;disponibili nelle caselle di riepilogo del formulario principale, meno spesso sarà necessario accedere ai campi presenti nella tabella della casella di gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I am writing a software application&lt;f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143628Z" creationid="Marina Latini" creationdate="20171213T143628Z">
@@ -5994,6 +6002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
         <seg>Se il contenuto prosegue su ulteriori linee, quando l'elenco viene aperto comparirà una barra di scorrimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the database has not existed for long, it will often be necessary to make entries into these fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141826Z" creationid="Marco Marega" creationdate="20171231T141826Z">
+        <seg>Se il database non è in uso da molto, spesso sarà necessario effettuare inserimenti in questi campi.</seg>
       </tuv>
     </tu>
     <tu>
