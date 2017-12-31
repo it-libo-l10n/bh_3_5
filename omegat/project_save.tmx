@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields can be automatically sorted in the order in which they appear on the form background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152140Z" creationid="Marco Marega" creationdate="20171231T152140Z">
+        <seg>I campi possono essere ordinati in modo automatico nello stesso ordine in cui appaiono sullo sfondo del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;s0/&gt;&lt;seq1&gt;24&lt;/seq1&gt;: Available &lt;f2&gt;b&lt;/f2&gt;uttons on the Form Controls &lt;f3&gt;t&lt;/f3&gt;oolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140521Z" creationid="Marco Marega" creationdate="20171014T140521Z">
@@ -10010,6 +10018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201934Z" creationid="Marco Marega" creationdate="20171210T201837Z">
         <seg>Il titolo del formulario è stato creato usando un campo di testo fisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The higher up a field lies, the earlier it comes in the sequence when you use Automatic Sort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152243Z" creationid="Marco Marega" creationdate="20171231T152243Z">
+        <seg>Se usate Ordine automatico, più un campo si trova in alto, prima viene nella sequenza di attivazione.</seg>
       </tuv>
     </tu>
     <tu>
