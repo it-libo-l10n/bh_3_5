@@ -9062,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That is determined by the &lt;f0&gt;Activation Order&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150433Z" creationid="Marco Marega" creationdate="20171231T150433Z">
+        <seg>Questa è determinata dall'&lt;f0&gt;Sequenza di attivazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That is why a Group name appears here, under which the options can be addressed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210904Z" creationid="Marco Marega" creationdate="20171109T210904Z">
@@ -10514,6 +10522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
         <seg>Il secondo formulario secondario richiede più impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sequence of the elements in the navigator has nothing to do with the tab sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150135Z" creationid="Marco Marega" creationdate="20171231T150135Z">
+        <seg>La sequenza degli elementi all'interno del navigatore non ha nulla a che fare con la sequenza di posizionamento del tasto tab.</seg>
       </tuv>
     </tu>
     <tu>
