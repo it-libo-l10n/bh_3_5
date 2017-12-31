@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A subsequent subform with a table control will not be included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153206Z" creationid="Marco Marega" creationdate="20171231T153206Z">
+        <seg>Un formulario secondario subordinato a questo con un campo di controllo tabella non verrà compreso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A temporary change in order can be carried out during data entry by using the same method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224315Z" creationid="Marco Marega" creationdate="20171214T224315Z">
@@ -8210,6 +8218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
         <seg>Supporto e formazione a pagamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parallel forms are not taken into account either.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153255Z" creationid="Marco Marega" creationdate="20171231T153255Z">
+        <seg>Nemmeno i formulari paralleli vengono presi in considerazione.</seg>
       </tuv>
     </tu>
     <tu>
