@@ -9998,6 +9998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form also contains a text field which shows, after saving, whether the ISBN number entered was correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154203Z" creationid="Marco Marega" creationdate="20171231T154203Z">
+        <seg>Il formulario contiene inoltre un campo di testo che mostra, dopo il suo salvataggio, se il codice ISBN è stato inserito correttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form carries the default name &lt;f0&gt;Form&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140814Z" creationid="Marco Marega" creationdate="20171014T135551Z">
@@ -11518,6 +11526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is necessary as the form is to be used not just for entering records but also for searching.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154107Z" creationid="Marco Marega" creationdate="20171231T154107Z">
+        <seg>Ciò è necessario in quanto il formulario verrà usato non solo per l'inserimento di record, ma anche per effettuare ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is necessary so that the database knows from which table the previously selected fields come from.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173331Z" creationid="Manuel Frassinetti" creationdate="20171204T173331Z">
@@ -11746,6 +11762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202904Z" creationid="Marco Marega" creationdate="20171026T202904Z">
         <seg>Questo testo deve essere cancellato se viene effettuato con successo un qualsiasi altro inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This too is only possible using a comprehensive query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154310Z" creationid="Marco Marega" creationdate="20171231T154310Z">
+        <seg>Anche questo è possibile solo usando una ricerca adeguata.</seg>
       </tuv>
     </tu>
     <tu>
