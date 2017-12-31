@@ -7670,6 +7670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in the activation sequence, some controls appear for which the tab stop is actually switched off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T151328Z" creationid="Marco Marega" creationdate="20171231T151328Z">
+        <seg>Notate che nella sequenza di attivazione, appaiono alcuni campi di controllo per i quali il passaggio con il tasto tab in effetti è disattivato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing further to report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192624Z" creationid="Marco Marega" creationdate="20171125T192624Z">
@@ -11160,8 +11168,8 @@
       <tuv lang="EN">
         <seg>This corresponds to setting the activation sequence in the control properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150911Z" creationid="Marco Marega" creationdate="20171231T150911Z">
-        <seg>This corresponds to setting the activation sequence in the control properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T151228Z" creationid="Marco Marega" creationdate="20171231T150911Z">
+        <seg>Questo è equivalente a impostare la sequenza nelle proprietà del campo di controllo elencate a pagina &lt;bf0&gt;70&lt;/bf0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
