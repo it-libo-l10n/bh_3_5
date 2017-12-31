@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Altogether there are &lt;f2&gt;eight&lt;/f2&gt; parallel forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143441Z" creationid="Marco Marega" creationdate="20171231T143441Z">
+        <seg>Nel complesso ci sono &lt;f2&gt;otto&lt;/f2&gt; formulari paralleli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Among the numeric formats can be seen, alongside Date, Time, Currency or normal numeric format, possibilities for using fields with a measurement unit such as &lt;f0&gt;kg&lt;/f0&gt; &lt;f1&gt;(see Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;27&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212143Z" creationid="Marco Marega" creationdate="20171026T212143Z">
@@ -7950,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the main form still has the name of &lt;f1&gt;MainForm&lt;/f1&gt; given to it by the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143218Z" creationid="Marco Marega" creationdate="20171231T143218Z">
+        <seg>Solo il formulario principale mantiene il nome &lt;f1&gt;MainForm&lt;/f1&gt; attribuitogli dalla procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the medium as a selection field and the loan date &lt;f0&gt;Loan_Date&lt;/f0&gt; remain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210933Z" creationid="Marco Marega" creationdate="20171229T210731Z">
@@ -9062,6 +9078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator shows a correspondingly large list of forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143100Z" creationid="Marco Marega" creationdate="20171231T143100Z">
+        <seg>Il &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt; conseguentemente mostra una lunga lista di formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;ID&lt;/f0&gt; control should be declared as read-only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193430Z" creationid="Marco Marega" creationdate="20171212T193430Z">
@@ -9098,6 +9122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213210Z" creationid="Marco Marega" creationdate="20171029T213210Z">
         <seg>Il campo &lt;f0&gt;LastName&lt;/f0&gt; della &lt;f1&gt;tabella &lt;/f1&gt;Reader &lt;f2&gt;dovrebbe &lt;/f2&gt;essere visibile nella casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;f&lt;/f0&gt;orms have been individually named to aid recognition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143138Z" creationid="Marco Marega" creationdate="20171231T143138Z">
+        <seg>I &lt;f0&gt;formulari&lt;/f0&gt; sono stati rinominati individualmente al fine di aiutare il loro riconoscimento.</seg>
       </tuv>
     </tu>
     <tu>
