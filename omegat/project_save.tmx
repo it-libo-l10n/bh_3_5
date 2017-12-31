@@ -4926,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a simple form, it is not necessary to do things in this order, but where there are many parallel forms, the function needs to know which &lt;t1/&gt;form is intended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150723Z" creationid="Marco Marega" creationdate="20171231T150723Z">
+        <seg>Per dei formulari semplici, non è necessario fare le cose in quest'ordine, ma quando ci sono diversi formulari paralleli, la funzione ha bisogno di sapere su quale &lt;t1/&gt;formulario si intende lavorare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all the other Titles, no subtitles exist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174947Z" creationid="Manuel Frassinetti" creationdate="20171216T174947Z">
@@ -9458,6 +9466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180435Z" creationid="Marco Marega" creationdate="20171226T180435Z">
         <seg>L'operazione che gli viene assegnata nelle proprietà generali del pulsante è &lt;f1&gt;Aggiorna Formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The activation sequence for a particular form is invoked, when an element of the form is selected and then the &lt;f0&gt;Activation sequence&lt;/f0&gt; button is clicked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150552Z" creationid="Marco Marega" creationdate="20171231T150552Z">
+        <seg>La sequenza di attivazione di un determinato formulario viene richiamata, quando è selezionato un elemento del formulario e viene premuto il pulsante &lt;f0&gt;Sequenza di attivazione&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
