@@ -6606,6 +6606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the case of a table control, this causes the cursor during keyboard input to be trapped within this subform; you can only free it by using the mouse or by pressing &lt;f1&gt;Ctrl+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153032Z" creationid="Marco Marega" creationdate="20171231T153032Z">
+        <seg>Nel caso di un campo di controllo tabella, questo fa si che, durante l'inserimento tramite tastiera, il cursore si ritrovi intrappolato all'interno di questo formulario secondario; potete liberarlo solamente usando il mouse oppure premendo &lt;f1&gt;Ctrl+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the control the Loans table i&lt;f0&gt;s availab&lt;/f0&gt;le for editing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201318Z" creationid="Marco Marega" creationdate="20171125T201318Z">
@@ -9210,6 +9218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220101Z" creationid="Marco Marega" creationdate="20171229T220101Z">
         <seg>Il tasto &lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ab&lt;/f2&gt; vi porta quindi al prossimo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Automatic Sort &lt;/f0&gt;functions only once for a table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153131Z" creationid="Marco Marega" creationdate="20171231T153131Z">
+        <seg>L'&lt;f0&gt;Ordine automatico&lt;/f0&gt; funziona solamente una volta per un campo di controllo tabella.</seg>
       </tuv>
     </tu>
     <tu>
