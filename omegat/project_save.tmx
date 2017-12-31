@@ -9158,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;Filter&lt;/f3&gt; form hosts a search function while the &lt;f4&gt;MainForm&lt;/f4&gt; form is the main input interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143538Z" creationid="Marco Marega" creationdate="20171231T143538Z">
+        <seg>Il formulario &lt;f3&gt;Filter&lt;/f3&gt; ospita una funzione di ricerca, mentre il formulario &lt;f4&gt;MainForm&lt;/f4&gt; è l'interfaccia principale per l'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f4&gt;List content&lt;/f4&gt; field then shows them as &lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Value1&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;Value2&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;;&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;Value3&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; … &lt;/f22&gt;The &lt;f23&gt;Bound Field&lt;/f23&gt; property is &lt;f24&gt;inactive&lt;/f24&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205821Z" creationid="Marco Marega" creationdate="20171101T205821Z">
