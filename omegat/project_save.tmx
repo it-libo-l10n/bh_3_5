@@ -6534,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the early stages, it is often necessary to have recourse to these side forms, since not many authors are yet stored in the corresponding table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142549Z" creationid="Marco Marega" creationdate="20171231T142549Z">
+        <seg>Nelle prime fasi, è necessario ricorrere spesso a questi formulari collaterali, in quanto non ci sono ancora molti autori memorizzati nella relativa tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example shown above, the option buttons replace a two-element list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212129Z" creationid="Marco Marega" creationdate="20171126T212129Z">
@@ -12010,6 +12018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211442Z" creationid="Marco Marega" creationdate="20171029T211442Z">
         <seg>Quando create una casella di riepilogo, per impostazione predefinita, compare la finestra di creazione guidata &lt;f0&gt;Casella &lt;/f0&gt;di &lt;f1&gt;riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a new record is stored in one of the table controls, it is necessary to find the corresponding list box in the main form and use the Update control (see &lt;f0&gt;N&lt;/f0&gt;avigation bar) to read in the new values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142947Z" creationid="Marco Marega" creationdate="20171231T142947Z">
+        <seg>Quando viene inserito un nuovo record in uno dei campi di controllo tabella, è necessario trovare la casella di riepilogo corrispondente all'interno del formulario principale e usare il controllo Aggiorna (vedete &lt;f0&gt;Barra di navigazione&lt;/f0&gt;) perché i nuovi valori siano letti.</seg>
       </tuv>
     </tu>
     <tu>
