@@ -7750,6 +7750,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the left side is the main form with a view to searching and entry of new media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141311Z" creationid="Marco Marega" creationdate="20171231T141311Z">
+        <seg>Sul lato sinistro c'è il formulario principale con una vista che permette di cercare e inserire nuovi supporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the right side of the form is a group box with the label &lt;f0&gt;Edit list box contents&lt;/f0&gt;, providing a separate area intended for filling up the list boxes in the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141719Z" creationid="Marco Marega" creationdate="20171231T141719Z">
+        <seg>Sul lato destro del formulario si trova una casella di gruppo con l'etichetta &lt;f0&gt;Editing content of Listfields&lt;/f0&gt;(Modifica il contenuto dei campi con elenchi), che fornisce un'area separata pensata per l'inserimento nelle caselle di riepilogo del formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a form has been created, it can be filled with visible controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202938Z" creationid="Marco Marega" creationdate="20171015T202938Z">
@@ -10158,6 +10174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The overall form for entering media looks like this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141215Z" creationid="Marco Marega" creationdate="20171231T141215Z">
+        <seg>Nel suo insieme, il formulario per l'inserimento dei supporti appare così:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The page has also been given a uniformly colored background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202313Z" creationid="Marco Marega" creationdate="20171210T202313Z">
@@ -10770,6 +10794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213619Z" creationid="Marco Marega" creationdate="20171213T213619Z">
         <seg>Non è possibile accedervi richiamandoli per nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They exist independently of the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141127Z" creationid="Marco Marega" creationdate="20171231T141127Z">
+        <seg>Questi esistono indipendentemente dal formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
