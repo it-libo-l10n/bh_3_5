@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here in each case the complete data for a table are entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142434Z" creationid="Marco Marega" creationdate="20171231T142434Z">
+        <seg>Qui per ciascun caso vengono inseriti tutti i dati per una tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here it is also possible to correct an error retrospectively by deleting the line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161140Z" creationid="Marco Marega" creationdate="20171230T161140Z">
@@ -9690,6 +9698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175528Z" creationid="Manuel Frassinetti" creationdate="20171204T175528Z">
         <seg>La seguente ricerca funziona senza inserire i nomi delle tabelle davanti ai nomi dei campi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following table controls are all subordinated as individual side forms to the main form, the entry form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142222Z" creationid="Marco Marega" creationdate="20171231T142222Z">
+        <seg>I seguenti campi di controllo tabella sono tutti subordinati come formulari collaterali distinti del formulario principale, quello di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
