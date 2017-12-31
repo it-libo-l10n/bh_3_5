@@ -6502,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator, this form looks much more complex, as all the controls and labels appear there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T144858Z" creationid="Marco Marega" creationdate="20171231T144858Z">
+        <seg>Nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;, questo formulario appare molto più complesso, in quanto al suo interno compaiono tutti i campi di controllo e i campo di testo fisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;N&lt;/f0&gt;avigator, the description of fields ends with the table control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213126Z" creationid="Marco Marega" creationdate="20171213T213126Z">
