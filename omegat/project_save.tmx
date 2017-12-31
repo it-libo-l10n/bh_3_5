@@ -11950,6 +11950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To understand the background of this, it is therefore necessary to discuss the fundamentals of queries, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;covered in Chapter 5.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154430Z" creationid="Marco Marega" creationdate="20171231T154430Z">
+        <seg>Per comprendere i retroscena di ciò, è quindi necessario introdurre le nozioni fondamentali sulle ricerche, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;trattate nel Capitolo 5.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbar very similar to the one at the bottom edge of the screen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210036Z" creationid="Marco Marega" creationdate="20171015T210036Z">
