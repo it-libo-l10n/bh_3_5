@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The subform for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;r&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;el_Media_Author table again consists of two list boxes so that the foreign keys from the Authors and Author_Add_ID (additions might be for example editor, photographer, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;and so on&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;) do not have to be entered directly as numbers.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T140801Z" creationid="Marco Marega" creationdate="20171231T140801Z">
+        <seg>&lt;f0&gt;Anche il formulario secondario &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;per&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; la tabella rel_Media_Author table è costituito da due caselle di riepilogo, in modo che le chiavi esterne per gli autori (Authors) e Author_Add_ID (aggiunte che possono ad esempio essere l'editore, il fotografo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e così via&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;) non debbano essere inserite direttamente in formato numerico.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This site provides support for LibreOffice, among other programs:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
