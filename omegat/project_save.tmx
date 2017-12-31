@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The data substrate for the form for media entry is in this case not a table but a query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154010Z" creationid="Marco Marega" creationdate="20171231T154010Z">
+        <seg>&lt;f0&gt;I dati sottostanti al formulario per l'inserimento dei supporti, in questo caso non derivano da una tabella, ma da una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175442Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
@@ -3082,6 +3090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212143Z" creationid="Marco Marega" creationdate="20171026T212143Z">
         <seg>Tra i formati numerici, accanto a quelli Data, Ora, Valuta o normali, potete vedere la possibilità di usare campi con delle unità di misura tipo &lt;f0&gt;kg&lt;/f0&gt; &lt;f1&gt;(vedete la Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;27&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;f1&gt;Automatic Sort&lt;/f1&gt; cannot be made retrospectively for a subform with a table control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153831Z" creationid="Marco Marega" creationdate="20171231T153831Z">
+        <seg>Un &lt;f1&gt;Ordine automatico&lt;/f1&gt; non può essere effettuato in retrospettiva per un formulario secondario con un campo di controllo tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,6 +10714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214140Z" creationid="Marco Marega" creationdate="20171226T214140Z">
         <seg>Il formulario secondario contiene solo un pulsante, per aggiornare i suoi contenuti e allo stesso tempo salvare il formulario&lt;t2/&gt; principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The subform must be completely removed (temporarily moved to another form).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153914Z" creationid="Marco Marega" creationdate="20171231T153914Z">
+        <seg>Il formulario secondario va rimosso completamente (spostato temporaneamente in un altro formulario).</seg>
       </tuv>
     </tu>
     <tu>
