@@ -6606,6 +6606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the previous form, most of the fields were actually columns within the table controls and were thus invisible to the &lt;f2&gt;F&lt;/f2&gt;orm &lt;f3&gt;N&lt;/f3&gt;avigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145023Z" creationid="Marco Marega" creationdate="20171231T145023Z">
+        <seg>Nel formulario precedente, la maggior parte dei campi in realtà erano colonne all'interno dei campi di controllo tabella, erano quindi invisibili nel &lt;f2&gt;Navigatore&lt;/f2&gt; &lt;f3&gt;formulario&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the subform, no data are entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215026Z" creationid="Marco Marega" creationdate="20171226T215026Z">
@@ -11730,6 +11738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114645Z" creationid="Manuel Frassinetti" creationdate="20171202T114645Z">
         <seg>Sfortunatamente l'editor non memorizza queste interruzioni di riga, quindi quando la ricerca viene richiamata di nuovo, apparirà come una singola interruzione di linea continua sul bordo della finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately the sequence within the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator cannot easily be changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145251Z" creationid="Marco Marega" creationdate="20171231T145251Z">
+        <seg>Sfortunatamente la sequenza all'interno del &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt; non può essere modificata facilmente.</seg>
       </tuv>
     </tu>
     <tu>
