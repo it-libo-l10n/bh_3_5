@@ -6134,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there is a subform, &lt;f0&gt;Automatic Sort&lt;/f0&gt; jumps directly into the subform after completing the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152816Z" creationid="Marco Marega" creationdate="20171231T152816Z">
+        <seg>Se c'è un formulario secondario, &lt;f0&gt;Ordine automatico&lt;/f0&gt; dopo aver completato il formulario principale si sposta direttamente nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is grouping, the number of rows matches the number of distinct values that the &lt;/f4&gt;&lt;f5&gt;grouping &lt;/f5&gt;&lt;f6&gt;field &lt;/f6&gt;&lt;f7&gt;has&lt;/f7&gt;&lt;f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181723Z" creationid="Manuel Frassinetti" creationdate="20171214T181723Z">
@@ -8794,6 +8802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214910Z" creationid="Marco Marega" creationdate="20171126T214828Z">
         <seg>È simile a un pulsante normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simply select a control and use &lt;f0&gt;Move Up&lt;/f0&gt; or &lt;f1&gt;Move Down&lt;/f1&gt; to move &lt;f2&gt;&lt;f3&gt;it higher or&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;lower in the sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152710Z" creationid="Marco Marega" creationdate="20171231T152710Z">
+        <seg>Semplicemente selezionate un campo di controllo e usate &lt;f0&gt;Sposta in alto&lt;/f0&gt; o &lt;f1&gt;Sposta in basso&lt;/f1&gt; per muoverlo &lt;f2&gt;&lt;f3&gt;più in su o &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;più in giù all'interno della sequenza.</seg>
       </tuv>
     </tu>
     <tu>
