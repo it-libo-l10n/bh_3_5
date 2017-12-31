@@ -8782,6 +8782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, it would seem more sensible to place the subforms &lt;f2&gt;Subtitle&lt;/f2&gt; and &lt;f3&gt;Author&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; as branches of &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;MainForm&lt;/f7&gt;&lt;/f6&gt; right at the beginning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145416Z" creationid="Marco Marega" creationdate="20171231T145416Z">
+        <seg>Ad esempio, sembrerebbe più sensato posizionare i formulari secondari &lt;f2&gt;Subtitle&lt;/f2&gt; e &lt;f3&gt;Author&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; proprio all'inizio, in quanto diramazioni  di &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;MainForm&lt;/f7&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, you can define the literal mask as &lt;s0/&gt;"__/__/2012" and the edit mask as "NNLNNLLLLL", to allow the user to enter four characters only for a date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195433Z" creationid="Marco Marega" creationdate="20171125T195433Z">
