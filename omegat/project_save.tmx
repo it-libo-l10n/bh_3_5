@@ -5038,6 +5038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the media entry form, the list boxes usually have to be filled up gradually during the entry process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T140919Z" creationid="Marco Marega" creationdate="20171231T140919Z">
+        <seg>Per il formulario di inserimento dei supporti, le caselle di riepilogo di solito devono essere riempite gradualmente nel corso del processo di inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170222Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
@@ -5050,6 +5058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203057Z" creationid="Marco Marega" creationdate="20171125T203057Z">
         <seg>Per questo scopo, è possibile posizionare all'interno del campo di controllo tabella dei controlli come le caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose, further forms are built in alongside the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141107Z" creationid="Marco Marega" creationdate="20171231T141107Z">
+        <seg>Per questo scopo, a lato del formulario principale sono inseriti ulteriori formulari.</seg>
       </tuv>
     </tu>
     <tu>
