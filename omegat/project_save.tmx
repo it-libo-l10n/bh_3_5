@@ -2502,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;I&lt;/f4&gt;n the above example, this contains only a single text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150905Z" creationid="Marco Marega" creationdate="20171231T150905Z">
+        <seg>&lt;f4&gt;Nell'&lt;/f4&gt;esempio precedente, questo contiene un unico campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;R&lt;/f5&gt;ight&lt;f6&gt;-&lt;/f6&gt;click to replace the selected field with a different type of field, using the context menu &lt;f7&gt;(Figure &lt;/f7&gt;&lt;f8&gt;&lt;t9&gt;35&lt;/t9&gt;&lt;/f8&gt;&lt;f10&gt;).&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215500Z" creationid="Marco Marega" creationdate="20171210T215500Z">
@@ -8134,6 +8142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, by default, it is the first form in the &lt;f2&gt;F&lt;/f2&gt;orm &lt;f3&gt;N&lt;/f3&gt;avigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150811Z" creationid="Marco Marega" creationdate="20171231T150811Z">
+        <seg>Altrimenti, per impostazione predefinita, viene preso il primo formulario presente nel &lt;f2&gt;Navigatore&lt;/f2&gt; &lt;f3&gt;formulario&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Our main form is linked to the &lt;f0&gt;Filter table&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt; The main form works only with the record that has as its primary key the "&lt;f2&gt;ID"&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;0&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220828Z" creationid="Marco Marega" creationdate="20171229T220828Z">
@@ -9466,6 +9482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180435Z" creationid="Marco Marega" creationdate="20171226T180435Z">
         <seg>L'operazione che gli viene assegnata nelle proprietà generali del pulsante è &lt;f1&gt;Aggiorna Formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The activation sequence allows all the elements that transmit data to the underlying table of the form or can carry out actions, to be put in order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T151046Z" creationid="Marco Marega" creationdate="20171231T150908Z">
+        <seg>La sequenza di attivazione permette di ordinare tutti gli elementi che trasmettono dati alla tabella sottostante al formulario o che eseguono delle azioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11130,6 +11154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180556Z" creationid="Manuel Frassinetti" creationdate="20171130T180556Z">
         <seg>Ciò causa una visualizzazione tabellare dei dati da visualizzare sopra la vista grafica della &lt;f0&gt;tabella Prestito con la sua lista di campi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This corresponds to setting the activation sequence in the control properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150911Z" creationid="Marco Marega" creationdate="20171231T150911Z">
+        <seg>This corresponds to setting the activation sequence in the control properties listed on page &lt;bf0&gt;70&lt;/bf0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
