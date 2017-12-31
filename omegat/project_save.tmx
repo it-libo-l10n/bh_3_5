@@ -5006,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For fields at the same height, the leftmost field comes first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152328Z" creationid="Marco Marega" creationdate="20171231T152328Z">
+        <seg>Per i campi che si trovano alla stessa altezza, quello più a sinistra viene prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For fields such as &lt;f2&gt;Reader_ID&lt;/f2&gt; or &lt;f3&gt;Media_ID&lt;/f3&gt;, it would be more useful to be able to choose the reader or the media directly, rather than a number representing the reader or media.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215342Z" creationid="Marco Marega" creationdate="20171125T202825Z">
@@ -8154,6 +8162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214932Z" creationid="Marco Marega" creationdate="20171226T214932Z">
         <seg>Altrimenti trovare il giusto campo di controllo in breve tempo potrebbe diventare problematico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise you will need to adjust them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152513Z" creationid="Marco Marega" creationdate="20171231T152513Z">
+        <seg>Altrimenti dovrete correggerlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144024Z" creationid="Manuel Frassinetti" creationdate="20171202T144024Z">
         <seg>Questa specifica di ordinamento illustra come l'alias del campo Prestito_Data può essere utilizzato all'interno della ricerca stessa.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This sorting functions without error only when the elements were exactly positioned using the grid when the form was created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152444Z" creationid="Marco Marega" creationdate="20171231T152444Z">
+        <seg>Questo ordinamento funziona senza commettere errori solamente se, quando il formulario è stato creato, gli elementi sono stati posizionati usando la griglia.</seg>
       </tuv>
     </tu>
     <tu>
