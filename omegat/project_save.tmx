@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But within the &lt;f8&gt;F&lt;/f8&gt;orm &lt;f9&gt;N&lt;/f9&gt;avigator, individual controls and subforms are simply shown in the order in which they were created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145559Z" creationid="Marco Marega" creationdate="20171231T145559Z">
+        <seg>Ma all'interno del &lt;f8&gt;Navigatore&lt;/f8&gt; &lt;f9&gt;formulario&lt;/f9&gt;, i singoli campi di controllo e i formulari secondari sono visualizzati semplicemente nell'ordine in cui sono stati creati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205855Z" creationid="Marco Marega" creationdate="20171015T205855Z">
@@ -9250,6 +9258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133011Z" creationid="Marco Marega" creationdate="20171014T133011Z">
         <seg>La barre degli strumenti Struttura del formulario &lt;f0&gt;(Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;22&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) &lt;/f3&gt;è agganciata in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Form Wizard provides the controls with particular abbreviations which appear next to the icons and indicate what type of control this is.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145750Z" creationid="Marco Marega" creationdate="20171231T145750Z">
+        <seg>La Creazione guidata formulario attribuisce ai campi di controllo delle particolari abbreviazioni, che appaiono vicino alle loro icone e che indicano di quale tipo di campo di controllo si tratta.</seg>
       </tuv>
     </tu>
     <tu>
