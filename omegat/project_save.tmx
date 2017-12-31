@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Altogether labels provide only secondary information for data entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145936Z" creationid="Marco Marega" creationdate="20171231T145936Z">
+        <seg>Nel complesso i testi fissi forniscono solo informazioni secondarie ai fini dell'inserimento dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Altogether the graphical user interface provides the following functions, which correspond to functions in the underlying HSQLDB.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175138Z" creationid="Manuel Frassinetti" creationdate="20171214T175138Z">
@@ -7102,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Labels begin with 'lbl', text fields with 'txt' and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145855Z" creationid="Marco Marega" creationdate="20171231T145855Z">
+        <seg>I campi di testo fisso iniziano con 'lbl', i campi di testo con 'txt' e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice &gt; Preferences</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113020Z" creationid="Marina Latini" creationdate="20171213T113020Z">
@@ -10914,6 +10930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161820Z" creationid="Manuel Frassinetti" creationdate="20171218T161820Z">
         <seg>Non sono selezionabili da qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can also be placed directly above text frames and then do not appear in the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150036Z" creationid="Marco Marega" creationdate="20171231T150036Z">
+        <seg>Questi possono essere posizionati direttamente al di sopra delle cornici di testo e quindi non compaiono nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
