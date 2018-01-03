@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A Base file is a compressed folder &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; contains information for the different work areas of Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T212140Z" creationid="osvaldo" creationdate="20180103T212140Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Un file Base è una cartella compressa &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; contiene informazioni per le diverse aree di lavoro di Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A query may require a field that is not part of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; query output.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180110Z" creationid="Manuel Frassinetti" creationdate="20171206T180110Z">
@@ -1170,6 +1178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162617Z" creationid="Manuel Frassinetti" creationdate="20171216T162617Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Un&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; inserimento con una virgola nella vista SQL porta sempre ad un ulteriore campo contenente il valore numerico della parte decimale.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Base – &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;c&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ontainer f&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;o&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;r &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;d&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;at&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;abase content&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T212008Z" creationid="osvaldo" creationdate="20180103T212008Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Base – &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;un&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;c&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ontenitore p&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;e&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;r &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;d&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;at&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;abase&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
