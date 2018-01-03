@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Base starts with the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;orm view, because forms are the elements most commonly used &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;whe&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;n working with databases.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221449Z" creationid="osvaldo" creationdate="20180103T221449Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Base inizia con la vista del &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ormulario, perché i formulari sono gli elementi più comunemente usati &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;quan&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;do si lavora con i databases.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Base – &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;c&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ontainer f&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;o&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;r &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;d&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;at&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;abase content&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T212008Z" creationid="osvaldo" creationdate="20180103T212008Z">
@@ -4192,8 +4200,8 @@
       <tuv lang="EN">
         <seg>Data input using forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161311Z" creationid="Marina Latini" creationdate="20171205T161311Z">
-        <seg>Inserimento dei dati utilizzando i moduli</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221527Z" creationid="Marina Latini" creationdate="20171205T161311Z">
+        <seg>Inserimento dei dati utilizzando i formulari</seg>
       </tuv>
     </tu>
     <tu>
