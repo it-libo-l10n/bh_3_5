@@ -6054,6 +6054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a user inputs the letter “G” in the Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Last Name)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; field at the right of the Loan table, only persons whose last name begins with “G” will be shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222418Z" creationid="osvaldo" creationdate="20180103T222418Z">
+        <seg>Se un utente inserisce la lettera "G" nel campo Filtro &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Cognome)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; alla destra della tabella dei prestiti, verranno visualizzate solo le persone il cui cognome inizia con "G".&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
