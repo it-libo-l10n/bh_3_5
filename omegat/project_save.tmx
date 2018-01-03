@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Depending on the work area selected, various &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;tasks—&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;creat&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;ing&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; new content or call&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ing&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; up existing elements&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;—may be&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt; carried out.&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221055Z" creationid="osvaldo" creationdate="20180103T221055Z">
+        <seg>&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;A seconda dell'area di lavoro selezionata possono essere svolte varie &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;funzioni: &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;crea&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;zione&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; di nuovi contenuti  o invoca&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;zione&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; di elementi esistenti&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;.&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Editing data in the query also edits data in the underlying table and the records contained in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;the&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165812Z" creationid="Manuel Frassinetti" creationdate="20171202T165812Z">
