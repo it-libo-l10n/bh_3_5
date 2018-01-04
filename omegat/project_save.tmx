@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Details of items to be borrowed are&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;input and &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;shown in the area in the middle of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180104T173854Z" creationid="osvaldo" creationdate="20180104T173854Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I dettagli degli elementi da prendere in prestito sono  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inseriti e  &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;mostrati nell'area al centro del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Having a query that you can edit can create problems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165628Z" creationid="Manuel Frassinetti" creationdate="20171202T165628Z">
