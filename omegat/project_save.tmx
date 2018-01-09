@@ -5134,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a database does not allow a text field to contain numbers for use in calculations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T211242Z" creationid="Marco Marega" creationdate="20180109T211242Z">
+        <seg>Ad esempio, un database non consente che un campo di testo contenga dei numeri utilizzabili in dei conteggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, a key is pressed when you move through the form using the Tab key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200323Z" creationid="Marco Marega" creationdate="20171017T200323Z">
@@ -8998,6 +9006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, images cannot be included in all types of fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T211433Z" creationid="Marco Marega" creationdate="20180109T211433Z">
+        <seg>Analogamente, le immagine non possono essere inserite in tutti i tipi di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simply select a control and use &lt;f0&gt;Move Up&lt;/f0&gt; or &lt;f1&gt;Move Down&lt;/f1&gt; to move &lt;f2&gt;&lt;f3&gt;it higher or&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;lower in the sequence.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152710Z" creationid="Marco Marega" creationdate="20171231T152710Z">
@@ -9178,6 +9194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
         <seg>Sottoricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such numbers are displayed, but only as strings, whose actual numerical value is zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T211343Z" creationid="Marco Marega" creationdate="20180109T211343Z">
+        <seg>Eventuali numeri verrebbero visualizzati, ma come delle semplici stringhe, il cui effettivo valore numerico è zero.</seg>
       </tuv>
     </tu>
     <tu>
