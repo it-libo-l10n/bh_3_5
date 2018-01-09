@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tables&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T210555Z" creationid="Marco Marega" creationdate="20180109T210555Z">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tabelle&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;May I use programming code from LibreOffice in my program?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143659Z" creationid="Marina Latini" creationdate="20171213T143659Z">
@@ -1530,6 +1538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195314Z" creationid="Marco Marega" creationdate="20171017T195314Z">
         <seg>&lt;f0&gt;Modificato&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;: Questo evento si verifica quando un campo di controllo viene modificato e subito dopo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Chapter 3 &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T210548Z" creationid="Marco Marega" creationdate="20180109T210548Z">
+        <seg>&lt;f0&gt;Capitolo 3 &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,6 +4402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162005Z" creationid="Marina Latini" creationdate="20171206T162005Z">
         <seg>Uso di database in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Databases store data in tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T210627Z" creationid="Marco Marega" creationdate="20180109T210627Z">
+        <seg>I Database memorizzano i dati in delle tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10466,6 +10490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
         <seg>Quello in basso mostra invece tutti i campi, in modo che sia evidente a quale persona e a quale supporto si riferisce il reso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main difference from the tables in a simple spreadsheet is that the fields into which the data is written must be clearly defined beforehand.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T211129Z" creationid="Marco Marega" creationdate="20180109T211129Z">
+        <seg>La differenza principale rispetto alle tabelle di un semplice foglio elettronico è che i campi in cui verranno scritti i dati devono essere definiti esplicitamente sin dall'inizio.</seg>
       </tuv>
     </tu>
     <tu>
