@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple address book for private use can be created in this way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222712Z" creationid="Marco Marega" creationdate="20180112T222712Z">
+        <seg>In questo modo è possibile creare una semplice rubrica per un uso privato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162557Z" creationid="Marina Latini" creationdate="20171205T162557Z">
@@ -6010,6 +6018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162144Z" creationid="Manuel Frassinetti" creationdate="20171218T162144Z">
         <seg>Tuttavia, se il database è stato pianificato in modo ordinato utilizzando HSQLDB, non è necessario modificare questi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the address book of a school or a sports association could contain so much repetition of postcodes and locations that these fields are better placed in one or even two separate tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223011Z" creationid="Marco Marega" creationdate="20180112T223011Z">
+        <seg>Però, la rubrica di una scuola o di un'associazione sportiva potrebbe contenere così tante ripetizioni dei codici di avviamento postali e delle località, che sarebbe meglio inserire questi campi in una o anche due tabelle separate.</seg>
       </tuv>
     </tu>
     <tu>
