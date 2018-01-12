@@ -5902,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to do this in principle is described in Chapter 8,&lt;f0&gt; Getting Started with Base,&lt;/f0&gt; in the &lt;f1&gt;Getting Starte&lt;/f1&gt;&lt;f2&gt;d with LibreOffice&lt;/f2&gt; book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223836Z" creationid="Marco Marega" creationdate="20180112T223836Z">
+        <seg>Le linee di principio su come farlo sono descritte nel Capitolo 8,&lt;f0&gt; Introduzione a Base,&lt;/f0&gt; della &lt;f1&gt;Guida introduttiva&lt;/f1&gt;&lt;f2&gt; a LibreOffice&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However if &lt;f7&gt;Enabled&lt;/f7&gt; is set to &lt;f8&gt;No&lt;/f8&gt;, a choice cannot be made there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210559Z" creationid="Marco Marega" creationdate="20171229T210559Z">
