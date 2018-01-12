@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All data elements are entered independently, which can lead to multiple entry of the same data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222629Z" creationid="Marco Marega" creationdate="20180112T222629Z">
+        <seg>Tutti gli elementi dei dati vengono inseriti indipendentemente, il che può portare a inserimenti multipli degli stessi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All events that involve the Mouse, a key, or the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224137Z" creationid="Marco Marega" creationdate="20171205T224137Z">
@@ -9022,6 +9030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simple databases are based on only one table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222500Z" creationid="Marco Marega" creationdate="20180112T222500Z">
+        <seg>I database più semplici si basano su di una sola tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simply select a control and use &lt;f0&gt;Move Up&lt;/f0&gt; or &lt;f1&gt;Move Down&lt;/f1&gt; to move &lt;f2&gt;&lt;f3&gt;it higher or&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;lower in the sequence.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152710Z" creationid="Marco Marega" creationdate="20171231T152710Z">
@@ -11306,6 +11322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161820Z" creationid="Manuel Frassinetti" creationdate="20171218T161820Z">
         <seg>Non sono selezionabili da qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are shown in the Appendix to this handbook.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222433Z" creationid="Marco Marega" creationdate="20180112T222433Z">
+        <seg>Gli stessi sono elencati nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
