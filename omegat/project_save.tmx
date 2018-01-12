@@ -6526,6 +6526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Improve filtering of data in the displayed tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223249Z" creationid="Marco Marega" creationdate="20180112T223249Z">
+        <seg>Migliorare l'applicazione di filtri sui dati delle tabelle visualizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Improving usability</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165547Z" creationid="Marina Latini" creationdate="20171206T165547Z">
@@ -8502,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent spelling errors due to repeated input</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223143Z" creationid="Marco Marega" creationdate="20180112T223143Z">
+        <seg>Prevenire errori di digitazione dovuti agli inserimenti ripetuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problems with these data entry methods</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162406Z" creationid="Marina Latini" creationdate="20171205T162406Z">
@@ -8706,6 +8722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225341Z" creationid="Marco Marega" creationdate="20171214T225341Z">
         <seg>I record contenenti una data di restituzione non devono comparire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reduce repeated input of the same content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223106Z" creationid="Marco Marega" creationdate="20180112T223106Z">
+        <seg>Ridurre l'inserimento ripetuto dello stesso contenuto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9226,6 +9250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161450Z" creationid="Marina Latini" creationdate="20171205T161450Z">
         <seg>Fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Storing data in separate tables helps:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223039Z" creationid="Marco Marega" creationdate="20180112T223039Z">
+        <seg>Memorizzare i dati in tabelle separate aiuta a:</seg>
       </tuv>
     </tu>
     <tu>
