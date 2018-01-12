@@ -4926,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Relationship diagram for the example database media_without_macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T225008Z" creationid="Marco Marega" creationdate="20180112T225008Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Diagramma delle relazioni per il database di esempio media_without_macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: General &lt;f1&gt;p&lt;/f1&gt;roperties of &lt;f2&gt;f&lt;/f2&gt;orm &lt;f3&gt;f&lt;/f3&gt;ields in a &lt;f4&gt;m&lt;/f4&gt;ultiple &lt;f5&gt;s&lt;/f5&gt;election</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193429Z" creationid="Marco Marega" creationdate="20171210T193429Z">
@@ -12242,6 +12250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114528Z" creationid="Manuel Frassinetti" creationdate="20171202T114528Z">
         <seg>Per facilitare la lettura, sono state incluse alcune interruzioni di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To read the content, zoom the page to 200%.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224936Z" creationid="Marco Marega" creationdate="20180112T224936Z">
+        <seg>Per leggere il contenuto, ingrandite la pagina al 200%.</seg>
       </tuv>
     </tu>
     <tu>
