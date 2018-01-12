@@ -5030,6 +5030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
+        <seg>Figura &lt;t0&gt;2&lt;/t0&gt; visualizza una panoramica della struttura complessiva delle tabelle di questo database di esempio, ridotta in modo da adattarsi alle dimensioni della pagina di questo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File selector</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210050Z" creationid="Marco Marega" creationdate="20171015T210050Z">
@@ -10674,6 +10682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220016Z" creationid="Marco Marega" creationdate="20171229T220016Z">
         <seg>Il supporto da prestare può essere selezionato usando la casella di riepilogo e può essere inserita la data del prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The more relationships there are between tables, the more complex is the design task.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224622Z" creationid="Marco Marega" creationdate="20180112T224622Z">
+        <seg>Più relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
       </tuv>
     </tu>
     <tu>
