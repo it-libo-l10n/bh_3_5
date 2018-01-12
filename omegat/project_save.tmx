@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Relationships between table&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223855Z" creationid="Marco Marega" creationdate="20180112T223855Z">
+        <seg>&lt;f0&gt;Relazioni tra tabelle&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reloadin&lt;/f0&gt;&lt;f1&gt;g&lt;/f1&gt;: This takes place when the content of the form is refreshed, for example by using a button on the Navigation Bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201308Z" creationid="Marco Marega" creationdate="20171015T201308Z">
@@ -11562,6 +11570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180556Z" creationid="Manuel Frassinetti" creationdate="20171130T180556Z">
         <seg>Ciò causa una visualizzazione tabellare dei dati da visualizzare sopra la vista grafica della &lt;f0&gt;tabella Prestito con la sua lista di campi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter explains many of these steps in detail, using an example database for a library: &lt;f0&gt;media_without_macros&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224214Z" creationid="Marco Marega" creationdate="20180112T224214Z">
+        <seg>Questo capitolo spiega in dettaglio molti di questi passaggi, usando come esempio un database per una biblioteca: &lt;f0&gt;media_without_macros&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
