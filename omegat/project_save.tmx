@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Constructing the tables for this database is an extensive job, as it covers not only the addition of items into a media library but also the subsequent loan of them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224440Z" creationid="Marco Marega" creationdate="20180112T224440Z">
+        <seg>La costruzione delle tabelle per questo database è un lavoro esteso, in quanto comprende non solo l'aggiunta degli articoli in una libreria dei supporti, ma anche il loro successivo prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070607Z" creationid="ldaghino" creationdate="20171003T070607Z">
