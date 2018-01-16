@@ -1888,8 +1888,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Instead of listing the media for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 0 separately, all the "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Recalls"."Date" fields have been &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;count&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;ed and the total of 8.00€ entered as the fine due.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164849Z" creationid="Manuel Frassinetti" creationdate="20171216T164849Z">
-        <seg>&lt;f0&gt;Invece di elencare i supporti per &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 0 separatamente, tutti i campi  "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Richiami"."Data" sono stati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;conteggiati&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; e il totale di 8.00 € inserito come ammenda dovuta.&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T152429Z" creationid="Manuel Frassinetti" creationdate="20171216T164849Z">
+        <seg>&lt;f0&gt;Invece di elencare separatamente i supporti per il &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 1, tutti i campi  "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Richiami"."Data" sono stati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;conteggiati&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; e il totale di 8.00 € inserito come ammenda dovuta.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2296,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174512Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
-        <seg>&lt;f0&gt;Il risultato della ricerca mostra che il  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' ha un totale di 3 supporti in prestito.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T152045Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
+        <seg>&lt;f0&gt;Il risultato della ricerca mostra che il  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;1' ha un totale di 3 supporti in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12240,8 +12240,8 @@
       <tuv lang="EN">
         <seg>To learn the SQL language better, it is worth switching from time to time between Design Mode and SQL &lt;f0&gt;Mode&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165856Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
-        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra modalità bozza e modalità &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T151719Z" creationid="Manuel Frassinetti" creationdate="20171202T114154Z">
+        <seg>Per imparare meglio il linguaggio SQL, vale la pena passare di volta in volta tra modo bozza e modo &lt;f0&gt;SQL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
