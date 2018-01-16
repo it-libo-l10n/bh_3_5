@@ -8734,6 +8734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Query &lt;f0&gt;e&lt;/f0&gt;nhancement using SQL Mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T171742Z" creationid="Manuel Frassinetti" creationdate="20180116T171742Z">
+        <seg>Ricerche &lt;f0&gt;avanzate&lt;/f0&gt; usando il modo SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Query enhancement using SQL Mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171030Z" creationid="Marina Latini" creationdate="20171205T170919Z">
@@ -9026,6 +9034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210442Z" creationid="Marco Marega" creationdate="20171014T210442Z">
         <seg>Vedete anche il &lt;f1&gt;Capitolo&lt;/f1&gt; &lt;f2&gt;3,&lt;/f2&gt; Tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the code fragments in this chapter, in &lt;/f4&gt;&lt;f5&gt;Chapter 9 (&lt;/f5&gt;&lt;f6&gt;Macros&lt;/f6&gt;&lt;f7&gt;),&lt;/f7&gt;&lt;f8&gt; and in &lt;/f8&gt;&lt;f9&gt;C&lt;/f9&gt;&lt;f10&gt;hapter &lt;/f10&gt;&lt;f11&gt;8&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;f14&gt;D&lt;/f14&gt;&lt;f15&gt;atabase T&lt;/f15&gt;&lt;f16&gt;asks&lt;/f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170915Z" creationid="Manuel Frassinetti" creationdate="20180116T170915Z">
+        <seg>Vedete i frammenti di codice in questo capitolo, nel &lt;/f4&gt;&lt;f5&gt;Capitolo 9 (&lt;/f5&gt;&lt;f6&gt;Macro&lt;/f6&gt;&lt;f7&gt;),&lt;/f7&gt;&lt;f8&gt; e nel &lt;/f8&gt;&lt;f9&gt;Capitolo&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;8&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;f14&gt;Attività&lt;/f14&gt;&lt;f15&gt;  di &lt;/f15&gt;&lt;f16&gt;Database&lt;/f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
