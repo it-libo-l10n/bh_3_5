@@ -2182,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sometimes queries in Base cannot be carried out using the GUI, as particular commands may not be recogni&lt;/f0&gt;&lt;f1&gt;z&lt;/f1&gt;&lt;f2&gt;ed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173630Z" creationid="Manuel Frassinetti" creationdate="20180116T173630Z">
+        <seg>&lt;f0&gt;A volte le ricerche in Base non possono essere eseguite utilizzando la GUI, in quanto alcuni comandi potrebbero non essere riconosciuti&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sort&lt;/f0&gt;: Here you can set up a Sort for your data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210352Z" creationid="Marco Marega" creationdate="20171014T210352Z">
@@ -5814,6 +5822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here there is a significant restriction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173253Z" creationid="Manuel Frassinetti" creationdate="20180116T173253Z">
+        <seg>Qui c'è una restrizione significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
@@ -8390,6 +8406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only those records are displayed for which the field Field_name contains the term 'Karl' – the exact term, not for example 'Karl Egon'.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173518Z" creationid="Manuel Frassinetti" creationdate="20180116T173518Z">
+        <seg>Sono mostrati solo quei record di dati per i quali il Campo_nome contiene il termine 'Karl' – il termine esatto, e non per esempio 'Karl Egon'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only when creating list boxes does the Wizard come into play, making it easier for a novice to carry out the steps for creating correct fields—&lt;f0&gt;u&lt;/f0&gt;p to a point.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210620Z" creationid="Marco Marega" creationdate="20171213T210552Z">
@@ -8958,6 +8982,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT * FROM "Table_name"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172948Z" creationid="Manuel Frassinetti" creationdate="20180116T172948Z">
+        <seg>SELECT * FROM "Tabella_nome"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT * FROM "Table_name" WHERE "Field_name" = 'Karl'</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173205Z" creationid="Manuel Frassinetti" creationdate="20180116T173205Z">
+        <seg>SELECT * FROM "Tabella_nome" WHERE "Campo_nome" = 'Karl'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT DISTINCT "FirstName" FROM "Reader"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231607Z" creationid="Marco Marega" creationdate="20171102T231607Z">
@@ -9294,6 +9334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes it is also the only way &lt;/f11&gt;&lt;t12/&gt;&lt;f13&gt;to enter a query into the database when the GUI cannot translate your requirements into the necessary SQL commands.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172930Z" creationid="Manuel Frassinetti" creationdate="20180116T172930Z">
+        <seg>Qualche volta è anche il solo modo &lt;/f11&gt;&lt;t12/&gt;&lt;f13&gt;per inserire una ricerca nel database quando la GUI non può tradurre le vostre richieste nei necessari comandi SQL.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes it is useful to print a page from a form rather than a separate report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203713Z" creationid="Marco Marega" creationdate="20171016T203713Z">
@@ -9562,6 +9610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220520Z" creationid="Marco Marega" creationdate="20171229T220520Z">
         <seg>Questo richiederebbe il continuo reinserimento dello stesso valore nel campo della data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "*" represents all the fields of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173122Z" creationid="Manuel Frassinetti" creationdate="20180116T173122Z">
+        <seg>Il "*" rappresenta tutti i campi della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12154,6 +12210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154310Z" creationid="Marco Marega" creationdate="20171231T154310Z">
         <seg>Anche questo è possibile solo usando una ricerca adeguata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will show everything that is in the Table_name &lt;f0&gt;table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173050Z" creationid="Manuel Frassinetti" creationdate="20180116T173050Z">
+        <seg>Questo mostrerà qualsisasi cosa sia presente nella tabella &lt;f0&gt;Tabella_nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
