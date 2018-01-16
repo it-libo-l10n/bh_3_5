@@ -1520,8 +1520,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;By default, relationships are set as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inner Joins&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161509Z" creationid="Manuel Frassinetti" creationdate="20171218T161509Z">
-        <seg>&lt;f0&gt;Come predefinito, le relazioni sono impostate come &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;congiunzioni interne&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161824Z" creationid="Manuel Frassinetti" creationdate="20171218T161509Z">
+        <seg>&lt;f0&gt;Come predefinito, le relazioni sono impostate come &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;relazioni interne&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11240,8 +11240,8 @@
       <tuv lang="EN">
         <seg>The window provides information on the way this type of join works in practice.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161708Z" creationid="Manuel Frassinetti" creationdate="20171218T161708Z">
-        <seg>La finestra fornisce informazioni sul modo in cui questo tipo di congiunzione funziona in pratica.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161852Z" creationid="Manuel Frassinetti" creationdate="20171218T161708Z">
+        <seg>La finestra fornisce informazioni sul modo in cui questo tipo di relazione funziona in pratica.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12616,8 +12616,8 @@
       <tuv lang="EN">
         <seg>We refer here &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to joins between tables in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Relationship design&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;but&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to joins within &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;queries&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161040Z" creationid="Manuel Frassinetti" creationdate="20171218T161040Z">
-        <seg>Non ci riferiamo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;qui&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; alla congiunzione tra tabelle in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Relazione struttura&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ma&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; alla congiunzione all'interno &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;di ricerche&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161806Z" creationid="Manuel Frassinetti" creationdate="20171218T161040Z">
+        <seg>Non ci riferiamo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;qui&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; alla relazione tra tabelle in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Relazione struttura&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ma&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; alla relazione all'interno &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;di ricerche&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
