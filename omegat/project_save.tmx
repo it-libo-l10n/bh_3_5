@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When working in Design View Mode, use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;IS EMPTY&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to require a field be empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170102Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Quando lavorate in modalità vista struttura, utilizzate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;È  VUOTO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per richiedere che un campo sia vuoto.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145417Z" creationid="Manuel Frassinetti" creationdate="20171202T144613Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando lavorate in modo vista struttura, utilizzate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;È  VUOTO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per richiedere che un campo sia vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,8 +4704,8 @@
       <tuv lang="EN">
         <seg>Entering queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T165817Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
-        <seg>Inserimento di richieste</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T144946Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
+        <seg>Inserimento di ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -5328,8 +5328,8 @@
       <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170222Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
-        <seg>Per questo proposito torniamo al modalità bozza.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145450Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
+        <seg>Per questo proposito torniamo al modo bozza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12832,8 +12832,8 @@
       <tuv lang="EN">
         <seg>When working in SQL Mode, use &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IS NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; which is what SQL (Structured Query Language) requires.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T171720Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
-        <seg>Quando lavorate in modalità SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IS NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (linguaggio di ricerca strutturato).&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145428Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
+        <seg>Quando lavorate in modo SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IS NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (linguaggio di ricerca strutturato).&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
