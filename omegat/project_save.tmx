@@ -11624,8 +11624,8 @@
       <tuv lang="EN">
         <seg>This corresponds to the join condition that only those records for which the Media_ID field in the Subtitle table is equal to the ID field in the Media table should be shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175239Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
-        <seg>Corrisponde alla condizione di congiunzione per cui devono essere visualizzati solo i record di dati per i quali il campo Supporto_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Supporto.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T153211Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
+        <seg>Corrisponde alla condizione di relazione per cui devono essere visualizzati solo i record di dati per i quali il campo Supporto_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Supporto.</seg>
       </tuv>
     </tu>
     <tu>
