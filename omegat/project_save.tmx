@@ -6862,6 +6862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In such cases it is necessary to &lt;/f2&gt;&lt;f3&gt;switch&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;D&lt;/f5&gt;&lt;f6&gt;esign &lt;/f6&gt;&lt;f7&gt;V&lt;/f7&gt;&lt;f8&gt;iew &lt;/f8&gt;&lt;f9&gt;off &lt;/f9&gt;&lt;f10&gt;and use &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Edit &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Run SQL command directly&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; for direct access to the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174101Z" creationid="Manuel Frassinetti" creationdate="20180116T174101Z">
+        <seg>In tali casi è necessario &lt;/f2&gt;&lt;f3&gt;disattivare&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;la vista&lt;/f5&gt;&lt;f6&gt;struttura &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;e usare &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Modifica &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Esegui direttamente il comando SQL&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; per accedere direttamente al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In tests, this action regularly &lt;s1/&gt;duplicates itself; macros run twice in succession.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
@@ -12058,6 +12066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
         <seg>Questo influenza principalmente i fine riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method has the disadvantage that &lt;/f17&gt;&lt;f18&gt;you can only work with the query in SQL Mode.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174225Z" creationid="Manuel Frassinetti" creationdate="20180116T174225Z">
+        <seg>Questo metodo ha lo svantaggio che &lt;/f17&gt;&lt;f18&gt;potete lavorare con le ricerche solo in modo SQL.&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
