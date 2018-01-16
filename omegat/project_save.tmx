@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;After confirming the &lt;/f0&gt;&lt;f1&gt;right &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;join&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; the query results look as we wanted them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170442Z" creationid="Manuel Frassinetti" creationdate="20180116T170442Z">
+        <seg>&lt;f0&gt;Dopo aver confermato la &lt;/f0&gt;&lt;f1&gt;relazione &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;a destra&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;  i risultati della ricerca sembrano come li volevamo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;After this, the complete query is listed &lt;/f0&gt;&lt;f1&gt;in the error message&lt;/f1&gt;&lt;f2&gt;, but unfortunately without the offending field being named specifically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115516Z" creationid="Manuel Frassinetti" creationdate="20171216T115516Z">
@@ -1760,8 +1768,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For the type &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Right join&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;the description shows that all records from the &lt;/f5&gt;&lt;f6&gt;Media &lt;/f6&gt;&lt;f7&gt;table will be displayed &lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;(Subtitle RIGHT JOIN Media)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T170453Z" creationid="Manuel Frassinetti" creationdate="20171218T170453Z">
-        <seg>&lt;f0&gt;Per il tipo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;congiunzione a destra&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;la descrizione mostra che tutti i record dalla tabella &lt;/f5&gt;&lt;f6&gt;Supporto &lt;/f6&gt;&lt;f7&gt; verranno mostrati &lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;(Sottotitolo RIGHT JOIN Supporto)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T165853Z" creationid="Manuel Frassinetti" creationdate="20171218T170453Z">
+        <seg>&lt;f0&gt;Per il tipo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;relazione a destra&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;la descrizione mostra che tutti i record dalla tabella &lt;/f5&gt;&lt;f6&gt;Supporto &lt;/f6&gt;&lt;f7&gt; verranno mostrati &lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;(Sottotitolo RELAZIONE A DESTRA Supporto)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However as long as hits are not being counted, this query can be used further as a basis for a search function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170624Z" creationid="Manuel Frassinetti" creationdate="20180116T170624Z">
+        <seg>Tuttavia, finché non vengono contati gli elementi, questa ricerca può essere utilizzata ulteriormente come base per una funzione di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However if &lt;f7&gt;Enabled&lt;/f7&gt; is set to &lt;f8&gt;No&lt;/f8&gt;, a choice cannot be made there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210559Z" creationid="Marco Marega" creationdate="20171229T210559Z">
@@ -7826,6 +7842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194928Z" creationid="Marco Marega" creationdate="20171125T194928Z">
         <seg>N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Naturally Titles appear more than once as with the previous relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170523Z" creationid="Manuel Frassinetti" creationdate="20180116T170523Z">
+        <seg>Naturalmente i titoli appaiono più di una volta come nella relazione precedente.</seg>
       </tuv>
     </tu>
     <tu>
