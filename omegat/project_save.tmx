@@ -2280,8 +2280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175442Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
-        <seg>&lt;f0&gt;Le condizioni di congiunzione devono essere aperte per la modifica per visualizzare tutti i record desiderati.</seg>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
+        <seg>&lt;f0&gt;Le condizioni di relazione devono essere aperte per la modifica per visualizzare tutti i record desiderati.</seg>
       </tuv>
     </tu>
     <tu>
