@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If during graphical entry you use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Switch Design View On/Off&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; to switch design view off, you see the SQL command for what previously appeared in &lt;/f7&gt;&lt;f8&gt;D&lt;/f8&gt;&lt;f9&gt;esign &lt;/f9&gt;&lt;f10&gt;V&lt;/f10&gt;&lt;f11&gt;iew.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172617Z" creationid="Manuel Frassinetti" creationdate="20180116T172617Z">
+        <seg>&lt;f0&gt;Se durante l'inserimento grafico usate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Vista struttura sì/no&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; passare a vista struttura no, vedrete il comando SQL per ciò che è apparso in precedenza in &lt;/f7&gt;&lt;f8&gt;Vista&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;struttura&lt;/f10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If we now switch back to SQL View, we see that all fields are now shown in double quotes: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Table _name"."Field_name"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172433Z" creationid="Manuel Frassinetti" creationdate="20171204T172934Z">
@@ -11922,6 +11930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212844Z" creationid="Marco Marega" creationdate="20171101T212844Z">
         <seg>Questo è indicato quando la query contiene funzioni che probabilmente potrebbero non essere comprese dall'Interfaccia di Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the best way for beginners to learn the Standard Query Language for Databases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172710Z" creationid="Manuel Frassinetti" creationdate="20180116T172710Z">
+        <seg>Questo è il modo migliore per i principianti di imparare il linguaggio di interrogazione standard per i database.</seg>
       </tuv>
     </tu>
     <tu>
