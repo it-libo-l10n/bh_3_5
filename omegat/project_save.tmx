@@ -7350,6 +7350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It might also contain books with multiple authors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215630Z" creationid="Marco Marega" creationdate="20180126T215630Z">
+        <seg>Potrebbe anche contenere libri con molteplici autori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides a table, which can then be provided with controls for individual columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200054Z" creationid="Marco Marega" creationdate="20171125T200008Z">
@@ -9478,6 +9486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such relationships require a table that acts as an intermediary between the two tables concerned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215939Z" creationid="Marco Marega" creationdate="20180126T215939Z">
+        <seg>Le relazioni di questo tipo richiedono una tabella intermedia tra le due tabelle interessate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such solutions are available using further forms that are hierarchically arranged and make possible separate views of the data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205704Z" creationid="Marco Marega" creationdate="20171215T205704Z">
@@ -10722,6 +10738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194039Z" creationid="Marco Marega" creationdate="20171125T194039Z">
         <seg>La lunghezza della maschera di digitazione determina quanti caratteri si possono inserire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The library might contain more than one book by one author.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215547Z" creationid="Marco Marega" creationdate="20180126T215547Z">
+        <seg>La biblioteca potrebbe contenere più di un libro di un autore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12210,6 +12234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221620Z" creationid="Marco Marega" creationdate="20171217T221620Z">
         <seg>Questo record verrà letto e riscritto ripetutamente dal formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This relationship is known as many-to-many (n:m).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215720Z" creationid="Marco Marega" creationdate="20180126T215720Z">
+        <seg>Questa relazione è detta molti a molti (n:m).</seg>
       </tuv>
     </tu>
     <tu>
