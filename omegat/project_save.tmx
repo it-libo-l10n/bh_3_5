@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A database for a library might contain a table for authors’ names and a table for the media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215408Z" creationid="Marco Marega" creationdate="20180126T215408Z">
+        <seg>Un database per una biblioteca può contenere una tabella per i nomi degli autori e una tabella per i supporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A field that is read-only does not need a tab stop; it can be skipped.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204103Z" creationid="Marco Marega" creationdate="20171016T204103Z">
@@ -5026,6 +5034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180506Z" creationid="Marco Marega" creationdate="20171226T180506Z">
         <seg>Figura &lt;seq0&gt;39&lt;/seq0&gt;: Formulario principale come filtro per un formulario secondario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Example 1:n relationship; n:m relationship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215227Z" creationid="Marco Marega" creationdate="20180126T215227Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Esempio di relazione 1:n; relazione n:m</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many-to-many relationships</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215301Z" creationid="Marco Marega" creationdate="20180126T215301Z">
+        <seg>Relazioni molti a molti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum value, by default set to 1 second before 24:00.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210250Z" creationid="Marco Marega" creationdate="20171026T210250Z">
@@ -10162,6 +10186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230414Z" creationid="Marco Marega" creationdate="20171102T230414Z">
         <seg>La casella combinata mostra il nome e non è necessario inserire del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The connection between an author and, for example, books that author has written, is obvious.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215453Z" creationid="Marco Marega" creationdate="20180126T215453Z">
+        <seg>Il collegamento tra un autore e, ad esempio, i libri che quell'autore ha scritto è ovvio.</seg>
       </tuv>
     </tu>
     <tu>
