@@ -5094,6 +5094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example 1:1 relationship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221151Z" creationid="Marco Marega" creationdate="20180126T221151Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Esempio di relazione 1:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
@@ -8394,6 +8402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214554Z" creationid="Marco Marega" creationdate="20180126T214554Z">
         <seg>Relazioni uno a molti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One-to-one relationships</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221124Z" creationid="Marco Marega" creationdate="20180126T221124Z">
+        <seg>Relazioni uno a uno</seg>
       </tuv>
     </tu>
     <tu>
@@ -12226,6 +12242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
         <seg>Questo influenza principalmente i fine riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes the pair unique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221113Z" creationid="Marco Marega" creationdate="20180126T221113Z">
+        <seg>Questo rende la coppia univoca.</seg>
       </tuv>
     </tu>
     <tu>
