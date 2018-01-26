@@ -9350,6 +9350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So this pair meets the requirements for the primary key for the intermediate table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220714Z" creationid="Marco Marega" creationdate="20180126T220714Z">
+        <seg>Perciò questa coppia rispetta i requisiti per essere la chiave primaria della tabella intermedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So you haven't to scroll to long through the list to find somebody.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212126Z" creationid="Marco Marega" creationdate="20171101T212126Z">
