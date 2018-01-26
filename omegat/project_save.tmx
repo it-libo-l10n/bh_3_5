@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_7_r9970:10059" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3570,6 +3570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070553Z" creationid="ldaghino" creationdate="20171003T070553Z">
         <seg>Basato su LibreOffice &lt;f3&gt;3.&lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because titles can have multiple subtitles or sometimes none at all, the subtitles are stored in a separate table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214801Z" creationid="Marco Marega" creationdate="20180126T214801Z">
+        <seg>Dato che i titoli possono avere più sottotitoli oppure, alle volte, nessuno, i sottotitoli sono memorizzati in una tabella separata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8310,6 +8318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One-to-many relationships</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214554Z" creationid="Marco Marega" creationdate="20180126T214554Z">
+        <seg>Relazioni uno a molti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only active when a graphic has been selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214423Z" creationid="Marco Marega" creationdate="20171126T214423Z">
@@ -10806,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The media_without_macros database lists the titles of the media in one table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214642Z" creationid="Marco Marega" creationdate="20180126T214642Z">
+        <seg>Il database media_without_macros elenca i titoli dei supporti in una tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The more relationships there are between tables, the more complex is the design task.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224622Z" creationid="Marco Marega" creationdate="20180112T224622Z">
@@ -12130,6 +12154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221620Z" creationid="Marco Marega" creationdate="20171217T221620Z">
         <seg>Questo record verrà letto e riscritto ripetutamente dal formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This relationship is known as one-to-many (1:n).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214843Z" creationid="Marco Marega" creationdate="20180126T214843Z">
+        <seg>Questa relazione è conosciuta come uno a molti (1:n).</seg>
       </tuv>
     </tu>
     <tu>
