@@ -12094,6 +12094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is represented in Figure &lt;t0&gt;3&lt;/t0&gt; by the &lt;f1&gt;rel_Media_Author&lt;/f1&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220007Z" creationid="Marco Marega" creationdate="20180126T220007Z">
+        <seg>Nella Figura &lt;t0&gt;3&lt;/t0&gt; questa è rappresentata dalla tabella &lt;f1&gt;rel_Media_Author&lt;/f1&gt; table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is suitable when the query contains functions that might perhaps not be understood by the Base GUI.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212844Z" creationid="Marco Marega" creationdate="20171101T212844Z">
@@ -12386,6 +12394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161523Z" creationid="Marina Latini" creationdate="20171205T161523Z">
         <seg>Rubrica di Thunderbird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, in practice, the n:m relationship is solved by treating it as two 1:n relationships.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220109Z" creationid="Marco Marega" creationdate="20180126T220109Z">
+        <seg>Perciò, in pratica, la relazione n:m viene risolta trattandola come due relazioni 1:n.</seg>
       </tuv>
     </tu>
     <tu>
