@@ -7694,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many subtitles may be assigned to one medium, for example the many track titles for a music CD.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214953Z" creationid="Marco Marega" creationdate="20180126T214953Z">
+        <seg>Molti sottotitoli possono essere assegnati a un supporto, ad esempio le molte tracce di un CD musicale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum value, by default set to 1 second before 24:00.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210250Z" creationid="Marco Marega" creationdate="20171026T210250Z">
@@ -10806,6 +10814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The majority of relationships between tables in a database are one-to-many relationships.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215147Z" creationid="Marco Marega" creationdate="20180126T215147Z">
+        <seg>La maggior parte delle relazioni tra tabelle all'interno di un database sono relazioni uno a molti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The media loan form is already significantly more useful.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215840Z" creationid="Marco Marega" creationdate="20171229T215840Z">
@@ -10994,6 +11010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213642Z" creationid="Marco Marega" creationdate="20171029T213642Z">
         <seg>La chiave primaria &lt;f3&gt;ID&lt;/f3&gt; della tabella Reader &lt;f4&gt;deve essere&lt;/f4&gt; collegata a questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary key for the &lt;f0&gt;Media&lt;/f0&gt; table is stored as a foreign key in the &lt;f1&gt;Subtitle&lt;/f1&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215058Z" creationid="Marco Marega" creationdate="20180126T215058Z">
+        <seg>La chiave primaria della tabella &lt;f0&gt;Media&lt;/f0&gt; nella tabella &lt;f1&gt;Subtitle&lt;/f1&gt; viene memorizzata come chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
