@@ -5182,6 +5182,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a given value for Author_ID, there is only one Author's first and last name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220958Z" creationid="Marco Marega" creationdate="20180126T220958Z">
+        <seg>Per un determinato valore di Author_ID, esiste solo un Autore con quel nome e cognome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a given value for Media_ID, there is only one title of the media and one ISBN.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220810Z" creationid="Marco Marega" creationdate="20180126T220810Z">
+        <seg>Per un determinato valore di Media_ID, esiste un solo titolo del supporto e un codice ISBN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a greater degree of functionality (returns without alteration of previous data) a second subform must be created, linked to the same Loans table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213102Z" creationid="Marco Marega" creationdate="20171226T213102Z">
@@ -9370,6 +9386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211855Z" creationid="Marco Marega" creationdate="20171213T211855Z">
         <seg>Così non dovrete scegliere &lt;f6&gt;Modifica gruppo&lt;/f6&gt; prima di poter &lt;f7&gt;cambiare &lt;/f7&gt; le proprietà di un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, for a given pair of these values, there is only one ISBN and only one Author.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221058Z" creationid="Marco Marega" creationdate="20180126T221058Z">
+        <seg>Quindi, per una determinata coppia di questi valori, esiste solo un codice ISBN e un solo Autore.</seg>
       </tuv>
     </tu>
     <tu>
