@@ -3640,8 +3640,8 @@
       <tuv lang="EN">
         <seg>But for a school database, the school class is also required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150534Z" creationid="Marco Marega" creationdate="20180127T150534Z">
-        <seg>Ma per il database di una scuola, è richiesta anche la tabella della classe.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150813Z" creationid="Marco Marega" creationdate="20180127T150534Z">
+        <seg>Ma per il database di una scuola, è richiesta anche la classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11294,6 +11294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The school class relationship of pupils is separated from the reader table, because mapping to classes is not appropriate in all areas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151042Z" creationid="Marco Marega" creationdate="20180127T151042Z">
+        <seg>La relazione tra la classe e gli alunni è separata dalla tabella degli utenti, dato che mappare le classi non è appropriato in tutti i contesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second sub-subform requires more settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
@@ -11642,6 +11650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211020Z" creationid="Marco Marega" creationdate="20171014T211020Z">
         <seg>Non ci sarà alcun accesso ai dati esistenti, &lt;f1&gt;che&lt;/f1&gt; non potranno essere né modificati né visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore it is not necessary to include these addresses in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150846Z" creationid="Marco Marega" creationdate="20180127T150846Z">
+        <seg>Perciò non è necessario inserire questi indirizzi nel database.</seg>
       </tuv>
     </tu>
     <tu>
