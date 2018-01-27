@@ -5198,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First, media must be added into the database so that a library can work with them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152653Z" creationid="Marco Marega" creationdate="20180127T152653Z">
+        <seg>Per prima cosa i supporti devono essere inseriti nel database cosicché la biblioteca possa utilizzarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating-point numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100014Z" creationid="Marina Latini" creationdate="20171207T100014Z">
@@ -7918,6 +7926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Media addition table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152525Z" creationid="Marco Marega" creationdate="20180127T152525Z">
+        <seg>Tabella di aggiunta dei supporti (Media)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Media and loan dates might be changed when the media is to be loaned out for longer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T212623Z" creationid="Marco Marega" creationdate="20171217T212623Z">
@@ -10482,6 +10498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232041Z" creationid="Marco Marega" creationdate="20171102T232041Z">
         <seg>Gli eventi corrispondono a quelli di una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The example database (media_without_macros) must satisfy three requirements: media additions and removals, loans, and user administration.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152410Z" creationid="Marco Marega" creationdate="20180127T152410Z">
+        <seg>Il database di esempio (media_without_macros) deve soddisfare tre requisiti: l'aggiunta e l'eliminazione dei supporti, i prestiti e l'amministrazione degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
