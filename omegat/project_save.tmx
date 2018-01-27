@@ -5574,6 +5574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the school class records, you can find borrowers’ addresses where necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150757Z" creationid="Marco Marega" creationdate="20180127T150757Z">
+        <seg>Dai record della classe, se necessario potete trovare gli indirizzi di coloro che hanno preso dei supporti in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the tables available, &lt;f0&gt;select &lt;/f0&gt;the Loan table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091536Z" creationid="Manuel Frassinetti" creationdate="20171127T091536Z">
