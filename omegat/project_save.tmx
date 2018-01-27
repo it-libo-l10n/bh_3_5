@@ -5590,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From this arises a 1:1 relationship between the reader and the individual school class assignment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151336Z" creationid="Marco Marega" creationdate="20180127T151336Z">
+        <seg>Da questo deriva una relazione 1:1 tra l'utente e l'assegnazione dei singoli individui nella classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions in the Report Builder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105824Z" creationid="Marina Latini" creationdate="20171206T105824Z">
