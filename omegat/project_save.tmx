@@ -4702,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplication should therefore be avoided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153310Z" creationid="Marco Marega" creationdate="20180127T153310Z">
+        <seg>Perciò le duplicazioni dovrebbero essere evitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During entry of new values, a list of matching values (if any) is displayed for possible selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
@@ -5142,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Media addition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153141Z" creationid="Marco Marega" creationdate="20180127T153141Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: inserimento dei supporti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
@@ -5490,6 +5506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170617Z" creationid="Manuel Frassinetti" creationdate="20171202T165439Z">
         <seg>Per questo motivo, rendere modificabili i risultati delle ricerca è una funzione che dovrebbe essere utilizzata con estrema cautela, se necessario sotto il controllo di un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, planned fields in the table include the title, the ISBN, an image of the cover, and the year of publication.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153417Z" creationid="Marco Marega" creationdate="20180127T153417Z">
+        <seg>Per questo motivo i campi previsti nella tabella comprendono: il titolo, il codice ISBN, un'immagine della copertina e l'anno di pubblicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,6 +6242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T232014Z" creationid="Marco Marega" creationdate="20171102T232014Z">
         <seg>Però, ancora una volta, la creazione mediante la proceduta guidata rende impossibile ordinare in contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, for a simple summary of a media collection at home, you could create easier databases with the wizard; that might be sufficient for home use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153009Z" creationid="Marco Marega" creationdate="20180127T153009Z">
+        <seg>Comunque, per un semplice elenco di una collezione casalinga, potete creare facilmente dei database con la proceduta guidata; questi dovrebbero essere sufficienti per un uso domestico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7202,6 +7234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203810Z" creationid="Marco Marega" creationdate="20171016T203810Z">
         <seg>In questo caso, potrebbe non essere richiesto che appaiano tutti i campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this table all fields that are directly entered are assumed not to be also in use for other media with the same content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153243Z" creationid="Marco Marega" creationdate="20180127T153243Z">
+        <seg>In questa tabella tutti i campi vengono inseriti direttamente e si presume che non vengano usati per altri supporti con lo stesso contenuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9542,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for instance, librarians might want to include fields for the size (number of pages), the series title, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153607Z" creationid="Marco Marega" creationdate="20180127T153607Z">
+        <seg>Ad esempio, i gestori della biblioteca potrebbero voler inserire dei campi per la lunghezza (numero di pagine), il titolo della serie e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, if you enter A, only people whose surname begins with A will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160246Z" creationid="Marco Marega" creationdate="20171230T160246Z">
@@ -10334,6 +10382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The central table for &lt;t0&gt;Media addition&lt;/t0&gt; is the &lt;f1&gt;Media&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;table (see Figure &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;5&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153113Z" creationid="Marco Marega" creationdate="20180127T153113Z">
+        <seg>La tabella centrale per l'&lt;t0&gt;inserimento dei supporti&lt;/t0&gt; è la tabella &lt;f1&gt;Media&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; (vedete la Figura &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;5&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The change is made visible in the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator by the change in the accompanying icon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220100Z" creationid="Marco Marega" creationdate="20171210T220100Z">
@@ -11002,6 +11058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215444Z" creationid="Marco Marega" creationdate="20171029T215444Z">
         <seg>Il campo della lista diventa quindi automaticamente un campo multi-linea, nel quale il valore correntemente selezionato viene evidenziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list of fields can be extended if required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153447Z" creationid="Marco Marega" creationdate="20180127T153447Z">
+        <seg>Se necessario la lista dei campi può essere estesa.</seg>
       </tuv>
     </tu>
     <tu>
