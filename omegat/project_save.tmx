@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a CD can contain several pieces of music, a record of the individual pieces in the main table would require a lot of additional fields (Subtitle 1, Subtitle 2, etc.) or the same item would have to be entered many times.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153933Z" creationid="Marco Marega" creationdate="20180127T153933Z">
+        <seg>Siccome un CD può contenere numerosi brani musicali, un record per le singole tracce all'interno della tabella principale richiederebbe molti campi aggiuntivi (Subtitle 1, Subtitle 2, ecc.) oppure lo stesso articolo dovrebbe essere inserito molte volte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a search criterion, the Return_&lt;f0&gt;D&lt;/f0&gt;ate is set to “IS &lt;f1&gt;EMPTY&lt;/f1&gt;”, as in the previous example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174239Z" creationid="Manuel Frassinetti" creationdate="20171214T173940Z">
@@ -9994,6 +10002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213442Z" creationid="Marco Marega" creationdate="20171029T213442Z">
         <seg>Il campo &lt;f0&gt;Reader_ID&lt;/f0&gt; &lt;f1&gt;ricorre &lt;/f1&gt;nella tabella Loan che sottostà al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Subtitle&lt;/f0&gt; table contains the detailed content of CDs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153733Z" creationid="Marco Marega" creationdate="20180127T153733Z">
+        <seg>La tabella &lt;f0&gt;Subtitle&lt;/f0&gt; contiene i contenuti dettagliati dei CD.</seg>
       </tuv>
     </tu>
     <tu>
