@@ -10038,6 +10038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;Subtitle&lt;/f1&gt; table therefore stands in a&lt;f2&gt; n:1 relationship &lt;/f2&gt;to the &lt;f3&gt;Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;table&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154027Z" creationid="Marco Marega" creationdate="20180127T154027Z">
+        <seg>Perciò la tabella &lt;f1&gt;Subtitle&lt;/f1&gt; sta in una relazione &lt;f2&gt; n:1 &lt;/f2&gt;con la tabella &lt;f3&gt;Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f2&gt;Date&lt;/f2&gt; field is bound to the &lt;f3&gt;Loan_Date&lt;/f3&gt;&lt;f4&gt; field.&lt;/f4&gt; This ensures that the &lt;f5&gt;Loan_Date&lt;/f5&gt; is automatically transferred from the &lt;f6&gt;Filter&lt;/f6&gt; table to the &lt;f7&gt;Loans&lt;/f7&gt; table when the loan is made.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153344Z" creationid="Marco Marega" creationdate="20171230T153142Z">
@@ -10618,6 +10626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205855Z" creationid="Marco Marega" creationdate="20171213T205855Z">
         <seg>Il campo deve essere selezionato, trascinato sulla superficie del formulario e deve essere abbinato al campo appropriato della tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields of the &lt;f0&gt;Subtitle&lt;/f0&gt; table are (in addition to the subtitle itself) the sequence number of the subtitle and the duration of the track.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154143Z" creationid="Marco Marega" creationdate="20180127T154143Z">
+        <seg>I campi della tabella &lt;f0&gt;Subtitle&lt;/f0&gt; sono (oltre al sottotitolo stesso) il numero del sottotitolo nella sequenza e la durata della traccia.</seg>
       </tuv>
     </tu>
     <tu>
