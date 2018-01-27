@@ -7286,6 +7286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way, the total duration of the CD can be calculated and displayed in a summary if necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154412Z" creationid="Marco Marega" creationdate="20180127T154412Z">
+        <seg>Cos' facendo, se necessario, è possibile calcolare la durata totale del CD e visualizzarla in un riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Independent of this form control, the &lt;f0&gt;insertable navigation bar&lt;/f0&gt; naturally continues to exist with the same items as the above figure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224535Z" creationid="Marco Marega" creationdate="20171205T224535Z">
@@ -10030,6 +10038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;Length&lt;/f1&gt; field must first be defined as a time field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154314Z" creationid="Marco Marega" creationdate="20180127T154314Z">
+        <seg>Il campo &lt;f1&gt;Length&lt;/f1&gt; dev'essere definito come un campo di tipo ora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;N&lt;/f1&gt;avigator knows nothing about the controls that lie within the table control, referring to fields in the underlying table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213433Z" creationid="Marco Marega" creationdate="20171213T213433Z">
@@ -10346,6 +10362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211504Z" creationid="Marco Marega" creationdate="20171216T211504Z">
         <seg>L'ordine ascendente mostra in cima i supporti in prestito da un periodo più lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The authors have a n:m relationship to the media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154433Z" creationid="Marco Marega" creationdate="20180127T154433Z">
+        <seg>Gli autori hanno una relazione n:m con i supporti.</seg>
       </tuv>
     </tu>
     <tu>
