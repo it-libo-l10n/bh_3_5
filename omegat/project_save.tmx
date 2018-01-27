@@ -8518,6 +8518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One item can have several authors, and one author might have created several items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154518Z" creationid="Marco Marega" creationdate="20180127T154518Z">
+        <seg>Un articolo può avere molti autori e un autore può aver creato numerosi articoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One level further down are the two additional subforms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214205Z" creationid="Marco Marega" creationdate="20171226T214205Z">
@@ -12586,6 +12594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221620Z" creationid="Marco Marega" creationdate="20171217T221620Z">
         <seg>Questo record verrà letto e riscritto ripetutamente dal formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This relationship is controlled by the &lt;f0&gt;rel_Media_Author&lt;/f0&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154550Z" creationid="Marco Marega" creationdate="20180127T154550Z">
+        <seg>Questa relazione è gestita dalla tabella &lt;f0&gt;rel_Media_Author&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
