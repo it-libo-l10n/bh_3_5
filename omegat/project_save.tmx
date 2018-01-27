@@ -3638,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But for a school database, the school class is also required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150534Z" creationid="Marco Marega" creationdate="20180127T150534Z">
+        <seg>Ma per il database di una scuola, è richiesta anche la tabella della classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you enter Subtitle into the query table, the record content of the Media table is reduced to only 2 Titles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174835Z" creationid="Manuel Frassinetti" creationdate="20171216T174835Z">
