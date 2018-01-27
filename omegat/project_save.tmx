@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tables and relationships for the&lt;/f0&gt;&lt;f1&gt; example database&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152238Z" creationid="Marco Marega" creationdate="20180127T152238Z">
+        <seg>&lt;f0&gt;Tabelle e relazioni del &lt;/f0&gt;&lt;f1&gt;database di esempio&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text modifie&lt;/f0&gt;&lt;f1&gt;d&lt;/f1&gt;: Refers to the content, which can in fact be text, numeric, or whatever.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195413Z" creationid="Marco Marega" creationdate="20171017T195413Z">
@@ -2714,6 +2722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194658Z" creationid="Marco Marega" creationdate="20171125T194658Z">
         <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A 1:1 relationship &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;therefore leads to fields being exported which will be filled with content for only some of the records.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152202Z" creationid="Marco Marega" creationdate="20180127T152202Z">
+        <seg>Quindi una relazione 1:1 &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;conduce a dei campi che sono stati esportati e che verranno riempiti con dei contenuti solamente per alcuni record.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
