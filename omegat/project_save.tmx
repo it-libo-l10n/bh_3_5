@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A 1:1 relationship does not signify that for every record in a table, there will be a corresponding record in another table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151853Z" creationid="Marco Marega" creationdate="20180127T151853Z">
+        <seg>Una relazione 1:1 non significa che per ogni record in una tabella ci sarà un record corrispondente in un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113359Z" creationid="Marina Latini" creationdate="20171213T113359Z">
@@ -3626,6 +3634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100219Z" creationid="Marina Latini" creationdate="20171207T100219Z">
         <seg>Funzioni integrate e procedure salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But &lt;f0&gt;at most&lt;/f0&gt;&lt;f1&gt; there will be only one corresponding record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151948Z" creationid="Marco Marega" creationdate="20180127T151948Z">
+        <seg>Bensì che, &lt;f0&gt;al massimo&lt;/f0&gt;&lt;f1&gt;, ci sarà solamente un record corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8792,8 +8808,8 @@
       <tuv lang="EN">
         <seg>Primary key and foreign key are one and the same in the &lt;f2&gt;Address&lt;/f2&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151512Z" creationid="Marco Marega" creationdate="20180127T151512Z">
-        <seg>Primary key and foreign key are one and the same in the &lt;f2&gt;Address&lt;/f2&gt; table.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151739Z" creationid="Marco Marega" creationdate="20180127T151512Z">
+        <seg>Nella tabella &lt;f2&gt;Address&lt;/f2&gt; la chiave primaria e a chiave esterna sono una sola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12290,6 +12306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195811Z" creationid="Marco Marega" creationdate="20171125T195811Z">
         <seg>Questo è un campo di controllo onnicomprensivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is therefore a 1:1 relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151752Z" creationid="Marco Marega" creationdate="20180127T151752Z">
+        <seg>Perciò questa è una relazione 1:1.</seg>
       </tuv>
     </tu>
     <tu>
