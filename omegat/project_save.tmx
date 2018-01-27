@@ -7118,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this table only the fields that are directly necessary were planned in advance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150309Z" creationid="Marco Marega" creationdate="20180127T150309Z">
+        <seg>In questa tabella solamente i campi che sono strettamente necessari sono stati pianificati in anticipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way the Readers table is provided with the corresponding foreign key from the Gender table by using the option button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211745Z" creationid="Marco Marega" creationdate="20171126T211745Z">
@@ -10802,6 +10810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194039Z" creationid="Marco Marega" creationdate="20171125T194039Z">
         <seg>La lunghezza della maschera di digitazione determina quanti caratteri si possono inserire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The library database described above requires a table for readers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T144128Z" creationid="Marco Marega" creationdate="20180127T144128Z">
+        <seg>Il database per la biblioteca sopra descritto richiede una tabella per gli utenti.</seg>
       </tuv>
     </tu>
     <tu>
