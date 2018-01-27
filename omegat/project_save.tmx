@@ -5270,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For each reader there is a single address.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151447Z" creationid="Marco Marega" creationdate="20180127T151447Z">
+        <seg>Per ogni utente c'è un singolo indirizzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each table field, an appropriate form control has been automatically selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211711Z" creationid="Marco Marega" creationdate="20171210T211711Z">
@@ -6502,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are multiple readers at the same address, this structure would require the address to be entered again, since the primary key of the &lt;f0&gt;Reader&lt;/f0&gt; table is entered directly as the primary key in the &lt;f1&gt;Address&lt;/f1&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151628Z" creationid="Marco Marega" creationdate="20180127T151509Z">
+        <seg>Se ci sono più utenti con lo stesso indirizzo, questa struttura richiede che l'indirizzo venga inserito di nuovo, in quanto la chiave primaria della tabella &lt;f0&gt;Reader&lt;/f0&gt; viene inserita direttamente come chiave primaria nella tabella &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is a frame, its color can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191521Z" creationid="Marco Marega" creationdate="20171017T191521Z">
@@ -6714,6 +6730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112334Z" creationid="Marina Latini" creationdate="20171213T112334Z">
         <seg>In &lt;f0&gt;Interfaccia utente &gt; Dimensione e stile delle icone&lt;/f0&gt; selezionate &lt;f1&gt;Galaxy&lt;/f1&gt; dalle opzioni disponibili nel men&lt;f2&gt;u&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.a tendina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a database for a public library, the addresses of readers are required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151408Z" creationid="Marco Marega" creationdate="20180127T151408Z">
+        <seg>Nel database per una biblioteca pubblica, gli indirizzi degli utenti sono necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8762,6 +8786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223143Z" creationid="Marco Marega" creationdate="20180112T223143Z">
         <seg>Prevenire errori di digitazione dovuti agli inserimenti ripetuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary key and foreign key are one and the same in the &lt;f2&gt;Address&lt;/f2&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151512Z" creationid="Marco Marega" creationdate="20180127T151512Z">
+        <seg>Primary key and foreign key are one and the same in the &lt;f2&gt;Address&lt;/f2&gt; table.</seg>
       </tuv>
     </tu>
     <tu>
