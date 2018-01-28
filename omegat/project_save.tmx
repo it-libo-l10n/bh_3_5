@@ -10094,6 +10094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;rel_Media_Author&lt;/f3&gt; table includes an additional sorting (Author_Sort) of authors, for example by the sequence in which they are named in the book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222148Z" creationid="Marco Marega" creationdate="20180128T222148Z">
+        <seg>La tabella &lt;f3&gt;rel_Media_Author&lt;/f3&gt; comprende in aggiunta l'ordinamento degli autori (Author_Sort), ad esempio in base alla sequenza nella quale sono menzionati nel libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f4&gt;List content&lt;/f4&gt; field then shows them as &lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Value1&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;Value2&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;;&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;Value3&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; … &lt;/f22&gt;The &lt;f23&gt;Bound Field&lt;/f23&gt; property is &lt;f24&gt;inactive&lt;/f24&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205821Z" creationid="Marco Marega" creationdate="20171101T205821Z">
@@ -11394,6 +11402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215058Z" creationid="Marco Marega" creationdate="20180126T215058Z">
         <seg>La chiave primaria della tabella &lt;f0&gt;Media&lt;/f0&gt; nella tabella &lt;f1&gt;Subtitle&lt;/f1&gt; viene memorizzata come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary key of this linking table is the foreign key, formed from the &lt;f1&gt;Author&lt;/f1&gt; and &lt;f2&gt;Media&lt;/f2&gt; tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T221938Z" creationid="Marco Marega" creationdate="20180128T221938Z">
+        <seg>La chiave primaria di questa tabella di collegamento è la chiave esterna, formata dalle tabelle &lt;f1&gt;Author&lt;/f1&gt; e &lt;f2&gt;Media&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
