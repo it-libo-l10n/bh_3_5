@@ -5886,6 +5886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hence both fields appear under Category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222932Z" creationid="Marco Marega" creationdate="20180128T222932Z">
+        <seg>Perciò nella tabella Category compaiono entrambi i campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here again we need to make retrospective improvements, so that the required SQL code can be created quite quickly using the built-in query editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211349Z" creationid="Marco Marega" creationdate="20171213T211321Z">
@@ -10046,6 +10054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Mediastyle&lt;/f0&gt; is linked to the &lt;f1&gt;loan period &lt;/f1&gt;&lt;f2&gt;Loantime.&lt;/f2&gt; For example, video DVDs might on principle have a loan period of 7 days, but books might be loaned for 21 days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T223128Z" creationid="Marco Marega" creationdate="20180128T223128Z">
+        <seg>Il &lt;f0&gt;Tipo di supporto (Mediastyle)&lt;/f0&gt; è collegato al &lt;f1&gt;periodo di prestito &lt;/f1&gt;&lt;f2&gt;(Loantime).&lt;/f2&gt; Ad esempio, i DVD video potrebbero in linea di principio avere un periodo di prestito di 7 giorni, mentre i libri potrebbero essere prestati per 21 giorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reader_ID&lt;/f0&gt; field o&lt;f1&gt;ccurs in &lt;/f1&gt;the Loan table which underlies the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213442Z" creationid="Marco Marega" creationdate="20171029T213442Z">
@@ -12002,6 +12018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
         <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These systems provide both abbreviations and complete descriptions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222832Z" creationid="Marco Marega" creationdate="20180128T222832Z">
+        <seg>Questi sistemi forniscono sia delle abbreviazioni che le descrizioni complete.</seg>
       </tuv>
     </tu>
     <tu>
