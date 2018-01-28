@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1/&gt;For larger libraries, general systems for libraries are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222809Z" creationid="Marco Marega" creationdate="20180128T222809Z">
+        <seg>&lt;s1/&gt;Per biblioteche più grandi sono disponibili dei sistemi standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;You can just enter the number directly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154957Z" creationid="Marco Marega" creationdate="20171230T154957Z">
@@ -3858,6 +3866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194656Z" creationid="Marco Marega" creationdate="20171125T194656Z">
         <seg>Le lettere maiuscole non vengono convertite in minuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Category, Mediastyle, Town and Publisher have a 1:n relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222556Z" creationid="Marco Marega" creationdate="20180128T222556Z">
+        <seg>Category (Categoria), Mediastyle (Tipo di supporto), Town (Città) e Publisher (Editore) hanno una relazione 1:n.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5442,6 +5458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173327Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
         <seg>Per tali scopi, i dati da cercare vengono raccolti meglio utilizzando una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the &lt;f0&gt;Category,&lt;/f0&gt; a small library can use something like Art or Biology.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222651Z" creationid="Marco Marega" creationdate="20180128T222651Z">
+        <seg>Per la &lt;f0&gt;Categoria (Category),&lt;/f0&gt; una piccola biblioteca puù usare qualcosa tipo Arte o Biologia.</seg>
       </tuv>
     </tu>
     <tu>
