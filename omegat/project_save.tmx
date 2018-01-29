@@ -7232,8 +7232,8 @@
       <tuv lang="EN">
         <seg>In the pull&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;-&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;down field at the right of the Loan Date are the media items which can be borrowed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T064705Z" creationid="osvaldo" creationdate="20180129T064705Z">
-        <seg>Nel campo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;-&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; a discesa down field at the right of the Loan Date are the media items which can be borrowed.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065229Z" creationid="osvaldo" creationdate="20180129T064705Z">
+        <seg>Nel campo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;-&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; a discesa a destra della data di prestito si trovano gli elementi multimediali che possono essere presi in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7690,6 +7690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193912Z" creationid="Marco Marega" creationdate="20171210T193616Z">
         <seg>Ciò renderebbe difficile trovare i singoli elementi utilizzando il &lt;f1&gt;Navigatore&lt;/f1&gt; del &lt;f2&gt;Formulario&lt;/f2&gt; e renderebbe impossibile la gestione del formulario attraverso l'uso dei nomi dei controlli all'interno delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items which are already on loan to the selected borrower are not available for selection.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065318Z" creationid="osvaldo" creationdate="20180129T064732Z">
+        <seg>Gli articoli che sono già in prestito al mutuatario selezionato non sono disponibili per la selezione.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
