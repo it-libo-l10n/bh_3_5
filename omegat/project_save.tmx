@@ -7696,8 +7696,8 @@
       <tuv lang="EN">
         <seg>Items which are already on loan to the selected borrower are not available for selection.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065318Z" creationid="osvaldo" creationdate="20180129T064732Z">
-        <seg>Gli articoli che sono già in prestito al mutuatario selezionato non sono disponibili per la selezione.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065725Z" creationid="osvaldo" creationdate="20180129T064732Z">
+        <seg>Gli articoli che sono già in prestito al prestatario selezionato non sono disponibili per la selezione.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
