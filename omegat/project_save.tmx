@@ -7198,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the actual reader table, only the name, an optional lock, and a foreign key linking to the Gender table are included in the plan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T212952Z" creationid="Marco Marega" creationdate="20180202T212952Z">
+        <seg>Nello schema della tabella effettiva degli utenti, sono presenti solo il nome, un blocco opzionale, e una chiave esterna per il collegamento alla tabella del genere (Gender).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the case of a table control, this causes the cursor during keyboard input to be trapped within this subform; you can only free it by using the mouse or by pressing &lt;f1&gt;Ctrl+Tab&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153032Z" creationid="Marco Marega" creationdate="20171231T153032Z">
