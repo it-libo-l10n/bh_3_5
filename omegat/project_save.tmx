@@ -9574,6 +9574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since &lt;f0&gt;Publishers&lt;/f0&gt; also recur frequently, a separate table is provided for them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205909Z" creationid="Marco Marega" creationdate="20180202T205909Z">
+        <seg>Dato che anche gli Editori &lt;f0&gt;(Publisher)&lt;/f0&gt; si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since the list boxes are to be made drop-down, the following defects can be corrected at the same time:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193259Z" creationid="Marco Marega" creationdate="20171212T193259Z">
