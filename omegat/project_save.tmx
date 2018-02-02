@@ -7590,6 +7590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the link between the Media and Reader tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210148Z" creationid="Marco Marega" creationdate="20180202T210148Z">
+        <seg>Fa da collegamento tra le tabelle Media e Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It just displays the SQL error code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150145Z" creationid="Manuel Frassinetti" creationdate="20171216T150145Z">
@@ -7890,6 +7898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214953Z" creationid="Marco Marega" creationdate="20171029T214953Z">
         <seg>Voci dell'elenco va inteso come quelle visibili, non quelle che il formulario trasmetterà alla tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loan table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210041Z" creationid="Marco Marega" creationdate="20180202T210041Z">
+        <seg>Tabella dei prestiti (Loan)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10078,6 +10094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Media&lt;/f0&gt; table has in total four foreign keys and one primary key, which is used as a foreign key in two tables, as shown in Figure &lt;t1&gt;5&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210019Z" creationid="Marco Marega" creationdate="20180202T210019Z">
+        <seg>La tabella &lt;f0&gt;Media&lt;/f0&gt; in totale ha quattro chiavi esterne e una chiave primaria, che è usata come chiave esterna in due tabelle, così come mostrato nella Figura &lt;t1&gt;5&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Media_ID&lt;/f0&gt; and &lt;f1&gt;Reader_ID&lt;/f1&gt; fields must become list boxes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T212659Z" creationid="Marco Marega" creationdate="20171213T212659Z">
@@ -10538,6 +10562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153113Z" creationid="Marco Marega" creationdate="20180127T153113Z">
         <seg>La tabella centrale per l'&lt;t0&gt;inserimento dei supporti&lt;/t0&gt; è la tabella &lt;f1&gt;Media&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; (vedete la Figura &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;5&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The central table is &lt;f0&gt;Loan&lt;/f0&gt; (see Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210114Z" creationid="Marco Marega" creationdate="20180202T210114Z">
+        <seg>La tabella centrale è quella dei prestiti &lt;f0&gt;(Loan)&lt;/f0&gt; (vedete la Figura &lt;t1&gt;6&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
