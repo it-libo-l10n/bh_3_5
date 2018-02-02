@@ -7718,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It would be better if the primary key of the Media table could be directly entered in barcode form, or if a macro were used to remove the check digit from the entered barcode number before storage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T212355Z" creationid="Marco Marega" creationdate="20180202T212355Z">
+        <seg>Sarebbe preferibile se la chiave primaria della tabella Media potesse essere inserita direttamente come codice a barre, o se, prima di memorizzarlo, venisse utilizzata una macro per rimuovere la cifra di controllo dal numero del codice a barre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It would be better to use a list box to find the reader and carry out the issue and return operations in separate table controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215811Z" creationid="Marco Marega" creationdate="20171217T220420Z">
