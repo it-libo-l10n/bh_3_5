@@ -7382,6 +7382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead a &lt;f3&gt;Return_Date&lt;/f3&gt; is recorded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210726Z" creationid="Marco Marega" creationdate="20180202T210726Z">
+        <seg>Piuttosto viene registrata una data di restituzione &lt;f3&gt;(Return_Date)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead of a field name, the field designation is given as &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Count&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(Recalls.Date)*2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T152554Z" creationid="Manuel Frassinetti" creationdate="20171216T152554Z">
@@ -9570,6 +9578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214910Z" creationid="Marco Marega" creationdate="20171126T214828Z">
         <seg>È simile a un pulsante normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, Reminders are integrated into the loan procedure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211055Z" creationid="Marco Marega" creationdate="20180202T211055Z">
+        <seg>Analogamente, i solleciti (Reminder) sono integrati nella procedura relativa al prestito.</seg>
       </tuv>
     </tu>
     <tu>
