@@ -1,2 +1,4 @@
 Drawing toolbar	barra degli strumenti Disegno	Voce UI
 attach	collegare
+reminders	solleciti
+reminder	sollecito
