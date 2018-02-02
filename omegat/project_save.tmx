@@ -7014,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case you need to find out retrospectively who has taken out a book (for example, if someone notices during the loan process that the book is damaged, or if you wish to make a list of the most popular media), the &lt;f2&gt;Loan_Date&lt;/f2&gt; in the loan record is not simply deleted during the return process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210648Z" creationid="Marco Marega" creationdate="20180202T210648Z">
+        <seg>Nel caso abbiate la necessità di ritrovare retroattivamente chi aveva preso in prestito un libro (ad esempio, perché qualcuno durante il prestito segnala che il libro è danneggiato, oppure perché desiderate redigere una lista dei supporti più popolari), nel record del prestito, la data iniziale &lt;f2&gt;(Loan_Date)&lt;/f2&gt; non viene cancellata durante la procedura di reso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In daily use, Base initially &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;opens &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;with the following view.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180104T172519Z" creationid="osvaldo" creationdate="20180103T215930Z">
