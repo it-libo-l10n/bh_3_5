@@ -5246,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally we need to connect the &lt;f0&gt;Reader&lt;/f0&gt; to the loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T212454Z" creationid="Marco Marega" creationdate="20180202T212454Z">
+        <seg>Infine è necessario collegare l'utente &lt;f0&gt;(Reader)&lt;/f0&gt; al prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First let us improve the selection of readers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215946Z" creationid="Marco Marega" creationdate="20171217T215946Z">
