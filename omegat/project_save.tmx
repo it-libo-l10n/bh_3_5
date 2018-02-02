@@ -3486,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As well as an extension period in weeks, there is an extra field in the loan record that enables media to be loaned using a barcode scanner (&lt;f0&gt;Media_ID_BC&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211646Z" creationid="Marco Marega" creationdate="20180202T211646Z">
+        <seg>Così come c'è un campo per i periodi di proroga espressi in settimane, nel record relativo ad un prestito, c'è n'è uno aggiuntivo che abilita l'erogazione del prestito di un supporto mediante l'uso di uno scanner di codici a barre (&lt;f0&gt;Media_ID_BC&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As well as the properties described on page &lt;bf0&gt;70&lt;/bf0&gt;, the following are to be noted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205252Z" creationid="Marco Marega" creationdate="20171026T205252Z">
@@ -4738,6 +4746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
         <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each reminder is separately entered into the &lt;f0&gt;Recall&lt;/f0&gt; table so that the total number of reminders can be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211252Z" creationid="Marco Marega" creationdate="20180202T211252Z">
+        <seg>Ciascun sollecito viene inserito distintamente nella tabella dei richiami &lt;f0&gt;(Recall)&lt;/f0&gt; in modo che sia possibile determinare il numero complessivo di solleciti.</seg>
       </tuv>
     </tu>
     <tu>
