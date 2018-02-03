@@ -7094,6 +7094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, a default value can be specified to be used when nothing was entered into the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151734Z" creationid="Marco Marega" creationdate="20180203T151734Z">
+        <seg>In aggiunta, può essere specificato un valore predefinito da utilizzare quando non viene inserito nulla nel campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, a supplementary label such as Producer, Photographer and so on is added to the author where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222447Z" creationid="Marco Marega" creationdate="20180128T222447Z">
@@ -7282,6 +7290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213126Z" creationid="Marco Marega" creationdate="20171213T213126Z">
         <seg>Nel &lt;f0&gt;Navigatore&lt;/f0&gt;, la descrizione dei comandi di campo termina con il campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Base GUI, the terms for a column are described somewhat differently, as shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151900Z" creationid="Marco Marega" creationdate="20180203T151900Z">
+        <seg>Nella GUI di Base, i termini che descrivono una colonna sono leggermente diversi di come visualizzati qui sotto.</seg>
       </tuv>
     </tu>
     <tu>
