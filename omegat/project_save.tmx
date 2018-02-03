@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Field&lt;/f0&gt; becomes &lt;f1&gt;Field Name&lt;/f1&gt;, &lt;f2&gt;Type&lt;/f2&gt; becomes &lt;f3&gt;Field Type&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151952Z" creationid="Marco Marega" creationdate="20180203T151952Z">
+        <seg>&lt;f0&gt;Campo&lt;/f0&gt; diventa &lt;f1&gt;Nome campo&lt;/f1&gt;, &lt;f2&gt;Tipo&lt;/f2&gt; diventa &lt;f3&gt;Tipo campo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;s&lt;/f2&gt;hows the basic divisions of the &lt;f3&gt;Query Design &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;: the graphical area displays the tables &lt;f5&gt;that&lt;/f5&gt; are to be linked to the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164316Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
@@ -5034,6 +5042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
         <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Field Name and Field Type are entered into the upper area of the Table Design window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T152105Z" creationid="Marco Marega" creationdate="20180203T152105Z">
+        <seg>Nome campo e Tipo campo sono inseriti nell'area superiore della finestra Table Design.</seg>
       </tuv>
     </tu>
     <tu>
