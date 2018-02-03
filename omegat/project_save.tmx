@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How this table structure is put to use is explained further in the Chapter 4,&lt;f0&gt; Forms, in this handbook&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150659Z" creationid="Marco Marega" creationdate="20180203T150659Z">
+        <seg>Come questa struttura di tabelle viene fatta funzionare è maggiormente spiegato nel Capitolo 4,&lt;f0&gt; Formulari, di questo manuale&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to do this in principle is described in Chapter 8,&lt;f0&gt; Getting Started with Base,&lt;/f0&gt; in the &lt;f1&gt;Getting Starte&lt;/f1&gt;&lt;f2&gt;d with LibreOffice&lt;/f2&gt; book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223836Z" creationid="Marco Marega" creationdate="20180112T223836Z">
