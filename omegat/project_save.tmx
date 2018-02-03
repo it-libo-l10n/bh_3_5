@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Readers - a School class chain and an Address chain</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135642Z" creationid="Marco Marega" creationdate="20180203T135642Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Utenti (Readers) - concatenamento di una Classe scolastica e degli indirizzi (Address)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
@@ -9542,6 +9550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135426Z" creationid="Marco Marega" creationdate="20180203T135426Z">
+        <seg>Vedete la Figura &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See also &lt;f1&gt;C&lt;/f1&gt;hapter &lt;f2&gt;3, &lt;/f2&gt;Tables, &lt;f3&gt;in this book&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210312Z" creationid="Marco Marega" creationdate="20171014T210312Z">
@@ -10190,6 +10206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Gender &lt;/f0&gt;&lt;f1&gt;table ensures that the correct &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Salutation&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; is used in reminders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135827Z" creationid="Marco Marega" creationdate="20180203T135827Z">
+        <seg>La tabella del genere &lt;f0&gt;(Gender) &lt;/f0&gt;&lt;f1&gt;assicura che nei solleciti venga utilizzata la formula di saluto corretta&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;(Salutation)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;ID&lt;/f0&gt; control should be declared as read-only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193430Z" creationid="Marco Marega" creationdate="20171212T193430Z">
@@ -10696,8 +10720,8 @@
       <tuv lang="EN">
         <seg>The chain of tables shown in Figure &lt;t0&gt;6&lt;/t0&gt; is designed for school libraries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135006Z" creationid="Marco Marega" creationdate="20180203T135006Z">
-        <seg>La catena di tabelle mostrata nella Figura &lt;t0&gt;6&lt;/t0&gt; è concepita per biblioteche scolastiche.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135702Z" creationid="Marco Marega" creationdate="20180203T135006Z">
+        <seg>Il concatenamento di tabelle mostrato nella Figura &lt;t0&gt;6&lt;/t0&gt; è concepita per biblioteche scolastiche.</seg>
       </tuv>
     </tu>
     <tu>
