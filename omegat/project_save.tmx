@@ -4720,8 +4720,8 @@
       <tuv lang="EN">
         <seg>Direct entry of SQL commands becomes necessary when, for example, a field must subsequently be inserted at a particular position, or a standard value must be set after the table has been saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150913Z" creationid="Marco Marega" creationdate="20180203T150913Z">
-        <seg>Direct entry of SQL commands becomes necessary when, for example, a field must subsequently be inserted at a particular position, or a standard value must be set after the table has been saved.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151131Z" creationid="Marco Marega" creationdate="20180203T150913Z">
+        <seg>L'inserimento diretto di comandi SQL diventa necessario, ad esempio, quando in un secondo tempo un campo deve essere inserito in una particolare posizione, oppure deve essere impostato un valore predefinito dopo che la tabella è stata salvata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10114,6 +10114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221340Z" creationid="Marco Marega" creationdate="20171217T221340Z">
         <seg>Nome tabella: Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table terminology: The picture below shows the standard division of tables into columns and rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151250Z" creationid="Marco Marega" creationdate="20180203T151250Z">
+        <seg>Terminologia delle tabelle: l'immagine sottostante raffigura la tipica suddivisione delle tabelle in colonne e righe.</seg>
       </tuv>
     </tu>
     <tu>
