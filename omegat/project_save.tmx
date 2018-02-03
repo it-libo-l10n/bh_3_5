@@ -10310,6 +10310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt; table, like the &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt; table, has a 1:1 relationship with the &lt;f4&gt;Reader&lt;/f4&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140217Z" creationid="Marco Marega" creationdate="20180203T140217Z">
+        <seg>La tabella &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt;, come la tabella &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt;, ha una relazione 1:1 con la tabella &lt;f4&gt;Reader&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;Length&lt;/f1&gt; field must first be defined as a time field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154314Z" creationid="Marco Marega" creationdate="20180127T154314Z">
@@ -13042,6 +13050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154310Z" creationid="Marco Marega" creationdate="20171231T154310Z">
         <seg>Anche questo è possibile solo usando una ricerca adeguata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This was chosen because either the school class or the address might be required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140334Z" creationid="Marco Marega" creationdate="20180203T140334Z">
+        <seg>Questa scelta è stata fatta in quanto può essere richiesta sia la classe della scuola, sia l'indirizzo.</seg>
       </tuv>
     </tu>
     <tu>
