@@ -5598,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this table design, two scenarios are envisaged.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T134930Z" creationid="Marco Marega" creationdate="20180203T134930Z">
+        <seg>Per la progettazione di questa tabella si possono prevedere due scenari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this, the suggested filter is adequate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220809Z" creationid="Marco Marega" creationdate="20171226T220809Z">
@@ -13298,6 +13306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203116Z" creationid="Marco Marega" creationdate="20171016T203116Z">
         <seg>Utile per i campo di controllo che utilizzano macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User administration table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T134811Z" creationid="Marco Marega" creationdate="20180203T134811Z">
+        <seg>Tabella di gestione degli utenti</seg>
       </tuv>
     </tu>
     <tu>
