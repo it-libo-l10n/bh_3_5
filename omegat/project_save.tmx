@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;reating tables&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150719Z" creationid="Marco Marega" creationdate="20180203T150719Z">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;reazione delle tabelle&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick on the field in the first column in the table area &lt;f1&gt;to &lt;/f1&gt;&lt;f2&gt;reveal a down arrow.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111907Z" creationid="Manuel Frassinetti" creationdate="20171129T111907Z">
@@ -4706,6 +4714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162151Z" creationid="Marina Latini" creationdate="20171205T162151Z">
         <seg>Inserimento diretto di comandi SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Direct entry of SQL commands becomes necessary when, for example, a field must subsequently be inserted at a particular position, or a standard value must be set after the table has been saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150913Z" creationid="Marco Marega" creationdate="20180203T150913Z">
+        <seg>Direct entry of SQL commands becomes necessary when, for example, a field must subsequently be inserted at a particular position, or a standard value must be set after the table has been saved.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173034Z" creationid="Marina Latini" creationdate="20171205T173034Z">
         <seg>Accesso più rapido alle ricerche usando le viste delle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most LibreOffice users will generally use the graphical user interface (GUI) exclusively to create tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150847Z" creationid="Marco Marega" creationdate="20180203T150847Z">
+        <seg>La maggior parte degli utenti di LibreOffice, per creare le tabelle, solitamente userà esclusivamente l'interfaccia grafica (GUI).</seg>
       </tuv>
     </tu>
     <tu>
