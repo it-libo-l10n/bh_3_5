@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>According to the type, the size of the field in characters can also be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151638Z" creationid="Marco Marega" creationdate="20180203T151638Z">
+        <seg>A seconda del tipo, può essere fissata anche la dimensione del campo in caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070301Z" creationid="ldaghino" creationdate="20171003T070301Z">
@@ -4490,6 +4498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105758Z" creationid="Marina Latini" creationdate="20171205T175942Z">
         <seg>Prorietà dei dati dei comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data records are stored in a single row of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151317Z" creationid="Marco Marega" creationdate="20180203T151317Z">
+        <seg>I record di dati sono memorizzati in una singola riga di una tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,6 +7522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224535Z" creationid="Marco Marega" creationdate="20171205T224535Z">
         <seg>Indipendentemente da questo campo di controllo, la &lt;f0&gt;barra di navigazione attivabile&lt;/f0&gt; naturalmente continua a sussistere con gli stessi elementi della figura soprastante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual columns are largely defined by the field, the type, and the rules that determine if the field can be empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151457Z" creationid="Marco Marega" creationdate="20180203T151457Z">
+        <seg>Le singole colonne sono definite principalmente dal campo, dal tipo e dalle regole che determinano se il campo può essere vuoto.</seg>
       </tuv>
     </tu>
     <tu>
