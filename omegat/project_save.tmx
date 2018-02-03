@@ -6942,6 +6942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a 4-stream school, this suffix might run from &lt;f1&gt;a&lt;/f1&gt; to &lt;f2&gt;d&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145731Z" creationid="Marco Marega" creationdate="20180203T145731Z">
+        <seg>In una scuola con corsi di 4 anni, questo suffisso può andare da &lt;f1&gt;a&lt;/f1&gt; a &lt;f2&gt;d&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a database for a public library, the addresses of readers are required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151408Z" creationid="Marco Marega" creationdate="20180127T151408Z">
@@ -11930,6 +11938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160359Z" creationid="Marco Marega" creationdate="20171230T160359Z">
         <seg>Il sottotitolo mostra nuovamente il nome della persona a cui va effettuato il prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The suffix is entered in the &lt;f3&gt;Class&lt;/f3&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145750Z" creationid="Marco Marega" creationdate="20180203T145750Z">
+        <seg>Il suffisso viene inserito nella tabella &lt;f3&gt;Class&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
