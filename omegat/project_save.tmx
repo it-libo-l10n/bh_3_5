@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;The writing of reminders can then be automated as far as possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135919Z" creationid="Marco Marega" creationdate="20180203T135919Z">
+        <seg>&lt;/f4&gt;La scrittura dei solleciti può quindi essere automatizzata il più possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;In t&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;he graphic &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;in the next section&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;, Return_Date &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;is an example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180235Z" creationid="Manuel Frassinetti" creationdate="20171206T180235Z">
@@ -7038,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, some given names can be equally masculine or feminine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140015Z" creationid="Marco Marega" creationdate="20180203T140015Z">
+        <seg>In aggiunta, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, the display order could be sorted by &lt;f0&gt;R&lt;/f0&gt;eader, so that media on loan to the same person are displayed successively.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215535Z" creationid="Marco Marega" creationdate="20171213T204440Z">
@@ -12202,6 +12218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205547Z" creationid="Marco Marega" creationdate="20171229T205547Z">
         <seg>Perciò sono necessari degli aggiustamenti alle proprietà delle colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore the separate listing of gender is required even when reminders are written out by hand.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140135Z" creationid="Marco Marega" creationdate="20180203T140135Z">
+        <seg>Perciò è necessaria tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
       </tuv>
     </tu>
     <tu>
