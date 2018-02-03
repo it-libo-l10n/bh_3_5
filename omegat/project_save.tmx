@@ -6142,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you need to enter data that will be needed for the creation of reminder letters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135420Z" creationid="Marco Marega" creationdate="20180203T135420Z">
+        <seg>Qui dovete inserire i dati necessari alla creazione delle lettere di sollecito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here, dependent on the choice in the Tri-state field, up to three possibilities are available: &lt;f0&gt;Not selected&lt;/f0&gt; | &lt;f1&gt;Selected&lt;/f1&gt; | &lt;f2&gt;Not defined&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204901Z" creationid="Marco Marega" creationdate="20171109T203444Z">
@@ -10322,6 +10330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205821Z" creationid="Marco Marega" creationdate="20171101T205821Z">
         <seg>Il campo &lt;f4&gt;contenuto elenco&lt;/f4&gt; li visualizzerà come &lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Valore1&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;Valore2&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;;&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;Valore3&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; … &lt;/f22&gt;La proprietà &lt;f23&gt;Campo collegato&lt;/f23&gt; è &lt;f24&gt;disattivata&lt;/f24&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Address chain is necessary in the case of public libraries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135344Z" creationid="Marco Marega" creationdate="20180203T135344Z">
+        <seg>Il concatenamento con gli indirizzi (Address) è necessario nel caso di una biblioteca pubblica.</seg>
       </tuv>
     </tu>
     <tu>
