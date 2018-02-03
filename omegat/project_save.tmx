@@ -6070,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here there is no need for addresses, as the pupils can be contacted through the school.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135113Z" creationid="Marco Marega" creationdate="20180203T135113Z">
+        <seg>In queste non c'è necessità di avere gli indirizzi, in quanto gli allievi possono essere contattati tramite la scuola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
@@ -9326,6 +9334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reminders do not need to be sent out by post but can be distributed internally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135226Z" creationid="Marco Marega" creationdate="20180203T135226Z">
+        <seg>Non c'è bisogno di inviare i solleciti per posta, dato che possono essere distribuiti internamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removing distracting elements from forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094631Z" creationid="Marina Latini" creationdate="20171207T094631Z">
@@ -10658,6 +10674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210114Z" creationid="Marco Marega" creationdate="20180202T210114Z">
         <seg>La tabella centrale è quella dei prestiti &lt;f0&gt;(Loan)&lt;/f0&gt; (vedete la Figura &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chain of tables shown in Figure &lt;t0&gt;6&lt;/t0&gt; is designed for school libraries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135006Z" creationid="Marco Marega" creationdate="20180203T135006Z">
+        <seg>La catena di tabelle mostrata nella Figura &lt;t0&gt;6&lt;/t0&gt; è concepita per biblioteche scolastiche.</seg>
       </tuv>
     </tu>
     <tu>
