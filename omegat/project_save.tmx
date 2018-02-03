@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;School class&lt;/f0&gt; usually consists of a year designation and a stream suffix.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145645Z" creationid="Marco Marega" creationdate="20180203T145645Z">
+        <seg>Una Classe scolastica &lt;f0&gt;(School class)&lt;/f0&gt; di solito viene memorizzata con l'anno di avvio e un suffisso progressivo per l'anno in corso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113359Z" creationid="Marina Latini" creationdate="20171213T113359Z">
@@ -8986,6 +8994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214932Z" creationid="Marco Marega" creationdate="20171226T214932Z">
         <seg>Altrimenti trovare il giusto campo di controllo in breve tempo potrebbe diventare problematico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise the &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;could be put directly into the pupil table; the same would be true of the complete content of the address table in a public library system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140527Z" creationid="Marco Marega" creationdate="20180203T140527Z">
+        <seg>Altrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
       </tuv>
     </tu>
     <tu>
