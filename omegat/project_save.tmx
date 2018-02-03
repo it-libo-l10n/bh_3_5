@@ -2760,8 +2760,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;School class&lt;/f0&gt; usually consists of a year designation and a stream suffix.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145645Z" creationid="Marco Marega" creationdate="20180203T145645Z">
-        <seg>Una Classe scolastica &lt;f0&gt;(School class)&lt;/f0&gt; di solito viene memorizzata con l'anno di avvio e un suffisso progressivo per l'anno in corso.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145848Z" creationid="Marco Marega" creationdate="20180203T145645Z">
+        <seg>Una Classe scolastica &lt;f0&gt;(School class)&lt;/f0&gt; di solito viene memorizzata con l'anno di avvio e un suffisso progressivo per il corso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6944,8 +6944,8 @@
       <tuv lang="EN">
         <seg>In a 4-stream school, this suffix might run from &lt;f1&gt;a&lt;/f1&gt; to &lt;f2&gt;d&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145731Z" creationid="Marco Marega" creationdate="20180203T145731Z">
-        <seg>In una scuola con corsi di 4 anni, questo suffisso può andare da &lt;f1&gt;a&lt;/f1&gt; a &lt;f2&gt;d&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145855Z" creationid="Marco Marega" creationdate="20180203T145731Z">
+        <seg>In una scuola con 4 corsi, questo suffisso può andare da &lt;f1&gt;a&lt;/f1&gt; a &lt;f2&gt;d&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10166,6 +10166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That way, if readers move up a class at the end of each school year, you can simply change the year entry for everyone.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150048Z" creationid="Marco Marega" creationdate="20180203T150048Z">
+        <seg>In questo modo, se un utente avanza di una classe alla fine di ogni anno scolastico, potete semplicemente modificare l'anno inserito per ognuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That will not be assumed in what follows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214423Z" creationid="Marco Marega" creationdate="20171210T214423Z">
@@ -12130,6 +12138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161852Z" creationid="Manuel Frassinetti" creationdate="20171218T161708Z">
         <seg>La finestra fornisce informazioni sul modo in cui questo tipo di relazione funziona in pratica.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The year is in a separate &lt;f4&gt;Grade&lt;/f4&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145837Z" creationid="Marco Marega" creationdate="20180203T145837Z">
+        <seg>L'anno in una tabella separata &lt;f4&gt;Grade&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
