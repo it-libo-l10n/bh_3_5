@@ -2582,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Street&lt;/f1&gt; is stored separately because street names within an area are often repeated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150228Z" creationid="Marco Marega" creationdate="20180203T150228Z">
+        <seg>La via &lt;f1&gt;(Street)&lt;/f1&gt; è memorizzata separatamente in quanto i nomi delle strade in una determinata area spesso di ripetono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;T&lt;/f1&gt;he symbols at the right end of the Form Design toolbar &lt;f2&gt;show t&lt;/f2&gt;hat the grid is visible and active.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133513Z" creationid="Marco Marega" creationdate="20171014T133513Z">
@@ -9110,6 +9118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Post code and town are separated because there are often several post codes for a single area and therefore more post codes than towns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150344Z" creationid="Marco Marega" creationdate="20180203T150344Z">
+        <seg>I codici di avviamento postale e le città sono separate perché spesso ci sono più codici per una sola zona e quindi più codici postali che città.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070621Z" creationid="ldaghino" creationdate="20171003T070621Z">
@@ -9798,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So compared with the &lt;f2&gt;Address &lt;/f2&gt;&lt;f3&gt;t&lt;/f3&gt;able, the &lt;f4&gt;Postcode&lt;/f4&gt; table contains significantly fewer records and the &lt;f5&gt;Town&lt;/f5&gt; table even fewer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150504Z" creationid="Marco Marega" creationdate="20180203T150504Z">
+        <seg>Quindi se confrontata con la tabella &lt;f2&gt;Address &lt;/f2&gt;, la &lt;f3&gt;tabella&lt;/f3&gt; &lt;f4&gt;Postcode&lt;/f4&gt; contiene molti meno record e la tabella &lt;f5&gt;Town&lt;/f5&gt; ancora di meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So far the Media_ID and Reader_ID fields are only visible as numeric fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145054Z" creationid="Manuel Frassinetti" creationdate="20171202T145054Z">
@@ -10234,6 +10258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220101Z" creationid="Marco Marega" creationdate="20171229T220101Z">
         <seg>Il tasto &lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ab&lt;/f2&gt; vi porta quindi al prossimo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Address&lt;/f0&gt; is also divided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150120Z" creationid="Marco Marega" creationdate="20180203T150120Z">
+        <seg>Anche l'indirizzo &lt;f0&gt;(Address)&lt;/f0&gt; è separato.</seg>
       </tuv>
     </tu>
     <tu>
