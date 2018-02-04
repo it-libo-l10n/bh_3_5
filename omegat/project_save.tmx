@@ -13264,8 +13264,8 @@
       <tuv lang="EN">
         <seg>This signifies that a necessary field is missing from the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215055Z" creationid="Marco Marega" creationdate="20180204T215055Z">
-        <seg>Questo significa che un campo necessario This signifies that a necessary field is missing from the table.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215119Z" creationid="Marco Marega" creationdate="20180204T215055Z">
+        <seg>Questo significa che un campo necessario non è presente nella tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13798,6 +13798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually this field is given the abbreviation &lt;f1&gt;ID&lt;/f1&gt; and the data type INTEGER and allowed to run as an AutoValue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215421Z" creationid="Marco Marega" creationdate="20180204T215421Z">
+        <seg>Di solito a questo campo viene assegnata l'abbreviazione &lt;f1&gt;ID&lt;/f1&gt;, il tipo di dati INTEGER e viene attivato l'incremento di Valore automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usually this function is not used for databases, since each field should only contain one value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215854Z" creationid="Marco Marega" creationdate="20171029T215854Z">
@@ -13976,8 +13984,8 @@
       <tuv lang="EN">
         <seg>When a table design is saved, you may be asked if a primary key should be created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215021Z" creationid="Marco Marega" creationdate="20180204T215021Z">
-        <seg>Quando la struttura di una tabella viene salvata, potrebbe esservi chiesto se è necessario creare una chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215100Z" creationid="Marco Marega" creationdate="20180204T215021Z">
+        <seg>Quando la struttura di una tabella viene salvata, potrebbe esservi chiesto se è da creare una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14242,6 +14250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203914Z" creationid="Marco Marega" creationdate="20171016T203914Z">
         <seg>All'interno di un formulario, per la navigazione normalmente viene usato il tasto &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without a primary key, the database cannot &lt;s0/&gt;access the tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215157Z" creationid="Marco Marega" creationdate="20180204T215157Z">
+        <seg>Senza una chiave primaria, il database non può &lt;s0/&gt;accedere alle tabelle.</seg>
       </tuv>
     </tu>
     <tu>
