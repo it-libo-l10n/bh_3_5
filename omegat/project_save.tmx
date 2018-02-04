@@ -8062,6 +8062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limitations include setting the default value of a date field to the actual date of entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T213833Z" creationid="Marco Marega" creationdate="20180204T213833Z">
+        <seg>Le limitazioni comprendono l'impostazione del valore predefinito di un campo data alla data corrente al momento dell'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limiting the minimum and maximum values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214646Z" creationid="Marco Marega" creationdate="20171216T214646Z">
