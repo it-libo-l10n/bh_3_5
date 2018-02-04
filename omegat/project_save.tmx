@@ -12446,6 +12446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore only the main sources of error are described here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214859Z" creationid="Marco Marega" creationdate="20180204T214859Z">
+        <seg>Perciò qui vengono descritte solamente le principali fonti di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore the data needs to be filtered to show only the loans.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225244Z" creationid="Marco Marega" creationdate="20171214T225244Z">
@@ -13254,6 +13262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This signifies that a necessary field is missing from the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215055Z" creationid="Marco Marega" creationdate="20180204T215055Z">
+        <seg>Questo significa che un campo necessario This signifies that a necessary field is missing from the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This sort specification illustrates how the alias for the Loan_Date field can be used within the query itself.&lt;/f17&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144024Z" creationid="Manuel Frassinetti" creationdate="20171202T144024Z">
@@ -13954,6 +13970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215922Z" creationid="Marco Marega" creationdate="20171229T215922Z">
         <seg>Quando un utente arriva allo sportello dei prestiti, viene cercato il suo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a table design is saved, you may be asked if a primary key should be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215021Z" creationid="Marco Marega" creationdate="20180204T215021Z">
+        <seg>Quando la struttura di una tabella viene salvata, potrebbe esservi chiesto se è necessario creare una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
