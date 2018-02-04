@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The default value in a database is stored in the table definition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214315Z" creationid="Marco Marega" creationdate="20180204T214315Z">
+        <seg>&lt;f0&gt;Il valore predefinito in un database è memorizzato nella definizione della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
@@ -7830,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is then written into the field whenever this is empty in a new data record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214353Z" creationid="Marco Marega" creationdate="20180204T214353Z">
+        <seg>Viene poi scritto nel campo ogni volta che questo è vuoto in un nuovo record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It just displays the SQL error code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150145Z" creationid="Manuel Frassinetti" creationdate="20171216T150145Z">
@@ -9650,6 +9666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231607Z" creationid="Marco Marega" creationdate="20171102T231607Z">
         <seg>SELECT DISTINCT "FirstName" FROM "Reader"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQL default values do &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; appear &lt;/f3&gt;&lt;f4&gt;when editing table properties.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
+        <seg>I valori predefiniti in SQL &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;non&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; compaiono &lt;/f3&gt;&lt;f4&gt;quando di modificano le proprietà della tabella.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
