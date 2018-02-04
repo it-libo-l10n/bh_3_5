@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basic rules for naming fields in the table: no two fields may have the same name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220300Z" creationid="Marco Marega" creationdate="20180204T220300Z">
+        <seg>Regole base per i nomi dei campi in una tabella: due campi non possono avere lo stesso nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because titles can have multiple subtitles or sometimes none at all, the subtitles are stored in a separate table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214801Z" creationid="Marco Marega" creationdate="20180126T214801Z">
@@ -7282,6 +7290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164339Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
         <seg>In altri casi può accadere che vengano visualizzati esattamente quei record di dati che si desidera escludere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other words, the &lt;f6&gt;Address&lt;/f6&gt; table will always contain only the number that serves as the primary key in the &lt;f7&gt;Postcode&lt;/f7&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220127Z" creationid="Marco Marega" creationdate="20180204T220127Z">
+        <seg>In altre parole, la tabella&lt;f6&gt;Address&lt;/f6&gt; dovrà sempre contenere solo il numero che serve come chiave primaria nella tabella &lt;f7&gt;Postcode&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13138,6 +13154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221113Z" creationid="Marco Marega" creationdate="20180126T221113Z">
         <seg>Questo rende la coppia univoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that the &lt;f8&gt;Address&lt;/f8&gt; table now has a foreign key in addition to its own primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220204Z" creationid="Marco Marega" creationdate="20180204T220204Z">
+        <seg>Questo significa che la tabella &lt;f8&gt;Address&lt;/f8&gt; ora ha una chiave esterna in aggiunta alla sua chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
