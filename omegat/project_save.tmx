@@ -6646,6 +6646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If information from another table is to be pulled through into this one (for example, an address database with separate post codes and locations), you must include in the table a field of the same data type as the primary key of the other table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215821Z" creationid="Marco Marega" creationdate="20180204T215821Z">
+        <seg>Se delle informazioni di un'alta tabella vanno richiamate attraverso questa tabella (ad esempio, un database di indirizzi con codici postali e località separate), dovete inserire nella tabella un campo con lo stesso tipo di dati della chiave primaria dell'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If instead you want to sort first by &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Loan date"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and then by "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan"."Reader_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, that can be done if:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T160336Z" creationid="Manuel Frassinetti" creationdate="20171206T160336Z">
@@ -14378,6 +14386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163824Z" creationid="Marco Marega" creationdate="20171230T163824Z">
         <seg>Potrete imparare di più sui principi che ne stanno alla base nel &lt;f0&gt;Capitolo 5,&lt;/f0&gt; Ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can make it the primary key with a right-click on the corresponding field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215512Z" creationid="Marco Marega" creationdate="20180204T215512Z">
+        <seg>Potete farlo diventare la chiave primaria con il clic con il pulsante destro del mouse sul campo corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
