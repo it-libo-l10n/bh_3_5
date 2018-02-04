@@ -4598,6 +4598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database creation using the graphical user interface is described in detail in Chapter 8,&lt;f0&gt; Getting Started with Base,&lt;/f0&gt; in the &lt;f1&gt;Getting Starte&lt;/f1&gt;&lt;f2&gt;d with LibreOffice&lt;/f2&gt; book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214825Z" creationid="Marco Marega" creationdate="20180204T214825Z">
+        <seg>La creazione di database utilizzando l'interfaccia grafica viene descritta in dettaglio nel Capitolo 8,&lt;f0&gt; Introduzione a Base,&lt;/f0&gt; nella &lt;f1&gt;Guida Introduttiva&lt;/f1&gt;&lt;f2&gt; a LibreOffice&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database repair for *.odb files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102712Z" creationid="Marina Latini" creationdate="20171207T102712Z">
