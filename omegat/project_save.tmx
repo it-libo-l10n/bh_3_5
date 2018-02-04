@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Default values: The term "Default value" in the GUI does not mean what the database user &lt;/f0&gt;&lt;f1&gt;generally understands as a default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214057Z" creationid="Marco Marega" creationdate="20180204T214057Z">
+        <seg>&lt;f0&gt;Valori predefiniti: Il termine "Valore predefinito" della GUI non significa quello che gli utenti del database &lt;/f0&gt;&lt;f1&gt;di solito intendono per valore predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;E&lt;/f0&gt;nd by saving the entire form, and finally the database itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214704Z" creationid="Marco Marega" creationdate="20171213T214704Z">
@@ -10622,6 +10630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The GUI displays a certain value visibly, which is saved with the data.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214231Z" creationid="Marco Marega" creationdate="20180204T214231Z">
+        <seg>La GUI visualizza determinati valori, che sono salvati con i dati.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GUI in L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt; takes up this command, but unfortunately prefaces the statement with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NOT NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, so that the command sequence for HSQLDB is not readable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191026Z" creationid="Marco Marega" creationdate="20171017T191017Z">
@@ -12954,6 +12970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201014Z" creationid="Marco Marega" creationdate="20171015T201014Z">
         <seg>Questa opzione è significativa solo per formulari per il Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is possible only by using the appropriate SQL command (see “&lt;bf4&gt;Direct entry of SQL commands&lt;/bf4&gt;” on page &lt;bf5&gt;43&lt;/bf5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T213928Z" creationid="Marco Marega" creationdate="20180204T213928Z">
+        <seg>Ciò è possibile solo usando il comando SQL appropriato (vedete “&lt;bf4&gt;Inserimento diretto di comandi SQL&lt;/bf4&gt;” a pagina &lt;bf5&gt;43&lt;/bf5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
