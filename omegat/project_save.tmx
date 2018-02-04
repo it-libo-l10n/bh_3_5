@@ -6750,6 +6750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Postcode&lt;/f0&gt; table has as its primary key the field &lt;f1&gt;ID&lt;/f1&gt;, of data type &lt;f2&gt;Tiny Integer&lt;/f2&gt;, the &lt;f3&gt;Address&lt;/f3&gt; table must have a field &lt;f4&gt;Postcode_ID&lt;/f4&gt; with the data type &lt;f5&gt;Tiny Integer&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220019Z" creationid="Marco Marega" creationdate="20180204T220019Z">
+        <seg>Se la tabella &lt;f0&gt;Postcode&lt;/f0&gt; ha come chiave primaria il campo &lt;f1&gt;ID&lt;/f1&gt;, con tipo di dati &lt;f2&gt;Intero molto piccolo&lt;/f2&gt;, la tabella &lt;f3&gt;Address&lt;/f3&gt; deve avere un campo &lt;f4&gt;Postcode_ID&lt;/f4&gt; con tipo di dati &lt;f5&gt;Intero molto piccolo&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the content extends over more lines, a scrollbar appears when the list drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
