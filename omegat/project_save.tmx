@@ -7406,6 +7406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the lower area you have the opportunity to set, under the Field properties the other column properties, in so far as they can be set using the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T213724Z" creationid="Marco Marega" creationdate="20180204T213724Z">
+        <seg>Nell'area in basso, al di sotto delle proprietà di campo, avete la possibilità di impostare le altre proprietà della colonna, almeno nella misura in cui queste possono essere impostate usando la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the lower table control, as in the above example, alteration of media and loan dates is &lt;f0&gt;not &lt;/f0&gt;possible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161303Z" creationid="Marco Marega" creationdate="20171230T161303Z">
