@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;On the main Base interface, using &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Tools &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;you can directly enter a simple command (which on server databases is only available to the system administrator):&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T153340Z" creationid="steevie" creationdate="20180205T153340Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nell'interfaccia principale di Base, usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;per poter lanciare direttamente un semplice comando (che sui server database sono disponibili solo per gli amministratori di sistema):&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Only f&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;or people who use a comma for &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;their&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; decimal separator:&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T154028Z" creationid="Manuel Frassinetti" creationdate="20171216T154028Z">
