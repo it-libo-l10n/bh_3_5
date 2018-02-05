@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The following SQL command, again entered using &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Tools &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, lets you reset the initial value:&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155157Z" creationid="steevie" creationdate="20180205T155038Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;il comando SQL seguente, di nuovo lanciato da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, permette di ripristinare il valore iniziale:&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The range of persons shown can be filtered on last name to limit the detail shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222126Z" creationid="osvaldo" creationdate="20180103T222126Z">
@@ -1418,6 +1426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085504Z" creationid="Marina Latini" creationdate="20171003T085504Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Questo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;libro&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; è basato su documento originale in tedesco, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;che &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; è stato tradotto da &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Hazel Russman &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;e Martin Fox.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;This assumes that the primary key field has the name "ID"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;and has been defined as an autovalue field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155344Z" creationid="steevie" creationdate="20180205T155344Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Questo comando presuppone che il campo della chiave primaria abbia nome "ID"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;e sia stato definito come valore automatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215321Z" creationid="Marco Marega" creationdate="20171101T212240Z">
         <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name" ALTER COLUMN "ID" RESTART WITH 'New value'</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155223Z" creationid="steevie" creationdate="20180205T155055Z">
+        <seg>ALTER TABLE "Nome_Tabella" ALTER COLUMN "ID" RESTART WITH 'Nuovo valore'</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,6 +6946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215706Z" creationid="Marco Marega" creationdate="20171217T204917Z">
         <seg>Se viene selezionato nuovamente l'utente originario, il supporto restituito non sarà più visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the tables are emptied in preparation for normal usage or prior to handing the database on to another person, the primary key continues &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;to&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; increment from its current position instead of resetting itself to zero.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155027Z" creationid="steevie" creationdate="20180205T155027Z">
+        <seg>Se le tabelle vengono svuotate, in vista del normale uso o prima di passare il database ad altri, la chiave primaria continua &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ad&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; incrementare dal suo valore corrente invece che ripartire da zero.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
