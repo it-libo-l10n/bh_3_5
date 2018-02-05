@@ -1368,8 +1368,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The behavior of HSQLDB is to preserve storage space for deleted records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152404Z" creationid="steevie" creationdate="20180205T152404Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il comportamento di HSQLDB è quello di preservare spazio su disco per i record cancellati.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152551Z" creationid="steevie" creationdate="20180205T152404Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il comportamento di HSQLDB è quello di preservare spazio su disco per i record di dati cancellati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +4690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162005Z" creationid="Marina Latini" creationdate="20171206T162005Z">
         <seg>Uso di database in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Databases &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; are filled with test data, especially if this includes images, retain the same size even if all these records are subsequently deleted.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152609Z" creationid="steevie" creationdate="20180205T152539Z">
+        <seg>I database &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; sono zeppi di dati di test, specialmente se questi comprendono immagini, mantengono la stessa dimensione, anche se questi record di dati vengono in seguito cancellati,&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13554,6 +13562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223820Z" creationid="Marco Marega" creationdate="20171214T223820Z">
         <seg>Per uscire dal campo di controllo tabella, premete &lt;/f4&gt;&lt;f5&gt;Ctrl+Tab&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To free this storage space, the database records must be rewritten (tables, table descriptions, etc).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152710Z" creationid="steevie" creationdate="20180205T152710Z">
+        <seg>Per liberare questo spazio su disco, i record di dati del database devono essere riscritti (tabelle, didascalie, etc.)</seg>
       </tuv>
     </tu>
     <tu>
