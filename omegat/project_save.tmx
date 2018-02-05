@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f7&gt;Database Maintenance&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151322Z" creationid="steevie" creationdate="20180205T151322Z">
+        <seg>&lt;/f5&gt;&lt;f7&gt;Manutenzione del database&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f7&gt;Queries&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T155200Z" creationid="Manuel Frassinetti" creationdate="20171125T155200Z">
@@ -1578,6 +1586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183039Z" creationid="Marco Marega" creationdate="20171013T183039Z">
         <seg>&lt;f0&gt;Capitolo 4 &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Chapter &lt;/f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;s4/&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151302Z" creationid="steevie" creationdate="20180205T151302Z">
+        <seg>&lt;f0&gt;Capitolo &lt;/f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;s4/&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
