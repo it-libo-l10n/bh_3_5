@@ -7800,8 +7800,8 @@
       <tuv lang="EN">
         <seg>Information on the content of these tables is most easily obtained by direct queries:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161329Z" creationid="steevie" creationdate="20180205T161329Z">
-        <seg>Informazioni sul contenuto di queste tabelle è ottenibile in maniera semplice com ricerche dirette:</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162813Z" creationid="steevie" creationdate="20180205T161329Z">
+        <seg>Informazioni sul contenuto di queste tabelle è ottenibile in maniera semplice con ricerche dirette:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9862,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT * FROM "INFORMATION_SCHEMA"."SYSTEM_PRIMARYKEYS"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162816Z" creationid="steevie" creationdate="20180205T162816Z">
+        <seg>SELECT * FROM "INFORMATION_SCHEMA"."SYSTEM_PRIMARYKEYS"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT * FROM "Table_name"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172948Z" creationid="Manuel Frassinetti" creationdate="20180116T172948Z">
@@ -11114,6 +11122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211504Z" creationid="Marco Marega" creationdate="20171216T211504Z">
         <seg>L'ordine ascendente mostra in cima i supporti in prestito da un periodo più lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The asterisk ensures that all available columns of the table are shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162843Z" creationid="steevie" creationdate="20180205T162843Z">
+        <seg>L'asterisco garantisce che tutte le colonne disponibili vengano mostrate.</seg>
       </tuv>
     </tu>
     <tu>
