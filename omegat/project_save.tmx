@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All special tables in HSQLDB are described in the appendix to this handbook.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161050Z" creationid="steevie" creationdate="20180205T161050Z">
+        <seg>Tutte le tabelle speciali in HSQLDB sono descritti nell'Appendice di questo manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the other forms relate to one or other of the table controls shown above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143618Z" creationid="Marco Marega" creationdate="20171231T143618Z">
@@ -6194,6 +6202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211349Z" creationid="Marco Marega" creationdate="20171213T211321Z">
         <seg>Anche in questo caso dovete apportare dei miglioramenti in retrospettiva, in modo che il codice SQL richiesto possa essere creato abbastanza rapidamente usando l'editor di query integrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here an example is given for a table named Searchtable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160915Z" creationid="steevie" creationdate="20180205T160915Z">
+        <seg>Di seguito un esempio per una tabella chiamata Ricerca_Tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "COLUMN_NAME", "TYPE_NAME", "COLUMN_SIZE", "COLUMN_DEF" AS "Default Value" FROM "INFORMATION_SCHEMA"."SYSTEM_COLUMNS" WHERE "TABLE_NAME" = 'Searchtable' ORDER BY "ORDINAL_POSITION"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161015Z" creationid="steevie" creationdate="20180205T161015Z">
+        <seg>SELECT "COLUMN_NAME", "TYPE_NAME", "COLUMN_SIZE", "COLUMN_DEF" AS "Default Value" FROM "INFORMATION_SCHEMA"."SYSTEM_COLUMNS" WHERE "TABLE_NAME" = 'Ricerca_Tabella' ORDER BY "ORDINAL_POSITION"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
@@ -11458,6 +11482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175022Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
         <seg>La seguente ricerca calcola quanti supporti sono stati prestati a seconda del Lettore_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following query can be used to find out field names, field types, column sizes, and default values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160758Z" creationid="steevie" creationdate="20180205T160758Z">
+        <seg>La seguente interrogazione può essere usata per scoprire nomi e tipi di campo, dimensione delle colonne e valori standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13434,6 +13466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215830Z" creationid="Marco Marega" creationdate="20171210T215830Z">
         <seg>Questa sostituzione è stata effettuata sui campi di controllo &lt;f0&gt;Media_ID&lt;/f0&gt; e &lt;f1&gt;Reader_ID&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This separate area can be reached using the name "INFORMATION_SCHEMA".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160437Z" creationid="steevie" creationdate="20180205T160437Z">
+        <seg>Questa parte separata può essere usata usando il nome "INFORMATION_SCHEMA".</seg>
       </tuv>
     </tu>
     <tu>
