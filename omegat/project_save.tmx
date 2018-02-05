@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All information on the tables of the database is stored in table form in a separate part of HSQLDB.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160037Z" creationid="steevie" creationdate="20180205T160037Z">
+        <seg>Tutte le informazioni sulle tabelle del database sono salvate in forma tabulare in una parte separata di HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other records are excluded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175305Z" creationid="Manuel Frassinetti" creationdate="20171216T175305Z">
@@ -10198,6 +10206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, if current records go up to 4, the new value should be 5.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155924Z" creationid="steevie" creationdate="20180205T155924Z">
+        <seg>Ad esempio, se i record di dati correnti arrivano al 4, il nuovo valore dovrebbe essere 5.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, it would seem more sensible to place the subforms &lt;f2&gt;Subtitle&lt;/f2&gt; and &lt;f3&gt;Author&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; as branches of &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;MainForm&lt;/f7&gt;&lt;/f6&gt; right at the beginning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145416Z" creationid="Marco Marega" creationdate="20171231T145416Z">
@@ -11970,6 +11986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223242Z" creationid="Marco Marega" creationdate="20171205T223242Z">
         <seg>Il controllo barra di navigazione visualizza gli stessi &lt;f5&gt;pulsanti&lt;/f5&gt; ad eccezione &lt;f6&gt;di&lt;/f6&gt; Trova Record, Filtro basato su formula e &lt;f7&gt;Sorgente dati&lt;/f7&gt; come tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new value should be the one that you want to be automatically created for the next new record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155845Z" creationid="steevie" creationdate="20180205T155845Z">
+        <seg>Il nuovo valore dovrebbe essere quello che volete sia automaticamente creato per il successivo nuovo record di dati.</seg>
       </tuv>
     </tu>
     <tu>
