@@ -7798,6 +7798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information on the content of these tables is most easily obtained by direct queries:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161329Z" creationid="steevie" creationdate="20180205T161329Z">
+        <seg>Informazioni sul contenuto di queste tabelle è ottenibile in maniera semplice com ricerche dirette:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information tables for HSQLDB</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102456Z" creationid="Marina Latini" creationdate="20171207T102456Z">
