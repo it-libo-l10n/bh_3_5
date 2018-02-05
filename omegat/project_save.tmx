@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A database is created, all possible functions tested with examples, and corrections made until everything works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154339Z" creationid="steevie" creationdate="20180205T154339Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Un database viene creato, tutte le possibili funzioni testate con esempi e correzioni effettuate finché tutto funziona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A query may require a field that is not part of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; query output.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180110Z" creationid="Manuel Frassinetti" creationdate="20171206T180110Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180107T170653Z" creationid="osvaldo" creationdate="20180107T170653Z">
         <seg>&lt;f0&gt;&lt;f1&gt;La data del prestito è impostata come data corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The database is ta&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ken down and fre&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed from all accumulated waste &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;space&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154036Z" creationid="steevie" creationdate="20180205T154036Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il database è spe&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ntodown e libe&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;rato da tutto lo spreco accumulato di &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;spazio&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3262,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After this is done, Base must be restarted in order to access the database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154111Z" creationid="steevie" creationdate="20180205T154111Z">
+        <seg>Una volta fatto questo, Base dev'essere riavviato per poter accedere al database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the form is predefined, this time with the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
@@ -3694,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad luck if the primary key has been set to auto-increment, as is commonplace!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154558Z" creationid="steevie" creationdate="20180205T154558Z">
+        <seg>Che sfortuna se la chiave primaria è stata impostata come auto-incrementale, come si fa di solito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barcodes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095849Z" creationid="Marina Latini" creationdate="20171207T095849Z">
@@ -3962,6 +3994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
         <seg>In modo predefinito, l'etichetta non viene spezzata per andare a capo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By this time, on average, many primary key values will have risen to over 100.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154417Z" creationid="steevie" creationdate="20180205T154417Z">
+        <seg>A questo punto, in media, il valore di molte chiavi primarie avrà oltrepassato 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +9810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231607Z" creationid="Marco Marega" creationdate="20171102T231607Z">
         <seg>SELECT DISTINCT "FirstName" FROM "Reader"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SHUTDOWN COMPACT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T153846Z" creationid="steevie" creationdate="20180205T153846Z">
+        <seg>SHUTDOWN COMPACT</seg>
       </tuv>
     </tu>
     <tu>
