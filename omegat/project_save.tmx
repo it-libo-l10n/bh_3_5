@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Important maintenance is described in this chapter.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152255Z" creationid="steevie" creationdate="20180205T152255Z">
+        <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Le manutenzioni importanti sono descritte in questo capitolo.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;The data may not have &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;the&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; same meaning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T170819Z" creationid="Manuel Frassinetti" creationdate="20171202T165910Z">
@@ -1254,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Frequent alteration of&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; the data in a database, in particular &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;many&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; deletions, has two effects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151707Z" creationid="steevie" creationdate="20180205T151707Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Frequenti modifiche ai&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; dati in un database, specialmente &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;molte&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; cancellazioni, hanno due effetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Having a query that you can edit can create problems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165628Z" creationid="Manuel Frassinetti" creationdate="20171202T165628Z">
@@ -1346,6 +1362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T220338Z" creationid="osvaldo" creationdate="20180103T220014Z">
         <seg>&lt;f0&gt;&lt;f1&gt;L'ambiente di Base contiene quattro aree di lavoro: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;T&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;abelle, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;R&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;icerche, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;F&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ormulari e &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;R&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;apporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The behavior of HSQLDB is to preserve storage space for deleted records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152404Z" creationid="steevie" creationdate="20180205T152404Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il comportamento di HSQLDB è quello di preservare spazio su disco per i record cancellati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152653Z" creationid="Marco Marega" creationdate="20180127T152653Z">
         <seg>Per prima cosa i supporti devono essere inseriti nel database cosicché la biblioteca possa utilizzarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First, the database grows steadily even though it may not actually contain more data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151816Z" creationid="steevie" creationdate="20180205T151816Z">
+        <seg>In primo luogo, il database cresce costantemente anche se può non contenere più alcun dato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9762,6 +9794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162324Z" creationid="Marina Latini" creationdate="20171206T162324Z">
         <seg>Ricercare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Second, the automatically created primary key continues to increment regardless of what value for the next key is actually necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152215Z" creationid="steevie" creationdate="20180205T152215Z">
+        <seg>In secondo luogo, le chiavi primarie esistenti e create automaticamente continuano ad incrementare, senza considerate quale valore per la chiave successiva sia effettivamente necessario.</seg>
       </tuv>
     </tu>
     <tu>
