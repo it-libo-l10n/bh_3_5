@@ -7830,6 +7830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead of having to provide detailed information on each freshly created table or database, procedures are written to fetch this information directly out of the database and are therefore universally applicable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075143Z" creationid="steevie" creationdate="20180206T075143Z">
+        <seg>Invece di dover fornire informazioni dettagliate alla creazione di nuove tabelle o database, esistono procedure per recuperare queste informazioni direttamente dal database e sono quindi sempre applicabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead of the text “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;”, it would be better to have the reader’s name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215746Z" creationid="Marco Marega" creationdate="20171217T214901Z">
@@ -11398,6 +11406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example database shows this, among other things, in one of the maintenance modules, where foreign keys are determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075434Z" creationid="steevie" creationdate="20180206T075434Z">
+        <seg>Questo viene mostrato nel database di esempio, in uno dei moduli di manutenzione, in cui le chiavi primarie vengono determinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example of a simple form for library loans is shown here using several variants.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201237Z" creationid="Marco Marega" creationdate="20171210T201237Z">
@@ -12494,6 +12510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table searched for above gives essential information on the primary keys of the various tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T074845Z" creationid="steevie" creationdate="20180206T074845Z">
+        <seg>I risultati dell'interrogazione su riportata riportano informazioni essenziali sulle chiavi primarie delle varie tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table view above shows how the aliases replace the actual field names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111238Z" creationid="Manuel Frassinetti" creationdate="20171202T111238Z">
@@ -13186,6 +13210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200842Z" creationid="Marco Marega" creationdate="20171017T200842Z">
         <seg>Questo accade, ad esempio, quando si inizia un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information is useful above all for macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T074910Z" creationid="steevie" creationdate="20180206T074910Z">
+        <seg>Queste informazioni sono utili soprattutto per le macro.</seg>
       </tuv>
     </tu>
     <tu>
