@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A database consists of one or more main tables, which contain foreign keys from other tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075720Z" creationid="steevie" creationdate="20180206T075720Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Un database è composta da una o più tabelle principali, che contengono chiavi esterne da altre tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A database is created, all possible functions tested with examples, and corrections made until everything works.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154339Z" creationid="steevie" creationdate="20180205T154339Z">
@@ -6638,6 +6646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, it is not apparent during normal usage that the record is no longer needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080303Z" creationid="steevie" creationdate="20180206T080303Z">
+        <seg>Tuttavia, non è evidente durante il normale utilizzo che il record di dati non sia più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the address book of a school or a sports association could contain so much repetition of postcodes and locations that these fields are better placed in one or even two separate tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223011Z" creationid="Marco Marega" creationdate="20180112T223011Z">
@@ -6754,6 +6770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230638Z" creationid="Marco Marega" creationdate="20171102T230638Z">
         <seg>Se c'è la necessità di inserire un nuovo valore, in una casella combinata questo può essere fatto facilmente, dato che la casella mostra esattamente ciò che va nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a person moves home, the address gets changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080005Z" creationid="steevie" creationdate="20180206T080005Z">
+        <seg>Se una persona cambia casa, anche il suo indirizzo cambia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In principle therefore, the postcode itself could be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080226Z" creationid="steevie" creationdate="20180206T080226Z">
+        <seg>Quindi in pratica il postcode stesso potrebbe essere cancellato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In such cases it is necessary to &lt;/f2&gt;&lt;f3&gt;switch&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;D&lt;/f5&gt;&lt;f6&gt;esign &lt;/f6&gt;&lt;f7&gt;V&lt;/f7&gt;&lt;f8&gt;iew &lt;/f8&gt;&lt;f9&gt;off &lt;/f9&gt;&lt;f10&gt;and use &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Edit &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Run SQL command directly&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; for direct access to the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174101Z" creationid="Manuel Frassinetti" creationdate="20180116T174101Z">
@@ -7522,6 +7554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213126Z" creationid="Marco Marega" creationdate="20171213T213126Z">
         <seg>Nel &lt;f0&gt;Navigatore&lt;/f0&gt;, la descrizione dei comandi di campo termina con il campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Address table the primary key of the postcode occurs as a foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075935Z" creationid="steevie" creationdate="20180206T075935Z">
+        <seg>Nella tabella Address la chiave primaria del codice postale si presenta come chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,6 +7634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142549Z" creationid="Marco Marega" creationdate="20171231T142549Z">
         <seg>Nelle prime fasi, è necessario ricorrere spesso a questi formulari collaterali, in quanto non ci sono ancora molti autori memorizzati nella relativa tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the example database, these are the Media and Address tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075818Z" creationid="steevie" creationdate="20180206T075818Z">
+        <seg>Nel database di esempio, queste sono le tabelle Media e Indirizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12310,6 +12358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result may be that no foreign key Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corresponding to&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; this postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;exists&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; any longer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080142Z" creationid="steevie" creationdate="20180206T080142Z">
+        <seg>Il risultato potrebbe esseceh che nessuna chiave esterna Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corrispondente a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; questo codice postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esista&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result of the query looks like this:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164329Z" creationid="Manuel Frassinetti" creationdate="20171216T164329Z">
@@ -12682,6 +12738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213953Z" creationid="Marco Marega" creationdate="20171213T213953Z">
         <seg>Non sono presenti i pulsanti, i pulsante di scelta e i campi di controllo immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are various ways to prevent this sort of problem arising.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080328Z" creationid="steevie" creationdate="20180206T080328Z">
+        <seg>Ci sono vari metodi per prevenire il sorgere di questi problemi..&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
