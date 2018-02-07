@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Here the tables Address and Street are considered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153310Z" creationid="steevie" creationdate="20180207T153310Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Qui vengono considerate le tabelle Address e Street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Here you can change the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Name&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183212Z" creationid="Marco Marega" creationdate="20171014T183212Z">
@@ -1418,6 +1426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155157Z" creationid="steevie" creationdate="20180205T155038Z">
         <seg>&lt;f0&gt;&lt;f1&gt;il comando SQL seguente, di nuovo lanciato da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, permette di ripristinare il valore iniziale:&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The following dialog is accessible through &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Tools &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Relationships&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, followed by a right&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;-&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;click on the connector between two tables.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153135Z" creationid="steevie" creationdate="20180207T153135Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La seguente finestra di dialogo è disponibile in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Relazioni&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, facendo click coll&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;-&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;tasto destro sul connettore tra due tabelle.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,6 +7502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, you can prevent the deletion or alteration of keys from leading to errors in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T152628Z" creationid="steevie" creationdate="20180207T152628Z">
+        <seg>In altre parole, potere prevenire errori nel database causati dalla cancellazione o modifica delle chiavi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice it could be better &lt;f4&gt;if&lt;/f4&gt; you do n&lt;f5&gt;o&lt;/f5&gt;t associate fields with the labels.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211756Z" creationid="Marco Marega" creationdate="20171213T211756Z">
@@ -11818,6 +11842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T211823Z" creationid="Marco Marega" creationdate="20171205T211823Z">
         <seg>L'inserimento di questa barre degli strumenti può causare un breve spostamento a destra del formulario mentre questo viene composto sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The integrity of the data can be ensured while defining relationships.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T152540Z" creationid="steevie" creationdate="20180207T152540Z">
+        <seg>L'integrità dei dati può essere garantita con una opportuna definizione delle relazioni.</seg>
       </tuv>
     </tu>
     <tu>
