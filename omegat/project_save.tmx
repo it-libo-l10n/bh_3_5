@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;All specified actions apply to the Address table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, which contains the foreign key Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153403Z" creationid="steevie" creationdate="20180207T153403Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;All specified actions apply to the Address table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, which contains the foreign key Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Editing data in the query also edits data in the underlying table and the records contained in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;the&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165812Z" creationid="Manuel Frassinetti" creationdate="20171202T165812Z">
@@ -7664,8 +7672,8 @@
       <tuv lang="EN">
         <seg>In the example database, these are the Media and Address tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075818Z" creationid="steevie" creationdate="20180206T075818Z">
-        <seg>Nel database di esempio, queste sono le tabelle Media e Indirizzo.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153500Z" creationid="steevie" creationdate="20180206T075818Z">
+        <seg>Nel database di esempio, queste sono le tabelle Media e Adress.</seg>
       </tuv>
     </tu>
     <tu>
