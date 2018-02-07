@@ -1008,8 +1008,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;All specified actions apply to the Address table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, which contains the foreign key Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153403Z" creationid="steevie" creationdate="20180207T153403Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;All specified actions apply to the Address table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, which contains the foreign key Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155807Z" creationid="steevie" creationdate="20180207T153403Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Tutte le azioni menzionate si applicano alla tabella Adress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, che contiene la chiave esterna Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the numeric key in the &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Street&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;ID&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; field is altered, "No action" means that the database resists this change if a &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Street&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;"."&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ID&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; with that key number occurs as a foreign key in the Address table.&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T160040Z" creationid="steevie" creationdate="20180207T160040Z">
+        <seg>Se la chiave numerica nel campo &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Street&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;ID&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; è modificatafield is altered, "No action" means that the database resists this change if a &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Street&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;"."&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ID&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; with that key number occurs as a foreign key in the Address table.&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the original reader is selected again, returned media are no longer displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215706Z" creationid="Marco Marega" creationdate="20171217T204917Z">
@@ -7592,8 +7600,8 @@
       <tuv lang="EN">
         <seg>In the Address table the primary key of the postcode occurs as a foreign key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075935Z" creationid="steevie" creationdate="20180206T075935Z">
-        <seg>Nella tabella Address la chiave primaria del codice postale si presenta come chiave esterna.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155520Z" creationid="steevie" creationdate="20180206T075935Z">
+        <seg>Nella tabella Adress, la chiave primaria della tabella Postcode appare come chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12400,8 +12408,8 @@
       <tuv lang="EN">
         <seg>The result may be that no foreign key Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corresponding to&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; this postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;exists&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; any longer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080142Z" creationid="steevie" creationdate="20180206T080142Z">
-        <seg>Il risultato potrebbe esseceh che nessuna chiave esterna Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corrispondente a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; questo codice postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esista&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; più.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155637Z" creationid="steevie" creationdate="20180206T080142Z">
+        <seg>Il risultato potrebbe essere che nessuna chiave esterna Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corrispondente a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; questo postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esista&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14050,6 +14058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211149Z" creationid="Marco Marega" creationdate="20171026T211717Z">
         <seg>A differenza di un semplice campo valuta, un campo formattato può visualizzare in rosso gli importi negativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update options refer to an update of the ID field in the Street table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T160054Z" creationid="steevie" creationdate="20180207T155947Z">
+        <seg>Le opzioni di aggiornamento si riferiscono ad un aggiornamento del campo ID nella tabella Street.</seg>
       </tuv>
     </tu>
     <tu>
