@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In principle the whole interrelationship between tables can be displayed within forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153027Z" creationid="steevie" creationdate="20180209T153027Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;In linea di principio, tutte le interrelazioni tra le tabelle possono essere visualizzate all'interno di formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Items on loan are shown in the lower area of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180106T180201Z" creationid="osvaldo" creationdate="20180106T180201Z">
@@ -5058,6 +5066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
         <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each is presented through a table.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153449Z" creationid="steevie" creationdate="20180209T153449Z">
+        <seg>Ognuno viene mostrato in una tabella.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13462,6 +13478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is easiest of course when a table is related to only one other table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153112Z" creationid="steevie" creationdate="20180209T153112Z">
+        <seg>Questo è ovviamente più semplice quando una tabella è collegata solamente ad un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is illustrated in the example database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155537Z" creationid="Marco Marega" creationdate="20171230T155537Z">
@@ -13858,6 +13882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161523Z" creationid="Marina Latini" creationdate="20171205T161523Z">
         <seg>Rubrica di Thunderbird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus in the following example, the author's primary key becomes the foreign key in the table rel_Media_Author; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;el_Media_Author also contains a foreign key from Media, so that the following arrangement shows a n:m-relationship with three forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153402Z" creationid="steevie" creationdate="20180209T153402Z">
+        <seg>Così, nell'esempio seguente, la chiave primaria dell'autore diventa la chiave esterna nella tabella rel_Media_Author; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;el_Media_Author inoltre contiene una chiave esterna da Media, e la successiva disposizione mostra una relazione n:m con tre formulari.</seg>
       </tuv>
     </tu>
     <tu>
