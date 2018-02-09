@@ -1286,10 +1286,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Defining relationships helps keep the relationships themselves clean, but it does not remove unnecessary records &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; provide their primary key as a foreign key in the relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152742Z" creationid="steevie" creationdate="20180209T152742Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Definire relazioni aiuta nel mantenere chiare le relazioni stesse, ma non rimuove record di dati non necessari &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; forniscono la loro chiave primaria come chiave esterna nella relazione..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Details of items to be borrowed are&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;input and &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;shown in the area in the middle of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180104T173854Z" creationid="osvaldo" creationdate="20180104T173854Z">
         <seg>&lt;f0&gt;&lt;f1&gt;I dettagli degli elementi da prendere in prestito sono  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inseriti e  &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;mostrati nell'area al centro del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;For both options, the GUI currently does not allow the possibility &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Set default&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, as the GUI default settings are different from those of the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152104Z" creationid="steevie" creationdate="20180209T152104Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Per entrambe le opzioni, la GUI non permette al momento la possibilità &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Imposta predefinito&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, poiché le impostazioni predefinite della GUI sono differenti da quelle del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144956Z" creationid="Manuel Frassinetti" creationdate="20171202T144956Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Quando volete ordinare in modo discendente  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;usando SQL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, utilizzate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;DESC&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; invece di  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ASC&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;can contain a large number of possible foreign keys from the rel_Media_Author table, which must first be compared with the primary keys in the table Authors for each record in that table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152350Z" creationid="steevie" creationdate="20180209T152350Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;can contain a large number of possible foreign keys from the rel_Media_Author table, which must first be compared with the primary keys in the table Authors for each record in that table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10078,6 +10102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;hapter &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3, T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ables.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152358Z" creationid="steevie" creationdate="20180209T152333Z">
+        <seg>Vedi &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;apitolo &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;3, T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;abelle.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;9,&lt;/f1&gt; Macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191838Z" creationid="Marco Marega" creationdate="20171017T191838Z">
@@ -12842,6 +12874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204741Z" creationid="Marco Marega" creationdate="20171026T204741Z">
         <seg>Non viene controllato se un campo può essere impostato a ZERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be any number of streets without corresponding addresses.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152931Z" creationid="steevie" creationdate="20180209T152931Z">
+        <seg>Può esserci un numero qualsiasi di strade senza un corrispondente indirizzo.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
