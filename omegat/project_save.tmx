@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1322,6 +1322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183212Z" creationid="Marco Marega" creationdate="20171014T183212Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Qui potete modificare il &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Nome&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Set null&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; is chosen, altering the ID makes "Address"."Street_ID" an empty field.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151829Z" creationid="steevie" creationdate="20180209T151829Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se si sceglie &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Imposta zero&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, una modifica all'ID rende "Address"."Street_ID" un campo vuoto.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7038,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the street 'Burgring' in the Street table has the ID '3' and is also represented in &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Address&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Street&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;ID&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;, the ID can be safely &lt;/f25&gt;&lt;/f24&gt;&lt;t26/&gt;&lt;f27&gt;&lt;f28&gt;altered, for example, to '67' – the corresponding &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;Address&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;"."&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;Street&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;_&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;ID&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt; values will be automatically be changed to '67'.&lt;/f44&gt;&lt;/f43&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151516Z" creationid="steevie" creationdate="20180209T151516Z">
+        <seg>Se la strada 'Burgring' nella tabella Street ha ID '3' ed è anche rappresentata in &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Address&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Street&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;ID&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;, l'ID può tranquillamente  essere &lt;/f25&gt;&lt;/f24&gt;&lt;t26/&gt;&lt;f27&gt;&lt;f28&gt;modificato, per esempio in '67' – i valori corrispondenti &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;Address&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;"."&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;Street&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;_&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;ID&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt; saranno automaticamente modificati in '67'.&lt;/f44&gt;&lt;/f43&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the tables are emptied in preparation for normal usage or prior to handing the database on to another person, the primary key continues &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;to&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; increment from its current position instead of resetting itself to zero.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155027Z" creationid="steevie" creationdate="20180205T155027Z">
@@ -11466,6 +11482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214018Z" creationid="Marco Marega" creationdate="20171126T214018Z">
         <seg>Il pulsante predefinito viene visualizzato con una cornice se impostato su &lt;f0&gt;Si&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The delete options are handled similarly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151921Z" creationid="steevie" creationdate="20180209T151921Z">
+        <seg>Le opzioni di eliminazione sono gestite in maniera simile.</seg>
       </tuv>
     </tu>
     <tu>
