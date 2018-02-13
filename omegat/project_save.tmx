@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Creating r&lt;/f0&gt;eports using the Report Builder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180213T192059Z" creationid="Alessia Mazzarini" creationdate="20180213T192059Z">
+        <seg>&lt;f0&gt;Creare r&lt;/f0&gt;apporti usando il Report Builder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cycle&lt;/f0&gt;: The &lt;f1&gt;&lt;f2&gt;D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;efault&lt;/f4&gt;&lt;/f3&gt; option for Base databases is that after entry into the last field in a form, the &lt;f5&gt;T&lt;/f5&gt;ab key &lt;f6&gt;takes you&lt;/f6&gt; to the first field of the next record – that is, a new record will be created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212015Z" creationid="Marco Marega" creationdate="20171014T212015Z">
