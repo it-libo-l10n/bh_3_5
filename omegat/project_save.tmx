@@ -5022,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Direct use of SQL commands is also accessible using the graphical user interface, as the above figure shows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180214T115603Z" creationid="manuel" creationdate="20180214T115603Z">
+        <seg>L'uso diretto dei comandi SQL è accessibile anche usando l'interfaccia grafica utente, come mostrato dalla figura precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display and entry with additional formatting, for example using measurement units</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204150Z" creationid="Marco Marega" creationdate="20171015T204150Z">
