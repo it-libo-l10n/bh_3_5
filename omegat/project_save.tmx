@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;It is just these queries, used in the previous section to filter data, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; prove unsatisfactory in regard to the maximum speed of searching a database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T163223Z" creationid="steevie" creationdate="20180216T163223Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;It is just these queries, used in the previous section to filter data, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; prove unsatisfactory in regard to the maximum speed of searching a database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Items on loan are shown in the lower area of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180106T180201Z" creationid="osvaldo" creationdate="20180106T180201Z">
@@ -1434,6 +1442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T154028Z" creationid="Manuel Frassinetti" creationdate="20171216T154028Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Solo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;per le persone che usano la virgola come &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;separatore&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; decimale:&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Orphaned entries can then be deleted by selecting all the entries that pass the set filter, and using the Delete option in the context menu of the record pointer, called up by &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;right-&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;clicking.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T163107Z" creationid="steevie" creationdate="20180216T163107Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Potrete poi cancellare voci orfane selezionando tutte le voci che superano il filtro impostato e usando l'opzione Cancella nel menu contestuale del puntatore del record, invocato con un &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;clic&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;con il pulsante destro del mouse.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
