@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In the form there is a built-in filter whose activation can tell you which categories are not needed in the Media table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160724Z" creationid="steevie" creationdate="20180216T160724Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nel formulario c'è un filtro integrato che, una volta attivo, mostra quali categorie non sono necessarie nella tabella Media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Items on loan are shown in the lower area of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180106T180201Z" creationid="osvaldo" creationdate="20180106T180201Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154036Z" creationid="steevie" creationdate="20180205T154036Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Il database è spe&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ntodown e libe&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;rato da tutto lo spreco accumulato di &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;spazio&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The first figure shows that the title &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;I hear you knocking&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; belongs to the author &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Dave Edmunds&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160234Z" creationid="steevie" creationdate="20180216T160234Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La prima figura mostra che il titolo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;I hear you knocking&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; appartiene all'autore &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Dave Edmunds&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6670,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However the listbox allows you to choose a different record instead of &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Dave Edmunds&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160600Z" creationid="steevie" creationdate="20180216T160600Z">
+        <seg>Tuttavia, la listbox vi permette di scegliere un record di dati diverso da&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Dave Edmunds&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However the whole range of types is not available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213830Z" creationid="Marco Marega" creationdate="20171213T213830Z">
@@ -7746,6 +7770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T212952Z" creationid="Marco Marega" creationdate="20180202T212952Z">
         <seg>Nello schema della tabella effettiva degli utenti, sono presenti solo il nome, un blocco opzionale, e una chiave esterna per il collegamento alla tabella del genere (Gender).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the case just described, almost all the example authors are in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160902Z" creationid="steevie" creationdate="20180216T160902Z">
+        <seg>Nel caso appena presentato, quasi tutti gli autori dell'esempio sono in uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12946,6 +12978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211020Z" creationid="Marco Marega" creationdate="20171014T211020Z">
         <seg>Non ci sarà alcun accesso ai dati esistenti, &lt;f1&gt;che&lt;/f1&gt; non potranno essere né modificati né visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Dave Edmunds&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; must not be deleted – otherwise information required for the medi&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;a&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;I hear you knocking&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; will be missing&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160338Z" creationid="steevie" creationdate="20180216T160338Z">
+        <seg>Quindi &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Dave Edmunds&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; non deve essere cancellato – altrimenti informazioni necessarie per  il medi&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;a&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;I hear you knocking&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; verrebbero perse&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.</seg>
       </tuv>
     </tu>
     <tu>
