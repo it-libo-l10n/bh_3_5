@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Therefore, r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ecords in the Town table which are to be deleted should not be referenced in either of these tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162536Z" creationid="steevie" creationdate="20180216T162536Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Quindi, i r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ecord di dati nella tabella Town che vorrete cancellare non devono essere referenziati in alcuna di queste due tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://wiki.documentfoundation.org/Faq&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165835Z" creationid="Marina Latini" creationdate="20171207T165835Z">
@@ -1346,6 +1354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151829Z" creationid="steevie" creationdate="20180209T151829Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Se si sceglie &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Imposta zero&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, una modifica all'ID rende "Address"."Street_ID" un campo vuoto.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If a table contains foreign keys from several other tables, the query needs to be extended accordingly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162650Z" creationid="steevie" creationdate="20180216T162325Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se una tabella contiene chiavi esterne da diverse altre tabelle, dovete estendere l'interrogazione di conseguenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10142,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Surname", "Firstname" FROM "Author" WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162039Z" creationid="steevie" creationdate="20180216T162039Z">
+        <seg>SELECT "Surname", "Firstname" FROM "Author" WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Town" FROM "Town" WHERE "ID" NOT IN (SELECT "Town_ID“ FROM "Media") AND "ID" NOT IN (SELECT "Town_ID“ FROM "Postcode")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162701Z" creationid="steevie" creationdate="20180216T162701Z">
+        <seg>SELECT "Town" FROM "Town" WHERE "ID" NOT IN (SELECT "Town_ID“ FROM "Media") AND "ID" NOT IN (SELECT "Town_ID“ FROM "Postcode")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT * FROM "INFORMATION_SCHEMA"."SYSTEM_PRIMARYKEYS"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162816Z" creationid="steevie" creationdate="20180205T162816Z">
@@ -11346,6 +11378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155832Z" creationid="Marco Marega" creationdate="20171230T155832Z">
         <seg>L'esempio di cui sopra dovrebbe essere sufficiente a comprendere la progettazione iniziale, ma dato che il database di esempio, Media_without_Macros.odb, sviluppa ulteriormente il formulario, le migliorie sono brevemente esposte qui di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The above filter is part of a query which can be used to find orphaned entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162658Z" creationid="steevie" creationdate="20180216T162012Z">
+        <seg>Il filtro riportato sopra è parte di una interrogazione che può essere utilizzata per trovare voci orfane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13222,6 +13262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This affects, for example, the Town table, which has foreign keys in both the Media table and the Postcode table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162411Z" creationid="steevie" creationdate="20180216T162411Z">
+        <seg>Questo interessa, ad esempio, la tabella Town, che ha una chiave esterna sia nella tabella Media che in Postcode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This also shows that new entries are possible.&lt;/f23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104714Z" creationid="Manuel Frassinetti" creationdate="20171202T104714Z">
@@ -13578,6 +13626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203221Z" creationid="Marco Marega" creationdate="20171125T203221Z">
         <seg>Un tanto verrà definito in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is determined by the following query:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162637Z" creationid="steevie" creationdate="20180216T162637Z">
+        <seg>Questo è definito nella seguente interrogazione:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
