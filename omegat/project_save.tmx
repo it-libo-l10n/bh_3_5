@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The filter is hard-&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;cod&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed in this case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161424Z" creationid="steevie" creationdate="20180216T161424Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il filtro è in questo caso pre-&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;impost&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ato a livello di codice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The first figure shows that the title &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;I hear you knocking&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; belongs to the author &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Dave Edmunds&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160234Z" creationid="steevie" creationdate="20180216T160234Z">
@@ -6982,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is deleted, it can be accessed again by a complete reload of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161742Z" creationid="steevie" creationdate="20180216T161742Z">
+        <seg>Se lo cancellate, potrete accedervi nuovamente ricaricando completamente il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is done using the form properties, the filter can be temporarily switched off during input.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225546Z" creationid="Marco Marega" creationdate="20171214T225546Z">
@@ -8174,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be switched off and on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161652Z" creationid="steevie" creationdate="20180216T161652Z">
+        <seg>Potete attivarlo e disattivarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It could also be a click on the drop-down button of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T214108Z" creationid="Marco Marega" creationdate="20171101T214108Z">
@@ -8226,6 +8250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
         <seg>Questo è collegato a una &lt;f0&gt;Tabella&lt;/f0&gt; denominata &lt;f1&gt;Loan&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is found in the form properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161451Z" creationid="steevie" creationdate="20180216T161451Z">
+        <seg>Lo potete trovare nelle proprietà del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9418,6 +9450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T221006Z" creationid="Marco Marega" creationdate="20171226T221006Z">
         <seg>Verranno visualizzati solo i record corrispondenti a un determinato &lt;f0&gt;Reader_ID&lt;/f0&gt; e con il campo relativo alla data del prestito vuoto ("&lt;f1&gt;Loan_Date" IS NULL&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Erich Kästner&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; record can be deleted without any consequences for any other record in &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161009Z" creationid="steevie" creationdate="20180216T161009Z">
+        <seg>Solo la voce &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Erich Kästner&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; può essere cancellata senza alcuna conseguenza per i record di dati presenti in &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10618,6 +10658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
         <seg>Sottoricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such a filter is activated automatically when the form is launched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161526Z" creationid="steevie" creationdate="20180216T161526Z">
+        <seg>Potete attivare automaticamente un filtro come questo quando lanciate il formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13698,6 +13746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221113Z" creationid="Marco Marega" creationdate="20180126T221113Z">
         <seg>Questo rende la coppia univoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means more than just updating the data; the whole form document must be closed and then reopened.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161836Z" creationid="steevie" creationdate="20180216T161836Z">
+        <seg>Questo significa molto più che aggiornare i dati; l'intero documento col formulario dev'essere chiuso e poi riaperto.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
