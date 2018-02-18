@@ -3432,8 +3432,8 @@
       <tuv lang="EN">
         <seg>Additionally, in the case of primary keys, the field cannot be NULL under any circumstances.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141442Z" creationid="Marco Marega" creationdate="20180218T141442Z">
-        <seg>In aggiunta, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere vuoto (NULL).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141726Z" creationid="Marco Marega" creationdate="20180218T141442Z">
+        <seg>In aggiunta, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere vuoto (ZERO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3672,8 @@
       <tuv lang="EN">
         <seg>An exceptional circumstance for a unique index is when there is no entry into a field (the field is NULL).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141719Z" creationid="Marco Marega" creationdate="20180218T141719Z">
-        <seg>Una circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è NULL).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141739Z" creationid="Marco Marega" creationdate="20180218T141719Z">
+        <seg>Una circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è ZERO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10618,6 +10618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205909Z" creationid="Marco Marega" creationdate="20180202T205909Z">
         <seg>Dato che anche gli Editori &lt;f0&gt;(Publisher)&lt;/f0&gt; si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since NULL can have any arbitrary value, an index using two fields is always allowed to have the same entry repeatedly in one of the fields as long as there is no entry in the other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142022Z" creationid="Marco Marega" creationdate="20180218T142022Z">
+        <seg>Dato che ZERO potrebbe assumere qualunque valore arbitrario, a un indice che utilizza due campi è sempre permesso di avere dei valori ripetuti in uno dei campi fintanto che non ci sono valori nell'altro.</seg>
       </tuv>
     </tu>
     <tu>
