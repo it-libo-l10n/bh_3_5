@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f37&gt;&lt;f38&gt;&lt;f39&gt;ID&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt; can be the smallest numeric type, &lt;/f40&gt;&lt;f41&gt;T&lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;INYINT &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;because&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt; the &lt;/f46&gt;&lt;f47&gt;&lt;f48&gt;Filter &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;table &lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;will never contain more than one record.&lt;/f51&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T212003Z" creationid="MicrosoftSucks" creationdate="20180218T212003Z">
+        <seg>&lt;/f37&gt;&lt;f38&gt;&lt;f39&gt;ID&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt; puo' essere del piu' piccolo tipo numerico, &lt;/f40&gt;&lt;f41&gt;T&lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;INYINT &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;perche'&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt; la tabella &lt;/f46&gt;&lt;f47&gt;&lt;f48&gt;Filter &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt; &lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;non conterra' mai piu' di un record.&lt;/f51&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Dan Lewis&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085102Z" creationid="Marina Latini" creationdate="20171003T085049Z">
