@@ -8742,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limitations of graphical table design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143320Z" creationid="Marco Marega" creationdate="20180218T143320Z">
+        <seg>Limitazioni della progettazione della tabella in modalità grafica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limiting the minimum and maximum values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214646Z" creationid="Marco Marega" creationdate="20171216T214646Z">
@@ -12930,6 +12938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
         <seg>Il secondo formulario secondario richiede più impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sequence of fields in a table cannot be changed after the database has been saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143356Z" creationid="Marco Marega" creationdate="20180218T143356Z">
+        <seg>La sequenza dei campi in una tabella non può essere modificata dopo che il database è stato salvato.</seg>
       </tuv>
     </tu>
     <tu>
