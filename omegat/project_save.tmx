@@ -7280,8 +7280,8 @@
       <tuv lang="EN">
         <seg>If no filter value is given, the query shows all records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210453Z" creationid="MicrosoftSucks" creationdate="20180218T210453Z">
-        <seg>Se non vengono impostati valori per il filtro la query .</seg>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210558Z" creationid="MicrosoftSucks" creationdate="20180218T210453Z">
+        <seg>Se non vengono impostati valori per il filtro la query restituisce tutti i record.</seg>
       </tuv>
     </tu>
     <tu>
