@@ -12262,6 +12262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following query is certainly editable:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213147Z" creationid="MicrosoftSucks" creationdate="20180218T213147Z">
+        <seg>La query seguente e' di sicuro modificabile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following query structure will also be useful for calculating the fines due from individual users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162915Z" creationid="Manuel Frassinetti" creationdate="20171216T162915Z">
