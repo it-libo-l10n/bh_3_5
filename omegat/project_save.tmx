@@ -5680,8 +5680,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Access to Index Design</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140107Z" creationid="Marco Marega" creationdate="20180218T140107Z">
-        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Access to Index Design</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140156Z" creationid="Marco Marega" creationdate="20180218T140107Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Accesso alla Struttura indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,8 +7736,8 @@
       <tuv lang="EN">
         <seg>In other words, the &lt;f6&gt;Address&lt;/f6&gt; table will always contain only the number that serves as the primary key in the &lt;f7&gt;Postcode&lt;/f7&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220127Z" creationid="Marco Marega" creationdate="20180204T220127Z">
-        <seg>In altre parole, la tabella&lt;f6&gt;Address&lt;/f6&gt; dovrà sempre contenere solo il numero che serve come chiave primaria nella tabella &lt;f7&gt;Postcode&lt;/f7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140124Z" creationid="Marco Marega" creationdate="20180204T220127Z">
+        <seg>In altre parole, la tabella&lt;f6&gt;Adress&lt;/f6&gt; dovrà sempre contenere solo il numero che serve come chiave primaria nella tabella &lt;f7&gt;Postcode&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9638,6 +9638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the table for editing by right-clicking and using the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140238Z" creationid="Marco Marega" creationdate="20180218T140238Z">
+        <seg>Aprite la tabella per modificarla facendo clic con il pulsante destro del mouse e usando il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Option button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210247Z" creationid="Marco Marega" creationdate="20171109T210247Z">
@@ -10696,8 +10704,8 @@
       <tuv lang="EN">
         <seg>Sometimes it is useful to index other fields or a combination of other fields in addition to the primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135347Z" creationid="Marco Marega" creationdate="20180218T135347Z">
-        <seg>Alle volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri altri campi.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140118Z" creationid="Marco Marega" creationdate="20180218T135347Z">
+        <seg>Alle volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13078,6 +13086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you can access index creation with &lt;f0&gt;Tools &gt; Index Design&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140311Z" creationid="Marco Marega" creationdate="20180218T140311Z">
+        <seg>Poi potete accedere alla creazione dell'indice con &lt;f0&gt;Strumenti &gt; Struttura indice&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then, if the Table Control Wizard is enabled, it will show the fields available in the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213940Z" creationid="Marco Marega" creationdate="20171216T213851Z">
@@ -13912,8 +13928,8 @@
       <tuv lang="EN">
         <seg>This means that the &lt;f8&gt;Address&lt;/f8&gt; table now has a foreign key in addition to its own primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220204Z" creationid="Marco Marega" creationdate="20180204T220204Z">
-        <seg>Questo significa che la tabella &lt;f8&gt;Address&lt;/f8&gt; ora ha una chiave esterna in aggiunta alla sua chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140129Z" creationid="Marco Marega" creationdate="20180204T220204Z">
+        <seg>Questo significa che la tabella &lt;f8&gt;Adress&lt;/f8&gt; ora ha una chiave esterna in aggiunta alla sua chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
