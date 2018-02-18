@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A downgrade creates problems and may cause loss of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135210Z" creationid="Marco Marega" creationdate="20180218T135210Z">
+        <seg>Una restrizione invece crea problemi e può causare perdite di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A field that is read-only does not need a tab stop; it can be skipped.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204103Z" creationid="Marco Marega" creationdate="20171016T204103Z">
@@ -4658,6 +4666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105354Z" creationid="Marina Latini" creationdate="20171207T105354Z">
         <seg>Creazione di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an index</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135240Z" creationid="Marco Marega" creationdate="20180218T135240Z">
+        <seg>Creazione di un indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -10642,6 +10658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172930Z" creationid="Manuel Frassinetti" creationdate="20180116T172930Z">
         <seg>Qualche volta è anche il solo modo &lt;/f11&gt;&lt;t12/&gt;&lt;f13&gt;per inserire una ricerca nel database quando la GUI non può tradurre le vostre richieste nei necessari comandi SQL.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes it is useful to index other fields or a combination of other fields in addition to the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135347Z" creationid="Marco Marega" creationdate="20180218T135347Z">
+        <seg>Alle volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri altri campi.</seg>
       </tuv>
     </tu>
     <tu>
