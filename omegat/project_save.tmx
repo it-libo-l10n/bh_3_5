@@ -10870,6 +10870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some commands only make sense when dealing with an external HSQLDB database (Specify User, etc.).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145427Z" creationid="Marco Marega" creationdate="20180218T145427Z">
+        <seg>Alcuni comandi hanno senso solo quando si ha a che fare con database HSQLDB esterni (specificare l'utente, ecc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114105Z" creationid="Marina Latini" creationdate="20171213T114105Z">
@@ -15290,6 +15298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202108Z" creationid="Marco Marega" creationdate="20171015T202108Z">
         <seg>Ogni volta che all'interno di un formulario si passa da un record all'altro, questa azione allo stesso modo ricorre due volte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where necessary, these are dealt with in the section “Working with external HSQLDB” in the Appendix to this handbook.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145529Z" creationid="Marco Marega" creationdate="20180218T145529Z">
+        <seg>Se necessario, questi sono trattati nella sezione “Lavorare con database HSQLDB esterni” nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
