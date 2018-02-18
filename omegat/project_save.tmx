@@ -6918,6 +6918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, fields already created cannot be moved by this method either.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143635Z" creationid="Marco Marega" creationdate="20180218T143635Z">
+        <seg>In ogni caso, i campi già creati non possono essere spostati nemmeno con questo metodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, for a simple summary of a media collection at home, you could create easier databases with the wizard; that might be sufficient for home use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153009Z" creationid="Marco Marega" creationdate="20180127T153009Z">
@@ -9682,6 +9690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195005Z" creationid="Marco Marega" creationdate="20171125T195005Z">
         <seg>Si possono inserire solo cifre 0-9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the entry of direct SQL commands can insert a field into a specific position in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143536Z" creationid="Marco Marega" creationdate="20180218T143536Z">
+        <seg>Solamente l'inserimento diretto di comandi SQL permette di inserire un campo in una specifica posizione all'interno della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14442,6 +14458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213712Z" creationid="Marco Marega" creationdate="20171216T213712Z">
         <seg>Per creare un campo di controllo tabella nel formulario principale, dovete ora selezionare il formulario principale nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display a different sequence requires a query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143431Z" creationid="Marco Marega" creationdate="20180218T143431Z">
+        <seg>Per visualizzare una sequenza differente è necessaria una ricerca.</seg>
       </tuv>
     </tu>
     <tu>
