@@ -6094,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For these, the Query Design window offers an extra possibility of editing the query in SQL Mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144924Z" creationid="Marco Marega" creationdate="20180218T144924Z">
+        <seg>Per queste, la finestra Query Design offre la possibilità aggiuntiva di modificare la ricerca in vista SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose we return to Design Mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145450Z" creationid="Manuel Frassinetti" creationdate="20171202T150313Z">
@@ -10090,6 +10098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T170500Z" creationid="Manuel Frassinetti" creationdate="20171125T170500Z">
         <seg>Le ricerche possono essere inserite sia nella GUI che direttamente come codice SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries cannot be created here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144636Z" creationid="Marco Marega" creationdate="20180218T144636Z">
+        <seg>Le Ricerche non possono essere create da qui.</seg>
       </tuv>
     </tu>
     <tu>
