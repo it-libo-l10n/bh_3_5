@@ -9158,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No calculation is possible using a NULL field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142414Z" creationid="Marco Marega" creationdate="20180218T142414Z">
+        <seg>Con un campo a ZERO non è possibile effettuare alcun calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No data will be added; the current record will just be repeatedly rewritten.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221854Z" creationid="Marco Marega" creationdate="20171217T221854Z">
@@ -13642,6 +13650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224214Z" creationid="Marco Marega" creationdate="20180112T224214Z">
         <seg>Questo capitolo spiega in dettaglio molti di questi passaggi, usando come esempio un database per una biblioteca: &lt;f0&gt;media_without_macros&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This contrasts with spreadsheets, in which empty fields automatically contain the value 0 (zero)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142532Z" creationid="Marco Marega" creationdate="20180218T142532Z">
+        <seg>Questo differisce dai fogli elettronici, nei quali le celle vuote automaticamente contengono il valore 0 (zero)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
