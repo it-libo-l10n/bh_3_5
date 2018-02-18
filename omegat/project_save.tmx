@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;First we require a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Example&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;table&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T211235Z" creationid="MicrosoftSucks" creationdate="20180218T211235Z">
+        <seg>&lt;f0&gt;In primo luogo abbiamo bisogno di una tabella &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Example&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For a&lt;/f0&gt;n explanation of the functions, &lt;f1&gt;see&lt;/f1&gt; &lt;f2&gt;“&lt;/f2&gt;&lt;bf3&gt;Query enhancement using SQL Mode&lt;/bf3&gt;“ &lt;f4&gt;on page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;134&lt;/bf6&gt;&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175354Z" creationid="Manuel Frassinetti" creationdate="20171214T175354Z">
@@ -14458,6 +14466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215800Z" creationid="Marco Marega" creationdate="20171217T220247Z">
         <seg>Ciò richiede una funzione di ricerca quando un utente desidera prendere in prestito &lt;f0&gt;un articolo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This table contains a primary key and 2 filter fields (of course you can have more if you want): &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;"ID"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; (primary key), &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Filter_1&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Filter_2&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T211441Z" creationid="MicrosoftSucks" creationdate="20180218T211441Z">
+        <seg>Questa tabella contiene una chiave primaria e due campi filtro (naturalmente e' possibile averne di piu' se lo desiderate): &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;"ID"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; (chiave primaria), &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Filter_1&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Filter_2&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;.</seg>
       </tuv>
     </tu>
     <tu>
