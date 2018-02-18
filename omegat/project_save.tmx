@@ -11310,6 +11310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that those records will never be displayed that have no title entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T214007Z" creationid="MicrosoftSucks" creationdate="20180218T214007Z">
+        <seg>Questo significa che i campi senza voce titolo non verranno mai visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That way, if readers move up a class at the end of each school year, you can simply change the year entry for everyone.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150048Z" creationid="Marco Marega" creationdate="20180203T150048Z">
@@ -13810,6 +13818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104714Z" creationid="Manuel Frassinetti" creationdate="20171202T104714Z">
         <seg>Questo mostra anche che sono possibili nuovi inserimenti.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This assumption does not hold however if the &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;Title&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; field of any record is empty (contains &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;NULL)&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213857Z" creationid="MicrosoftSucks" creationdate="20180218T213857Z">
+        <seg>Questa ipotesi tuttavia non e' valida se il campo &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;Title&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; di qualsiasi record e' vuoto (contiene &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;NULL)&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;.</seg>
       </tuv>
     </tu>
     <tu>
