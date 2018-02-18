@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data filtering using the GUI &lt;f0&gt;is&lt;/f0&gt; described in the &lt;f1&gt;chapter&lt;/f1&gt; on data entry into tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205241Z" creationid="MicrosoftSucks" creationdate="20180218T205241Z">
+        <seg>Il filtraggio dati usando l'interfaccia grafica &lt;f0&gt;e'&lt;/f0&gt; descritto nel &lt;f1&gt;capitolo&lt;/f1&gt; sull'inserimento dati nelle tabelle	.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data input directly into a table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090422Z" creationid="Marina Latini" creationdate="20171003T090422Z">
@@ -13658,6 +13666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163803Z" creationid="Manuel Frassinetti" creationdate="20171216T163803Z">
         <seg>Sono stati utilizzati nella ricerca precedente per creare raggruppando un record separato per ciascun supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This &lt;f0&gt;chapter&lt;/f0&gt; describes some solutions for problems that arise for many datsbase users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205011Z" creationid="MicrosoftSucks" creationdate="20180218T205011Z">
+        <seg>Questo &lt;f0&gt;capitolo&lt;/f0&gt; descrive alcune soluzioni a problemi che si manifestano per molti utenti di database.</seg>
       </tuv>
     </tu>
     <tu>
