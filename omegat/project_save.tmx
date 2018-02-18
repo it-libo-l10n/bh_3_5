@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no filter value is given, the query shows all records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210453Z" creationid="MicrosoftSucks" creationdate="20180218T210453Z">
+        <seg>Se non vengono impostati valori per il filtro la query .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If one field in a query is &lt;f0&gt;associated with&lt;/f0&gt; a function, all the remaining fields mentioned in the query must also be associated with functions if they are to be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180147Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
@@ -12978,6 +12986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163812Z" creationid="Manuel Frassinetti" creationdate="20171216T162736Z">
         <seg>La ricerca ora restituisce per ogni supporto ancora in prestito le ammende che sono maturate, in base agli avvisi di richiamo emessi e al campo di moltiplicazione aggiuntivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query shows from its underlying table only the records that correspond to the filter values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210536Z" creationid="MicrosoftSucks" creationdate="20180218T210359Z">
+        <seg>La query restituisce dalla tabella sottostante solo i record corrispondentiai valori del filtro.</seg>
       </tuv>
     </tu>
     <tu>
