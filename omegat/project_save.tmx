@@ -3430,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally, in the case of primary keys, the field cannot be NULL under any circumstances.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141442Z" creationid="Marco Marega" creationdate="20180218T141442Z">
+        <seg>In aggiunta, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere vuoto (NULL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additionally,&lt;f1&gt; t&lt;/f1&gt;&lt;f2&gt;here are over 70 &lt;/f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;f4&gt;pelling&lt;/f4&gt;, &lt;f5&gt;hyphenation&lt;/f5&gt;, and &lt;f6&gt;thesaurus&lt;/f6&gt; dictionaries &lt;f7&gt;available for languages, and dialects that do not have a localized program interface.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142609Z" creationid="Marina Latini" creationdate="20171213T142609Z">
@@ -3658,6 +3666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114110Z" creationid="Marina Latini" creationdate="20171213T114110Z">
         <seg>Un esempio di questo tipo è la finestra di dialogo Cerca e Sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An exceptional circumstance for a unique index is when there is no entry into a field (the field is NULL).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141719Z" creationid="Marco Marega" creationdate="20180218T141719Z">
+        <seg>Una circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è NULL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8094,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this field each value may occur only once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141342Z" creationid="Marco Marega" creationdate="20180218T141342Z">
+        <seg>In questo campo ogni valore può essere presente solo una volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this table all fields that are directly entered are assumed not to be also in use for other media with the same content.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153243Z" creationid="Marco Marega" creationdate="20180127T153243Z">
@@ -10850,6 +10874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161526Z" creationid="steevie" creationdate="20180216T161526Z">
         <seg>Potete attivare automaticamente un filtro come questo quando lanciate il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such an index is usually the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141313Z" creationid="Marco Marega" creationdate="20180218T141313Z">
+        <seg>Di solito un indice di questo tipo è la chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
