@@ -3662,6 +3662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An index speeds up searching and can also be used to prevent duplicate entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135438Z" creationid="Marco Marega" creationdate="20180218T135438Z">
+        <seg>Un indice velocizza le ricerche e può essere usato anche per prevenire l'inserimento di valori duplicati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An input mask is used to control input into the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193158Z" creationid="Marco Marega" creationdate="20171125T193158Z">
@@ -5178,6 +5186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
         <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each index has a defined sort order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135654Z" creationid="Marco Marega" creationdate="20180218T135654Z">
+        <seg>Ogni indice ha un suo ordine ben definito.</seg>
       </tuv>
     </tu>
     <tu>
