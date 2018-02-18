@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the fields of the &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Media&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Example&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;table&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;, which is to be filtered, are of the type &lt;/f27&gt;&lt;f28&gt;VA&lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;RCHAR&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;, the fields &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;Filter_1&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; and &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;Filter_2&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; are also of this type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T211804Z" creationid="MicrosoftSucks" creationdate="20180218T211804Z">
+        <seg>Dal momento che i campi della tabella &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Media&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Example&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;, che deve essere filtrata, sono di tipo &lt;/f27&gt;&lt;f28&gt;VA&lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;RCHAR&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;, i campi &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;Filter_1&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; and &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;Filter_2&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; sono anch'essi di questo tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the table control is not continuously updated, newly loaned media will remain within it until the &lt;f2&gt;OK&lt;/f2&gt; update button is used either to select a new name or to transfer the data into the second sub-subform.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204747Z" creationid="Marco Marega" creationdate="20171229T204747Z">
