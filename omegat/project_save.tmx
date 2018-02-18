@@ -6678,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here we describe a solution to a problem which many users have raised: how to use listboxes to search for the content of fields in tables, which then appear filtered in the underlying form section and can be edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205802Z" creationid="MicrosoftSucks" creationdate="20180218T205802Z">
+        <seg>Qui descriviamo la soluzione ad un problema segnalato da molti utenti: come usare caselle di riepilogo per ricercare nelle tabelle il contenuto di campi che in seguito compaia filtrato nel sottostante formulario e possa essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we describe how to do it using form properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225718Z" creationid="Marco Marega" creationdate="20171214T225718Z">
