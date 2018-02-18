@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3658,6 +3658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193158Z" creationid="Marco Marega" creationdate="20171125T193158Z">
         <seg>Per controllare l'inserimento nel campo viene usata una maschera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An upgrade (longer text field, larger numeric range) is unproblematic as all the values already entered will fit the new type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135139Z" creationid="Marco Marega" creationdate="20180218T135139Z">
+        <seg>Un incremento (un campo di testo più lungo, un tipo numerico più esteso) non è problematico in quanto tutti i valori già inseriti troveranno spazio nel nuovo tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,6 +13038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are limits to the changes you can make in the field type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135002Z" creationid="Marco Marega" creationdate="20180218T135002Z">
+        <seg>Ci sono dei limiti alle modifiche che potete apportare al tipo di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no push buttons, option boxes, or graphical controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213953Z" creationid="Marco Marega" creationdate="20171213T213953Z">
@@ -13146,6 +13162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140135Z" creationid="Marco Marega" creationdate="20180203T140135Z">
         <seg>Perciò è necessaria tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore you cannot have a second field with the name &lt;f0&gt;ID&lt;/f0&gt; as a foreign key in the Address table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T134933Z" creationid="Marco Marega" creationdate="20180218T134933Z">
+        <seg>Quindi nella tabella Address non potete avere un secondo campo con il nome &lt;f0&gt;ID&lt;/f0&gt; come chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
