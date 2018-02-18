@@ -12310,6 +12310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The index will prevent an item from being marked as returned twice with the same date but it will do nothing else.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143236Z" creationid="Marco Marega" creationdate="20180218T143236Z">
+        <seg>L'indice previene che un articolo sia segnato come restituito due volte con la stessa data, ma non fa altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The information provided by using the More button is not very illuminating for the normal database user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150054Z" creationid="Manuel Frassinetti" creationdate="20171216T150054Z">
@@ -14594,6 +14602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214026Z" creationid="Marco Marega" creationdate="20171226T214026Z">
         <seg>Sfortunatamente quest'ordine di visualizzazione non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately this will not work because the return date initially has no value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143013Z" creationid="Marco Marega" creationdate="20180218T143013Z">
+        <seg>Sfortunatamente ciò non funziona poichè la data di reso inizialmente non ha un valore.</seg>
       </tuv>
     </tu>
     <tu>
