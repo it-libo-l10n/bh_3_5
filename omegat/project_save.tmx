@@ -3918,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the same time you can choose the Sort order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140656Z" creationid="Marco Marega" creationdate="20180218T140656Z">
+        <seg>Allo stesso tempo potete scegliere l'Ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-incrementing values with external HSQLDB</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103011Z" creationid="Marina Latini" creationdate="20171207T103011Z">
@@ -5470,6 +5478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: The Index is defined as Unique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140732Z" creationid="Marco Marega" creationdate="20180218T140732Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: L'Indice è definito come Univoco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
@@ -6758,6 +6774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However in Figure &lt;t0&gt;10&lt;/t0&gt;, the Index detail &lt;f1&gt;Unique&lt;/f1&gt; has been checked, so that the &lt;f2&gt;LastName&lt;/f2&gt; field together with the &lt;f3&gt;FirstName&lt;/f3&gt; field can only have entries that do not already occur in that combination.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141054Z" creationid="Marco Marega" creationdate="20180218T141054Z">
+        <seg>In ogni caso nella Figura &lt;t0&gt;10&lt;/t0&gt;, la casella &lt;f1&gt;Univoco&lt;/f1&gt; dell'Indice è stata selezionata, in modo che la combinazione dei campi &lt;f2&gt;LastName (Cognome)&lt;/f2&gt; e &lt;f3&gt;FirstName (Nome)&lt;/f3&gt; possa avere valori che non siano già presenti nella stessa combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However its data source can be another table or a query (or a SQL command).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210111Z" creationid="Marco Marega" creationdate="20171215T210003Z">
@@ -7794,6 +7818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080226Z" creationid="steevie" creationdate="20180206T080226Z">
         <seg>Quindi in pratica il postcode stesso potrebbe essere cancellato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In principle, an index can also be created from table fields that do not contain unique values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140815Z" creationid="Marco Marega" creationdate="20180218T140815Z">
+        <seg>In linea di principio, un indice può essere creato anche da campi di una tabella che non contengono valori univoci.</seg>
       </tuv>
     </tu>
     <tu>
