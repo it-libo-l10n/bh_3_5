@@ -2782,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can also filter f&lt;/f0&gt;ields &lt;f1&gt;that&lt;/f1&gt; occur in the &lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;Example&lt;/f3&gt; table &lt;f4&gt;only as&lt;/f4&gt; foreign keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T212248Z" creationid="MicrosoftSucks" creationdate="20180218T212248Z">
+        <seg>&lt;f0&gt;Potete anche filtrare i c&lt;/f0&gt;ampi &lt;f1&gt;che&lt;/f1&gt; compaiono nella tabella &lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;Example&lt;/f3&gt;  &lt;f4&gt;solo come&lt;/f4&gt; chiavi esterne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can move through a form using either the mouse or the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ab&lt;/f3&gt;&lt;f4&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223537Z" creationid="Marco Marega" creationdate="20171214T223537Z">
