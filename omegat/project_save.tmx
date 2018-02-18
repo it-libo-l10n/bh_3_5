@@ -5406,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: In a media database, the media number and the loan date are entered when the item is loaned out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142647Z" creationid="Marco Marega" creationdate="20180218T142647Z">
+        <seg>Esempio: In un database di supporti, il numero del supporto e la data del prestito vengono inserite quando l'articolo viene preso in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explorer on/off</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160336Z" creationid="Marina Latini" creationdate="20171206T160336Z">
@@ -8082,6 +8090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225137Z" creationid="Marco Marega" creationdate="20171214T225137Z">
         <seg>Nel campo di controllo tabella in alto, in certi casi lo stesso supporto può apparire più di una sola volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In theory, an index using the fields Media_ID and ReturnDate could easily prevent the same item from being loaned out repeatedly without the return date being noted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142916Z" creationid="Marco Marega" creationdate="20180218T142916Z">
+        <seg>In teoria, un indice che usa i campi Media_ID e ReturnDate potrebbe facilmente prevenire che lo stesso articolo venga dato in prestito ripetutamente senza che prima sia annotata la data del reso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15042,6 +15058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183104Z" creationid="Marco Marega" creationdate="20171014T182801Z">
         <seg>Quando vengono richiamate le proprietà del formulario usanndo il menu contestuale del Navigatore formulario o di un campo di controllo, appare una finestra &lt;f0&gt;Proprietà modulo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the item is returned, a return date is entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142716Z" creationid="Marco Marega" creationdate="20180218T142716Z">
+        <seg>Quando l'articolo viene restituito, viene inserita la data del reso.</seg>
       </tuv>
     </tu>
     <tu>
