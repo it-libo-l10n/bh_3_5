@@ -5678,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Access to Index Design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140107Z" creationid="Marco Marega" creationdate="20180218T140107Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Access to Index Design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
@@ -7018,6 +7026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193643Z" creationid="Marco Marega" creationdate="20171017T193643Z">
         <seg>Se viene premuta a lungo una freccia del pulsante di selezione, si determina l'incremento del valore inserito nella casella oltre al prossimo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a table is displayed without sorting, the sort order will be according to the content of the fields specified in the index.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135900Z" creationid="Marco Marega" creationdate="20180218T135900Z">
+        <seg>Se una tabella viene visualizzata senza specificare l'ordinamento, l'ordine corrisponderà a quello del contenuto dei campi specificati nell'indice.</seg>
       </tuv>
     </tu>
     <tu>
