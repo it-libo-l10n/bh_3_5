@@ -5686,6 +5686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Creating a new Index</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140334Z" creationid="Marco Marega" creationdate="20180218T140334Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Creazione di un nuovo indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
@@ -9374,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Indexes dialog (Figure &lt;t0&gt;9&lt;/t0&gt;), click &lt;f1&gt;New Index&lt;/f1&gt; to create an index in addition to the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140428Z" creationid="Marco Marega" creationdate="20180218T140428Z">
+        <seg>Nella finestra di dialogo Indici (Figura &lt;t0&gt;9&lt;/t0&gt;), fate clic su &lt;f1&gt;Nuovo indice&lt;/f1&gt; per creare un indice in aggiunta alla chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the left side is the main form with a view to searching and entry of new media.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141311Z" creationid="Marco Marega" creationdate="20171231T141311Z">
@@ -11174,6 +11190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;Index field&lt;/f1&gt; specifies which field or fields are to be used for this index.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140631Z" creationid="Marco Marega" creationdate="20180218T140631Z">
+        <seg>Il &lt;f1&gt;Campo indice&lt;/f1&gt; specifica quale campo o quali campi devono essere usati per questo indice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;Length&lt;/f1&gt; field must first be defined as a time field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154314Z" creationid="Marco Marega" creationdate="20180127T154314Z">
@@ -12474,6 +12498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223242Z" creationid="Marco Marega" creationdate="20171205T223242Z">
         <seg>Il controllo barra di navigazione visualizza gli stessi &lt;f5&gt;pulsanti&lt;/f5&gt; ad eccezione &lt;f6&gt;di&lt;/f6&gt; Trova Record, Filtro basato su formula e &lt;f7&gt;Sorgente dati&lt;/f7&gt; come tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new index is automatically given the name &lt;f0&gt;index1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140519Z" creationid="Marco Marega" creationdate="20180218T140519Z">
+        <seg>Al nuovo indice viene assegnato automaticamente il nome &lt;f0&gt;indice1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
