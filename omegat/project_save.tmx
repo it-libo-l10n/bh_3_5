@@ -11134,6 +11134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That is only possible with directly entered SQL commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144147Z" creationid="Marco Marega" creationdate="20180218T144147Z">
+        <seg>Ciò è possibile solo con comandi SQL inseriti direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That is why a Group name appears here, under which the options can be addressed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210904Z" creationid="Marco Marega" creationdate="20171109T210904Z">
@@ -14514,6 +14522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213301Z" creationid="Marco Marega" creationdate="20171226T213301Z">
         <seg>Per assicurare il funzionamento della casella di riepilogo della Fig&lt;f0&gt;ura&lt;/f0&gt; &lt;t1&gt;39&lt;/t1&gt;, entrambi i formulari secondari devono essere posizionati un livello più in basso, come formulari secondari di un formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enter SQL commands directly, go to &lt;f0&gt;Tools &gt; &lt;/f0&gt;&lt;f1&gt;SQL&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144222Z" creationid="Marco Marega" creationdate="20180218T144222Z">
+        <seg>Per inserire direttamente dei comandi SQL, andate in &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;SQL&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
