@@ -12558,6 +12558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The lower area shows the result or, if appropriate, the reason why the command failed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144620Z" creationid="Marco Marega" creationdate="20180218T144620Z">
+        <seg>L'area inferiore visualizza il risultato, o, se del caso, il motivo per cui il comando ha fallito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The lower one shows all the fields, so that it is apparent which person and medium the return is for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
@@ -15506,6 +15514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210544Z" creationid="Marco Marega" creationdate="20171026T210544Z">
         <seg>Potete inserire un'ora fissa, ma sfortunatamente non (ancora) l'ora al momento del salvataggio del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then enter commands into the upper area of the window (shown in Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144519Z" creationid="Marco Marega" creationdate="20180218T144519Z">
+        <seg>Poi potete inserire i comandi nell'area superiore della finestra (mostrata nella Figura &lt;t0&gt;11&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
