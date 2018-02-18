@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NULL &lt;/f0&gt;&lt;f1&gt;is used in databases to designate an empty cell, one that contains nothing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142331Z" creationid="Marco Marega" creationdate="20180218T142331Z">
+        <seg>Nei database &lt;f0&gt;ZERO&lt;/f0&gt;&lt;f1&gt; è utilizzato per indicare una cella vuota, che non contiene niente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
