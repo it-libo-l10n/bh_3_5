@@ -13512,8 +13512,8 @@
       <tuv lang="EN">
         <seg>Therefore you cannot have a second field with the name &lt;f0&gt;ID&lt;/f0&gt; as a foreign key in the Address table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T134933Z" creationid="Marco Marega" creationdate="20180218T134933Z">
-        <seg>Quindi nella tabella Address non potete avere un secondo campo con il nome &lt;f0&gt;ID&lt;/f0&gt; come chiave esterna.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145627Z" creationid="Marco Marega" creationdate="20180218T134933Z">
+        <seg>Quindi nella tabella Adress non potete avere un secondo campo con il nome &lt;f0&gt;ID&lt;/f0&gt; come chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
