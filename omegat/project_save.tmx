@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an index is created for one field only, the uniqueness applies to that field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141218Z" creationid="Marco Marega" creationdate="20180218T141218Z">
+        <seg>Se un indice viene creato per un solo campo, l'univocità si applica a quel campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
@@ -10674,6 +10682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221058Z" creationid="Marco Marega" creationdate="20180126T221058Z">
         <seg>Quindi, per una determinata coppia di questi valori, esiste solo un codice ISBN e un solo Autore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, for example, Robert Müller and Robert Maier are possible, and likewise Robert Müller and Eva Müller.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141132Z" creationid="Marco Marega" creationdate="20180218T141132Z">
+        <seg>Quindi, ad esempio, Robert Müller e Robert Maier sono possibili, così come Robert Müller e Eva Müller.</seg>
       </tuv>
     </tu>
     <tu>
