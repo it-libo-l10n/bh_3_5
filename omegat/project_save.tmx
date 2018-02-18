@@ -11798,6 +11798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basis for this filtering is an editable query (see the chapter on queries) and an additional table, in which the data to be filtered are stored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210218Z" creationid="MicrosoftSucks" creationdate="20180218T210218Z">
+        <seg>La base per questo filtraggio e' una query modificabile (vedi capitolo sulle queries) e una tabella aggiuntiva nella quale sono memorizzati i dati da filtrare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
