@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A summary of the possible commands for the built-in HSQLDB engine can be found at &lt;a0&gt;http://www.hsqldb.org/doc/1.8/guide/ch09.html&lt;/a0&gt;&lt;f1&gt;.&lt;/f1&gt; The contents are described in the following sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145214Z" creationid="Marco Marega" creationdate="20180218T145214Z">
+        <seg>Un riepilogo dei possibili comandi accettati dal motore di database integrato HSQLDB si può trovare all'indirizzo &lt;a0&gt;http://www.hsqldb.org/doc/1.8/guide/ch09.html&lt;/a0&gt;&lt;f1&gt;.&lt;/f1&gt; I contenuti sono descritti nelle sezioni che seguono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A temporary change in order can be carried out during data entry by using the same method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224315Z" creationid="Marco Marega" creationdate="20171214T224315Z">
@@ -5514,6 +5522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140732Z" creationid="Marco Marega" creationdate="20180218T140732Z">
         <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: L'Indice è definito come Univoco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Dialog for direct entry of SQL commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144954Z" creationid="Marco Marega" creationdate="20180218T144954Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Finestra di dialogo per l'inserimento diretto di comandi SQL</seg>
       </tuv>
     </tu>
     <tu>
