@@ -1806,6 +1806,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211759Z" creationid="Marco Marega" creationdate="20180219T211759Z">
+        <seg>&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;CURRENT_TIME, NOW, CURTIME()&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211819Z" creationid="Marco Marega" creationdate="20180219T211819Z">
+        <seg>&lt;f0&gt;CURRENT_TIME, NOW, CURTIME()&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chang&lt;/f0&gt;&lt;f1&gt;ed&lt;/f1&gt;: This event takes place when a control is modified and afterwards loses the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195314Z" creationid="Marco Marega" creationdate="20171017T195314Z">
@@ -3714,6 +3730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allowed SQL functions: &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211748Z" creationid="Marco Marega" creationdate="20180219T211748Z">
+        <seg>Funzioni SQL permesse: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,6 +16090,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090829Z" creationid="Marina Latini" creationdate="20171003T090829Z">
         <seg>Database dBase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for the current data time stamp</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211945Z" creationid="Marco Marega" creationdate="20180219T211854Z">
+        <seg>per la marcatura temporale con l'orario corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for the current date</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211758Z" creationid="Marco Marega" creationdate="20180219T211758Z">
+        <seg>per la data attuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for the current time</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211904Z" creationid="Marco Marega" creationdate="20180219T211817Z">
+        <seg>per l'orario corrente</seg>
       </tuv>
     </tu>
     <tu>
