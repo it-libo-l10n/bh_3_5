@@ -2118,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hexadecimal system: Numbers are based on 16.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213143Z" creationid="Marco Marega" creationdate="20180219T213143Z">
+        <seg>&lt;f0&gt;Sistema esadecimale: i numeri sono in base 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;&lt;f1&gt;n addition to&lt;/f1&gt; the properties already described on page &lt;bf2&gt;70&lt;/bf2&gt;, the following features are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214750Z" creationid="Marco Marega" creationdate="20171126T214750Z">
@@ -2398,10 +2406,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;N&lt;/f0&gt;&lt;f1&gt;ote&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213123Z" creationid="Marco Marega" creationdate="20180219T213123Z">
+        <seg>&lt;f0&gt;Nota&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;N&lt;/f0&gt;othing of significance.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T201717Z" creationid="Marco Marega" creationdate="20171017T201717Z">
         <seg>&lt;f0&gt;Niente&lt;/f0&gt;di significativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;NOT NULL:&lt;/f0&gt; The field value cannot be &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213043Z" creationid="Marco Marega" creationdate="20180219T213043Z">
+        <seg>&lt;f0&gt;NOT NULL:&lt;/f0&gt; Il valore del campo non può essere &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A mixed system &lt;s1/&gt;consisting of the numbers 0 to 9 and the letters a to f provides 16 possible digits for each column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213428Z" creationid="Marco Marega" creationdate="20180219T213428Z">
+        <seg>Un sistema misto &lt;s1/&gt;formato da numeri da 0 a 9 e da lettere da a ad f che rendono disponibili 16 possibili cifre per ciascuna colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A month calender for selecting dates can be included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T205956Z" creationid="Marco Marega" creationdate="20171026T205956Z">
@@ -3962,6 +3994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174239Z" creationid="Manuel Frassinetti" creationdate="20171214T173940Z">
         <seg>Come un criterio di ricerca, il Rientro_&lt;f0&gt;Data&lt;/f0&gt; è configurato a “È  &lt;f1&gt;VUOTO&lt;/f1&gt;”, come nel precedente esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As binary fields in practice need only be entered for images, you need to know the binary code of the image that is to serve as a default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213020Z" creationid="Marco Marega" creationdate="20180219T213020Z">
+        <seg>Dato che in pratica c'è il bisogno di inserire dei campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14218,6 +14258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224214Z" creationid="Marco Marega" creationdate="20180112T224214Z">
         <seg>Questo capitolo spiega in dettaglio molti di questi passaggi, usando come esempio un database per una biblioteca: &lt;f0&gt;media_without_macros&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This condition can only be given in the field definition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213114Z" creationid="Marco Marega" creationdate="20180219T213114Z">
+        <seg>Questa condizione può essere impostata solamente nella definizione del campo.</seg>
       </tuv>
     </tu>
     <tu>
