@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CREATE TABLE "Test"&lt;/f0&gt;: Create a table with the name "Test".&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204132Z" creationid="Marco Marega" creationdate="20180219T204132Z">
+        <seg>&lt;f0&gt;CREATE TABLE "Prova"&lt;/f0&gt;: Crea una tabella con il nome "Prova".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chang&lt;/f0&gt;&lt;f1&gt;ed&lt;/f1&gt;: This event takes place when a control is modified and afterwards loses the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195314Z" creationid="Marco Marega" creationdate="20171017T195314Z">
@@ -2946,6 +2954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135634Z" creationid="Marco Marega" creationdate="20171014T135634Z">
         <seg>&lt;f1&gt;Potete cambiare &lt;/f1&gt;questo nome immediatamente o in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;( )&lt;/f2&gt;: with the specified field names, field types and options.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204233Z" creationid="Marco Marega" creationdate="20180219T204233Z">
+        <seg>&lt;f2&gt;( )&lt;/f2&gt;: con i nomi, i tipi e le opzioni dei campi specificati.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194904Z" creationid="Marco Marega" creationdate="20171125T194904Z">
         <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CREATE TABLE "Test" ("ID" INT PRIMARY KEY, "Text" VARCHAR(50));</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204052Z" creationid="Marco Marega" creationdate="20180219T204052Z">
+        <seg>CREATE TABLE "Prova" ("ID" INT PRIMARY KEY, "Testo" VARCHAR(50));</seg>
       </tuv>
     </tu>
     <tu>
