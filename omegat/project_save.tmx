@@ -11294,6 +11294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tables in &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;format (such as CSV) are not writable in internal databases that are set up purely in &lt;f5&gt;MEMORY&lt;/f5&gt;, while Base cannot access &lt;f6&gt;TEMPORARY&lt;/f6&gt; or &lt;f7&gt;TEMP&lt;/f7&gt; tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205902Z" creationid="Marco Marega" creationdate="20180219T205902Z">
+        <seg>Le tabelle in formato &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt; (come quelle in CSV) non sono scrivibili nei database interni, che sono create puramente in &lt;f5&gt;MEMORY&lt;/f5&gt;, mentre Base non può accedere a tabelle di tipo &lt;f6&gt;TEMPORARY&lt;/f6&gt; o &lt;f7&gt;TEMP&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing entries using relationship definition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095536Z" creationid="Marina Latini" creationdate="20171207T095536Z">
