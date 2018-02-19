@@ -11854,6 +11854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The SQL commands are carried out in this case but the tables are not displayed (and therefore cannot be deleted) using the GUI, and data entered via SQL is likewise not visible to the query module of the GUI, unless the automatic deletion of the contents after the final commit is prevented.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210419Z" creationid="Marco Marega" creationdate="20180219T210419Z">
+        <seg>In questo caso i comandi SQL vengono eseguiti, ma, usando la GUI, le tabelle non vengono visualizzata (e quindi non possono essere cancellate), allo stesso modo i dati inseriti mediante SQL non sono visibili per il modulo ricerche della GUI, a meno che non sia disabilitata la cancellazione automatica dei contenuti dopo l'ultimo comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The SQL query for the list field can now be created through the graphical user interface by clicking on the button at the right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220629Z" creationid="Marco Marega" creationdate="20171210T220629Z">
