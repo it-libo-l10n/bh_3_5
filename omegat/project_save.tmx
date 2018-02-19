@@ -3278,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A hexadecimal example string is: '0004ff', which represents 3 bytes, first 0, then 4 and finally 255 (0xff).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212729Z" creationid="Marco Marega" creationdate="20180219T212729Z">
+        <seg>Una stringa esadecimale di esempio è: '0004ff', che rappresenta 3 byte, prima 0, poi 4 ed infine 255 (0xff).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A image control handles the entry and display of graphical material in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204231Z" creationid="Marco Marega" creationdate="20171118T204231Z">
@@ -6142,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For binary fields (images, etc.) any valid hexadecimal string in single quotes or &lt;f0&gt;NULL&lt;/f0&gt; is possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212523Z" creationid="Marco Marega" creationdate="20180219T212523Z">
+        <seg>Per i campi binari (immagini, ecc.) è ammessa qualsiasi stringa valida in formato esadecimale racchiusa tra virgolette singole, oppure &lt;f0&gt;ZERO&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For boolean Fields (yes/no) the expressions &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt; can be entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212052Z" creationid="Marco Marega" creationdate="20180219T212052Z">
@@ -6898,6 +6914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135113Z" creationid="Marco Marega" creationdate="20180203T135113Z">
         <seg>In queste non c'è necessità di avere gli indirizzi, in quanto gli allievi possono essere contattati tramite la scuola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here too, if you enter &lt;f0&gt;NULL&lt;/f0&gt;, do not use quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212309Z" creationid="Marco Marega" creationdate="20180219T212309Z">
+        <seg>Anche qui, se inserite &lt;f0&gt;ZERO&lt;/f0&gt;, non usate le virgolette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15602,6 +15626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172341Z" creationid="Manuel Frassinetti" creationdate="20171216T172341Z">
         <seg>Quando i dati vengono cercati in tabelle o formulari, la ricerca è generalmente limitata a una tabella o a un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When entering decimals, make sure that the decimal point is a dot (period) and not a comma.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212357Z" creationid="Marco Marega" creationdate="20180219T212357Z">
+        <seg>Quando inserite decimali, assicuratevi che il separatore sia un punto e non una virgola.</seg>
       </tuv>
     </tu>
     <tu>
