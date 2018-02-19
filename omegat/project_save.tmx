@@ -12206,6 +12206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default setting is &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB creates all tables in core memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204847Z" creationid="Marco Marega" creationdate="20180219T204847Z">
+        <seg>L'impostazione predefinita è &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB crea tutte le tabelle in memoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default values set here have nothing to do with the default values within the database itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143926Z" creationid="Marco Marega" creationdate="20180218T143926Z">
@@ -15898,6 +15906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
         <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[MEMORY | CACHED | [GLOBAL] TEMPORARY | TEMP | TEXT]:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204703Z" creationid="Marco Marega" creationdate="20180219T204703Z">
+        <seg>[MEMORY | CACHED | [GLOBAL] TEMPORARY | TEMP | TEXT]:</seg>
       </tuv>
     </tu>
     <tu>
