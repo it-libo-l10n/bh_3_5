@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice is based on Version 1.8.0 of HSQLDB.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203704Z" creationid="Marco Marega" creationdate="20180219T203704Z">
+        <seg>&lt;f0&gt;LibreOffice si basa sulla Versione 1.8.0 di HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114209Z" creationid="Marina Latini" creationdate="20171213T114209Z">
@@ -3182,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A further description is given in the installation packages for HSQLDB, which can be downloaded from &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://sourceforge.net/projects/hsqldb/files/hsqldb/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203903Z" creationid="Marco Marega" creationdate="20180219T203903Z">
+        <seg>Un'ulteriore descrizione viene fornita con i pacchetti d'installazione di HSQLDB, che si possono scaricare da &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://sourceforge.net/projects/hsqldb/files/hsqldb/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A graphical control by default has no Tab stop.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204736Z" creationid="Marco Marega" creationdate="20171118T204736Z">
@@ -3266,6 +3282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222712Z" creationid="Marco Marega" creationdate="20180112T222712Z">
         <seg>In questo modo è possibile creare una semplice rubrica per un uso privato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A simple command to create a usable table is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203952Z" creationid="Marco Marega" creationdate="20180219T203952Z">
+        <seg>Un semplice comando per creare una tabella utilizzabile è:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11182,6 +11206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table creation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203917Z" creationid="Marco Marega" creationdate="20180219T203917Z">
+        <seg>Creazione di una tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table name: Filter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221340Z" creationid="Marco Marega" creationdate="20171217T221340Z">
@@ -12078,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The currently available server version is 2.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203731Z" creationid="Marco Marega" creationdate="20180219T203731Z">
+        <seg>La versione attualmente disponibile del server è la 2.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cursor jumps from the end of a form to the next form on that page further down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212446Z" creationid="Marco Marega" creationdate="20171014T212446Z">
@@ -12426,6 +12466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203446Z" creationid="Marco Marega" creationdate="20171125T203446Z">
         <seg>La formattazione del campo &lt;f4&gt;Extension&lt;/f4&gt; con due cifre decimali non era certamente intenzionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The functions of the new version are more extensive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203805Z" creationid="Marco Marega" creationdate="20180219T203805Z">
+        <seg>Le funzioni della nuova versione sono maggiormente estese.</seg>
       </tuv>
     </tu>
     <tu>
