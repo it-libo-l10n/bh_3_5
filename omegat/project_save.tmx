@@ -3822,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another possibility would be to write the tables to the hard drive and use memory only to buffer access to the hard drive (&lt;f1&gt;CACHED&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205216Z" creationid="Marco Marega" creationdate="20180219T205216Z">
+        <seg>Un'altra possibilità sarebbe quella di scrivere le tabelle sul disco fisso e usare la memoria solo per accedere ai dati sul disco fisso (&lt;f1&gt;CACHED&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any fields which are not absolutely necessary for issuing loans for a new medium do not need a tab stop.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193633Z" creationid="Marco Marega" creationdate="20171212T193633Z">
@@ -14586,6 +14594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213241Z" creationid="Marco Marega" creationdate="20171029T213241Z">
         <seg>Questo campo serve da &lt;f3&gt;campo di visualizzazione&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting also applies to the tables that are written into the embedded database by LibreOffice Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205015Z" creationid="Marco Marega" creationdate="20180219T205015Z">
+        <seg>Questa impostazione si applica alle tabelle che vengono scritte nel database incorporato di LibreOffice Base.</seg>
       </tuv>
     </tu>
     <tu>
