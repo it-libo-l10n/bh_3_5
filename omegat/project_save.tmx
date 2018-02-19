@@ -15918,6 +15918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With two columns, you can have 16*16=256 possible values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213505Z" creationid="Marco Marega" creationdate="20180219T213505Z">
+        <seg>Con due colonne, potete avere 16*16=256 valori diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Within a form, the &lt;f0&gt;Tab&lt;/f0&gt; key is normally used for navigation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203914Z" creationid="Marco Marega" creationdate="20171016T203914Z">
