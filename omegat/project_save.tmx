@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CURRENT_TIMESTAMP, NOW&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211948Z" creationid="Marco Marega" creationdate="20180219T211948Z">
+        <seg>&lt;f0&gt;CURRENT_TIMESTAMP, NOW&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chang&lt;/f0&gt;&lt;f1&gt;ed&lt;/f1&gt;: This event takes place when a control is modified and afterwards loses the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195314Z" creationid="Marco Marega" creationdate="20171017T195314Z">
@@ -6134,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For boolean Fields (yes/no) the expressions &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt; can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212052Z" creationid="Marco Marega" creationdate="20180219T212052Z">
+        <seg>Per i campi di tipo Booleano (si/no) possono essere inserite le espressioni &lt;f0&gt;FALSE, TRUE, ZERO&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For controls, the names are taken directly from the names of the fields in the underlying table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215133Z" creationid="Marco Marega" creationdate="20171210T215133Z">
@@ -6250,6 +6266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215906Z" creationid="Marco Marega" creationdate="20171217T215906Z">
         <seg>Per le librerie, questo vale allo stesso modo per le cancellazioni o per modifiche complete del nominativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For numeric fields, any valid number in the range, or NULL is possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212232Z" creationid="Marco Marega" creationdate="20180219T212232Z">
+        <seg>Per i campi numerici è ammesso qualsiasi numero nell'intervallo, oppure ZERO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13906,6 +13930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
         <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These must be entered without single quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212126Z" creationid="Marco Marega" creationdate="20180219T212126Z">
+        <seg>Queste devono essere inserite senza virgolette.</seg>
       </tuv>
     </tu>
     <tu>
