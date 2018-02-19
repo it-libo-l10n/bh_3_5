@@ -6152,16 +6152,16 @@
       <tuv lang="EN">
         <seg>For binary fields (images, etc.) any valid hexadecimal string in single quotes or &lt;f0&gt;NULL&lt;/f0&gt; is possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212523Z" creationid="Marco Marega" creationdate="20180219T212523Z">
-        <seg>Per i campi binari (immagini, ecc.) è ammessa qualsiasi stringa valida in formato esadecimale racchiusa tra virgolette singole, oppure &lt;f0&gt;ZERO&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212819Z" creationid="Marco Marega" creationdate="20180219T212523Z">
+        <seg>Per i campi binari (immagini, ecc.) è ammessa qualsiasi stringa valida in formato esadecimale racchiusa tra virgolette singole, oppure &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For boolean Fields (yes/no) the expressions &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt; can be entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212052Z" creationid="Marco Marega" creationdate="20180219T212052Z">
-        <seg>Per i campi di tipo Booleano (si/no) possono essere inserite le espressioni &lt;f0&gt;FALSE, TRUE, ZERO&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212800Z" creationid="Marco Marega" creationdate="20180219T212052Z">
+        <seg>Per i campi di tipo Booleano (si/no) possono essere inserite le espressioni &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6184,8 +6184,8 @@
       <tuv lang="EN">
         <seg>For date and time fields, a date, a time, or a combination of the two can be entered in single quotes or else &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211608Z" creationid="Marco Marega" creationdate="20180219T211608Z">
-        <seg>Per i campi data e orario, possono essere inserite tra virgolette singole: date, orari, o combinazioni dei due, o altrimenti &lt;f0&gt;ZERO&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212753Z" creationid="Marco Marega" creationdate="20180219T211608Z">
+        <seg>Per i campi data e orario, possono essere inserite tra virgolette singole: date, orari, o combinazioni dei due, o altrimenti &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6288,8 +6288,8 @@
       <tuv lang="EN">
         <seg>For numeric fields, any valid number in the range, or NULL is possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212232Z" creationid="Marco Marega" creationdate="20180219T212232Z">
-        <seg>Per i campi numerici è ammesso qualsiasi numero nell'intervallo, oppure ZERO.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212806Z" creationid="Marco Marega" creationdate="20180219T212232Z">
+        <seg>Per i campi numerici è ammesso qualsiasi numero nell'intervallo, oppure NULL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6320,8 +6320,8 @@
       <tuv lang="EN">
         <seg>For text fields, you can enter text in single quotes or &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211026Z" creationid="Marco Marega" creationdate="20180219T211026Z">
-        <seg>Per i campi di testo, potete inserire del testo tra virgolette singole oppure &lt;f0&gt;ZERO&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212737Z" creationid="Marco Marega" creationdate="20180219T211026Z">
+        <seg>Per i campi di testo, potete inserire del testo tra virgolette singole oppure &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@
       <tuv lang="EN">
         <seg>Here too, if you enter &lt;f0&gt;NULL&lt;/f0&gt;, do not use quotes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212309Z" creationid="Marco Marega" creationdate="20180219T212309Z">
-        <seg>Anche qui, se inserite &lt;f0&gt;ZERO&lt;/f0&gt;, non usate le virgolette.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212812Z" creationid="Marco Marega" creationdate="20180219T212309Z">
+        <seg>Anche qui, se inserite &lt;f0&gt;NULL&lt;/f0&gt;, non usate le virgolette.</seg>
       </tuv>
     </tu>
     <tu>
