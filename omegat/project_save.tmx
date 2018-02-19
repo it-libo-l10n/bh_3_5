@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any request in this case shows a table without any contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210551Z" creationid="Marco Marega" creationdate="20180219T210551Z">
+        <seg>In questo caso qualsiasi richiesta visualizzerà una tabella priva di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice &lt;f0&gt;Base &lt;/f0&gt;will find this &lt;f1&gt;book&lt;/f1&gt; valuable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103201Z" creationid="Marina Latini" creationdate="20171207T103201Z">
@@ -11294,6 +11302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tables built directly with SQL are not immediately displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210638Z" creationid="Marco Marega" creationdate="20180219T210638Z">
+        <seg>Le tabelle create direttamente con SQL non vengono visualizzate immediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tables in &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;format (such as CSV) are not writable in internal databases that are set up purely in &lt;f5&gt;MEMORY&lt;/f5&gt;, while Base cannot access &lt;f6&gt;TEMPORARY&lt;/f6&gt; or &lt;f7&gt;TEMP&lt;/f7&gt; tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205902Z" creationid="Marco Marega" creationdate="20180219T205902Z">
@@ -15906,6 +15922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143715Z" creationid="Marina Latini" creationdate="20171213T143715Z">
         <seg>Potete usarlo, in conformità con i limiti della licenza &lt;is0/&gt;LGPL&lt;ie1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must either use &lt;f0&gt;View &gt; &lt;/f0&gt;&lt;f1&gt;Refresh Tables&lt;/f1&gt; or simply close the database and then reopen it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210737Z" creationid="Marco Marega" creationdate="20180219T210737Z">
+        <seg>Dovete indifferentemente usare &lt;f0&gt;Visualizza &gt; &lt;/f0&gt;&lt;f1&gt;Ricarica tabelle&lt;/f1&gt; o semplicemente chiudere e riaprire il database.</seg>
       </tuv>
     </tu>
     <tu>
