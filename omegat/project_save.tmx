@@ -15990,6 +15990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You must ensure that the date follows the American conventions (yyyy-mm-dd), that time has the format hh:mm:ss, and that a combined date/time value has the format yyyy-mm-dd hh:mm:ss.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211733Z" creationid="Marco Marega" creationdate="20180219T211733Z">
+        <seg>Dovete assicurarvi che le date seguano le convenzioni Americane (yyyy-mm-dd), che gli orari abbiano il formato hh:mm:ss, e che le combinazioni dei valori di date e orari abbiano il formato yyyy-mm-dd hh:mm:ss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You see only a frame around the graphic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215117Z" creationid="Marco Marega" creationdate="20171126T215117Z">
