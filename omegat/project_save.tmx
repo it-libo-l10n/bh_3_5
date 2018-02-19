@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;Constraint definition&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213709Z" creationid="Marco Marega" creationdate="20180219T213709Z">
+        <seg>&lt;Definizione dei vincoli&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;Field definition&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210801Z" creationid="Marco Marega" creationdate="20180219T210801Z">
@@ -14274,6 +14282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142532Z" creationid="Marco Marega" creationdate="20180218T142532Z">
         <seg>Questo differisce dai fogli elettronici, nei quali le celle vuote automaticamente contengono il valore 0 (zero)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This corresponds to 1 Byte (2&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;8&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;).&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213550Z" creationid="Marco Marega" creationdate="20180219T213550Z">
+        <seg>Queste corrispondono ad 1 Byte (2&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;8&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;).&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
