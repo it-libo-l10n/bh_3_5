@@ -10262,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PRIMARY KEY ( "Field_name 1" [,"Field_name 2"...] ) |</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214530Z" creationid="Marco Marega" creationdate="20180222T214530Z">
+        <seg>PRIMARY KEY ( "Nome_campo 1" [,"Nome_campo 2"...] ) |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085729Z" creationid="Marina Latini" creationdate="20171003T085729Z">
@@ -15214,6 +15222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNIQUE ( "Field_name 1" [,"Field_name 2"...] ) |</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214506Z" creationid="Marco Marega" creationdate="20180222T214506Z">
+        <seg>UNIQUE ( "Nome_campo1" [,"Nome_campo2"...] ) |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under &lt;f0&gt;Loans&lt;/f0&gt;, the fields in the Loans table are shown, under &lt;f1&gt;Readers&lt;/f1&gt; those of the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212125Z" creationid="Marco Marega" creationdate="20171216T212125Z">
@@ -16186,6 +16202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
         <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[CONSTRAINT "Name"]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214440Z" creationid="Marco Marega" creationdate="20180222T214440Z">
+        <seg>[CONSTRAINT "Nome"]</seg>
       </tuv>
     </tu>
     <tu>
