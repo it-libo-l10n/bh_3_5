@@ -3174,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f8&gt;[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}]:&lt;/f8&gt; In the case of a foreign key, this specifies what is to happen if, for example, the foreign record is deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215502Z" creationid="Marco Marega" creationdate="20180222T215502Z">
+        <seg>&lt;f8&gt;[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}]:&lt;/f8&gt; Nel caso di una chiave esterna, questo specifica cosa deve succedere se, ad esempio, il record esterno viene cancellato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;For larger libraries, general systems for libraries are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222809Z" creationid="Marco Marega" creationdate="20180128T222809Z">
