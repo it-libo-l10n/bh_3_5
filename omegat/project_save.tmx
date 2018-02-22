@@ -7934,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want a table of this type to contain data available for a whole session (from opening a database to closing it), choose &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222607Z" creationid="Marco Marega" creationdate="20180222T222607Z">
+        <seg>Se desiderate che una tabella di questo tipo mantenga i dati disponibili per un'intera sessione (dall'apertura del database fino alla sua chiusura), scegliete &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to alter only the labels, &lt;f0&gt;hold down&lt;/f0&gt; the &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; key &lt;f4&gt;and &lt;/f4&gt;click these controls directly or in the &lt;f5&gt;N&lt;/f5&gt;avigator, or &lt;f6&gt;right-click&lt;/f6&gt; on a field to call up the control properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220049Z" creationid="Marco Marega" creationdate="20171210T194417Z">
@@ -14242,6 +14250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162411Z" creationid="steevie" creationdate="20180216T162411Z">
         <seg>Questo interessa, ad esempio, la tabella Town, che ha una chiave esterna sia nella tabella Media che in Postcode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This allows you to create temporary records, which contain information for other actions to be carried out at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222456Z" creationid="Marco Marega" creationdate="20180222T222456Z">
+        <seg>Questo consente di creare dei record temporanei, che contengono le informazioni necessari ad eseguire ulteriori azioni in contemporanea.</seg>
       </tuv>
     </tu>
     <tu>
