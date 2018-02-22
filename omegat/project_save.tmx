@@ -16294,6 +16294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You need constraints when the relationship between tables or the index for certain fields must be defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222116Z" creationid="Marco Marega" creationdate="20180222T222116Z">
+        <seg>Avete bisogno di vincoli quando la relazione tra le tabelle o l'indice di determinati campi deve essere definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You see only a frame around the graphic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215117Z" creationid="Marco Marega" creationdate="20171126T215117Z">
