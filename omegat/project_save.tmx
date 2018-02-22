@@ -11534,6 +11534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table modification</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222638Z" creationid="Marco Marega" creationdate="20180222T222638Z">
+        <seg>Modifica di una Tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table name: Filter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221340Z" creationid="Marco Marega" creationdate="20171217T221340Z">
