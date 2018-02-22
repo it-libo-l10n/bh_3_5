@@ -3110,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;PRIMARY KEY ("Field_name"): &lt;/f3&gt;the field value must be unique and cannot be &lt;f4&gt;NULL&lt;/f4&gt; (primary key)&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214914Z" creationid="Marco Marega" creationdate="20180222T214914Z">
+        <seg>&lt;f3&gt;PRIMARY KEY ("Nome_campo"): &lt;/f3&gt; il valore inserito nel campo deve essere univoco e non può essere  &lt;f4&gt;NULL&lt;/f4&gt; (chiave primaria)&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;"ID" INT PRIMARY KEY, "Text" VARCHAR(50)&lt;/f4&gt;: Field name "ID" with the numeric type integer as the primary key, field name "Text" with the text type variable text length and the text size limited to 50 characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204533Z" creationid="Marco Marega" creationdate="20180219T204533Z">
@@ -3154,6 +3162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135258Z" creationid="Marco Marega" creationdate="20171014T135258Z">
         <seg>&lt;f6&gt;Scegliete&lt;/f6&gt; &lt;f7&gt;Nuovo&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &gt;&lt;/f9&gt;&lt;/f8&gt; &lt;f10&gt;Formulario&lt;/f10&gt; &lt;f11&gt;per creare un nuovo formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f6&gt;FOREIGN KEY ("Field_name") REFERENCES &lt;"other_table_name"&gt; ("Field_name"): &lt;/f6&gt;The specified fields of this table are linked to the fields of another table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215049Z" creationid="Marco Marega" creationdate="20180222T215049Z">
+        <seg>&lt;f6&gt;FOREIGN KEY ("Nome_campo") REFERENCES &lt;"nome_altra_tabella"&gt; ("Nome_campo"): &lt;/f6&gt;I campi specificati di questa tabella sono collegati ai campi di un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12538,6 +12554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T144714Z" creationid="Marco Marega" creationdate="20171231T144714Z">
         <seg>Il campo per i termini di ricerca si trova nel formulario &lt;f0&gt;Filter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt; i due campi di controllo &lt;f3&gt;tabella&lt;/f3&gt; (per gli autori e i sottotitoli) si trovano nel &lt;f4&gt;formulario secondario&lt;/f4&gt; del formulario principale MainForm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field value must be tested for referential integrity as foreign keys; that is, there must be a corresponding primary key in the other table, if a value is entered here.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215349Z" creationid="Marco Marega" creationdate="20180222T215349Z">
+        <seg>L'integrità referenziale come chiave esterna del valore del campo dev'essere verificata; il che significa che, se qui viene inserito un valore, nell'altra tabella deve esserci una chiave primaria corrispondente.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
