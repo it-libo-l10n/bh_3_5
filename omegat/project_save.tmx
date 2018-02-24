@@ -3062,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;&lt;s2/&gt;IDENTITY&lt;/f1&gt; means, that the field has the property AutoValue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223950Z" creationid="Marco Marega" creationdate="20180224T223950Z">
+        <seg>&lt;f1&gt;&lt;s2/&gt;IDENTITY&lt;/f1&gt; significa che il campo ha la proprietà Valore automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In addition to&lt;/f1&gt; the &lt;f2&gt;ID&lt;/f2&gt; (primary key) field and the &lt;f3&gt;Media_ID_BC&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;field&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;(entry of media using a bar-code scanner), all fields are to be used in the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202140Z" creationid="Marco Marega" creationdate="20171125T202140Z">
@@ -12946,6 +12954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T144714Z" creationid="Marco Marega" creationdate="20171231T144714Z">
         <seg>Il campo per i termini di ricerca si trova nel formulario &lt;f0&gt;Filter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt; i due campi di controllo &lt;f3&gt;tabella&lt;/f3&gt; (per gli autori e i sottotitoli) si trovano nel &lt;f4&gt;formulario secondario&lt;/f4&gt; del formulario principale MainForm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field must already be a primary key field to accept the property &lt;f0&gt;IDENTITY&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223855Z" creationid="Marco Marega" creationdate="20180224T223855Z">
+        <seg>Il campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
