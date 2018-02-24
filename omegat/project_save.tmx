@@ -5814,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FROM "Table_list"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145523Z" creationid="manuel" creationdate="20180224T145523Z">
+        <seg>FROM "Lista_tabella"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
@@ -16390,6 +16398,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[GROUP BY SQL-Expression [, ...]]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145615Z" creationid="manuel" creationdate="20180224T145615Z">
+        <seg>[GROUP BY espressione-SQL [, ...]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[HAVING SQL-Expression]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145630Z" creationid="manuel" creationdate="20180224T145630Z">
+        <seg>[HAVING espressione-SQL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[INTO [CACHED | TEMP &lt;s0/&gt;| TEXT] "new_Table"]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145454Z" creationid="manuel" creationdate="20180224T145454Z">
+        <seg>[INTO [CACHED | TEMP &lt;s0/&gt;| TEXT] "nuova_tabella"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[MEMORY | CACHED | [GLOBAL] TEMPORARY | TEMP | TEXT]:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204703Z" creationid="Marco Marega" creationdate="20180219T204703Z">
@@ -16410,6 +16442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214609Z" creationid="Marco Marega" creationdate="20180222T214609Z">
         <seg>[ON {DELETE | UPDATE}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[WHERE SQL-Expression]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145555Z" creationid="manuel" creationdate="20180224T145555Z">
+        <seg>[WHERE espressione-SQL]</seg>
       </tuv>
     </tu>
     <tu>
@@ -16506,6 +16546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195007Z" creationid="Marco Marega" creationdate="20171125T195007Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{ &lt;Select-Formulation&gt; | "Table_name".* | * } [, ...]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145439Z" creationid="manuel" creationdate="20180224T145439Z">
+        <seg>{ &lt;Select-Formulation&gt; | "Tabella_nome".* | * } [, ...]</seg>
       </tuv>
     </tu>
     <tu>
