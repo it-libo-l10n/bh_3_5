@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6926,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here is an example of the extensive possibilities available for posing questions to the database and specifying the type of result required:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145404Z" creationid="manuel" creationdate="20180224T145404Z">
+        <seg>Ecco un esempio delle ampie possibilità disponibili per porre domande al database e specificare il tipo di risultato richiesto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here it is also possible to correct an error retrospectively by deleting the line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161140Z" creationid="Marco Marega" creationdate="20171230T161140Z">
@@ -9834,6 +9842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133720Z" creationid="Marco Marega" creationdate="20171014T133720Z">
         <seg>Ora creerete un formulario su di una pagina vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now when you click the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Run&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; icon, the query runs the SQL commands directly.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145155Z" creationid="manuel" creationdate="20180224T145155Z">
+        <seg>Adesso quando fate clic su l'icona &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Esegui&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, La ricerca esegue direttamente il comandi SQL.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
