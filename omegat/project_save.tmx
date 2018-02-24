@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SELECT ALL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is the default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T174746Z" creationid="manuel" creationdate="20180224T174746Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SELECT ALL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; è la selezione standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SELECT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; begins the selection criteria.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114834Z" creationid="Manuel Frassinetti" creationdate="20171202T114834Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161824Z" creationid="Manuel Frassinetti" creationdate="20171218T161509Z">
         <seg>&lt;f0&gt;Come predefinito, le relazioni sono impostate come &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;relazioni interne&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;By doing this, you determine how the query data is sorted and hence what data will be shown.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T174719Z" creationid="manuel" creationdate="20180224T174719Z">
+        <seg>&lt;f0&gt;In questo modo, si determina come vengono ordinati i dati della ricerca e quindi quali dati verranno mostrati.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
