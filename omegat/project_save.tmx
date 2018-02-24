@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LIMIT 10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; shows only 10 records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T151332Z" creationid="manuel" creationdate="20180224T151332Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LIMIT 10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; mostra solo dieci record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;wo &lt;f7&gt;dialog&lt;/f7&gt;s appear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T085358Z" creationid="Manuel Frassinetti" creationdate="20171125T174439Z">
@@ -3690,6 +3698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231749Z" creationid="Marco Marega" creationdate="20171102T231749Z">
         <seg>Aggiungendo la parola chiave &lt;f0&gt;DISTINCT&lt;/f0&gt; ci si assicura che i nomi restituiti aventi dei duplicati, vengano mostrati solo una volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OFFSET 20&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; causes the display to begin at the 21st record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T151509Z" creationid="manuel" creationdate="20180224T151509Z">
+        <seg>Aggiungendo &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OFFSET 20&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; porta a mostrare dal ventunesimo record di dati.</seg>
       </tuv>
     </tu>
     <tu>
