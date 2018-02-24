@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DISTINCT&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; refers to the whole of the record that is accessed by the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T180553Z" creationid="manuel" creationdate="20180224T180553Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DISTINCT&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; si riferisce all'intero record di dati a cui accede la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;LIMIT 10 0&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; omits the first 10 records and displays all records starting from the 11th.&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T151010Z" creationid="manuel" creationdate="20180224T151010Z">
@@ -11394,6 +11402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170451Z" creationid="Manuel Frassinetti" creationdate="20171202T164412Z">
         <seg>Così ad esempio, il campo Nome è stato trascinato nella posizione direttamente prima del campo Prestito_data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So if, for example, the surname is asked for as well, records for ‘Peter Müller’ and ‘Peter Maier’ will count as distinct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T180719Z" creationid="manuel" creationdate="20180224T180719Z">
+        <seg>Quindi se, ad esempio, viene richiesto anche il cognome, i record di ‘Peter Müller’ e ‘Peter Maier’ conteranno come distinti.</seg>
       </tuv>
     </tu>
     <tu>
