@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ALTER TABLE "Addresses"&lt;/f0&gt;: Alter the table with the name "Addresses".&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222454Z" creationid="Marco Marega" creationdate="20180224T222454Z">
+        <seg>&lt;f0&gt;ALTER TABLE "Address"&lt;/f0&gt;: Modifica la tabella denominata "Address".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Add data only&lt;/f0&gt;: If you choose this option, an empty form will always be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210925Z" creationid="Marco Marega" creationdate="20171014T210925Z">
@@ -3150,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;ADD "First Name" VARCHAR(25)&lt;/f2&gt;: insert the field "FirstName" with a length of 25 characters.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222522Z" creationid="Marco Marega" creationdate="20180224T222522Z">
+        <seg>&lt;f2&gt;ADD "First Name" VARCHAR(25)&lt;/f2&gt;: inserisce il campo "FirstName" della lunghezza di 25 caratteri.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;t has no significance unless you need to access some part of the form using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135742Z" creationid="Marco Marega" creationdate="20171014T135742Z">
@@ -3218,6 +3234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192431Z" creationid="Marco Marega" creationdate="20171125T192431Z">
         <seg>&lt;f4&gt;Adatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;BEFORE "Name"&lt;/f4&gt;: before the field "Name".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222539Z" creationid="Marco Marega" creationdate="20180224T222539Z">
+        <seg>&lt;f4&gt;BEFORE "Name"&lt;/f4&gt;: prima del campo "Name".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,6 +3674,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215321Z" creationid="Marco Marega" creationdate="20171101T212240Z">
         <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ALTER TABLE "Addresses" ADD "First Name" VARCHAR(25) BEFORE "Name";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222431Z" creationid="Marco Marega" creationdate="20180224T222431Z">
+        <seg>ALTER TABLE "Address" ADD "First Name" VARCHAR(25) BEFORE "Name";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name" ADD [COLUMN] &lt;Field_definition&gt; [BEFORE "already_existing_field_name"];</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222803Z" creationid="Marco Marega" creationdate="20180224T222803Z">
+        <seg>ALTER TABLE "Nome_tabella" ADD [COLUMN] &lt;Definizione_campo&gt; [BEFORE "nome_campo_già_esistente"];</seg>
       </tuv>
     </tu>
     <tu>
@@ -13610,6 +13650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194804Z" creationid="Marco Marega" creationdate="20171210T194804Z">
         <seg>Le possibilità offerte dalle selezioni multiple dipendono quindi dalla scelta dei campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The possibility of specifying the position of additional fields after the creation of the table is not available in the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222629Z" creationid="Marco Marega" creationdate="20180224T222629Z">
+        <seg>La possibilità di specificare la posizione dei campi aggiuntivi dopo la creazione della tabella non è disponibile nella GUI.</seg>
       </tuv>
     </tu>
     <tu>
