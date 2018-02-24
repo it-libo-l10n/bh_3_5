@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;This limits the number of records to be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150603Z" creationid="manuel" creationdate="20180224T150603Z">
+        <seg>&lt;f0&gt;Questo riduce il numero di record di dati che verranno mostrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This site provides support for LibreOffice, among other programs:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
@@ -10936,8 +10944,8 @@
       <tuv lang="EN">
         <seg>SELECT [{LIMIT &lt;offset&gt; &lt;limit&gt; | TOP &lt;limit&gt;}][ALL | DISTINCT]</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150346Z" creationid="manuel" creationdate="20180224T150346Z">
-        <seg>SELECT [{LIMIT &lt;spostamento&gt; &lt;limiti&gt; | TOP &lt;limiti&gt;}][ALL | DISTINCT]</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150522Z" creationid="manuel" creationdate="20180224T150346Z">
+        <seg>SELECT [{LIMIT &lt;spostamento&gt; &lt;limite&gt; | TOP &lt;limite&gt;}][ALL | DISTINCT]</seg>
       </tuv>
     </tu>
     <tu>
@@ -16440,8 +16448,8 @@
       <tuv lang="EN">
         <seg>[LIMIT &lt;limit&gt; [OFFSET &lt;offset&gt;]];</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150128Z" creationid="manuel" creationdate="20180224T150128Z">
-        <seg>[LIMIT &lt;limiti&gt; [OFFSET &lt;spostamento&gt;]];</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150506Z" creationid="manuel" creationdate="20180224T150128Z">
+        <seg>[LIMIT &lt;limite&gt; [OFFSET &lt;spostamento&gt;]];</seg>
       </tuv>
     </tu>
     <tu>
@@ -16482,6 +16490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145555Z" creationid="manuel" creationdate="20180224T145555Z">
         <seg>[WHERE espressione-SQL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{LIMIT &lt;offset&gt; &lt;limit&gt; | TOP &lt;limit&gt;}]:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150456Z" creationid="manuel" creationdate="20180224T150456Z">
+        <seg>[{LIMIT &lt;spostamento&gt; &lt;limite&gt; | TOP &lt;limite&gt;}]:</seg>
       </tuv>
     </tu>
     <tu>
