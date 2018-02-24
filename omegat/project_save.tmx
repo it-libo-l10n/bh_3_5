@@ -10934,6 +10934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT [{LIMIT &lt;offset&gt; &lt;limit&gt; | TOP &lt;limit&gt;}][ALL | DISTINCT]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150346Z" creationid="manuel" creationdate="20180224T150346Z">
+        <seg>SELECT [{LIMIT &lt;spostamento&gt; &lt;limiti&gt; | TOP &lt;limiti&gt;}][ALL | DISTINCT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SHUTDOWN COMPACT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T153846Z" creationid="steevie" creationdate="20180205T153846Z">
@@ -16426,6 +16434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145454Z" creationid="manuel" creationdate="20180224T145454Z">
         <seg>[INTO [CACHED | TEMP &lt;s0/&gt;| TEXT] "nuova_tabella"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[LIMIT &lt;limit&gt; [OFFSET &lt;offset&gt;]];</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150128Z" creationid="manuel" creationdate="20180224T150128Z">
+        <seg>[LIMIT &lt;limiti&gt; [OFFSET &lt;spostamento&gt;]];</seg>
       </tuv>
     </tu>
     <tu>
