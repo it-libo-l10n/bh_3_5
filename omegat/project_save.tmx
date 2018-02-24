@@ -6718,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For these field type descriptions, see the Appendix to this handbook.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224123Z" creationid="Marco Marega" creationdate="20180224T224123Z">
+        <seg>Per la descrizione di questi tipi di campo, vedete l'Appendice di questo manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For these, the Query Design window offers an extra possibility of editing the query in SQL Mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144924Z" creationid="Marco Marega" creationdate="20180218T144924Z">
@@ -7970,6 +7978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213608Z" creationid="MicrosoftSucks" creationdate="20180218T213608Z">
         <seg>Se il campo &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Filter_1&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; e' &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;NULL&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; viene invece usato il valore del campo &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Title&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the field already has the property &lt;f0&gt;IDENTITY&lt;/f0&gt; but it is not repeated in the field definition, the existing &lt;f1&gt;IDENTITY&lt;/f1&gt; property is removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224217Z" creationid="Marco Marega" creationdate="20180224T224217Z">
+        <seg>Se il campo ha già la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt; ma non viene ripetuta nella definizione del campo, a proprietà &lt;f1&gt;IDENTITY&lt;/f1&gt;esistente viene eliminata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12870,6 +12886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default value will become that specified in the new field definition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224249Z" creationid="Marco Marega" creationdate="20180224T224249Z">
+        <seg>Il valore predefinito diventerà quello specificato nella nuova definizione del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default values set here have nothing to do with the default values within the database itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143926Z" creationid="Marco Marega" creationdate="20180218T143926Z">
@@ -15098,6 +15122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T213928Z" creationid="Marco Marega" creationdate="20180204T213928Z">
         <seg>Ciò è possibile solo usando il comando SQL appropriato (vedete “&lt;bf4&gt;Inserimento diretto di comandi SQL&lt;/bf4&gt;” a pagina &lt;bf5&gt;43&lt;/bf5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is possible only for &lt;f3&gt;INTEGER&lt;/f3&gt; or &lt;f4&gt;BIGINT&lt;/f4&gt; fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224032Z" creationid="Marco Marega" creationdate="20180224T224032Z">
+        <seg>Questa è possibile solo per i campi &lt;f3&gt;INTEGER&lt;/f3&gt; o &lt;f4&gt;BIGINT&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
