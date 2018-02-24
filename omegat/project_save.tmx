@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;LIMIT 10 0&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; omits the first 10 records and displays all records starting from the 11th.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T151010Z" creationid="manuel" creationdate="20180224T151010Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;LIMIT 10 0&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; omette i primi dieci record di dati e mostra tutti i record di dati a partire dall'undicesimo.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f11&gt;The &lt;f12&gt;o&lt;/f12&gt;ther&lt;f13&gt; &lt;/f13&gt;c&lt;f14&gt;hoice&lt;/f14&gt;s in the context menu &lt;f15&gt;(&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Open in Design Mode&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; and &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Automatic Control Focus&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;) &lt;/f21&gt;correspond to &lt;f22&gt;b&lt;/f22&gt;uttons in Fig&lt;f23&gt;ure&lt;/f23&gt; &lt;t24&gt;22&lt;/t24&gt;; &lt;f25&gt;we will discuss them later.&lt;/f25&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135502Z" creationid="Marco Marega" creationdate="20171014T135502Z">
@@ -2906,6 +2914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T212248Z" creationid="MicrosoftSucks" creationdate="20180218T212248Z">
         <seg>&lt;f0&gt;Potete anche filtrare i c&lt;/f0&gt;ampi &lt;f1&gt;che&lt;/f1&gt; compaiono nella tabella &lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;Example&lt;/f3&gt;  &lt;f4&gt;solo come&lt;/f4&gt; chiavi esterne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can do the same thing by using the last SELECT condition in the formula &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;[LIMIT &lt;limit&gt; [OFFSET &lt;offset&gt;]]&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T151305Z" creationid="manuel" creationdate="20180224T151305Z">
+        <seg>&lt;f0&gt;Potete fare la  stessa cosa usando l'ultima condizione SELECT nella formula &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;[LIMIT &lt;limite&gt; [OFFSET &lt;spostamento&gt;]]&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
