@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name" DROP [COLUMN] "Field_name";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222954Z" creationid="Marco Marega" creationdate="20180224T222954Z">
+        <seg>ALTER TABLE "Nome_tabella" DROP [COLUMN] "Nome_campo";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113025Z" creationid="Marina Latini" creationdate="20171213T113025Z">
@@ -12486,6 +12494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The additional designation &lt;f0&gt;COLUMN&lt;/f0&gt; is not necessary in cases where no alternative choices are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222932Z" creationid="Marco Marega" creationdate="20180224T222932Z">
+        <seg>Il titolo aggiuntivo &lt;f0&gt;COLUMN&lt;/f0&gt; non è necessario nei casi in cui non sono disponibili scelte alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The ascending sort shows the medium on loan for the longest period at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211504Z" creationid="Marco Marega" creationdate="20171216T211504Z">
@@ -12834,6 +12850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201237Z" creationid="Marco Marega" creationdate="20171210T201237Z">
         <seg>L'esempio di un formulario semplice per i prestiti della libreria viene qui illustrato usando diverse varianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field "Field name" is erased from the table &lt;f0&gt;Table_name&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223037Z" creationid="Marco Marega" creationdate="20180224T223037Z">
+        <seg>Il campo "Nome_campo" viene eliminato dalla tabella &lt;f0&gt;Nome_tabella&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
