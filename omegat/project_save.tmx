@@ -9318,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limiting the display of query results is only possible using direct SQL commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T171036Z" creationid="manuel" creationdate="20180224T171036Z">
+        <seg>Limitare la visualizzazione dei risultati della ricerca è possibile solo utilizzando comandi SQL diretti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limiting the minimum and maximum values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214646Z" creationid="Marco Marega" creationdate="20171216T214646Z">
