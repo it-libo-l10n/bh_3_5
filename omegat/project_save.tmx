@@ -3694,10 +3694,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ADD [CONSTRAINT "Condition_name"] CHECK (&lt;Search_condition&gt;);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225525Z" creationid="Marco Marega" creationdate="20180224T225525Z">
+        <seg>ADD [CONSTRAINT "Nome_condizione"] CHECK (&lt;Condizione_di_ricerca&gt;);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ALTER TABLE "Addresses" ADD "First Name" VARCHAR(25) BEFORE "Name";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222431Z" creationid="Marco Marega" creationdate="20180224T222431Z">
         <seg>ALTER TABLE "Address" ADD "First Name" VARCHAR(25) BEFORE "Name";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225505Z" creationid="Marco Marega" creationdate="20180224T225505Z">
+        <seg>ALTER TABLE "Nome_tabella"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11814,6 +11830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such a condition will not apply retrospectively to existing records, but it will apply to all subsequent changes and newly entered records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225830Z" creationid="Marco Marega" creationdate="20180224T225552Z">
+        <seg>Tale condizione non verrà applicata retrospettivamente ai record esistenti, ma verrà applicata a tutte le successive modifiche e ai nuovi record inseriti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such a filter is activated automatically when the form is launched.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161526Z" creationid="steevie" creationdate="20180216T161526Z">
@@ -14690,6 +14714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205011Z" creationid="MicrosoftSucks" creationdate="20180218T205011Z">
         <seg>Questo &lt;f0&gt;capitolo&lt;/f0&gt; descrive alcune soluzioni a problemi che si manifestano per molti utenti di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This adds a search condition introduced by the word &lt;f0&gt;CHECK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225615Z" creationid="Marco Marega" creationdate="20180224T225549Z">
+        <seg>Questo aggiunge la condizione di ricerca introdotta dalla parola &lt;f0&gt;CHECK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
