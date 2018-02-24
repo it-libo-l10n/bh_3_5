@@ -7974,6 +7974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the definition of the default value is left blank, any default already defined is removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224341Z" creationid="Marco Marega" creationdate="20180224T224341Z">
+        <seg>Se la definizione del valore predefinito viene lasciata vuota, qualsiasi valore predefinito già impostato viene eliminato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the field &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Filter_1&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; is &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;NULL&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; the value of the &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Title&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; field is used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213608Z" creationid="MicrosoftSucks" creationdate="20180218T213608Z">
@@ -13886,6 +13894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The property &lt;f0&gt;NOT NULL&lt;/f0&gt; continues into the new definition, if not otherwise defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224431Z" creationid="Marco Marega" creationdate="20180224T224431Z">
+        <seg>La proprietà &lt;f0&gt;NOT NULL&lt;/f0&gt; rimane nella nuova definizione, a meno che non via diversamente definita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query constructed by the Wizard looks like this:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
@@ -15090,6 +15106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155537Z" creationid="Marco Marega" creationdate="20171230T155537Z">
         <seg>Questo viene illustrato nel database di esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is in contrast to the default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224538Z" creationid="Marco Marega" creationdate="20180224T224538Z">
+        <seg>Ciò è in contrasto con il valore predefinito.</seg>
       </tuv>
     </tu>
     <tu>
