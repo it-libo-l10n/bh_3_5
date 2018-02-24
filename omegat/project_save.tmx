@@ -2518,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NULL&lt;/f0&gt; removes an existing default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223343Z" creationid="Marco Marega" creationdate="20180224T223343Z">
+        <seg>&lt;f0&gt;NULL&lt;/f0&gt; rimuove un valore predefinito esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
@@ -3710,10 +3718,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name" ALTER COLUMN "Field_name" SET [NOT] NULL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223359Z" creationid="Marco Marega" creationdate="20180224T223359Z">
+        <seg>ALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" SET [NOT] NULL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" ALTER COLUMN "ID" RESTART WITH 'New value'</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155223Z" creationid="steevie" creationdate="20180205T155055Z">
         <seg>ALTER TABLE "Nome_Tabella" ALTER COLUMN "ID" RESTART WITH 'Nuovo valore'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name" ALTER COLUMN &lt;Field definition&gt;;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223529Z" creationid="Marco Marega" creationdate="20180224T223529Z">
+        <seg>ALTER TABLE "Nome_tabella" ALTER COLUMN &lt;Definizione campo&gt;;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11318,6 +11342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets or removes a &lt;f0&gt;NOT NULL&lt;/f0&gt; condition for a field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223441Z" creationid="Marco Marega" creationdate="20180224T223441Z">
+        <seg>Imposta o elimina la condizione &lt;f0&gt;NOT NULL&lt;/f0&gt; per un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting up a &lt;f0&gt;f&lt;/f0&gt;orm with the &lt;f1&gt;Form &lt;/f1&gt;Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134444Z" creationid="Marco Marega" creationdate="20171014T134444Z">
@@ -12898,6 +12930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223037Z" creationid="Marco Marega" creationdate="20180224T223037Z">
         <seg>Il campo "Nome_campo" viene eliminato dalla tabella &lt;f0&gt;Nome_tabella&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field definition corresponds to the one from the &lt;bf0&gt;Table creation&lt;/bf0&gt; with the following restrictions:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223742Z" creationid="Marco Marega" creationdate="20180224T223742Z">
+        <seg>La definizione del campo corrisponde a quella della &lt;bf0&gt;Creazione della tabella&lt;/bf0&gt; con le seguenti restrizioni:</seg>
       </tuv>
     </tu>
     <tu>
