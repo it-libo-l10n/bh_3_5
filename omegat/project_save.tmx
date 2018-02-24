@@ -9158,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be used, for example, when a database is initially used with test data, and subsequently provided with real data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225328Z" creationid="Marco Marega" creationdate="20180224T225328Z">
+        <seg>Può essere usato, ad esempio, quanto un database viene usato inizialmente con dei dati di prova e successivamente riempito con dati reali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It could also be a click on the drop-down button of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T214108Z" creationid="Marco Marega" creationdate="20171101T214108Z">
@@ -15426,6 +15434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215830Z" creationid="Marco Marega" creationdate="20171210T215830Z">
         <seg>Questa sostituzione è stata effettuata sui campi di controllo &lt;f0&gt;Media_ID&lt;/f0&gt; e &lt;f1&gt;Reader_ID&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This requires the contents of the tables to be deleted and a new value such as "1" to be set for the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225453Z" creationid="Marco Marega" creationdate="20180224T225453Z">
+        <seg>Ciò richiedere che i contenuti delle tabelle vengano cancellati e che sia impostato un nuovo valore per il campo, come ad esempio "1".</seg>
       </tuv>
     </tu>
     <tu>
