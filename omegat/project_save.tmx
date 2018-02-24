@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;SELECT DISTINCT "Name" FROM "Table_name"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; suppresses query results &lt;/f8&gt;&lt;t9/&gt;&lt;f10&gt;that have the same content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T175255Z" creationid="manuel" creationdate="20180224T175255Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;SELECT DISTINCT "Nome" FROM "Tabella_nome"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; sopprime i risultati della ricerca &lt;/f8&gt;&lt;t9/&gt;&lt;f10&gt;che hanno lo stesso contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f7&gt;Database Maintenance&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151322Z" creationid="steevie" creationdate="20180205T151322Z">
@@ -8722,6 +8730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203810Z" creationid="Marco Marega" creationdate="20171016T203810Z">
         <seg>In questo caso, potrebbe non essere richiesto che appaiano tutti i campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, ‘Peter’ and ‘Egon’ occur only once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T175346Z" creationid="manuel" creationdate="20180224T175346Z">
+        <seg>In questo caso, ‘Peter' e ‘Egon’ sono presenti una sola volta.</seg>
       </tuv>
     </tu>
     <tu>
