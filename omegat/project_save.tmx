@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;TOP 10&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; always shows the first 10 records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150834Z" creationid="manuel" creationdate="20180224T150834Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;TOP 10&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; mostra sempre i primi dieci record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;See &lt;f5&gt;also &lt;/f5&gt;the general Help on numeric format codes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212248Z" creationid="Marco Marega" creationdate="20171026T212248Z">
@@ -3194,6 +3202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215502Z" creationid="Marco Marega" creationdate="20180222T215502Z">
         <seg>&lt;f8&gt;[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}]:&lt;/f8&gt; Nel caso di una chiave esterna, questo specifica cosa deve succedere se, ad esempio, il record esterno viene cancellato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;LIMIT 10 20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; starts at the 11th record and shows the following 20 records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150810Z" creationid="manuel" creationdate="20180224T150810Z">
+        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;LIMIT 10 20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; inizia dall'undicesimo record di dati e mostra e mostra i successivi venti record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14834,6 +14850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195811Z" creationid="Marco Marega" creationdate="20171125T195811Z">
         <seg>Questo è un campo di controllo onnicomprensivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the same as &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;LIMIT 0 10&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150918Z" creationid="manuel" creationdate="20180224T150918Z">
+        <seg>Questo è lo stesso di &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;LIMIT 0 10&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
