@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f9&gt;&lt;f10&gt;Before&lt;/f10&gt;&lt;f11&gt; you use this final form of display limitation, you need to include a sorting condition (ORDER BY …).&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T162654Z" creationid="manuel" creationdate="20180224T162654Z">
+        <seg>&lt;/f9&gt;&lt;f10&gt;Prima&lt;/f10&gt;&lt;f11&gt; che usiate questa forma finale di mostrare in modo limitato, è necessario che  includiate una condizione di ordinamento (ORDER BY …).&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;Constraint definition&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213709Z" creationid="Marco Marega" creationdate="20180219T213709Z">
