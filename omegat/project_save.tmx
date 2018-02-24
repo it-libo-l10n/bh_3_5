@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All records are displayed that fulfill the search conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T174949Z" creationid="manuel" creationdate="20180224T174949Z">
+        <seg>Vengono visualizzati tutti i record di dati che soddisfano le condizioni di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All special tables in HSQLDB are described in the appendix to this handbook.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161050Z" creationid="steevie" creationdate="20180205T161050Z">
@@ -5834,6 +5842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142647Z" creationid="Marco Marega" creationdate="20180218T142647Z">
         <seg>Esempio: In un database di supporti, il numero del supporto e la data del prestito vengono inserite quando l'articolo viene preso in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example:&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; SELECT ALL "Name" FROM "Table_name"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; yields all names; if "Peter" occurs three times and "Egon" four times in the table, these names are displayed three and four times respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T175137Z" creationid="manuel" creationdate="20180224T175137Z">
+        <seg>Esempio:&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; SELECT ALL "Nome" FROM "Tabella_nome"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; produce tutti i nomi; se "Peter" si presenta per tre volte e "Egon" quattro volte nella tabella, questi nomi vengono visualizzati rispettivamente tre e quattro volte.</seg>
       </tuv>
     </tu>
     <tu>
