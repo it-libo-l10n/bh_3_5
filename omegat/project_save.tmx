@@ -8478,6 +8478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In all cases the change will have effect only if it is possible in principle (for example a change from &lt;f0&gt;NOT NULL&lt;/f0&gt; to &lt;f1&gt;NULL&lt;/f1&gt;) and the existing values can all be translated (for example a change from &lt;f2&gt;TINYINT&lt;/f2&gt; to &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225010Z" creationid="Marco Marega" creationdate="20180224T225010Z">
+        <seg>In ogni caso la modifica avrà effetto solo se di regola è possibile (ad esempio una modifica da &lt;f0&gt;NOT NULL&lt;/f0&gt; a &lt;f1&gt;NULL&lt;/f1&gt;) e tutti i valori esistenti possono essere tradotti (ad esempio una modifica da &lt;f2&gt;TINYINT&lt;/f2&gt; a &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In both cases a window opens, &lt;f0&gt;where&lt;/f0&gt; you &lt;f1&gt;can&lt;/f1&gt; create a query and also correct it if necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20171126T234003Z" creationid="Manuel Frassinetti" creationdate="20171125T170701Z">
@@ -8602,6 +8610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140815Z" creationid="Marco Marega" creationdate="20180218T140815Z">
         <seg>In linea di principio, un indice può essere creato anche da campi di una tabella che non contengono valori univoci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases, depending on the type of modification, the table must be empty in order for the change to occur.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224637Z" creationid="Marco Marega" creationdate="20180224T224637Z">
+        <seg>In alcuni casi, a seconda del tipo di modifica, la tabella deve essere vuota affinché il cambiamento abbia luogo.</seg>
       </tuv>
     </tu>
     <tu>
