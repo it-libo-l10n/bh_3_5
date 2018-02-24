@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ALTER TABLE "Loan" ADD CHECK (IFNULL("Return_Date","Loan_Date")&gt;="Loan_Date")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225924Z" creationid="Marco Marega" creationdate="20180224T225924Z">
+        <seg>ALTER TABLE "Loan" ADD CHECK (IFNULL("Return_Date","Loan_Date")&gt;="Loan_Date")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ALTER TABLE "Table_name"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225505Z" creationid="Marco Marega" creationdate="20180224T225505Z">
@@ -5982,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225922Z" creationid="Marco Marega" creationdate="20180224T225922Z">
+        <seg>Esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: In a media database, the media number and the loan date are entered when the item is loaned out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142647Z" creationid="Marco Marega" creationdate="20180218T142647Z">
@@ -6610,6 +6626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144044Z" creationid="Marco Marega" creationdate="20180218T144044Z">
         <seg>Ad esempio, non potete impostare la data di inserimento come valore predefinito di un campo data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you must prevent a return date being given that is earlier than the loan date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230056Z" creationid="Marco Marega" creationdate="20180224T230056Z">
+        <seg>Ad esempio, dovete prevenire che venga indicata una data di restituzione precedente alla data del prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7746,6 +7770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
         <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a constraint name is not defined, one will be assigned automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225910Z" creationid="Marco Marega" creationdate="20180224T225910Z">
+        <seg>Se non viene definito un nome per il vincolo, ne verrà assegnato uno automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12218,6 +12250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153157Z" creationid="Marco Marega" creationdate="20171230T153111Z">
         <seg>Il campo &lt;f0&gt;Integer&lt;/f0&gt; è collegato al campo di controllo &lt;f1&gt;Reader_ID&lt;/f1&gt; del formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Loan&lt;/f0&gt; table needs to be protected from input errors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230003Z" creationid="Marco Marega" creationdate="20180224T230003Z">
+        <seg>La tabella &lt;f0&gt;Loan&lt;/f0&gt; deve essere protetta da errori di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
