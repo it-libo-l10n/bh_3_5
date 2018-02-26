@@ -3966,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds a primary key, optionally with a constraint, to a table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232216Z" creationid="Marco Marega" creationdate="20180226T232216Z">
+        <seg>Aggiunge a una tabella una chiave primaria, facoltativamente con un vincolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting &lt;f0&gt;f&lt;/f0&gt;ield &lt;f1&gt;p&lt;/f1&gt;roportions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T212029Z" creationid="Marco Marega" creationdate="20171210T212029Z">
@@ -14378,6 +14386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211125Z" creationid="Marco Marega" creationdate="20171026T211125Z">
         <seg>Il simbolo viene visualizzato, ma non viene memorizzato nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The syntax of the constraint is the same as when a table is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232251Z" creationid="Marco Marega" creationdate="20180226T232251Z">
+        <seg>La sintassi per il vincolo è la stessa di quando la tabella viene creata.</seg>
       </tuv>
     </tu>
     <tu>
