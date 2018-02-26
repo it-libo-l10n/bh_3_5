@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The more listboxes &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;are built into a form, and the more they contain, the longer the form takes to load, since these listboxes &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;must&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; be created.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T171715Z" creationid="steevie" creationdate="20180226T171715Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Più le liste di scelta &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sono integrate in un formulario, e più oggetti contengono, maggiore sarà il tempo impiegato dal formulario per caricarsi, poiché queste liste di scelta &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;devono&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; essere create.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The range of persons shown can be filtered on last name to limit the detail shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222126Z" creationid="osvaldo" creationdate="20180103T222126Z">
@@ -9702,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listboxes are created using queries, and these queries must be run when the form is loaded for each listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172135Z" creationid="steevie" creationdate="20180226T172135Z">
+        <seg>Le liste di scelta vengono create per mezzo di interrogazioni, che devono essere lanciate per ognuna di esse quando il formulario viene caricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loan table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210041Z" creationid="Marco Marega" creationdate="20180202T210041Z">
@@ -12790,6 +12806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The better the Base program sets up the graphical interface and initially reads the listbox contents only partially, the less delay there will be.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172032Z" creationid="steevie" creationdate="20180226T172032Z">
+        <seg>Quanto meglio Base lancia l'interfaccia grafica e inizialmente legge solo parzialmente il contenuto delle liste di scelta, tanto minore sarà il ritardo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The blank area shows a grid of dots.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133227Z" creationid="Marco Marega" creationdate="20171014T133227Z">
@@ -14162,6 +14186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180953Z" creationid="Manuel Frassinetti" creationdate="20171209T180953Z">
         <seg>Il risultato mostra il numero di record di dati per ogni &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Lettore_ID&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same query structure for more listboxes is better done using a common View, instead of &lt;s0/&gt;repeatedly creating fields with the same syntax using the stored SQL commands in the listboxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172528Z" creationid="steevie" creationdate="20180226T172528Z">
+        <seg>La stessa struttura dell'interrogazione per più liste di scelta è ottenuta in maniera più efficiente usando una comune Vista, invece di&lt;s0/&gt;creare ripetutamente i campi nella lista di scelta con la stessa sintassi usata dai comandi SQL salvati.</seg>
       </tuv>
     </tu>
     <tu>
