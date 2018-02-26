@@ -14238,6 +14238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The server &lt;s1/&gt;treats Views as complete local queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172809Z" creationid="steevie" creationdate="20180226T172809Z">
+        <seg>Il server &lt;s1/&gt;considera le viste come interrogazioni locali complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The simple query for the Title field from the Media table shows the test entries for this table, 9 records in all.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173525Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
@@ -16338,6 +16346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205202Z" creationid="Marco Marega" creationdate="20171016T205202Z">
         <seg>Allineamento verticale: Standard | In alto | Al centro | In basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Views are above all preferable for external database systems, as here the server runs significantly faster than a query which has to be put together by the GUI and freshly put to the server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172743Z" creationid="steevie" creationdate="20180226T172743Z">
+        <seg>Le viste sono preferibili soprattutto per sistemi di database esterni, poiché in questo caso il server lavora in maniera significativamente più veloce che in un'interrogazione che deve essere composta dalla GUI e poi inviata al server.</seg>
       </tuv>
     </tu>
     <tu>
