@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ADD [CONSTRAINT "Constraint_name"] FOREIGN KEY ("Field_name1", "Field_name2" ...)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232502Z" creationid="Marco Marega" creationdate="20180226T232502Z">
+        <seg>ADD [CONSTRAINT "Nome_vincolo"] FOREIGN KEY ("Nome_campo1", "Nome_campo2" ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ADD [CONSTRAINT "Constraint_name"] PRIMARY KEY ("Field_name1", "Field_name2" ...);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232006Z" creationid="Marco Marega" creationdate="20180226T232006Z">
@@ -11134,6 +11142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REFERENCES "Table_name_of_another_table" ("Field_name1_other_table", "Field_name2_other_table" ...)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232547Z" creationid="Marco Marega" creationdate="20180226T232547Z">
+        <seg>REFERENCES "Nome_di_un_altra_tabella" ("Nome_campo1_altra_tabella", "Nome_campo2_altra_tabella" ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REFERENCES "other_table_name" ( "Field_name_1" [,"Field_name 2"...])</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214607Z" creationid="Marco Marega" creationdate="20180222T214607Z">
@@ -14934,6 +14950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This adds a foreign key (&lt;f0&gt;FOREIGN KEY&lt;/f0&gt;) to the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232607Z" creationid="Marco Marega" creationdate="20180226T232607Z">
+        <seg>Questo aggiunge una chiave esterna (&lt;f0&gt;FOREIGN KEY&lt;/f0&gt;) alla tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a search condition introduced by the word &lt;f0&gt;CHECK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225615Z" creationid="Marco Marega" creationdate="20180224T225549Z">
@@ -17194,6 +17218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214609Z" creationid="Marco Marega" creationdate="20180222T214609Z">
         <seg>[ON {DELETE | UPDATE}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}];</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232549Z" creationid="Marco Marega" creationdate="20180226T232549Z">
+        <seg>[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}];</seg>
       </tuv>
     </tu>
     <tu>
