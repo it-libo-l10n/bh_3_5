@@ -5,3 +5,4 @@ reminder	sollecito
 storage space	spazio su disco
 foreign key	chiave esterna	foreign key
 unsatisfactory	scadente	unsatisfactory
+listbox	lista di scelta	listbox
