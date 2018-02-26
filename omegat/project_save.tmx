@@ -14406,6 +14406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The syntax is the same as when a table is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232623Z" creationid="Marco Marega" creationdate="20180226T232623Z">
+        <seg>La sintassi è la stessa di quando la tabella viene creata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The syntax of the constraint is the same as when a table is created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232251Z" creationid="Marco Marega" creationdate="20180226T232251Z">
