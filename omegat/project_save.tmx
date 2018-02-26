@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;For daily use, s&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;earch functions need to be constructed differently so that the search for data is not excessively long and does not damage day-to-day work with the database.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T171309Z" creationid="steevie" creationdate="20180226T171309Z">
+        <seg>&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Per l'uso giornaliero, le funzioni di r&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;icerca devono essere costruite diversamente, in modo che la ricerca dei dati non sia eccessivamente lunga e non danneggi il lavoro quotidiano con il database.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f9&gt;&lt;f10&gt;Before&lt;/f10&gt;&lt;f11&gt; you use this final form of display limitation, you need to include a sorting condition (ORDER BY …).&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T162654Z" creationid="manuel" creationdate="20180224T162654Z">
@@ -1720,8 +1728,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;can contain a large number of possible foreign keys from the rel_Media_Author table, which must first be compared with the primary keys in the table Authors for each record in that table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152350Z" creationid="steevie" creationdate="20180209T152350Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;can contain a large number of possible foreign keys from the rel_Media_Author table, which must first be compared with the primary keys in the table Authors for each record in that table.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170910Z" creationid="steevie" creationdate="20180209T152350Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;può contenere un gran numero di possibili chiavi esterne dalla tabella rel_Media_Author, che prima dev'essere confrontata con le chiavi primarie della tabella Authors per ogni record di dati in quella tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11912,8 +11920,8 @@
       <tuv lang="EN">
         <seg>Such a query is therefore not suitable for daily use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;but may be required for&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;maintenance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170540Z" creationid="steevie" creationdate="20180226T170540Z">
-        <seg>Such a query is therefore not suitable for daily use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;but may be required for&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;maintenance.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T171106Z" creationid="steevie" creationdate="20180226T170540Z">
+        <seg>Una interrogazione così non è quindi adatta per l'uso giornaliero &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ma potrebbe essere necessaria nel &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;per operazioni di manutenzione.</seg>
       </tuv>
     </tu>
     <tu>
