@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NULL&lt;/f0&gt; does not count here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231653Z" creationid="Marco Marega" creationdate="20180226T231653Z">
+        <seg>&lt;f0&gt;NULL&lt;/f0&gt; in questo caso non conta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;NULL&lt;/f0&gt; removes an existing default value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223343Z" creationid="Marco Marega" creationdate="20180224T223343Z">
@@ -3454,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A field can therefore have the same value repeatedly without causing any problems, if the other field in each of the records is &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231838Z" creationid="Marco Marega" creationdate="20180226T231838Z">
+        <seg>Perciò, se l'altro campo di ciascun record è &lt;f1&gt;NULL&lt;/f1&gt;, un campo può contenere ripetutamente lo stesso valore senza causare problemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A field that is read-only does not need a tab stop; it can be skipped.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204103Z" creationid="Marco Marega" creationdate="20171016T204103Z">
@@ -3722,6 +3738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225525Z" creationid="Marco Marega" creationdate="20180224T225525Z">
         <seg>ADD [CONSTRAINT "Nome_condizione"] CHECK (&lt;Condizione_di_ricerca&gt;);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ADD [CONSTRAINT "Constraint_name"] UNIQUE ("Field_name1", "Field_name2" ...);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231444Z" creationid="Marco Marega" creationdate="20180226T231444Z">
+        <seg>ADD [CONSTRAINT "Nome_vincolo"] UNIQUE ("Nome_campo1", "Nome_campo2" ...);</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,6 +7222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here a condition is added that forces the named fields to have different values in each record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231550Z" creationid="Marco Marega" creationdate="20180226T231550Z">
+        <seg>Qui viene aggiunta una condizione che forza i campi indicati ad avere valori differenti in ciascun record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here again we need to make retrospective improvements, so that the required SQL code can be created quite quickly using the built-in query editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211349Z" creationid="Marco Marega" creationdate="20171213T211321Z">
@@ -8010,6 +8042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224539Z" creationid="Marco Marega" creationdate="20171214T224539Z">
         <seg>Se durante l'uso dovrebbero essere visibili solo determinati &lt;f0&gt;campi&lt;/f0&gt;, potete usare all'intero del formulario più campi di controllo &lt;f1&gt;tabella&lt;/f1&gt;, in quanto lo spostamento con il tasto &lt;f2&gt;&lt;f3&gt;Tab&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt; in maniera predefinita viene catturato da ciascun campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If several fields are named, this condition applies to the combination rather than the individual fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231636Z" creationid="Marco Marega" creationdate="20180226T231636Z">
+        <seg>Se sono specificati più campi, questa condizione si applica alla combinazione anzichè ai singoli campi.</seg>
       </tuv>
     </tu>
     <tu>
