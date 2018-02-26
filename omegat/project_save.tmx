@@ -10502,6 +10502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only comparisons with the relationship &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IN&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;make it possible to compare a single value with a set of values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170524Z" creationid="steevie" creationdate="20180226T170303Z">
+        <seg>Solo i confronti con la relazione &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IN&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;permettono di raffrontare un singolo valore con un insieme di valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only for HTML forms: The target‑frame (frame arrangement for different HTML pages) in which the file should be opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213751Z" creationid="Marco Marega" creationdate="20171126T213751Z">
@@ -11898,6 +11906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161526Z" creationid="steevie" creationdate="20180216T161526Z">
         <seg>Potete attivare automaticamente un filtro come questo quando lanciate il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such a query is therefore not suitable for daily use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;but may be required for&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;maintenance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170540Z" creationid="steevie" creationdate="20180226T170540Z">
+        <seg>Such a query is therefore not suitable for daily use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;but may be required for&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;maintenance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13984,8 +14000,8 @@
       <tuv lang="EN">
         <seg>The problem is that in large databases, the subquery retrieves a correspondingly large amount of data with which each single displayable record must be compared.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T165332Z" creationid="steevie" creationdate="20180226T165332Z">
-        <seg>Il problema è che in grandi database, le sotto-ricerche .</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170435Z" creationid="steevie" creationdate="20180226T165332Z">
+        <seg>Il problema è che in grandi database, le interrogazioni parziali recuperano una quantità di dati altrettanto grande, che deve essere confrontata con ogni singolo record di dati che potrebbe essere mostrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210536Z" creationid="MicrosoftSucks" creationdate="20180218T210359Z">
         <seg>La query restituisce dalla tabella sottostante solo i record corrispondentiai valori del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170532Z" creationid="steevie" creationdate="20180226T170532Z">
+        <seg>L'interrogazione &lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17178,6 +17202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214611Z" creationid="Marco Marega" creationdate="20180222T214611Z">
         <seg>{CASCADE | SET DEFAULT | SET NULL}] |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>… WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170534Z" creationid="steevie" creationdate="20180226T170534Z">
+        <seg>… WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
