@@ -4166,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All views referring to the named table are also completely deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214252Z" creationid="Marco Marega" creationdate="20180227T214252Z">
+        <seg>Anche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allowed SQL functions: &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211748Z" creationid="Marco Marega" creationdate="20180219T211748Z">
@@ -8846,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In principle you can have a database without links between tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214412Z" creationid="Marco Marega" creationdate="20180227T214412Z">
+        <seg>In teoria potreste avere un database senza collegamenti tra le tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In principle, an index can also be created from table fields that do not contain unique values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140815Z" creationid="Marco Marega" creationdate="20180218T140815Z">
@@ -9018,6 +9034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220237Z" creationid="Marco Marega" creationdate="20180126T220237Z">
         <seg>Nella tabella intermedia, i valori nel campo &lt;f0&gt;Media_ID&lt;/f0&gt; possono ricorrere più di una volta, così come quelli nel campo &lt;f1&gt;Author_ID&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the linked tables, all foreign keys are set to NULL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214206Z" creationid="Marco Marega" creationdate="20180227T214206Z">
+        <seg>Nelle tabelle collegate, tutte le chiavi esterne saranno impostate a NULL.</seg>
       </tuv>
     </tu>
     <tu>
