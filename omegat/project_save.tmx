@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ALTER TABLE "Table_name" DROP CONSTRAINT "Constraint_name";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213152Z" creationid="Marco Marega" creationdate="20180227T213152Z">
+        <seg>ALTER TABLE "Nome_tabella" DROP CONSTRAINT "Nome_vincolo";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" DROP [COLUMN] "Field_name";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222954Z" creationid="Marco Marega" creationdate="20180224T222954Z">
@@ -6080,8 +6088,8 @@
       <tuv lang="EN">
         <seg>Example: The &lt;f0&gt;Name&lt;/f0&gt; and &lt;f1&gt;Address&lt;/f1&gt; tables are to be linked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212820Z" creationid="Marco Marega" creationdate="20180227T212820Z">
-        <seg>Esempio: Le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Address&lt;/f1&gt; vanno collegate.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212933Z" creationid="Marco Marega" creationdate="20180227T212820Z">
+        <seg>Esempio: Le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Adress&lt;/f1&gt; vanno collegate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8222,6 +8230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the value "1" is found in &lt;f6&gt;Address_ID&lt;/f6&gt; but not in the &lt;f7&gt;ID&lt;/f7&gt; field of the &lt;f8&gt;Address&lt;/f8&gt; table, the link will not work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213059Z" creationid="Marco Marega" creationdate="20180227T213059Z">
+        <seg>Se il valore "1" è presente in &lt;f6&gt;Adress_ID&lt;/f6&gt; ma non nel campo &lt;f7&gt;ID&lt;/f7&gt; della tabella &lt;f8&gt;Adress&lt;/f8&gt;, il collegamento non funzionerà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are multiple readers at the same address, this structure would require the address to be entered again, since the primary key of the &lt;f0&gt;Reader&lt;/f0&gt; table is entered directly as the primary key in the &lt;f1&gt;Address&lt;/f1&gt; table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151628Z" creationid="Marco Marega" creationdate="20180127T151509Z">
@@ -9506,6 +9522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221803Z" creationid="Marco Marega" creationdate="20171217T221803Z">
         <seg>Semplicemente leggerà dalla tabella il valore associato alla chiave primaria &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;ID&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;)&lt;/f4&gt;&lt;/f3&gt; 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will not work either if the two fields are of different types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213126Z" creationid="Marco Marega" creationdate="20180227T213126Z">
+        <seg>Non funzionerà nemmeno se i due campi sono di tipo differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12520,8 +12544,8 @@
       <tuv lang="EN">
         <seg>The &lt;f2&gt;Name&lt;/f2&gt; table contains a field with the name &lt;f3&gt;Address_ID&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212847Z" creationid="Marco Marega" creationdate="20180227T212825Z">
-        <seg>La tabella&lt;f2&gt;Name&lt;/f2&gt; contiene un campo denominato &lt;f3&gt;Address_ID&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212939Z" creationid="Marco Marega" creationdate="20180227T212825Z">
+        <seg>La tabella&lt;f2&gt;Name&lt;/f2&gt; contiene un campo denominato &lt;f3&gt;Adress_ID&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,6 +15194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225107Z" creationid="Marco Marega" creationdate="20180224T225107Z">
         <seg>Questo comando viene usato esclusivamente per un campo &lt;f0&gt;IDENTITY&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command removes the named constraint (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;) from a table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213221Z" creationid="Marco Marega" creationdate="20180227T213221Z">
+        <seg>Questo comando rimuove dalla tabella il vincolo specificato (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
