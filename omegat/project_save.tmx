@@ -6078,6 +6078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: The &lt;f0&gt;Name&lt;/f0&gt; and &lt;f1&gt;Address&lt;/f1&gt; tables are to be linked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212820Z" creationid="Marco Marega" creationdate="20180227T212820Z">
+        <seg>Esempio: Le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Address&lt;/f1&gt; vanno collegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example:&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; SELECT ALL "Name" FROM "Table_name"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; yields all names; if "Peter" occurs three times and "Egon" four times in the table, these names are displayed three and four times respectively.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T175137Z" creationid="manuel" creationdate="20180224T175137Z">
@@ -12510,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;Name&lt;/f2&gt; table contains a field with the name &lt;f3&gt;Address_ID&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212847Z" creationid="Marco Marega" creationdate="20180227T212825Z">
+        <seg>La tabella&lt;f2&gt;Name&lt;/f2&gt; contiene un campo denominato &lt;f3&gt;Address_ID&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f2&gt;Reader_ID&lt;/f2&gt; from &lt;f3&gt;Loans&lt;/f3&gt; should be set as equivalent to the &lt;f4&gt;ID&lt;/f4&gt; from the R&lt;f5&gt;eader &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;table&lt;/f7&gt;&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212306Z" creationid="Marco Marega" creationdate="20171216T212306Z">
@@ -13974,6 +13990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The operation will terminate with an error message, if any value in the table does not have a corresponding value in the table containing that primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212728Z" creationid="Marco Marega" creationdate="20180227T212728Z">
+        <seg>Se nessun valore nella tabella ha un corrispondente valore nella tabella che contiene la chiave primaria, l'operazione terminerà con un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option button group is given a group box (frame) with the label Gender.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211835Z" creationid="Marco Marega" creationdate="20171126T211835Z">
@@ -14578,6 +14602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152810Z" creationid="Marco Marega" creationdate="20171230T152810Z">
         <seg>Il valore del campo data viene memorizzato nella tabella &lt;f0&gt;Filter&lt;/f0&gt; e trasferito &lt;f1&gt;per mezzo&lt;/f1&gt; dei collegamenti dal formulario secondario ai suo formulari secondari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value of this should be linked to the field &lt;f4&gt;ID&lt;/f4&gt; in the &lt;f5&gt;Address&lt;/f5&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212930Z" creationid="Marco Marega" creationdate="20180227T212828Z">
+        <seg>Il valore di questo dovrebbe essere collegato al campo &lt;f4&gt;ID&lt;/f4&gt; della tabella &lt;f5&gt;Adress&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
