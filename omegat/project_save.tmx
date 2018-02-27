@@ -4670,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basic links are made using &lt;f0&gt;Tools &gt; &lt;/f0&gt;&lt;f1&gt;Relationships&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215511Z" creationid="Marco Marega" creationdate="20180227T215511Z">
+        <seg>I collegamenti elementari vengono impostati usando &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;Relazioni&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Basic rules for naming fields in the table: no two fields may have the same name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T220300Z" creationid="Marco Marega" creationdate="20180204T220300Z">
