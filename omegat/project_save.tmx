@@ -15854,6 +15854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This message shows some text in English and the internal SQL command that caused the error.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215757Z" creationid="Marco Marega" creationdate="20180227T215757Z">
+        <seg>Questo messaggio visualizza del testo e il comando SQL che ha causato l'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method has the disadvantage that &lt;/f17&gt;&lt;f18&gt;you can only work with the query in SQL Mode.&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174225Z" creationid="Manuel Frassinetti" creationdate="20180116T174225Z">
