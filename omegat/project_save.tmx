@@ -5782,6 +5782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting records in linked tables is not a simple matter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214654Z" creationid="Marco Marega" creationdate="20180227T214654Z">
+        <seg>Eliminare dei record nelle tabelle collegate non è una questione semplice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213311Z" creationid="Marco Marega" creationdate="20180227T213311Z">
@@ -12198,6 +12206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Suppose you wish to delete a particular street from the &lt;f0&gt;Street&lt;/f0&gt; table in Figure &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, where this field is linked with the &lt;f3&gt;Address&lt;/f3&gt; table as a foreign key in that table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214818Z" creationid="Marco Marega" creationdate="20180227T214818Z">
+        <seg>Supponete di voler eliminare una determinata via dalla tabella &lt;f0&gt;Street&lt;/f0&gt; della Figura &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, nella quale questo campo è collegato alla tabella &lt;f3&gt;Adress&lt;/f3&gt; come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>System</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102312Z" creationid="Marina Latini" creationdate="20171207T102312Z">
@@ -14718,6 +14734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user must then ensure during data entry, that the relationships between the tables remain correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214509Z" creationid="Marco Marega" creationdate="20180227T214509Z">
+        <seg>L'utente dovrebbe quindi assicurarsi durante l'inserimento dei dati, che tutte le relazioni tra le tabelle rimangano corrette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The value from the date field is stored in the &lt;f0&gt;Filter&lt;/f0&gt; table and transferred &lt;f1&gt;by&lt;/f1&gt; the linkages from subform to sub-subform.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152810Z" creationid="Marco Marega" creationdate="20171230T152810Z">
@@ -16018,6 +16042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154310Z" creationid="Marco Marega" creationdate="20171231T154310Z">
         <seg>Anche questo è possibile solo usando una ricerca adeguata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This usually occurs through the use of suitable input forms that manage this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214612Z" creationid="Marco Marega" creationdate="20180227T214612Z">
+        <seg>Questo di solito si ottiene attraverso l'uso di adeguati formulari di inserimento che gestiscano questo aspetto.</seg>
       </tuv>
     </tu>
     <tu>
