@@ -8046,6 +8046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If instead you choose &lt;f0&gt;CASCADE&lt;/f0&gt;, all links to the table "Table_name" are deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214122Z" creationid="Marco Marega" creationdate="20180227T214122Z">
+        <seg>Se invece scegliete &lt;f0&gt;CASCADE&lt;/f0&gt;, tutti i collegamenti alla tabella "Nome tabella" saranno cancellati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If instead you want to sort first by &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Loan date"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and then by "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan"."Reader_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, that can be done if:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T160336Z" creationid="Manuel Frassinetti" creationdate="20171206T160336Z">
@@ -11130,6 +11138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163642Z" creationid="Marina Latini" creationdate="20171205T163642Z">
         <seg>Ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries are not affected as they are not stored within HSQLDB.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214037Z" creationid="Marco Marega" creationdate="20180227T214037Z">
+        <seg>Le Ricerche non sono coinvolte in quanto non sono memorizzate all'interno di HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
