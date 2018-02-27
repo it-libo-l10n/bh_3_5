@@ -8798,6 +8798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to delete the &lt;f7&gt;Street&lt;/f7&gt;, the precondition must be fulfilled, that it is no longer referenced in the &lt;f8&gt;Address &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;table&lt;/f10&gt;&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215133Z" creationid="Marco Marega" creationdate="20180227T215133Z">
+        <seg>Affinché sia possibile eliminare la &lt;f7&gt;via&lt;/f7&gt;, dev'essere soddisfatta il prerequisito che questa non sia più referenziata all'interno della tabella &lt;f8&gt;Adress &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164339Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
@@ -13270,6 +13278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database does not allow this, once the relationship has been created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214947Z" creationid="Marco Marega" creationdate="20180227T214947Z">
+        <seg>Una volta che la relazione è stata creata, il database non lo permette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The date field is now removed from the table control, so that the latter contains only one search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154611Z" creationid="Marco Marega" creationdate="20171230T154611Z">
@@ -14386,6 +14402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T101433Z" creationid="Manuel Frassinetti" creationdate="20171202T101433Z">
         <seg>I record di dati, in altre parole, sono modificabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The references in the &lt;f4&gt;Address &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;table&lt;/f6&gt;&lt;/f5&gt; would disappear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214840Z" creationid="Marco Marega" creationdate="20180227T214840Z">
+        <seg>I riferimenti nella tabella &lt;f4&gt;Adress &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt; scomparirebbero.</seg>
       </tuv>
     </tu>
     <tu>
