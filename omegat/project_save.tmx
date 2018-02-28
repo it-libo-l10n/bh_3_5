@@ -9134,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In such cases, a cascading deletion makes sense.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223404Z" creationid="Marco Marega" creationdate="20180228T223404Z">
+        <seg>In questi casi, un'eliminazione a cascata ha senso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In tests, this action regularly &lt;s1/&gt;duplicates itself; macros run twice in succession.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201754Z" creationid="Marco Marega" creationdate="20171015T201754Z">
@@ -10714,6 +10722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162446Z" creationid="Manuel Frassinetti" creationdate="20171202T162446Z">
         <seg>Ora i campi dalla tabella Lettore possono essere inclusi nell'area tabulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now if a record in the CD table is deleted, many titles in the other table have no meaning as they are no longer available to you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223326Z" creationid="Marco Marega" creationdate="20180228T223326Z">
+        <seg>Ora se viene cancellato un record nella tabella dei CD, diversi titoli nell'altra tabella non hanno più senso, dato che non sono più disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12530,6 +12546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222257Z" creationid="Marco Marega" creationdate="20180224T222257Z">
         <seg>Supponete di avere una tabella denominata &lt;f0&gt;Adress&lt;/f0&gt; con i campi &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, e via dicendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suppose you have a table of CDs and a table which stores the titles on these CDs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223221Z" creationid="Marco Marega" creationdate="20180228T223221Z">
+        <seg>Immaginate di avere una tabella per dei CD e una tabella che memorizza i titoli delle canzoni di questi CD.</seg>
       </tuv>
     </tu>
     <tu>
