@@ -6342,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Links can be edited with a right-click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213507Z" creationid="Marco Marega" creationdate="20180228T213507Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: I collegamenti possono essere modificati con un clic con il pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
@@ -14394,6 +14402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T203836Z" creationid="Marco Marega" creationdate="20171215T203836Z">
         <seg>La modifica dei dati usando un campo di controllo tabella è simile a farlo usando una vera tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The properties of a link can be edited so that the deletion of a record from the &lt;f0&gt;Street&lt;/f0&gt; table will simultaneously&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;set to&lt;/f3&gt;&lt;/f2&gt; NULL the corresponding entries in the &lt;f4&gt;Ad&lt;/f4&gt;&lt;f5&gt;dress&lt;/f5&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213645Z" creationid="Marco Marega" creationdate="20180228T213645Z">
+        <seg>Le proprietà di un collegamento possono essere modificate in modo che la cancellazione di un record dalla tabella &lt;f0&gt;Street&lt;/f0&gt; imposti simultaneamente &lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt; NULL le voci corrispondenti nella tabella &lt;f4&gt;Ad&lt;/f4&gt;&lt;f5&gt;ress&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
