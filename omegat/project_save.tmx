@@ -5838,6 +5838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Databases that consist of only a single table usually do not require an input form unless they contain a field for images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T224050Z" creationid="Marco Marega" creationdate="20180228T224050Z">
+        <seg>I database costituiti da una singola tabella di solito non richiedono un formulario per l'inserimento dei dati, a meno che non contengano un campo per delle immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date &lt;s0/&gt;field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203817Z" creationid="Marco Marega" creationdate="20171015T203817Z">
