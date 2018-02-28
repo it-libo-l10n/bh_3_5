@@ -5046,6 +5046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cascading Delete</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222838Z" creationid="Marco Marega" creationdate="20180228T222838Z">
+        <seg>Elimina cascata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Category, Mediastyle, Town and Publisher have a 1:n relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222556Z" creationid="Marco Marega" creationdate="20180128T222556Z">
@@ -8154,6 +8162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222705Z" creationid="Marco Marega" creationdate="20180228T222705Z">
         <seg>Se un record viene &lt;f0&gt;eliminato&lt;/f0&gt; dalla tabella &lt;f1&gt;Street&lt;/f1&gt;, sono disponibili le seguenti opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a record is deleted from the &lt;f0&gt;Street&lt;/f0&gt; table and this affects a record in the &lt;f1&gt;Address&lt;/f1&gt; table,&lt;f2&gt; &lt;/f2&gt;that record will also be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222952Z" creationid="Marco Marega" creationdate="20180228T222952Z">
+        <seg>Se un record viene eliminato dalla tabella &lt;f0&gt;Street&lt;/f0&gt; e ciò influisce su di un record della tabella &lt;f1&gt;Adress&lt;/f1&gt;,&lt;f2&gt; &lt;/f2&gt;verrà cancellato anche quel record.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12722,6 +12738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T214007Z" creationid="MicrosoftSucks" creationdate="20180218T214007Z">
         <seg>Questo significa che i campi senza voce titolo non verranno mai visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That might seem strange in this context but there are other table structures in which it makes a lot of sense.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223125Z" creationid="Marco Marega" creationdate="20180228T223125Z">
+        <seg>In questo contesto questo può sembrare strano, ma ci sono altre strutture di tabelle, nelle quali ciò ha molto senso.</seg>
       </tuv>
     </tu>
     <tu>
