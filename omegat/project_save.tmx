@@ -8150,6 +8150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a record is &lt;f0&gt;deleted&lt;/f0&gt; from the &lt;f1&gt;Street&lt;/f1&gt; table, the following options are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222705Z" creationid="Marco Marega" creationdate="20180228T222705Z">
+        <seg>Se un record viene &lt;f0&gt;eliminato&lt;/f0&gt; dalla tabella &lt;f1&gt;Street&lt;/f1&gt;, sono disponibili le seguenti opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a spin arrow is pressed down and held, this determines if the entry in the box should be incremented beyond the next value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T193643Z" creationid="Marco Marega" creationdate="20171017T193643Z">
@@ -8474,6 +8482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221301Z" creationid="Marco Marega" creationdate="20180228T221301Z">
         <seg>Se la chiave primaria &lt;f0&gt;Street_ID&lt;/f0&gt; viene modificata, il valore di &lt;f1&gt;Adress.Street_ID &lt;/f1&gt;originariamente collegato a questa, viene variato nel valore precedentemente impostato come predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the requested deletion affects a record in the Address table, the request will be refused.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222824Z" creationid="Marco Marega" creationdate="20180228T222824Z">
+        <seg>Se l'eliminazione richiesta influisce su di un record della tabella Adress, la richiesta viene rifiutata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10518,10 +10534,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Action</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222713Z" creationid="Marco Marega" creationdate="20180228T222713Z">
+        <seg>Nessuna operazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No action</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214240Z" creationid="Marco Marega" creationdate="20180228T214015Z">
         <seg>Nessuna operazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No action takes place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222727Z" creationid="Marco Marega" creationdate="20180228T222727Z">
+        <seg>Non viene eseguita nessuna azione.</seg>
       </tuv>
     </tu>
     <tu>
