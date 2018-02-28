@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If the default value in a foreign key field is no&lt;/f0&gt;&lt;f1&gt;t linked to a primary key of the foreign table, a link to a value would be created, that isn't possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222343Z" creationid="Marco Marega" creationdate="20180228T222343Z">
+        <seg>&lt;f0&gt;Se il valore predefinito di una chiave esterna non &lt;/f0&gt;&lt;f1&gt; è collegato a una chiave primaria della tabella esterna, verrà creato un collegamento a un valore non consentito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the field &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter_1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is not &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NULL&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, those records are displayed for which the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Title&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; is the same as &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Filter_1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213448Z" creationid="MicrosoftSucks" creationdate="20180218T213448Z">
@@ -9886,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It would be better not to use the possibility to set the value to default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222603Z" creationid="Marco Marega" creationdate="20180228T222603Z">
+        <seg>Sarebbe preferibile non usare la possibilità di impostare la voce a un valore predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It would be better to use a list box to find the reader and carry out the issue and return operations in separate table controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215811Z" creationid="Marco Marega" creationdate="20171217T220420Z">
@@ -14706,6 +14722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214840Z" creationid="Marco Marega" creationdate="20180227T214840Z">
         <seg>I riferimenti nella tabella &lt;f4&gt;Adress &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt; scomparirebbero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The referential integrity of the database would be destroyed.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222431Z" creationid="Marco Marega" creationdate="20180228T222431Z">
+        <seg>L'integrità referenziale del database verrà distrutta.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
