@@ -8262,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f2&gt;primary key of a record&lt;/f2&gt; in this table is &lt;f3&gt;altered (Update)&lt;/f3&gt;, the following actions might take place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214001Z" creationid="Marco Marega" creationdate="20180228T214001Z">
+        <seg>Se la &lt;f2&gt;chiave primaria di un record&lt;/f2&gt; di questa tabella viene &lt;f3&gt;modificata (Update)&lt;/f3&gt;, possono aver luogo le seguenti azioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the content extends over more lines, a scrollbar appears when the list drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
@@ -8906,6 +8914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180207T152628Z" creationid="steevie" creationdate="20180207T152628Z">
         <seg>In altre parole, potere prevenire errori nel database causati dalla cancellazione o modifica delle chiavi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In our case this is the &lt;f1&gt;Street &lt;/f1&gt;table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213836Z" creationid="Marco Marega" creationdate="20180228T213836Z">
+        <seg>Nel nostro caso si tratta della tabella &lt;f1&gt;Street &lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14442,6 +14458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143759Z" creationid="Marco Marega" creationdate="20180218T143759Z">
         <seg>Le proprietà delle tabelle devono essere impostate all'inizio: ad esempio quali campi non possono essere a ZERO e quali devono contenere un valore predefinito (Default).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The properties shown in Figure &lt;t0&gt;12&lt;/t0&gt; always relate to an action linked to the change in a record from the table containing the corresponding primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213813Z" creationid="Marco Marega" creationdate="20180228T213813Z">
+        <seg>Le proprietà illustrate nella Figura &lt;t0&gt;12&lt;/t0&gt; si riferiscono sempre a un'azione collegata alla modifica di un record della tabella che contiene la corrispondente chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
