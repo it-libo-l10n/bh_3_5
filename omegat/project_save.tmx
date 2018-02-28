@@ -15630,6 +15630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ensures that the linkage is not damaged.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220656Z" creationid="Marco Marega" creationdate="20180228T220656Z">
+        <seg>Questo garantisce che il collegamento non venga danneggiato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This equally applies later, when attempts are made to access the fields using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213550Z" creationid="Marco Marega" creationdate="20171213T213550Z">
