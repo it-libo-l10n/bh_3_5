@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Integrity constraint violation – no parent 1, table: Address ...&lt;/f0&gt; —The integrity of the relationship is not ensured.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135041Z" creationid="Marco Marega" creationdate="20180228T135041Z">
+        <seg>&lt;f0&gt;Violazione del vincolo di integrità– senza genitore 1, tabella: Adress ...&lt;/f0&gt; — L'integrità della relazione non è assicurata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170251Z" creationid="Marina Latini" creationdate="20171207T170251Z">
@@ -9070,6 +9078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the field of the Address table, &lt;f1&gt;Address.str_ID&lt;/f1&gt;, there is a number 1, which is not present in &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135113Z" creationid="Marco Marega" creationdate="20180228T135113Z">
+        <seg>Nel campo della tabella Adress table, &lt;f1&gt;Adress.str_ID&lt;/f1&gt;, c'è un numero 1, che non è presente in &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the first sub-subform, no existing data are displayed; it is used only for creating new data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220741Z" creationid="Marco Marega" creationdate="20171226T220741Z">
@@ -14250,6 +14266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T202313Z" creationid="Marco Marega" creationdate="20171210T202313Z">
         <seg>Alla pagina è stato inoltre assegnato un colore di sfondo uniforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The parent table here is &lt;f3&gt;Street&lt;/f3&gt;, since its primary key is the one that must exist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135204Z" creationid="Marco Marega" creationdate="20180228T135204Z">
+        <seg>Qui la tabella genitore è &lt;f3&gt;Street&lt;/f3&gt;, dato che la sua chiave primaria è quella che deve esistere.</seg>
       </tuv>
     </tu>
     <tu>
