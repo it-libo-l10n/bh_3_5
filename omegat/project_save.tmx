@@ -14982,6 +14982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore no link could be created since the one field cannot have the same value as the other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134601Z" creationid="Marco Marega" creationdate="20180228T134601Z">
+        <seg>Perciò il collegamento non può essere creato dato che un campo non può contenere gli stessi valori dell'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore only the main sources of error are described here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214859Z" creationid="Marco Marega" creationdate="20180204T214859Z">
