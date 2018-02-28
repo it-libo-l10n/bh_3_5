@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ALTER TABLE "Address" ALTER COLUMN "Street_ID" SET DEFAULT 1;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221531Z" creationid="Marco Marega" creationdate="20180228T221531Z">
+        <seg>ALTER TABLE "Adress" ALTER COLUMN "Street_ID" SET DEFAULT 1;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ALTER TABLE "Addresses" ADD "First Name" VARCHAR(25) BEFORE "Name";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222431Z" creationid="Marco Marega" creationdate="20180224T222431Z">
@@ -4168,8 +4176,8 @@
       <tuv lang="EN">
         <seg>All records which contain this particular primary key will now have no entry in the foreign key field&lt;f0&gt; Address.Street_ID;&lt;/f0&gt; the field will be NULL.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221042Z" creationid="Marco Marega" creationdate="20180228T221042Z">
-        <seg>Tutti i recondo che contengono questa determinata chiave primaria non avranno più alcun valore nel campo della chiave esterna &lt;f0&gt; Address.Street_ID;&lt;/f0&gt; il campo sarà impostato a NULL.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221307Z" creationid="Marco Marega" creationdate="20180228T221042Z">
+        <seg>Tutti i recondo che contengono questa determinata chiave primaria non avranno più alcun valore nel campo della chiave esterna &lt;f0&gt; Adress.Street_ID;&lt;/f0&gt; il campo sarà impostato a NULL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6856,8 +6864,8 @@
       <tuv lang="EN">
         <seg>For example, if a value is changed from 3 to 4, all records from the &lt;f1&gt;Address &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt; that contain the foreign key &lt;f4&gt;Address.Street_ID&lt;/f4&gt; with the value 3, have it changed to 4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220816Z" creationid="Marco Marega" creationdate="20180228T220816Z">
-        <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Adress &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Address.Street_ID&lt;/f4&gt; con il valore 3, verranno modificate in 4.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221310Z" creationid="Marco Marega" creationdate="20180228T220816Z">
+        <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Adress &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Adress.Street_ID&lt;/f4&gt; con il valore 3, verranno modificate in 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7034,6 +7042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144924Z" creationid="Marco Marega" creationdate="20180218T144924Z">
         <seg>Per queste, la finestra Query Design offre la possibilità aggiuntiva di modificare la ricerca in vista SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose we need an unambiguous definition of a default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221403Z" creationid="Marco Marega" creationdate="20180228T221403Z">
+        <seg>A tal fine è necessaria una definizione non ambigua del valore predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141826Z" creationid="Marco Marega" creationdate="20171231T141826Z">
         <seg>Se il database non è in uso da molto, spesso sarà necessario effettuare inserimenti in questi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the default is set using the SQL statement:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221526Z" creationid="Marco Marega" creationdate="20180228T221526Z">
+        <seg>Se il valore predefinito è impostato usando l'istruzione SQL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12986,6 +13010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145605Z" creationid="Marina Latini" creationdate="20171213T114409Z">
         <seg>La licenza LGPL &lt;i3/&gt; è consultabile sul sito web di LibreOffice all'indirizzo: &lt;a4&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice Base GUI up to Version 3.5 does not seem to provide this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221459Z" creationid="Marco Marega" creationdate="20180228T221459Z">
+        <seg>La GUI di LibreOffice Base fino alla Versione 3.5 non sembra fornire questa funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
