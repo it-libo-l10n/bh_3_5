@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But be careful!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221846Z" creationid="Marco Marega" creationdate="20180228T221846Z">
+        <seg>Fate attenzione!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But for a school database, the school class is also required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150813Z" creationid="Marco Marega" creationdate="20180127T150534Z">
@@ -12126,6 +12134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So if the primary key in the &lt;f0&gt;Street &lt;/f0&gt;table is changed, the corresponding foreign key in the &lt;f1&gt;Address&lt;/f1&gt; table will be set to 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221723Z" creationid="Marco Marega" creationdate="20180228T221723Z">
+        <seg>Perciò se la chiave primaria nella tabella &lt;f0&gt;Street &lt;/f0&gt;viene modificata, la chiave esterna corrispondente nella tabella &lt;f1&gt;Adress&lt;/f1&gt; verrà impostata a 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So if, for example, the surname is asked for as well, records for ‘Peter Müller’ and ‘Peter Maier’ will count as distinct.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T180719Z" creationid="manuel" creationdate="20180224T180719Z">
@@ -16054,6 +16070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful when a record is required to have a street field, in other words this field cannot be NULL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221826Z" creationid="Marco Marega" creationdate="20180228T221826Z">
+        <seg>Questo è utile quando è necessario che un record abbia un campo street (via), in altre parole questo campo non può essere NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful, for example, for an automatically generated primary key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203611Z" creationid="Marco Marega" creationdate="20171016T203611Z">
@@ -17842,6 +17866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114148Z" creationid="Marina Latini" creationdate="20171213T114148Z">
         <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the link definition ensures that the field will return to this value in the case of an Update.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221629Z" creationid="Marco Marega" creationdate="20180228T221629Z">
+        <seg>la definizione del collegamento assicura che il campo ritornerà a questo valore nel caso di un aggiornamento.</seg>
       </tuv>
     </tu>
     <tu>
