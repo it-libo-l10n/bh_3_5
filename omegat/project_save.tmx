@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To avoid error messages from the database as far as possible, since these may not always be comprehensible to the user, the &lt;/f0&gt;&lt;f1&gt;No Action &lt;/f1&gt;&lt;f2&gt;option should definitely be avoided.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223908Z" creationid="Marco Marega" creationdate="20180228T223908Z">
+        <seg>&lt;f0&gt;Considerato che i messaggi di errore da parte del database non sono sempre comprensibili per l'utente, per evitarli il più possibile, l'opzione &lt;/f0&gt;&lt;f1&gt;Nessuna operazione &lt;/f1&gt;&lt;f2&gt;dovrebbe essere assolutamente evitata.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To correct the error, remove the check mark in the Visible row for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Return_Date field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150336Z" creationid="Manuel Frassinetti" creationdate="20171216T150336Z">
@@ -9846,6 +9854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It means that the user does not need to delete all these titles before deleting the CD from the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223452Z" creationid="Marco Marega" creationdate="20180228T223452Z">
+        <seg>Significa che l'utente non ha la necessità di cancellare tutti i titoli prima di eliminare il CD dal database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It might also contain books with multiple authors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215630Z" creationid="Marco Marega" creationdate="20180126T215630Z">
@@ -12049,6 +12065,22 @@
         <seg>Set null</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220854Z" creationid="Marco Marega" creationdate="20180228T220854Z">
+        <seg>Imposta zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set to Default</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223610Z" creationid="Marco Marega" creationdate="20180228T223610Z">
+        <seg>Imposta predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set to Null</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223509Z" creationid="Marco Marega" creationdate="20180228T223509Z">
         <seg>Imposta zero</seg>
       </tuv>
     </tu>
@@ -16194,6 +16226,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150918Z" creationid="manuel" creationdate="20180224T150918Z">
         <seg>Questo è lo stesso di &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;LIMIT 0 10&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the same as for the update option and requires the same precautions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223628Z" creationid="Marco Marega" creationdate="20180228T223628Z">
+        <seg>Questa è la stessa opzione prevista nel caso di aggiornamento e richiede le stesse precauzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the same as for the update option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223549Z" creationid="Marco Marega" creationdate="20180228T223549Z">
+        <seg>Questa è la stessa opzione prevista nel caso di aggiornamento.</seg>
       </tuv>
     </tu>
     <tu>
