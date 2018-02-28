@@ -8294,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the foreign key field contains an entry that is not present in the parent table (the table containing the primary key), this is an invalid entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135433Z" creationid="Marco Marega" creationdate="20180228T135433Z">
+        <seg>Se il campo della chiave esterna contiene un valore che non è presente nella tabella genitore (la tabella che contiene la chiave primaria), questo è un valore non valido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the form is intended for carrying out loans, it is unnecessary and also confusing for returned media to be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T204130Z" creationid="Marco Marega" creationdate="20171213T204130Z">
@@ -15538,6 +15546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213550Z" creationid="Marco Marega" creationdate="20171213T213550Z">
         <seg>Questo vale anche in seguito, quando si tenterà di accedere ai comandi di campo usando delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This error is very common, when two tables are to be linked and some fields in the table with the prospective foreign key already contain data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135330Z" creationid="Marco Marega" creationdate="20180228T135330Z">
+        <seg>Questo errore è molto comune, quando due tabelle devono essere collegate e alcuni campi nella tabella con la chiave esterna di riferimento contengono già dei dati.</seg>
       </tuv>
     </tu>
     <tu>
