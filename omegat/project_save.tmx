@@ -8414,6 +8414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the primary key &lt;f0&gt;Street_ID&lt;/f0&gt; is changed, the value of &lt;f1&gt;Address.Street_ID &lt;/f1&gt;originally linked to it is set to the previously defined default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221301Z" creationid="Marco Marega" creationdate="20180228T221301Z">
+        <seg>Se la chiave primaria &lt;f0&gt;Street_ID&lt;/f0&gt; viene modificata, il valore di &lt;f1&gt;Adress.Street_ID &lt;/f1&gt;originariamente collegato a questa, viene variato nel valore precedentemente impostato come predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the street 'Burgring' in the Street table has the ID '3' and is also represented in &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Address&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Street&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;ID&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;, the ID can be safely &lt;/f25&gt;&lt;/f24&gt;&lt;t26/&gt;&lt;f27&gt;&lt;f28&gt;altered, for example, to '67' – the corresponding &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;Address&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;"."&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;Street&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;_&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;ID&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt; values will be automatically be changed to '67'.&lt;/f44&gt;&lt;/f43&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151516Z" creationid="steevie" creationdate="20180209T151516Z">
@@ -11882,6 +11890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204604Z" creationid="Marco Marega" creationdate="20171026T204604Z">
         <seg>Separatore delle migliaia, di solito una &lt;f0&gt;virgola&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set default</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221052Z" creationid="Marco Marega" creationdate="20180228T221052Z">
+        <seg>Imposta predefinito</seg>
       </tuv>
     </tu>
     <tu>
