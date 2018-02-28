@@ -7838,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However as soon as a table contains foreign keys from other tables, users must either remember which key numbers to enter or they must be able to look at the other tables simultaneously.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T224231Z" creationid="Marco Marega" creationdate="20180228T224231Z">
+        <seg>In ogni caso, non appena una tabella contiene delle chiavi esterne da altre tabelle, gli utenti dovranno ricordarsi i numeri da inserire, oppure devono avere la possibilità di visualizzare simultaneamente le altre tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However if &lt;f7&gt;Enabled&lt;/f7&gt; is set to &lt;f8&gt;No&lt;/f8&gt;, a choice cannot be made there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210559Z" creationid="Marco Marega" creationdate="20171229T210559Z">
@@ -9154,6 +9162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223404Z" creationid="Marco Marega" creationdate="20180228T223404Z">
         <seg>In questi casi, un'eliminazione a cascata ha senso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In such cases, a form is useful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T224249Z" creationid="Marco Marega" creationdate="20180228T224249Z">
+        <seg>In tali casi, un formulario è utile.</seg>
       </tuv>
     </tu>
     <tu>
