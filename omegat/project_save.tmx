@@ -4758,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But again there is an error:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134802Z" creationid="Marco Marega" creationdate="20180228T134802Z">
+        <seg>Ma c'è di nuovo un errore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But for a school database, the school class is also required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150813Z" creationid="Marco Marega" creationdate="20180127T150534Z">
@@ -9166,6 +9174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case the column types match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134711Z" creationid="Marco Marega" creationdate="20180228T134711Z">
+        <seg>In questo caso il tipo di colonne coincide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case the field &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Return_&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;ate&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; has been added as a displayed field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115704Z" creationid="Manuel Frassinetti" creationdate="20171216T115704Z">
@@ -12922,6 +12938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220629Z" creationid="Marco Marega" creationdate="20171210T220629Z">
         <seg>Ora potete creare la ricerca SQL per la casella di riepilogo mediante l'interfaccia grafica, facendo clic sul pulsante a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The SQL statement is the same as in the first example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134735Z" creationid="Marco Marega" creationdate="20180228T134735Z">
+        <seg>L'istruzione SQL è la stessa del primo esempio.</seg>
       </tuv>
     </tu>
     <tu>
