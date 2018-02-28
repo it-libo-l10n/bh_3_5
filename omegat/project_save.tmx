@@ -8310,6 +8310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the linking is carried out successfully and subsequently there is an attempt to enter a similarly invalid record into the table, you get the following error message:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213045Z" creationid="Marco Marega" creationdate="20180228T213045Z">
+        <seg>Se il collegamento viene realizzato con successo e successivamente vi è un tentativo di inserire nella tabella un simile record non valido, otterrete il seguente messaggio di errore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the loan period is linked to any other criteria, there will be corresponding changes in your methodology.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205338Z" creationid="Marco Marega" creationdate="20180202T205201Z">
