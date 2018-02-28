@@ -4166,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All records which contain this particular primary key will now have no entry in the foreign key field&lt;f0&gt; Address.Street_ID;&lt;/f0&gt; the field will be NULL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221042Z" creationid="Marco Marega" creationdate="20180228T221042Z">
+        <seg>Tutti i recondo che contengono questa determinata chiave primaria non avranno più alcun valore nel campo della chiave esterna &lt;f0&gt; Address.Street_ID;&lt;/f0&gt; il campo sarà impostato a NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All special tables in HSQLDB are described in the appendix to this handbook.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161050Z" creationid="steevie" creationdate="20180205T161050Z">
@@ -6358,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Editing the properties of a relationship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220834Z" creationid="Marco Marega" creationdate="20180228T220834Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Modificare le proprietà di una relazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
@@ -6834,6 +6850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170722Z" creationid="Manuel Frassinetti" creationdate="20171202T170715Z">
         <seg>Per esempio, cambiate il nome del lettore, e avete anche cambiato quale libro il lettore ha preso e restituito.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if a value is changed from 3 to 4, all records from the &lt;f1&gt;Address &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt; that contain the foreign key &lt;f4&gt;Address.Street_ID&lt;/f4&gt; with the value 3, have it changed to 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220816Z" creationid="Marco Marega" creationdate="20180228T220816Z">
+        <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Adress &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Address.Street_ID&lt;/f4&gt; con il valore 3, verranno modificate in 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11858,6 +11882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204604Z" creationid="Marco Marega" creationdate="20171026T204604Z">
         <seg>Separatore delle migliaia, di solito una &lt;f0&gt;virgola&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set null</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220854Z" creationid="Marco Marega" creationdate="20180228T220854Z">
+        <seg>Imposta zero</seg>
       </tuv>
     </tu>
     <tu>
