@@ -4622,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attention</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222159Z" creationid="Marco Marega" creationdate="20180228T222159Z">
+        <seg>Attenzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-incrementing values with external HSQLDB</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103011Z" creationid="Marina Latini" creationdate="20171207T103011Z">
@@ -8030,6 +8038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If 1 is not in use, you will have created a link to a non-exist&lt;f2&gt;e&lt;/f2&gt;nt value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221945Z" creationid="Marco Marega" creationdate="20180228T221945Z">
+        <seg>Se 1 non è utilizzato, dovrete creare un collegamento a un valore non &lt;f2&gt;esistente&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;f0&gt;Y&lt;/f0&gt;es, the button can be shown pressed in.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212840Z" creationid="Marco Marega" creationdate="20171126T212840Z">
@@ -9326,6 +9342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case HSQLDB seems to have been designed without due thought.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222039Z" creationid="Marco Marega" creationdate="20180228T222039Z">
+        <seg>In questo caso sembra che HSQLDB sia stato progettato senza la dovuta attenzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case the column types match.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134711Z" creationid="Marco Marega" creationdate="20180228T134711Z">
@@ -9746,6 +9770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214353Z" creationid="Marco Marega" creationdate="20180204T214353Z">
         <seg>Viene poi scritto nel campo ogni volta che questo è vuoto in un nuovo record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore possible to destroy the integrity of the relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222128Z" creationid="Marco Marega" creationdate="20180228T222128Z">
+        <seg>È quindi possibile distruggere l'integrità della relazione.</seg>
       </tuv>
     </tu>
     <tu>
