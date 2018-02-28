@@ -10400,8 +10400,8 @@
       <tuv lang="EN">
         <seg>No action</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214015Z" creationid="Marco Marega" creationdate="20180228T214015Z">
-        <seg>Nessuna azione</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214240Z" creationid="Marco Marega" creationdate="20180228T214015Z">
+        <seg>Nessuna operazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -16634,6 +16634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211149Z" creationid="Marco Marega" creationdate="20171026T211717Z">
         <seg>A differenza di un semplice campo valuta, un campo formattato può visualizzare in rosso gli importi negativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update cascade</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220226Z" creationid="Marco Marega" creationdate="20180228T214235Z">
+        <seg>Aggiorna cascata</seg>
       </tuv>
     </tu>
     <tu>
