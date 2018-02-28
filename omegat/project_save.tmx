@@ -5118,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the primary key &lt;f0&gt;Street.ID&lt;/f0&gt; is not allowed in this case, as it would break the relationship between the tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214210Z" creationid="Marco Marega" creationdate="20180228T214210Z">
+        <seg>In questo caso non è permesso modificare la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt;, in quanto ciò interromperebbe la relazione tra le due tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085845Z" creationid="Marina Latini" creationdate="20171003T085845Z">
@@ -10386,6 +10394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175334Z" creationid="Marco Marega" creationdate="20171226T175334Z">
         <seg>A lato della casella di riepilogo, viene creato un pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No action</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214015Z" creationid="Marco Marega" creationdate="20180228T214015Z">
+        <seg>Nessuna azione</seg>
       </tuv>
     </tu>
     <tu>
