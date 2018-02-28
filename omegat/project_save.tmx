@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Column types do not match in statement&lt;/f0&gt;—As the SQL command is displayed as well, the reference is clearly to the columns &lt;f1&gt;Address.str_ID&lt;/f1&gt; and &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134212Z" creationid="Marco Marega" creationdate="20180228T134212Z">
+        <seg>&lt;f0&gt;Il tipo di colonna non trova corrispondenza in statement&lt;/f0&gt;— Dato che viene visualizzato anche il comando SQL, il riferimento è chiaramente alle colonne &lt;f1&gt;Adress.str_ID&lt;/f1&gt; e &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Content type&lt;/f0&gt;: &lt;f1&gt;C&lt;/f1&gt;hoose between &lt;f2&gt;Table&lt;/f2&gt;, &lt;f3&gt;Query&lt;/f3&gt; and &lt;f4&gt;SQL command&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T185110Z" creationid="Marco Marega" creationdate="20171014T185110Z">
@@ -6874,6 +6882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173327Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
         <seg>Per tali scopi, i dati da cercare vengono raccolti meglio utilizzando una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For test purposes one of these fields was defined as an Integer, the other as Tiny Integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134443Z" creationid="Marco Marega" creationdate="20180228T134443Z">
+        <seg>A scopo di prova uno di questi campi è stato creato come Intero (INTEGER) e l'altro come Intero molto piccolo (TINY INTEGER).</seg>
       </tuv>
     </tu>
     <tu>
