@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again this is an integrity violation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213116Z" creationid="Marco Marega" creationdate="20180228T213116Z">
+        <seg>Anche questa è una violazione dell'integrità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alignment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204601Z" creationid="Marco Marega" creationdate="20171016T204601Z">
@@ -4666,6 +4674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105155Z" creationid="Marina Latini" creationdate="20171207T105155Z">
         <seg>Base include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base refuses to accept the value 1 for the field &lt;f0&gt;str_ID&lt;/f0&gt; after the link has been made because the &lt;f1&gt;Street&lt;/f1&gt; table contains no such&lt;f2&gt; v&lt;/f2&gt;alue in the ID field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213429Z" creationid="Marco Marega" creationdate="20180228T213429Z">
+        <seg>Dopo che il collegamento è stato creato, Base si rifiuta di accettare il valore 1 nel campo &lt;f0&gt;str_ID&lt;/f0&gt; perché la tabella &lt;f1&gt;Street&lt;/f1&gt;, nel campo ID, non contiene lo stesso &lt;f2&gt; valore&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
