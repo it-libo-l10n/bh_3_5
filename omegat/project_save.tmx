@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;For the &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;Yes&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; condition, you can use either &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;TRUE&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; or &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173503Z" creationid="manuel" creationdate="20180301T173409Z">
+        <seg>&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Per la condizione &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;Sì&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;, usate entrambi &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;VERO&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; o &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;All specified actions apply to the Address table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, which contains the foreign key Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155807Z" creationid="steevie" creationdate="20180207T153403Z">
@@ -7146,6 +7154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212737Z" creationid="Marco Marega" creationdate="20180219T211026Z">
         <seg>Per i campi di testo, potete inserire del testo tra virgolette singole oppure &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;No&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt; condition, use either &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;FALSE&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; or &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;0&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173526Z" creationid="manuel" creationdate="20180301T173452Z">
+        <seg>Per la condizione &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;No&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;, usate entrambi &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;FALSO&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; o &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;0&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;.</seg>
       </tuv>
     </tu>
     <tu>
