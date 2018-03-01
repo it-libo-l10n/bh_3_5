@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1266,6 +1266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210801Z" creationid="Marco Marega" creationdate="20180219T210801Z">
         <seg>&lt;Definizione campo&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;Select-Formulation&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154255Z" creationid="manuel" creationdate="20180301T154255Z">
+        <seg>&lt;Selezione-Formulazione&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,6 +6218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162312Z" creationid="Marina Latini" creationdate="20171205T162312Z">
         <seg>Inserimento usando l'interfaccia grafica di Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even if you specify the &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;DISTINCT&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; condition, both will be displayed.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154210Z" creationid="manuel" creationdate="20180301T154210Z">
+        <seg>Anche se indicate la condizione &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;DISTINCT&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;, saranno mostrate entrambe.&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18122,6 +18138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145439Z" creationid="manuel" creationdate="20180224T145439Z">
         <seg>{ &lt;Select-Formulation&gt; | "Tabella_nome".* | * } [, ...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{ Expression | COUNT(*) |</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154305Z" creationid="manuel" creationdate="20180301T154305Z">
+        <seg>{ Espressione | COUNT(*) |</seg>
       </tuv>
     </tu>
     <tu>
