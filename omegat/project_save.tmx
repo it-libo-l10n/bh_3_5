@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Class &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;contains the names of the swimming class.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173859Z" creationid="manuel" creationdate="20180301T173859Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Classe &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;contiene i nomi della classe di nuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Defining relationships helps keep the relationships themselves clean, but it does not remove unnecessary records &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; provide their primary key as a foreign key in the relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152742Z" creationid="steevie" creationdate="20180209T152742Z">
@@ -8838,6 +8846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you try to use either “Yes” or “No” &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;instead&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;, you get an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173703Z" creationid="manuel" creationdate="20180301T173703Z">
+        <seg>Se provate ad usare invece entrambi “Sì” o “No” &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;, riceverete un messaggio di errore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use the Select icon (Fig&lt;f0&gt;ure&lt;/f0&gt; &lt;t1&gt;24&lt;/t1&gt;) to select a large region or several elements of a form, the following modifications may be carried out (see Fig&lt;f2&gt;ure&lt;/f2&gt; &lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193157Z" creationid="Marco Marega" creationdate="20171210T193157Z">
@@ -12010,6 +12026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161015Z" creationid="steevie" creationdate="20180205T161015Z">
         <seg>SELECT "COLUMN_NAME", "TYPE_NAME", "COLUMN_SIZE", "COLUMN_DEF" AS "Default Value" FROM "INFORMATION_SCHEMA"."SYSTEM_COLUMNS" WHERE "TABLE_NAME" = 'Ricerca_Tabella' ORDER BY "ORDINAL_POSITION"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Class", EVERY("Swimmer") FROM "Table1" GROUP BY "Class";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173821Z" creationid="manuel" creationdate="20180301T173821Z">
+        <seg>SELECT "Classe", EVERY("Nuotatore") FROM "Tabella1" GROUP BY "Classe";</seg>
       </tuv>
     </tu>
     <tu>
@@ -15490,6 +15514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140311Z" creationid="Marco Marega" creationdate="20180218T140311Z">
         <seg>Poi potete accedere alla creazione dell'indice con &lt;f0&gt;Strumenti &gt; Struttura indice&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you will have to correct your error.&lt;/f47&gt;&lt;/f46&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173750Z" creationid="manuel" creationdate="20180301T173750Z">
+        <seg>Quindi dovrete correggere il vostro errore.&lt;/f47&gt;&lt;/f46&gt;</seg>
       </tuv>
     </tu>
     <tu>
