@@ -6318,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Except for &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;COUNT(*)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; (which counts all the records) none of these functions access &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; fields.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154800Z" creationid="manuel" creationdate="20180301T154800Z">
+        <seg>Eccetto per &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;COUNT(*)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; (che conta tutti i record di dati) nessuna di queste funzioni ha accesso ai campi &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explorer on/off</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160336Z" creationid="Marina Latini" creationdate="20171206T160336Z">
@@ -8866,6 +8874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T223712Z" creationid="Marco Marega" creationdate="20171102T223038Z">
         <seg>In un database, non sembra avere molto senso non memorizzare in un campo il valore di una casella combinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition different functions are available for the field &lt;/f0&gt;&lt;f1&gt;shown&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154635Z" creationid="manuel" creationdate="20180301T154635Z">
+        <seg>In aggiunta differenti funzioni sono disponibli per i campo &lt;/f0&gt;&lt;f1&gt;mostrato&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
