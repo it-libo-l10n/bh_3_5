@@ -12822,6 +12822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text is shown as text, integers as integers, decimals as decimals and so on.&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155416Z" creationid="manuel" creationdate="20180301T155416Z">
+        <seg>Il testo è mostrato come testo, interi come interi, decimali come decimali e così via.&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f0&gt;is grid helps&lt;/f0&gt; you to position the controls accurately, especially in relation to each other.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133347Z" creationid="Marco Marega" creationdate="20171014T133347Z">
@@ -14954,6 +14962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164329Z" creationid="Manuel Frassinetti" creationdate="20171216T164329Z">
         <seg>Il risultato della ricerca è simile a questo:&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result of this function is always formatted just as it occurs in the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155332Z" creationid="manuel" creationdate="20180301T155332Z">
+        <seg>Il risultato di questa funzione è sempre formattato esattamente come compare nel campo.</seg>
       </tuv>
     </tu>
     <tu>
