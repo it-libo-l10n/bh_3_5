@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1298,6 +1298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115159Z" creationid="Manuel Frassinetti" creationdate="20171216T115159Z">
         <seg>&lt;/f8&gt;&lt;f9&gt;Quindi, tutti i campi visibili devono essere associati a una funzione o  &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;non essere associati a una funzione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; per prevenire questo conflitto nel risultato della ricerca.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Enter&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; a number that does not appear in &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;the &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;field &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;of the table &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;to be filtered.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174913Z" creationid="MicrosoftSucks" creationdate="20180301T174913Z">
+        <seg>&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Inserite&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; un numero che non compaia &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;nel &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;campo &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;della tabella &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;da filtrare.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,6 +3074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
         <seg>&lt;f0&gt;Questo sito fornisce supporto per LibreOffice e altri programmi:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This variant will lead to the desired goal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174956Z" creationid="MicrosoftSucks" creationdate="20180301T174956Z">
+        <seg>&lt;f0&gt;Questa variante produrra' l'effetto desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9802,6 +9818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T152554Z" creationid="Manuel Frassinetti" creationdate="20171216T152554Z">
         <seg>Invece del nome di un campo, la designazione del campo è data come  &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;conteggio&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(Richiami.Data)*2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of filtering &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Title&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; directly, a field is filtered which carries the alias &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175036Z" creationid="MicrosoftSucks" creationdate="20180301T175036Z">
+        <seg>Invece di filtrare direttamente &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Title&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; directly, a field is filtered which carries the alias &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
