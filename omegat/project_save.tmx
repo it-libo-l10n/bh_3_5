@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13750,6 +13750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Sort, Search, and Filter functions are very useful for retrieving particular records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215925Z" creationid="Marco Marega" creationdate="20180301T215925Z">
+        <seg>Le funzioni Ordina, Cerca e Filtro sono molto utili per trovare un determinato record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Subtitle and rel_Media_author tables are linked to subforms of the Media form through a n:1 relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T213939Z" creationid="Marco Marega" creationdate="20171230T213939Z">
@@ -17234,6 +17242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213712Z" creationid="Marco Marega" creationdate="20171216T213712Z">
         <seg>Per creare un campo di controllo tabella nel formulario principale, dovete ora selezionare il formulario principale nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete a record, select the row by clicking its header (the grey area to the left), right-click and choose &lt;f0&gt;Delete Rows&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215701Z" creationid="Marco Marega" creationdate="20180301T215701Z">
+        <seg>Per eliminare un record, selezionate la riga facendo clic sulla sua intestazione (la zona grigia alla sua sinistra), fare clic con il pulsante destro del mouse e scegliete &lt;f0&gt;Elimina righe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
