@@ -5342,6 +5342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing a record is easy: find the field, enter a different value, and leave the row again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215524Z" creationid="Marco Marega" creationdate="20180301T215524Z">
+        <seg>Modificare un record è facile: trovate il campo, inserite un valore diverso, abbandonate di nuovo la riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing fields within the table control is not possible using the same method as described for other controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213034Z" creationid="Marco Marega" creationdate="20171213T213034Z">
@@ -14066,6 +14074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175208Z" creationid="Manuel Frassinetti" creationdate="20171214T174958Z">
         <seg>La formula corrispondente in codice SQL è stata mostrata in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corresponding column, the table and the SQL command (as translated by the GUI) are also displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215421Z" creationid="Marco Marega" creationdate="20180301T215421Z">
+        <seg>Vengono inoltre visualizzati: la colonna, la tabella e il comando SQL (così come interpretato dalla GUI).</seg>
       </tuv>
     </tu>
     <tu>
