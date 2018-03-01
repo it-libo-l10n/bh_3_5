@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3434,6 +3434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222522Z" creationid="Marco Marega" creationdate="20180224T222522Z">
         <seg>&lt;f2&gt;ADD "First Name" VARCHAR(25)&lt;/f2&gt;: inserisce il campo "FirstName" della lunghezza di 25 caratteri.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Attempt to insert null into a non-nullable column …&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215314Z" creationid="Marco Marega" creationdate="20180301T215314Z">
+        <seg>&lt;f2&gt;Tentativo di inserire null in una colonna che non ammette valori nulli…&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8618,6 +8626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193821Z" creationid="Marco Marega" creationdate="20171212T193821Z">
         <seg>Se necessario, la selezione tramite tabulatore può essere regolata &lt;f0&gt;usando&lt;/f0&gt; la sequenza di attivazione (vedete a pagina &lt;bf1&gt;70&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no data is entered into a field that has been previously defined during table design as mandatory (&lt;f0&gt;NOT NULL&lt;/f0&gt;), the appropriate error message is displayed:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215114Z" creationid="Marco Marega" creationdate="20180301T215114Z">
+        <seg>Se non vengono inseriti dati in un campo che in fase di progettazione della tabella è stato definito come obbligatorio (&lt;f0&gt;NOT NULL&lt;/f0&gt;), verrà visualizzato un messaggio di errore appropriato:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
