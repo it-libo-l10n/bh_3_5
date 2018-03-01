@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;AVG("Number")&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; shows the average of the contents of a column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162542Z" creationid="manuel" creationdate="20180301T162542Z">
+        <seg>&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;AVG("Numero")&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; mostra la media del contenuto di una colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Its search condition (Criterion) is applied when the query is run, but it is not visible in the query output.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150451Z" creationid="Manuel Frassinetti" creationdate="20171216T150451Z">
@@ -14162,6 +14170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T203446Z" creationid="Marco Marega" creationdate="20171125T203446Z">
         <seg>La formattazione del campo &lt;f4&gt;Extension&lt;/f4&gt; con due cifre decimali non era certamente intenzionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The function fails for date fields.&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162454Z" creationid="manuel" creationdate="20180301T162454Z">
+        <seg>La funzione va errore per i campi data.&lt;br23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
