@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IFNULL(expression, value)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; requires the &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;expression&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; has the same field type as the &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;value&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T173911Z" creationid="MicrosoftSucks" creationdate="20180301T173911Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IFNULL(expression, value)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; richiede che l' &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;espressione&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; abbia lo stesso tipo di campo del &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;valore&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Set null&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; is chosen, altering the ID makes "Address"."Street_ID" an empty field.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151829Z" creationid="steevie" creationdate="20180209T151829Z">
@@ -1538,6 +1546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162650Z" creationid="steevie" creationdate="20180216T162325Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Se una tabella contiene chiavi esterne da diverse altre tabelle, dovete estendere l'interrogazione di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;expression&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;ha&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;s &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;the field type&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;VARCHAR&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;, use two single quotes &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;''&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as the value&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174103Z" creationid="MicrosoftSucks" creationdate="20180301T174103Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se l' &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;espressione&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;ha&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;s &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;campo di tipo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;VARCHAR&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;, usate due virgolette semplici &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;''&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;per il valore&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,6 +15690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140135Z" creationid="Marco Marega" creationdate="20180203T140135Z">
         <seg>Perciò è necessaria tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore we need to improve the query:&lt;/f35&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T173548Z" creationid="MicrosoftSucks" creationdate="20180301T173548Z">
+        <seg>Quindi dobbiamo raffinare la query:&lt;/f35&gt;</seg>
       </tuv>
     </tu>
     <tu>
