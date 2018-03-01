@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Name")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; shows the first name alphabetically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155155Z" creationid="manuel" creationdate="20180301T155155Z">
+        <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Nome")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; mostra il primo nome alfabeticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Important maintenance is described in this chapter.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152255Z" creationid="steevie" creationdate="20180205T152255Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T212008Z" creationid="osvaldo" creationdate="20180103T212008Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Base – &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;un&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;c&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ontenitore p&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;e&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;r &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;d&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;at&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;abase&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;COUNT("Name")&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; counts all &lt;/f2&gt;&lt;f3&gt;entries&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;for the field Name&lt;/f5&gt;&lt;f6&gt;.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155115Z" creationid="manuel" creationdate="20180301T155115Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;COUNT("Nome")&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; conta tutti gli &lt;/f2&gt;&lt;f3&gt;inserimenti&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;per il campo Nome&lt;/f5&gt;&lt;f6&gt;.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
