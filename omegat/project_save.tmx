@@ -9510,6 +9510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the conditions only the field &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; is considered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175329Z" creationid="MicrosoftSucks" creationdate="20180301T175329Z">
+        <seg>Nelle condizioni e' considerato solo il campo &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the control the Loans table i&lt;f0&gt;s availab&lt;/f0&gt;le for editing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201318Z" creationid="Marco Marega" creationdate="20171125T201318Z">
@@ -9824,8 +9832,8 @@
       <tuv lang="EN">
         <seg>Instead of filtering &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Title&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; directly, a field is filtered which carries the alias &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175036Z" creationid="MicrosoftSucks" creationdate="20180301T175036Z">
-        <seg>Invece di filtrare direttamente &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Title&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; directly, a field is filtered which carries the alias &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175146Z" creationid="MicrosoftSucks" creationdate="20180301T175036Z">
+        <seg>Invece di filtrare direttamente il campo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Titolo&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; viene filtrato un campo corrispondente all'alias &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16226,6 +16234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135330Z" creationid="Marco Marega" creationdate="20180228T135330Z">
         <seg>Questo errore è molto comune, quando due tabelle devono essere collegate e alcuni campi nella tabella con la chiave esterna di riferimento contengono già dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This field has no content either but it is not &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;NULL&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175240Z" creationid="MicrosoftSucks" creationdate="20180301T175240Z">
+        <seg>Anche questo campo non ha contenuto ma non e' &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;NULL&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
