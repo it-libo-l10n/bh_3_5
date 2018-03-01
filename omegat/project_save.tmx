@@ -6398,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entry into the table usually takes place from left to right using the keyboard with the &lt;f0&gt;Tab or Ent&lt;/f0&gt;&lt;f1&gt;er&lt;/f1&gt; keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T213956Z" creationid="Marco Marega" creationdate="20180301T213956Z">
+        <seg>L'inserimento di dati nella tabella di solito avviene da sinistra a destra usando per spostarsi i tasti &lt;f0&gt;Tab o &lt;/f0&gt;&lt;f1&gt;Invio&lt;/f1&gt; della tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entry using the Base GUI</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211615Z" creationid="Marina Latini" creationdate="20171205T162312Z">
@@ -13942,6 +13950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The column continues to exist in the table and can always be made visible again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T213815Z" creationid="Marco Marega" creationdate="20180301T213815Z">
+        <seg>La colonna continua a esistere nella tabella è può sempre essere resa nuovamente visibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The combo box shows the first name, and text input is not necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230414Z" creationid="Marco Marega" creationdate="20171102T230414Z">
@@ -16918,6 +16934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This setting is stored with the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T213736Z" creationid="Marco Marega" creationdate="20180301T213736Z">
+        <seg>Questa impostazione è memorizzata con la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This should be displayed in the combo box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222917Z" creationid="Marco Marega" creationdate="20171102T222917Z">
@@ -18178,6 +18202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225921Z" creationid="Marco Marega" creationdate="20171214T225921Z">
         <seg>Se conoscete il codice SQL potete anche inserire direttamente i comandi nel campo testuale &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214008Z" creationid="Marco Marega" creationdate="20180301T214008Z">
+        <seg>Potete utilizzare anche il mouse.</seg>
       </tuv>
     </tu>
     <tu>
