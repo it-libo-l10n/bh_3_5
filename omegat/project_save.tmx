@@ -6694,6 +6694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Quick Sort</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T220013Z" creationid="Marco Marega" creationdate="20180301T220013Z">
+        <seg>Figura &lt;seq0&gt;16&lt;/seq0&gt;: Ordinamento veloce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
@@ -12882,6 +12890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T181648Z" creationid="Manuel Frassinetti" creationdate="20171204T181648Z">
         <seg>L'ordinamento viene eseguito nell'interfaccia utente grafica in base alla sequenza di campi nella vista tabellare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorting tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215947Z" creationid="Marco Marega" creationdate="20180301T215947Z">
+        <seg>Ordinare le tabelle</seg>
       </tuv>
     </tu>
     <tu>
