@@ -16126,6 +16126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This function too is limited to numeric&lt;/f26&gt;&lt;f27&gt;al&lt;/f27&gt;&lt;f28&gt; fields.&lt;br29/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162706Z" creationid="manuel" creationdate="20180301T162706Z">
+        <seg>Anche questa funzione è limitata ai soli campi&lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt; numerici.&lt;br29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This function, available on the Formula Design toolbar (see &lt;f0&gt;Figure&lt;/f0&gt; &lt;t1&gt;22&lt;/t1&gt;), allows all fields of the underlying table to be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205930Z" creationid="Marco Marega" creationdate="20171210T205930Z">
