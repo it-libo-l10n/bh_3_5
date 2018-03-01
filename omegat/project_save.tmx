@@ -8742,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the relationship of the table to the fields is now set up, the query becomes editable in the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175848Z" creationid="MicrosoftSucks" creationdate="20180301T175848Z">
+        <seg>Se la relazione tra la tabella e i campi e' impostata, allora e' possibile modificare la query nella GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the requested deletion affects a record in the Address table, the request will be refused.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222824Z" creationid="Marco Marega" creationdate="20180228T222824Z">
