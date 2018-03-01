@@ -8374,6 +8374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Base for some reason does not close down in an orderly fashion, this can lead to loss of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214947Z" creationid="Marco Marega" creationdate="20180301T214947Z">
+        <seg>Se per qualche ragione Base non si chiude in maniera regolare, ciò può portare a una perdita di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131925Z" creationid="Marina Latini" creationdate="20171207T131925Z">
@@ -10290,6 +10298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213126Z" creationid="Marco Marega" creationdate="20180227T213126Z">
         <seg>Non funzionerà nemmeno se i due campi sono di tipo differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will only be transferred to the hard drive when Base is closed (unfortunately from the viewpoint of data security).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214759Z" creationid="Marco Marega" creationdate="20180301T214759Z">
+        <seg>Saranno trasferiti sul disco fisso quando Base verrà chiuso (sfortunatamente da un punto di vista di sicurezza dei dati).</seg>
       </tuv>
     </tu>
     <tu>
