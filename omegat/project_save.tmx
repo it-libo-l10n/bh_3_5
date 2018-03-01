@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>([ALL | DISTINCT]] Expression) } [[AS] "display_name"]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154337Z" creationid="manuel" creationdate="20180301T154337Z">
+        <seg>([ALL | DISTINCT]] Espressione) } [[AS] "visualizza_nome"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165552Z" creationid="Marina Latini" creationdate="20171205T165552Z">
@@ -2106,6 +2114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213705Z" creationid="Marco Marega" creationdate="20171101T213705Z">
         <seg>&lt;f0&gt;Eseguire l'azione&lt;/f0&gt;: quando un valore viene selezionato con la tastiera &lt;f1&gt;o con il mouse&lt;/f1&gt;, la casella di riepilogo esegue &lt;f2&gt;questa azione&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Field names, calculations, record totals are all possible entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154442Z" creationid="manuel" creationdate="20180301T154442Z">
+        <seg>&lt;f0&gt;I nomei dei campi, i calcoli, il totoali dei record di dati sono tutti inserimenti possibili.</seg>
       </tuv>
     </tu>
     <tu>
