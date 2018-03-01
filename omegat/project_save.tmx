@@ -3494,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s30/&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;f31&gt;&lt;f32&gt;EVERY&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt; returns &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;1&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt; only if every entry for the field is &lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;1&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;, and returns &lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;FALSE&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt; if at least one entry is &lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;0&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;.&lt;/f50&gt;&lt;/f49&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170605Z" creationid="manuel" creationdate="20180301T170605Z">
+        <seg>&lt;s30/&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;f31&gt;&lt;f32&gt;EVERY&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt; restituisce &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;1&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt; solo se ogni inserimento per il campo è &lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;1&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;, e restituisce &lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;FALSO&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt; se almeno un inserimento è &lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;0&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;.&lt;/f50&gt;&lt;/f49&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;You can just enter the number directly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154957Z" creationid="Marco Marega" creationdate="20171230T154957Z">
