@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4354,6 +4354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T174949Z" creationid="manuel" creationdate="20180224T174949Z">
         <seg>Vengono visualizzati tutti i record di dati che soddisfano le condizioni di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All records are therefore displayed even if &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Title&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;is&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;NULL&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175438Z" creationid="MicrosoftSucks" creationdate="20180301T175438Z">
+        <seg>Quindi sono visualizzati tutti i campi anche se &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Titolo&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;e'&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;NULL&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16094,6 +16102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This command is available only directly with SQL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175612Z" creationid="MicrosoftSucks" creationdate="20180301T175612Z">
+        <seg>Questo comando e' disponibile solo direttamente in SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This command is used exclusively for an &lt;f0&gt;IDENTITY&lt;/f0&gt; field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225107Z" creationid="Marco Marega" creationdate="20180224T225107Z">
@@ -17118,6 +17134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make it editable in the GUI, further modification is required:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175709Z" creationid="MicrosoftSucks" creationdate="20180301T175709Z">
+        <seg>Per renderlo modificabile nella GUI, sono necessarie ulteriori modifiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To read the content, zoom the page to 200%.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224936Z" creationid="Marco Marega" creationdate="20180112T224936Z">
@@ -17218,6 +17242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195857Z" creationid="Marco Marega" creationdate="20171017T195857Z">
         <seg>La macro non deve in nessuna circostanza creare una finestra di dialogo sullo schermo; facendo clic in tale finestra causerebbe per la perdita e poi il ritorno del focus nel campo, riattivando di nuovo la macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately &lt;f0&gt;you cannot do this using &lt;/f0&gt;the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175533Z" creationid="MicrosoftSucks" creationdate="20180301T175533Z">
+        <seg>Purtroppo &lt;f0&gt;non potete svolgere questa operazione &lt;/f0&gt;attraverso la GUI.</seg>
       </tuv>
     </tu>
     <tu>
