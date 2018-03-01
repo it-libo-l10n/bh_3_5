@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;SUM("Number")&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; can add only the values in numeric&lt;/f20&gt;&lt;f21&gt;al&lt;/f21&gt;&lt;f22&gt; fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162233Z" creationid="manuel" creationdate="20180301T162233Z">
+        <seg>&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;SUM("Numero")&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; può sommare solo i valori nei campi&lt;/f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;f22&gt; numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Depending on the work area selected, various &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;tasks—&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;creat&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;ing&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; new content or call&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ing&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; up existing elements&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;—may be&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt; carried out.&lt;/f35&gt;&lt;/f34&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221055Z" creationid="osvaldo" creationdate="20180103T221055Z">
