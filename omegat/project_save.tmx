@@ -9278,6 +9278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In query search conditions, use either &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;TRUE&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;FALSE&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; or &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173300Z" creationid="manuel" creationdate="20180301T173300Z">
+        <seg>Nelle condizioni di ricerca della ricerca, utilizzare entrambi &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;VERO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;FALSO&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; o &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some cases, depending on the type of modification, the table must be empty in order for the change to occur.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224637Z" creationid="Marco Marega" creationdate="20180224T224637Z">
