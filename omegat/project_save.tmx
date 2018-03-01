@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6638,6 +6638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Entry into tables – Hiding columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T212101Z" creationid="Marco Marega" creationdate="20180301T212101Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Inserimento dati nelle tabelle – nascondere le colonne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Entry into tables – Unhiding columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T212139Z" creationid="Marco Marega" creationdate="20180301T212139Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Inserimento dati nelle tabelle – visualizzare le colonne nascoste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
@@ -7122,6 +7138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221310Z" creationid="Marco Marega" creationdate="20180228T220816Z">
         <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Adress &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Adress.Street_ID&lt;/f4&gt; con il valore 3, verranno modificate in 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if the primary key field does not need to be visible, this can be specified in the table in data entry view by right-clicking on the column header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T213714Z" creationid="Marco Marega" creationdate="20180301T213714Z">
+        <seg>Ad esempio, se non è necessario che la chiave primaria sia visibile, è possibile precisarlo nella tabella della finestra di inserimento dati facendo un clic con il pulsante destro del mouse sull'intestazione della colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual columns in the Table Data View can be hidden.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T213516Z" creationid="Marco Marega" creationdate="20180301T213516Z">
+        <seg>Nella finestra Table Data View (Struttura dati tabella) le singole colonne possono essere nascoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about available accessibility options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170348Z" creationid="Marina Latini" creationdate="20171207T170348Z">
@@ -10298,6 +10330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065725Z" creationid="osvaldo" creationdate="20180129T064732Z">
         <seg>Gli articoli che sono già in prestito al prestatario selezionato non sono disponibili per la selezione.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its assigned value can be altered if required, but only after the record has been committed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T212030Z" creationid="Marco Marega" creationdate="20180301T212030Z">
+        <seg>Se necessario il valore assegnatogli può essere modificato, ma solamente dopo che il record è stato inserito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,6 +10954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221854Z" creationid="Marco Marega" creationdate="20171217T221854Z">
         <seg>Non saranno aggiunti dati; semplicemente il record corrente verrà ripetutamente riscritto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No entry is possible into the &lt;f1&gt;AutoValue&lt;/f1&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211933Z" creationid="Marco Marega" creationdate="20180301T211933Z">
+        <seg>Nel &lt;f1&gt;Campo automatico&lt;/f1&gt; non è possibile effettuare inserimenti.</seg>
       </tuv>
     </tu>
     <tu>
