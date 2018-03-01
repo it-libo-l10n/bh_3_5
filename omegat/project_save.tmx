@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SOME&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;returns &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;TRUE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; (or &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) if at least one entry for the field is &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;and it returns &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;FALSE&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; (or &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;0&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;) only if all the entries are &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;0&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T163509Z" creationid="manuel" creationdate="20180301T163509Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SOME&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;restituisce &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;VERO&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; (o &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) se almeno un inserimento per il campo è &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;e restituisce &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;FALSO&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; (o &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;0&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;) solo se tutti gli inserimento sono &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;0&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Simple forms show &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;just &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;one table as in the upper part of the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Loan&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;form&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221833Z" creationid="osvaldo" creationdate="20180103T221755Z">
