@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;SOME("&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;F&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;ield&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;_N&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;ame&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;"), EVERY("&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;F&lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;ield&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;_N&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;ame&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;")&lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;:&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt; &lt;/f54&gt;&lt;f55&gt;Fields used &lt;/f55&gt;&lt;f56&gt;with&lt;/f56&gt;&lt;f57&gt; the&lt;/f57&gt;&lt;f58&gt;se&lt;/f58&gt;&lt;f59&gt; function&lt;/f59&gt;&lt;f60&gt;s&lt;/f60&gt;&lt;f61&gt; must have the &lt;/f61&gt;&lt;f62&gt;Yes/No [&lt;/f62&gt;&lt;f63&gt;BOOLEAN&lt;/f63&gt;&lt;f64&gt;]&lt;/f64&gt;&lt;f65&gt; field type&lt;/f65&gt;&lt;f66&gt; (contains only 0 or 1)&lt;/f66&gt;&lt;f67&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T163132Z" creationid="manuel" creationdate="20180301T163132Z">
+        <seg>&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;SOME("&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Campo_Nome&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;"), EVERY("&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;Campo_Nome&lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;")&lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;:&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt; &lt;/f54&gt;&lt;f55&gt;I campi usati &lt;/f55&gt;&lt;f56&gt;con&lt;/f56&gt;&lt;f57&gt; queste&lt;/f57&gt;&lt;f58&gt;&lt;/f58&gt;&lt;f59&gt; funzioni&lt;/f59&gt;&lt;f60&gt;&lt;/f60&gt;&lt;f61&gt; devono avere il tipo di campo &lt;/f61&gt;&lt;f62&gt;Sì/No [&lt;/f62&gt;&lt;f63&gt;BOOLEAN&lt;/f63&gt;&lt;f64&gt;]&lt;/f64&gt;&lt;f65&gt; &lt;/f65&gt;&lt;f66&gt; (contiene solo 0 o 1)&lt;/f66&gt;&lt;f67&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Its search condition (Criterion) is applied when the query is run, but it is not visible in the query output.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150451Z" creationid="Manuel Frassinetti" creationdate="20171216T150451Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T155200Z" creationid="Manuel Frassinetti" creationdate="20171125T155200Z">
         <seg>&lt;/f5&gt;&lt;f7&gt;Ricerche&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f67&gt;&lt;f68&gt;Furthermore, they produce a summary of the field content to which they are applied.&lt;/f68&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T163231Z" creationid="manuel" creationdate="20180301T163231Z">
+        <seg>&lt;/f67&gt;&lt;f68&gt;Inoltre, producono un sommario del contenuto del campo a cui sono applicati.&lt;/f68&gt;</seg>
       </tuv>
     </tu>
     <tu>
