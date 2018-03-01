@@ -3374,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The data is already in the database.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214550Z" creationid="Marco Marega" creationdate="20180301T214550Z">
+        <seg>&lt;f1&gt;I dati sono già nel database.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;To s&lt;/f1&gt;&lt;f2&gt;elect &lt;/f2&gt;&lt;f3&gt;a table, click its name and then click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Add&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092440Z" creationid="Manuel Frassinetti" creationdate="20171127T092440Z">
@@ -7290,6 +7298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222651Z" creationid="Marco Marega" creationdate="20180128T222651Z">
         <seg>Per la &lt;f0&gt;Categoria (Category),&lt;/f0&gt; una piccola biblioteca puù usare qualcosa tipo Arte o Biologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the HSQLDB, data is in working memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214703Z" creationid="Marco Marega" creationdate="20180301T214703Z">
+        <seg>Usando HSQLDB i dati sono nella memoria di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
