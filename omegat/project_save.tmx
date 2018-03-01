@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6400,8 +6400,8 @@
       <tuv lang="EN">
         <seg>Entry using the Base GUI</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162312Z" creationid="Marina Latini" creationdate="20171205T162312Z">
-        <seg>Inserimento usando l'interfaccia grafica di Base</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211615Z" creationid="Marina Latini" creationdate="20171205T162312Z">
+        <seg>Inserimento dati usando la GUI di Base</seg>
       </tuv>
     </tu>
     <tu>
@@ -8746,6 +8746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221301Z" creationid="Marco Marega" creationdate="20180228T221301Z">
         <seg>Se la chiave primaria &lt;f0&gt;Street_ID&lt;/f0&gt; viene modificata, il valore di &lt;f1&gt;Adress.Street_ID &lt;/f1&gt;originariamente collegato a questa, viene variato nel valore precedentemente impostato come predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the primary key is an automatically incrementing field, one of the visible fields will contain the text &lt;f0&gt;AutoValue&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211904Z" creationid="Marco Marega" creationdate="20180301T211904Z">
+        <seg>Se la chiave primaria è un campo a incremento automatico, uno dei campi visibile conterrà il testo &lt;f0&gt;Campo automatico&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12994,6 +13002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205902Z" creationid="Marco Marega" creationdate="20180219T205902Z">
         <seg>Le tabelle in formato &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt; (come quelle in CSV) non sono scrivibili nei database interni, che sono create puramente in &lt;f5&gt;MEMORY&lt;/f5&gt;, mentre Base non può accedere a tabelle di tipo &lt;f6&gt;TEMPORARY&lt;/f6&gt; o &lt;f7&gt;TEMP&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tables in the table container are opened by double-clicking them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211731Z" creationid="Marco Marega" creationdate="20180301T211731Z">
+        <seg>Le tabelle contenute nel relativo riquadro si aprono facendo un doppio clic su di esse.</seg>
       </tuv>
     </tu>
     <tu>
