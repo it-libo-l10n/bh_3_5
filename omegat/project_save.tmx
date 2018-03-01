@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4194,6 +4194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210041Z" creationid="Marco Marega" creationdate="20171109T210041Z">
         <seg>Per la casella di controllo ci sono i campi aggiuntivi "Esegui azione" (vedi Casella di riepilogo) e "Stato modificato" (che corrisponde a "Modificato").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional storage using &lt;f0&gt;File &gt; Save&lt;/f0&gt; is not necessary and indeed not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214515Z" creationid="Marco Marega" creationdate="20180301T214515Z">
+        <seg>Non è necessaria un'ulteriore memorizzazione usando &lt;f0&gt;File &gt; Salva&lt;/f0&gt; e in realtà nemmeno possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The previous entry is committed to storage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214150Z" creationid="Marco Marega" creationdate="20180301T214150Z">
+        <seg>L'inserimento precedente viene memorizzato in archivio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The previously created table control must now be further developed, to allow entry into the Lo&lt;f0&gt;ans &lt;s1/&gt;table&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202333Z" creationid="Marco Marega" creationdate="20171125T202333Z">
@@ -17962,6 +17978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213011Z" creationid="Marco Marega" creationdate="20171126T213011Z">
         <seg>Quando lo premete una seconda volta, verrà visualizzato il pulsante non premuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you reach the last field of a record, the cursor automatically jumps to the next record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214055Z" creationid="Marco Marega" creationdate="20180301T214055Z">
+        <seg>Quando raggiungete l'ultimo campo di un record, il cursore passa automaticamente al record successivo.</seg>
       </tuv>
     </tu>
     <tu>
