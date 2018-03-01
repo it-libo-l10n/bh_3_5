@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;MAX("Name")&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; shows the last name a&lt;/f14&gt;&lt;f15&gt;l&lt;/f15&gt;&lt;f16&gt;phabetically.&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T160249Z" creationid="manuel" creationdate="20180301T160249Z">
+        <seg>&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;MAX("Nome")&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; mostra alfabeticamente l'ultimo nome&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;.&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f11&gt;The &lt;f12&gt;o&lt;/f12&gt;ther&lt;f13&gt; &lt;/f13&gt;c&lt;f14&gt;hoice&lt;/f14&gt;s in the context menu &lt;f15&gt;(&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Open in Design Mode&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; and &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Automatic Control Focus&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;) &lt;/f21&gt;correspond to &lt;f22&gt;b&lt;/f22&gt;uttons in Fig&lt;f23&gt;ure&lt;/f23&gt; &lt;t24&gt;22&lt;/t24&gt;; &lt;f25&gt;we will discuss them later.&lt;/f25&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135502Z" creationid="Marco Marega" creationdate="20171014T135502Z">
@@ -1216,8 +1224,8 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Name")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; shows the first name alphabetically.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155155Z" creationid="manuel" creationdate="20180301T155155Z">
-        <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Nome")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; mostra il primo nome alfabeticamente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T160310Z" creationid="manuel" creationdate="20180301T155155Z">
+        <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Nome")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; mostra alfabeticamente il primo nome.</seg>
       </tuv>
     </tu>
     <tu>
