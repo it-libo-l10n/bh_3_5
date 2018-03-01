@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1550,10 +1550,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If it &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ha&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;s &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;DATE&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;as its field type,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;enter&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;a date as the value that is not contained in the &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;field of the &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;table t&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;o&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; be filtered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174523Z" creationid="MicrosoftSucks" creationdate="20180301T174523Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ha&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;DATE&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;come tipo del campo,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;inserite&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;una data come il valore non contenuto nel &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;campo della &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;tabella che deve&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; essere filtrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If it is any of the numerical field types, use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NUMERIC&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; field type for the value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174721Z" creationid="MicrosoftSucks" creationdate="20180301T174721Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se e' di un qualsiasi tipo di campo numerico, usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;il tipo di campo&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NUMERIC&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; per il valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;expression&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;ha&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;s &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;the field type&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;VARCHAR&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;, use two single quotes &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;''&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as the value&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174103Z" creationid="MicrosoftSucks" creationdate="20180301T174103Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Se l' &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;espressione&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;ha&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;s &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;campo di tipo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;VARCHAR&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;, usate due virgolette semplici &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;''&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;per il valore&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174146Z" creationid="MicrosoftSucks" creationdate="20180301T174103Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se l' &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;espressione&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;ha&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;campo di tipo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;VARCHAR&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;, usate due virgolette semplici &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;''&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;per il valore&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17250,6 +17266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184811Z" creationid="Marco Marega" creationdate="20171013T184811Z">
         <seg>L'uso della procedura guidata per la creazione di un formulario viene descritta nel &lt;f0&gt;Capitolo 8, &lt;/f0&gt;Introduzione a Base, &lt;f1&gt;della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva a LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this format: &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;{D 'YYYY-MM-DD'}&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174541Z" creationid="MicrosoftSucks" creationdate="20180301T174541Z">
+        <seg>Usate il formato: &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;{D 'YYYY-MM-DD'}&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.&lt;/f31&gt;&lt;/f30&gt;</seg>
       </tuv>
     </tu>
     <tu>
