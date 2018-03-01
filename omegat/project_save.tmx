@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The Boolean field type is Yes/No[BOOLEAN].</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170848Z" creationid="manuel" creationdate="20180301T170848Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il tipo di campo Booleano è Sì/No[BOOLEAN].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The behavior of HSQLDB is to preserve storage space for deleted records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152551Z" creationid="steevie" creationdate="20180205T152404Z">
@@ -8138,6 +8146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142109Z" creationid="Marco Marega" creationdate="20171231T142109Z">
         <seg>Però, più voci &lt;f1&gt;diventeranno &lt;/f1&gt;disponibili nelle caselle di riepilogo del formulario principale, meno spesso sarà necessario accedere ai campi presenti nella tabella della casella di gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this field contains only 0 or 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170935Z" creationid="manuel" creationdate="20180301T170935Z">
+        <seg>Tuttavia, questo campo contiene solo 0 o 1.</seg>
       </tuv>
     </tu>
     <tu>
