@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11646,6 +11646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One field is selected, one click on the button, and the data is sorted by that column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133103Z" creationid="Marco Marega" creationdate="20180302T133103Z">
+        <seg>Selezionate un campo, fate clic sul pulsante e i dati vengono ordinati in base a quella colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One item can have several authors, and one author might have created several items.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154518Z" creationid="Marco Marega" creationdate="20180127T154518Z">
@@ -15562,6 +15570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170532Z" creationid="steevie" creationdate="20180226T170532Z">
         <seg>L'interrogazione &lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The quick sort option hides behind the &lt;f0&gt;A→Z&lt;/f0&gt; and &lt;f1&gt;Z→A b&lt;/f1&gt;uttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133014Z" creationid="Marco Marega" creationdate="20180302T133014Z">
+        <seg>L'opzione di ordinamento veloce si nasconde dietro ai pulsanti &lt;f0&gt;A→Z&lt;/f0&gt; e &lt;f1&gt;Z→A&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
