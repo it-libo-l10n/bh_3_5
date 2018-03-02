@@ -8662,6 +8662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If fields from several tables are entered into the query, a combination &lt;/f0&gt;&lt;f1&gt;of the field name &lt;/f1&gt;&lt;f2&gt;with the table name is necessary: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"Table_name"."Field_name"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T111216Z" creationid="manuel" creationdate="20180302T111216Z">
+        <seg>Se nella query vengono inseriti i campi di più tabelle, una combinazione &lt;/f0&gt;&lt;f1&gt;del nome del campo &lt;/f1&gt;&lt;f2&gt;con il nome della tabella è necessario: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"Tabella_nome"."Campo_nome"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If finally the query for the list box in the upper table control is selected, only those media are displayed which can actually be loaned out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215800Z" creationid="Marco Marega" creationdate="20171229T215529Z">
@@ -10066,6 +10074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210726Z" creationid="Marco Marega" creationdate="20180202T210726Z">
         <seg>Piuttosto viene registrata una data di restituzione &lt;f3&gt;(Return_Date)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of a detailed &lt;f0&gt;list of all the fields of a table&lt;/f0&gt;, &lt;f1&gt;i&lt;/f1&gt;t&lt;f2&gt;s&lt;/f2&gt; total content can be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T111419Z" creationid="manuel" creationdate="20180302T111419Z">
+        <seg>Invece di un elenco &lt;f0&gt; dettagliato di tutti i campi di una tabella &lt;/ f0&gt;, è possibile visualizzare il suo contenuto totale&lt;/ f2&gt;&lt;f1&gt;&lt;/ f1&gt;&lt;f2&gt;&lt;/ f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
