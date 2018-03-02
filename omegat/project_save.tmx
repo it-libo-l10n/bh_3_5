@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The result of this query is to be written directly into a new table which is named here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113423Z" creationid="manuel" creationdate="20180302T113346Z">
+        <seg>&lt;f0&gt;Il risultato di questa ricerca deve essere scritto direttamente in una nuova tabella che viene nominata qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The selected field designation &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan.*&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; has a special meaning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115040Z" creationid="Manuel Frassinetti" creationdate="20171129T114859Z">
@@ -14466,6 +14474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223855Z" creationid="Marco Marega" creationdate="20180224T223855Z">
         <seg>Il campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field properties for the new table are defined from the field definitions contained in the query.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113439Z" creationid="manuel" creationdate="20180302T113409Z">
+        <seg>Le proprietà del campo per la nuova tabella sono definite dalle definizioni di campo contenute nella ricerca.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
