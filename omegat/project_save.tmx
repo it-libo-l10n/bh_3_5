@@ -6886,6 +6886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Sorting by more than one column</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133707Z" creationid="Marco Marega" creationdate="20180302T133707Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Ordinare sulla base di più di una colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
@@ -8674,6 +8682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080005Z" creationid="steevie" creationdate="20180206T080005Z">
         <seg>Se una persona cambia casa, anche il suo indirizzo cambia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a previous quick sort has been carried out, the first row will already contain the corresponding field name and sort order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133641Z" creationid="Marco Marega" creationdate="20180302T133641Z">
+        <seg>Se è già stata effettuata una precedente operazione di ordinamento veloce, la prima riga conterrà già il nome di campo corrispondente e il tipo di ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12650,6 +12666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162324Z" creationid="Marina Latini" creationdate="20171206T162324Z">
         <seg>Ricercare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133734Z" creationid="Marco Marega" creationdate="20180302T133734Z">
+        <seg>Ricercare nelle tabelle</seg>
       </tuv>
     </tu>
     <tu>
