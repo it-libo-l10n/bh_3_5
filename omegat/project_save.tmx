@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Table_name 1" [{CROSS | INNER | LEFT OUTER | RIGHT OUTER} JOIN "Table_name 2" ON Expression] [, ...]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114829Z" creationid="manuel" creationdate="20180302T114829Z">
+        <seg>"Tablella_nome" [{CROSS | INNER | LEFT OUTER | RIGHT OUTER} JOIN "Tabella_nome 2" ON Espressione] [, ...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Table_name".* | * [, ...]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103522Z" creationid="manuel" creationdate="20180302T103522Z">
@@ -3186,6 +3194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T140801Z" creationid="Marco Marega" creationdate="20171231T140801Z">
         <seg>&lt;f0&gt;Anche il formulario secondario &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;per&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; la tabella rel_Media_Author table è costituito da due caselle di riepilogo, in modo che le chiavi esterne per gli autori (Authors) e Author_Add_ID (aggiunte che possono ad esempio essere l'editore, il fotografo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e così via&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;) non debbano essere inserite direttamente in formato numerico.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The tables which are to be jointly searched are usually in a list separated by commas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114907Z" creationid="manuel" creationdate="20180302T114907Z">
+        <seg>&lt;f0&gt;Le tabelle che devono essere ricercate congiuntamente sono di solito in una lista separata da virgole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +6746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145523Z" creationid="manuel" creationdate="20180224T145523Z">
         <seg>FROM "Lista_tabella"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FROM &lt;Table_list&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114748Z" creationid="manuel" creationdate="20180302T114748Z">
+        <seg>FROM &lt;Tabella_lista&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15578,6 +15602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180953Z" creationid="Manuel Frassinetti" creationdate="20171209T180953Z">
         <seg>Il risultato mostra il numero di record di dati per ogni &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Lettore_ID&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resultant table is initially not editable as it lacks a &lt;/f10&gt;&lt;f11&gt;p&lt;/f11&gt;&lt;f12&gt;rimary key.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114728Z" creationid="manuel" creationdate="20180302T114728Z">
+        <seg>La tabella risultante non è inizialmente modificabile in quanto manca una &lt;/f10&gt;&lt;f11&gt;chiave&lt;/f11&gt;&lt;f12&gt;primaria.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
