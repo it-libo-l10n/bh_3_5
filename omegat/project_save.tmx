@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Before you search, make sure the columns you will be searching are wide enough to show correctly the records that you will find.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134133Z" creationid="Marco Marega" creationdate="20180302T134133Z">
+        <seg>&lt;f0&gt;Prima di effettuare la ricerca, assicuratevi che le colonne nelle quali volete ricercare siano abbastanza larghe da visualizzare correttamente i record che troverete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By default, relationships are set as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inner Joins&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161824Z" creationid="Manuel Frassinetti" creationdate="20171218T161509Z">
@@ -7794,6 +7802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151336Z" creationid="Marco Marega" creationdate="20180127T151336Z">
         <seg>Da questo deriva una relazione 1:1 tra l'utente e l'assegnazione dei singoli individui nella classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions for searching records are extensive and perhaps not the first choice for locating a particular record for users accustomed to search engines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134003Z" creationid="Marco Marega" creationdate="20180302T134003Z">
+        <seg>Le funzioni per ricercare record sono ampie e probabilmente, per gli utenti abituati ai motori di ricerca, non sono la scelta privilegiata per localizzare un determinato record.</seg>
       </tuv>
     </tu>
     <tu>
