@@ -12294,6 +12294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quick sort sorts only by one column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133205Z" creationid="Marco Marega" creationdate="20180302T133205Z">
+        <seg>L'ordinamento veloce agisce solamente in base a una colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REFERENCES "Table_name_of_another_table" ("Field_name1_other_table", "Field_name2_other_table" ...)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232547Z" creationid="Marco Marega" creationdate="20180226T232547Z">
@@ -14566,6 +14574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The field name of the column and the current sort order are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133507Z" creationid="Marco Marega" creationdate="20180302T133507Z">
+        <seg>Nella colonna, il nome del campo e l'ordinamento corrente sono selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The field properties for the new table are defined from the field definitions contained in the query.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113439Z" creationid="manuel" creationdate="20180302T113409Z">
@@ -14610,6 +14626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154143Z" creationid="Marco Marega" creationdate="20180127T154143Z">
         <seg>I campi della tabella &lt;f0&gt;Subtitle&lt;/f0&gt; sono (oltre al sottotitolo stesso) il numero del sottotitolo nella sequenza e la durata della traccia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The figure shows a descending sort by the &lt;f2&gt;Title&lt;/f2&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133138Z" creationid="Marco Marega" creationdate="20180302T133138Z">
+        <seg>La figura mostra un ordinamento decrescente in base al campo &lt;f2&gt;Title&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17666,6 +17690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150146Z" creationid="Manuel Frassinetti" creationdate="20171202T150146Z">
         <seg>Per visualizzarli in una ricerca, è necessario includere la tabella Lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To sort by several columns simultaneously, a further sort function is provided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133312Z" creationid="Marco Marega" creationdate="20180302T133312Z">
+        <seg>Per ordinare considerando simultaneamente più colonne, è prevista un'ulteriore funzione di ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
