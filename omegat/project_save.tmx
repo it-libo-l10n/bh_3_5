@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Table_name".* | * [, ...]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103522Z" creationid="manuel" creationdate="20180302T103522Z">
+        <seg>"Tabella_nome".* | * [, ...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>("&lt;f1&gt;Return_Date" IS NULL&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205028Z" creationid="Marco Marega" creationdate="20171229T205028Z">
@@ -2282,6 +2290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214704Z" creationid="Marco Marega" creationdate="20171213T214704Z">
         <seg>&lt;f0&gt;Concludete&lt;/f0&gt; salvando l'intero formulario, e infine il database stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Each field to be displayed is given with its field names, separated by commas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103658Z" creationid="manuel" creationdate="20180302T103658Z">
+        <seg>&lt;f0&gt;Ogni campo da visualizzare viene indicato con i nomi dei campi, separati da virgole.</seg>
       </tuv>
     </tu>
     <tu>
