@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Basically they calculate over all values covered by the query, whereas &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; excludes records with the same values from the display.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103240Z" creationid="manuel" creationdate="20180302T103240Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Da base esse calcolano tutti i valori coperti dalla ricerca, mentre  &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; esclude dal mostrare i record di dati con lo stesso valore.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;wo &lt;f7&gt;dialog&lt;/f7&gt;s appear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T085358Z" creationid="Manuel Frassinetti" creationdate="20171125T174439Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144956Z" creationid="Manuel Frassinetti" creationdate="20171202T144956Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Quando volete ordinare in modo discendente  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;usando SQL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, utilizzate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;DESC&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; invece di  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ASC&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;[AS] "display_name":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; The fields can be given a different designation (alias) within the query.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103512Z" creationid="manuel" creationdate="20180302T103512Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;[AS] "mostra_nome":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; I campi possono ricevere una differente assegnazione (alias) all'interno della ricerca.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
