@@ -10158,6 +10158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead you must use &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;SQL&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114324Z" creationid="manuel" creationdate="20180302T114324Z">
+        <seg>Invece dovreste usare &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Strumenti &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;SQL&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221413Z" creationid="Marco Marega" creationdate="20171217T221413Z">
