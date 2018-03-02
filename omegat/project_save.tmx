@@ -8654,6 +8654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a name has no class listed for it, that name is not included in the display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T121105Z" creationid="manuel" creationdate="20180302T121105Z">
+        <seg>Se un nome non ha una classe elencata per questo, quel nome non è incluso nella visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a new value does need to be entered, this can be done easily in a combo box, as the box shows exactly what is going into the underlying table for the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230638Z" creationid="Marco Marega" creationdate="20171102T230638Z">
