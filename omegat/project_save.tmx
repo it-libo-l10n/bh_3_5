@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"Table_name 1".*, “Table_name 2”.”Field_name”.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113302Z" creationid="manuel" creationdate="20180302T113302Z">
+        <seg>&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"Tabella_nome 1".*, “Tabella_nome 2”.”Campo_nome”.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;See &lt;f5&gt;also &lt;/f5&gt;the general Help on numeric format codes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T212248Z" creationid="Marco Marega" creationdate="20171026T212248Z">
@@ -3626,6 +3634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222539Z" creationid="Marco Marega" creationdate="20180224T222539Z">
         <seg>&lt;f4&gt;BEFORE "Name"&lt;/f4&gt;: prima del campo "Name".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;However, if the query includes all of the fields of one table and at least one field from a second table, use: &lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113212Z" creationid="manuel" creationdate="20180302T113212Z">
+        <seg>&lt;f4&gt;Tuttavia, se la ricerca include tutti i campi di una tabella e almeno un campo di una seconda tabella, utilizzare: &lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10362,6 +10378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210148Z" creationid="Marco Marega" creationdate="20180202T210148Z">
         <seg>Fa da collegamento tra le tabelle Media e Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is then unnecessary to use the table name, &lt;f3&gt;if&lt;/f3&gt; the results will only apply to the one table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113112Z" creationid="manuel" creationdate="20180302T113112Z">
+        <seg>Non è quindi necessario utilizzare il nome della tabella, &lt;f3&gt;se&lt;/f3&gt; i risultati si applicano solo a una tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18674,6 +18698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145454Z" creationid="manuel" creationdate="20180224T145454Z">
         <seg>[INTO [CACHED | TEMP &lt;s0/&gt;| TEXT] "nuova_tabella"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[INTO [CACHED | TEMP | TEXT] "new_table"]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113319Z" creationid="manuel" creationdate="20180302T113319Z">
+        <seg>[INTO [CACHED | TEMP | TEXT] "nuova_tabella"]</seg>
       </tuv>
     </tu>
     <tu>
