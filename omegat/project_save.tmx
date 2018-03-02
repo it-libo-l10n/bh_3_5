@@ -2502,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Here the names and the corresponding classes are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120056Z" creationid="manuel" creationdate="20180302T120056Z">
+        <seg>&lt;f0&gt;Qui vengono visualizzati i nomi e le classi corrispondenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hexadecimal system: Numbers are based on 16.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213143Z" creationid="Marco Marega" creationdate="20180219T213143Z">
@@ -12510,6 +12518,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1" JOIN "Table2" ON "Table1"."ClassID" = "Table2"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120023Z" creationid="manuel" creationdate="20180302T120023Z">
+        <seg>SELECT "Tabella1"."Nome", "Tabella2"."Classe" FROM "Tabella1" JOIN "Tabella2" ON "Tabella1"."ClasseID" = "Tabella2"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1", "Table2" WHERE "Table1"."ClassID" = "Table2"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115919Z" creationid="manuel" creationdate="20180302T115919Z">
+        <seg>SELECT "Tabella1"."Nome", "Tabella2"."Classe" FROM "Tabella1", "Tabella2" WHERE "Tabella1"."ClasseID" = "Tabella2"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Town" FROM "Town" WHERE "ID" NOT IN (SELECT "Town_ID“ FROM "Media") AND "ID" NOT IN (SELECT "Town_ID“ FROM "Postcode")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162701Z" creationid="steevie" creationdate="20180216T162701Z">
@@ -18914,6 +18938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211904Z" creationid="Marco Marega" creationdate="20180219T211817Z">
         <seg>per l'orario corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is equivalent to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115932Z" creationid="manuel" creationdate="20180302T115932Z">
+        <seg>è equivalente a:</seg>
       </tuv>
     </tu>
     <tu>
