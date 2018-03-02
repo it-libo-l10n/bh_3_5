@@ -15566,6 +15566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relationship of the tables to one another is then additionally defined by the keyword &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;WHERE&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115117Z" creationid="manuel" creationdate="20180302T115117Z">
+        <seg>La relazione tra le tabelle è quindi ulteriormente definita dalla parola chiave  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;WHERE&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relevant fields from the two tables are read from the table definitions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161903Z" creationid="Manuel Frassinetti" creationdate="20171218T161903Z">
