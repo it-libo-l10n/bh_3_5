@@ -15774,6 +15774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search takes over terms from the field from which it was invoked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134414Z" creationid="Marco Marega" creationdate="20180302T134414Z">
+        <seg>La ricerca ricava i termini dal campo dal quale è stata invocata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search window remains in the foreground and you will not be able to correct the settings for column width in the underlying table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134234Z" creationid="Marco Marega" creationdate="20180302T134234Z">
@@ -17722,6 +17730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175709Z" creationid="MicrosoftSucks" creationdate="20180301T175709Z">
         <seg>Per renderlo modificabile nella GUI, sono necessarie ulteriori modifiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make the search effective, the search area should be limited as far as possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134515Z" creationid="Marco Marega" creationdate="20180302T134515Z">
+        <seg>Per rendere efficace la ricerca, l'area di ricerca dovrebbe essere limitata il più possibile.</seg>
       </tuv>
     </tu>
     <tu>
