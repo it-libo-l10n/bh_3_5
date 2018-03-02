@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;When every person in a swimming class can swim, EVERY returns TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102128Z" creationid="manuel" creationdate="20180302T102128Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;Quando ciascuna persona in una classe di nuoto può nuotare, EVERY restituisce VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Introduction to Base&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185244Z" creationid="osvaldo" creationdate="20171012T185244Z">
@@ -2034,6 +2042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214505Z" creationid="Marco Marega" creationdate="20171226T214505Z">
         <seg>&lt;f0&gt;Fondamentalmente i nomi dei formulari e dei campi di controllo sono privi di significato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Because the query is grouped by the entries of the field Class, EVERY will return a value for &lt;/f0&gt;&lt;f1&gt;the field, &lt;/f1&gt;&lt;f2&gt;Swimmer, for each class.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102026Z" creationid="manuel" creationdate="20180302T102026Z">
+        <seg>&lt;f0&gt;Poché la ricerca è raggruppata dagli inserimenti del campo Classe, EVERY resituirà un valore per &lt;/f0&gt;&lt;f1&gt;il campo, &lt;/f1&gt;&lt;f2&gt;Nuotatore, per ogni classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11738,6 +11754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T162724Z" creationid="Marina Latini" creationdate="20171207T162724Z">
         <seg>Anche altri siti web gestiti da utenti offrono gratuitamente consigli e tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise EVERY returns FALSE because at least one student of the class can not swim.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102219Z" creationid="manuel" creationdate="20180302T102219Z">
+        <seg>Altrimenti EVERY restituisce FALSO perché almeno uno studente della classe non può nuotare.</seg>
       </tuv>
     </tu>
     <tu>
