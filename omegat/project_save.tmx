@@ -7566,6 +7566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this you use the symbol "*".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T112351Z" creationid="manuel" creationdate="20180302T112351Z">
+        <seg>Per questo dovete usare il simbolo "*".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this, the suggested filter is adequate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220809Z" creationid="Marco Marega" creationdate="20171226T220809Z">
@@ -10080,8 +10088,8 @@
       <tuv lang="EN">
         <seg>Instead of a detailed &lt;f0&gt;list of all the fields of a table&lt;/f0&gt;, &lt;f1&gt;i&lt;/f1&gt;t&lt;f2&gt;s&lt;/f2&gt; total content can be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T111419Z" creationid="manuel" creationdate="20180302T111419Z">
-        <seg>Invece di un elenco &lt;f0&gt; dettagliato di tutti i campi di una tabella &lt;/ f0&gt;, è possibile visualizzare il suo contenuto totale&lt;/ f2&gt;&lt;f1&gt;&lt;/ f1&gt;&lt;f2&gt;&lt;/ f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T112329Z" creationid="manuel" creationdate="20180302T111419Z">
+        <seg>Invece di un elenco &lt;f0&gt; dettagliato di tutti i campi di una tabella&lt;/f0&gt;, è possibile visualizzare il suo contenuto totale&lt;/f2&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
