@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Swimmer&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is a Boolean field describing whether a student can swim or not (1 or 0).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T101526Z" creationid="manuel" creationdate="20180302T101431Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Nuotatore&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; è un campo Booleano che descrive se uno studente può nuotare o no (1 o 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Introduction to Base&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185244Z" creationid="osvaldo" creationdate="20171012T185244Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T175255Z" creationid="manuel" creationdate="20180224T175255Z">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;SELECT DISTINCT "Nome" FROM "Tabella_nome"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; sopprime i risultati della ricerca &lt;/f8&gt;&lt;t9/&gt;&lt;f10&gt;che hanno lo stesso contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Students &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;contains the names of the students.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T101601Z" creationid="manuel" creationdate="20180302T101601Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Studenti &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;contiene i nomi degli studenti.</seg>
       </tuv>
     </tu>
     <tu>
