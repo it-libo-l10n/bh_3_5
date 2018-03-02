@@ -18462,6 +18462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing into a new table does not work from &lt;/f0&gt;&lt;f2&gt;SQL Mode&lt;/f2&gt;&lt;f3&gt; as this handles only displayable results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114112Z" creationid="manuel" creationdate="20180302T114112Z">
+        <seg>La scrittura in una nuova tabella non funziona dal &lt;/f0&gt;&lt;f2&gt;Modo SQL&lt;/f2&gt;&lt;f3&gt; in quanto gestisce solo i risultati visualizzabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195037Z" creationid="Marco Marega" creationdate="20171125T195037Z">
