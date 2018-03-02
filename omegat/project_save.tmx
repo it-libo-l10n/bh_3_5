@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;VAR_POP | VAR_SAMP | STDDEV_POP | STDDEV_SAMP&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; are statistical functions and affect only integer and decimal fields.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102551Z" creationid="manuel" creationdate="20180302T102551Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;VAR_POP | VAR_SAMP | STDDEV_POP | STDDEV_SAMP&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; sono funzioni statistiche e hanno effetto solo sui campi numero intero e decimale.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;What is&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; visible&lt;/f2&gt;&lt;f3&gt; to the user is the set of &lt;/f3&gt;&lt;f4&gt;Controls&lt;/f4&gt;&lt;f5&gt;, which serve for the entry or display of text, numbers, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184211Z" creationid="Marco Marega" creationdate="20171013T184211Z">
@@ -4474,6 +4482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143618Z" creationid="Marco Marega" creationdate="20171231T143618Z">
         <seg>Tutti gli altri formulari si relazionano con uno o con l'altro dei campi di controllo tabella visti sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All these functions return 0, if the values within the group are all equal.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102644Z" creationid="manuel" creationdate="20180302T102644Z">
+        <seg>Tutte queste funzione restituiscono 0, se i valori contenuti nel gruppo sono tutti uguali.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
