@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A simple &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; has the effect that only those records are displayed for which the conditions in both the tables apply.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115817Z" creationid="manuel" creationdate="20180302T115817Z">
+        <seg>&lt;f0&gt;Una semplice &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ha l'effetto che vengono visualizzati solo quei record per i quali si applicano le condizioni in entrambe le tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;n additional field is added, set to be invisible, just for sorting (however, the editor will register this only temporarily if no alias was defined for it) &lt;f1&gt;[add another &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Loan date&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; field just before &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Loan&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;Reader_ID&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;or add another &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Loan&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;.&lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;"&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;Reader_ID&lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;field just after &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;"&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;Loan date&lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;]&lt;/f39&gt;, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T170337Z" creationid="Manuel Frassinetti" creationdate="20171206T165417Z">
@@ -2570,6 +2578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213448Z" creationid="MicrosoftSucks" creationdate="20180218T213448Z">
         <seg>&lt;f0&gt;Se il campo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter_1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; non e' &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NULL&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, vengono visualizzati i record per i quali &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Title&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; e' uguale a &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Filter_1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If the tables are bound through a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; rather than a comma, their relationship is defined by the term beginning with &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ON&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; which occurs directly after the second table.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115719Z" creationid="manuel" creationdate="20180302T115719Z">
+        <seg>&lt;f0&gt;Se le tabelle sono vincolate tramite un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; anziché una virgola, la loro relazione viene definita dal termine che inizia con &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ON&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; che si verifica direttamente dopo la seconda tabella.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
