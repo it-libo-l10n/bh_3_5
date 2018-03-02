@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Since the output for the Swimmer field is a checkbox, A check mark indicates TRUE, and no check mark indicates FALSE.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102423Z" creationid="manuel" creationdate="20180302T102423Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Poiché la destinazione per il campo Nuotatore è una casella di controllo, un segno di spunta indica VERO e nessun segno di spunta indica FALSO.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;T&lt;/f6&gt;&lt;/f5&gt;wo &lt;f7&gt;dialog&lt;/f7&gt;s appear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T085358Z" creationid="Manuel Frassinetti" creationdate="20171125T174439Z">
