@@ -15774,6 +15774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search window remains in the foreground and you will not be able to correct the settings for column width in the underlying table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134234Z" creationid="Marco Marega" creationdate="20180302T134234Z">
+        <seg>La finestra di ricerca rimane in primo piano e non avrete la possibilità di correggere le impostazioni della larghezza delle colonne nella tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second sub-subform requires more settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
@@ -17714,6 +17722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175709Z" creationid="MicrosoftSucks" creationdate="20180301T175709Z">
         <seg>Per renderlo modificabile nella GUI, sono necessarie ulteriori modifiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To reach the t&lt;/f0&gt;&lt;f1&gt;able, you must break off the search.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134337Z" creationid="Marco Marega" creationdate="20180302T134337Z">
+        <seg>Per raggiungere la &lt;/f0&gt;&lt;f1&gt;tabella, dovreste interrompere la ricerca.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
