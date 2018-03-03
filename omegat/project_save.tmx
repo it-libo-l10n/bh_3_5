@@ -8790,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; (&lt;f2&gt;"Field_name") &lt;/f2&gt;SELECT &lt;f3&gt;"Other_fieldname" FROM "Name_of_other_table"&lt;/f3&gt;;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215955Z" creationid="Marco Marega" creationdate="20180303T215955Z">
+        <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; (&lt;f2&gt;"Nome_campo") &lt;/f2&gt;SELECT &lt;f3&gt;"Altro_nome_campo" FROM "Nome_altra_tabella"&lt;/f3&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; (&lt;f2&gt;"Field_name"&lt;/f2&gt;) VALUES ('Test');</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215657Z" creationid="Marco Marega" creationdate="20180303T215559Z">
@@ -10202,6 +10210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220741Z" creationid="Marco Marega" creationdate="20171226T220741Z">
         <seg>Nel primo formulario secondario del formulario secondario, non vengono visualizzati dati già esistenti; viene usato solo per la creazioni di nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the first table, as many new records are inserted into "Field_name", as are present in the column "Other_fieldname" in the second table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220154Z" creationid="Marco Marega" creationdate="20180303T220154Z">
+        <seg>Nella prima tabella vengono inseriti in "Nome_campo" tanti nuovi record quanti ne sono presenti nella colonna "Altro_nome_campo" della seconda tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17570,6 +17586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155537Z" creationid="Marco Marega" creationdate="20171230T155537Z">
         <seg>Questo viene illustrato nel database di esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is important when you are using macros, so that the value of this key field can be used later on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215917Z" creationid="Marco Marega" creationdate="20180303T215917Z">
+        <seg>Questo è importante quando usate delle macro, in modo che il valore di questo campo chiave possa essere usato in seguito.</seg>
       </tuv>
     </tu>
     <tu>
