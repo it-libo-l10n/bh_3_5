@@ -4958,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as you have relationships between tables, a specially designed form is better.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T224230Z" creationid="Marco Marega" creationdate="20180303T224230Z">
+        <seg>Non appena avete delle relazioni tra le tabelle, un formulario specificamente progettato è preferibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the bound field is Field 1, this SQL formula works.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211958Z" creationid="Marco Marega" creationdate="20171101T211958Z">
@@ -10042,6 +10050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223719Z" creationid="Marco Marega" creationdate="20180303T223719Z">
         <seg>Nei formulari, i nomi degli utenti e degli articoli sono visibili e i loro identificatori numerici sono nascosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In forms, these relationships can be better handled by using sub-forms or list fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T224340Z" creationid="Marco Marega" creationdate="20180303T224340Z">
+        <seg>Nei formulari, queste relazioni possono essere gestite meglio usando sotto-formulari o campi con elenchi.</seg>
       </tuv>
     </tu>
     <tu>
