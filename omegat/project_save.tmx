@@ -5630,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 4 of this handbook describes the use of forms for searching, and how the use of SQL and macros can accomplish a keyword search.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143746Z" creationid="Marco Marega" creationdate="20180303T143746Z">
+        <seg>Il capitolo 4 di questo manuale descrive l'uso dei formulari per effettuare le ricerche e come l'uso di comandi SQL e di macro può consentire una ricerca per parola chiave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163627Z" creationid="Marina Latini" creationdate="20171205T163627Z">
@@ -7178,6 +7186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165624Z" creationid="Marina Latini" creationdate="20171206T165624Z">
         <seg>Filtrare i record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filtering tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143818Z" creationid="Marco Marega" creationdate="20180303T143818Z">
+        <seg>Filtrare le tabelle</seg>
       </tuv>
     </tu>
     <tu>
