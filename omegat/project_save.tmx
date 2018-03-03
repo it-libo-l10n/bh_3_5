@@ -6622,6 +6622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing existing records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220301Z" creationid="Marco Marega" creationdate="20180303T220301Z">
+        <seg>Modificare record esistenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113010Z" creationid="Marina Latini" creationdate="20171213T113010Z">
@@ -11562,6 +11570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170523Z" creationid="Manuel Frassinetti" creationdate="20180116T170523Z">
         <seg>Naturalmente i titoli appaiono più di una volta come nella relazione precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Naturally a Select-Formula can be used here to limit the number of entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220245Z" creationid="Marco Marega" creationdate="20180303T220245Z">
+        <seg>Naturalmente qui è possibile usare una Formula-di-selezione per limitare il numero delle voci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18398,6 +18414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Field_name"&lt;/f2&gt; = &lt;Expression&gt; [, ...] [WHERE &lt;f3&gt;&lt;Expression&gt;&lt;/f3&gt;];</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220336Z" creationid="Marco Marega" creationdate="20180303T220336Z">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Nome_campo"&lt;/f2&gt; = &lt;Espressione&gt; [, ...] [WHERE &lt;f3&gt;&lt;Espressione&gt;&lt;/f3&gt;];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under &lt;f0&gt;Loans&lt;/f0&gt;, the fields in the Loans table are shown, under &lt;f1&gt;Readers&lt;/f1&gt; those of the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212125Z" creationid="Marco Marega" creationdate="20171216T212125Z">
@@ -19010,6 +19034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145428Z" creationid="Manuel Frassinetti" creationdate="20171202T144802Z">
         <seg>Quando lavorate in modo SQL, usate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IS NULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; che è quanto richiede SQL (linguaggio di ricerca strutturato).&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are modifying many records at once, it is very important to check carefully the SQL command you are entering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220430Z" creationid="Marco Marega" creationdate="20180303T220430Z">
+        <seg>Quando modificate molti record in una sola volta, è molto importante controllare attentamente il comando SQL che state inserendo.</seg>
       </tuv>
     </tu>
     <tu>
