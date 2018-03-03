@@ -11958,6 +11958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only those records are shown for which the chosen field has the same content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144141Z" creationid="Marco Marega" creationdate="20180303T144141Z">
+        <seg>Saranno visualizzati solo quei record che hanno lo stesso contenuto del campo selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only when creating list boxes does the Wizard come into play, making it easier for a novice to carry out the steps for creating correct fields—&lt;f0&gt;u&lt;/f0&gt;p to a point.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210620Z" creationid="Marco Marega" creationdate="20171213T210552Z">
@@ -12138,6 +12146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205111Z" creationid="Marco Marega" creationdate="20171015T205111Z">
         <seg>Campo a maschera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in a field, and one click on the icon causes the filter to take over the content of this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144058Z" creationid="Marco Marega" creationdate="20180303T144058Z">
+        <seg>Posizionate il cursore in un campo, un clic sulla sua icona farà si che il filtro elimini il contenuto di questo campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18858,6 +18874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170710Z" creationid="Marina Latini" creationdate="20171207T170710Z">
         <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema (impostazione predefinita) sia le finestre di dialogo fornite da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can filter a table quickly by using the &lt;f0&gt;AutoFilter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143843Z" creationid="Marco Marega" creationdate="20180303T143843Z">
+        <seg>Potere filtrare rapidamente una tabella usando il &lt;f0&gt;Filtro automatico&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
