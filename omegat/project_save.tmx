@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can still enter records normally into a filtered table or one that has been restricted by a search.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145040Z" creationid="Marco Marega" creationdate="20180303T145040Z">
+        <seg>&lt;f0&gt;Potete sempre inserire normalmente dei record all'interno di una tabella filtrata o che è stata ristretta con una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You&lt;/f0&gt; can get comprehensive online &lt;is1/&gt;support&lt;ie2/&gt; from the community through mailing lists &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;the Ask LibreOffice website&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T152036Z" creationid="Marina Latini" creationdate="20171207T152036Z">
@@ -14826,6 +14834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225818Z" creationid="Marco Marega" creationdate="20171214T225818Z">
         <seg>Il filtro viene applicato usando il pulsante con tre puntini, che fa apparire la finestra di dialogo mostrata di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filters become inactive and can no longer be recovered with their old values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144847Z" creationid="Marco Marega" creationdate="20180303T144847Z">
+        <seg>I filtri diventano inattivi e non possono più essere ripristinati con i loro valori precedenti.</seg>
       </tuv>
     </tu>
     <tu>
