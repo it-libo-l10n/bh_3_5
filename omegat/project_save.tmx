@@ -5742,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on the &lt;f0&gt;Remove Filter/&lt;/f0&gt;&lt;f1&gt;Sort&lt;/f1&gt; icon at the extreme right causes all existing filters and sorts to be removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144739Z" creationid="Marco Marega" creationdate="20180303T144739Z">
+        <seg>Un clic sull'icona &lt;f0&gt;Rimuovi filtro/&lt;/f0&gt;&lt;f1&gt;ordine&lt;/f1&gt; all'estrema destra, comporta l'eliminazione di tutti i filtri e gli ordinamenti esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close, Save, and Name the View.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T174820Z" creationid="manuel" creationdate="20180301T174820Z">
@@ -13226,6 +13234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160246Z" creationid="Marco Marega" creationdate="20171230T160246Z">
         <seg>Quindi, se inserite A, verranno visualizzate solo le persone il cui cognome inizia per A .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, if you want, you can always return to the filtered state.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144556Z" creationid="Marco Marega" creationdate="20180303T144556Z">
+        <seg>Quindi, se volete, potete sempre ritornare alla condizione con il filtro applicato.</seg>
       </tuv>
     </tu>
     <tu>
