@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150029Z" creationid="Marco Marega" creationdate="20180303T150029Z">
+        <seg>&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165536Z" creationid="Marina Latini" creationdate="20171207T165536Z">
@@ -1402,6 +1410,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T162654Z" creationid="manuel" creationdate="20180224T162654Z">
         <seg>&lt;/f9&gt;&lt;f10&gt;Prima&lt;/f10&gt;&lt;f11&gt; che usiate questa forma finale di mostrare in modo limitato, è necessario che  includiate una condizione di ordinamento (ORDER BY …).&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;=</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150038Z" creationid="Marco Marega" creationdate="20180303T150038Z">
+        <seg>&lt;=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150023Z" creationid="Marco Marega" creationdate="20180303T150023Z">
+        <seg>&lt;&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3826,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145922Z" creationid="Marco Marega" creationdate="20180303T145922Z">
         <seg>=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150048Z" creationid="Marco Marega" creationdate="20180303T150048Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&gt;=</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150059Z" creationid="Marco Marega" creationdate="20180303T150059Z">
+        <seg>&gt;=</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,8 +6768,8 @@
       <tuv lang="EN">
         <seg>Exact equality; corresponds to &lt;f0&gt;like&lt;/f0&gt;, but without any additional placeholders</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150022Z" creationid="Marco Marega" creationdate="20180303T150022Z">
-        <seg>Uguaglianza esatta; corrisponde a &lt;f0&gt;like&lt;/f0&gt;, ma senza nessuna aggiunta di segnaposti</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150153Z" creationid="Marco Marega" creationdate="20180303T150022Z">
+        <seg>Uguaglianza esatta; corrisponde a &lt;f0&gt;simile&lt;/f0&gt;, ma senza nessuna aggiunta di segnaposti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For text, written in quotation marks (&lt;f0&gt;' '&lt;/f0&gt;); &lt;f1&gt;"_"&lt;/f1&gt; for a variable character, &lt;f2&gt;"%"&lt;/f2&gt; for an arbitrary number of variable characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150305Z" creationid="Marco Marega" creationdate="20180303T150305Z">
+        <seg>Per testo, scritto tra virgolette (&lt;f0&gt;' '&lt;/f0&gt;); &lt;f1&gt;"_"&lt;/f1&gt; per un carattere variabile, &lt;f2&gt;"%"&lt;/f2&gt; per un numero arbitrario di caratteri variabili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;No&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt; condition, use either &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;FALSE&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; or &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;0&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173526Z" creationid="manuel" creationdate="20180301T173452Z">
@@ -8034,6 +8082,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162941Z" creationid="Marina Latini" creationdate="20171206T162941Z">
         <seg>Ottenere l'età attuale di qualcuno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greater than</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150052Z" creationid="Marco Marega" creationdate="20180303T150052Z">
+        <seg>Maggiore di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greater than or equal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150122Z" creationid="Marco Marega" creationdate="20180303T150122Z">
+        <seg>Maggiore o uguale di</seg>
       </tuv>
     </tu>
     <tu>
@@ -10882,6 +10946,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145855Z" creationid="Marco Marega" creationdate="20171231T145855Z">
         <seg>I campi di testo fisso iniziano con 'lbl', i campi di testo con 'txt' e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Less than</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150033Z" creationid="Marco Marega" creationdate="20180303T150033Z">
+        <seg>Minore di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Less than or equal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150107Z" creationid="Marco Marega" creationdate="20180303T150047Z">
+        <seg>Minore o uguale di</seg>
       </tuv>
     </tu>
     <tu>
@@ -18126,6 +18206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unequal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150028Z" creationid="Marco Marega" creationdate="20180303T150028Z">
+        <seg>Diverso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately &lt;f0&gt;you cannot do this using &lt;/f0&gt;the GUI.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175533Z" creationid="MicrosoftSucks" creationdate="20180301T175533Z">
@@ -19362,6 +19450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114148Z" creationid="Marina Latini" creationdate="20171213T114148Z">
         <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>like</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150149Z" creationid="Marco Marega" creationdate="20180303T150149Z">
+        <seg>simile</seg>
       </tuv>
     </tu>
     <tu>
