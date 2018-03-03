@@ -13870,6 +13870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Standard Filter&lt;/f0&gt; icon opens a dialog inwhich you can filter using several simultaneous criteria, similar to doing a sort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145426Z" creationid="Marco Marega" creationdate="20180303T145426Z">
+        <seg>L'icona &lt;f0&gt;Filtro standard&lt;/f0&gt; apre una finestra di dialogo nella quale potete attivare il filtro usando contemporaneamente più criteri, in modo simile all'operazione di ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Subtitle&lt;/f0&gt; table contains the detailed content of CDs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153733Z" creationid="Marco Marega" creationdate="20180127T153733Z">
@@ -16650,6 +16658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141127Z" creationid="Marco Marega" creationdate="20171231T141127Z">
         <seg>Questi esistono indipendentemente dal formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They remain visible in the table view until the table is updated by pressing the &lt;/f0&gt;&lt;f1&gt;Refresh&lt;/f1&gt;&lt;f2&gt; button.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145158Z" creationid="Marco Marega" creationdate="20180303T145158Z">
+        <seg>Questi rimangono visibili nella visualizzazione della tabella fino a che questa non viene aggiornata premendo il pulsante &lt;/f0&gt;&lt;f1&gt;Aggiorna&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
