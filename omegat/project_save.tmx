@@ -6958,6 +6958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Multiple Data Filtering using the Standard Filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145630Z" creationid="Marco Marega" creationdate="20180303T145630Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Filtraggio multiplo dei dati usando il Filtro standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Form &lt;f1&gt;s&lt;/f1&gt;hown in Design View</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133608Z" creationid="Marco Marega" creationdate="20171014T133608Z">
@@ -8674,6 +8682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212840Z" creationid="Marco Marega" creationdate="20171126T212840Z">
         <seg>Se &lt;f0&gt;Si&lt;/f0&gt;, il pulsante può essere visualizzato come già premuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If AutoFilter is in use, the first line of the Standard Filter will already show this existing filter criterion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145555Z" creationid="Marco Marega" creationdate="20180303T145555Z">
+        <seg>Se il Filtro automatico è attivo, la prima riga del Filtro standard visualizzerà questo criterio di filtraggio già esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14218,6 +14234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215925Z" creationid="Marco Marega" creationdate="20180301T215925Z">
         <seg>Le funzioni Ordina, Cerca e Filtro sono molto utili per trovare un determinato record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard Filter provides many of the functions of SQL data filtering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145736Z" creationid="Marco Marega" creationdate="20180303T145736Z">
+        <seg>Il Filtro standard rende disponibili molte delle funzioni di filtraggio dei dati di SQL.</seg>
       </tuv>
     </tu>
     <tu>
