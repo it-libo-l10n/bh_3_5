@@ -5328,8 +5328,8 @@
       <tuv lang="EN">
         <seg>But of course you must now determine which students shoul&lt;f0&gt;€&lt;/f0&gt;d &lt;f1&gt;not&lt;/f1&gt; have been affected by this change.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220810Z" creationid="Marco Marega" creationdate="20180303T220810Z">
-        <seg>Ma, naturalmente, ora dovete determinare quali studenti &lt;f0&gt;non&lt;/f0&gt; &lt;f1&gt;dovrebbero&lt;/f1&gt; essere stati interessati da questa modifica.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220840Z" creationid="Marco Marega" creationdate="20180303T220810Z">
+        <seg>Ma, naturalmente, ora dovete determinare quali studenti &lt;f0&gt;non&lt;/f0&gt; &lt;f1&gt;avrebbero dovuto&lt;/f1&gt; essere stati interessati da questa modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10986,6 +10986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141729Z" creationid="Marco Marega" creationdate="20180303T141729Z">
         <seg>Non avrebbe senso cercare il testo di prima del campo &lt;f0&gt;Title&lt;/f0&gt; all'interno del campo &lt;f1&gt;Author&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would have been simpler to check a Yes/No field for the repetition of a year and then to move up only those students for which this field was not checked:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221013Z" creationid="Marco Marega" creationdate="20180303T220831Z">
+        <seg>Sarebbe stato più semplice avere un campo Si/No per la ripetizione di un anno e poi far avanzare solo quegli studenti per i quali questo campo non fosse stato selezionato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18442,6 +18450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220336Z" creationid="Marco Marega" creationdate="20180303T220336Z">
         <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Nome_campo"&lt;/f2&gt; = &lt;Espressione&gt; [, ...] [WHERE &lt;f3&gt;&lt;Espressione&gt;&lt;/f3&gt;];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Year" = "Year"+1 WHERE "Repetition" = FALSE&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221036Z" creationid="Marco Marega" creationdate="20180303T221036Z">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Year" = "Year"+1 WHERE "Repetition" = FALSE&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
