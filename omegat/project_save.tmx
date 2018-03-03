@@ -6558,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Direct entry into tables is useful only for databases with simple tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T224146Z" creationid="Marco Marega" creationdate="20180303T224146Z">
+        <seg>L'inserimento diretto nelle tabelle è utile solo per database con tabelle semplici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Direct entry of SQL commands</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162151Z" creationid="Marina Latini" creationdate="20171205T162151Z">
@@ -6722,6 +6730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164134Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
         <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata della finestra di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Elsewhere these numbers can be made visible with the exactly corresponding media descriptions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T224059Z" creationid="Marco Marega" creationdate="20180303T224059Z">
+        <seg>Altrimenti questi numeri possono essere resi visibili assieme alla corrispondente esatta descrizione del supporto.</seg>
       </tuv>
     </tu>
     <tu>
