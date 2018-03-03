@@ -6126,6 +6126,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DELETE FROM "Table_name" WHERE "Return_date" IS NOT NULL;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222505Z" creationid="Marco Marega" creationdate="20180303T222505Z">
+        <seg>DELETE FROM "Nome_tabella" WHERE "Return_date" IS NOT NULL;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DELETE FROM "Table_name" WHERE NOT "Return_date" IS NULL;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222445Z" creationid="Marco Marega" creationdate="20180303T222445Z">
+        <seg>DELETE FROM "Nome_tabella" WHERE NOT "Return_date" IS NULL;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DELETE FROM &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222014Z" creationid="Marco Marega" creationdate="20180303T222014Z">
@@ -19874,6 +19890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150313Z" creationid="Marco Marega" creationdate="20180303T150313Z">
         <seg>non simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or alternatively with</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222457Z" creationid="Marco Marega" creationdate="20180303T222457Z">
+        <seg>o alternativamente con</seg>
       </tuv>
     </tu>
     <tu>
