@@ -5222,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before one filter criterion can be combined with another, the following row must have at least one field name selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150645Z" creationid="Marco Marega" creationdate="20180303T150645Z">
+        <seg>Prima che un criterio di filtraggio possa essere combinato con un altro, nella riga successiva deve essere selezionato almeno un nome di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before we create a list box in the main form, we must switch off the wizards.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T174740Z" creationid="Marco Marega" creationdate="20171226T173816Z">
@@ -9574,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In SQL this is expressed by the term &lt;f0&gt;NULL&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150416Z" creationid="Marco Marega" creationdate="20180303T150416Z">
+        <seg>In SQL questo viene espresso con il termine &lt;f0&gt;NULL&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a 4-stream school, this suffix might run from &lt;f1&gt;a&lt;/f1&gt; to &lt;f2&gt;d&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145855Z" creationid="Marco Marega" creationdate="20180203T145731Z">
@@ -11534,6 +11550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No entry, not even a space character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150403Z" creationid="Marco Marega" creationdate="20180303T150403Z">
+        <seg>Nessun valore, nemmeno un carattere di spaziatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No filter proposal is offered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204931Z" creationid="Marco Marega" creationdate="20171026T204931Z">
@@ -11594,6 +11618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161324Z" creationid="Marco Marega" creationdate="20171230T161324Z">
         <seg>Non è nemmeno possibile cancellare dei record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not empty</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150422Z" creationid="Marco Marega" creationdate="20180303T150422Z">
+        <seg>Non nullo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12154,6 +12186,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140238Z" creationid="Marco Marega" creationdate="20180218T140238Z">
         <seg>Aprite la tabella per modificarla facendo clic con il pulsante destro del mouse e usando il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opposite of &lt;f0&gt;like&lt;/f0&gt;, in SQL &lt;f1&gt;NOT LIKE&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150326Z" creationid="Marco Marega" creationdate="20180303T150326Z">
+        <seg>L'opposto di &lt;f0&gt;simile&lt;/f0&gt;, in SQL &lt;f1&gt;NOT LIKE&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opposite of empty, in SQL &lt;f0&gt;NOT NULL&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150433Z" creationid="Marco Marega" creationdate="20180303T150433Z">
+        <seg>L'opposto di nullo, in SQL &lt;f0&gt;NOT NULL&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19414,6 +19462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>empty</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150334Z" creationid="Marco Marega" creationdate="20180303T150334Z">
+        <seg>nullo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>for the current data time stamp</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211945Z" creationid="Marco Marega" creationdate="20180219T211854Z">
@@ -19458,6 +19514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150149Z" creationid="Marco Marega" creationdate="20180303T150149Z">
         <seg>simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>not like</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150313Z" creationid="Marco Marega" creationdate="20180303T150313Z">
+        <seg>non simile</seg>
       </tuv>
     </tu>
     <tu>
