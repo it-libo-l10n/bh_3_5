@@ -6726,6 +6726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even for large data collections, the number of retrieved records can be reduced to a manageable set with skillful filtering using these three possible conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T151504Z" creationid="Marco Marega" creationdate="20180303T151504Z">
+        <seg>Anche per raccolte di dati estese, con abili filtraggi che utilizzano queste tre possibili condizioni, il numero di record recuperati può essere ridotto a un insieme gestibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even if you specify the &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;DISTINCT&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; condition, both will be displayed.&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154210Z" creationid="manuel" creationdate="20180301T154210Z">
