@@ -6126,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DELETE FROM &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; [WHERE &lt;f2&gt;&lt;Expression&gt;&lt;/f2&gt;];</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221943Z" creationid="Marco Marega" creationdate="20180303T221943Z">
+        <seg>DELETE FROM &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; [WHERE &lt;f2&gt;&lt;Espressione&gt;&lt;/f2&gt;];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DROP TABLE &lt;f0&gt;"&lt;/f0&gt;Table name&lt;f1&gt;"&lt;/f1&gt; [IF EXISTS] [RESTRICT | CASCADE];</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213321Z" creationid="Marco Marega" creationdate="20180227T213321Z">
@@ -6410,6 +6418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213334Z" creationid="Marco Marega" creationdate="20180227T213334Z">
         <seg>Elimina la tabella "Nome tabella".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting existing records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221927Z" creationid="Marco Marega" creationdate="20180303T221927Z">
+        <seg>Eliminare record esistenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -18482,6 +18498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220336Z" creationid="Marco Marega" creationdate="20180303T220336Z">
         <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Nome_campo"&lt;/f2&gt; = &lt;Espressione&gt; [, ...] [WHERE &lt;f3&gt;&lt;Espressione&gt;&lt;/f3&gt;];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Price" = "Price"*0,9 WHERE "Price" &gt;= 150&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221913Z" creationid="Marco Marega" creationdate="20180303T221913Z">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Prezzo" = "Prezzo"*0,9 WHERE "Prezzo" &gt;= 150&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
