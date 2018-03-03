@@ -5462,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CALL IDENTITY();</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215601Z" creationid="Marco Marega" creationdate="20180303T215601Z">
+        <seg>CALL IDENTITY();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CHECK(&lt;Search_condition&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214646Z" creationid="Marco Marega" creationdate="20180222T214646Z">
@@ -8782,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; (&lt;f2&gt;"Field_name"&lt;/f2&gt;) VALUES ('Test');</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215657Z" creationid="Marco Marega" creationdate="20180303T215559Z">
+        <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; (&lt;f2&gt;"Nome_campo"&lt;/f2&gt;) VALUES ('Prova');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; [( &lt;f2&gt;"Field_name"&lt;/f2&gt; [,...] )]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215115Z" creationid="Marco Marega" creationdate="20180303T215115Z">
@@ -10270,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the table, in the column "Field_name", the value 'Test' is inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215653Z" creationid="Marco Marega" creationdate="20180303T215653Z">
+        <seg>Nella colonna "Nome_campo" della tabella viene inserito il valore 'Prova'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the upper table control, the same medium sometimes occurs more than once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225137Z" creationid="Marco Marega" creationdate="20171214T225137Z">
@@ -11434,6 +11458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215622Z" creationid="Marco Marega" creationdate="20171229T215622Z">
         <seg>Maggiori informazioni su questo argomento &lt;f0&gt;si trovano &lt;/f0&gt;nel &lt;f1&gt;Capitolo 5,&lt;/f1&gt; &lt;f2&gt;Ricerche&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More exact information is given below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215531Z" creationid="Marco Marega" creationdate="20180303T215531Z">
+        <seg>Informazioni più precise vengono fornite in seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13894,6 +13926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That includes the automatically incremented primary key field, where present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215423Z" creationid="Marco Marega" creationdate="20180303T215423Z">
+        <seg>Compreso, se presente, il campo a incremento automatico della chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That is determined by the &lt;f0&gt;Activation Order&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150433Z" creationid="Marco Marega" creationdate="20171231T150433Z">
@@ -14590,6 +14630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The automatically incremented primary key field "ID" is not touched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215739Z" creationid="Marco Marega" creationdate="20180303T215739Z">
+        <seg>Il campo a incremento automatico della chiave primaria "ID" non viene toccato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basis for this filtering is an editable query (see the chapter on queries) and an additional table, in which the data to be filtered are stored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210218Z" creationid="MicrosoftSucks" creationdate="20180218T210218Z">
@@ -14810,6 +14858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215642Z" creationid="Marco Marega" creationdate="20180222T215642Z">
         <seg>Il record corrispondente dev'essere modificato in modo che la relazione tra le tabelle rimanga valida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corresponding value for the "ID" needs to be created separately by using CALL IDENTITY().</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215824Z" creationid="Marco Marega" creationdate="20180303T215824Z">
+        <seg>Il valore corrispondente per "ID" deve essere creato separatamente usando CALL IDENTITY().</seg>
       </tuv>
     </tu>
     <tu>
@@ -16554,6 +16610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211331Z" creationid="Marco Marega" creationdate="20171126T211121Z">
         <seg>Il valore selezionato facendo clic su un pulsante di scelta viene riportato nel campo &lt;f0&gt;Gender_ID&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;della tabella Reader sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The values entered can also be the result of a query (&lt;Select-Formula&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215458Z" creationid="Marco Marega" creationdate="20180303T215458Z">
+        <seg>I valori inseriti possono anche essere il risultato di una ricerca(&lt;Formula-di-selezione&gt;).</seg>
       </tuv>
     </tu>
     <tu>
