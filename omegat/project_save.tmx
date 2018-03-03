@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145922Z" creationid="Marco Marega" creationdate="20180303T145922Z">
+        <seg>=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194658Z" creationid="Marco Marega" creationdate="20171125T194658Z">
@@ -6366,6 +6374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145920Z" creationid="Marco Marega" creationdate="20180303T145912Z">
+        <seg>Descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Design</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205839Z" creationid="Marco Marega" creationdate="20171015T205839Z">
@@ -6706,6 +6722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205726Z" creationid="Marco Marega" creationdate="20171229T205726Z">
         <seg>Infine il supporto e la data del prestito dovrebbero essere visualizzate, ma protette dalla modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact equality; corresponds to &lt;f0&gt;like&lt;/f0&gt;, but without any additional placeholders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150022Z" creationid="Marco Marega" creationdate="20180303T150022Z">
+        <seg>Uguaglianza esatta; corrisponde a &lt;f0&gt;like&lt;/f0&gt;, ma senza nessuna aggiunta di segnaposti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7890,6 +7914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141938Z" creationid="Marco Marega" creationdate="20180303T141938Z">
         <seg>Ulteriori impostazioni di ricerca possono rendere le cose più facili mediante specifiche combinazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GUI Condition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145916Z" creationid="Marco Marega" creationdate="20180303T145905Z">
+        <seg>Condizioni presenti nella GUI</seg>
       </tuv>
     </tu>
     <tu>
@@ -14898,6 +14930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T173018Z" creationid="Manuel Frassinetti" creationdate="20171130T173018Z">
         <seg>I primi cinque campi della tabella Prestito sono selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following SQL commands are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145804Z" creationid="Marco Marega" creationdate="20180303T145804Z">
+        <seg>Sono disponibili i seguenti comandi SQL.</seg>
       </tuv>
     </tu>
     <tu>
