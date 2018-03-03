@@ -6918,6 +6918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Limiting the similarity search</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T142540Z" creationid="Marco Marega" creationdate="20180303T142540Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Limitazione della ricerca per simili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113517Z" creationid="Marina Latini" creationdate="20171213T113517Z">
