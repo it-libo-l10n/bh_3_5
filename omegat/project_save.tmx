@@ -11222,6 +11222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most users are more likely to succeed in finding records by using a filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143542Z" creationid="Marco Marega" creationdate="20180303T143542Z">
+        <seg>La maggior parte degli utenti probabilmente riuscirà più facilmente a trovare i record usando un filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multi-line text fields are then shown as single lines to be scrolled.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204111Z" creationid="Marco Marega" creationdate="20171125T204111Z">
