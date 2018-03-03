@@ -16198,6 +16198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The primary key is automatically entered in the &lt;f4&gt;ID&lt;/f4&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223136Z" creationid="Marco Marega" creationdate="20180303T223136Z">
+        <seg>La chiave primaria viene inserita automaticamente nel campo &lt;f4&gt;ID&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The primary key of this linking table is the foreign key, formed from the &lt;f1&gt;Author&lt;/f1&gt; and &lt;f2&gt;Media&lt;/f2&gt; tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T221938Z" creationid="Marco Marega" creationdate="20180128T221938Z">
@@ -19298,6 +19306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085701Z" creationid="Marina Latini" creationdate="20171003T085649Z">
         <seg>Dove ottenere ulteriore aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether the reader actually corresponds to the number is not apparent unless a second table for the readers is open at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223247Z" creationid="Marco Marega" creationdate="20180303T223247Z">
+        <seg>Se l'utente corrisponde effettivamente al numero non è evidente, a meno che non venga aperta contemporaneamente anche la tabella degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
