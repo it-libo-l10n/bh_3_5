@@ -9006,6 +9006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the button is clicked again, the filter continues to exist, but all records are now shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144450Z" creationid="Marco Marega" creationdate="20180303T144450Z">
+        <seg>Se il pulsante viene premuto nuovamente, il filtro continua a esistere, ma ora sono visualizzati tutti i record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the content extends over more lines, a scrollbar appears when the list drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
@@ -14766,10 +14774,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The figure below shows filtering according to an entry in the &lt;f1&gt;Pub_Year&lt;/f1&gt; column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144232Z" creationid="Marco Marega" creationdate="20180303T144232Z">
+        <seg>La figura sottostante mostra il filtraggio sulla base di una voce della colonna &lt;f1&gt;Pub_Year&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The figure shows a descending sort by the &lt;f2&gt;Title&lt;/f2&gt; field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133138Z" creationid="Marco Marega" creationdate="20180302T133138Z">
         <seg>La figura mostra un ordinamento decrescente in base al campo &lt;f2&gt;Title&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filter is active, as shown by the filter icon with a green check mark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144330Z" creationid="Marco Marega" creationdate="20180303T144330Z">
+        <seg>Il filtro è attivo, come evidenziato dal segno di spunta verde sull'icona del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filter symbol is shown pressed in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144355Z" creationid="Marco Marega" creationdate="20180303T144355Z">
+        <seg>Il simbolo del filtro è visualizzato come premuto.</seg>
       </tuv>
     </tu>
     <tu>
