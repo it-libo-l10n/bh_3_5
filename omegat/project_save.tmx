@@ -6478,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Direct data entry using SQL is useful for entering, changing or removing multiple records with one command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215046Z" creationid="Marco Marega" creationdate="20180303T215046Z">
+        <seg>L'inserimento diretto di dati usando SQL è utile per inserire, modificare o eliminare più record con un solo comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Direct entry of SQL commands</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162151Z" creationid="Marina Latini" creationdate="20171205T162151Z">
@@ -6666,6 +6674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105839Z" creationid="Marina Latini" creationdate="20171206T105839Z">
         <seg>Inserimento Formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering new records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215059Z" creationid="Marco Marega" creationdate="20180303T215059Z">
+        <seg>Inserire nuovi record</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,6 +8782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; [( &lt;f2&gt;"Field_name"&lt;/f2&gt; [,...] )]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215115Z" creationid="Marco Marega" creationdate="20180303T215115Z">
+        <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; [( &lt;f2&gt;"Nome_campo"&lt;/f2&gt; [,...] )]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INTERSECT [DISTINCT] } Query statement]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145907Z" creationid="manuel" creationdate="20180224T145907Z">
@@ -9074,6 +9098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193821Z" creationid="Marco Marega" creationdate="20171212T193821Z">
         <seg>Se necessario, la selezione tramite tabulatore può essere regolata &lt;f0&gt;usando&lt;/f0&gt; la sequenza di attivazione (vedete a pagina &lt;bf1&gt;70&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no "Field_name" is specified, all fields must be completed and in the right order (as laid down in the table).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215324Z" creationid="Marco Marega" creationdate="20180303T215324Z">
+        <seg>Se non è specificato un "Nome_campo", tutti i campi devono essere compilati e nell'ordine corretto (così come sono strutturati nella tabella).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19618,6 +19650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154305Z" creationid="manuel" creationdate="20180301T154305Z">
         <seg>{ Espressione | COUNT(*) |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{ VALUES(&lt;f0&gt;"Field value"&lt;/f0&gt; [,...]) | &lt;Select-Formula&gt;};</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215209Z" creationid="Marco Marega" creationdate="20180303T215209Z">
+        <seg>{ VALUES(&lt;f0&gt;"Valore campo"&lt;/f0&gt; [,...]) | &lt;Formula-di-selezione&gt;};</seg>
       </tuv>
     </tu>
     <tu>
