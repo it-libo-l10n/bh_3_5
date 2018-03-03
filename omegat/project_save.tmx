@@ -18822,6 +18822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use the normal SQL placeholders (&lt;f0&gt;"_"&lt;/f0&gt; for a variable character, &lt;f1&gt;"%"&lt;/f1&gt; for an arbitrary number of variable characters, &lt;f2&gt;"\"&lt;/f2&gt; as an escape character, to enable these special characters themselves to be searched for).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T142146Z" creationid="Marco Marega" creationdate="20180303T142146Z">
+        <seg>Potete usare i normali segnaposti SQL (&lt;f0&gt;"_"&lt;/f0&gt; per un carattere variabile, &lt;f1&gt;"%"&lt;/f1&gt; per un numero arbitrario di caratteri variabili, &lt;f2&gt;"\"&lt;/f2&gt; come carattere di escape, per abilitare la possibilità di cercare questi stessi caratteri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use the record marker to access the delete function for the whole record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204844Z" creationid="Marco Marega" creationdate="20171125T204844Z">
