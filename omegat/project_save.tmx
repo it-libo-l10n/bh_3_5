@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All this is much easier to accomplish using forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223503Z" creationid="Marco Marega" creationdate="20180303T223503Z">
+        <seg>Tutto ciò è più facile da ottenere usando i formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
@@ -8426,6 +8434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210722Z" creationid="Marco Marega" creationdate="20171126T210722Z">
         <seg>In questo caso l'opzione predefinita è "female".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here the loan must rely on the label on the item or on another open table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223426Z" creationid="Marco Marega" creationdate="20180303T223426Z">
+        <seg>In questo caso il prestito deve basarsi sull'etichetta attaccata all'articolo o su di un'altra tabella aperta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19306,6 +19322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085701Z" creationid="Marina Latini" creationdate="20171003T085649Z">
         <seg>Dove ottenere ulteriore aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether the item was loaned out with the correct number is &lt;f5&gt;also&lt;/f5&gt; not apparent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223334Z" creationid="Marco Marega" creationdate="20180303T223334Z">
+        <seg>Anche se l'articolo è stato prestato con il numero corretto &lt;f5&gt;non&lt;/f5&gt; è evidente.</seg>
       </tuv>
     </tu>
     <tu>
