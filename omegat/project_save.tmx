@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But of course you must now determine which students shoul&lt;f0&gt;€&lt;/f0&gt;d &lt;f1&gt;not&lt;/f1&gt; have been affected by this change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220810Z" creationid="Marco Marega" creationdate="20180303T220810Z">
+        <seg>Ma, naturalmente, ora dovete determinare quali studenti &lt;f0&gt;non&lt;/f0&gt; &lt;f1&gt;dovrebbero&lt;/f1&gt; essere stati interessati da questa modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But this 0 is reserved for the displayed value, in the above example the &lt;f3&gt;Surname&lt;/f3&gt;, while the 1 refers to the &lt;f4&gt;ID &lt;/f4&gt;field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210836Z" creationid="Marco Marega" creationdate="20171101T210836Z">
@@ -11790,6 +11798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing could be faster: All data records are altered with a single command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220630Z" creationid="Marco Marega" creationdate="20180303T220630Z">
+        <seg>Niente potrebbe essere più veloce: tutti i record di dati vengono modificati con un solo comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing further to report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192624Z" creationid="Marco Marega" creationdate="20171125T192624Z">
@@ -13754,6 +13770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150825Z" creationid="Manuel Frassinetti" creationdate="20171216T150825Z">
         <seg>Supponiamo che una biblioteca non emetta avvisi di richiamo quando un articolo è dovuto per la restituzione, ma emetta comunicazioni in ritardo nei casi in cui il periodo di prestito è scaduto e l'articolo non è stato restituito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suppose that all students in a class are to be moved up one year:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220514Z" creationid="Marco Marega" creationdate="20180303T220514Z">
+        <seg>Immaginate che tutti gli studenti di una classe debbano essere fatti avanzare di un anno:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18418,6 +18442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220336Z" creationid="Marco Marega" creationdate="20180303T220336Z">
         <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Nome_campo"&lt;/f2&gt; = &lt;Espressione&gt; [, ...] [WHERE &lt;f3&gt;&lt;Espressione&gt;&lt;/f3&gt;];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Table_name&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Year" = "Year"+1&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220534Z" creationid="Marco Marega" creationdate="20180303T220534Z">
+        <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Year" = "Year"+1&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
