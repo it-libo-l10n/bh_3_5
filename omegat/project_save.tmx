@@ -8454,6 +8454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the users and the media can be looked up using list box controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223611Z" creationid="Marco Marega" creationdate="20180303T223611Z">
+        <seg>In questi gli utenti e i supporti possono essere cercati usando delle caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here there are only a few terms available from another table, those whose foreign keys can be entered into the main form's table in this way.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T215844Z" creationid="Marco Marega" creationdate="20171230T215844Z">
@@ -9902,6 +9910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, a form can be so designed that a user can be selected first, then a loan date, and each set of media are assigned this one date by number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223955Z" creationid="Marco Marega" creationdate="20180303T223955Z">
+        <seg>Inoltre, un formulario può essere progettato in modo che possa essere selezionato prima un utente, poi una data per il prestito, e ciascuno insieme di supporti sia assegnato a questa data con un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, a supplementary label such as Producer, Photographer and so on is added to the author where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222447Z" creationid="Marco Marega" creationdate="20180128T222447Z">
@@ -10002,6 +10018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165321Z" creationid="Manuel Frassinetti" creationdate="20171202T165321Z">
         <seg>Diventa quindi completamente modificabile in modo che anche i nomi dei lettori possano essere modificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In forms, the names of user and item are visible and their numeric identifiers are hidden.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223719Z" creationid="Marco Marega" creationdate="20180303T223719Z">
+        <seg>Nei formulari, i nomi degli utenti e degli articoli sono visibili e i loro identificatori numerici sono nascosti.</seg>
       </tuv>
     </tu>
     <tu>
