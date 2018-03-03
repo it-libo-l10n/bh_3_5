@@ -7822,6 +7822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further settings for the search can make things easier through specific combinations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141938Z" creationid="Marco Marega" creationdate="20180303T141938Z">
+        <seg>Ulteriori impostazioni di ricerca possono rendere le cose più facili mediante specifiche combinazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General &lt;f0&gt;tab&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183152Z" creationid="Marco Marega" creationdate="20171014T183152Z">
@@ -10254,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, the field name &lt;f2&gt;Title&lt;/f2&gt; is already suggested as the single Field name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141827Z" creationid="Marco Marega" creationdate="20180303T141827Z">
+        <seg>Invece, il nome del campo &lt;f2&gt;Title&lt;/f2&gt; viene già suggerito come unico nome di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221413Z" creationid="Marco Marega" creationdate="20171217T221413Z">
@@ -10658,6 +10674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215602Z" creationid="Marco Marega" creationdate="20171215T205147Z">
         <seg>Sarebbe bello se, selezionando un utente in una sezione del formulario, in un'altra parte venissero visualizzati i supporti in prestito a quell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be pointless to search for the above text from the &lt;f0&gt;Title&lt;/f0&gt; field in the &lt;f1&gt;Author&lt;/f1&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141729Z" creationid="Marco Marega" creationdate="20180303T141729Z">
+        <seg>Non avrebbe senso cercare il testo di prima del campo &lt;f0&gt;Title&lt;/f0&gt; all'interno del campo &lt;f1&gt;Author&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
