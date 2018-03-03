@@ -10094,6 +10094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the case of filtering forms too, there are some further possibilities (described in the following chapter) which are not provided by the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T151625Z" creationid="Marco Marega" creationdate="20180303T151625Z">
+        <seg>Anche nel caso di formulari per il filtraggio, ci sono alcune ulteriori possibilità (descritte nel prossimo capitolo) che non vengono fornite dalla GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the conditions only the field &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; is considered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175329Z" creationid="MicrosoftSucks" creationdate="20180301T175329Z">
