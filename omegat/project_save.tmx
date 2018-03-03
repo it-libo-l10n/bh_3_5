@@ -6912,8 +6912,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Entry mask for a Record search</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T142503Z" creationid="Marco Marega" creationdate="20180303T142503Z">
-        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Maschera di inserimento per la ricerca di un record</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T142932Z" creationid="Marco Marega" creationdate="20180303T142503Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Maschera di inserimento per la ricerca di un record di dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -14990,6 +14990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The higher the values that you set, the more records will be shown in the final list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143146Z" creationid="Marco Marega" creationdate="20180303T143146Z">
+        <seg>Più alti sono i valori che impostate, più numerosi saranno i record visualizzati nella lista finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The higher up a field lies, the earlier it comes in the sequence when you use Automatic Sort.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152243Z" creationid="Marco Marega" creationdate="20171231T152243Z">
@@ -15874,6 +15882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172809Z" creationid="steevie" creationdate="20180226T172809Z">
         <seg>Il server &lt;s1/&gt;considera le viste come interrogazioni locali complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The similarity search function is useful when you need to exclude spelling mistakes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143036Z" creationid="Marco Marega" creationdate="20180303T143036Z">
+        <seg>La funzione di ricerca per simili è utile quando dovete escludere errori di digitazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17426,6 +17442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225453Z" creationid="Marco Marega" creationdate="20180224T225453Z">
         <seg>Ciò richiedere che i contenuti delle tabelle vengano cancellati e che sia impostato un nuovo valore per il campo, come ad esempio "1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This search module is most suitable for people who know, from regular use, exactly how to achieve a given result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143315Z" creationid="Marco Marega" creationdate="20180303T143315Z">
+        <seg>Questo modulo di ricerca è più adatto per le persone che, per esperienza, sanno esattamente come ottenere un determinato risultato.</seg>
       </tuv>
     </tu>
     <tu>
