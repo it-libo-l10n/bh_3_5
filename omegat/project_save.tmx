@@ -6806,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entry using a table alone takes no account of links to other tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222624Z" creationid="Marco Marega" creationdate="20180303T222624Z">
+        <seg>L'inserimento usando una sola tabella non tiene conto dei collegamenti con le altre tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entry using the Base GUI</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211615Z" creationid="Marina Latini" creationdate="20171205T162312Z">
@@ -10402,6 +10410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215653Z" creationid="Marco Marega" creationdate="20180303T215653Z">
         <seg>Nella colonna "Nome_campo" della tabella viene inserito il valore 'Prova'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the table, therefore, we need to enter at the time of the loan two numeric values (Media number and Reader number) and a date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223101Z" creationid="Marco Marega" creationdate="20180303T223101Z">
+        <seg>Perciò, al momento del prestito, nella tabella dobbiamo inserire due valori numerici (i numeri di ID del supporto e dell'utente) e una data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14262,6 +14278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Loan&lt;/f0&gt; table consists of foreign keys for the item being lent (&lt;f1&gt;Media_ID&lt;/f1&gt;) and the corresponding reader (&lt;f2&gt;Reader_ID&lt;/f2&gt;) as well as a loan date (&lt;f3&gt;Loan_Date&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222843Z" creationid="Marco Marega" creationdate="20180303T222843Z">
+        <seg>La tabella &lt;f0&gt;Loan&lt;/f0&gt; (Prestito) è composta da una chiave esterna per l'articolo prestato (&lt;f1&gt;Media_ID&lt;/f1&gt;), una per l'utente corrispondente (&lt;f2&gt;Reader_ID&lt;/f2&gt;) e infine dalla data del prestito (&lt;f3&gt;Loan_Date&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Loan&lt;/f0&gt; table needs to be protected from input errors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230003Z" creationid="Marco Marega" creationdate="20180224T230003Z">
@@ -17682,6 +17706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220757Z" creationid="Marco Marega" creationdate="20171210T220757Z">
         <seg>Questa operazione è effettuata automaticamente quando la casella di riepilogo viene creata direttamente, ma non quando deriva dalla conversione da un altro tipo di campo di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is clear from an example of a media loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222659Z" creationid="Marco Marega" creationdate="20180303T222659Z">
+        <seg>Questo è evidente nell'esempio di un prestito di un supporto.</seg>
       </tuv>
     </tu>
     <tu>
