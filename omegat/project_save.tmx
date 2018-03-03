@@ -9582,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Figure &lt;t0&gt;20&lt;/t0&gt;, the word – &lt;f1&gt;none&lt;/f1&gt; – is shown instead of a field name, so the combination is not active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150754Z" creationid="Marco Marega" creationdate="20180303T150754Z">
+        <seg>Nella Figura &lt;t0&gt;20&lt;/t0&gt;, la parola – &lt;f1&gt;nessuno&lt;/f1&gt; – è visualizzata al posto di un nome di campo, quindi la combinazione non è attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In SQL this is expressed by the term &lt;f0&gt;NULL&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150416Z" creationid="Marco Marega" creationdate="20180303T150416Z">
@@ -14678,6 +14686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The combination operators available are &lt;f2&gt;AND&lt;/f2&gt; and &lt;f3&gt;OR&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150849Z" creationid="Marco Marega" creationdate="20180303T150849Z">
+        <seg>Gli operatori per la combinazione sono &lt;f2&gt;E&lt;/f2&gt; e &lt;f3&gt;O&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The combo box shows the first name, and text input is not necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230414Z" creationid="Marco Marega" creationdate="20171102T230414Z">
@@ -14930,6 +14946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223855Z" creationid="Marco Marega" creationdate="20180224T223855Z">
         <seg>Il campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field name can be a new field name or a previously selected one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T151006Z" creationid="Marco Marega" creationdate="20180303T151006Z">
+        <seg>Il nome campo può essere un nome di campo diverso o uno precedentemente selezionato.</seg>
       </tuv>
     </tu>
     <tu>
