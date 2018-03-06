@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Linking to Databases&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180004Z" creationid="Elisabetta Manuele" creationdate="20180306T180004Z">
+        <seg>&lt;f4&gt;Collegamento ai database&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;R&lt;/f5&gt;ight&lt;f6&gt;-&lt;/f6&gt;click to replace the selected field with a different type of field, using the context menu &lt;f7&gt;(Figure &lt;/f7&gt;&lt;f8&gt;&lt;t9&gt;35&lt;/t9&gt;&lt;/f8&gt;&lt;f10&gt;).&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215500Z" creationid="Marco Marega" creationdate="20171210T215500Z">
@@ -5778,6 +5786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165500Z" creationid="Marina Latini" creationdate="20171206T165500Z">
         <seg>Capitolo 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;7&lt;/f0&gt;&lt;f1&gt; &lt;s2/&gt;&lt;/f1&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T175916Z" creationid="Elisabetta Manuele" creationdate="20180306T175916Z">
+        <seg>Capitolo &lt;f0&gt;7&lt;/f0&gt;&lt;f1&gt; &lt;s2/&gt;&lt;/f1&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8170,6 +8186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161620Z" creationid="Marina Latini" creationdate="20171205T161620Z">
         <seg>Informazioni generali sulle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General notes on &lt;f0&gt;d&lt;/f0&gt;atabase linkage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180050Z" creationid="Elisabetta Manuele" creationdate="20180306T180050Z">
+        <seg>Note generali sul collegamento di un &lt;f0&gt;d&lt;/f0&gt;atabase</seg>
       </tuv>
     </tu>
     <tu>
