@@ -18942,6 +18942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;LibreOffice Base &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Databases &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;New&lt;/f12&gt;&lt;f13&gt;, &lt;/f13&gt;a database can be registered for subsequent use by other LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181002Z" creationid="Elisabetta Manuele" creationdate="20180306T181002Z">
+        <seg>Grazie al menu &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;LibreOffice Base &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Database &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Nuovo&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;potete registrare un database utilizzabile successivamente da altri componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using LibreOffice on a Mac</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085806Z" creationid="Marina Latini" creationdate="20171003T085806Z">
