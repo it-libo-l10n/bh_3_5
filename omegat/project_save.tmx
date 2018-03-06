@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apart from the suggested &lt;f2&gt;Default&lt;/f2&gt; format, all the formats can be renamed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183732Z" creationid="Elisabetta Manuele" creationdate="20180306T183732Z">
+        <seg>A eccezione del formato &lt;f2&gt;Predefinito&lt;/f2&gt; consigliato, tutti gli altri possono essere rinominati. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appears as a tooltip when the mouse is hovered over the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191937Z" creationid="Marco Marega" creationdate="20171017T191937Z">
@@ -9330,6 +9338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225546Z" creationid="Marco Marega" creationdate="20171214T225546Z">
         <seg>Se viene effettuato usando le proprietà del formulario, durante l'inserimento dei dati il filtro può essere temporaneamente disattivato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is not checked, no separate row will be reserved for headings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183542Z" creationid="Elisabetta Manuele" creationdate="20180306T183542Z">
+        <seg>Se non viene selezionata, non sarà assegnata una riga separata per le intestazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14638,6 +14654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;checkbox&lt;/f0&gt; determines if a table header is required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183526Z" creationid="Elisabetta Manuele" creationdate="20180306T183526Z">
+        <seg>La &lt;f0&gt;casella di controllo&lt;/f0&gt; specifica se è necessaria un'intestazione di tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;f&lt;/f0&gt;orms have been individually named to aid recognition.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143138Z" creationid="Marco Marega" creationdate="20171231T143138Z">
@@ -14730,6 +14754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205821Z" creationid="Marco Marega" creationdate="20171101T205821Z">
         <seg>Il campo &lt;f4&gt;contenuto elenco&lt;/f4&gt; li visualizzerà come &lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Valore1&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;Valore2&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;;&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;Valore3&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; … &lt;/f22&gt;La proprietà &lt;f23&gt;Campo collegato&lt;/f23&gt; è &lt;f24&gt;disattivata&lt;/f24&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;s0/&gt;Auto&lt;f1&gt;F&lt;/f1&gt;ormat button provides several pre-formatted table views.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183701Z" creationid="Elisabetta Manuele" creationdate="20180306T183701Z">
+        <seg>Il pulsante &lt;s0/&gt;&lt;f1&gt;F&lt;/f1&gt;ormattazione automatica presenta alcune visualizzazioni di tabelle con formato predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16790,6 +16822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The row chosen for the table headings can be taken from the column names, or the record may be written out with space left for the headings to be edited in later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183608Z" creationid="Elisabetta Manuele" creationdate="20180306T183608Z">
+        <seg>La riga assegnata alle intestazioni di tabella può essere ricavata dai nomi delle colonne, oppure può essere redatto un record destinando uno spazio alle intestazioni da modificare in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same query structure for more listboxes is better done using a common View, instead of &lt;s0/&gt;repeatedly creating fields with the same syntax using the stored SQL commands in the listboxes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172528Z" creationid="steevie" creationdate="20180226T172528Z">
@@ -17618,6 +17658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222456Z" creationid="Marco Marega" creationdate="20180222T222456Z">
         <seg>Questo consente di creare dei record temporanei, che contengono le informazioni necessari ad eseguire ulteriori azioni in contemporanea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This allows you to set the usual table properties for Writer (table width, column width, &lt;f0&gt;and so on)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183459Z" creationid="Elisabetta Manuele" creationdate="20180306T183459Z">
+        <seg>Ciò consente di impostare le proprietà delle tabelle già note in Writer (larghezza della tabella, della colonna, &lt;f0&gt;ecc.)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
