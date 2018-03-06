@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert data as Fields&lt;/f0&gt; provides the possibility of using a mini-editor to position the various table fields successively in the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184134Z" creationid="Elisabetta Manuele" creationdate="20180306T184134Z">
+        <seg>La funzione &lt;f0&gt;Inserisci dati come campi&lt;/f0&gt; prevede l'uso di un mini editor per disporre i vari campi della tabella in ordine progressivo nel testo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Instead of listing the media for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 0 separately, all the "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Recalls"."Date" fields have been &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;count&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;ed and the total of 8.00€ entered as the fine due.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T152429Z" creationid="Manuel Frassinetti" creationdate="20171216T164849Z">
@@ -7446,6 +7454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;55&lt;/seq0&gt;: &lt;f1&gt;I&lt;/f1&gt;nsert data as Fields – corresponds also to the &lt;f2&gt;dialog&lt;/f2&gt; for Insert data as Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184353Z" creationid="Elisabetta Manuele" creationdate="20180306T184353Z">
+        <seg>Figura &lt;seq0&gt;55&lt;/seq0&gt;: la finestra &lt;f1&gt;I&lt;/f1&gt;nserisci dati come campi – corrisponde all'equivalente &lt;f2&gt;finestra di dialogo&lt;/f2&gt; Inserisci dati come testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Media addition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153141Z" creationid="Marco Marega" creationdate="20180127T153141Z">
@@ -10706,6 +10722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212933Z" creationid="Marco Marega" creationdate="20171101T212933Z">
         <seg>In questo caso sulla query non vengono effettuati controlli alla ricerca di errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case too, the formatting of dates and numbers can be specified separately, or can be read directly from the table settings in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184222Z" creationid="Elisabetta Manuele" creationdate="20180306T184222Z">
+        <seg>Anche in questo caso il formato delle date e dei numeri può essere indicato singolarmente, o si può ricavare direttamente delle impostazioni della tabella all'interno del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17146,6 +17170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113353Z" creationid="Marina Latini" creationdate="20171213T113353Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text created in this way can also be provided with a paragraph style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184157Z" creationid="Elisabetta Manuele" creationdate="20180306T184157Z">
+        <seg>Potete anche assegnare uno stile di paragrafo al testo ottenuto con questo procedimento.</seg>
       </tuv>
     </tu>
     <tu>
