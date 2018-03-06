@@ -9806,6 +9806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose &lt;f0&gt;Insert data as Text&lt;/f0&gt;, the only difference from using fields is that fields remain linked to the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184456Z" creationid="Elisabetta Manuele" creationdate="20180306T184456Z">
+        <seg>L'unica differenza che distingue l'opzione &lt;f0&gt;Inserisci dati come testo&lt;/f0&gt; da quella relativa all'uso dei campi è che questi restano sempre collegati al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have chosen to use a graphic, its alignment with the label can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205039Z" creationid="Marco Marega" creationdate="20171109T205039Z">
@@ -15670,6 +15678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields inserted into the text in this way can subsequently be deleted singly or used for a mail merge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184412Z" creationid="Elisabetta Manuele" creationdate="20180306T184412Z">
+        <seg>I campi inseriti come testo con questa procedura si possono in seguito cancellare singolarmente o utilizzare per una stampa in serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fields must be selected, dragged onto the form surface, and the appropriate field from the underlying table specified.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205855Z" creationid="Marco Marega" creationdate="20171213T205855Z">
@@ -19754,6 +19770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114100Z" creationid="Marina Latini" creationdate="20171213T114100Z">
         <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert as text, only the content of the specified fields is transferred and not the link to the actual database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184626Z" creationid="Elisabetta Manuele" creationdate="20180306T184626Z">
+        <seg>Durante l'inserimento dei dati come testo vengono trasferiti soltanto i contenuti dei campi specificati, non il collegamento al database effettivo.</seg>
       </tuv>
     </tu>
     <tu>
