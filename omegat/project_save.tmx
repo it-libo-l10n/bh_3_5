@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data source of c&lt;/f0&gt;urrent &lt;f1&gt;d&lt;/f1&gt;ocument</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190502Z" creationid="Elisabetta Manuele" creationdate="20180306T190502Z">
+        <seg>&lt;f0&gt;Sorgente dati del &lt;f1&gt;d&lt;/f1&gt;ocumento a&lt;/f0&gt;ttuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Default values: The term "Default value" in the GUI does not mean what the database user &lt;/f0&gt;&lt;f1&gt;generally understands as a default value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214057Z" creationid="Marco Marega" creationdate="20180204T214057Z">
@@ -4534,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After that the Mail Merge Wizard can be called up by using the corresponding button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190416Z" creationid="Elisabetta Manuele" creationdate="20180306T190416Z">
+        <seg>Dopodiché la procedura guidata della stampa in serie può essere richiamata tramite il pulsante corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After that, both table controls can be edited separately.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210122Z" creationid="Marco Marega" creationdate="20171229T210122Z">
@@ -5050,6 +5066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T211804Z" creationid="MicrosoftSucks" creationdate="20180218T211804Z">
         <seg>Dal momento che i campi della tabella &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Media&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Example&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt; &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;, che deve essere filtrata, sono di tipo &lt;/f27&gt;&lt;f28&gt;VA&lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;RCHAR&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;, i campi &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;Filter_1&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; and &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;Filter_2&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; sono anch'essi di questo tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the form letter in the above example assembles its data from different tables, you need first to launch the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190258Z" creationid="Elisabetta Manuele" creationdate="20180306T190258Z">
+        <seg>Come per la stampa in serie dell'esempio precedente che assembla i dati sulla base di varie tabelle, è necessario in primo luogo aprire il database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the database, you then create a new query to make the required data available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190312Z" creationid="Elisabetta Manuele" creationdate="20180306T190312Z">
+        <seg>Al suo interno potrete quindi creare una nuova query per rendere disponibili i dati richiesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the early stages, it is often necessary to have recourse to these side forms, since not many authors are yet stored in the corresponding table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142549Z" creationid="Marco Marega" creationdate="20171231T142549Z">
@@ -15578,6 +15610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181040Z" creationid="Elisabetta Manuele" creationdate="20180306T181040Z">
         <seg>Potete effettuare una ricerca del database tramite la finestra di esplorazione file e connetterlo a LibreOffice con procedimento analogo a quello seguito per un semplice formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database is launched through a right&lt;f0&gt;-&lt;/f0&gt;click on the database itself or on one of its tables or queries, which immediately refreshes the display in the data source browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190401Z" creationid="Elisabetta Manuele" creationdate="20180306T190401Z">
+        <seg>Potete aprire il database tramite un clic&lt;f0&gt;&lt;/f0&gt; destro su di esso oppure su una sua tabella, o su una query, ciò consentirà di aggiornare immediatamente la schermata della finestra di esplorazione sorgenti dati.</seg>
       </tuv>
     </tu>
     <tu>
