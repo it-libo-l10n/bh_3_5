@@ -6312,8 +6312,8 @@
       <tuv lang="EN">
         <seg>Data source browser</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160118Z" creationid="Marina Latini" creationdate="20171206T160118Z">
-        <seg>Visualizzazione della sorgente dati</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181349Z" creationid="Marina Latini" creationdate="20171206T160118Z">
+        <seg>Finestra di esplorazione sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -14974,6 +14974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The browser can be opened using &lt;f0&gt;View &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Data sources&lt;/f3&gt;, or by pressing the &lt;f4&gt;F4&lt;/f4&gt; key, or by using the corresponding symbol in the standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181547Z" creationid="Elisabetta Manuele" creationdate="20180306T181547Z">
+        <seg>È possibile aprirla tramite menu &lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Sorgenti dati&lt;/f3&gt;, premendo il tasto &lt;f4&gt;F4&lt;/f4&gt; o mediante il simbolo corrispondente nella barre degli strumenti standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The button can simply be labeled &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T180016Z" creationid="Marco Marega" creationdate="20171226T180016Z">
@@ -15226,6 +15234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231523Z" creationid="Marco Marega" creationdate="20171102T231451Z">
         <seg>I campi di dati si conformano alle impostazioni predefinite e a quelle per una casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data source browser allows you access to tables and queries of all registered databases under their registered names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181422Z" creationid="Elisabetta Manuele" creationdate="20180306T181422Z">
+        <seg>La finestra di esplorazione delle sorgenti dati consente l'accesso alle tabelle e alle query di tutti i database registrati con il relativo nome.</seg>
       </tuv>
     </tu>
     <tu>
