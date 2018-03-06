@@ -14478,6 +14478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Th&lt;f0&gt;e &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Mail Merge&lt;/f2&gt;&lt;/f1&gt; button launches the &lt;f3&gt;M&lt;/f3&gt;ail &lt;f4&gt;M&lt;/f4&gt;erge Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190225Z" creationid="Elisabetta Manuele" creationdate="20180306T190225Z">
+        <seg>Il &lt;f0&gt;pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Stampa in serie&lt;/f2&gt;&lt;/f1&gt; avvia la &lt;f3&gt;p&lt;/f3&gt;rocedura guidata della &lt;f4&gt;S&lt;/f4&gt;tampa in serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f0&gt;is grid helps&lt;/f0&gt; you to position the controls accurately, especially in relation to each other.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133347Z" creationid="Marco Marega" creationdate="20171014T133347Z">
@@ -19970,6 +19978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210416Z" creationid="Marco Marega" creationdate="20171229T210416Z">
         <seg>Mentre per la data del prestito (&lt;f0&gt;&lt;f1&gt;Lo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;an date&lt;/f2&gt;) è necessario solamente scegliere &lt;f3&gt;Sola &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;lettura&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;questo non è sufficiente per le caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;d&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ata as Fields&lt;/f3&gt; option leads to the previous values being changed to the values for the new record, in the case of &lt;f4&gt;Insert data as Text&lt;/f4&gt;, the existing text remains unchanged.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190018Z" creationid="Elisabetta Manuele" creationdate="20180306T190018Z">
+        <seg>Mentre l'opzione &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;d&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ati come campi&lt;/f3&gt; comporta la modifica dei valori precedenti per il nuovo record, nel caso dell'opzione &lt;f4&gt;Inserisci dati come testo&lt;/f4&gt;, il testo esistente rimane invariato.</seg>
       </tuv>
     </tu>
     <tu>
