@@ -3942,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A click on th&lt;f0&gt;e &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data Source of Current Document&lt;/f2&gt;&lt;/f1&gt; button opens a direct view on the table which forms the basis for the data inserted into the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190610Z" creationid="Elisabetta Manuele" creationdate="20180306T190610Z">
+        <seg>Un clic su&lt;f0&gt;l pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Sorgente dati del documento attuale&lt;/f2&gt;&lt;/f1&gt; apre una visualizzazione diretta della tabella che costituisce la base dei dati inseriti nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A click on the button on the right (…) allows macros to be linked to the event.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212709Z" creationid="Marco Marega" creationdate="20171014T212709Z">
@@ -10522,6 +10530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T223047Z" creationid="Marco Marega" creationdate="20171102T222853Z">
         <seg>Nella tabella Reader è presente il campo FirstName.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, the &lt;f3&gt;Person&lt;/f3&gt; table from the &lt;f4&gt;Addresses &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;database&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;appears&lt;/f9&gt;&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191037Z" creationid="Elisabetta Manuele" creationdate="20180306T191037Z">
+        <seg>Nell'esempio sopra riportato viene rappresentata la tabella &lt;f3&gt;Persona&lt;/f3&gt; ricavata dal database &lt;f4&gt;Indirizzi&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; </seg>
       </tuv>
     </tu>
     <tu>
