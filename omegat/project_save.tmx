@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ta as Fields&lt;/f2&gt;&lt;f3&gt;, as described i&lt;/f3&gt;n the previous section, is used to create mail merge fields in a &lt;s4/&gt;Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185730Z" creationid="Elisabetta Manuele" creationdate="20180306T185730Z">
+        <seg>L'opzione &lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ti in campi&lt;/f2&gt;&lt;f3&gt;, come specificato n&lt;/f3&gt;ella sezione precedente, serve a generare campi per stampa in serie, in un &lt;s4/&gt;documento Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Defining relationships helps keep the relationships themselves clean, but it does not remove unnecessary records &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; provide their primary key as a foreign key in the relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152742Z" creationid="steevie" creationdate="20180209T152742Z">
@@ -8518,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here another record has been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185845Z" creationid="Elisabetta Manuele" creationdate="20180306T185845Z">
+        <seg>Ed ecco selezionato un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here further tables or queries can subsequently be added and made visible in the graphical user interface.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161520Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
@@ -9458,6 +9474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210558Z" creationid="MicrosoftSucks" creationdate="20180218T210453Z">
         <seg>Se non vengono impostati valori per il filtro la query restituisce tutti i record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If now you select a different record in the data source browser and then choose &lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ata as Fields&lt;/f7&gt;, the previously inserted data are replaced by the new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185827Z" creationid="Elisabetta Manuele" creationdate="20180306T185827Z">
+        <seg>Se ora selezionate un record diverso nella finestra di esplorazione sorgenti dati, quindi scegliete &lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ati in campi&lt;/f7&gt;, i dati precedentemente inseriti vengono sostituiti da quelli nuovi.</seg>
       </tuv>
     </tu>
     <tu>
