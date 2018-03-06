@@ -7462,6 +7462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;56&lt;/seq0&gt;: Comparison of Data as Fields and Data as Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184748Z" creationid="Elisabetta Manuele" creationdate="20180306T184748Z">
+        <seg>Figura &lt;seq0&gt;56&lt;/seq0&gt;: confronto tra Dati inseriti come campi e Dati inseriti come testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Media addition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153141Z" creationid="Marco Marega" creationdate="20180127T153141Z">
@@ -9602,6 +9610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205338Z" creationid="Marco Marega" creationdate="20180202T205201Z">
         <seg>Se il periodo di prestito fosse collegato a qualsiasi altro criterio, ci sarebbero di conseguenza delle modifiche nella vostra metodologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the mouse is hovered over the fields, it shows that the fields are linked to the &lt;f0&gt;&lt;f1&gt;Media&lt;/f1&gt;&lt;/f0&gt; database, to the table &lt;f2&gt;&lt;f3&gt;Reader&lt;/f3&gt;&lt;/f2&gt; and, within this table, to the field &lt;f4&gt;&lt;f5&gt;I&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;D&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184936Z" creationid="Elisabetta Manuele" creationdate="20180306T184936Z">
+        <seg>Il passaggio del mouse sui campi indica che questi sono collegati al database &lt;f0&gt;&lt;f1&gt;Media&lt;/f1&gt;&lt;/f0&gt;, alla tabella &lt;f2&gt;&lt;f3&gt;Reader&lt;/f3&gt;&lt;/f2&gt; e, all'interno di questa, al campo &lt;f4&gt;&lt;f5&gt;I&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;D&lt;/f6&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +14446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That explains why the dialog for this option is the same as for the previous one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184650Z" creationid="Elisabetta Manuele" creationdate="20180306T184650Z">
+        <seg>Ecco perché la finestra di dialogo di questa opzione è identica a quella delle precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That includes the automatically incremented primary key field, where present.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215423Z" creationid="Marco Marega" creationdate="20180303T215423Z">
@@ -15678,6 +15702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields have a gray background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184805Z" creationid="Elisabetta Manuele" creationdate="20180306T184805Z">
+        <seg>I campi presentano uno sfondo grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fields inserted into the text in this way can subsequently be deleted singly or used for a mail merge.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184412Z" creationid="Elisabetta Manuele" creationdate="20180306T184412Z">
@@ -16866,6 +16898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114728Z" creationid="manuel" creationdate="20180302T114728Z">
         <seg>La tabella risultante non è inizialmente modificabile in quanto manca una &lt;/f10&gt;&lt;f11&gt;chiave&lt;/f11&gt;&lt;f12&gt;primaria.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results of the two procedures are compared below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184709Z" creationid="Elisabetta Manuele" creationdate="20180306T184709Z">
+        <seg>I risultati dei due procedimenti vengono confrontati di seguito.</seg>
       </tuv>
     </tu>
     <tu>
