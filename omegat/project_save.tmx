@@ -7414,6 +7414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;53&lt;/seq0&gt;: Data &lt;f1&gt;e&lt;/f1&gt;ntry as &lt;f2&gt;t&lt;/f2&gt;able</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183017Z" creationid="Elisabetta Manuele" creationdate="20180306T183017Z">
+        <seg>Figura &lt;seq0&gt;53&lt;/seq0&gt;: &lt;f1&gt;i&lt;/f1&gt;nserimento dati come &lt;f2&gt;t&lt;/f2&gt;abella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Media addition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153141Z" creationid="Marco Marega" creationdate="20180127T153141Z">
@@ -9754,6 +9762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205039Z" creationid="Marco Marega" creationdate="20171109T205039Z">
         <seg>Se avete scelto di usare un'immagine, qui potete impostare il suo allineamento rispetto all'etichetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you now choose Data to Text, a Wizard appears to carry out the necessary formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182824Z" creationid="Elisabetta Manuele" creationdate="20180306T182824Z">
+        <seg>Scegliendo la funzione Dati in testo comparirà una procedura guidata che agevolerà l'applicazione della necessaria formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15582,6 +15598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The figure above shows the option &lt;f0&gt;Insert Data as Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183115Z" creationid="Elisabetta Manuele" creationdate="20180306T183115Z">
+        <seg>La figura in alto illustra l'opzione &lt;f0&gt;Inserisci dati come tabella&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The figure below shows filtering according to an entry in the &lt;f1&gt;Pub_Year&lt;/f1&gt; column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144232Z" creationid="Marco Marega" creationdate="20180303T144232Z">
@@ -17218,6 +17242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213953Z" creationid="Marco Marega" creationdate="20171213T213953Z">
         <seg>Non sono presenti i pulsanti, i pulsante di scelta e i campi di controllo immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are several possibilities for entering data as text: as a table, as single fields, or as ordinary text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183037Z" creationid="Elisabetta Manuele" creationdate="20180306T183037Z">
+        <seg>Esistono diverse alternative per l'inserimento di dati come testo: in tabelle, in campo dati singolo oppure come testo normale.</seg>
       </tuv>
     </tu>
     <tu>
