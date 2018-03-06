@@ -7014,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External forms can also interact directly with Base, provided that the path to the data sources is supplied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180556Z" creationid="Elisabetta Manuele" creationdate="20180306T180556Z">
+        <seg>L'interazione diretta con Base viene assicurata anche a formulari esterni, a condizione che sia indicato il percorso alle sorgenti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>F11</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113311Z" creationid="Marina Latini" creationdate="20171213T113311Z">
@@ -11554,6 +11562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094950Z" creationid="Marina Latini" creationdate="20171207T094950Z">
         <seg>Effettuare un collegamento a un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many functions, such as printing labels or using data for form letters, require the registration of a database in the configuration of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180633Z" creationid="Elisabetta Manuele" creationdate="20180306T180633Z">
+        <seg>Diverse funzioni, quali la stampa in serie di dati ed etichette, richiedono la registrazione di un database secondo la configurazione di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18098,6 +18114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140129Z" creationid="Marco Marega" creationdate="20180204T220204Z">
         <seg>Questo significa che la tabella &lt;f8&gt;Adress&lt;/f8&gt; ora ha una chiave esterna in aggiunta alla sua chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that the use of Base is not necessarily tied to the registration of databases in the configuration of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180434Z" creationid="Elisabetta Manuele" creationdate="20180306T180434Z">
+        <seg>Ciò significa che l'impiego di Base non è necessariamente connesso alla registrazione dei database secondo la configurazione di LibreOffice. </seg>
       </tuv>
     </tu>
     <tu>
