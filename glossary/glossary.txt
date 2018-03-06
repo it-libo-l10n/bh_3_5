@@ -7,3 +7,4 @@ foreign key	chiave esterna	foreign key
 unsatisfactory	scadente	unsatisfactory
 listbox	lista di scelta	listbox
 listboxes	liste di scelta
+Data to Fields	Dati in campi	Voce UI
