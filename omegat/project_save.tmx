@@ -15238,6 +15238,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database is found using the file browser and connected to LibreOffice in a similar way as for a simple form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181040Z" creationid="Elisabetta Manuele" creationdate="20180306T181040Z">
+        <seg>Potete effettuare una ricerca del database tramite la finestra di esplorazione file e connetterlo a LibreOffice con procedimento analogo a quello seguito per un semplice formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database itself must be given a suitably informative name, for which you can simply use the name of the database file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181104Z" creationid="Elisabetta Manuele" creationdate="20180306T181104Z">
+        <seg>Lo stesso database deve essere dotato di un nome opportunamente esplicativo per cui risulti agevole utilizzare semplicemente quello del file di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The date field is now removed from the table control, so that the latter contains only one search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154611Z" creationid="Marco Marega" creationdate="20171230T154611Z">
@@ -16106,6 +16122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
         <seg>Il nome di un campo di controllo all'interno del formulario deve essere univoco &lt;f0&gt;—&lt;/f0&gt;viene usato per accedervi con le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name serves as an alias, which can also be used in queries to the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181310Z" creationid="Elisabetta Manuele" creationdate="20180306T181310Z">
+        <seg>Il nome funge da alias, utilizzabile anche per le query (ricerche) inviate al database.</seg>
       </tuv>
     </tu>
     <tu>
