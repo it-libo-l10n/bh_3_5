@@ -7062,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explorer &lt;f0&gt;o&lt;/f0&gt;n/off</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191144Z" creationid="Elisabetta Manuele" creationdate="20180306T191144Z">
+        <seg>Explorer &lt;f0&gt;o&lt;/f0&gt;n/off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explorer on/off</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160336Z" creationid="Marina Latini" creationdate="20171206T160336Z">
@@ -19218,6 +19226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154430Z" creationid="Marco Marega" creationdate="20171231T154430Z">
         <seg>Per comprendere i retroscena di ciò, è quindi necessario introdurre le nozioni fondamentali sulle ricerche, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;trattate nel Capitolo 5.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggling th&lt;f0&gt;e &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Explorer On/Off&lt;/f2&gt;&lt;/f1&gt; button shows or hides the directory tree to the left of the table view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191310Z" creationid="Elisabetta Manuele" creationdate="20180306T191310Z">
+        <seg>Attivando o disattivando i&lt;f0&gt;l&lt;/f0&gt; pulsante &lt;f1&gt;&lt;f2&gt;Explorer on/off&lt;/f2&gt;&lt;/f1&gt; viene visualizzata o nascosta la struttura ad albero delle cartelle sulla sinistra della vista Tabella.</seg>
       </tuv>
     </tu>
     <tu>
