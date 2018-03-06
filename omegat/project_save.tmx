@@ -11198,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the same field type that is shown by &lt;f5&gt;Insert &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Fields &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;Other &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;Database&lt;/f14&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185249Z" creationid="Elisabetta Manuele" creationdate="20180306T185249Z">
+        <seg>Si tratta dello stesso tipo di campo visualizzato tramite il menu &lt;f5&gt;Inserisci &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Comando di campo &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;Altro &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;Database&lt;/f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is then unnecessary to use the table name, &lt;f3&gt;if&lt;/f3&gt; the results will only apply to the one table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113112Z" creationid="manuel" creationdate="20180302T113112Z">
@@ -13978,6 +13986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141132Z" creationid="Marco Marega" creationdate="20180218T141132Z">
         <seg>Quindi, ad esempio, Robert Müller e Robert Maier sono possibili, così come Robert Müller e Eva Müller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, for example, a double&lt;f0&gt;-&lt;/f0&gt;click on the field &lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;D&lt;/f3&gt; opens the following overview.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185052Z" creationid="Elisabetta Manuele" creationdate="20180306T185052Z">
+        <seg>Così, per esempio, un doppio&lt;f0&gt;&lt;/f0&gt;clic sul campo &lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;D&lt;/f3&gt; aprirà la panoramica seguente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18490,6 +18506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203707Z" creationid="Marco Marega" creationdate="20171026T203707Z">
         <seg>Questo influenza principalmente i fine riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes it clear which field was created through the &lt;f4&gt;Insert Data as Fields &lt;/f4&gt;procedure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185131Z" creationid="Elisabetta Manuele" creationdate="20180306T185131Z">
+        <seg>Questo chiarisce quale campo è stato creato con il procedimento &lt;f4&gt;Inserisci dati come campi&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
