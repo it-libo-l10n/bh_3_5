@@ -12550,6 +12550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only when you click on the &lt;f0&gt;T&lt;/f0&gt;ables folder is the database actually ac&lt;f1&gt;c&lt;/f1&gt;essed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182157Z" creationid="Elisabetta Manuele" creationdate="20180306T182157Z">
+        <seg>L'ac&lt;f1&gt;c&lt;/f1&gt;esso effettivo al database è consentito solo selezionando la cartella &lt;f0&gt;T&lt;/f0&gt;abelle. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open a context menu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113227Z" creationid="Marina Latini" creationdate="20171213T113227Z">
