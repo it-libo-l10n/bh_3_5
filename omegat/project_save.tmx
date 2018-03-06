@@ -7398,6 +7398,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;51&lt;/seq0&gt;: Data source browser toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182707Z" creationid="Elisabetta Manuele" creationdate="20180306T182707Z">
+        <seg>Figura &lt;seq0&gt;51&lt;/seq0&gt;: finestra di esplorazione sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;52&lt;/seq0&gt;: Selecting a data record</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182808Z" creationid="Elisabetta Manuele" creationdate="20180306T182808Z">
+        <seg>Figura &lt;seq0&gt;52&lt;/seq0&gt;: selezione di un record di dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Media addition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153141Z" creationid="Marco Marega" creationdate="20180127T153141Z">
@@ -12262,6 +12278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of the icons in the toolbar, many will be familiar from data entry into tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182539Z" creationid="Elisabetta Manuele" creationdate="20180306T182539Z">
+        <seg>Molte icone presenti nella barra strumenti risultano già note fin dall'inserimento dei dati nelle tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often a logical error prevents a query from retrieving any data at all.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180742Z" creationid="Manuel Frassinetti" creationdate="20171130T180742Z">
@@ -14454,6 +14478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Data to Text&lt;/f0&gt; function is available as soon as a record is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182737Z" creationid="Elisabetta Manuele" creationdate="20180306T182737Z">
+        <seg>La funzione &lt;f0&gt;Dati in testo&lt;/f0&gt; diventa disponibile al momento della selezione di un record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator shows a correspondingly large list of forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143100Z" creationid="Marco Marega" creationdate="20171231T143100Z">
@@ -16178,6 +16210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210548Z" creationid="Marco Marega" creationdate="20171215T210548Z">
         <seg>Il formulario principale visualizza una tabella con i record in dipendenza dei quali è possibile collegare e visualizzare molti record nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main new ones are those in the last section: &lt;f0&gt;Data to Text, Data to Fields, Mail Merge, Data Source of Current Document, Explorer on/off&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182618Z" creationid="Elisabetta Manuele" creationdate="20180306T182618Z">
+        <seg>Quelle nuove più rilevanti sono contenute nell'ultima sezione: &lt;f0&gt;Dati in testo, Dati in campi, Stampa in serie, Sorgente dati del documento attuale, Explorer on/off&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
