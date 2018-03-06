@@ -4966,6 +4966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as table columns have been selected, the Properties button for the table is activated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183413Z" creationid="Elisabetta Manuele" creationdate="20180306T183413Z">
+        <seg>Non appena selezionate le colonne della tabella, si attiva il pulsante Proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as the properties of a column are called up, you can select another column without shutting the properties dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214530Z" creationid="Marco Marega" creationdate="20171213T214530Z">
@@ -10454,6 +10462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the case of numeric and date fields, the database format can be changed to a chosen format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183137Z" creationid="Elisabetta Manuele" creationdate="20180306T183137Z">
+        <seg>Nel caso di campi relativi a numeri o date, il formato del database si può modificare sostituendolo con uno a scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the conditions only the field &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; is considered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175329Z" creationid="MicrosoftSucks" creationdate="20180301T175329Z">
@@ -12794,6 +12810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150811Z" creationid="Marco Marega" creationdate="20171231T150811Z">
         <seg>Altrimenti, per impostazione predefinita, viene preso il primo formulario presente nel &lt;f2&gt;Navigatore&lt;/f2&gt; &lt;f3&gt;formulario&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, formatting is carried out automatically when the table fields are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183246Z" creationid="Elisabetta Manuele" creationdate="20180306T183246Z">
+        <seg>Altrimenti la formattazione viene applicata automaticamente una volta selezionati i campi della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,6 +16842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143356Z" creationid="Marco Marega" creationdate="20180218T143356Z">
         <seg>La sequenza dei campi in una tabella non può essere modificata dopo che il database è stato salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sequence of fields is adjusted by using the arrow keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183301Z" creationid="Elisabetta Manuele" creationdate="20180306T183301Z">
+        <seg>Potete adattare la sequenza dei campi tramite i tasti freccia.</seg>
       </tuv>
     </tu>
     <tu>
