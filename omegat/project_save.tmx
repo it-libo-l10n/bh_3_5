@@ -3926,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A click on the expansion sign in front of the database name opens the database and shows a sub-folder for queries and another for tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181745Z" creationid="Elisabetta Manuele" creationdate="20180306T181745Z">
+        <seg>Un clic sul segno di espansione accanto al nome del database consentirà di aprirlo e di visualizzare una sottocartella per le query e un'altra per le tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A database for a library might contain a table for authors’ names and a table for the media.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215408Z" creationid="Marco Marega" creationdate="20180126T215408Z">
@@ -10822,6 +10830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internal forms and reports can only be accessed by opening the database itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181940Z" creationid="Elisabetta Manuele" creationdate="20180306T181940Z">
+        <seg>L'accesso ai formulari e ai rapporti (report) interni è possibile solo aprendo il database stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internally Windows lines end with two control characters (CR and LF).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203749Z" creationid="Marco Marega" creationdate="20171026T203749Z">
@@ -12638,6 +12654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other sub-folders of the database are not made available here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181801Z" creationid="Elisabetta Manuele" creationdate="20180306T181801Z">
+        <seg>Altre sottocartelle del database non vengono rese disponibili, al momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other websites run by users also offer free tips and tutorials.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T162724Z" creationid="Marina Latini" creationdate="20171207T162724Z">
@@ -13074,6 +13098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223106Z" creationid="Marco Marega" creationdate="20180112T223106Z">
         <seg>Ridurre l'inserimento ripetuto dello stesso contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Registered data sources are shown on the left side of the data source browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181612Z" creationid="Elisabetta Manuele" creationdate="20180306T181612Z">
+        <seg>Le sorgenti dati registrate vengono visualizzate sul lato sinistro della finestra di esplorazione (browser).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14586,6 +14618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135344Z" creationid="Marco Marega" creationdate="20180203T135344Z">
         <seg>Il concatenamento con gli indirizzi (Address) è necessario nel caso di una biblioteca pubblica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Bibliography data source is included in LibreOffice by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181637Z" creationid="Elisabetta Manuele" creationdate="20180306T181637Z">
+        <seg>La sorgente dati Bibliografia è inclusa in LibreOffice per impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16258,6 +16298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223908Z" creationid="Marco Marega" creationdate="20171214T223908Z">
         <seg>L'ordine delle colonne può essere modificato trascinando l'intestazione di una colonna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The other data sources are listed by their registered names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181653Z" creationid="Elisabetta Manuele" creationdate="20180306T181653Z">
+        <seg>Le altre sono elencate secondo i propri nomi registrati.</seg>
       </tuv>
     </tu>
     <tu>
