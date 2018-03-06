@@ -5182,6 +5182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base allows you to use documents in LibreOffice Writer and Calc in various ways as data sources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180343Z" creationid="Elisabetta Manuele" creationdate="20180306T180343Z">
+        <seg>Il programma consente un ventaglio di possibili usi dei documenti generati da LibreOffice Writer e Calc come sorgenti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base does not evaluate the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212710Z" creationid="Marco Marega" creationdate="20171101T212710Z">
