@@ -7606,6 +7606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a proper view of the data (but without the ability to edit), queries or views are more suitable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182511Z" creationid="Elisabetta Manuele" creationdate="20180306T182511Z">
+        <seg>Le query o le viste sono più adatte a una corretta visualizzazione dei dati, pur in assenza della possibilità di modificarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a simple form, it is not necessary to do things in this order, but where there are many parallel forms, the function needs to know which &lt;t1/&gt;form is intended.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T150723Z" creationid="Marco Marega" creationdate="20171231T150723Z">
@@ -7650,6 +7658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184925Z" creationid="Marco Marega" creationdate="20171014T184925Z">
         <seg>Questa è la scheda più importante per la creazione di formulari interni a Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For databases protected by a password, the password must be entered at this point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182226Z" creationid="Elisabetta Manuele" creationdate="20180306T182226Z">
+        <seg>Se i database sono protetti da password essa va inserita a questo punto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,6 +7746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182120Z" creationid="Marco Marega" creationdate="20171014T182120Z">
         <seg>Per esempio, supponete di scegliere un campo di testo: il cursore cambia forma e diventa possibile disegnare una sagoma rettangolare sulla superficie bianca del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the database shown below has separate tables for street names, postcodes and towns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182423Z" creationid="Elisabetta Manuele" creationdate="20180306T182423Z">
+        <seg>Per esempio, il database illustrato di seguito contiene tabelle separate per i nomi delle vie, per i codici postali e per le città.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8754,6 +8778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T224231Z" creationid="Marco Marega" creationdate="20180228T224231Z">
         <seg>In ogni caso, non appena una tabella contiene delle chiavi esterne da altre tabelle, gli utenti dovranno ricordarsi i numeri da inserire, oppure devono avere la possibilità di visualizzare simultaneamente le altre tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However direct entry into tables should be carried out with caution in very complex relational databases, as the tables are linked together with foreign keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182400Z" creationid="Elisabetta Manuele" creationdate="20180306T182400Z">
+        <seg>Tuttavia l'inserimento diretto nelle tabelle dovrebbe essere effettuato con cautela nei database relazionali molto complessi, in quanto le tabelle sono collegate tra loro mediante chiavi esterne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,6 +10938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105120Z" creationid="Marina Latini" creationdate="20171207T105120Z">
         <seg>Può accedere a database creati da numerosi programmi di database, inclusi Microsoft Access, MySQL, Oracle e PostgreSQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be edited just as in Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182328Z" creationid="Elisabetta Manuele" creationdate="20180306T182328Z">
+        <seg>modificabile esattamente come in Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18762,6 +18802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145410Z" creationid="Marina Latini" creationdate="20171213T145410Z">
         <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the right of the name tree, you can see the table you have selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182308Z" creationid="Elisabetta Manuele" creationdate="20180306T182308Z">
+        <seg>Sulla destra della struttura ad albero dei nomi è visibile la tabella selezionata e </seg>
       </tuv>
     </tu>
     <tu>
