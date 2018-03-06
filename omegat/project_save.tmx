@@ -6360,8 +6360,8 @@
       <tuv lang="EN">
         <seg>Data to Fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160219Z" creationid="Marina Latini" creationdate="20171206T160219Z">
-        <seg>Dati in comandi di campo</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185606Z" creationid="Marina Latini" creationdate="20171206T160219Z">
+        <seg>Dati in campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7466,6 +7466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184748Z" creationid="Elisabetta Manuele" creationdate="20180306T184748Z">
         <seg>Figura &lt;seq0&gt;56&lt;/seq0&gt;: confronto tra Dati inseriti come campi e Dati inseriti come testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;57&lt;/seq0&gt;: Double&lt;f1&gt;-&lt;/f1&gt;click on an inserted field &lt;f2&gt;to &lt;/f2&gt;show the properties of the Mail Merge fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185410Z" creationid="Elisabetta Manuele" creationdate="20180306T185410Z">
+        <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: doppio&lt;f1&gt;&lt;/f1&gt;clic sul comando di campo inserito &lt;f2&gt;per &lt;/f2&gt;visualizzare le proprietà dei Campi per stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -11186,6 +11194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214752Z" creationid="Marco Marega" creationdate="20171217T214752Z">
         <seg>È abbastanza facile che il record attivo venga fatto scorrere al di fuori della finestra del campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is simpler to create such a field by selecting the column header of the table in the data source browser and dragging it into the document with the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185459Z" creationid="Elisabetta Manuele" creationdate="20180306T185459Z">
+        <seg>È più agevole creare tale comando di campo selezionando l'intestazione di colonna della tabella all'interno della finestra di esplorazione sorgenti dati e trascinandola nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20154,6 +20170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194644Z" creationid="Marco Marega" creationdate="20171210T194644Z">
         <seg>Qui potete modificare qualsiasi cosa disponibile per un campo etichetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a form letter directly in this way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185521Z" creationid="Elisabetta Manuele" creationdate="20180306T185521Z">
+        <seg>Con lo stesso sistema potete generare direttamente una stampa in serie.</seg>
       </tuv>
     </tu>
     <tu>
