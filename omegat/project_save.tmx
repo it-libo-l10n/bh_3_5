@@ -15558,6 +15558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The arrow buttons are used to insert individual database fields into the editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184150Z" creationid="Elisabetta Manuele" creationdate="20180307T184150Z">
+        <seg>I pulsanti freccia consentono di inserire singoli campi del database nell'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The ascending sort shows the medium on loan for the longest period at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211504Z" creationid="Marco Marega" creationdate="20171216T211504Z">
@@ -16838,6 +16846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The name for the database field &lt;f0&gt;Surname&lt;/f0&gt; is set here to &lt;f1&gt;&lt;Addresses.MailMergeQuery.1.Surname&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184238Z" creationid="Elisabetta Manuele" creationdate="20180307T184238Z">
+        <seg>Il nominativo assegnato al campo database &lt;f0&gt;Cognome&lt;/f0&gt; è qui indicato come &lt;f1&gt;&lt;Addresses.MailMergeQuery.1.Surname&gt;&lt;/f1&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name of a control must be unique within the form&lt;f0&gt;—&lt;/f0&gt;used for access using macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
@@ -17378,6 +17394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
         <seg>Il secondo formulario secondario richiede più impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sequence is thus &lt;f2&gt;&lt;database.Table.1.database field&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184303Z" creationid="Elisabetta Manuele" creationdate="20180307T184303Z">
+        <seg>La sequenza risulta quindi &lt;f2&gt;&lt;database.Tabella.1.campo database&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
