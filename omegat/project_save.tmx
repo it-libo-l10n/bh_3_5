@@ -17886,6 +17886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This allows more space, if necessary, for a display of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T173824Z" creationid="Elisabetta Manuele" creationdate="20180307T173824Z">
+        <seg>Ciò consente, se necessario, di avere a disposizione più spazio per la visualizzazione dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This allows you to create temporary records, which contain information for other actions to be carried out at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222456Z" creationid="Marco Marega" creationdate="20180222T222456Z">
