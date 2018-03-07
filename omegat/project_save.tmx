@@ -5014,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As an example we will again use the &lt;f0&gt;Addresses &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;database&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; Although the next selection field is headed &lt;f4&gt;Tables&lt;/f4&gt;, &lt;f5&gt;Tables and Queries&lt;/f5&gt; are both listed here, just as in the data source browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184133Z" creationid="Elisabetta Manuele" creationdate="20180307T184133Z">
+        <seg>A titolo di esempio faremo riferimento nuovamente al database &lt;f0&gt;Indirizzi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; Anche se il campo di selezione successivo visualizza l'intestazione &lt;f4&gt;Tabella&lt;/f4&gt;, le &lt;f5&gt;tabelle e le query&lt;/f5&gt; vengono entrambe elencate qui, esattamente come nella finestra di esplorazione sorgenti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As binary fields in practice need only be entered for images, you need to know the binary code of the image that is to serve as a default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213020Z" creationid="Marco Marega" creationdate="20180219T213020Z">
@@ -9482,6 +9490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215800Z" creationid="Marco Marega" creationdate="20171229T215529Z">
         <seg>Infine, se viene selezionata la stessa ricerca della casella di riepilogo del campo di controllo tabella superiore, verranno visualizzati solo quei supporti che possono effettivamente essere concessi in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for Label text you check the Address box, all the labels will have the same content, taken from the LibreOffice settings for the user of the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181933Z" creationid="Elisabetta Manuele" creationdate="20180307T181933Z">
+        <seg>Se per il testo dell'etichetta viene selezionata la casella Indirizzo, tutte le etichette avranno lo stesso contenuto, ricavato dalle impostazioni di LibreOffice per l'utente del programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15570,6 +15586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215739Z" creationid="Marco Marega" creationdate="20180303T215739Z">
         <seg>Il campo a incremento automatico della chiave primaria "ID" non viene toccato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic settings for the content are in the &lt;f0&gt;Labels&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181855Z" creationid="Elisabetta Manuele" creationdate="20180307T181855Z">
+        <seg>Le impostazioni di base del contenuto sono visibili nella scheda &lt;f0&gt;Etichette&lt;/f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
