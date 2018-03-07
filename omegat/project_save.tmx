@@ -4702,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All records with a 'w' start with &lt;f0&gt;Dear Ms…&lt;/f0&gt;, all those with 'm' with &lt;f1&gt;Dear Mr…&lt;/f1&gt; If there is no gender given, &lt;f2&gt;Dear Sir/Madam&lt;/f2&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180809Z" creationid="Elisabetta Manuele" creationdate="20180307T180809Z">
+        <seg>Tutti i record contenenti una 'f' iniziano con la formula &lt;f0&gt;Gentile signora...&lt;/f0&gt;, quelli che contengono una 'm', iniziano con &lt;f1&gt;Egregio signor...&lt;/f1&gt;, se non viene identificato il genere verrà selezionata la formula &lt;f2&gt;Gentile signor/a&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All special tables in HSQLDB are described in the appendix to this handbook.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161050Z" creationid="steevie" creationdate="20180205T161050Z">
@@ -12390,6 +12398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normally the document is initially a rough sketch which can be further edited in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180945Z" creationid="Elisabetta Manuele" creationdate="20180307T180945Z">
+        <seg>Normalmente il documento è inizialmente un abbozzo approssimativo, modificabile ulteriormente in un secondo tempo all'interno di Writer. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not empty</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150422Z" creationid="Marco Marega" creationdate="20180303T150422Z">
@@ -19210,6 +19226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154721Z" creationid="Marco Marega" creationdate="20171230T154721Z">
         <seg>Questo sarebbe un requisito ideale per accelerare ancor di più il lavoro della libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Three different salutations are to be produced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180629Z" creationid="Elisabetta Manuele" creationdate="20180307T180629Z">
+        <seg>Si prevedono tre diverse formule introduttive.</seg>
       </tuv>
     </tu>
     <tu>
