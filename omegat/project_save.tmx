@@ -4582,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again the first record in the query is used for the preview.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180435Z" creationid="Elisabetta Manuele" creationdate="20180307T180435Z">
+        <seg>Anche in questo caso viene riportato come anteprima il primo record della query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the form is predefined, this time with the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T222047Z" creationid="Marco Marega" creationdate="20171102T222047Z">
@@ -4698,6 +4706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161050Z" creationid="steevie" creationdate="20180205T161050Z">
         <seg>Tutte le tabelle speciali in HSQLDB sono descritti nell'Appendice di questo manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the other fields except FirstName must now be entered appropriately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180339Z" creationid="Elisabetta Manuele" creationdate="20180307T180339Z">
+        <seg>A questo punto devono essere opportunamente inseriti tutti gli altri campi, eccetto FirstName.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the address elements are associated with the corresponding elements from the query of the database successfully transferred by the Mail Merge Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180420Z" creationid="Elisabetta Manuele" creationdate="20180307T180420Z">
+        <seg>Nell'esempio illustrato sopra gli elementi dell’indirizzo sono associati ai corrispondenti elementi generati dalla query del database e correttamente trasferiti dalla Stampa guidata in serie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the default option is "female".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210722Z" creationid="Marco Marega" creationdate="20171126T210722Z">
@@ -8874,6 +8898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T211114Z" creationid="Marco Marega" creationdate="20171109T211114Z">
         <seg>In ogni caso, i valori che qui inseriti vengono effettivamente trasferiti al campo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here, it is just a matter of choosing which field the gender of the recipient should be taken from.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180525Z" creationid="Elisabetta Manuele" creationdate="20180307T180525Z">
+        <seg>A questo punto è solo questione di scegliere il campo da cui estrarre il genere del destinatario </seg>
       </tuv>
     </tu>
     <tu>
@@ -15814,6 +15846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database settings are essentially ended with Step 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180453Z" creationid="Elisabetta Manuele" creationdate="20180307T180453Z">
+        <seg>Il processo di impostazione del database sostanzialmente si conclude con il quarto passaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The date field is now removed from the table control, so that the latter contains only one search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154611Z" creationid="Marco Marega" creationdate="20171230T154611Z">
@@ -18402,6 +18442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135330Z" creationid="Marco Marega" creationdate="20180228T135330Z">
         <seg>Questo errore è molto comune, quando due tabelle devono essere collegate e alcuni campi nella tabella con la chiave esterna di riferimento contengono già dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This field has already been named, so that only the field content for a female recipient still needs to be specified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180615Z" creationid="Elisabetta Manuele" creationdate="20180307T180615Z">
+        <seg>il quale è già stato specificato, in tal modo resta da determinare solo il contenuto del campo per un destinatario di genere femminile.</seg>
       </tuv>
     </tu>
     <tu>
