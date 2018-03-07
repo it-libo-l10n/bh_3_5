@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Files &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;New &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Labels&lt;/f6&gt; launches the Label Printing Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181733Z" creationid="Elisabetta Manuele" creationdate="20180307T181733Z">
+        <seg>Il menu &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Nuovo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Etichette&lt;/f6&gt; avvia la procedura guidata della Stampa etichette. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fill parameters: &lt;/f0&gt;This macro will be run if a parameter query is to be invoked in a subform, but for some reason the parameter is not correctly transmitted from the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202459Z" creationid="Marco Marega" creationdate="20171015T202459Z">
@@ -11494,6 +11502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It opens a dialog, which includes all questions of formating and content for labels, before the labels themselves are produced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181814Z" creationid="Elisabetta Manuele" creationdate="20180307T181814Z">
+        <seg>Si apre una finestra di dialogo contenente le domande relative al formato e al contenuto delle etichette, prima della fase di realizzazione. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides a table, which can then be provided with controls for individual columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200054Z" creationid="Marco Marega" creationdate="20171125T200008Z">
@@ -11712,8 +11728,8 @@
       <tuv lang="EN">
         <seg>Label printing</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161741Z" creationid="Marina Latini" creationdate="20171206T161741Z">
-        <seg>stampa di etichette</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181624Z" creationid="Marina Latini" creationdate="20171206T161741Z">
+        <seg>Stampa di etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -17370,6 +17386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172809Z" creationid="steevie" creationdate="20180226T172809Z">
         <seg>Il server &lt;s1/&gt;considera le viste come interrogazioni locali complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The settings in this dialog are saved in the personal settings for the user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181826Z" creationid="Elisabetta Manuele" creationdate="20180307T181826Z">
+        <seg>Le impostazioni della finestra di dialogo verranno salvate nelle impostazioni personali dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
