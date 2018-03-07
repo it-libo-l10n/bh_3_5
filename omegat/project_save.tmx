@@ -6118,6 +6118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating &lt;f0&gt;m&lt;/f0&gt;ail &lt;f1&gt;m&lt;/f1&gt;erge documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T173930Z" creationid="Elisabetta Manuele" creationdate="20180307T173930Z">
+        <seg>Creazione di documenti per la &lt;f0&gt;s&lt;/f0&gt;tampa in &lt;f1&gt;s&lt;/f1&gt;erie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a &lt;f0&gt;f&lt;/f0&gt;orm using a &lt;f1&gt;f&lt;/f1&gt;orm &lt;f2&gt;f&lt;/f2&gt;ield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140151Z" creationid="Marco Marega" creationdate="20171014T140151Z">
@@ -8766,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here we will work through the steps of the Wizard as an example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174150Z" creationid="Elisabetta Manuele" creationdate="20180307T174110Z">
+        <seg>Qui di seguito passeremo in rassegna i passaggi della procedura come esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can also enter new readers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155941Z" creationid="Marco Marega" creationdate="20171230T155941Z">
@@ -10426,6 +10442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080226Z" creationid="steevie" creationdate="20180206T080226Z">
         <seg>Quindi in pratica il postcode stesso potrebbe essere cancellato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In principle you can create these fields without using the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174057Z" creationid="Elisabetta Manuele" creationdate="20180307T174057Z">
+        <seg>In linea di principio potete creare questi campi senza ricorrere alla procedura guidata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15110,6 +15134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Mail Merge Wizard is also accessible from the database browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T173949Z" creationid="Elisabetta Manuele" creationdate="20180307T173949Z">
+        <seg>La finestra Stampa guidata in serie è accessibile anche da quella di esplorazione database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Reader table i&lt;f5&gt;s desc&lt;/f5&gt;ribed here as the &lt;f6&gt;List table&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214203Z" creationid="Marco Marega" creationdate="20171029T213659Z">
@@ -17858,6 +17890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205011Z" creationid="MicrosoftSucks" creationdate="20180218T205011Z">
         <seg>Questo &lt;f0&gt;capitolo&lt;/f0&gt; descrive alcune soluzioni a problemi che si manifestano per molti utenti di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This Wizard allows the address field and the salutation to be constructed from a data source in small steps.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174034Z" creationid="Elisabetta Manuele" creationdate="20180307T174034Z">
+        <seg>Questa procedura guidata consente di generare il campo indirizzo e la formula introduttiva in brevi passaggi a partire da una sorgente dati.</seg>
       </tuv>
     </tu>
     <tu>
