@@ -14998,6 +14998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Starting document&lt;/f0&gt; is the document in which the &lt;f1&gt;field properties&lt;/f1&gt; and the &lt;f2&gt;linkage to the database&lt;/f2&gt; are stored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181305Z" creationid="Elisabetta Manuele" creationdate="20180307T181305Z">
+        <seg>Il &lt;f0&gt;documento iniziale&lt;/f0&gt; è quello in cui sono memorizzate le &lt;f1&gt;proprietà dei campi&lt;/f1&gt; e il &lt;f2&gt;collegamento al database&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Subtitle&lt;/f0&gt; table contains the detailed content of CDs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153733Z" creationid="Marco Marega" creationdate="20180127T153733Z">
@@ -18246,6 +18254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be changed in Step 7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181153Z" creationid="Elisabetta Manuele" creationdate="20180307T181153Z">
+        <seg>Le modifiche si possono apportare al passaggio 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be distracting in cases where the navigation bar is switched off again for some parts of the visible form, &lt;f2&gt;for example&lt;/f2&gt; when there are subforms or more than one form in the &lt;f3&gt;visible&lt;/f3&gt; form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T212147Z" creationid="Marco Marega" creationdate="20171205T212147Z">
@@ -18258,6 +18274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133743Z" creationid="Marco Marega" creationdate="20171014T133743Z">
         <seg>Ciò può essere fatto in &lt;f0&gt;due&lt;/f0&gt; modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done in Step 6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180959Z" creationid="Elisabetta Manuele" creationdate="20180307T180959Z">
+        <seg>Le modifiche si possono apportare nel passaggio 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19698,6 +19722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211149Z" creationid="Marco Marega" creationdate="20171026T211717Z">
         <seg>A differenza di un semplice campo valuta, un campo formattato può visualizzare in rosso gli importi negativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up to now all the documents have been identical except for the different content of the fields read from the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181022Z" creationid="Elisabetta Manuele" creationdate="20180307T181022Z">
+        <seg>Fino a questo punto tutti i documenti risultano identici, eccetto che per i diversi contenuti dei campi rilevati dal database.</seg>
       </tuv>
     </tu>
     <tu>
