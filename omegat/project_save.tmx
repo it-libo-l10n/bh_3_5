@@ -10678,6 +10678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the background meanwhile, you can see the original document with the contents of the first record that is to be converted into the form letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181339Z" creationid="Elisabetta Manuele" creationdate="20180307T181339Z">
+        <seg>Intanto sullo sfondo è visibile il documento originale con i contenuti del primo record da convertire in stampa in serie, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the case just described, almost all the example authors are in use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160902Z" creationid="steevie" creationdate="20180216T160902Z">
@@ -12954,6 +12962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T210620Z" creationid="Marco Marega" creationdate="20171213T210552Z">
         <seg>La procedura guidata viene in aiuto solamente quando si creano caselle di riepilogo, rendendo più semplice ai principianti l'esecuzione dei passi necessari per la corretta creazione di un campo —&lt;f0&gt;fino&lt;/f0&gt; a un certo punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only when one of the options is actually carried out (in the above example to save the starting document) does the Mail Merge Wizard terminate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181615Z" creationid="Elisabetta Manuele" creationdate="20180307T181615Z">
+        <seg>La procedura guidata di Stampa in serie può dirsi conclusa solo quando una delle opzioni viene effettivamente eseguita (nell'esempio precedente per salvare il documento iniziale).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18650,6 +18666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212035Z" creationid="Marco Marega" creationdate="20171126T212035Z">
         <seg>Questa è una caratteristica dei pulsanti di scelta che sono collegati allo stesso campo della tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is called the Mail Merge document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181401Z" creationid="Elisabetta Manuele" creationdate="20180307T181401Z">
+        <seg>denominato documento per la stampa in serie.</seg>
       </tuv>
     </tu>
     <tu>
