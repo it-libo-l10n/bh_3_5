@@ -10758,6 +10758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the merged document there is &lt;f1&gt;no linkage&lt;/f1&gt; to the data source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174706Z" creationid="Elisabetta Manuele" creationdate="20180307T174706Z">
+        <seg>ma che &lt;f1&gt;non include collegamenti&lt;/f1&gt; alla sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the previous form, most of the fields were actually columns within the table controls and were thus invisible to the &lt;f2&gt;F&lt;/f2&gt;orm &lt;f3&gt;N&lt;/f3&gt;avigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145023Z" creationid="Marco Marega" creationdate="20171231T145023Z">
@@ -11298,6 +11306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214752Z" creationid="Marco Marega" creationdate="20171217T214752Z">
         <seg>È abbastanza facile che il record attivo venga fatto scorrere al di fuori della finestra del campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is similar to the output of &lt;f2&gt;Insert Data as Text&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174728Z" creationid="Elisabetta Manuele" creationdate="20180307T174728Z">
+        <seg>È analogo all'effetto dell'opzione &lt;f2&gt;Inserisci dati come testo&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14798,6 +14814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;M&lt;/f0&gt;ail &lt;f1&gt;M&lt;/f1&gt;erge Wizard can produce either letters or emails using records from the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174816Z" creationid="Elisabetta Manuele" creationdate="20180307T174816Z">
+        <seg>La finestra &lt;f0&gt;S&lt;/f0&gt;tampa guidata in &lt;f1&gt;s&lt;/f1&gt;erie consente di generare lettere o messaggi di posta elettronica con i record ricavati dal database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Media&lt;/f0&gt; table has in total four foreign keys and one primary key, which is used as a foreign key in two tables, as shown in Figure &lt;t1&gt;5&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210019Z" creationid="Marco Marega" creationdate="20180202T210019Z">
@@ -14822,6 +14846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Merged document&lt;/f0&gt; is the one containing the data for the various people who are to receive the form letters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174628Z" creationid="Elisabetta Manuele" creationdate="20180307T174628Z">
+        <seg>Il &lt;f0&gt;documento composto&lt;/f0&gt; è quello contenente i dati indirizzati ai destinatari delle lettere per la stampa in serie, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reader_ID&lt;/f0&gt; field o&lt;f1&gt;ccurs in &lt;/f1&gt;the Loan table which underlies the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213442Z" creationid="Marco Marega" creationdate="20171029T213442Z">
@@ -14840,8 +14872,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Starting document&lt;/f0&gt; for the form letter is the document to which the &lt;f1&gt;database &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;fields &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;re &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;linked&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174441Z" creationid="Elisabetta Manuele" creationdate="20180307T174419Z">
-        <seg>Il &lt;f0&gt;documento iniziale&lt;/f0&gt; per la stampa in serie è quello a cui sono collegati i &lt;f1&gt;campi &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;database&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; .</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174512Z" creationid="Elisabetta Manuele" creationdate="20180307T174419Z">
+        <seg>Il &lt;f0&gt;documento iniziale&lt;/f0&gt; per la stampa in serie è quello a cui sono collegati i &lt;f1&gt;campi &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;database&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
