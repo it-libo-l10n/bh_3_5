@@ -4926,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apart from the first name, all the other fields are &lt;f0&gt;&lt; not yet allocated &gt;&lt;/f0&gt; , because the field names in the database are different from the names that the Wizard initially uses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175911Z" creationid="Elisabetta Manuele" creationdate="20180307T175911Z">
+        <seg>A eccezione del nome, tutti gli altri campi compaiono con la dicitura &lt;f0&gt;&lt; non ancora assegnato&gt;&lt;/f0&gt;, poiché i nomi dei campi del database sono diversi da quelli utilizzati inizialmente nella finestra della procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apart from the suggested &lt;f2&gt;Default&lt;/f2&gt; format, all the formats can be renamed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183732Z" creationid="Elisabetta Manuele" creationdate="20180306T183732Z">
@@ -10094,6 +10102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Step 4, the addresses are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175736Z" creationid="Elisabetta Manuele" creationdate="20180307T175736Z">
+        <seg>Nel quarto passaggio vengono visualizzati gli indirizzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a 4-stream school, this suffix might run from &lt;f1&gt;a&lt;/f1&gt; to &lt;f2&gt;d&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145855Z" creationid="Marco Marega" creationdate="20180203T145731Z">
@@ -10658,6 +10674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190312Z" creationid="Elisabetta Manuele" creationdate="20180306T190312Z">
         <seg>Al suo interno potrete quindi creare una nuova query per rendere disponibili i dati richiesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the displayed addresses two elements require further editing:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175821Z" creationid="Elisabetta Manuele" creationdate="20180307T175821Z">
+        <seg>Negli indirizzi indicati due elementi richiedono ulteriori modifiche:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17702,6 +17726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no salutation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175835Z" creationid="Elisabetta Manuele" creationdate="20180307T175835Z">
+        <seg>Manca la formula introduttiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be any number of streets without corresponding addresses.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152931Z" creationid="steevie" creationdate="20180209T152931Z">
@@ -19206,6 +19238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To correct these errors, the address block from Step 2 must be made editable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175926Z" creationid="Elisabetta Manuele" creationdate="20180307T175926Z">
+        <seg>Per correggere tali errori il blocco indirizzi creato nel secondo passaggio deve essere reso modificabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a table control for the main form, we must now select the main form in the &lt;f0&gt;F&lt;/f0&gt;orm &lt;f1&gt;N&lt;/f1&gt;avigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213712Z" creationid="Marco Marega" creationdate="20171216T213712Z">
@@ -20438,6 +20478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can choose which addresses to take from the database by using the arrow keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175804Z" creationid="Elisabetta Manuele" creationdate="20180307T175804Z">
+        <seg>Quelli da estrarre dal database sono selezionabili tramite i tasti freccia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a form letter directly in this way.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185521Z" creationid="Elisabetta Manuele" creationdate="20180306T185521Z">
@@ -20482,6 +20530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215512Z" creationid="Marco Marega" creationdate="20180204T215512Z">
         <seg>Potete farlo diventare la chiave primaria con il clic con il pulsante destro del mouse sul campo corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can see in the background that, when you choose to edit, you are first presented with an enlarged list of address blocks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180008Z" creationid="Elisabetta Manuele" creationdate="20180307T180008Z">
+        <seg>Potete notare sullo sfondo che, se scegliete di modificare il blocco, verrà dapprima proposto un elenco di blocchi indirizzi ampliato </seg>
       </tuv>
     </tu>
     <tu>
