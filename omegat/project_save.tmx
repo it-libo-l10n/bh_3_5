@@ -8078,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the salutation the &lt;f0&gt;Salutation&lt;/f0&gt; field is ins&lt;f1&gt;&lt;f2&gt;erted&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180308Z" creationid="Elisabetta Manuele" creationdate="20180307T180308Z">
+        <seg>Viene inserito il campo &lt;f0&gt;Salutation&lt;/f0&gt; per la formula int&lt;f1&gt;&lt;f2&gt;roduttiva&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For these field type descriptions, see the Appendix to this handbook.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224123Z" creationid="Marco Marega" creationdate="20180224T224123Z">
@@ -8802,6 +8810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210552Z" creationid="Marco Marega" creationdate="20171026T205928Z">
         <seg>Qui potete inserire una data specifica, ma sfortunatamente non (ancora) la data corrente (oggi) del momento in cui viene aperto il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can select the most suitable address block to start with, and then edit it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180048Z" creationid="Elisabetta Manuele" creationdate="20180307T180048Z">
+        <seg>dal quale selezionare il blocco più adatto per iniziare, e poi procedere a modificarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11082,6 +11098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114324Z" creationid="manuel" creationdate="20180302T114324Z">
         <seg>Invece dovreste usare &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Strumenti &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;SQL&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, the arrangement of the fields is carried out by using the arrow buttons visible to the right to move fields into or out of the address block</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180202Z" creationid="Elisabetta Manuele" creationdate="20180307T180202Z">
+        <seg>viene eseguita tramite i pulsanti freccia visibili sulla destra, che consentono di spostare i campi all'interno o all'esterno del blocco indirizzi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15418,6 +15442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222932Z" creationid="Marco Marega" creationdate="20180224T222932Z">
         <seg>Il titolo aggiuntivo &lt;f0&gt;COLUMN&lt;/f0&gt; non è necessario nei casi in cui non sono disponibili scelte alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The address block cannot be edited directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180124Z" creationid="Elisabetta Manuele" creationdate="20180307T180124Z">
+        <seg>La modifica della disposizione dei campi, impossibile da effettuare direttamente, </seg>
       </tuv>
     </tu>
     <tu>
