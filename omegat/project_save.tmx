@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The format can be selected in the tab &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Labels&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184459Z" creationid="Elisabetta Manuele" creationdate="20180307T184459Z">
+        <seg>&lt;f0&gt;Il formato si può selezionare dalla scheda &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Etichette&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
@@ -8666,6 +8674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T161140Z" creationid="Marco Marega" creationdate="20171230T161140Z">
         <seg>Qui, cancellando la riga, è anche possibile correggere un errore pregresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here many label brands are incorporated so that most other settings in the tab &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Format&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; are not necessary.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184559Z" creationid="Elisabetta Manuele" creationdate="20180307T184559Z">
+        <seg>Qui sono state integrate molte marche di etichette che rendono superflua la maggior parte delle impostazioni presenti nella scheda &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Formato&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14210,6 +14226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145054Z" creationid="Manuel Frassinetti" creationdate="20171202T145054Z">
         <seg>Finora i campi Supporto_ID e Lettore_ID sono visibili solo come campi numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So for example, &lt;f0&gt;it is&lt;/f0&gt; &lt;f1&gt;possible to insert a line break at the beginning, so that the labels will not be printed directly on the top edge but the content can be printed as completely and clearly visible.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184409Z" creationid="Elisabetta Manuele" creationdate="20180307T184409Z">
+        <seg>così, per esempio, &lt;f0&gt;è&lt;/f0&gt; &lt;f1&gt;possibile inserire un'interruzione di riga all'inizio per evitare che le etichette siano stampate direttamente sul margine superiore e assicurare comunque una totale accessibilità al loro contenuto.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20802,6 +20826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204844Z" creationid="Marco Marega" creationdate="20171125T204844Z">
         <seg>Potete usare il selettore dei record per accedere alla funzione di eliminazione dell'intero record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can work with the keyboard in the editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184322Z" creationid="Elisabetta Manuele" creationdate="20180307T184322Z">
+        <seg>Nell'editor è utilizzabile la tastiera, </seg>
       </tuv>
     </tu>
     <tu>
