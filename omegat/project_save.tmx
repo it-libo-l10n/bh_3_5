@@ -17886,6 +17886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The&lt;f0&gt; Synchroni&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;z&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;e contents&lt;/f3&gt; checkbox links all the labels together so that subsequent changes in layout of any label will be applied to all the others.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121546Z" creationid="Elisabetta Manuele" creationdate="20180308T121546Z">
+        <seg>La casella &lt;f0&gt;Sincroni&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;z&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;za contenuti&lt;/f3&gt; consente il collegamento di tutte le etichette tra loro, cosicché le modifiche successive apportate al layout di un'etichetta si estenderanno a tutte le altre. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Their relationships to each other in relation to the query may also be shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111445Z" creationid="Manuel Frassinetti" creationdate="20171129T111445Z">
@@ -19722,6 +19730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182308Z" creationid="Elisabetta Manuele" creationdate="20180306T182308Z">
         <seg>Sulla destra della struttura ad albero dei nomi è visibile la tabella selezionata e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To transfer the edited content, just use the inc&lt;f4&gt;l&lt;/f4&gt;uded button labelled &lt;f5&gt;Synchroni&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;z&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;e&lt;/f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;which appears &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;during label production if you have selected this checkbox&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121857Z" creationid="Elisabetta Manuele" creationdate="20180308T121857Z">
+        <seg>Per trasferire il contenuto modificato, è sufficiente ricorrere al pu&lt;f4&gt;l&lt;/f4&gt;sante &lt;f5&gt;Sincroni&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;z&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;za contenuti&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;che compare &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;durante la creazione delle etichette, se è stata selezionata l'omonima casella di controllo&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
