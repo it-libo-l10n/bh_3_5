@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select t&lt;/f0&gt;he table header with the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122637Z" creationid="Elisabetta Manuele" creationdate="20180308T122637Z">
+        <seg>&lt;f0&gt;Selezionate l&lt;/f0&gt;'intestazione della tabella, quindi, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113257Z" creationid="Marina Latini" creationdate="20171213T113257Z">
@@ -6248,8 +6256,8 @@
       <tuv lang="EN">
         <seg>Creating form letters by selecting fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161918Z" creationid="Marina Latini" creationdate="20171206T161918Z">
-        <seg>Creazione di stampa in serie selezionando i comandi di campo</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122908Z" creationid="Marina Latini" creationdate="20171206T161918Z">
+        <seg>Creazione di stampa in serie tramite i comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8978,6 +8986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191735Z" creationid="Marco Marega" creationdate="20171017T191735Z">
         <seg>Il testo selezionato perde l'evidenziazione quando il campo di testo perde il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold the button down and drag the cursor through the text document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122713Z" creationid="Elisabetta Manuele" creationdate="20180308T122713Z">
+        <seg>tenendo premuto il pulsante sinistro del mouse, trascinate il puntatore lungo il documento di testo </seg>
       </tuv>
     </tu>
     <tu>
@@ -15470,6 +15486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The MailMerge field is inserted into the text document, here shown in the complete description which is made visible using &lt;f1&gt;View &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Field names&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122836Z" creationid="Elisabetta Manuele" creationdate="20180308T122836Z">
+        <seg>A questo punto il campo per la stampa in serie verrà inserito nel documento di testo, come illustrato nella descrizione dettagliata resa visibile tramite menu &lt;f1&gt;Visualizza &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Nomi di campo&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Reader table i&lt;f5&gt;s desc&lt;/f5&gt;ribed here as the &lt;f6&gt;List table&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214203Z" creationid="Marco Marega" creationdate="20171029T213659Z">
@@ -15978,6 +16002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203731Z" creationid="Marco Marega" creationdate="20180219T203731Z">
         <seg>La versione attualmente disponibile del server è la 2.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cursor changes its shape to an insert symbol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122733Z" creationid="Elisabetta Manuele" creationdate="20180308T122733Z">
+        <seg>finché non cambierà forma assumendo quella di cursore di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
