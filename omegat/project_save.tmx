@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In version 3.5.3 page settings were added in the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Format&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111523Z" creationid="Elisabetta Manuele" creationdate="20180308T111416Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nella versione 3.5.3 le impostazioni di pagina sono state inserite nella scheda &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Formato&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;It is just these queries, used in the previous section to filter data, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; prove unsatisfactory in regard to the maximum speed of searching a database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T165100Z" creationid="steevie" creationdate="20180216T163223Z">
@@ -11078,6 +11086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In versions 3.4.x to 3.5.2, due to a change in the basic settings in the label wizard, display errors occurred when the labels were the same width as the page width.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111251Z" creationid="Elisabetta Manuele" creationdate="20180308T111251Z">
+        <seg>Nelle versioni comprese tra la 3.4.x e la 3.5.2, a causa di una modifica apportata alle impostazioni di base della creazione guidata etichette, si sono verificati errori di visualizzazione quando la larghezza delle etichette coincideva con quella della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Independent of this form control, the &lt;f0&gt;insertable navigation bar&lt;/f0&gt; naturally continues to exist with the same items as the above figure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T224535Z" creationid="Marco Marega" creationdate="20171205T224535Z">
@@ -19770,6 +19786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195857Z" creationid="Marco Marega" creationdate="20171017T195857Z">
         <seg>La macro non deve in nessuna circostanza creare una finestra di dialogo sullo schermo; facendo clic in tale finestra causerebbe per la perdita e poi il ritorno del focus nel campo, riattivando di nuovo la macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under these conditions, the last label simply slides down one line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111312Z" creationid="Elisabetta Manuele" creationdate="20180308T111312Z">
+        <seg>In questi casi l'ultima etichetta scorre semplicemente in basso di una riga.</seg>
       </tuv>
     </tu>
     <tu>
