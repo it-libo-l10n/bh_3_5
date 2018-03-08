@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Further information is given in the LibreOffice Help under &lt;/f0&gt;&lt;f1&gt;Hidden Text&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;Conditional Text&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124027Z" creationid="Elisabetta Manuele" creationdate="20180308T124027Z">
+        <seg>&lt;f0&gt;Vengono fornite ulteriori informazioni nelle voci &lt;/f0&gt;&lt;f1&gt;Testo nascosto&lt;/f1&gt;&lt;f2&gt; e &lt;/f2&gt;&lt;f3&gt;Testo condizionale&lt;/f3&gt;&lt;f4&gt; della Guida di LibreOffice.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Here the names and the corresponding classes are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120056Z" creationid="manuel" creationdate="20180302T120056Z">
@@ -10998,6 +11006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same way you can create entries for the masculine gender and for missing entries for the two remaining types of salutation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123845Z" creationid="Elisabetta Manuele" creationdate="20180308T123845Z">
+        <seg>Con la stessa procedura potete creare voci per il genere maschile e per quelle mancanti nelle due formule introduttive rimanenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the subform, no data are entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215026Z" creationid="Marco Marega" creationdate="20171226T215026Z">
@@ -12438,6 +12454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Naturally you can create a salutation in the address field in exactly the same way, wherever the gender is specified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123913Z" creationid="Elisabetta Manuele" creationdate="20180308T123913Z">
+        <seg>Potete ovviamente generare una formula introduttiva nel campo degli indirizzi seguendo lo stesso esatto procedimento, ovunque venga indicato il genere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigation bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205958Z" creationid="Marco Marega" creationdate="20171015T205958Z">
@@ -12802,6 +12826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195450Z" creationid="Marco Marega" creationdate="20171017T195450Z">
         <seg>Si verifica dopo l'aggiunta di ciascun carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course it would be still simpler if someone who understands databases were to put the whole salutation right into the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124049Z" creationid="Elisabetta Manuele" creationdate="20180308T124049Z">
+        <seg>Sarebbe ovviamente più pratico se qualcuno in grado di comprendere i database dovesse inserire l'intera formula introduttiva direttamente nella query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18626,6 +18658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180959Z" creationid="Elisabetta Manuele" creationdate="20180307T180959Z">
         <seg>Le modifiche si possono apportare nel passaggio 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done using a correlated subquery (see the chapter on Queries in this Handbook).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124108Z" creationid="Elisabetta Manuele" creationdate="20180308T124108Z">
+        <seg>Ciò è possibile tramite una subquery correlata (vd. il capitolo sulle query del presente manuale).</seg>
       </tuv>
     </tu>
     <tu>
