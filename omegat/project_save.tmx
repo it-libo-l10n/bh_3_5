@@ -11438,6 +11438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is noteworthy that, to print labels 7.00 cm wide, you need a page width a little bigger than &lt;s3/&gt;3*7.00 cm = 21.00 cm.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T112123Z" creationid="Elisabetta Manuele" creationdate="20180308T112123Z">
+        <seg>È interessante osservare che per stampare etichette larghe 7 cm è necessaria una larghezza pagina di poco superiore a &lt;s3/&gt;3*7 cm = 21 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to loan out the same medium twice without it having been returned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214947Z" creationid="Marco Marega" creationdate="20171217T214947Z">
