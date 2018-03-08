@@ -6846,6 +6846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disadvantages of external forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193659Z" creationid="Elisabetta Manuele" creationdate="20180308T193659Z">
+        <seg>Svantaggi dei formulari esterni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display and entry with additional formatting, for example using measurement units</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204150Z" creationid="Marco Marega" creationdate="20171015T204150Z">
@@ -8410,6 +8418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183652Z" creationid="Marco Marega" creationdate="20171013T183652Z">
         <seg>I formulari vengono utilizzati quando &lt;f0&gt;&lt;/f0&gt; l'inserimento diretto in una tabella risulta sconveniente, per intercettare prontamente gli errori in fase di inserimento dati, o quando la presenza di troppe tabelle rende impossibile la gestione diretta dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forms for a database can be varied to suit the user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193515Z" creationid="Elisabetta Manuele" creationdate="20180308T193515Z">
+        <seg>I formulari di un database sono modificabili in base alle esigenze dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18574,6 +18590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can continue to use the database during the development of further forms, and do not need to copy complicated external forms from one database into another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193454Z" creationid="Elisabetta Manuele" creationdate="20180308T193454Z">
+        <seg>Possono continuare a lavorare al database anche mentre sviluppano altri formulari, senza la necessità di copiare complicati formulari esterni da un database in un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They cannot be accessed by name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T213619Z" creationid="Marco Marega" creationdate="20171213T213619Z">
@@ -18922,6 +18946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T153211Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
         <seg>Corrisponde alla condizione di relazione per cui devono essere visualizzati solo i record di dati per i quali il campo Supporto_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could, for example, be useful for a database for an association where all committee members get the database but only one person can edit the data; the others can still view the addresses for their respective departments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193644Z" creationid="Elisabetta Manuele" creationdate="20180308T193644Z">
+        <seg>Questo può essere utile, per esempio, nel caso di un database per un'associazione in cui tutti i membri del comitato ottengano il database, ma solamente una persona sia autorizzata a modificare i dati, mentre gli altri possano comunque visualizzare gli indirizzi dei rispettivi reparti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20402,6 +20434,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105855Z" creationid="Marina Latini" creationdate="20171206T105855Z">
         <seg>Funzioni pesonalizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users must always install forms and Base with the same directory structure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193716Z" creationid="Elisabetta Manuele" creationdate="20180308T193716Z">
+        <seg>Gli utenti devono comunque installare Base e formulari in modo che presentino una identica struttura di cartelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who do not have the &lt;f0&gt;authority&lt;/f0&gt; to correct data or make new entries can be sent a current data set by other users, and simply replace their *.odb file to have an up-to-date view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193607Z" creationid="Elisabetta Manuele" creationdate="20180308T193607Z">
+        <seg>Gli utenti privi dell'&lt;f0&gt;autorizzazione&lt;/f0&gt; per la correzione dei dati o per l'aggiunta di nuove voci possono ricevere un set di dati in uso ad altri e sostituire agevolmente il proprio file *.odb per ottenere una visualizzazione aggiornata.</seg>
       </tuv>
     </tu>
     <tu>
