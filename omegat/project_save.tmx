@@ -7190,6 +7190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External &lt;f0&gt;f&lt;/f0&gt;orms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124432Z" creationid="Elisabetta Manuele" creationdate="20180308T124432Z">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ormulari esterni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161936Z" creationid="Marina Latini" creationdate="20171206T161936Z">
@@ -7626,6 +7634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185410Z" creationid="Elisabetta Manuele" creationdate="20180306T185410Z">
         <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: doppio&lt;f1&gt;&lt;/f1&gt;clic sul comando di campo inserito &lt;f2&gt;per &lt;/f2&gt;visualizzare le proprietà dei Campi per stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;58&lt;/seq0&gt;: Field selection for labels with sequential content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124401Z" creationid="Elisabetta Manuele" creationdate="20180308T124401Z">
+        <seg>Figura &lt;seq0&gt;58&lt;/seq0&gt;: selezione del campo per etichette di contenuto sequenziale</seg>
       </tuv>
     </tu>
     <tu>
@@ -10066,6 +10082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202608Z" creationid="Marco Marega" creationdate="20171015T202608Z">
         <seg>Se questo evento non viene intercettato, al caricamento del formulario seguirà la richiesta del parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this field type is chosen at the end of a label, the next label will be filled with data from the following record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124206Z" creationid="Elisabetta Manuele" creationdate="20180308T124206Z">
+        <seg>se scelto in coda a un'etichetta, consente di popolare quella successiva con i dati del record seguente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13402,6 +13426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153255Z" creationid="Marco Marega" creationdate="20171231T153255Z">
         <seg>Nemmeno i formulari paralleli vengono presi in considerazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Particularly interesting for labels is the field type Next record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124144Z" creationid="Elisabetta Manuele" creationdate="20180308T124144Z">
+        <seg>Di particolare interesse per le etichette è il tipo di campo Record dati successivo il quale, </seg>
       </tuv>
     </tu>
     <tu>
@@ -19986,6 +20018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T165433Z" creationid="steevie" creationdate="20180226T165433Z">
         <seg>Two output formats for reports are available for selection: &lt;f0&gt;ODF Text document&lt;/f0&gt; (a Writer document) or &lt;f1&gt;ODF Spreadsheet&lt;/f1&gt; (a Calc document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typical labels for sequential label printing look like the following figure when you use &lt;f0&gt;View &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Field names&lt;/f3&gt; to make the corresponding field designations visible:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124313Z" creationid="Elisabetta Manuele" creationdate="20180308T124313Z">
+        <seg>Le tipiche etichette per la stampa in successione appaiono simili a quelle della figura seguente, in cui si fa riferimento al menu &lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Nomi di campo&lt;/f3&gt; per rendere visibili le corrispondenti designazioni dei campi.</seg>
       </tuv>
     </tu>
     <tu>
