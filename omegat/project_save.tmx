@@ -9910,6 +9910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are more records than will fit on the page, the next page will automatically be filled with the next set of records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121433Z" creationid="Elisabetta Manuele" creationdate="20180308T121433Z">
+        <seg>Se i record sono più numerosi del consentito per poter rientrare nella spazio della pagina, il successivo set di record occuperà automaticamente la pagina seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are multiple readers at the same address, this structure would require the address to be entered again, since the primary key of the &lt;f0&gt;Reader&lt;/f0&gt; table is entered directly as the primary key in the &lt;f1&gt;Address&lt;/f1&gt; table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151628Z" creationid="Marco Marega" creationdate="20180127T151509Z">
