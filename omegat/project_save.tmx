@@ -4974,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any &lt;f1&gt;ODB &lt;/f1&gt;file can be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193032Z" creationid="Elisabetta Manuele" creationdate="20180308T193032Z">
+        <seg>Si può selezionare un file &lt;f1&gt;ODB &lt;/f1&gt; qualsiasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any fields which are not absolutely necessary for issuing loans for a new medium do not need a tab stop.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193633Z" creationid="Marco Marega" creationdate="20171212T193633Z">
@@ -9654,6 +9662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If instead you look in the listbox contents, you will see databases already registered in LibreOffice under their registered names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193203Z" creationid="Elisabetta Manuele" creationdate="20180308T193203Z">
+        <seg>Invece, nella casella elenco Contenuto compaiono i database già registrati in LibreOffice con i propri nomi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If instead you want to sort first by &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Loan date"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and then by "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan"."Reader_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, that can be done if:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T160336Z" creationid="Manuel Frassinetti" creationdate="20171206T160336Z">
@@ -10506,6 +10522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215535Z" creationid="Marco Marega" creationdate="20171213T204440Z">
         <seg>Inoltre, la visualizzazione potrebbe essere ordinata per &lt;f0&gt;Utente&lt;/f0&gt;(Reader), in modo che i supporti prestati alla stessa persona vengano visualizzati in successione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, the field for the data source contains a link, beginning with file:///.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193059Z" creationid="Elisabetta Manuele" creationdate="20180308T193059Z">
+        <seg>Inoltre il campo relativo alla sorgente dati contiene un collegamento che inizia con file:///.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15194,6 +15218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153131Z" creationid="Marco Marega" creationdate="20171231T153131Z">
         <seg>L'&lt;f0&gt;Ordine automatico&lt;/f0&gt; funziona solamente una volta per un campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Data source &lt;/f0&gt;must be selected separately when using an external form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192918Z" creationid="Elisabetta Manuele" creationdate="20180308T192918Z">
+        <seg>Quando si usa un formulario esterno è necessario selezionare la &lt;f0&gt;sorgente dati&lt;/f0&gt; separatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20266,6 +20298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184811Z" creationid="Marco Marega" creationdate="20171013T184811Z">
         <seg>L'uso della procedura guidata per la creazione di un formulario viene descritta nel &lt;f0&gt;Capitolo 8, &lt;/f0&gt;Introduzione a Base, &lt;f1&gt;della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva a LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the button to the right of the data source listbox to open the file browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192946Z" creationid="Elisabetta Manuele" creationdate="20180308T192946Z">
+        <seg>Il pulsante a destra della casella elenco Sorgente dati apre la finestra di esplorazione file.</seg>
       </tuv>
     </tu>
     <tu>
