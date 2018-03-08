@@ -7870,6 +7870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For both variants take care that the condition you formulate will &lt;f13&gt;not&lt;/f13&gt; be fulfilled, since you want the paragraph to be visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123405Z" creationid="Elisabetta Manuele" creationdate="20180308T123405Z">
+        <seg>Per entrambe le varianti assicuratevi che la condizione formulata &lt;f13&gt;non&lt;/f13&gt; venga soddisfatta, poiché desiderate che il paragrafo sia visibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For controls, the names are taken directly from the names of the fields in the underlying table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215133Z" creationid="Marco Marega" creationdate="20171210T215133Z">
@@ -8138,6 +8146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211210Z" creationid="Marco Marega" creationdate="20171216T211210Z">
         <seg>Nel filtro va specificato che il campo Return date (data di restituzione) deve essere vuoto ("&lt;f0&gt;Return_Date" IS NULL&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the formula &lt;f0&gt;Dear Mrs &lt;Surname&gt;,&lt;/f0&gt; to appear only when the person is female, a sufficient condition is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123448Z" creationid="Elisabetta Manuele" creationdate="20180308T123448Z">
+        <seg>Una condizione adeguata per la formula &lt;f0&gt;Gentile signora &lt;Surname&gt;,&lt;/f0&gt; da rendere visibile solo per una persona di genere femminile è:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21178,6 +21194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
         <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Addresses.Mailmergequery.Gender] != "f"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123507Z" creationid="Elisabetta Manuele" creationdate="20180308T123507Z">
+        <seg>[Addresses.Mailmergequery.Gender] != "f"</seg>
       </tuv>
     </tu>
     <tu>
