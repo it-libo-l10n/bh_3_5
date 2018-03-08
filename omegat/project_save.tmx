@@ -7686,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally the &lt;f0&gt;New Document&lt;/f0&gt; button is used to create a document containing the selected fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121931Z" creationid="Elisabetta Manuele" creationdate="20180308T121931Z">
+        <seg>A questo punto il pulsante &lt;f0&gt;Nuovo documento&lt;/f0&gt; consente di generare un nuovo documento contenente i campi selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally this command changes only the name of a table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213258Z" creationid="Marco Marega" creationdate="20180227T213258Z">
