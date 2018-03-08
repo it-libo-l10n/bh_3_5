@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Refresh range&lt;/f3&gt; allows the range, where appropriate, to be supplied with new data from the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194903Z" creationid="Elisabetta Manuele" creationdate="20180308T194903Z">
+        <seg>Il menu &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Aggiorna area&lt;/f3&gt;, consente di popolare l'intervallo, dove appropriato, con nuovi dati ricavati dal database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data fi&lt;/f0&gt;&lt;f1&gt;eld&lt;/f1&gt;: Here you create the binding with the table on which the form is based.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194120Z" creationid="Marco Marega" creationdate="20171017T194120Z">
@@ -16366,6 +16374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data can later be accessed using this range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194802Z" creationid="Elisabetta Manuele" creationdate="20180308T194802Z">
+        <seg>I dati possono essere consultati in seguito tramite questo intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data category specifies the binding to a field in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210721Z" creationid="Marco Marega" creationdate="20171015T210721Z">
@@ -17038,10 +17054,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The import becomes a Calc range, which by default is assigned the name Import1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194735Z" creationid="Elisabetta Manuele" creationdate="20180308T194735Z">
+        <seg>L'importazione diventa un intervallo (area) di Calc, a cui viene assegnato per impostazione predefinita il nome Importazione1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The important thing for a subform is that its data source is somehow linked to the data source of the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210108Z" creationid="Marco Marega" creationdate="20171215T210108Z">
         <seg>La cosa importante di un formulario secondario è che la sua sorgente dei dati è in qualche modo collegata alla sorgente dei dati del formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The imported data &lt;f0&gt;is&lt;/f0&gt; not formatted except as the properties of the database fields require.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T200812Z" creationid="Elisabetta Manuele" creationdate="20180308T200812Z">
+        <seg>I dati importati &lt;f0&gt;non sono&lt;/f0&gt; formattati, tranne quando le proprietà dei campi database lo richiedono espressamente.</seg>
       </tuv>
     </tu>
     <tu>
