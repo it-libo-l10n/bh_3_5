@@ -21414,6 +21414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use the context menu of a table to make a copy of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201050Z" creationid="Elisabetta Manuele" creationdate="20180308T201050Z">
+        <seg>In alternativa potete avvalervi del menu contestuale di una tabella per eseguire una copia dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214008Z" creationid="Marco Marega" creationdate="20180301T214008Z">
