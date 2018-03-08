@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Y&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;es&lt;/f3&gt; &lt;f4&gt;to fill&lt;/f4&gt; the address database fields with the corresponding content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122047Z" creationid="Elisabetta Manuele" creationdate="20180308T122047Z">
+        <seg>&lt;f0&gt;Selezionate&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ì&lt;/f3&gt; &lt;f4&gt;per compilare&lt;/f4&gt; i campi del database rubrica con il contenuto corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the icon highlighted (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Run SQL command directly&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;) to turn the Design V&lt;/f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;f5&gt;ew Off/On icon off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180214T120942Z" creationid="manuel" creationdate="20180214T120942Z">
@@ -11430,6 +11438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is advisable, especially for the first tests, to choose &lt;f1&gt;Output&lt;/f1&gt; to a &lt;f2&gt;File&lt;/f2&gt;, which will save the labels as a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122325Z" creationid="Elisabetta Manuele" creationdate="20180308T122325Z">
+        <seg>È consigliabile, specie nei primi tentativi, scegliere &lt;f2&gt;File&lt;/f2&gt; come &lt;f1&gt;destinazione&lt;/f1&gt;, che consente di salvare le etichette come documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is bound to a &lt;f0&gt;Table&lt;/f0&gt; named &lt;f1&gt;Loans&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
@@ -15614,6 +15630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The actual query must be specified by the user, because in this case we are not dealing with a table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122140Z" creationid="Elisabetta Manuele" creationdate="20180308T122140Z">
+        <seg>La query vera e propria deve essere specificata dall'utente, perché in questo caso non si tratta di una tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The addition of single fields is a bit more complicated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T205657Z" creationid="Marco Marega" creationdate="20171213T205634Z">
@@ -17562,6 +17586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
         <seg>Il modo più semplice per creare un formulario è quello di usare la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source of the data for the label printing is not found automatically; only the database is pre-selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122124Z" creationid="Elisabetta Manuele" creationdate="20180308T122124Z">
+        <seg>La sorgente dati relativa alla stampa delle etichette non viene rilevata automaticamente, solo il database viene preselezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20454,6 +20486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the query is selected and the corresponding records chosen (in this case &lt;f0&gt;All&lt;/f0&gt;), the printing can begin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122211Z" creationid="Elisabetta Manuele" creationdate="20180308T122211Z">
+        <seg>Una volta selezionati la query e i record corrispondenti (in questo caso &lt;f0&gt;Tutti&lt;/f0&gt;), la stampa può avere inizio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When there are several alternative buttons on a form, the one most often used should have this characteristic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214117Z" creationid="Marco Marega" creationdate="20171126T214117Z">
@@ -20506,6 +20546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114100Z" creationid="Marina Latini" creationdate="20171213T114100Z">
         <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you initiate the printing process, the following question appears:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121945Z" creationid="Elisabetta Manuele" creationdate="20180308T121945Z">
+        <seg>All'avvio del processo di stampa viene visualizzata la seguente domanda:</seg>
       </tuv>
     </tu>
     <tu>
