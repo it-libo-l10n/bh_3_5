@@ -8662,6 +8662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here all tables and queries in the selected database are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123052Z" creationid="Elisabetta Manuele" creationdate="20180308T123052Z">
+        <seg>in cui sono disponibili tutte le tabelle e le query del database selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here an example is given for a table named Searchtable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160915Z" creationid="steevie" creationdate="20180205T160915Z">
@@ -10122,6 +10130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220049Z" creationid="Marco Marega" creationdate="20171210T194417Z">
         <seg>Se volete modificare solo le etichette, &lt;f0&gt;tenete premuto&lt;/f0&gt; il tasto &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; &lt;f4&gt;e &lt;/f4&gt;fate clic su questi campi di controllo, direttamente  o, nel &lt;f5&gt;N&lt;/f5&gt;avigatore, oppure &lt;f6&gt;fate clic con il pulsante destro del mouse&lt;/f6&gt; sopra ad un campo in modo da richiamare le proprietà di quel controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to create a salutation, which is usual in form letters, you can use a hidden paragraph or hidden text: &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Other &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Functions &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Hidden paragraph&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123325Z" creationid="Elisabetta Manuele" creationdate="20180308T123325Z">
+        <seg>Se desiderate impostare una formula introduttiva, come di consuetudine nelle lettere tipo, potete ricorrere al paragrafo o al testo nascosto tramite menu &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Comando di campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Altri campi &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Funzioni &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Paragrafi nascosti&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12066,6 +12082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160229Z" creationid="Marina Latini" creationdate="20171206T160229Z">
         <seg>Stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mail merge fields can be inserted using &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Other &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Database&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123032Z" creationid="Elisabetta Manuele" creationdate="20180308T123032Z">
+        <seg>I campi per la stampa in serie si possono inserire tramite menu &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Comando di campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Altri campi &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Database&lt;/f9&gt;, </seg>
       </tuv>
     </tu>
     <tu>
@@ -20186,6 +20210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111041Z" creationid="Marina Latini" creationdate="20171207T111041Z">
         <seg>Uso di macro per prevenire errori di digitazione, semplificare le attività e migliorare l'usabilità dei formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the '&lt;f0&gt;Insert&lt;/f0&gt;' button, &lt;s1/&gt;the various fields can be inserted one after another directly into the text at the current cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123146Z" creationid="Elisabetta Manuele" creationdate="20180308T123146Z">
+        <seg>Mediante il pulsante '&lt;f0&gt;Inserisci&lt;/f0&gt;' si possono inserire &lt;s1/&gt;i vari campi disponendoli in successione direttamente nel testo, proprio in corrispondenza della posizione del cursore.</seg>
       </tuv>
     </tu>
     <tu>
