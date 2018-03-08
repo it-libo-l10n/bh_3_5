@@ -2654,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If simple form properties available in LibreOffice are to be used in other program modules such as Writer and Calc, you only need to display the form design toolbar, using &lt;/f0&gt;&lt;f1&gt;View &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Toolbars &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Form design&lt;/f7&gt;&lt;f8&gt;, then open the &lt;/f8&gt;&lt;f9&gt;Form navigator.&lt;/f9&gt;&lt;f10&gt; You can build a form or, as described in the &lt;/f10&gt;&lt;f11&gt;F&lt;/f11&gt;&lt;f12&gt;orms chapter, create a form field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192401Z" creationid="Elisabetta Manuele" creationdate="20180308T192401Z">
+        <seg>&lt;f0&gt;Se si devono utilizzare semplici proprietà di formulario relative ad altri moduli del programma, come per esempio Writer e Calc, è sufficiente rendere visibile la barra strumenti Struttura formulario tramite menu &lt;/f0&gt;&lt;f1&gt;Visualizza &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Barre degli strumenti &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Struttura formulario&lt;/f7&gt;&lt;f8&gt;, quindi aprire la &lt;/f8&gt;&lt;f9&gt;Finestra di ricerca (Navigatore) del formulario.&lt;/f9&gt;&lt;f10&gt; Potete creare un formulario oppure, come illustrato nel capitolo &lt;/f10&gt;&lt;f11&gt;F&lt;/f11&gt;&lt;f12&gt;ormulari, generare un campo del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the default value in a foreign key field is no&lt;/f0&gt;&lt;f1&gt;t linked to a primary key of the foreign table, a link to a value would be created, that isn't possible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222343Z" creationid="Marco Marega" creationdate="20180228T222343Z">
