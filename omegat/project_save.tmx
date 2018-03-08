@@ -6736,8 +6736,8 @@
       <tuv lang="EN">
         <seg>Direct creation of mail merge and label documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161822Z" creationid="Marina Latini" creationdate="20171206T161822Z">
-        <seg>Creazione diretta di documenti ed etichette in stampa in serie</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122438Z" creationid="Marina Latini" creationdate="20171206T161822Z">
+        <seg>Creazione diretta di documenti per etichette e in stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead of using the Wizard, you can of course produce mail merge and label documents directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122510Z" creationid="Elisabetta Manuele" creationdate="20180308T122510Z">
+        <seg>Invece della procedura guidata, potete ovviamente realizzare documenti di etichette e stampa in serie direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead we will use the built-in form control (&lt;f1&gt;Figure&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211324Z" creationid="Marco Marega" creationdate="20171215T211324Z">
@@ -12046,10 +12054,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mail merge fields can be taken from the database browser using the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122554Z" creationid="Elisabetta Manuele" creationdate="20180308T122554Z">
+        <seg>I campi per la stampa in serie possono essere estratti dalla finestra di esplorazione database tramite mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mail merge using the mouse</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161842Z" creationid="Marina Latini" creationdate="20171206T161842Z">
-        <seg>Stampa in serie usando il mouse</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122527Z" creationid="Marina Latini" creationdate="20171206T161842Z">
+        <seg>Stampa in serie tramite il mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -17074,6 +17090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210441Z" creationid="Marco Marega" creationdate="20171109T210441Z">
         <seg>Il pulsante di scelta è simile alla casella di controllo appena descritta, ad eccezione delle proprietà &lt;f0&gt;&lt;/f0&gt;generali e alla sua forma esterna rotonda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The option to save in several documents is not appropriate for label printing but rather for letters to different recipients which can then be worked on subsequently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122354Z" creationid="Elisabetta Manuele" creationdate="20180308T122354Z">
+        <seg>L'opzione di salvataggio in più documenti non è indicata per la stampa di etichette, è utile invece per le lettere indirizzate a destinatari diversi, le quali possono essere gestite in un secondo momento.</seg>
       </tuv>
     </tu>
     <tu>
