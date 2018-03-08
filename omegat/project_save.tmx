@@ -13014,6 +13014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only then will three labels be printed in a row on the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T112143Z" creationid="Elisabetta Manuele" creationdate="20180308T112143Z">
+        <seg>Solo così disporrete dello spazio necessario per la stampa di tre etichette in fila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only those records are displayed for which the field Field_name contains the term 'Karl' – the exact term, not for example 'Karl Egon'.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173518Z" creationid="Manuel Frassinetti" creationdate="20180116T173518Z">
