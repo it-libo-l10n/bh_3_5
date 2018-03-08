@@ -17078,6 +17078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The page will then be filled with data from successive records of the database, beginning with the first record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T115811Z" creationid="Elisabetta Manuele" creationdate="20180308T115811Z">
+        <seg>La pagina verrà popolata di dati estratti dai record successivi del database, a cominciare dal primo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The parent table here is &lt;f3&gt;Street&lt;/f3&gt;, since its primary key is the one that must exist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135204Z" creationid="Marco Marega" creationdate="20180228T135204Z">
