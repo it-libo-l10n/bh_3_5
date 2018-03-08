@@ -15150,6 +15150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;/f12&gt;&lt;f13&gt;Data&lt;/f13&gt;&lt;f14&gt; tab of the Form Properties dialog looks a little different from t&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;he one&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; you see when forms are built directly in an &lt;/f17&gt;&lt;f18&gt;ODB&lt;/f18&gt;&lt;f19&gt; database file:&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192609Z" creationid="Elisabetta Manuele" creationdate="20180308T192609Z">
+        <seg>La scheda &lt;/f12&gt;&lt;f13&gt;Dati&lt;/f13&gt;&lt;f14&gt; della finestra di dialogo Proprietà del formulario appare leggermente diversa d&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;a quella&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; relativa ai formulari creati direttamente in un file di database &lt;/f17&gt;&lt;f18&gt;ODB. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ab&lt;/f2&gt; key then takes you to the next record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220101Z" creationid="Marco Marega" creationdate="20171229T220101Z">
