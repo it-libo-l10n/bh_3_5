@@ -4166,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A report on the other hand requires the opening of the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193847Z" creationid="Elisabetta Manuele" creationdate="20180308T193847Z">
+        <seg>Un report richiede comunque l'apertura del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A right&lt;f0&gt;-&lt;/f0&gt;click on the record header of an existing record causes it to be deleted, and an entry can be canceled or saved in the case of new records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T204651Z" creationid="Marco Marega" creationdate="20171215T204651Z">
@@ -4218,6 +4226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T200958Z" creationid="Marco Marega" creationdate="20171210T200958Z">
         <seg>Un formulario semplice contiene i campi di controllo necessari a scrivere o leggere dei record di dati in una singola tabella o ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A simple glance at a query therefore must go through a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193829Z" creationid="Elisabetta Manuele" creationdate="20180308T193829Z">
+        <seg>Un semplice sguardo a una query non può quindi prescindere dal formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4870,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively it might be possible to create it, at least partially, using mail merge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193905Z" creationid="Elisabetta Manuele" creationdate="20180308T193905Z">
+        <seg>In alternativa si potrebbe generare, almeno parzialmente, tramite la stampa in serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170452Z" creationid="Marina Latini" creationdate="20171207T170452Z">
@@ -5202,6 +5226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190258Z" creationid="Elisabetta Manuele" creationdate="20180306T190258Z">
         <seg>Come per la stampa in serie dell'esempio precedente che assembla i dati sulla base di varie tabelle, è necessario in primo luogo aprire il database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the links are stored relative to the form, it is sufficient to store the database and its forms in a common directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193755Z" creationid="Elisabetta Manuele" creationdate="20180308T193755Z">
+        <seg>Poiché i collegamenti sono memorizzati in base al formulario, è sufficiente salvare il database e i relativi formulari in una cartella comune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6446,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data can be used in Calc for calculation purposes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193936Z" creationid="Elisabetta Manuele" creationdate="20180308T193936Z">
+        <seg>Si possono utilizzare i dati in Calc a scopo di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data entry and Data display</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203635Z" creationid="Marco Marega" creationdate="20171015T203635Z">
@@ -6624,8 +6664,8 @@
       <tuv lang="EN">
         <seg>Database use in Calc</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162005Z" creationid="Marina Latini" creationdate="20171206T162005Z">
-        <seg>Uso di database in Calc</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193921Z" creationid="Marina Latini" creationdate="20171206T162005Z">
+        <seg>Uso dei database in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -6994,6 +7034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T224059Z" creationid="Marco Marega" creationdate="20180303T224059Z">
         <seg>Altrimenti questi numeri possono essere resi visibili assieme alla corrispondente esatta descrizione del supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering &lt;f0&gt;d&lt;/f0&gt;ata into Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194040Z" creationid="Elisabetta Manuele" creationdate="20180308T194040Z">
+        <seg>Inserire &lt;f0&gt;d&lt;/f0&gt;ati in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -8282,6 +8330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144924Z" creationid="Marco Marega" creationdate="20180218T144924Z">
         <seg>Per queste, la finestra Query Design offre la possibilità aggiuntiva di modificare la ricerca in vista SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose it is first necessary to make the data accessible in a Calc worksheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193953Z" creationid="Elisabetta Manuele" creationdate="20180308T193953Z">
+        <seg>A tal fine è necessario in primo luogo renderli accessibili in un foglio di lavoro di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13182,6 +13238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only forms can be created externally, not queries or reports.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193812Z" creationid="Elisabetta Manuele" creationdate="20180308T193812Z">
+        <seg>Soltanto i formulari possono essere generati esternamente, non le query o i report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if this primary key is built in, does the query become editable again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170542Z" creationid="Manuel Frassinetti" creationdate="20171202T165135Z">
@@ -15130,6 +15194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144147Z" creationid="Marco Marega" creationdate="20180218T144147Z">
         <seg>Ciò è possibile solo con comandi SQL inseriti direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is the only way that access to the database can be free from errors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193731Z" creationid="Elisabetta Manuele" creationdate="20180308T193731Z">
+        <seg>Questo è l'unico modo per assicurarsi un accesso al database immune da errori.</seg>
       </tuv>
     </tu>
     <tu>
