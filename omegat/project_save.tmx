@@ -14982,6 +14982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Format&lt;/f0&gt; tab allows you to set the label size accurately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111554Z" creationid="Elisabetta Manuele" creationdate="20180308T111554Z">
+        <seg>La scheda &lt;f0&gt;Formato&lt;/f0&gt; consente di impostare le dimensioni dell'etichetta in modo preciso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Gender &lt;/f0&gt;&lt;f1&gt;table ensures that the correct &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Salutation&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; is used in reminders.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135827Z" creationid="Marco Marega" creationdate="20180203T135827Z">
@@ -17474,6 +17482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172809Z" creationid="steevie" creationdate="20180226T172809Z">
         <seg>Il server &lt;s1/&gt;considera le viste come interrogazioni locali complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The settings are only significant when the m&lt;f1&gt;ake&lt;/f1&gt; and &lt;f2&gt;typ&lt;/f2&gt;e of the labels is not known.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T112037Z" creationid="Elisabetta Manuele" creationdate="20180308T112037Z">
+        <seg>Le impostazioni sono rilevanti solo quando la m&lt;f1&gt;arca&lt;/f1&gt; e il &lt;f2&gt;tip&lt;/f2&gt;o delle etichette non sono noti.</seg>
       </tuv>
     </tu>
     <tu>
