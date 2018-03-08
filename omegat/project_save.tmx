@@ -10526,6 +10526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition the field names are formatted as table headers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201146Z" creationid="Elisabetta Manuele" creationdate="20180308T201146Z">
+        <seg>Inoltre i nomi di campo vengono formattati come intestazioni di tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition there are design possibilities that have no significance inside Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183405Z" creationid="Marco Marega" creationdate="20171014T183405Z">
@@ -11298,6 +11306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184222Z" creationid="Elisabetta Manuele" creationdate="20180306T184222Z">
         <seg>Anche in questo caso il formato delle date e dei numeri può essere indicato singolarmente, o si può ricavare direttamente delle impostazioni della tabella all'interno del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, however, there is no import but merely a copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201110Z" creationid="Elisabetta Manuele" creationdate="20180308T201110Z">
+        <seg>In questo caso, però, non si tratta di un'importazione ma solo di una copia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17694,6 +17710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The properties of the data fields are not read with them but are determined by Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201127Z" creationid="Elisabetta Manuele" creationdate="20180308T201127Z">
+        <seg>I campi dati e le loro proprietà non vengono letti congiuntamente, ma sono determinati da Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The properties of the fields are hidden in the context menu behind the concept of columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214159Z" creationid="Marco Marega" creationdate="20171213T214159Z">
@@ -21618,6 +21642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T215117Z" creationid="Marco Marega" creationdate="20171126T215117Z">
         <seg>È visibile solo una cornice attorno all'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You see the difference especially in database fields that are formatted as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201222Z" creationid="Elisabetta Manuele" creationdate="20180308T201222Z">
+        <seg>È possibile constatare la differenza specialmente nei campi database formattati come testo.</seg>
       </tuv>
     </tu>
     <tu>
