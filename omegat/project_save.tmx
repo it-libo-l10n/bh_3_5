@@ -4606,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advantages of external forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193257Z" creationid="Elisabetta Manuele" creationdate="20180308T193257Z">
+        <seg>Vantaggi dei formulari esterni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After all, fields in different tables can easily have the same field names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172546Z" creationid="Manuel Frassinetti" creationdate="20171204T173616Z">
@@ -5386,6 +5394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105155Z" creationid="Marina Latini" creationdate="20171207T105155Z">
         <seg>Base include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base need not be opened first in order to work with the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193328Z" creationid="Elisabetta Manuele" creationdate="20180308T193328Z">
+        <seg>Non è necessario aprire prima Base per poter lavorare con il database, </seg>
       </tuv>
     </tu>
     <tu>
@@ -10378,6 +10394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151408Z" creationid="Marco Marega" creationdate="20180127T151408Z">
         <seg>Nel database per una biblioteca pubblica, gli indirizzi degli utenti sono necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a database that is already complete, existing database users can subsequently be sent the improved form without problems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193421Z" creationid="Elisabetta Manuele" creationdate="20180308T193421Z">
+        <seg>In un database già completo i suoi attuali utenti possono di conseguenza ricevere il formulario ottimizzato senza che si verifichino particolari complicazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16750,6 +16774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The forms are created in exactly the same way as in Base itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193227Z" creationid="Elisabetta Manuele" creationdate="20180308T193227Z">
+        <seg>I formulari vengono generati esattamente come in Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The function fails for date fields.&lt;br23/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162454Z" creationid="manuel" creationdate="20180301T162454Z">
@@ -18410,6 +18442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145627Z" creationid="Marco Marega" creationdate="20180218T134933Z">
         <seg>Quindi nella tabella Adress non potete avere un secondo campo con il nome &lt;f0&gt;ID&lt;/f0&gt; come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore you do not need an extra open window in the background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193348Z" creationid="Elisabetta Manuele" creationdate="20180308T193348Z">
+        <seg>con il vantaggio, quindi, di non avere altre finestre aperte sullo sfondo.</seg>
       </tuv>
     </tu>
     <tu>
