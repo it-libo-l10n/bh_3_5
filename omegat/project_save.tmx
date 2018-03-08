@@ -2982,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Now the only remaining problem is that there may be no surname.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123531Z" creationid="Elisabetta Manuele" creationdate="20180308T123531Z">
+        <seg>&lt;f0&gt;A questo punto l'unico problema resta quello della possibile mancanza del cognome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164450Z" creationid="Marina Latini" creationdate="20171207T164450Z">
@@ -14934,6 +14942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That excludes the possibility of this paragraph appearing when the person is not female or there is no entered surname.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123818Z" creationid="Elisabetta Manuele" creationdate="20180308T123818Z">
+        <seg>Ciò comporta l'esclusione della possibilità che il paragrafo venga visualizzato se la persona non è di genere femminile, oppure in mancanza di un cognome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That explains why the dialog for this option is the same as for the previous one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184650Z" creationid="Elisabetta Manuele" creationdate="20180306T184650Z">
@@ -17194,6 +17210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215647Z" creationid="Marco Marega" creationdate="20171216T215301Z">
         <seg>Gli altri campi della barra di navigazione non sono necessari, in quanto la maggior parte degli stessi è disponibile nel campo di controllo tabella (visualizzazione e navigazione dei record), o in altri casi viene eseguita tramite gli spostamenti attraverso il campo di controllo tabella (memorizzazione dei dati).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The overall condition is:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123724Z" creationid="Elisabetta Manuele" creationdate="20180308T123724Z">
+        <seg>la condizione generica da inserire è la seguente:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19998,6 +20022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under these circumstances, "&lt;/f0&gt;&lt;f1&gt;Dear Sir/Madam,&lt;/f1&gt;&lt;f2&gt;" should appear so this is the condition you must insert.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123706Z" creationid="Elisabetta Manuele" creationdate="20180308T123624Z">
+        <seg>In tal caso è necessario ricorrere alla formula &lt;/f0&gt;&lt;f1&gt;Gentile signore/signora,&lt;/f1&gt;&lt;f2&gt; perciò </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under these conditions, the last label simply slides down one line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111312Z" creationid="Elisabetta Manuele" creationdate="20180308T111312Z">
@@ -21194,6 +21226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
         <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Addresses.MailMergeQuery.Gender] != "w" OR NOT [Addresses.MailMergeQuery.Surname]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123754Z" creationid="Elisabetta Manuele" creationdate="20180308T123754Z">
+        <seg>[Addresses.MailMergeQuery.Gender] != "w" OR NOT [Addresses.MailMergeQuery.Surname]</seg>
       </tuv>
     </tu>
     <tu>
