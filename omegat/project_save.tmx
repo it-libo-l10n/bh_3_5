@@ -6486,6 +6486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data dragged into Calc in this way show&lt;f0&gt;s&lt;/f0&gt; the following properties:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194301Z" creationid="Elisabetta Manuele" creationdate="20180308T194301Z">
+        <seg>I dati che vengono trascinati all'interno di Calc con questo metodo presentan&lt;f0&gt;o&lt;/f0&gt; le seguenti proprietà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data entry and Data display</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203635Z" creationid="Marco Marega" creationdate="20171015T203635Z">
@@ -12806,6 +12814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not only the data are imported, but the field properties too are read and acted on during the import.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194503Z" creationid="Elisabetta Manuele" creationdate="20180308T194503Z">
+        <seg>Il processo non si limita all'importazione dei dati, ma si estende anche all'importazione della lettura e della gestione delle proprietà di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not when loading a new record into the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201129Z" creationid="Marco Marega" creationdate="20171015T201129Z">
@@ -14362,6 +14378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T171119Z" creationid="Marina Latini" creationdate="20171207T171119Z">
         <seg>Selezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X , &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa &lt;/f5&gt;per visualizzare le finestre di dialoo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a table with the left mouse button and drag it into a Calc worksheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194111Z" creationid="Elisabetta Manuele" creationdate="20180308T194111Z">
+        <seg>Selezionate una tabella e trascinatela in un foglio di lavoro di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16318,6 +16342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cursor sets the left upper corner of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194131Z" creationid="Elisabetta Manuele" creationdate="20180308T194131Z">
+        <seg>Il puntatore ne stabilisce l'angolo superiore sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data are sorted as in the previous form, so that the media on loan for the longest time are immediately visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205149Z" creationid="Marco Marega" creationdate="20171229T205149Z">
@@ -16346,6 +16378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181422Z" creationid="Elisabetta Manuele" creationdate="20180306T181422Z">
         <seg>La finestra di esplorazione delle sorgenti dati consente l'accesso alle tabelle e alle query di tutti i database registrati con il relativo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data source browser in this case does not offer the options of &lt;f0&gt;Data into Text&lt;/f0&gt; or &lt;f1&gt;Data into Fields&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194222Z" creationid="Elisabetta Manuele" creationdate="20180308T194222Z">
+        <seg>La finestra di esplorazione sorgenti dati non offre in questo caso le opzioni &lt;f0&gt;Dati in testo&lt;/f0&gt; o &lt;f1&gt;Dati in campi&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18110,6 +18150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table is created complete with field names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194145Z" creationid="Elisabetta Manuele" creationdate="20180308T194145Z">
+        <seg>La tabella viene creata con i nomi di campo già integrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table is finally created with the selected columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183905Z" creationid="Elisabetta Manuele" creationdate="20180306T183905Z">
@@ -18386,6 +18434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183037Z" creationid="Elisabetta Manuele" creationdate="20180306T183037Z">
         <seg>Esistono diverse alternative per l'inserimento di dati come testo: in tabelle, in campo dati singolo oppure come testo normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are various ways of inserting data into Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194053Z" creationid="Elisabetta Manuele" creationdate="20180308T194053Z">
+        <seg>Esistono vari metodi per inserire i dati in Calc.</seg>
       </tuv>
     </tu>
     <tu>
