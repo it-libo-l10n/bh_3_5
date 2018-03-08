@@ -19822,6 +19822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under the &lt;f0&gt;Options&lt;/f0&gt; tab you can specify whether only a single label or a whole page of labels will be produced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T114356Z" creationid="Elisabetta Manuele" creationdate="20180308T114356Z">
+        <seg>Nella scheda &lt;f0&gt;Extra&lt;/f0&gt; potete specificare se creare una singola etichetta oppure realizzarne una pagina intera. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under these conditions, the last label simply slides down one line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111312Z" creationid="Elisabetta Manuele" creationdate="20180308T111312Z">
