@@ -3782,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Definition and Da&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ta&lt;/f5&gt;&lt;/f4&gt; are to be transferred.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120050Z" creationid="Elisabetta Manuele" creationdate="20180310T120050Z">
+        <seg>&lt;f3&gt;Definizione e da&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ti&lt;/f5&gt;&lt;/f4&gt; devono essere trasferiti. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Not defined&lt;/f3&gt; corresponds to a &lt;f4&gt;NULL &lt;/f4&gt;entry in the table underlying the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204028Z" creationid="Marco Marega" creationdate="20171109T204028Z">
@@ -10998,6 +11006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above case a new table is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115920Z" creationid="Elisabetta Manuele" creationdate="20180310T115920Z">
+        <seg>Nel nostro caso viene creata una nuova tabella </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, the &lt;f3&gt;Person&lt;/f3&gt; table from the &lt;f4&gt;Addresses &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;database&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;appears&lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191122Z" creationid="Elisabetta Manuele" creationdate="20180306T191037Z">
@@ -15430,6 +15446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Copy &lt;/f0&gt;&lt;f1&gt;Table&lt;/f1&gt; &lt;f2&gt;d&lt;/f2&gt;ialog appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115901Z" creationid="Elisabetta Manuele" creationdate="20180310T115901Z">
+        <seg>Si aprirà la finestra di &lt;f2&gt;d&lt;/f2&gt;ialogo &lt;f0&gt;Copia &lt;/f0&gt;&lt;f1&gt;tabella&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Data source &lt;/f0&gt;must be selected separately when using an external form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192918Z" creationid="Elisabetta Manuele" creationdate="20180308T192918Z">
@@ -18282,6 +18306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221550Z" creationid="Marco Marega" creationdate="20171217T221550Z">
         <seg>Alla tabella viene assegnata una chiave primaria con il valore 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table name is "Names".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120010Z" creationid="Elisabetta Manuele" creationdate="20180310T120010Z">
+        <seg>denominata Nomi.</seg>
       </tuv>
     </tu>
     <tu>
