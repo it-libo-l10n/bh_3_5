@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you want an existing field to be used as the key, do &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; check the &lt;/f3&gt;&lt;f4&gt;Create primary key &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;box&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120422Z" creationid="Elisabetta Manuele" creationdate="20180310T120422Z">
+        <seg>&lt;f0&gt;Se desiderate avvalervi di un campo disponibile come chiave &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;evitate&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; di selezionare la casella &lt;/f3&gt;&lt;f4&gt;Crea chiave primaria .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to the&lt;/f0&gt; properties already listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are available:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210722Z" creationid="Marco Marega" creationdate="20171026T210722Z">
@@ -5354,6 +5362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140656Z" creationid="Marco Marega" creationdate="20180218T140656Z">
         <seg>Allo stesso tempo potete scegliere l'Ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At this point you can create a new additional field for a primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120136Z" creationid="Elisabetta Manuele" creationdate="20180310T120136Z">
+        <seg>A questo punto si può creare un nuovo campo aggiuntivo per una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13622,6 +13638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise you get the error message:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120235Z" creationid="Elisabetta Manuele" creationdate="20180310T120235Z">
+        <seg>altrimenti compare il seguente messaggio di errore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise you will need to adjust them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152513Z" creationid="Marco Marega" creationdate="20171231T152513Z">
@@ -16838,6 +16862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first line contains the column headers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120111Z" creationid="Elisabetta Manuele" creationdate="20180310T120111Z">
+        <seg>La prima riga contiene le intestazioni di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following SQL commands are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145804Z" creationid="Marco Marega" creationdate="20180303T145804Z">
@@ -16858,6 +16890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193905Z" creationid="Marco Marega" creationdate="20171125T193905Z">
         <seg>Il contenuto che segue è riportato dall'Aiuto di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following fields are already set as primary key: ID</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120252Z" creationid="Elisabetta Manuele" creationdate="20180310T120252Z">
+        <seg>I campi seguenti sono già stati impostati come chiave primaria: ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -17482,6 +17522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202656Z" creationid="Marco Marega" creationdate="20171016T202656Z">
         <seg>Il nome di un campo di controllo all'interno del formulario deve essere univoco &lt;f0&gt;—&lt;/f0&gt;viene usato per accedervi con le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name of this database field must not be one that already exists as a column header in the Calc sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120204Z" creationid="Elisabetta Manuele" creationdate="20180310T120204Z">
+        <seg>Il nome di questo campo database non deve coincidere con quello già presente come intestazione di colonna nel foglio di Calc, </seg>
       </tuv>
     </tu>
     <tu>
@@ -20570,6 +20618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214026Z" creationid="Marco Marega" creationdate="20171226T214026Z">
         <seg>Sfortunatamente quest'ordine di visualizzazione non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately this message does not describe the problem quite correctly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120312Z" creationid="Elisabetta Manuele" creationdate="20180310T120312Z">
+        <seg>Purtroppo il messaggio non fornisce una descrizione sufficientemente accurata del problema.</seg>
       </tuv>
     </tu>
     <tu>
