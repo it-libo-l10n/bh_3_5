@@ -11198,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the explorer of the data source browser, tables can be copied from one database to another by selecting the source table with the left mouse button, holding the button down, and dragging it into the target database in the table container.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121713Z" creationid="Elisabetta Manuele" creationdate="20180310T121713Z">
+        <seg>Nella finestra di esplorazione sorgenti dati le tabelle si possono copiare da un database all'altro selezionando la tabella sorgente e, tenendo premuto il pulsante sinistro del mouse, trascinandola nel database di destinazione all'interno del contenitore tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the field of the Address table, &lt;f1&gt;Address.str_ID&lt;/f1&gt;, there is a number 1, which is not present in &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135113Z" creationid="Marco Marega" creationdate="20180228T135113Z">
@@ -11458,6 +11466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214628Z" creationid="Marco Marega" creationdate="20171213T214628Z">
         <seg>In questo modo potete lavorare su tutti i comandi di campo, uno dopo l'altro, senza dover salvare dopo ognuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this way, for example, read-only databases (data sources such as address books from an email program or a spreadsheet table) can be used as a basis for a database in which the data become editable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121904Z" creationid="Elisabetta Manuele" creationdate="20180310T121904Z">
+        <seg>Così, per esempio, i database di sola lettura (cioè sorgenti di dati come le rubriche di un programma di posta elettronica o una tabella di foglio elettronico) possono essere impiegati come base per un database i cui dati, invece, si possono modificare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19282,6 +19298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180556Z" creationid="Manuel Frassinetti" creationdate="20171130T180556Z">
         <seg>Ciò causa una visualizzazione tabellare dei dati da visualizzare sopra la vista grafica della &lt;f0&gt;tabella Prestito con la sua lista di campi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This causes the dialog for copying tables to be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121729Z" creationid="Elisabetta Manuele" creationdate="20180310T121729Z">
+        <seg>Ne consegue la comparsa della finestra di dialogo per la copia delle tabelle.</seg>
       </tuv>
     </tu>
     <tu>
