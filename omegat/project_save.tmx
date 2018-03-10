@@ -4694,6 +4694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you &lt;f1&gt;click&lt;/f1&gt; the &lt;f2&gt;Finish&lt;/f2&gt; button, the table is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121122Z" creationid="Elisabetta Manuele" creationdate="20180310T121122Z">
+        <seg>La creazione della tabella sarà conclusa con la &lt;f1&gt;pressione&lt;/f1&gt; del pulsante &lt;f2&gt;Termina&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the first record in the query is used for the preview.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180435Z" creationid="Elisabetta Manuele" creationdate="20180307T180435Z">
@@ -17618,6 +17626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140519Z" creationid="Marco Marega" creationdate="20180218T140519Z">
         <seg>Al nuovo indice viene assegnato automaticamente il nome &lt;f0&gt;indice1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new primary key is not an &lt;f0&gt;Auto-Value &lt;/f0&gt;key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121453Z" creationid="Elisabetta Manuele" creationdate="20180310T121205Z">
+        <seg>La nuova chiave primaria non è dotata dell'attributo di &lt;f0&gt;Valore automatico&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
