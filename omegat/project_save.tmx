@@ -2704,8 +2704,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want an existing field to be used as the key, do &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; check the &lt;/f3&gt;&lt;f4&gt;Create primary key &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;box&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120422Z" creationid="Elisabetta Manuele" creationdate="20180310T120422Z">
-        <seg>&lt;f0&gt;Se desiderate avvalervi di un campo disponibile come chiave &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;evitate&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; di selezionare la casella &lt;/f3&gt;&lt;f4&gt;Crea chiave primaria .</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120510Z" creationid="Elisabetta Manuele" creationdate="20180310T120422Z">
+        <seg>&lt;f0&gt;Se desiderate avvalervi di un campo disponibile come chiave &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;evitate&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; di selezionare la casella &lt;/f3&gt;&lt;f4&gt;Crea chiave primaria &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,6 +9518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; such cases the primary key is set using the third dialog in the Wizard.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120557Z" creationid="Elisabetta Manuele" creationdate="20180310T120557Z">
+        <seg>I&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; tal caso l'impostazione della chiave primaria viene effettuata tramite la terza finestra di dialogo della procedura guidata.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&lt;f0&gt;t&lt;/f0&gt; is possible to delete the record for a&lt;f1&gt;n item&lt;/f1&gt; on loan quite easily.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215120Z" creationid="Marco Marega" creationdate="20171217T215120Z">
@@ -16138,6 +16146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180124Z" creationid="Elisabetta Manuele" creationdate="20180307T180124Z">
         <seg>La modifica della disposizione dei campi, impossibile da effettuare direttamente, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The appropriate fields are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120657Z" creationid="Elisabetta Manuele" creationdate="20180310T120657Z">
+        <seg>Selezione dei campi appropriati.</seg>
       </tuv>
     </tu>
     <tu>
