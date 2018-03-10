@@ -7286,6 +7286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exporting &lt;f0&gt;d&lt;/f0&gt;ata from Calc into a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115620Z" creationid="Elisabetta Manuele" creationdate="20180310T115620Z">
+        <seg>Esportare &lt;f0&gt;d&lt;/f0&gt;ati da Calc a un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting data from Calc into a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162105Z" creationid="Marina Latini" creationdate="20171206T162035Z">
@@ -9198,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold the left mouse button down and drag the data that you want to turn into a database into the table area of the database browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115711Z" creationid="Elisabetta Manuele" creationdate="20180310T115711Z">
+        <seg>Tenendo premuto il pulsante sinistro del mouse trascinate quelli da trasformare in database nell'area della tabella contenuta nella finestra di esplorazione database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145202Z" creationid="Marina Latini" creationdate="20171213T145202Z">
@@ -10282,6 +10298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184456Z" creationid="Elisabetta Manuele" creationdate="20180306T184456Z">
         <seg>L'unica differenza che distingue l'opzione &lt;f0&gt;Inserisci dati come testo&lt;/f0&gt; da quella relativa all'uso dei campi è che questi restano sempre collegati al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you export them again, the single quote is removed, so that the data remain as they were.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115554Z" creationid="Elisabetta Manuele" creationdate="20180310T115554Z">
+        <seg>Se vengono esportati nuovamente il singolo apice viene rimosso cosicché i dati restano invariati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13118,6 +13142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On import, Calc turns these into text fields and precedes numbers, which would otherwise be interpreted as such, with a single quote &lt;f0&gt;('137)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115507Z" creationid="Elisabetta Manuele" creationdate="20180310T115507Z">
+        <seg>Durante il processo d'importazione Calc li converte in campi di testo e fa precedere i numeri, che altrimenti verrebbero interpretati come tali, da un singolo apice &lt;f0&gt;('137)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Indexes dialog (Figure &lt;t0&gt;9&lt;/t0&gt;), click &lt;f1&gt;New Index&lt;/f1&gt; to create an index in addition to the primary key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140428Z" creationid="Marco Marega" creationdate="20180218T140428Z">
@@ -14418,6 +14450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194111Z" creationid="Elisabetta Manuele" creationdate="20180308T194111Z">
         <seg>Selezionate una tabella e trascinatela in un foglio di lavoro di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the data in the Calc worksheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115637Z" creationid="Elisabetta Manuele" creationdate="20180310T115637Z">
+        <seg>Selezionate i dati nel foglio di lavoro di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16354,6 +16394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203731Z" creationid="Marco Marega" creationdate="20180219T203731Z">
         <seg>La versione attualmente disponibile del server è la 2.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cursor changes its appearance, showing that something can be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115756Z" creationid="Elisabetta Manuele" creationdate="20180310T115756Z">
+        <seg>Il puntatore cambierà forma assumendo quella di un cursore che indica la possibilità di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18714,6 +18762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212126Z" creationid="Marco Marega" creationdate="20180219T212126Z">
         <seg>Queste devono essere inserite senza virgolette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These numbers can then no longer be used in calculations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115528Z" creationid="Elisabetta Manuele" creationdate="20180310T115528Z">
+        <seg>Questi numeri non possono più essere utilizzati per i calcoli.</seg>
       </tuv>
     </tu>
     <tu>
