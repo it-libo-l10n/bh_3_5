@@ -8990,6 +8990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the ID field, which is to be the primary key, is formatted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120926Z" creationid="Elisabetta Manuele" creationdate="20180310T120926Z">
+        <seg>Nel nostro caso il campo ID, che deve essere la chiave primaria, viene formattato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the ID is taken from the table which comes first in the FROM definition.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T180148Z" creationid="Manuel Frassinetti" creationdate="20171204T180148Z">
@@ -11918,6 +11926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It just so happens that the test table contains only first names with a maximum length of 10 characters, so that it can become a field of type &lt;f0&gt;Varchar &lt;/f0&gt;with a length of 10 characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120859Z" creationid="Elisabetta Manuele" creationdate="20180310T120859Z">
+        <seg>Si dà il caso che la tabella di prova contenga solo nomi con una lunghezza massima di dieci caratteri, in tal modo può diventare un campo di tipo &lt;f0&gt;Varchar &lt;/f0&gt;con lunghezza di dieci caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It makes no sense, in a loan table for a library, to have a user number for which the user no longer exists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215600Z" creationid="Marco Marega" creationdate="20180222T215600Z">
@@ -13602,6 +13618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221632Z" creationid="Marco Marega" creationdate="20180303T221632Z">
         <seg>Con l'uso di UPDATE sono possibili altre sequenze di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other fields should also be checked for size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120813Z" creationid="Elisabetta Manuele" creationdate="20180310T120813Z">
+        <seg>e degli altri campi per appurarne la dimensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17070,6 +17094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting of the columns needs to be checked, especially for numeric fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120718Z" creationid="Elisabetta Manuele" creationdate="20180310T120718Z">
+        <seg>È necessario verificare la formattazione delle colonne, specialmente per i campi numerici, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The forms are created in exactly the same way as in Base itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193227Z" creationid="Elisabetta Manuele" creationdate="20180308T193227Z">
@@ -17810,6 +17842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T223136Z" creationid="Marco Marega" creationdate="20180303T223136Z">
         <seg>La chiave primaria viene inserita automaticamente nel campo &lt;f4&gt;ID&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary key must be set by using the context menu of its field name, in cases where it has not been created by the Wizard in the &lt;f0&gt;Copy Table&lt;/f0&gt; dialog as an additional field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121037Z" creationid="Elisabetta Manuele" creationdate="20180310T121037Z">
+        <seg>La chiave primaria deve essere assegnata tramite menu contestuale del relativo nome di campo, se non è stata generata come campo aggiuntivo tramite procedura guidata della finestra di dialogo &lt;f0&gt;Copia tabella&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
