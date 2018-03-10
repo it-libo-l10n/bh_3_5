@@ -19158,6 +19158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This allows problems of formatting and those involving the creation of primary keys to be recogni&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;z&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ed well in advance.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T122255Z" creationid="Elisabetta Manuele" creationdate="20180310T122255Z">
+        <seg>Ciò consente un'immediata perce&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;z&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ione dei problemi relativi alla formattazione e alla creazione delle chiavi primarie.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This allows you to create temporary records, which contain information for other actions to be carried out at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222456Z" creationid="Marco Marega" creationdate="20180222T222456Z">
