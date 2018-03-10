@@ -6286,6 +6286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting &lt;f0&gt;d&lt;/f0&gt;ata from one database to another</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121549Z" creationid="Elisabetta Manuele" creationdate="20180310T121549Z">
+        <seg>Converire &lt;f0&gt;d&lt;/f0&gt;ati da un database a un altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converting data from one database to another</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162135Z" creationid="Marina Latini" creationdate="20171206T162135Z">
@@ -18766,6 +18774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There you can carry out further formatting of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121528Z" creationid="Elisabetta Manuele" creationdate="20180310T121528Z">
+        <seg>Al suo interno è possibile effettuare un'ulteriore formattazione della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Dave Edmunds&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; must not be deleted – otherwise information required for the medi&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;a&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;I hear you knocking&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; will be missing&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160338Z" creationid="steevie" creationdate="20180216T160338Z">
@@ -20338,6 +20354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213712Z" creationid="Marco Marega" creationdate="20171216T213712Z">
         <seg>Per creare un campo di controllo tabella nel formulario principale, dovete ora selezionare il formulario principale nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create such a key, you must open the database for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121511Z" creationid="Elisabetta Manuele" creationdate="20180310T121511Z">
+        <seg>Per generare una chiave di questo tipo è necessario aprire il database per la modifica.</seg>
       </tuv>
     </tu>
     <tu>
