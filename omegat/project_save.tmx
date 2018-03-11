@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11736,8 +11736,8 @@
       <tuv lang="EN">
         <seg>Internal forms and reports can only be accessed by opening the database itself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181940Z" creationid="Elisabetta Manuele" creationdate="20180306T181940Z">
-        <seg>L'accesso ai formulari e ai rapporti (report) interni è possibile solo aprendo il database stesso.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T183643Z" creationid="Elisabetta Manuele" creationdate="20180306T181940Z">
+        <seg>L'accesso ai formulari e ai report (rapporti) interni è possibile solo aprendo il database stesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17832,8 +17832,8 @@
       <tuv lang="EN">
         <seg>The other data sources are listed by their registered names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181653Z" creationid="Elisabetta Manuele" creationdate="20180306T181653Z">
-        <seg>Le altre sono elencate secondo i propri nomi registrati.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T183534Z" creationid="Elisabetta Manuele" creationdate="20180306T181653Z">
+        <seg>Le altre sono elencate in base ai propri nomi registrati.</seg>
       </tuv>
     </tu>
     <tu>
