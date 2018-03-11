@@ -19136,8 +19136,8 @@
       <tuv lang="EN">
         <seg>They can continue to use the database during the development of further forms, and do not need to copy complicated external forms from one database into another.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193454Z" creationid="Elisabetta Manuele" creationdate="20180308T193454Z">
-        <seg>Possono continuare a lavorare al database anche mentre sviluppano altri formulari, senza la necessità di copiare complicati formulari esterni da un database in un altro.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T192347Z" creationid="Elisabetta Manuele" creationdate="20180308T193454Z">
+        <seg>Possono continuare a lavorare al database anche mentre sviluppano altri formulari, senza la necessità di copiare complicati formulari esterni da un database a un altro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19512,8 +19512,8 @@
       <tuv lang="EN">
         <seg>This could, for example, be useful for a database for an association where all committee members get the database but only one person can edit the data; the others can still view the addresses for their respective departments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193644Z" creationid="Elisabetta Manuele" creationdate="20180308T193644Z">
-        <seg>Questo può essere utile, per esempio, nel caso di un database per un'associazione in cui tutti i membri del comitato ottengano il database, ma solamente una persona sia autorizzata a modificare i dati, mentre gli altri possano comunque visualizzare gli indirizzi dei rispettivi reparti.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T192704Z" creationid="Elisabetta Manuele" creationdate="20180308T193644Z">
+        <seg>Questo può essere utile, per esempio, nel caso di un database per un'organizzazione, in cui tutti i membri del comitato ottengano il database, ma solamente una persona sia autorizzata a modificarne i dati, mentre gli altri possano comunque visualizzare gli indirizzi dei rispettivi reparti.</seg>
       </tuv>
     </tu>
     <tu>
