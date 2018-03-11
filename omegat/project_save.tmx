@@ -10280,8 +10280,8 @@
       <tuv lang="EN">
         <seg>If there are more records than will fit on the page, the next page will automatically be filled with the next set of records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121433Z" creationid="Elisabetta Manuele" creationdate="20180308T121433Z">
-        <seg>Se i record sono più numerosi del consentito per poter rientrare nella spazio della pagina, il successivo set di record occuperà automaticamente la pagina seguente.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191119Z" creationid="Elisabetta Manuele" creationdate="20180308T121433Z">
+        <seg>Se i record sono più numerosi del consentito per poter rientrare nello spazio della pagina, il successivo set di record occuperà automaticamente la pagina seguente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17704,8 +17704,8 @@
       <tuv lang="EN">
         <seg>The name for the database field &lt;f0&gt;Surname&lt;/f0&gt; is set here to &lt;f1&gt;&lt;Addresses.MailMergeQuery.1.Surname&gt;&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184238Z" creationid="Elisabetta Manuele" creationdate="20180307T184238Z">
-        <seg>Il nominativo assegnato al campo database &lt;f0&gt;Cognome&lt;/f0&gt; è qui indicato come &lt;f1&gt;&lt;Addresses.MailMergeQuery.1.Surname&gt;&lt;/f1&gt;. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T190837Z" creationid="Elisabetta Manuele" creationdate="20180307T184238Z">
+        <seg>Il nominativo assegnato al campo database &lt;f0&gt;Cognome&lt;/f0&gt; è qui indicato come &lt;f1&gt;&lt;Addresses.MailMergeQuery.1.Surname&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17904,8 +17904,8 @@
       <tuv lang="EN">
         <seg>The page will then be filled with data from successive records of the database, beginning with the first record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T115811Z" creationid="Elisabetta Manuele" creationdate="20180308T115811Z">
-        <seg>La pagina verrà popolata di dati estratti dai record successivi del database, a cominciare dal primo.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191057Z" creationid="Elisabetta Manuele" creationdate="20180308T115811Z">
+        <seg>La pagina verrà popolata con i dati estratti dai record successivi del database, a cominciare dal primo.</seg>
       </tuv>
     </tu>
     <tu>
