@@ -9064,8 +9064,8 @@
       <tuv lang="EN">
         <seg>Here the ID field, which is to be the primary key, is formatted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120926Z" creationid="Elisabetta Manuele" creationdate="20180310T120926Z">
-        <seg>Nel nostro caso il campo ID, che deve essere la chiave primaria, viene formattato.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T193529Z" creationid="Elisabetta Manuele" creationdate="20180310T120926Z">
+        <seg>Nel nostro caso il campo ID, che deve rappresentare la chiave primaria, viene formattato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13752,8 +13752,8 @@
       <tuv lang="EN">
         <seg>Other fields should also be checked for size.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120813Z" creationid="Elisabetta Manuele" creationdate="20180310T120813Z">
-        <seg>e degli altri campi per appurarne la dimensione.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T193449Z" creationid="Elisabetta Manuele" creationdate="20180310T120813Z">
+        <seg>oltre che degli altri campi, per appurarne la dimensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20880,8 +20880,8 @@
       <tuv lang="EN">
         <seg>Unfortunately this message does not describe the problem quite correctly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120312Z" creationid="Elisabetta Manuele" creationdate="20180310T120312Z">
-        <seg>Purtroppo il messaggio non fornisce una descrizione sufficientemente accurata del problema.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T193309Z" creationid="Elisabetta Manuele" creationdate="20180310T120312Z">
+        <seg>Purtroppo il messaggio non fornisce una descrizione sufficientemente esauriente del problema.</seg>
       </tuv>
     </tu>
     <tu>
