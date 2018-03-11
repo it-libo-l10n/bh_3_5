@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15896,8 +15896,8 @@
       <tuv lang="EN">
         <seg>The &lt;s0/&gt;Auto&lt;f1&gt;F&lt;/f1&gt;ormat button provides several pre-formatted table views.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183701Z" creationid="Elisabetta Manuele" creationdate="20180306T183701Z">
-        <seg>Il pulsante &lt;s0/&gt;&lt;f1&gt;F&lt;/f1&gt;ormattazione automatica presenta alcune visualizzazioni di tabelle con formato predefinito.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T184628Z" creationid="Elisabetta Manuele" creationdate="20180306T183701Z">
+        <seg>Il pulsante &lt;s0/&gt;&lt;f1&gt;F&lt;/f1&gt;ormattazione automatica presenta alcune viste di tabelle con formato predefinito.</seg>
       </tuv>
     </tu>
     <tu>
