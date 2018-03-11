@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -970,6 +970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183054Z" creationid="Marco Marega" creationdate="20171013T183054Z">
         <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Formulari&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Reports&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T180858Z" creationid="Alessia Mazzarini" creationdate="20180311T180858Z">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Rapporti&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;reate charts for displaying data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181410Z" creationid="Alessia Mazzarini" creationdate="20180311T181410Z">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;reare diagrammi per visualizzare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;CREATE TABLE "Test"&lt;/f0&gt;: Create a table with the name "Test".&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204132Z" creationid="Marco Marega" creationdate="20180219T204132Z">
@@ -2328,8 +2344,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Creating r&lt;/f0&gt;eports using the Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180213T192059Z" creationid="Alessia Mazzarini" creationdate="20180213T192059Z">
-        <seg>&lt;f0&gt;Creare r&lt;/f0&gt;apporti usando il Report Builder</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T180849Z" creationid="Alessia Mazzarini" creationdate="20180213T192059Z">
+        <seg>&lt;f0&gt;Creazione di r&lt;/f0&gt;apporti usando il Report Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2934,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;ake it possible to use data for printing labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181449Z" creationid="Alessia Mazzarini" creationdate="20180311T181449Z">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;endere possibile l' uso dei dati per stampare etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Mouse&lt;/f0&gt;: Self-explanatory; These events only takes place if the mouse is or was already within the field ("outside" corresponds to the javascript onMouseOut).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200742Z" creationid="Marco Marega" creationdate="20171017T200742Z">
@@ -3030,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;resent data in easy-to-read tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181318Z" creationid="Alessia Mazzarini" creationdate="20180311T181318Z">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;resentare i dati in tabelle facili da leggere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164450Z" creationid="Marina Latini" creationdate="20171207T164450Z">
@@ -3048,8 +3080,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;eports &lt;f1&gt;are used&lt;/f1&gt; &lt;f2&gt;to present&lt;/f2&gt; data in a way &lt;f3&gt;that makes it &lt;/f3&gt;readily understood by people without knowledge of the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180213T192337Z" creationid="Alessia Mazzarini" creationdate="20180213T192337Z">
-        <seg>&lt;f0&gt;I r&lt;/f0&gt;apporti &lt;f1&gt;servono&lt;/f1&gt; &lt;f2&gt;a presentare&lt;/f2&gt; data in a way &lt;f3&gt;that makes it &lt;/f3&gt;readily understood by people without knowledge of the database.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181213Z" creationid="Alessia Mazzarini" creationdate="20180213T192337Z">
+        <seg>&lt;f0&gt;I r&lt;/f0&gt;apporti &lt;f1&gt;servono&lt;/f1&gt; &lt;f2&gt;per presentare&lt;/f2&gt; i dati in maniera&lt;f3&gt;semplice&lt;/f3&gt;e facilmente comprensibile anche per coloro che non hanno conoscenze di database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14262,6 +14294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reports can:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181254Z" creationid="Alessia Mazzarini" creationdate="20180311T181254Z">
+        <seg>I rapporti possono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reports – presentation of data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090536Z" creationid="Marina Latini" creationdate="20171003T090536Z">
@@ -20418,6 +20458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175926Z" creationid="Elisabetta Manuele" creationdate="20180307T175926Z">
         <seg>Per correggere tali errori il blocco indirizzi creato nel secondo passaggio deve essere reso modificabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a report requires careful preparatory work on the underlying database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181642Z" creationid="Alessia Mazzarini" creationdate="20180311T181642Z">
+        <seg>La creazione di un rapporto richiede un attento lavoro preparatorio nel database sottostante.</seg>
       </tuv>
     </tu>
     <tu>
