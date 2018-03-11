@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12870,6 +12870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neither can a report present different data elements than those that are available in the underlying data source, as a form can do using list boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T185007Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
+        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente dati sottostante, al contrario dei formulari che possono farlo con i riquadri lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New database using the internal HSQL engine</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
@@ -14298,6 +14306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173058Z" creationid="Marina Latini" creationdate="20171205T173058Z">
         <seg>Rapporti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports are best prepared using queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T185121Z" creationid="Alessia Mazzarini" creationdate="20180311T185121Z">
+        <seg>Per preparare i rapporti, è consigliabile usare le interrogazioni.</seg>
       </tuv>
     </tu>
     <tu>
