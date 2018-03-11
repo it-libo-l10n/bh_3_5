@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16216,8 +16216,8 @@
       <tuv lang="EN">
         <seg>The Wizard initially recogni&lt;f0&gt;z&lt;/f0&gt;es only those database fields which have exactly the same names as those the Wizard uses.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175700Z" creationid="Elisabetta Manuele" creationdate="20180307T175700Z">
-        <seg>Inizialmente la procedura guidata ricono&lt;f0&gt;s&lt;/f0&gt;ce solo i campi database con lo stesso identico nome di quelli in essa già utilizzati.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T190334Z" creationid="Elisabetta Manuele" creationdate="20180307T175700Z">
+        <seg>Inizialmente la procedura guidata ricono&lt;f0&gt;s&lt;/f0&gt;ce solo i campi database con lo stesso identico nome di quelli già utilizzati al suo interno.</seg>
       </tuv>
     </tu>
     <tu>
