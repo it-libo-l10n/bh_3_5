@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ta as Fields&lt;/f2&gt;&lt;f3&gt;, as described i&lt;/f3&gt;n the previous section, is used to create mail merge fields in a &lt;s4/&gt;Writer document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185730Z" creationid="Elisabetta Manuele" creationdate="20180306T185730Z">
-        <seg>L'opzione &lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ti in campi&lt;/f2&gt;&lt;f3&gt;, come specificato n&lt;/f3&gt;ella sezione precedente, serve a generare campi per stampa in serie, in un &lt;s4/&gt;documento Writer.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185243Z" creationid="Elisabetta Manuele" creationdate="20180306T185730Z">
+        <seg>L'opzione &lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ti in campi&lt;/f2&gt;&lt;f3&gt;, come specificato n&lt;/f3&gt;ella sezione precedente, serve a generare campi per la stampa in serie, in un &lt;s4/&gt;documento Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,8 +7848,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;57&lt;/seq0&gt;: Double&lt;f1&gt;-&lt;/f1&gt;click on an inserted field &lt;f2&gt;to &lt;/f2&gt;show the properties of the Mail Merge fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185410Z" creationid="Elisabetta Manuele" creationdate="20180306T185410Z">
-        <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: doppio&lt;f1&gt;&lt;/f1&gt;clic sul comando di campo inserito &lt;f2&gt;per &lt;/f2&gt;visualizzare le proprietà dei Campi per stampa in serie</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185129Z" creationid="Elisabetta Manuele" creationdate="20180306T185410Z">
+        <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: doppio&lt;f1&gt;&lt;/f1&gt;clic sul comando di campo inserito &lt;f2&gt;per &lt;/f2&gt;visualizzare le proprietà dei Campi per la stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -11968,8 +11968,8 @@
       <tuv lang="EN">
         <seg>It is simpler to create such a field by selecting the column header of the table in the data source browser and dragging it into the document with the mouse.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185459Z" creationid="Elisabetta Manuele" creationdate="20180306T185459Z">
-        <seg>È più agevole creare tale comando di campo selezionando l'intestazione di colonna della tabella all'interno della finestra di esplorazione sorgenti dati e trascinandola nel documento.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185208Z" creationid="Elisabetta Manuele" creationdate="20180306T185459Z">
+        <seg>È più agevole creare tale comando di campo selezionando l'intestazione di colonna della tabella all'interno della finestra di esplorazione sorgenti dati, quindi trascinandola nel documento.</seg>
       </tuv>
     </tu>
     <tu>
