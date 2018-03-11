@@ -16104,8 +16104,8 @@
       <tuv lang="EN">
         <seg>The MailMerge field is inserted into the text document, here shown in the complete description which is made visible using &lt;f1&gt;View &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Field names&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122836Z" creationid="Elisabetta Manuele" creationdate="20180308T122836Z">
-        <seg>A questo punto il campo per la stampa in serie verrà inserito nel documento di testo, come illustrato nella descrizione dettagliata resa visibile tramite menu &lt;f1&gt;Visualizza &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Nomi di campo&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191454Z" creationid="Elisabetta Manuele" creationdate="20180308T122836Z">
+        <seg>A questo punto il campo per la stampa in serie verrà inserito nel documento di testo, come illustrato nella descrizione dettagliata resa visibile tramite il menu &lt;f1&gt;Visualizza &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Nomi di campo&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20824,8 +20824,8 @@
       <tuv lang="EN">
         <seg>Under these circumstances, "&lt;/f0&gt;&lt;f1&gt;Dear Sir/Madam,&lt;/f1&gt;&lt;f2&gt;" should appear so this is the condition you must insert.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123706Z" creationid="Elisabetta Manuele" creationdate="20180308T123624Z">
-        <seg>In tal caso è necessario ricorrere alla formula &lt;/f0&gt;&lt;f1&gt;Gentile signore/signora,&lt;/f1&gt;&lt;f2&gt; perciò </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191811Z" creationid="Elisabetta Manuele" creationdate="20180308T123624Z">
+        <seg>In tal caso è necessario ricorrere alla formula "&lt;/f0&gt;&lt;f1&gt;Gentile signore/signora,&lt;/f1&gt;&lt;f2&gt;" perciò </seg>
       </tuv>
     </tu>
     <tu>
