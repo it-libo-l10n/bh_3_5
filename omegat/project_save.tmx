@@ -9312,8 +9312,8 @@
       <tuv lang="EN">
         <seg>Hold the left mouse button down and drag the data that you want to turn into a database into the table area of the database browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115711Z" creationid="Elisabetta Manuele" creationdate="20180310T115711Z">
-        <seg>Tenendo premuto il pulsante sinistro del mouse trascinate quelli da trasformare in database nell'area della tabella contenuta nella finestra di esplorazione database.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T193136Z" creationid="Elisabetta Manuele" creationdate="20180310T115711Z">
+        <seg>Tenendo premuto il pulsante sinistro del mouse trascinate quelli da trasformare in database nell'area della tabella all'interno della finestra di esplorazione database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18568,8 +18568,8 @@
       <tuv lang="EN">
         <seg>The table name is "Names".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120010Z" creationid="Elisabetta Manuele" creationdate="20180310T120010Z">
-        <seg>denominata Nomi.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T193208Z" creationid="Elisabetta Manuele" creationdate="20180310T120010Z">
+        <seg>denominata "Nomi".</seg>
       </tuv>
     </tu>
     <tu>
