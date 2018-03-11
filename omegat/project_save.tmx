@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16368,8 +16368,8 @@
       <tuv lang="EN">
         <seg>The browser can be opened using &lt;f0&gt;View &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Data sources&lt;/f3&gt;, or by pressing the &lt;f4&gt;F4&lt;/f4&gt; key, or by using the corresponding symbol in the standard toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181547Z" creationid="Elisabetta Manuele" creationdate="20180306T181547Z">
-        <seg>È possibile aprirla tramite menu &lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Sorgenti dati&lt;/f3&gt;, premendo il tasto &lt;f4&gt;F4&lt;/f4&gt; o mediante il simbolo corrispondente nella barre degli strumenti standard.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T183434Z" creationid="Elisabetta Manuele" creationdate="20180306T181547Z">
+        <seg>È possibile aprirla tramite menu &lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Sorgenti dati&lt;/f3&gt;, premendo il tasto &lt;f4&gt;F4&lt;/f4&gt; o mediante il simbolo corrispondente nella barra degli strumenti standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,8 +20040,8 @@
       <tuv lang="EN">
         <seg>This means that the use of Base is not necessarily tied to the registration of databases in the configuration of LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T180434Z" creationid="Elisabetta Manuele" creationdate="20180306T180434Z">
-        <seg>Ciò significa che l'impiego di Base non è necessariamente connesso alla registrazione dei database secondo la configurazione di LibreOffice. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T183200Z" creationid="Elisabetta Manuele" creationdate="20180306T180434Z">
+        <seg>Ciò significa che l'impiego di Base non è necessariamente connesso alla registrazione dei database secondo la configurazione di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
