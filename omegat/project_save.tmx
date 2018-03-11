@@ -15472,8 +15472,8 @@
       <tuv lang="EN">
         <seg>That excludes the possibility of this paragraph appearing when the person is not female or there is no entered surname.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123818Z" creationid="Elisabetta Manuele" creationdate="20180308T123818Z">
-        <seg>Ciò comporta l'esclusione della possibilità che il paragrafo venga visualizzato se la persona non è di genere femminile, oppure in mancanza di un cognome.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191947Z" creationid="Elisabetta Manuele" creationdate="20180308T123818Z">
+        <seg>Ciò comporta l'esclusione della possibilità che il paragrafo venga visualizzato, se la persona non è di genere femminile o in mancanza di un cognome.</seg>
       </tuv>
     </tu>
     <tu>
