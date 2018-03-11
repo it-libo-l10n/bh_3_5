@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4712,8 +4712,8 @@
       <tuv lang="EN">
         <seg>After that the Mail Merge Wizard can be called up by using the corresponding button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190416Z" creationid="Elisabetta Manuele" creationdate="20180306T190416Z">
-        <seg>Dopodiché la procedura guidata della stampa in serie può essere richiamata tramite il pulsante corrispondente.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185452Z" creationid="Elisabetta Manuele" creationdate="20180306T190416Z">
+        <seg>Dopodiché la procedura guidata della stampa in serie potrà essere richiamata tramite il pulsante corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11128,8 +11128,8 @@
       <tuv lang="EN">
         <seg>In the above example, the &lt;f3&gt;Person&lt;/f3&gt; table from the &lt;f4&gt;Addresses &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;database&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;appears&lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191122Z" creationid="Elisabetta Manuele" creationdate="20180306T191037Z">
-        <seg>Nell'esempio sopra riportato viene rappresentata la tabella &lt;f3&gt;Persona&lt;/f3&gt; ricavata dal database &lt;f4&gt;Indirizzi&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185655Z" creationid="Elisabetta Manuele" creationdate="20180306T191037Z">
+        <seg>Nell'esempio sopra riportato viene rappresentata la tabella &lt;f3&gt;Persona&lt;/f3&gt; ricavata dal database &lt;f4&gt;Indirizzi&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21624,8 +21624,8 @@
       <tuv lang="EN">
         <seg>While the &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;d&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ata as Fields&lt;/f3&gt; option leads to the previous values being changed to the values for the new record, in the case of &lt;f4&gt;Insert data as Text&lt;/f4&gt;, the existing text remains unchanged.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190018Z" creationid="Elisabetta Manuele" creationdate="20180306T190018Z">
-        <seg>Mentre l'opzione &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;d&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ati come campi&lt;/f3&gt; comporta la modifica dei valori precedenti per il nuovo record, nel caso dell'opzione &lt;f4&gt;Inserisci dati come testo&lt;/f4&gt;, il testo esistente rimane invariato.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185332Z" creationid="Elisabetta Manuele" creationdate="20180306T190018Z">
+        <seg>Mentre l'opzione &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;d&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ati come campi&lt;/f3&gt; comporta la modifica dei valori precedenti per il nuovo record, nel caso dell'opzione &lt;f4&gt;Inserisci dati come testo&lt;/f4&gt; il testo esistente rimane invariato.</seg>
       </tuv>
     </tu>
     <tu>
