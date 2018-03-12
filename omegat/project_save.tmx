@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Chapter 6 &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180312T163404Z" creationid="Elisabetta Manuele" creationdate="20180312T163404Z">
+        <seg>&lt;f0&gt;Capitolo 3 &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chapter &lt;/f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;s4/&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151302Z" creationid="steevie" creationdate="20180205T151302Z">
