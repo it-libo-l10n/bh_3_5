@@ -10472,8 +10472,8 @@
       <tuv lang="EN">
         <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193318Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
-        <seg>Se dovete usare una interrogazione di questo tipo nel database, potere ordinare i dati creando prima a view from the query.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193508Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
+        <seg>Se dovete usare una interrogazione di questo tipo nel database, potere ordinare i dati creando prima una vista partendo dall'interrogazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15266,6 +15266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T171106Z" creationid="steevie" creationdate="20180226T170540Z">
         <seg>Una interrogazione così non è quindi adatta per l'uso giornaliero &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ma potrebbe essere necessaria nel &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;per operazioni di manutenzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such a view can always be sorted and filtered using the graphical user interface &lt;f0&gt;(GUI) &lt;/f0&gt;of Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193626Z" creationid="Alessia Mazzarini" creationdate="20180314T193626Z">
+        <seg>Una vista di questo tipo può sempre essere ordinata e filtrata usando l'interfaccia utente&lt;f0&gt;(GUI) &lt;/f0&gt;di Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20152,8 +20160,8 @@
       <tuv lang="EN">
         <seg>This means that queries in direct SQL mode should be avoided under these conditions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T183642Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
-        <seg>Questo vuol dire che le interrogazioni sql in queste circostanze vanno evitate.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193440Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
+        <seg>Questo vuol dire che le interrogazioni SQL in tali circostanze vanno evitate.</seg>
       </tuv>
     </tu>
     <tu>
