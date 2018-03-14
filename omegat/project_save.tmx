@@ -10446,6 +10446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T184131Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
+        <seg>Se dovete usare una interrogazione di questo tipo nel datase, potere ordinare i dati creando prima a view from the query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you now choose Data to Text, a Wizard appears to carry out the necessary formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182824Z" creationid="Elisabetta Manuele" creationdate="20180306T182824Z">
