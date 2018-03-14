@@ -17478,6 +17478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The initial &lt;f0&gt;window&lt;/f0&gt; of the Report Builder &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;45&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;shows three parts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T191015Z" creationid="Alessia Mazzarini" creationdate="20180314T191015Z">
+        <seg>La finestra &lt;f0&gt;iniziale&lt;/f0&gt; del Report Builder &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;45&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;presenta tre parti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The insertion of this toolbar can cause a brief rightward shift of the form as it builds up on the screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T211823Z" creationid="Marco Marega" creationdate="20171205T211823Z">
