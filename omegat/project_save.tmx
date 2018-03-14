@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Depending on the version of LibreOffice that you are using, the Report Builder can sometimes crash &lt;/f0&gt;&lt;f1&gt;during editing.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T184619Z" creationid="Alessia Mazzarini" creationdate="20180314T184619Z">
+        <seg>&lt;f0&gt;A seconda della versione di LibreOffice che si utilizza, il Report Builder potrebbe qualche volta interrompersi in maniera anomala &lt;/f0&gt;&lt;f1&gt;durante le modifiche.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;E&lt;/f0&gt;nd by saving the entire form, and finally the database itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214704Z" creationid="Marco Marega" creationdate="20171213T214704Z">
