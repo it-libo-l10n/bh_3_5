@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10968,8 +10968,8 @@
       <tuv lang="EN">
         <seg>In particular, if sorting within the report is required, always use a query that makes provision for sorting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T190349Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
-        <seg>In particulare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare una interrogazione che provveda all'ordine.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T182024Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
+        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare una interrogazione che provveda all'ordine.</seg>
       </tuv>
     </tu>
     <tu>
