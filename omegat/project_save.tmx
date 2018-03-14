@@ -17302,6 +17302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The functionality of completed reports is not affected even if they were created under another version, in which the problem does not occur.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T184955Z" creationid="Alessia Mazzarini" creationdate="20180314T184955Z">
+        <seg>La funzionalità dei rapporti non viene influenzata, anche se creati all'interno di una versione differente, dove il problema non si presentava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The functions of the new version are more extensive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203805Z" creationid="Marco Marega" creationdate="20180219T203805Z">
