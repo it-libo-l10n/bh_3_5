@@ -5454,6 +5454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the same time the Add fields dialog is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T191731Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
+        <seg>Contemporaneamente appare la finestra di dialogo Aggiungi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time you can choose the Sort order.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140656Z" creationid="Marco Marega" creationdate="20180218T140656Z">
@@ -13386,6 +13394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140428Z" creationid="Marco Marega" creationdate="20180218T140428Z">
         <seg>Nella finestra di dialogo Indici (Figura &lt;t0&gt;9&lt;/t0&gt;), fate clic su &lt;f1&gt;Nuovo indice&lt;/f1&gt; per creare un indice in aggiunta alla chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the left is the current division of the report into Page header, Detail, and Page footer; in the middle are the corresponding areas where the content will be entered; and, to the right, the properties of these regions are shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T191611Z" creationid="Alessia Mazzarini" creationdate="20180314T191611Z">
+        <seg>A sinistra viene mostrata la divisione corrente del rapporto in Intestazione pagina, Dettaglio e Piè di pagina; nel mezzo le aree corrispondenti dove verrà inserito il testo; e, a destra, vengono mostrate le proprietà di queste aree.</seg>
       </tuv>
     </tu>
     <tu>
