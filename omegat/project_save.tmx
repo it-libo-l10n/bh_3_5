@@ -10710,6 +10710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to saving within the Report Builder itself after each significant step, you should also save&lt;/f0&gt;&lt;f1&gt; the whole database.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T183432Z" creationid="Alessia Mazzarini" creationdate="20180314T183432Z">
+        <seg>Oltre a salvare all'interno dello stesso Report Builder dopo ogni cambiamento significativo, è consigliabile salvare anche &lt;/f0&gt;&lt;f1&gt; l'intero database.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the properties described on page &lt;bf0&gt;70&lt;/bf0&gt;, the following features are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202756Z" creationid="Marco Marega" creationdate="20171109T202756Z">
@@ -20080,8 +20088,8 @@
       <tuv lang="EN">
         <seg>This means that queries in direct SQL mode should be avoided under these conditions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T182606Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
-        <seg>Questo vuol dire che le interrogazioni sql vanno evitate in queste circostanze.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T183642Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
+        <seg>Questo vuol dire che le interrogazioni sql in queste circostanze vanno evitate.</seg>
       </tuv>
     </tu>
     <tu>
