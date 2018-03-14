@@ -20600,8 +20600,8 @@
       <tuv lang="EN">
         <seg>To create a report requires careful preparatory work on the underlying database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181642Z" creationid="Alessia Mazzarini" creationdate="20180311T181642Z">
-        <seg>La creazione di un rapporto richiede un attento lavoro preparatorio nel database sottostante.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T192908Z" creationid="Alessia Mazzarini" creationdate="20180311T181642Z">
+        <seg>La creazione di un rapporto richiede un attento lavoro preparatorio sul database sottostante.</seg>
       </tuv>
     </tu>
     <tu>
