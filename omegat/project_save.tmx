@@ -13400,8 +13400,8 @@
       <tuv lang="EN">
         <seg>On the left is the current division of the report into Page header, Detail, and Page footer; in the middle are the corresponding areas where the content will be entered; and, to the right, the properties of these regions are shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T191611Z" creationid="Alessia Mazzarini" creationdate="20180314T191611Z">
-        <seg>A sinistra viene mostrata la divisione corrente del rapporto in Intestazione pagina, Dettaglio e Piè di pagina; nel mezzo le aree corrispondenti dove verrà inserito il testo; e, a destra, vengono mostrate le proprietà di queste aree.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T194246Z" creationid="Alessia Mazzarini" creationdate="20180314T191611Z">
+        <seg>A sinistra viene mostrata la divisione corrente del rapporto in Intestazione pagina, Dettaglio e Piè di pagina; nel mezzo le aree corrispondenti dove verrà inserito il contenuto; e, a destra, vengono mostrate le proprietà di queste aree.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17504,8 +17504,8 @@
       <tuv lang="EN">
         <seg>The initial &lt;f0&gt;window&lt;/f0&gt; of the Report Builder &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;45&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;shows three parts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T191015Z" creationid="Alessia Mazzarini" creationdate="20180314T191015Z">
-        <seg>La finestra &lt;f0&gt;iniziale&lt;/f0&gt; del Report Builder &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;45&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;presenta tre parti.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T194149Z" creationid="Alessia Mazzarini" creationdate="20180314T191015Z">
+        <seg>La finestra &lt;f0&gt;iniziale&lt;/f0&gt; del Report Builder &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;45&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;è divisa in tre parti.</seg>
       </tuv>
     </tu>
     <tu>
