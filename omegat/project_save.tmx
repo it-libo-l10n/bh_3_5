@@ -10472,8 +10472,8 @@
       <tuv lang="EN">
         <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T184131Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
-        <seg>Se dovete usare una interrogazione di questo tipo nel datase, potere ordinare i dati creando prima a view from the query.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193318Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
+        <seg>Se dovete usare una interrogazione di questo tipo nel database, potere ordinare i dati creando prima a view from the query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11016,8 +11016,8 @@
       <tuv lang="EN">
         <seg>In particular, if sorting within the report is required, always use a query that makes provision for sorting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T182024Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
-        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare una interrogazione che provveda all'ordine.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193249Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
+        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare una interrogazione che si occupi dell'ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12944,8 +12944,8 @@
       <tuv lang="EN">
         <seg>Neither can a report present different data elements than those that are available in the underlying data source, as a form can do using list boxes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T185007Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
-        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente dati sottostante, al contrario dei formulari che possono farlo con i riquadri lista.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193054Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
+        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente dati sottostante, al contrario dei formulari che possono invece farlo con caselle di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
