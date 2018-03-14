@@ -2408,8 +2408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Depending on the version of LibreOffice that you are using, the Report Builder can sometimes crash &lt;/f0&gt;&lt;f1&gt;during editing.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T184619Z" creationid="Alessia Mazzarini" creationdate="20180314T184619Z">
-        <seg>&lt;f0&gt;A seconda della versione di LibreOffice che si utilizza, il Report Builder potrebbe qualche volta interrompersi in maniera anomala &lt;/f0&gt;&lt;f1&gt;durante le modifiche.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193838Z" creationid="Alessia Mazzarini" creationdate="20180314T184619Z">
+        <seg>&lt;f0&gt;A seconda della versione di LibreOffice che si utilizza, il Report Builder potrebbe qualche volta arrestarsi in maniera anomala &lt;/f0&gt;&lt;f1&gt;durante le modifiche.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10472,8 +10472,8 @@
       <tuv lang="EN">
         <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193508Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
-        <seg>Se dovete usare una interrogazione di questo tipo nel database, potere ordinare i dati creando prima una vista partendo dall'interrogazione.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193708Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
+        <seg>Se dovete usare una interrogazione di questo tipo nel database, potere ordinare i dati creando prima una vista a partire dall'interrogazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17344,8 +17344,8 @@
       <tuv lang="EN">
         <seg>The functionality of completed reports is not affected even if they were created under another version, in which the problem does not occur.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T184955Z" creationid="Alessia Mazzarini" creationdate="20180314T184955Z">
-        <seg>La funzionalità dei rapporti non viene influenzata, anche se creati all'interno di una versione differente, dove il problema non si presentava.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193947Z" creationid="Alessia Mazzarini" creationdate="20180314T184955Z">
+        <seg>La funzionalità dei rapporti non viene influenzata, anche se questi sono stati creati all'interno di una versione differente, dove il problema non si presenta.</seg>
       </tuv>
     </tu>
     <tu>
