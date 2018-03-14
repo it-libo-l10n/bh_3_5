@@ -20920,8 +20920,8 @@
       <tuv lang="EN">
         <seg>Unlike a form, a report cannot include subreports and thus incorporate additional data sources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T183545Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
-        <seg>A differenza di un formulario, un rapporto non può includere dei subreport e quindi incorporare sorgenti di dati addizionali.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T182357Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
+        <seg>A differenza di un formulario, un rapporto non può includere dei subreport e quindi incorporare sorgenti dati addizionali.</seg>
       </tuv>
     </tu>
     <tu>
