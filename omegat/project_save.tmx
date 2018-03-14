@@ -3566,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When using the Report Builder, you should frequently save your work during editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T183120Z" creationid="Alessia Mazzarini" creationdate="20180314T183120Z">
+        <seg>&lt;f0&gt;Salvare di frequente le modifiche al lavoro mentre si utilizza il Report Builder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Yes&lt;/f0&gt; will exclude any modification of the value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203532Z" creationid="Marco Marega" creationdate="20171016T203532Z">
