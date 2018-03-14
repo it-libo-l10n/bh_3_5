@@ -15886,6 +15886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;u&lt;/f0&gt;ser &lt;f1&gt;i&lt;/f1&gt;nterface of the Report Builder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T185342Z" creationid="Alessia Mazzarini" creationdate="20180314T185342Z">
+        <seg>L' &lt;f0&gt;I&lt;/f0&gt;nterfaccia&lt;f1&gt;u&lt;/f1&gt;tente del Report Builder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;Index field&lt;/f1&gt; specifies which field or fields are to be used for this index.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140631Z" creationid="Marco Marega" creationdate="20180218T140631Z">
