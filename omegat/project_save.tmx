@@ -3454,6 +3454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;start&lt;/f1&gt; the Report Builder &lt;f2&gt;from within Base, use&lt;/f2&gt; &lt;f3&gt;Reports &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Create Report in Design View&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T185926Z" creationid="Alessia Mazzarini" creationdate="20180314T185718Z">
+        <seg>&lt;f0&gt;Per &lt;/f0&gt;&lt;f1&gt;aprire&lt;/f1&gt; il Report Builder &lt;f2&gt;dall'interno di Base, scegli&lt;/f2&gt; &lt;f3&gt;Rapporti&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Crea rapporti in visualizzazione progettazione&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To avoid error messages from the database as far as possible, since these may not always be comprehensible to the user, the &lt;/f0&gt;&lt;f1&gt;No Action &lt;/f1&gt;&lt;f2&gt;option should definitely be avoided.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223908Z" creationid="Marco Marega" creationdate="20180228T223908Z">
