@@ -10472,8 +10472,8 @@
       <tuv lang="EN">
         <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193708Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
-        <seg>Se dovete usare una interrogazione di questo tipo nel database, potere ordinare i dati creando prima una vista a partire dall'interrogazione.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T092649Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
+        <seg>Se dovete usare un'interrogazione di questo tipo nel database, potere ordinare i dati creando prima una vista a partire dall'interrogazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11016,8 +11016,8 @@
       <tuv lang="EN">
         <seg>In particular, if sorting within the report is required, always use a query that makes provision for sorting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193249Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
-        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare una interrogazione che si occupi dell'ordinamento.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T092633Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
+        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare un'interrogazione che si occupi dell'ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
