@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;Macro reserved expression&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211324Z" creationid="Marco Marega" creationdate="20180315T211324Z">
+        <seg>&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;espressione riservata della Macro&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;f14&gt;Figure&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; also contains an extra line for the entry of &lt;/f18&gt;&lt;f19&gt;a &lt;/f19&gt;&lt;f20&gt;new record, with the ID field already marked as &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T170432Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
@@ -1110,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f18&gt;&lt;/f17&gt;&lt;f20&gt;&lt;f21&gt;Macro number&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211341Z" creationid="Marco Marega" creationdate="20180315T211341Z">
+        <seg>&lt;/f18&gt;&lt;/f17&gt;&lt;f20&gt;&lt;f21&gt;numero all'interno della Macro&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;All specified actions apply to the Address table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, which contains the foreign key Street&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;_&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155807Z" creationid="steevie" creationdate="20180207T153403Z">
@@ -1154,6 +1170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162542Z" creationid="manuel" creationdate="20180301T162542Z">
         <seg>&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;AVG("Numero")&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; mostra la media del contenuto di una colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f23&gt;&lt;/f22&gt;&lt;f25&gt;&lt;f26&gt;Macro character string&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211403Z" creationid="Marco Marega" creationdate="20180315T211403Z">
+        <seg>&lt;/f23&gt;&lt;/f22&gt;&lt;f25&gt;&lt;f26&gt;stringa di caratteri all'interno della Macro&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085130Z" creationid="Marina Latini" creationdate="20171003T085130Z">
         <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Jean Hollis Weber&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Macro comment&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211258Z" creationid="Marco Marega" creationdate="20180315T211258Z">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;commento della Macro&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T170819Z" creationid="Manuel Frassinetti" creationdate="20171202T165910Z">
         <seg>&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;I dati potrebbero non avere  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;lo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; stesso significato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;Macro operator&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211428Z" creationid="Marco Marega" creationdate="20180315T211308Z">
+        <seg>&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;operatore all'interno della Macro&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;br14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180106T180201Z" creationid="osvaldo" creationdate="20180106T180201Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Gli articoli in prestito sono indicati nella parte inferiore del modulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Macro designation&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211250Z" creationid="Marco Marega" creationdate="20180315T211250Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;dichiarazione della Macro&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T092540Z" creationid="Alessia Mazzarini" creationdate="20180311T181449Z">
         <seg>&lt;f0&gt;R&lt;/f0&gt;endere possibile l'uso dei dati per stampare etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Macros in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;the PDF and ODT versions of &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;this chapter are colored according to the rules of the LibreOffice macro editor:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211230Z" creationid="Marco Marega" creationdate="20180315T211230Z">
+        <seg>Nelle versioni PDF e ODT di questo capitolo, le &lt;f0&gt;Macro &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sono colorate allo stesso modo delle regole seguite dall'editor delle macro di LibreOffice:&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
