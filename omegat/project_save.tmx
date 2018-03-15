@@ -15294,6 +15294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some basic principles for the use of Basic code in LibreOffice:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T205314Z" creationid="Marco Marega" creationdate="20180315T205314Z">
+        <seg>Alcuni principi di base per l'uso del codice Basic in LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some commands only make sense when dealing with an external HSQLDB database (Specify User, etc.).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145427Z" creationid="Marco Marega" creationdate="20180218T145427Z">
@@ -16994,6 +17002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214947Z" creationid="Marco Marega" creationdate="20180227T214947Z">
         <seg>Una volta che la relazione è stata creata, il database non lo permette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database file must be closed and then reopened after the creation of the first macro module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T205221Z" creationid="Marco Marega" creationdate="20180315T205221Z">
+        <seg>Dopo la creazione del primo modulo di macro, il database deve essere chiuso e riaperto.</seg>
       </tuv>
     </tu>
     <tu>
