@@ -6038,6 +6038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the Report Builder looks for its data source in the first table in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T213913Z" creationid="Alessia Mazzarini" creationdate="20180315T213913Z">
+        <seg>Per impostazione predefinita, il Report Builder cerca la sorgente dati nella prima tabella del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the label is not broken up.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
