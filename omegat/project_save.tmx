@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Main&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204651Z" creationid="Marco Marega" creationdate="20180315T204651Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Main&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Loan &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;form has been extended to show additional information:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221934Z" creationid="osvaldo" creationdate="20180103T221934Z">
@@ -2674,6 +2682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134252Z" creationid="Marco Marega" creationdate="20171014T134252Z">
         <seg>&lt;f0&gt;Invocando&lt;/f0&gt;il Navigatore formulario per impostare un formulario, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;ts input area already contains the Start and the End for a &lt;f1&gt;subroutine&lt;/f1&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204646Z" creationid="Marco Marega" creationdate="20180315T204543Z">
+        <seg>&lt;f0&gt;La&lt;/f0&gt; sua area di inserimento contiene l'Inizio e la Fine di una &lt;f1&gt;subroutine&lt;/f1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,8 +5352,8 @@
       <tuv lang="EN">
         <seg>As soon as this is given, the macro editor appears.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204536Z" creationid="Marco Marega" creationdate="20180315T204536Z">
-        <seg>Non appena questo viene confermato, appare l'editore delle macro.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204547Z" creationid="Marco Marega" creationdate="20180315T204536Z">
+        <seg>Non appena questo viene confermato, appare l'editor delle macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,6 +14386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214607Z" creationid="Marco Marega" creationdate="20180222T214607Z">
         <seg>REFERENCES "nome_altra_tabella" ( "Nome_campo 1" [,"Nome_campo 2"...])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204648Z" creationid="Marco Marega" creationdate="20180315T204648Z">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
       </tuv>
     </tu>
     <tu>
