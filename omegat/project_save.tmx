@@ -12654,6 +12654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros should always be tested on larger databases to determine their effect on &lt;f6&gt;performance&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203141Z" creationid="Marco Marega" creationdate="20180315T203141Z">
+        <seg>Le Macro dovrebbero essere sempre provate su database di grandi dimensioni al fine di stabilire il loro effetto sulle &lt;f6&gt;prestazioni&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mail merge</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160229Z" creationid="Marina Latini" creationdate="20171206T160229Z">
