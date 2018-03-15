@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3942,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Macros&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T201627Z" creationid="Marco Marega" creationdate="20180315T201627Z">
+        <seg>&lt;f4&gt;Macro&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;R&lt;/f5&gt;ight&lt;f6&gt;-&lt;/f6&gt;click to replace the selected field with a different type of field, using the context menu &lt;f7&gt;(Figure &lt;/f7&gt;&lt;f8&gt;&lt;t9&gt;35&lt;/t9&gt;&lt;/f8&gt;&lt;f10&gt;).&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215500Z" creationid="Marco Marega" creationdate="20171210T215500Z">
@@ -5478,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At times, however, they may become necessary for:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T201817Z" creationid="Marco Marega" creationdate="20180315T201817Z">
+        <seg>Alle volte, però, queste diventano necessarie per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attention</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222159Z" creationid="Marco Marega" creationdate="20180228T222159Z">
@@ -6176,8 +6192,8 @@
       <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;9&lt;/f0&gt;&lt;f1&gt; &lt;s2/&gt;&lt;/f1&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T225449Z" creationid="Marco Marega" creationdate="20180303T225449Z">
-        <seg>Chapter &lt;f0&gt;9&lt;/f0&gt;&lt;f1&gt; &lt;s2/&gt;&lt;/f1&gt;&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T201624Z" creationid="Marco Marega" creationdate="20180303T225449Z">
+        <seg>Capitolo &lt;f0&gt;9&lt;/f0&gt;&lt;f1&gt; &lt;s2/&gt;&lt;/f1&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,6 +11054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In principle a database in Base can manage without macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T201757Z" creationid="Marco Marega" creationdate="20180315T201757Z">
+        <seg>Teoricamente in Base un database può essere gestito senza macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In principle a query &lt;f0&gt;that&lt;/f0&gt; produces an error message in the underlying database cannot be saved &lt;f1&gt;until the error is corrected&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181156Z" creationid="Manuel Frassinetti" creationdate="20171130T181156Z">
@@ -12810,6 +12834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215622Z" creationid="Marco Marega" creationdate="20171229T215622Z">
         <seg>Maggiori informazioni su questo argomento &lt;f0&gt;si trovano &lt;/f0&gt;nel &lt;f1&gt;Capitolo 5,&lt;/f1&gt; &lt;f2&gt;Ricerche&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More effective prevention of input errors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T201901Z" creationid="Marco Marega" creationdate="20180315T201901Z">
+        <seg>Prevenire più efficacemente errori di inserimento</seg>
       </tuv>
     </tu>
     <tu>
