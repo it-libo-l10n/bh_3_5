@@ -5488,8 +5488,8 @@
       <tuv lang="EN">
         <seg>At the same time the Add fields dialog is displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T191731Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
-        <seg>Contemporaneamente appare la finestra di dialogo Aggiungi campi.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203702Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
+        <seg>Contemporaneamente viene visualizzata la finestra di dialogo Aggiungi campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8602,6 +8602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153417Z" creationid="Marco Marega" creationdate="20180127T153417Z">
         <seg>Per questo motivo i campi previsti nella tabella comprendono: il titolo, il codice ISBN, un'immagine della copertina e l'anno di pubblicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, the dialog opens at the Data tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203602Z" creationid="Alessia Mazzarini" creationdate="20180315T203602Z">
+        <seg>Per questa ragione, la finestra di dialogo si apre sulla scheda Dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11976,8 +11984,8 @@
       <tuv lang="EN">
         <seg>It creates fields with their corresponding field labels.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203307Z" creationid="Alessia Mazzarini" creationdate="20180315T202531Z">
-        <seg>Genera dei campi con le rispettive etichette campo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203737Z" creationid="Alessia Mazzarini" creationdate="20180315T202531Z">
+        <seg>La finestra genera dei campi con le rispettive etichette campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19736,8 +19744,8 @@
       <tuv lang="EN">
         <seg>This dialog corresponds to the one in form creation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T202409Z" creationid="Alessia Mazzarini" creationdate="20180315T202409Z">
-        <seg>Questa finestra di dialogo corrisponde a quella della creazione formulario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203719Z" creationid="Alessia Mazzarini" creationdate="20180315T202409Z">
+        <seg>Questa finestra di dialogo corrisponde a quella che appare nella creazione formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21944,8 +21952,8 @@
       <tuv lang="EN">
         <seg>Without content from the database, a report has no proper function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203251Z" creationid="Alessia Mazzarini" creationdate="20180315T203251Z">
-        <seg>Senza un contenuto estratto dal database, un rapporto non funziona adeguatamente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203518Z" creationid="Alessia Mazzarini" creationdate="20180315T203251Z">
+        <seg>Per funzionare correttamente, un rapporto ha bisogno di contenuto dal database.</seg>
       </tuv>
     </tu>
     <tu>
