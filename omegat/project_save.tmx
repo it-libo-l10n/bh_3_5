@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12026,6 +12026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122325Z" creationid="Elisabetta Manuele" creationdate="20180308T122325Z">
         <seg>È consigliabile, specie nei primi tentativi, scegliere &lt;f2&gt;File&lt;/f2&gt; come &lt;f1&gt;destinazione&lt;/f1&gt;, che consente di salvare le etichette come documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is always better to start off by fully utili&lt;f5&gt;z&lt;/f5&gt;ing the possibilities of the database and the provisions for configuring forms before trying to provide additional functionality with macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203009Z" creationid="Marco Marega" creationdate="20180315T203009Z">
+        <seg>Prima di provare a fornire funzionalità aggiuntive con le macro, è sempre preferibile iniziare utilizzando appieno &lt;f5&gt;&lt;/f5&gt; le possibilità offerte dal database e gli strumenti previsti per configurare i formulari.</seg>
       </tuv>
     </tu>
     <tu>
