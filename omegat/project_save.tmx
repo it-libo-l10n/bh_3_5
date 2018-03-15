@@ -4286,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A data source has to be chosen before the report can be provided with fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T214913Z" creationid="Alessia Mazzarini" creationdate="20180315T214913Z">
+        <seg>Prima di inserire i campi nel rapporto, è necessario scegliere una sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A database for a library might contain a table for authors’ names and a table for the media.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215408Z" creationid="Marco Marega" creationdate="20180126T215408Z">
