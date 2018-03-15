@@ -4574,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A view has been chosen for the basis of this report, &lt;f6&gt;so &lt;/f6&gt;no filter will be applied; &lt;f7&gt;i&lt;/f7&gt;t has already been included in the query underlying the view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T212730Z" creationid="Alessia Mazzarini" creationdate="20180315T212657Z">
+        <seg>Una visualizzazione è stata scelta per la base di questo rapporto, &lt;f6&gt;di conseguenza &lt;/f6&gt;non verrà applicato alcun filtro; &lt;f7&gt;i&lt;/f7&gt;l filtro è già stato incluso nell'interrogazione sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A window appears &lt;f8&gt;(Figure &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;23&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;); &lt;/f11&gt;&lt;f12&gt;it&lt;/f12&gt; shows only one folder, labeled &lt;f13&gt;Forms&lt;/f13&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T134728Z" creationid="Marco Marega" creationdate="20171014T134728Z">
