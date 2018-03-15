@@ -5334,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as this is given, the macro editor appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204536Z" creationid="Marco Marega" creationdate="20180315T204536Z">
+        <seg>Non appena questo viene confermato, appare l'editore delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as you have relationships between tables, a specially designed form is better.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T224230Z" creationid="Marco Marega" creationdate="20180303T224230Z">
@@ -17930,6 +17938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224622Z" creationid="Marco Marega" creationdate="20180112T224622Z">
         <seg>Più relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name can be altered later if desired.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204223Z" creationid="Marco Marega" creationdate="20180315T204223Z">
+        <seg>Se lo desiderate, il nome potrà essere modificato in seguito.</seg>
       </tuv>
     </tu>
     <tu>
