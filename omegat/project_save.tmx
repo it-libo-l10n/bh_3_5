@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3658,6 +3658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T152036Z" creationid="Marina Latini" creationdate="20171207T152036Z">
         <seg>&lt;f0&gt;Potete&lt;/f0&gt; ottenere &lt;is1/&gt;assistenza in rete&lt;ie2/&gt; dalla comunità attraverso le mailing list &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;il sito web di LibreOffice Ask&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You&lt;/f0&gt; must decide for &lt;f1&gt;your&lt;/f1&gt;sel&lt;f2&gt;f&lt;/f2&gt; how intensively y&lt;f3&gt;ou&lt;/f3&gt; wish to use macros in Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T202424Z" creationid="Marco Marega" creationdate="20180315T202424Z">
+        <seg>&lt;f0&gt;Dovete&lt;/f0&gt; decidere &lt;f1&gt;voi &lt;/f1&gt;stessi&lt;f2&gt;&lt;/f2&gt; quanto intensamente &lt;f3&gt;&lt;/f3&gt; desiderate usare le macro in Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12618,6 +12626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202127Z" creationid="Marco Marega" creationdate="20171015T202127Z">
         <seg>Le macro quindi vengono eseguite due volte di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros can improve usability but are always associated with small reductions in the speed of the program, and sometimes with larger ones (when coded &lt;f4&gt;poor&lt;/f4&gt;ly).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T202657Z" creationid="Marco Marega" creationdate="20180315T202657Z">
+        <seg>Le Macro possono migliorare l'usabilità, ma sono sempre associate a lievi riduzioni di velocità del programma, che alle volte sono pesanti (se il codice è scritto &lt;f4&gt;male&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
