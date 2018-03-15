@@ -2352,8 +2352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Creating r&lt;/f0&gt;eports using the Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T180849Z" creationid="Alessia Mazzarini" creationdate="20180213T192059Z">
-        <seg>&lt;f0&gt;Creazione di r&lt;/f0&gt;apporti usando il Report Builder</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T084649Z" creationid="Alessia Mazzarini" creationdate="20180213T192059Z">
+        <seg>&lt;f0&gt;Creare r&lt;/f0&gt;apporti con la procedura guidata per la creazione di rapporti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,8 +3080,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;roduce form letters such as bills, recall notices, or notifications to people joining or leaving an association</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T183119Z" creationid="Alessia Mazzarini" creationdate="20180311T182641Z">
-        <seg>&lt;f0&gt;P&lt;/f0&gt;rodurre lettere prestampate come fatture, notifiche di richiamo, o comunicazioni a persone che entrano a far parte o lasciano un' associazione</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T084719Z" creationid="Alessia Mazzarini" creationdate="20180311T182641Z">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;rodurre lettere prestampate come fatture, notifiche di richiamo, o comunicazioni a persone che entrano a far parte o lasciano un'associazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -3104,8 +3104,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;eports &lt;f1&gt;are used&lt;/f1&gt; &lt;f2&gt;to present&lt;/f2&gt; data in a way &lt;f3&gt;that makes it &lt;/f3&gt;readily understood by people without knowledge of the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181213Z" creationid="Alessia Mazzarini" creationdate="20180213T192337Z">
-        <seg>&lt;f0&gt;I r&lt;/f0&gt;apporti &lt;f1&gt;servono&lt;/f1&gt; &lt;f2&gt;per presentare&lt;/f2&gt; i dati in maniera&lt;f3&gt;semplice&lt;/f3&gt;e facilmente comprensibile anche per coloro che non hanno conoscenze di database.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T084713Z" creationid="Alessia Mazzarini" creationdate="20180213T192337Z">
+        <seg>&lt;f0&gt;I r&lt;/f0&gt;apporti &lt;f1&gt;servono&lt;/f1&gt; &lt;f2&gt;per presentare&lt;/f2&gt; i dati in maniera&lt;f3&gt;semplice&lt;/f3&gt;e facilmente comprensibile anche per coloro che non hanno conoscenze di database</seg>
       </tuv>
     </tu>
     <tu>
@@ -21016,8 +21016,8 @@
       <tuv lang="EN">
         <seg>Unlike a form, a report cannot include subreports and thus incorporate additional data sources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T182357Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
-        <seg>A differenza di un formulario, un rapporto non può includere dei subreport e quindi incorporare sorgenti dati addizionali.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T084807Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
+        <seg>A differenza di un formulario, un rapporto non può includere dei sottorapporti e quindi incorporare sorgenti dati addizionali.</seg>
       </tuv>
     </tu>
     <tu>
