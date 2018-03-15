@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2634,6 +2634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Sezione del sito web di destinazione al quale indirizzare, se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Functions, reserved expressions, and similar elements are not case-sensitive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T205947Z" creationid="Marco Marega" creationdate="20180315T205947Z">
+        <seg>&lt;f0&gt;Nomi di Funzioni, espressioni riservate ed elementi simili non distinguono tra lettere maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12626,6 +12634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163718Z" creationid="Marina Latini" creationdate="20171206T163718Z">
         <seg>Numerazione delle righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lines have no line numbers and must end with a hard return.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T205810Z" creationid="Marco Marega" creationdate="20180315T205810Z">
+        <seg>Le righe non sono numerate e devono terminare con un ritorno a capo (Invio).</seg>
       </tuv>
     </tu>
     <tu>
