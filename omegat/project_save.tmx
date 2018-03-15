@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3538,6 +3538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T183935Z" creationid="Marco Marega" creationdate="20171014T183935Z">
         <seg>&lt;f0&gt;URL&lt;/f0&gt;: Destinazione dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Under &lt;/f0&gt;&lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Security &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Macro security&lt;/f10&gt;&lt;f11&gt; the security level should be reduced to Medium.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204947Z" creationid="Marco Marega" creationdate="20180315T204947Z">
+        <seg>&lt;f0&gt;Sotto &lt;/f0&gt;&lt;f1&gt;Strumenti &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Opzioni &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Sicurezza &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Sicurezza delle Macro &lt;/f10&gt;&lt;f11&gt; il livello di sicurezza dovrebbe essere ridotto a Medio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Sub</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204700Z" creationid="Marco Marega" creationdate="20180315T204700Z">
+        <seg>End Sub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering &lt;f0&gt;d&lt;/f0&gt;ata into Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194040Z" creationid="Elisabetta Manuele" creationdate="20180308T194040Z">
@@ -10098,6 +10114,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194754Z" creationid="Marco Marega" creationdate="20171125T194754Z">
         <seg>Se vengono inserite lettere minuscole, queste vengono convertite automaticamente in maiuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If macros are to be usable, the following steps are necessary:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204743Z" creationid="Marco Marega" creationdate="20180315T204743Z">
+        <seg>Affinché le macro sino utilizzabili, sono necessari i seguenti passaggi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary you can additionally use the Trusted sources tab to set the path to your own macro files to prevent later queries about the activation of macros.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T205140Z" creationid="Marco Marega" creationdate="20180315T205140Z">
+        <seg>Se necessario, potete inoltre usare la scheda Fonti attendibili per impostare il percorso dei file con le vostre macro, in modo da prevenire ulteriori richieste in merito all'attivazione delle macro.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
