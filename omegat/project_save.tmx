@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11976,8 +11976,8 @@
       <tuv lang="EN">
         <seg>It creates fields with their corresponding field labels.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T202531Z" creationid="Alessia Mazzarini" creationdate="20180315T202531Z">
-        <seg>Genera dei campi con le rispettive etichette campo .</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203307Z" creationid="Alessia Mazzarini" creationdate="20180315T202531Z">
+        <seg>Genera dei campi con le rispettive etichette campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21938,6 +21938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215157Z" creationid="Marco Marega" creationdate="20180204T215157Z">
         <seg>Senza una chiave primaria, il database non può &lt;s0/&gt;accedere alle tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without content from the database, a report has no proper function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203251Z" creationid="Alessia Mazzarini" creationdate="20180315T203251Z">
+        <seg>Senza un contenuto estratto dal database, un rapporto non funziona adeguatamente.</seg>
       </tuv>
     </tu>
     <tu>
