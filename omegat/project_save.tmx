@@ -16622,6 +16622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Report Builder provides a lot of additional buttons, so the table &lt;f0&gt;on the next page&lt;/f0&gt; shows the buttons with their descriptions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T215309Z" creationid="Alessia Mazzarini" creationdate="20180315T215309Z">
+        <seg>Il Report Builder mette a disposizione molti pulsanti aggiuntivi, la tabella &lt;f0&gt;nella pagina successiva&lt;/f0&gt; mostra i pulsanti e la relativa descrizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Return_Date field is given not just an alias but also a search criterion, which will cause only those records to be displayed for which the Return_Date field is empty.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165807Z" creationid="Manuel Frassinetti" creationdate="20171202T111531Z">
@@ -16938,6 +16946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212019Z" creationid="Marco Marega" creationdate="20171216T212019Z">
         <seg>Il pulsante con tre puntini indica, come al solito, che per effettuare questa creazione è disponibile un'utile finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The buttons for aligning elements are not further described in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T215500Z" creationid="Alessia Mazzarini" creationdate="20180315T215355Z">
+        <seg>I pulsanti per l'allineamento degli elementi non verranno ulteriormente descritti in questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
