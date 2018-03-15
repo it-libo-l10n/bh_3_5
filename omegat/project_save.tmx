@@ -10742,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you just want a tabular view of your data, the Calc document should definitely be chosen for your report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T213319Z" creationid="Alessia Mazzarini" creationdate="20180315T213319Z">
+        <seg>Nel caso in cui si desideri una semplice visualizzazione tabulare dei dati, è raccomandabile scegliere il documento Calc per il rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T092649Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
