@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A window appears which provides access to all macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203314Z" creationid="Marco Marega" creationdate="20180315T203314Z">
+        <seg>Compare una finestra che fornisce l'accesso a tutte le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&lt;f2&gt;n a&lt;/f2&gt;dditional problem might be, that &lt;f3&gt;LastName&lt;/f3&gt; could be the same for more than one reader.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215321Z" creationid="Marco Marega" creationdate="20171101T212240Z">
@@ -8122,6 +8130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212103Z" creationid="Marco Marega" creationdate="20171014T212103Z">
         <seg>Per i &lt;t7/&gt;database, questo ha lo stesso effetto di &lt;f8&gt;Tutti i record&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Base, &lt;f10&gt;the&lt;/f10&gt; &lt;f11&gt;important area &lt;/f11&gt;corresponds to the filename of the Base file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203439Z" creationid="Marco Marega" creationdate="20180315T203439Z">
+        <seg>Per Base, &lt;f10&gt;l'&lt;/f10&gt;area &lt;f11&gt;importante &lt;/f11&gt;corrisponde al nome del file di Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12646,6 +12662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros are created using &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Macros &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Organize macros &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;LibreOffice Basic&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203245Z" creationid="Marco Marega" creationdate="20180315T203245Z">
+        <seg>Le Macro vengono create usando &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Macro &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Organizza macro &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;LibreOffice Basic&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros are therefore run twice in succession.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202127Z" creationid="Marco Marega" creationdate="20171015T202127Z">
@@ -13122,6 +13146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204931Z" creationid="Marco Marega" creationdate="20171026T204931Z">
         <seg>Non viene utilizzato come filtro proposto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No other table appears in the direct query; therefore no primary key from another table is needed and the query result remains editable.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203742Z" creationid="Marco Marega" creationdate="20180315T203742Z">
+        <seg>Nessun'altra tabella compare nella ricerca diretta; perciò non è necessaria alcuna chiave primaria da un'altra tabella ed il risultato della ricerca rimane modificabile.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15930,6 +15962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174628Z" creationid="Elisabetta Manuele" creationdate="20180307T174628Z">
         <seg>Il &lt;f0&gt;documento composto&lt;/f0&gt; è quello contenente i dati indirizzati ai destinatari delle lettere per la stampa in serie, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;New&lt;/f0&gt; button in the LibreOffice Basic Ma&lt;f1&gt;c&lt;/f1&gt;ros dialog opens &lt;f2&gt;the New Module&lt;/f2&gt; dialog, &lt;f3&gt;which &lt;/f3&gt;asks for the module &lt;f4&gt;name &lt;/f4&gt;(the folder in which the macro will be filed).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204136Z" creationid="Marco Marega" creationdate="20180315T204136Z">
+        <seg>Il pulsante &lt;f0&gt;Nuovo&lt;/f0&gt; nella finestra di dialogo Macro LibreOffice Basic &lt;f1&gt;&lt;/f1&gt;apre la finestra di dialogo &lt;f2&gt;Nuovo modulo&lt;/f2&gt;, &lt;f3&gt;che &lt;/f3&gt;richiede un &lt;f4&gt;nome &lt;/f4&gt; per il modulo (la cartella all'interno della quale la macro verrà archiviata).</seg>
       </tuv>
     </tu>
     <tu>
