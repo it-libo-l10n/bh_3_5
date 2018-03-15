@@ -5974,6 +5974,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Buttons for aligning elements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T220339Z" creationid="Alessia Mazzarini" creationdate="20180315T220339Z">
+        <seg>Pulsanti per allineare gli elementi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buttons for editing content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T220326Z" creationid="Alessia Mazzarini" creationdate="20180315T220326Z">
+        <seg>Pulsanti per modificare il contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, a navigation bar &lt;f0&gt;control that&lt;/f0&gt; is part of the form, separate from the corresponding items, makes it clear through which items you navigate with the toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T212411Z" creationid="Marco Marega" creationdate="20171205T212411Z">
@@ -19656,8 +19672,8 @@
       <tuv lang="EN">
         <seg>They are useful for quick adjustment of fields in a single area of the Report Builder, but in principle everything can be done by direct editing of field properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T220102Z" creationid="Alessia Mazzarini" creationdate="20180315T220102Z">
-        <seg>I pulsanti sono utili per ritoccare velocemente i campi in un'unica area del Report Builder, ma in linea di principio ogni cosa può essere modificata direttamente nelle proprietà del campo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T220219Z" creationid="Alessia Mazzarini" creationdate="20180315T220102Z">
+        <seg>I pulsanti sono utili per ritoccare velocemente i campi in un'unica area del Report Builder, ma in linea di principio tutto ciò può essere fatto modificando direttamente le proprietà del campo.</seg>
       </tuv>
     </tu>
     <tu>
