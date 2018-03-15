@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5410,6 +5410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175245Z" creationid="Marco Marega" creationdate="20171226T175245Z">
         <seg>Come nel formulario semplice, ora inseriremo i contenuti della casella di riepilogo &lt;f1&gt;Surname (Cognome), Given name (Nome) – ID Nr&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As long as &lt;f4&gt;Analyze SQL command&lt;/f4&gt; is set to &lt;f5&gt;Yes&lt;/f5&gt;, the report can be subjected to sorting, grouping, and filtering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T211811Z" creationid="Alessia Mazzarini" creationdate="20180315T211659Z">
+        <seg>Si può ordinare, raggruppare e filtrare il rapporto purché &lt;f4&gt;Analizza comando SQL&lt;/f4&gt; sia impostato su &lt;f5&gt;Sì&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
