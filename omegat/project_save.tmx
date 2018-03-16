@@ -12638,6 +12638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It must be only one record, since sub-queries as shown above can only transmit one value.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190649Z" creationid="MicrosoftSucks" creationdate="20180316T190649Z">
+        <seg>Deve essere un record soltanto, dal momento che le sottoquery viste finora possono trasmettere solo un valore.&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It opens a dialog, which includes all questions of formating and content for labels, before the labels themselves are produced.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181814Z" creationid="Elisabetta Manuele" creationdate="20180307T181814Z">
@@ -13746,6 +13754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162446Z" creationid="Manuel Frassinetti" creationdate="20171202T162446Z">
         <seg>Ora i campi dalla tabella Lettore possono essere inclusi nell'area tabulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now for the basic query for the two listboxes:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190858Z" creationid="MicrosoftSucks" creationdate="20180316T190858Z">
+        <seg>Passiamo ora alla query di base per le due liste di scelta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18894,6 +18910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query can now be enlarged to filter two fields:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190731Z" creationid="MicrosoftSucks" creationdate="20180316T190731Z">
+        <seg>La query ora puo' essere espansa a filtrare due campi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query constructed by the Wizard looks like this:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
@@ -20282,6 +20306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231943Z" creationid="Marco Marega" creationdate="20180226T231852Z">
         <seg>Questo comando non funziona se esiste già una condizione &lt;f0&gt;UNIQUE&lt;/f0&gt; per la stessa combinazione di campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This concludes the creation of the editable query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190816Z" creationid="MicrosoftSucks" creationdate="20180316T190816Z">
+        <seg>Con cio' termina la creazione della query modificabile.</seg>
       </tuv>
     </tu>
     <tu>
