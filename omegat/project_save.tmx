@@ -9030,6 +9030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Functions are used for calculations such as sums.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181057Z" creationid="Alessia Mazzarini" creationdate="20180316T181037Z">
+        <seg>Potete usare le funzioni per fare calcoli come le somme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions for searching records are extensive and perhaps not the first choice for locating a particular record for users accustomed to search engines.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134003Z" creationid="Marco Marega" creationdate="20180302T134003Z">
