@@ -8582,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you also want to group and sort by the &lt;f1&gt;Loan_Date&lt;/f1&gt; field, choose this as &lt;f2&gt;the&lt;/f2&gt; second line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T182724Z" creationid="Alessia Mazzarini" creationdate="20180316T182724Z">
+        <seg>Se volete per esempio raggruppare e ordinare in base al campo&lt;f1&gt;Data_prestito&lt;/f1&gt;, sceglietelo come &lt;f2&gt;seconda&lt;/f2&gt; riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, suppose you choose a text field: the cursor changes shape and a rectangular shape may be drawn on the white surface of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182120Z" creationid="Marco Marega" creationdate="20171014T182120Z">
