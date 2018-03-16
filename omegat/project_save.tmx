@@ -2118,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A corresponding query is then created for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Category&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, which is to write its data into the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Filter_2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field in the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Filter&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; table.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191646Z" creationid="MicrosoftSucks" creationdate="20180316T191646Z">
+        <seg>&lt;f0&gt;Una corrispondente query viene poi creata per il campo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Categoria&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; che serve a scrivere i suoi dati nel campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Filtro_2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; nella tabella &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Filtro&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A simple &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; has the effect that only those records are displayed for which the conditions in both the tables apply.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115817Z" creationid="manuel" creationdate="20180302T115817Z">
@@ -10538,6 +10546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180147Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
         <seg>Se un campo in una ricerca è &lt;f0&gt;associato con&lt;/f0&gt; una funzione, tutti i campi rimanenti menzionati nella ricerca devono essere associati alle funzioni anche se devono essere visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If one of these fields contains a foreign key, the query is adapted so that the foreign key is passed to the underlying &lt;f0&gt;&lt;f1&gt;Filter&lt;/f1&gt;&lt;/f0&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191854Z" creationid="MicrosoftSucks" creationdate="20180316T191854Z">
+        <seg>Se uno di questi campi contiene una chiave esterna, la query viene adattata in modo che la chiave esterna venga passata alla tabella &lt;f0&gt;&lt;f1&gt;Filtro&lt;/f1&gt;&lt;/f0&gt; soggiacente.</seg>
       </tuv>
     </tu>
     <tu>
