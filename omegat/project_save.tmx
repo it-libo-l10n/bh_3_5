@@ -11262,6 +11262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition form 2 contains a button, linked to the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Update form&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222513Z" creationid="MicrosoftSucks" creationdate="20180316T222513Z">
+        <seg>Inoltre formulario 2 contiene un pulsante collegato alla funzione &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Aggiorna formulario&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition the field names are formatted as table headers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201146Z" creationid="Elisabetta Manuele" creationdate="20180308T201146Z">
@@ -18122,6 +18130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224638Z" creationid="Marco Marega" creationdate="20171214T224638Z">
         <seg>Il formulario mostrato nella &lt;f0&gt;Figura&lt;/f0&gt; &lt;t1&gt;36&lt;/t1&gt; è usato per i prestiti dei supporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form would still work if these fields were present; they are omitted to avoid a confusing duplication of field contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222354Z" creationid="MicrosoftSucks" creationdate="20180316T222354Z">
+        <seg>Il formulario funzionerebbe lo stesso anche se questi campi fossero presenti; sono omessi per evitare duplicazioni del contenuto dei campi, che creerebbero confusione.</seg>
       </tuv>
     </tu>
     <tu>
