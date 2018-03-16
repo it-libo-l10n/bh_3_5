@@ -3510,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The listbox should show the &lt;/f0&gt;&lt;f1&gt;Title&lt;/f1&gt;&lt;f2&gt; and then also transmit that &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Title&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; to the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filter_1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;field in the&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Filter&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; table that underlies the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191155Z" creationid="MicrosoftSucks" creationdate="20180316T191155Z">
+        <seg>&lt;f0&gt;La lista dovrebbe mostrare il &lt;/f0&gt;&lt;f1&gt;Titolo&lt;/f1&gt;&lt;f2&gt; ed anche trasmettere lo stesso &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Titolo&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; al campo &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filtro_1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;della tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Filtro&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; su cui e' basato il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The most important setting is the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Join&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162316Z" creationid="Manuel Frassinetti" creationdate="20171218T162316Z">
