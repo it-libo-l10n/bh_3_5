@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;This only happens in one of two possibilities: the item does not have a title, or someone did not enter its title.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224539Z" creationid="MicrosoftSucks" creationdate="20180316T224539Z">
+        <seg>&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Questo succede in soli due casi: l'oggetto non ha un titolo, oppure qualcuno non ha inserito il titolo.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Searchterm&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; has the field type &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;VARCHAR&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185258Z" creationid="MicrosoftSucks" creationdate="20180316T185258Z">
@@ -18466,6 +18474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084239Z" creationid="Manuel Frassinetti" creationdate="20171125T171413Z">
         <seg>I grandi database Internet che le persone utilizzano ogni giorno esistono principalmente per fornire all'utente un risultato rapido e pratico grazie a un'enorme quantità di informazioni attraverso &lt;f1&gt;una selezione&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt; intelligente &lt;/f3&gt;di parole chiave – tra cui gli annunci correlati alla ricerca che incoraggiano le persone a fare acquisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last condition can be &lt;f0&gt;removed&lt;/f0&gt; if the filtering condition is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224649Z" creationid="MicrosoftSucks" creationdate="20180316T224649Z">
+        <seg>La seconda possibilita' puo' essere &lt;f0&gt;eliminata&lt;/f0&gt; se la condizione di filtro e':</seg>
       </tuv>
     </tu>
     <tu>
