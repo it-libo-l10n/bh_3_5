@@ -2726,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Form 2 contains a table control field, in which all fields from the query can be listed except for the fields &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; und &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;K&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222211Z" creationid="MicrosoftSucks" creationdate="20180316T222211Z">
+        <seg>&lt;f0&gt;Formulario 2 contiene un campo di controllo tabella, nel quale possono essere elencati tutti i campi della query tranne &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;K&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Section of the destination website to be addressed where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
@@ -13162,6 +13170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221832Z" creationid="MicrosoftSucks" creationdate="20180316T221832Z">
         <seg>Lista di scelta 1 restituisce valori per &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Filtro_1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; ed e' collegata alla query per il campo &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Titolo&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listbox 2 returns values for &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Filter_2&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; and relates to the query for the &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Category&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;field.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222016Z" creationid="MicrosoftSucks" creationdate="20180316T222016Z">
+        <seg>Lista di scelta 2 restituisce valori per &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Filtro_2&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; ed e' collegata alla query per il campo &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Categoria&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
