@@ -21614,6 +21614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To find the book "Per Anhalter through the Galaxy" it should be sufficient to put "Anhalter" &lt;s0/&gt;into the Search field or even just "Anh".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224113Z" creationid="MicrosoftSucks" creationdate="20180316T224113Z">
+        <seg>Per trovare il libro "Guida galattica per autostoppisti" dovrebbe essere sufficiente digitare "autostoppisti" &lt;s0/&gt;nel campo Ricerca, o addirittura solo "aut".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To free this storage space, the database records must be rewritten (tables, table descriptions, etc).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152710Z" creationid="steevie" creationdate="20180205T152710Z">
