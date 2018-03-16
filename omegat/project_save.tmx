@@ -3550,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The table for the search content may be the same one that already contains the filter values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T184754Z" creationid="MicrosoftSucks" creationdate="20180316T184754Z">
+        <seg>&lt;f0&gt;La tabella per il contenuto della ricerca puo' essere la stessa che contiene gia' i valori di filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The tables which are to be jointly searched are usually in a list separated by commas.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114907Z" creationid="manuel" creationdate="20180302T114907Z">
@@ -8346,6 +8354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215946Z" creationid="Marco Marega" creationdate="20171217T215946Z">
         <seg>Per prima cosa va migliorata la selezione dei lettori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First the similar approaches to the table and form are described.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T184612Z" creationid="MicrosoftSucks" creationdate="20180316T184612Z">
+        <seg>Dapprima vengono descritte le similitudini nell'approccio alle tabelle e ai formulari.</seg>
       </tuv>
     </tu>
     <tu>
