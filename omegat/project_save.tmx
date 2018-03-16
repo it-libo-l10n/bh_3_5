@@ -7198,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detail areas show the records belonging to a group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T180928Z" creationid="Alessia Mazzarini" creationdate="20180316T180928Z">
+        <seg>Le aree dettaglio mostrano i dati che appartengono a un gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details of which data types are available can be obtained from the Table Design window in Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222331Z" creationid="Marco Marega" creationdate="20180112T222331Z">
@@ -9216,8 +9224,8 @@
       <tuv lang="EN">
         <seg>Groups can be used, for example, to assign all media being recalled to the person who has borrowed them, to avoid multiple recall notices.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175922Z" creationid="Alessia Mazzarini" creationdate="20180316T175922Z">
-        <seg>I gruppi si possono usare, per esempio, per assegnare tutti i media da ritirare alla stessa persona che li ha presi in prestito, evitando così delle notifiche di richiamo multiple.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T180709Z" creationid="Alessia Mazzarini" creationdate="20180316T175922Z">
+        <seg>I gruppi si possono usare, per esempio, per assegnare tutti i media da riconsegnare alla stessa persona che li ha presi in prestito, evitando così delle notifiche di riconsegna multiple.</seg>
       </tuv>
     </tu>
     <tu>
