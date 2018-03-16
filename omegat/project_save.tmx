@@ -7374,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each reader should be linked to the recall notices for all &lt;f0&gt;of their&lt;/f0&gt; loaned and overdue media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181602Z" creationid="Alessia Mazzarini" creationdate="20180316T181602Z">
+        <seg>Ciascun lettore dovrà essere collegato alla notifiche di riconsegna per tutti&lt;f0&gt;i propri&lt;/f0&gt; media presi in prestito e in ritardo con la consegna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each reminder is separately entered into the &lt;f0&gt;Recall&lt;/f0&gt; table so that the total number of reminders can be determined.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211252Z" creationid="Marco Marega" creationdate="20180202T211252Z">
@@ -21266,6 +21274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134515Z" creationid="Marco Marega" creationdate="20180302T134515Z">
         <seg>Per rendere efficace la ricerca, l'area di ricerca dovrebbe essere limitata il più possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To obtain useful output in the above example, the content of the view must be reproduced with suitable grouping.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181400Z" creationid="Alessia Mazzarini" creationdate="20180316T181400Z">
+        <seg>Continuando con il precedente esempio, per ottenere un risultato utile, il contenuto della visualizzazione dovrà essere riprodotto attraverso un raggruppamento adeguato.</seg>
       </tuv>
     </tu>
     <tu>
