@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Form 1 cont&lt;/f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;f2&gt;ins two listboxes with appropriate labels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221647Z" creationid="MicrosoftSucks" creationdate="20180316T221647Z">
+        <seg>&lt;f0&gt;Formulario 1 cont&lt;/f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;f2&gt;ene due liste di scelta con le etichette appropriate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame&lt;/f0&gt;: Section of the destination website to be addressed where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184109Z" creationid="Marco Marega" creationdate="20171014T184109Z">
@@ -13146,6 +13154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214953Z" creationid="Marco Marega" creationdate="20171029T214953Z">
         <seg>Voci dell'elenco va inteso come quelle visibili, non quelle che il formulario trasmetterà alla tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listbox 1 returns values for &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Filter_1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; and is linked to the query for the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Title&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221832Z" creationid="MicrosoftSucks" creationdate="20180316T221832Z">
+        <seg>Lista di scelta 1 restituisce valori per &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Filtro_1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; ed e' collegata alla query per il campo &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Titolo&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; .</seg>
       </tuv>
     </tu>
     <tu>
