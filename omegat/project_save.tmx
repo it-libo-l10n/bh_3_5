@@ -15454,6 +15454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, a careless click at the start of the Report Builder can make it difficult to find the properties of the data for the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T171413Z" creationid="Alessia Mazzarini" creationdate="20180316T171413Z">
+        <seg>Per esempio, se facciamo clic per sbaglio all'inizio del Report Builder, può diventare difficoltoso trovare le proprietà dei dati per il rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, a double&lt;f0&gt;-&lt;/f0&gt;click on the field &lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;D&lt;/f3&gt; opens the following overview.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185052Z" creationid="Elisabetta Manuele" creationdate="20180306T185052Z">
