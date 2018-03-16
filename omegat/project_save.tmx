@@ -3688,8 +3688,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;View &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Sorting and Grouping&lt;/f3&gt; or the corresponding button starts the grouping function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181817Z" creationid="Alessia Mazzarini" creationdate="20180316T181817Z">
-        <seg>&lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ordina e raggruppa&lt;/f3&gt; o il corrispettivo pulsante apre la funzione Gruppi.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181956Z" creationid="Alessia Mazzarini" creationdate="20180316T181817Z">
+        <seg>&lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ordina e raggruppa&lt;/f3&gt; o il corrispettivo pulsante apre la funzione di raggruppamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161520Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
         <seg>Qui ulteriori tabelle o ricerche possono essere successivamente aggiunte e rese visibili nell'interfaccia utente grafica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here grouping and sorting are by the &lt;f0&gt;Reader_Name&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T182154Z" creationid="Alessia Mazzarini" creationdate="20180316T182154Z">
+        <seg>In questo caso si ordina e raggruppa in base al campo &lt;f0&gt;Nome_lettore&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
