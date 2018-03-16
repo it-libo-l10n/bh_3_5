@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;With this refinement of the filtering (what happens if the title is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NULL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;?) we get a result more in line with expectations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224923Z" creationid="MicrosoftSucks" creationdate="20180316T224923Z">
+        <seg>&lt;f0&gt;Dopo aver introdotto condizioni di filtro piu' precise (cosa succede se il titolo e' &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NULL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;?) otteniamo risultati piu' in linea con le aspettative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Yes&lt;/f0&gt; will exclude any modification of the value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203532Z" creationid="Marco Marega" creationdate="20171016T203532Z">
@@ -6090,6 +6098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220840Z" creationid="Marco Marega" creationdate="20180303T220810Z">
         <seg>Ma, naturalmente, ora dovete determinare quali studenti &lt;f0&gt;non&lt;/f0&gt; &lt;f1&gt;avrebbero dovuto&lt;/f1&gt; essere stati interessati da questa modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But the first condition is still not fulfilled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224955Z" creationid="MicrosoftSucks" creationdate="20180316T224955Z">
+        <seg>Ma la prima condizione non e' ancora soddisfatta.</seg>
       </tuv>
     </tu>
     <tu>
