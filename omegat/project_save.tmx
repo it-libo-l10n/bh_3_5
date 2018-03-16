@@ -17694,6 +17694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference between filtering and &lt;f0&gt;s&lt;/f0&gt;earching lies in the query technique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222916Z" creationid="MicrosoftSucks" creationdate="20180316T222916Z">
+        <seg>La differenza tra filtraggio e &lt;f0&gt;r&lt;/f0&gt;icerca sta nella tecnica di interrogazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The entry of the address block allows the most extensive configuration.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174836Z" creationid="Elisabetta Manuele" creationdate="20180307T174836Z">
@@ -22642,6 +22650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T204939Z" creationid="Marco Marega" creationdate="20171014T204939Z">
         <seg>Mentre le Tabelle possono sempre essere utilizzate per inserire dati in un formulario, ciò non è sempre possibile per le Query &lt;f5&gt;(per maggiori informazioni vedete il Capitolo &lt;/f5&gt;&lt;f6&gt;5&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; Query&lt;f8&gt;&lt;/f8&gt;, &lt;f9&gt;di questo libro) o&lt;/f9&gt; per l'inserimento diretto di un comando SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While filtering uses a term that already occurs in the underlying table, searching uses arbitrary entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223038Z" creationid="MicrosoftSucks" creationdate="20180316T223038Z">
+        <seg>Mentre il filtraggio utilizza termini gia' presenti nella tabella sottostante, la ricerca usa termini arbitrari.</seg>
       </tuv>
     </tu>
     <tu>
