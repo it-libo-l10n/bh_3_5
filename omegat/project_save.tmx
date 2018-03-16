@@ -12670,6 +12670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just as with forms, it is helpful to use the appropriate navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T171049Z" creationid="Alessia Mazzarini" creationdate="20180316T171049Z">
+        <seg>Come per i formulari, si consiglia di utilizzare l'apposito navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Just drag the data into a spreadsheet and prepare them for import into the target database using the facilities that Calc provides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T122114Z" creationid="Elisabetta Manuele" creationdate="20180310T122114Z">
