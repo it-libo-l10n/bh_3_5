@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new test yields a display of all the media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190235Z" creationid="MicrosoftSucks" creationdate="20180316T190235Z">
+        <seg>Un nuovo test visualizza tutti i media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A quick variant for direct entry of fields with labels is to use the &lt;f0&gt;Add Field&lt;/f0&gt; function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205427Z" creationid="Marco Marega" creationdate="20171210T205427Z">
@@ -10130,6 +10138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221945Z" creationid="Marco Marega" creationdate="20180228T221945Z">
         <seg>Se 1 non è utilizzato, dovrete creare un collegamento a un valore non &lt;f2&gt;esistente&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;"Filter"."Filter_1"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; is emptied, the GUI treats that as &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;NULL&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190146Z" creationid="MicrosoftSucks" creationdate="20180316T190146Z">
+        <seg>Se &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;"Filter"."Filter_1"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; viene svuotato, la GUI lo considera come &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;NULL&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18930,6 +18946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145137Z" creationid="Manuel Frassinetti" creationdate="20171202T145137Z">
         <seg>I nomi dei lettori non sono chiari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The record is saved and the filtering can be comprehended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190053Z" creationid="MicrosoftSucks" creationdate="20180316T190053Z">
+        <seg>Il record viene salvato e il filtraggio puo' essere incluso.</seg>
       </tuv>
     </tu>
     <tu>
