@@ -2984,8 +2984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;eft-click on &lt;f1&gt;Report&lt;/f1&gt; and the properties of the report are once more accessible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175021Z" creationid="Alessia Mazzarini" creationdate="20180316T175021Z">
-        <seg>&lt;f0&gt;F&lt;/f0&gt;ate clic con il pulsante sinistro sul &lt;f1&gt;rapporto&lt;/f1&gt; e le proprietà del rapporto ritorneranno visibili.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175253Z" creationid="Alessia Mazzarini" creationdate="20180316T175021Z">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ate clic con il pulsante sinistro sul &lt;f1&gt;rapporto&lt;/f1&gt; e le proprietà del rapporto torneranno di nuovo visibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15464,8 +15464,8 @@
       <tuv lang="EN">
         <seg>So, for example, a careless click at the start of the Report Builder can make it difficult to find the properties of the data for the report.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T171413Z" creationid="Alessia Mazzarini" creationdate="20180316T171413Z">
-        <seg>Per esempio, se facciamo clic per sbaglio all'inizio del Report Builder, può diventare difficoltoso trovare le proprietà dei dati per il rapporto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175129Z" creationid="Alessia Mazzarini" creationdate="20180316T171413Z">
+        <seg>Per esempio, facendo clic per sbaglio all'inizio del Report Builder, può rendere difficoltoso trovare le proprietà dei dati per il rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15728,8 +15728,8 @@
       <tuv lang="EN">
         <seg>Such data may only be reachable through the report navigator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T174824Z" creationid="Alessia Mazzarini" creationdate="20180316T174329Z">
-        <seg>Si può accedere a tali dati solamente attraverso il navigatore rapporti.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175151Z" creationid="Alessia Mazzarini" creationdate="20180316T174329Z">
+        <seg>Si potrà accedere a tali dati solamente attraverso il navigatore rapporti.</seg>
       </tuv>
     </tu>
     <tu>
