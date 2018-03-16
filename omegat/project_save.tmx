@@ -2982,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;L&lt;/f0&gt;eft-click on &lt;f1&gt;Report&lt;/f1&gt; and the properties of the report are once more accessible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175021Z" creationid="Alessia Mazzarini" creationdate="20180316T175021Z">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ate clic con il pulsante sinistro sul &lt;f1&gt;rapporto&lt;/f1&gt; e le proprietà del rapporto ritorneranno visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142546Z" creationid="Marina Latini" creationdate="20171213T142546Z">
@@ -15720,8 +15728,8 @@
       <tuv lang="EN">
         <seg>Such data may only be reachable through the report navigator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T174329Z" creationid="Alessia Mazzarini" creationdate="20180316T174329Z">
-        <seg>Tali dati Such data may only be reachable through the report navigator.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T174824Z" creationid="Alessia Mazzarini" creationdate="20180316T174329Z">
+        <seg>Si può accedere a tali dati solamente attraverso il navigatore rapporti.</seg>
       </tuv>
     </tu>
     <tu>
