@@ -9102,6 +9102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Form 2 is the form based on the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221139Z" creationid="MicrosoftSucks" creationdate="20180316T221139Z">
+        <seg>Formulario 2 e' il formulario basato sulla query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Framing: No frame | 3D-Look | Flat.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191453Z" creationid="Marco Marega" creationdate="20171017T190955Z">
