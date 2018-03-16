@@ -12014,6 +12014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially the navigator shows, in addition to the visible sections of the document (Page header, &lt;s0/&gt;Groups, Detail, and Page footer), the possibility of including functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175621Z" creationid="Alessia Mazzarini" creationdate="20180316T175621Z">
+        <seg>Inizialmente il navigatore mostra, oltre alle sezioni visibili del documento (Intestazione pagina, &lt;s0/&gt;Gruppi, Dettagli, e Piè di pagina), la possibilità di includere le funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead a &lt;f3&gt;Return_Date&lt;/f3&gt; is recorded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210726Z" creationid="Marco Marega" creationdate="20180202T210726Z">
