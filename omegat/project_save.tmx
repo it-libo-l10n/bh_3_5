@@ -9102,6 +9102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Form 1 has &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;no navigation bar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and the cycle is set to &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Current record&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221447Z" creationid="MicrosoftSucks" creationdate="20180316T221341Z">
+        <seg>Formulario 1 non ha &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;barre di navigazione&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e il ciclo e' impostato a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Record corrente &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Form 2 is the form based on the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221139Z" creationid="MicrosoftSucks" creationdate="20180316T221139Z">
@@ -11362,6 +11370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140015Z" creationid="Marco Marega" creationdate="20180203T140015Z">
         <seg>In aggiunta, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Allow additions&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; property is set to &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;No&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221441Z" creationid="MicrosoftSucks" creationdate="20180316T221441Z">
+        <seg>Inoltre la proprieta' &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Consenti aggiunte&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; e' impostata a &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;No&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17874,6 +17890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164928Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
         <seg>La multa per il ritardo &lt;/f8&gt;&lt;f9&gt;medio&lt;/f9&gt;&lt;f10&gt; è impostato nella ricerca a 2.00 €.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first and only record for this form already exists.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T221539Z" creationid="MicrosoftSucks" creationdate="20180316T221539Z">
+        <seg>Il primo e unico record per questo formulario esiste gia'.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
