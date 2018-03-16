@@ -17758,6 +17758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The field for the search term can stand alone in the form or together with the fields for filtering, if both functions are desired.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222809Z" creationid="MicrosoftSucks" creationdate="20180316T222809Z">
+        <seg>Il campo per i termini della ricerca puo' esistere da solo nel formulario oppure essere associato ai campi per il filtraggio, se si desiderano entrambe le funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The field for the search term lies in the &lt;f0&gt;Filter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;form,&lt;/f2&gt;&lt;/f1&gt; the two &lt;f3&gt;table controls&lt;/f3&gt; (for the author and the subtitle) lie in the &lt;f4&gt;subform&lt;/f4&gt; of the Media Entry main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T144714Z" creationid="Marco Marega" creationdate="20171231T144714Z">
