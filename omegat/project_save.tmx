@@ -9214,6 +9214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groups can be used, for example, to assign all media being recalled to the person who has borrowed them, to avoid multiple recall notices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175922Z" creationid="Alessia Mazzarini" creationdate="20180316T175922Z">
+        <seg>I gruppi si possono usare, per esempio, per assegnare tutti i media da ritirare alla stessa persona che li ha presi in prestito, evitando così delle notifiche di richiamo multiple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>H&lt;/f7&gt;ere &lt;f8&gt;we describe &lt;/f8&gt;the creation in &lt;f9&gt;D&lt;/f9&gt;esign &lt;f10&gt;V&lt;/f10&gt;iew.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201756Z" creationid="Marco Marega" creationdate="20171210T201756Z">
