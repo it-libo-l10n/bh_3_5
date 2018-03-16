@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3590,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;This&lt;/f0&gt; now relates to the value which the listbox provides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182552Z" creationid="MicrosoftSucks" creationdate="20180316T182536Z">
+        <seg>&lt;f0&gt;Questo&lt;/f0&gt; ora fa riferimento al valore presente nella lista di scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;start&lt;/f1&gt; the Report Builder &lt;f2&gt;from within Base, use&lt;/f2&gt; &lt;f3&gt;Reports &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Create Report in Design View&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T190718Z" creationid="Alessia Mazzarini" creationdate="20180314T185718Z">
@@ -5266,6 +5274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153831Z" creationid="Marco Marega" creationdate="20171231T153831Z">
         <seg>Un &lt;f1&gt;Ordine automatico&lt;/f1&gt; non può essere effettuato in retrospettiva per un formulario secondario con un campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An additional navigation bar can be built in to prevent screen flicker every time the form changes, due to the navigation bar being present in one form and not in the other.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182155Z" creationid="MicrosoftSucks" creationdate="20180316T182155Z">
+        <seg>E' possibile creare un barra di navigazione aggiuntiva per evitare lo sfarfallio dello schermo ogni volta che il formulario viene modificato, dovuto alla presenza della barra di navigazione in un formulario ma non nell'altro.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13926,6 +13942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the form is finished, the test phase begins.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182235Z" creationid="MicrosoftSucks" creationdate="20180316T182235Z">
+        <seg>Una volta terminato il formulario, comincia la fase di test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the table controls have been set up, we need to carry out the modifications already discussed when creating the simpler form:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214222Z" creationid="Marco Marega" creationdate="20171216T214222Z">
@@ -16942,6 +16966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The aim is to deliver, in response to free language search terms, a resulting list of records that may only partially contain these actual terms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T183007Z" creationid="MicrosoftSucks" creationdate="20180316T183007Z">
+        <seg>L'obiettivo e' restituire, in risposta a termini di ricerca espressi in linguaggio naturale, una lista di record che li contenga anche solo parzialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The appropriate fields are selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120657Z" creationid="Elisabetta Manuele" creationdate="20180310T120657Z">
@@ -17646,6 +17678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filtering can be made retrospective by choosing an empty field in the listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182644Z" creationid="MicrosoftSucks" creationdate="20180316T182644Z">
+        <seg>Il filtraggio puo' essere reso retroattivo scegliendo un campo vuoto nella lista di scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filtering is carried out using the button with the three dots, which opens the dialog shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225818Z" creationid="Marco Marega" creationdate="20171214T225818Z">
@@ -18266,6 +18306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224834Z" creationid="Marco Marega" creationdate="20171214T224834Z">
         <seg>Quello in basso mostra invece tutti i campi, in modo che sia evidente a quale persona e a quale supporto si riferisce il reso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main difference between searching for data and filtering data is in the query technique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182806Z" creationid="MicrosoftSucks" creationdate="20180316T182806Z">
+        <seg>La differenza principale fra la ricerca ed il filtraggio di dati risiede nella tecnica di interrogazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22042,6 +22090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211442Z" creationid="Marco Marega" creationdate="20171029T211442Z">
         <seg>Quando create una casella di riepilogo, per impostazione predefinita, compare la finestra di creazione guidata &lt;f0&gt;Casella &lt;/f0&gt;di &lt;f1&gt;riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a listbox is changed, the button on form 2 is used to store this value and update Form 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182433Z" creationid="MicrosoftSucks" creationdate="20180316T182433Z">
+        <seg>Quando cambia una lista di scelta, il pulsante sul formulario 2 e' usato per memorizzare questo valore e aggiornare Form2.</seg>
       </tuv>
     </tu>
     <tu>
