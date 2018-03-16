@@ -16254,6 +16254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; table is simply expanded to include a field named &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Searchterm&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T184954Z" creationid="MicrosoftSucks" creationdate="20180316T184954Z">
+        <seg>La tabella &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filtro&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; viene semplicemente espansa a comprendere un campo chiamato &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ElementoRicerca&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;/f12&gt;&lt;f13&gt;Data&lt;/f13&gt;&lt;f14&gt; tab of the Form Properties dialog looks a little different from t&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;he one&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; you see when forms are built directly in an &lt;/f17&gt;&lt;f18&gt;ODB&lt;/f18&gt;&lt;f19&gt; database file:&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192653Z" creationid="Elisabetta Manuele" creationdate="20180308T192609Z">
