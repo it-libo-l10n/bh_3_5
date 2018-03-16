@@ -5446,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"Filter"."ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; set the value&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;'0&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;'&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185935Z" creationid="MicrosoftSucks" creationdate="20180316T185935Z">
+        <seg>Come &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"Filter"."ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; impostate il valore&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;'0&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;'&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a CD can contain several pieces of music, a record of the individual pieces in the main table would require a lot of additional fields (Subtitle 1, Subtitle 2, etc.) or the same item would have to be entered many times.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153933Z" creationid="Marco Marega" creationdate="20180127T153933Z">
