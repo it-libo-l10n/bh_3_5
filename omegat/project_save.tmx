@@ -21174,6 +21174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This query normally leads to an empty result list for &lt;f0&gt;these&lt;/f0&gt; reasons:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223318Z" creationid="MicrosoftSucks" creationdate="20180316T223318Z">
+        <seg>Questa query normalmente genera una lista di risultati vuota per &lt;f0&gt;queste&lt;/f0&gt; ragioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This record will be repeatedly read and rewritten by the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221620Z" creationid="Marco Marega" creationdate="20171217T221620Z">
@@ -22458,6 +22466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212357Z" creationid="Marco Marega" creationdate="20180219T212357Z">
         <seg>Quando inserite decimali, assicuratevi che il separatore sia un punto e non una virgola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When entering search terms , people seldom know completely and accurately what the title is.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223501Z" creationid="MicrosoftSucks" creationdate="20180316T223501Z">
+        <seg>Al momento dell'introduzione dei termini di ricerca, di rado la gente conosce il titolo completamente e accuratamente.</seg>
       </tuv>
     </tu>
     <tu>
