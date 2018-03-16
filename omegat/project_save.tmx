@@ -4198,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s20/&gt;And the whole thing should of course be sorted into the correct order.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191449Z" creationid="MicrosoftSucks" creationdate="20180316T191449Z">
+        <seg>&lt;s20/&gt;Il tutto naturalmente dovrebbe anche essere mostrato nel corretto ordinamento.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s30/&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;f31&gt;&lt;f32&gt;EVERY&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt; returns &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;1&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt; only if every entry for the field is &lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;1&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;, and returns &lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;FALSE&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt; if at least one entry is &lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;0&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;.&lt;/f50&gt;&lt;/f49&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170605Z" creationid="manuel" creationdate="20180301T170605Z">
@@ -5226,6 +5234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121932Z" creationid="Elisabetta Manuele" creationdate="20180310T121932Z">
         <seg>Inoltre i dati possono essere copiati direttamente quando si passa a un altro programma di database (per esempio da PostgreSQL a MySQL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also no duplicate values should be shown (&lt;/f13&gt;&lt;f14&gt;'D&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ISTINCT' &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;condition&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) .</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191327Z" creationid="MicrosoftSucks" creationdate="20180316T191327Z">
+        <seg>Inoltre non dovrebbero essere visualizzati valori duplicati (condizione&lt;/f13&gt;&lt;f14&gt;'D&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;ISTINCT' &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) .</seg>
       </tuv>
     </tu>
     <tu>
