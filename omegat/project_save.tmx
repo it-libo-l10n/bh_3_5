@@ -3502,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The form consists of two parts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191929Z" creationid="MicrosoftSucks" creationdate="20180316T191929Z">
+        <seg>&lt;f0&gt;Il formulario e' composto da due parti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The format can be selected in the tab &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Labels&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184459Z" creationid="Elisabetta Manuele" creationdate="20180307T184459Z">
@@ -9010,6 +9018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220809Z" creationid="Marco Marega" creationdate="20171226T220809Z">
         <seg>Per questo il filtro suggerito è adeguato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Form 1 is the form based on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T192034Z" creationid="MicrosoftSucks" creationdate="20180316T192034Z">
+        <seg>Formulario 1 e' il formulario basato sulla tabella &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filtro&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; .</seg>
       </tuv>
     </tu>
     <tu>
