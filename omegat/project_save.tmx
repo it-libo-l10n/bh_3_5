@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Searchterm&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; has the field type &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;VARCHAR&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185258Z" creationid="MicrosoftSucks" creationdate="20180316T185258Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ElementoRicerca&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; e' di tipo &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;VARCHAR&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Name")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; shows the first name alphabetically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T160310Z" creationid="manuel" creationdate="20180301T155155Z">
@@ -15630,6 +15638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, if required, the same table can be accessed and, using the forms, simultaneously filtered and searched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185219Z" creationid="MicrosoftSucks" creationdate="20180316T185219Z">
+        <seg>Percio', se necessario, e' possibile accedere ad un'unica tabella e, usando i formulari, eseguire contemporaneamente una ricerca ed un filtraggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, if you enter A, only people whose surname begins with A will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160246Z" creationid="Marco Marega" creationdate="20171230T160246Z">
@@ -17906,6 +17922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212039Z" creationid="Marco Marega" creationdate="20171029T212039Z">
         <seg>Il formulario è già stato definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form is built just as for filtering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185353Z" creationid="MicrosoftSucks" creationdate="20180316T185353Z">
+        <seg>Il formulario viene costruito come quello per il filtraggio.</seg>
       </tuv>
     </tu>
     <tu>
