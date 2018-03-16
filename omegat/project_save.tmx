@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;View &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Sorting and Grouping&lt;/f3&gt; or the corresponding button starts the grouping function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181817Z" creationid="Alessia Mazzarini" creationdate="20180316T181817Z">
+        <seg>&lt;f0&gt;Visualizza &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ordina e raggruppa&lt;/f3&gt; o il corrispettivo pulsante apre la funzione Gruppi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When a field is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associated with a function, &lt;/f3&gt;&lt;f4&gt;the number of rows in the query output is determined by the search conditions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181031Z" creationid="Manuel Frassinetti" creationdate="20171214T181031Z">
@@ -8098,6 +8106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T212757Z" creationid="Alessia Mazzarini" creationdate="20180315T212757Z">
         <seg>Figura &lt;seq0&gt;45&lt;/seq0&gt;: Finestra iniziale del Report Builder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Sorting and Grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181936Z" creationid="Alessia Mazzarini" creationdate="20180316T181936Z">
+        <seg>Figura &lt;seq0&gt;46&lt;/seq0&gt;: Ordine e raggruppamento</seg>
       </tuv>
     </tu>
     <tu>
