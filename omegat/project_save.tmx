@@ -11358,6 +11358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In any case, before a form is created and tested, just one record with a primary key should be entered into the &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Filter&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190455Z" creationid="MicrosoftSucks" creationdate="20180316T190455Z">
+        <seg>In ogni caso prima di creare e collaudare un formulario, e' opportuno inserire nella tabella &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Filter&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; soltanto un record con una chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In both cases a window opens, &lt;f0&gt;where&lt;/f0&gt; you &lt;f1&gt;can&lt;/f1&gt; create a query and also correct it if necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20171126T234003Z" creationid="Manuel Frassinetti" creationdate="20171125T170701Z">
