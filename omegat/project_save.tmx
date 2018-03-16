@@ -19942,6 +19942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore the correct title does not get displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223545Z" creationid="MicrosoftSucks" creationdate="20180316T223545Z">
+        <seg>Quindi il titolo corretto non viene visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore the data needs to be filtered to show only the loans.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225244Z" creationid="Marco Marega" creationdate="20171214T225244Z">
