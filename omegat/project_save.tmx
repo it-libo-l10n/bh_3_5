@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;The field “Searchterm” is empty, the &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Title&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; field must be empty also.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224354Z" creationid="MicrosoftSucks" creationdate="20180316T224354Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Se il campo "Termini di ricerca" e' vuoto, anche il campo &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Titolo&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; deve essere vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
@@ -2866,6 +2874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213448Z" creationid="MicrosoftSucks" creationdate="20180218T213448Z">
         <seg>&lt;f0&gt;Se il campo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter_1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; non e' &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NULL&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, vengono visualizzati i record per i quali &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Title&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; e' uguale a &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Filter_1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If the field “Searchterm” is empty, only records are displayed in which there is no title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224225Z" creationid="MicrosoftSucks" creationdate="20180316T224225Z">
+        <seg>&lt;f0&gt;Se il campo "Termini di ricerca" e' vuoto, vengono visualizzati solo record senza titolo.</seg>
       </tuv>
     </tu>
     <tu>
