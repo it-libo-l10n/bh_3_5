@@ -12158,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead of a listbox, we need a text entry field for the search term, and also perhaps a label field with the title Search.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185652Z" creationid="MicrosoftSucks" creationdate="20180316T185652Z">
+        <seg>Invece di una lista di scelta e' necessario un campo testuale per inserire il termine di ricerca, e forse anche un'etichetta con il titolo Ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead of filtering &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Title&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; directly, a field is filtered which carries the alias &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175146Z" creationid="MicrosoftSucks" creationdate="20180301T175036Z">
