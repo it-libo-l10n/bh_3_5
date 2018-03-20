@@ -5622,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As only one group is necessary for the planned report, &lt;f0&gt;Figure &lt;/f0&gt;&lt;t1&gt;46&lt;/t1&gt; shows only the &lt;f2&gt;Delete &lt;/f2&gt;symbol at the extreme right of the group actions as available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180320T181509Z" creationid="Alessia Mazzarini" creationdate="20180320T181509Z">
+        <seg>Poiché per il rapporto pianificato è necessario un solo gruppo, la &lt;f0&gt;Figura &lt;/f0&gt;&lt;t1&gt;46&lt;/t1&gt; mostra come disponibile unicamente il simbolo &lt;f2&gt;Elimina &lt;/f2&gt; tra le azioni di gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as a combo box is created, a Wizard appears by default, just as with a list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T221102Z" creationid="Marco Marega" creationdate="20171102T221102Z">
