@@ -11902,6 +11902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the case of a recall notice, however, this would put all readers with the same initial together in one group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082803Z" creationid="Alessia Mazzarini" creationdate="20180321T082803Z">
+        <seg>Nel caso delle notifiche di riconsegna però, tutti i lettori con la stessa iniziale verrebbero messi in uno stesso gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the case of a table control, this causes the cursor during keyboard input to be trapped within this subform; you can only free it by using the mouse or by pressing &lt;f1&gt;Ctrl+Tab&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153032Z" creationid="Marco Marega" creationdate="20171231T153032Z">
@@ -15386,6 +15394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
         <seg>I valori predefiniti in SQL &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;non&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; compaiono &lt;/f3&gt;&lt;f4&gt;quando di modificano le proprietà della tabella.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schmidt, Schulze, and Schulte would receive a common recall notice, which would be quite pointless in this example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082901Z" creationid="Alessia Mazzarini" creationdate="20180321T082901Z">
+        <seg>Schmidt, Schulze, e Schulte riceverebbero un'unica notifica di riconsegna, cosa che non avrebbe senso in questo esempio.</seg>
       </tuv>
     </tu>
     <tu>
