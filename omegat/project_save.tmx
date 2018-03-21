@@ -1592,8 +1592,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Update &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cascade&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; means that the key number is simply carried over.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T160604Z" creationid="steevie" creationdate="20180207T160442Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cascata&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; significa che il valore della chiave viene semplicemente riportato.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160524Z" creationid="steevie" creationdate="20180207T160442Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cascata&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; significa che il valore della chiave viene semplicemente aggiornato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1688,8 +1688,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Defining relationships helps keep the relationships themselves clean, but it does not remove unnecessary records &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; provide their primary key as a foreign key in the relationship.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152742Z" creationid="steevie" creationdate="20180209T152742Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Definire relazioni aiuta nel mantenere chiare le relazioni stesse, ma non rimuove record di dati non necessari &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; forniscono la loro chiave primaria come chiave esterna nella relazione..</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160756Z" creationid="steevie" creationdate="20180209T152742Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La definizione di relazioni aiuta nel mantenere chiare le relazioni stesse, ma non rimuove record di dati non necessari &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; forniscono la loro chiave primaria come chiave esterna nella relazione..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1816,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In principle the whole interrelationship between tables can be displayed within forms.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153027Z" creationid="steevie" creationdate="20180209T153027Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;In linea di principio, tutte le interrelazioni tra le tabelle possono essere visualizzate all'interno di formulari.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160815Z" creationid="steevie" creationdate="20180209T153027Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;In linea di principio, tutte le correlazioni tra le tabelle possono essere visualizzate all'interno di formulari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10944,8 +10944,8 @@
       <tuv lang="EN">
         <seg>If the numeric key in the &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Street&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;ID&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; field is altered, "No action" means that the database resists this change if a &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Street&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;"."&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ID&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; with that key number occurs as a foreign key in the Address table.&lt;/f33&gt;&lt;/f32&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T160452Z" creationid="steevie" creationdate="20180207T160040Z">
-        <seg>Se la chiave numerica nel campo &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Street&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;ID&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; è modificata, "Nessuna operazione" significa che il database si oppone a questo cambio se uno &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Street&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;"."&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ID&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; con quel valore di chiave aooare come chiave esterna nella tabella Adress.&lt;/f33&gt;&lt;/f32&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160503Z" creationid="steevie" creationdate="20180207T160040Z">
+        <seg>Se la chiave numerica nel campo &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Street&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;ID&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; è modificata, "Nessuna operazione" significa che il database si oppone a questo cambio se uno &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;Street&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;"."&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;ID&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt; con quel valore appare come chiave esterna nella tabella Adress.&lt;/f33&gt;&lt;/f32&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11000,8 +11000,8 @@
       <tuv lang="EN">
         <seg>If the street 'Burgring' in the Street table has the ID '3' and is also represented in &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Address&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Street&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;ID&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;, the ID can be safely &lt;/f25&gt;&lt;/f24&gt;&lt;t26/&gt;&lt;f27&gt;&lt;f28&gt;altered, for example, to '67' – the corresponding &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;Address&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;"."&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;Street&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;_&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;ID&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt; values will be automatically be changed to '67'.&lt;/f44&gt;&lt;/f43&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151516Z" creationid="steevie" creationdate="20180209T151516Z">
-        <seg>Se la strada 'Burgring' nella tabella Street ha ID '3' ed è anche rappresentata in &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Address&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Street&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;ID&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;, l'ID può tranquillamente  essere &lt;/f25&gt;&lt;/f24&gt;&lt;t26/&gt;&lt;f27&gt;&lt;f28&gt;modificato, per esempio in '67' – i valori corrispondenti &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;Address&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;"."&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;Street&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;_&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;ID&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt; saranno automaticamente modificati in '67'.&lt;/f44&gt;&lt;/f43&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160555Z" creationid="steevie" creationdate="20180209T151516Z">
+        <seg>Se la strada 'Burgring' nella tabella Street ha ID '3' ed è anche rappresentata in &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Adress&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"."&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Street&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;ID&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;, l'ID può tranquillamente  essere &lt;/f25&gt;&lt;/f24&gt;&lt;t26/&gt;&lt;f27&gt;&lt;f28&gt;modificato, per esempio in '67' – i valori corrispondenti &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;Address&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;"."&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;Street&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;_&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;ID&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt; saranno automaticamente modificati in '67'.&lt;/f44&gt;&lt;/f43&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17968,8 +17968,8 @@
       <tuv lang="EN">
         <seg>The delete options are handled similarly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T151921Z" creationid="steevie" creationdate="20180209T151921Z">
-        <seg>Le opzioni di eliminazione sono gestite in maniera simile.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160637Z" creationid="steevie" creationdate="20180209T151921Z">
+        <seg>Le opzioni di cancellazione sono gestite in maniera simile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21760,8 +21760,8 @@
       <tuv lang="EN">
         <seg>Thus in the following example, the author's primary key becomes the foreign key in the table rel_Media_Author; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;el_Media_Author also contains a foreign key from Media, so that the following arrangement shows a n:m-relationship with three forms.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153402Z" creationid="steevie" creationdate="20180209T153402Z">
-        <seg>Così, nell'esempio seguente, la chiave primaria dell'autore diventa la chiave esterna nella tabella rel_Media_Author; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;el_Media_Author inoltre contiene una chiave esterna da Media, e la successiva disposizione mostra una relazione n:m con tre formulari.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T161203Z" creationid="steevie" creationdate="20180209T153402Z">
+        <seg>Così, nell'esempio seguente, la chiave primaria dell'autore diventa la chiave esterna nella tabella rel_Media_Author; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;el_Media_Author inoltre contiene una chiave esterna da Media, così la loro disposizione sottostante mostra una relazione n:m con tre formulari.</seg>
       </tuv>
     </tu>
     <tu>
