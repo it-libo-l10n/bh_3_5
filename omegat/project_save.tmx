@@ -1608,8 +1608,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A database consists of one or more main tables, which contain foreign keys from other tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075720Z" creationid="steevie" creationdate="20180206T075720Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Un database è composta da una o più tabelle principali, che contengono chiavi esterne da altre tabelle.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160004Z" creationid="steevie" creationdate="20180206T075720Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Un database è composto da una o più tabelle principali, che contengono chiavi esterne da altre tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,8 +1728,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Here the tables Address and Street are considered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153310Z" creationid="steevie" creationdate="20180207T153310Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Qui vengono considerate le tabelle Address e Street.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160322Z" creationid="steevie" creationdate="20180207T153310Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Qui vengono considerate le tabelle Adress e Street.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2008,8 +2008,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The following dialog is accessible through &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Tools &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Relationships&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, followed by a right&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;-&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;click on the connector between two tables.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153135Z" creationid="steevie" creationdate="20180207T153135Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;La seguente finestra di dialogo è disponibile in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Relazioni&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, facendo click coll&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;-&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;tasto destro sul connettore tra due tabelle.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160311Z" creationid="steevie" creationdate="20180207T153135Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La seguente finestra di dialogo è disponibile in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Relazioni&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, facendo poi click col&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;-&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;tasto destro sul connettore tra due tabelle.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5272,8 +5272,8 @@
       <tuv lang="EN">
         <seg>All special tables in HSQLDB are described in the appendix to this handbook.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161050Z" creationid="steevie" creationdate="20180205T161050Z">
-        <seg>Tutte le tabelle speciali in HSQLDB sono descritti nell'Appendice di questo manuale.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155623Z" creationid="steevie" creationdate="20180205T161050Z">
+        <seg>Tutte le tabelle speciali in HSQLDB sono descritte nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10280,8 +10280,8 @@
       <tuv lang="EN">
         <seg>However, it is not apparent during normal usage that the record is no longer needed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080303Z" creationid="steevie" creationdate="20180206T080303Z">
-        <seg>Tuttavia, non è evidente durante il normale utilizzo che il record di dati non sia più necessario.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160149Z" creationid="steevie" creationdate="20180206T080303Z">
+        <seg>Tuttavia, non è evidente durante il normale utilizzo che questo record di dati non sia più necessario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,8 +12464,8 @@
       <tuv lang="EN">
         <seg>Information on the content of these tables is most easily obtained by direct queries:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162813Z" creationid="steevie" creationdate="20180205T161329Z">
-        <seg>Informazioni sul contenuto di queste tabelle è ottenibile in maniera semplice con ricerche dirette:</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155816Z" creationid="steevie" creationdate="20180205T161329Z">
+        <seg>Informazioni sul contenuto di queste tabelle è ottenibile in maniera semplice con query dirette:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18320,8 +18320,8 @@
       <tuv lang="EN">
         <seg>The following query can be used to find out field names, field types, column sizes, and default values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160758Z" creationid="steevie" creationdate="20180205T160758Z">
-        <seg>La seguente interrogazione può essere usata per scoprire nomi e tipi di campo, dimensione delle colonne e valori standard.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155801Z" creationid="steevie" creationdate="20180205T160758Z">
+        <seg>La seguente query può essere usata per scoprire nomi e tipi di campo, dimensione delle colonne e valori standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18680,8 +18680,8 @@
       <tuv lang="EN">
         <seg>The integrity of the data can be ensured while defining relationships.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T152540Z" creationid="steevie" creationdate="20180207T152540Z">
-        <seg>L'integrità dei dati può essere garantita con una opportuna definizione delle relazioni.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160228Z" creationid="steevie" creationdate="20180207T152540Z">
+        <seg>Si può garantire l'integrità dei dati con una opportuna definizione delle relazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19504,8 +19504,8 @@
       <tuv lang="EN">
         <seg>The result may be that no foreign key Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corresponding to&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; this postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;exists&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; any longer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155637Z" creationid="steevie" creationdate="20180206T080142Z">
-        <seg>Il risultato potrebbe essere che nessuna chiave esterna Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corrispondente a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; questo postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esista&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; più.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160130Z" creationid="steevie" creationdate="20180206T080142Z">
+        <seg>Il risultato potrebbe essere che nessuna chiave esterna Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corrispondente a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; questo postcode (codice postale)&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esista&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; più.</seg>
       </tuv>
     </tu>
     <tu>
