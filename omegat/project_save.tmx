@@ -11118,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have chosen to have a group header and perhaps a group footer, these elements will appear as sections in the report navigator under the corresponding fieldname &lt;f0&gt;Reader_Name&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084847Z" creationid="Alessia Mazzarini" creationdate="20180321T084726Z">
+        <seg>Se avete scelto di inserire un'intestazione e un piè di pagina del gruppo, questi elementi appariranno nel navigatore rapporto come sezioni sotto il corrispettivo nome campo&lt;f0&gt;Nome_Lettore&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have chosen to use a graphic, its alignment with the label can be set here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205039Z" creationid="Marco Marega" creationdate="20171109T205039Z">
