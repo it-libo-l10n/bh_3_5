@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3320,8 +3320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reader_Name header&lt;/f0&gt;&lt;f1&gt; is the header for the grouped and sorted data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T091035Z" creationid="Alessia Mazzarini" creationdate="20180321T091035Z">
-        <seg>L'&lt;f0&gt;intestazione Nome_lettore&lt;/f0&gt;&lt;f1&gt; rappresenta l'intestazione dei dati raggruppari e ordinati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T203221Z" creationid="Alessia Mazzarini" creationdate="20180321T091035Z">
+        <seg>L'&lt;f0&gt;intestazione Nome_lettore&lt;/f0&gt;&lt;f1&gt; rappresenta l'intestazione dei dati raggruppati e ordinati.</seg>
       </tuv>
     </tu>
     <tu>
