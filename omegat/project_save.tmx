@@ -5342,6 +5342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively you can group by initial letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082708Z" creationid="Alessia Mazzarini" creationdate="20180321T082708Z">
+        <seg>In alternativa, è possibile raggruppare in base all'iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170452Z" creationid="Marina Latini" creationdate="20171207T170452Z">
@@ -6210,6 +6218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210715Z" creationid="Marco Marega" creationdate="20171014T210715Z">
         <seg>Anche per questo il valore predefinito è &lt;f1&gt;Si&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default there is a new group for each value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082525Z" creationid="Alessia Mazzarini" creationdate="20180321T082525Z">
+        <seg>Per impostazione predefinita, ogni valore ha un nuovo gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15786,6 +15802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170451Z" creationid="Manuel Frassinetti" creationdate="20171202T164412Z">
         <seg>Così ad esempio, il campo Nome è stato trascinato nella posizione direttamente prima del campo Prestito_data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So if the &lt;f0&gt;Reader_Name&lt;/f0&gt; changes, a new group is started.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082614Z" creationid="Alessia Mazzarini" creationdate="20180321T082614Z">
+        <seg>Quindi se cambiamo il &lt;f0&gt;Nome_Lettore&lt;/f0&gt;, si crea un nuovo gruppo.</seg>
       </tuv>
     </tu>
     <tu>
