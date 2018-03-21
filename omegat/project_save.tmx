@@ -4494,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A group can be set either to be kept together with the first details section, or, as far as possible, as a complete group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083606Z" creationid="Alessia Mazzarini" creationdate="20180321T083606Z">
+        <seg>Potete scegliere se mantenere assieme il gruppo con la sezione del primo dettaglio, o, per quanto possibile, come un gruppo intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A hexadecimal example string is: '0004ff', which represents 3 bytes, first 0, then 4 and finally 255 (0xff).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212729Z" creationid="Marco Marega" creationdate="20180219T212729Z">
