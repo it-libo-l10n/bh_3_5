@@ -3264,8 +3264,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;roduce form letters such as bills, recall notices, or notifications to people joining or leaving an association</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T084719Z" creationid="Alessia Mazzarini" creationdate="20180311T182641Z">
-        <seg>&lt;f0&gt;P&lt;/f0&gt;rodurre lettere prestampate come fatture, notifiche di richiamo, o comunicazioni a persone che entrano a far parte o lasciano un'associazione</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083702Z" creationid="Alessia Mazzarini" creationdate="20180311T182641Z">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;rodurre lettere prestampate come fatture, notifiche di riconsegna, o comunicazioni a persone che entrano a far parte o lasciano un'associazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -6290,6 +6290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
         <seg>In modo predefinito, l'etichetta non viene spezzata per andare a capo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, this option is set to &lt;f0&gt;No&lt;/f0&gt; .</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084055Z" creationid="Alessia Mazzarini" creationdate="20180321T084055Z">
+        <seg>Il valore predefinito, è impostato su &lt;f0&gt;No&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
