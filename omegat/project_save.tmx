@@ -6070,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both can be independently moved, changed in size and dragged to different sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085357Z" creationid="Alessia Mazzarini" creationdate="20180321T085357Z">
+        <seg>Entrambi possono essere liberamente spostati, ridimensionati e trascinati in sezioni diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Built-in functions and stored procedures</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100219Z" creationid="Marina Latini" creationdate="20171207T100219Z">
@@ -10096,8 +10104,8 @@
       <tuv lang="EN">
         <seg>However in this case, the label and the field contents are not tied together.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085214Z" creationid="Alessia Mazzarini" creationdate="20180321T085214Z">
-        <seg>In questo caso, tuttavia, i contenuti dell'etichetta e del campo non saranno uniti.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085301Z" creationid="Alessia Mazzarini" creationdate="20180321T085214Z">
+        <seg>In questo caso, tuttavia, i contenuti dell'etichetta e del campo non saranno legati tra di loro.</seg>
       </tuv>
     </tu>
     <tu>
