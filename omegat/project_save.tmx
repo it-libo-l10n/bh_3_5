@@ -3318,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reader_Name header&lt;/f0&gt;&lt;f1&gt; is the header for the grouped and sorted data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T091035Z" creationid="Alessia Mazzarini" creationdate="20180321T091035Z">
+        <seg>L'&lt;f0&gt;intestazione Nome_lettore&lt;/f0&gt;&lt;f1&gt; rappresenta l'intestazione dei dati raggruppari e ordinati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Record action&lt;/f0&gt;: This includes, for example, storage using a button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201604Z" creationid="Marco Marega" creationdate="20171015T201604Z">
@@ -16560,8 +16568,8 @@
       <tuv lang="EN">
         <seg>That depends on the page settings; if an upper margin has been set, it lies above the page header.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090748Z" creationid="Alessia Mazzarini" creationdate="20180321T090748Z">
-        <seg>Questo dipende infatti dalle impostazioni della pagina; se è stato impostato un margine superiore, si troverà al di sopra dell'intestazione di pagina.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090914Z" creationid="Alessia Mazzarini" creationdate="20180321T090748Z">
+        <seg>Dipende infatti dalle impostazioni della pagina; se è stato impostato un margine superiore, quest'ultimo si troverà al di sopra dell'intestazione di pagina.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18024,8 +18032,8 @@
       <tuv lang="EN">
         <seg>The fact that this level is called &lt;f3&gt;Page header &lt;/f3&gt;&lt;f4&gt;does not imply that there is no space above it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090602Z" creationid="Alessia Mazzarini" creationdate="20180321T090602Z">
-        <seg>Il fatto che questo livello di chiami &lt;f3&gt;Intestazione pagina &lt;/f3&gt;&lt;f4&gt;non implica che non ci sia spazio al di sopra.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090837Z" creationid="Alessia Mazzarini" creationdate="20180321T090602Z">
+        <seg>Il fatto che questo livello si chiami &lt;f3&gt;Intestazione pagina &lt;/f3&gt;&lt;f4&gt;non implica che non ci sia spazio al di sopra.</seg>
       </tuv>
     </tu>
     <tu>
