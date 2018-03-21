@@ -1168,8 +1168,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Therefore, r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ecords in the Town table which are to be deleted should not be referenced in either of these tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162536Z" creationid="steevie" creationdate="20180216T162536Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Quindi, i r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ecord di dati nella tabella Town che vorrete cancellare non devono essere referenziati in alcuna di queste due tabelle.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162647Z" creationid="steevie" creationdate="20180216T162536Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Quindi, i r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ecord di dati che volete cancellare dalla tabella Town non devono essere referenziati in alcuna di queste due tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,8 +1760,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If a table contains foreign keys from several other tables, the query needs to be extended accordingly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162650Z" creationid="steevie" creationdate="20180216T162325Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Se una tabella contiene chiavi esterne da diverse altre tabelle, dovete estendere l'interrogazione di conseguenza.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162606Z" creationid="steevie" creationdate="20180216T162325Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se una tabella contiene chiavi esterne da diverse altre tabelle, dovete estendere la query di conseguenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12000,8 +12000,8 @@
       <tuv lang="EN">
         <seg>In the case just described, almost all the example authors are in use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160902Z" creationid="steevie" creationdate="20180216T160902Z">
-        <seg>Nel caso appena presentato, quasi tutti gli autori dell'esempio sono in uso.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162146Z" creationid="steevie" creationdate="20180216T160902Z">
+        <seg>Nel caso appena presentato, quasi tutti gli autori dell'esempio sono utilizzati in qualche relazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12704,8 +12704,8 @@
       <tuv lang="EN">
         <seg>It can be switched off and on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161652Z" creationid="steevie" creationdate="20180216T161652Z">
-        <seg>Potete attivarlo e disattivarlo.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162509Z" creationid="steevie" creationdate="20180216T161652Z">
+        <seg>Si può attivare e disattivare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12808,8 +12808,8 @@
       <tuv lang="EN">
         <seg>It is found in the form properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161451Z" creationid="steevie" creationdate="20180216T161451Z">
-        <seg>Lo potete trovare nelle proprietà del formulario.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162211Z" creationid="steevie" creationdate="20180216T161451Z">
+        <seg>Potete trovarlo nelle proprietà del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16264,8 +16264,8 @@
       <tuv lang="EN">
         <seg>Such a filter is activated automatically when the form is launched.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161526Z" creationid="steevie" creationdate="20180216T161526Z">
-        <seg>Potete attivare automaticamente un filtro come questo quando lanciate il formulario.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162451Z" creationid="steevie" creationdate="20180216T161526Z">
+        <seg>Potete caricare automaticamente un filtro come questo quando lanciate il formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17392,8 +17392,8 @@
       <tuv lang="EN">
         <seg>The above filter is part of a query which can be used to find orphaned entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162658Z" creationid="steevie" creationdate="20180216T162012Z">
-        <seg>Il filtro riportato sopra è parte di una interrogazione che può essere utilizzata per trovare voci orfane.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162557Z" creationid="steevie" creationdate="20180216T162012Z">
+        <seg>Il filtro riportato sopra è parte di una query che può essere utilizzata per trovare voci orfane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20536,8 +20536,8 @@
       <tuv lang="EN">
         <seg>This affects, for example, the Town table, which has foreign keys in both the Media table and the Postcode table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162411Z" creationid="steevie" creationdate="20180216T162411Z">
-        <seg>Questo interessa, ad esempio, la tabella Town, che ha una chiave esterna sia nella tabella Media che in Postcode.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162622Z" creationid="steevie" creationdate="20180216T162411Z">
+        <seg>Questo succede, ad esempio, nella tabella Town, che ha una chiave esterna sia nella tabella Media che in Postcode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21136,8 +21136,8 @@
       <tuv lang="EN">
         <seg>This is determined by the following query:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162637Z" creationid="steevie" creationdate="20180216T162637Z">
-        <seg>Questo è definito nella seguente interrogazione:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162726Z" creationid="steevie" creationdate="20180216T162637Z">
+        <seg>Si può ottenere questo risultato con la seguente query:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
