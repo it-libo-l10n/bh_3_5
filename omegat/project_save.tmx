@@ -1840,8 +1840,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;It is just these queries, used in the previous section to filter data, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; prove unsatisfactory in regard to the maximum speed of searching a database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T165100Z" creationid="steevie" creationdate="20180216T163223Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Sono solamente queste ricerche, usate nella sezione precedente per filtrare i dati, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; si rivelano scadenti riguardo alla massimo velocità di ricerca in un database.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163022Z" creationid="steevie" creationdate="20180216T163223Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sono solamente le query come quelle usate nella sezione precedente per filtrare i dati, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; si rivelano insoddisfacenti come velocità massima di ricerca in un database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1888,8 +1888,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Orphaned entries can then be deleted by selecting all the entries that pass the set filter, and using the Delete option in the context menu of the record pointer, called up by &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;right-&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;clicking.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180216T163107Z" creationid="steevie" creationdate="20180216T163107Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Potrete poi cancellare voci orfane selezionando tutte le voci che superano il filtro impostato e usando l'opzione Cancella nel menu contestuale del puntatore del record, invocato con un &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;clic&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;con il pulsante destro del mouse.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162827Z" creationid="steevie" creationdate="20180216T163107Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Potrete quindi cancellare voci orfane selezionando tutte le voci che superano il filtro impostato .Usate l'opzione Cancella nel menu contestuale del puntatore del record, invocandolo con un &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;clic&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;del pulsante destro del mouse.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,8 +2016,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The more listboxes &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;are built into a form, and the more they contain, the longer the form takes to load, since these listboxes &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;must&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; be created.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T171715Z" creationid="steevie" creationdate="20180226T171715Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Più le liste di scelta &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sono integrate in un formulario, e più oggetti contengono, maggiore sarà il tempo impiegato dal formulario per caricarsi, poiché queste liste di scelta &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;devono&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; essere create.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163315Z" creationid="steevie" creationdate="20180226T171715Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Più le liste di scelta &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sono integrate in un formulario e più oggetti contengono, maggiore sarà il tempo impiegato dal formulario per caricarsi. Infatti queste liste di scelta &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;devono&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; essere create.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7680,8 +7680,8 @@
       <tuv lang="EN">
         <seg>Effect of queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095754Z" creationid="Marina Latini" creationdate="20171207T095754Z">
-        <seg>Effetto delle ricerche</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162902Z" creationid="Marina Latini" creationdate="20171207T095754Z">
+        <seg>Effetto delle query</seg>
       </tuv>
     </tu>
     <tu>
@@ -13408,8 +13408,8 @@
       <tuv lang="EN">
         <seg>Listboxes are created using queries, and these queries must be run when the form is loaded for each listbox.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172135Z" creationid="steevie" creationdate="20180226T172135Z">
-        <seg>Le liste di scelta vengono create per mezzo di interrogazioni, che devono essere lanciate per ognuna di esse quando il formulario viene caricato.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163447Z" creationid="steevie" creationdate="20180226T172135Z">
+        <seg>Le liste di scelta vengono create per mezzo di query, che devono essere lanciate per ognuna di esse quando il formulario viene caricato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16280,8 +16280,8 @@
       <tuv lang="EN">
         <seg>Such a query is therefore not suitable for daily use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;but may be required for&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;maintenance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T171106Z" creationid="steevie" creationdate="20180226T170540Z">
-        <seg>Una interrogazione così non è quindi adatta per l'uso giornaliero &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ma potrebbe essere necessaria nel &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;per operazioni di manutenzione.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163204Z" creationid="steevie" creationdate="20180226T170540Z">
+        <seg>Una tale query non è quindi adatta per l'uso giornaliero &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ma potrebbe essere necessaria nel &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;per operazioni di manutenzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17544,8 +17544,8 @@
       <tuv lang="EN">
         <seg>The better the Base program sets up the graphical interface and initially reads the listbox contents only partially, the less delay there will be.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172032Z" creationid="steevie" creationdate="20180226T172032Z">
-        <seg>Quanto meglio Base lancia l'interfaccia grafica e inizialmente legge solo parzialmente il contenuto delle liste di scelta, tanto minore sarà il ritardo.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163435Z" creationid="steevie" creationdate="20180226T172032Z">
+        <seg>Quanto meglio Base lancia l'interfaccia grafica, leggendo inizialmente solo in parte il contenuto delle liste di scelta, tanto minore sarà il ritardo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19296,8 +19296,8 @@
       <tuv lang="EN">
         <seg>The problem is that in large databases, the subquery retrieves a correspondingly large amount of data with which each single displayable record must be compared.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170435Z" creationid="steevie" creationdate="20180226T165332Z">
-        <seg>Il problema è che in grandi database, le interrogazioni parziali recuperano una quantità di dati altrettanto grande, che deve essere confrontata con ogni singolo record di dati che potrebbe essere mostrato.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163046Z" creationid="steevie" creationdate="20180226T165332Z">
+        <seg>Il problema è che in grandi database, le subquery (interrogazioni parziali) recuperano una quantità di dati altrettanto grande, che deve essere confrontata con ogni singolo record di dati che potrebbe essere mostrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19416,8 +19416,8 @@
       <tuv lang="EN">
         <seg>The query&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170532Z" creationid="steevie" creationdate="20180226T170532Z">
-        <seg>L'interrogazione &lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163111Z" creationid="steevie" creationdate="20180226T170532Z">
+        <seg>La query&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
