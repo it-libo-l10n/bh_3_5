@@ -22104,8 +22104,8 @@
       <tuv lang="EN">
         <seg>Two output formats for reports are available for selection: &lt;f0&gt;ODF Text document&lt;/f0&gt; (a Writer document) or &lt;f1&gt;ODF Spreadsheet&lt;/f1&gt; (a Calc document).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T170514Z" creationid="steevie" creationdate="20180226T165433Z">
-        <seg>Si possono selezionare due formati finali per i rapporti: &lt;f0&gt;Documento di testo ODF&lt;/f0&gt; (un documento Writer) oppure &lt;f1&gt;Tabella ODF&lt;/f1&gt; (un documento Calc).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T203440Z" creationid="steevie" creationdate="20180226T165433Z">
+        <seg>Si possono selezionare due formati finali per i rapporti: &lt;f0&gt;Documento di testo ODF&lt;/f0&gt; (un documento Writer) oppure &lt;f1&gt;Foglio elettronico ODF&lt;/f1&gt; (un documento Calc).</seg>
       </tuv>
     </tu>
     <tu>
