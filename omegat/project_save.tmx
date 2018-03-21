@@ -9950,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you could also have a letterhead with a logo, since the incorporation of graphics is possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090445Z" creationid="Alessia Mazzarini" creationdate="20180321T090445Z">
+        <seg>È possibile anche incorporare dei grafici, quindi potreste scegliere di inserire in questa sezione una carta intestata con un logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you need to enter data that will be needed for the creation of reminder letters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135420Z" creationid="Marco Marega" creationdate="20180203T135420Z">
