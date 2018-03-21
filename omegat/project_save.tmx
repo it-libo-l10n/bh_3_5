@@ -3966,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; another menu, &lt;f3&gt;you can choose &lt;/f3&gt;that each group &lt;f4&gt;(in this case, each reader name) &lt;/f4&gt;be followed by a page break before dealing with the next value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084458Z" creationid="Alessia Mazzarini" creationdate="20180321T084458Z">
+        <seg>&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; un altro menu, &lt;f3&gt;è possibile scegliere&lt;/f3&gt;che ogni gruppo &lt;f4&gt;(in questo caso, ogni nome lettore) &lt;/f4&gt;sia seguito da una interruzione di pagina prima di affrontare il valore successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In addition to&lt;/f1&gt; the &lt;f2&gt;ID&lt;/f2&gt; (primary key) field and the &lt;f3&gt;Media_ID_BC&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;field&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;(entry of media using a bar-code scanner), all fields are to be used in the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202140Z" creationid="Marco Marega" creationdate="20171125T202140Z">
@@ -8882,6 +8890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212806Z" creationid="Marco Marega" creationdate="20180219T212232Z">
         <seg>Per i campi numerici è ammesso qualsiasi numero nell'intervallo, oppure NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For recall notices, you would probably want the group to be arranged so that a separate page is printed for each person who is to receive a recall letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084338Z" creationid="Alessia Mazzarini" creationdate="20180321T084338Z">
+        <seg>Per quanto riguarda le notifiche di riconsegna, è preferibile ordinare il gruppo in modo che venga stampata una pagina diversa per ogni persona che riceverà la lettera di riconsegna.</seg>
       </tuv>
     </tu>
     <tu>
