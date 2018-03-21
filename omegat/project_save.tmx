@@ -9814,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here too you have the possibility of using functions, which will then be limited to this group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084953Z" creationid="Alessia Mazzarini" creationdate="20180321T084953Z">
+        <seg>Qui potete inoltre usare delle funzioni, che verranno di conseguenza limitate al gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here too, if you enter &lt;f0&gt;NULL&lt;/f0&gt;, do not use quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212812Z" creationid="Marco Marega" creationdate="20180219T212309Z">
@@ -10082,6 +10090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141054Z" creationid="Marco Marega" creationdate="20180218T141054Z">
         <seg>In ogni caso nella Figura &lt;t0&gt;10&lt;/t0&gt;, la casella &lt;f1&gt;Univoco&lt;/f1&gt; dell'Indice è stata selezionata, in modo che la combinazione dei campi &lt;f2&gt;LastName (Cognome)&lt;/f2&gt; e &lt;f3&gt;FirstName (Nome)&lt;/f3&gt; possa avere valori che non siano già presenti nella stessa combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However in this case, the label and the field contents are not tied together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085214Z" creationid="Alessia Mazzarini" creationdate="20180321T085214Z">
+        <seg>In questo caso, tuttavia, i contenuti dell'etichetta e del campo non saranno uniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16314,6 +16330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102312Z" creationid="Marina Latini" creationdate="20171207T102312Z">
         <seg>Sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;f0&gt;o&lt;/f0&gt; add fields, us&lt;f1&gt;e&lt;/f1&gt; the &lt;f2&gt;Add field&lt;/f2&gt; function, as with forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085123Z" creationid="Alessia Mazzarini" creationdate="20180321T085123Z">
+        <seg>P&lt;f0&gt;er&lt;/f0&gt; aggiungere dei campi, usat&lt;f1&gt;e&lt;/f1&gt; la funzione&lt;f2&gt;Aggiungi campo&lt;/f2&gt;, come per i formulari.</seg>
       </tuv>
     </tu>
     <tu>
