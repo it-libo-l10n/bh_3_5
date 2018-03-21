@@ -12110,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the fields that are to contain data, the names of the corresponding data fields are shown in light gray.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T091127Z" creationid="Alessia Mazzarini" creationdate="20180321T091127Z">
+        <seg>Nei campi che conterranno i dati, i nomi dei campi dati corrispondenti sono visualizzati in grigio chiaro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the first sub-subform, no existing data are displayed; it is used only for creating new data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220741Z" creationid="Marco Marega" creationdate="20171226T220741Z">
