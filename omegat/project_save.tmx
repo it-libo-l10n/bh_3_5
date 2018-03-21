@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;47&lt;/t2&gt;&lt;/f1&gt; shows the report design for the recall notice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085850Z" creationid="Alessia Mazzarini" creationdate="20180321T085850Z">
+        <seg>&lt;f0&gt;La figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;47&lt;/t2&gt;&lt;/f1&gt; mostra la struttura rapporto per la notifica di riconsegna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;s&lt;/f2&gt;hows the basic divisions of the &lt;f3&gt;Query Design &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;: the graphical area displays the tables &lt;f5&gt;that&lt;/f5&gt; are to be linked to the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164316Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
@@ -8346,6 +8354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181936Z" creationid="Alessia Mazzarini" creationdate="20180316T181936Z">
         <seg>Figura &lt;seq0&gt;46&lt;/seq0&gt;: Ordine e raggruppamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;47&lt;/seq0&gt;: Report design for example recall notice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085758Z" creationid="Alessia Mazzarini" creationdate="20180321T085758Z">
+        <seg>Figura &lt;seq0&gt;47&lt;/seq0&gt;: Struttura rapporto per un esempio di notifica di riconsegna</seg>
       </tuv>
     </tu>
     <tu>
