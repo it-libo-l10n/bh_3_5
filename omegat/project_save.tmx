@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>According to the size of the contact list, one might imagine a grouping on every second initial letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083304Z" creationid="Alessia Mazzarini" creationdate="20180321T083304Z">
+        <seg>A seconda della dimensione dell'elenco contatti, si potrebbe ipotizzare un raggruppamento ogni due iniziali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>According to the type, the size of the field in characters can also be determined.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151638Z" creationid="Marco Marega" creationdate="20180203T151638Z">
@@ -14262,6 +14270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One can imagine for example a grouping for a small telephone directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083139Z" creationid="Alessia Mazzarini" creationdate="20180321T083139Z">
+        <seg>Immaginate per esempio un gruppo per un piccolo elenco telefonico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One database is &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;named&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media_without_macros.odb&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; and the other, extended with the inclusion of macros, is &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;nam&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ed &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Media_with_macros.odb&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T195831Z" creationid="osvaldo" creationdate="20171012T195831Z">
@@ -15786,6 +15802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212325Z" creationid="Marco Marega" creationdate="20171101T212325Z">
         <seg>Quindi &lt;f4&gt;FirstName&lt;/f4&gt; dovrà essere aggiunto nella visualizzazione della casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So A and B would form the first group, then C and D, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083333Z" creationid="Alessia Mazzarini" creationdate="20180321T083333Z">
+        <seg>Quindi A e B formerebbero il primo gruppo, poi C e D e così via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22642,6 +22666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223501Z" creationid="MicrosoftSucks" creationdate="20180316T223501Z">
         <seg>Al momento dell'introduzione dei termini di ricerca, di rado la gente conosce il titolo completamente e accuratamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When grouping by initial letter, you can additionally specify how many letters later the next group should begin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083047Z" creationid="Alessia Mazzarini" creationdate="20180321T083047Z">
+        <seg>Quando raggruppate per iniziale, potete specificare inoltre dopo quante lettere dovrebbe iniziare il gruppo successivo.</seg>
       </tuv>
     </tu>
     <tu>
