@@ -13710,6 +13710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next to the field description &lt;f0&gt;Reader_Name&lt;/f0&gt; you can now see &lt;f1&gt;Header&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T081927Z" creationid="Alessia Mazzarini" creationdate="20180321T081927Z">
+        <seg>Accanto alla descrizione di campo &lt;f0&gt;Nome_Lettore&lt;/f0&gt; ora compare &lt;f1&gt;Intestazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next to the list box, a button is created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175334Z" creationid="Marco Marega" creationdate="20171226T175334Z">
@@ -21318,6 +21326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section is for the group header in the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082012Z" creationid="Alessia Mazzarini" creationdate="20180321T082012Z">
+        <seg>Questa sezione controlla il gruppo intestazione nel rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This separate area can be reached using the name "INFORMATION_SCHEMA".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160437Z" creationid="steevie" creationdate="20180205T160437Z">
@@ -22586,6 +22602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160906Z" creationid="Marco Marega" creationdate="20171230T160906Z">
         <seg>Quando viene premuto il pulsante Refresh, il prestito viene trasferito al campo di controllo tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the entry was created, the left side of the Report Builder immediately showed a new division.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T081815Z" creationid="Alessia Mazzarini" creationdate="20180321T081815Z">
+        <seg>Appena creata la nuova voce, nella parte sinistra del Report Builder compare immediatamente una nuova divisione.</seg>
       </tuv>
     </tu>
     <tu>
