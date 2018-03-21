@@ -3688,8 +3688,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;start&lt;/f1&gt; the Report Builder &lt;f2&gt;from within Base, use&lt;/f2&gt; &lt;f3&gt;Reports &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Create Report in Design View&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T190718Z" creationid="Alessia Mazzarini" creationdate="20180314T185718Z">
-        <seg>&lt;f0&gt;Per &lt;/f0&gt;&lt;f1&gt;aprire&lt;/f1&gt; il Report Builder &lt;f2&gt;dall'interno di Base, scegli&lt;/f2&gt; &lt;f3&gt;Rapporti&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Crea rapporti in vista struttura&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T080620Z" creationid="Alessia Mazzarini" creationdate="20180314T185718Z">
+        <seg>&lt;f0&gt;Per &lt;/f0&gt;&lt;f1&gt;aprire&lt;/f1&gt; il Report Builder &lt;f2&gt;dall'interno di Base, scegli&lt;/f2&gt; &lt;f3&gt;Rapporti&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Crea rapporto in vista struttura&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5824,8 +5824,8 @@
       <tuv lang="EN">
         <seg>At the same time the Add fields dialog is displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203702Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
-        <seg>Contemporaneamente viene visualizzata la finestra di dialogo Aggiungi campi.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T080716Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
+        <seg>Contemporaneamente viene visualizzata la finestra di dialogo Aggiungi campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16674,6 +16674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213442Z" creationid="Marco Marega" creationdate="20171029T213442Z">
         <seg>Il campo &lt;f0&gt;Reader_ID&lt;/f0&gt; &lt;f1&gt;ricorre &lt;/f1&gt;nella tabella Loan che sottostà al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sorting&lt;/f0&gt; property is self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T080613Z" creationid="Alessia Mazzarini" creationdate="20180321T080613Z">
+        <seg>La proprietà &lt;f0&gt;Raggruppa&lt;/f0&gt; è intuitiva.</seg>
       </tuv>
     </tu>
     <tu>
