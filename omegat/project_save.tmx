@@ -1872,8 +1872,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;On the main Base interface, using &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Tools &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;you can directly enter a simple command (which on server databases is only available to the system administrator):&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T153340Z" creationid="steevie" creationdate="20180205T153340Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Nell'interfaccia principale di Base, usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;per poter lanciare direttamente un semplice comando (che sui server database sono disponibili solo per gli amministratori di sistema):&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T154657Z" creationid="steevie" creationdate="20180205T153340Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nell'interfaccia principale di Base, usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;SQL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;per lanciare direttamente semplici comandi, che sui server database sono disponibili solo agli amministratori di sistema:&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +1976,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The database is ta&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ken down and fre&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed from all accumulated waste &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;space&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154036Z" creationid="steevie" creationdate="20180205T154036Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il database è spe&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ntodown e libe&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;rato da tutto lo spreco accumulato di &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;spazio&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155229Z" creationid="steevie" creationdate="20180205T154036Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il database vie&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ne spento e libe&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;rato da tutto lo spreco di &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;spazio&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; accumulatosi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5936,8 +5936,8 @@
       <tuv lang="EN">
         <seg>Bad luck if the primary key has been set to auto-increment, as is commonplace!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154558Z" creationid="steevie" creationdate="20180205T154558Z">
-        <seg>Che sfortuna se la chiave primaria è stata impostata come auto-incrementale, come si fa di solito.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155405Z" creationid="steevie" creationdate="20180205T154558Z">
+        <seg>Una bella sfortuna se la chiave primaria è stata impostata come auto-incrementale, come si fa di solito!</seg>
       </tuv>
     </tu>
     <tu>
