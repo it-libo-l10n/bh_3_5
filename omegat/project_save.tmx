@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7312,8 +7312,8 @@
       <tuv lang="EN">
         <seg>Databases &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; are filled with test data, especially if this includes images, retain the same size even if all these records are subsequently deleted.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152609Z" creationid="steevie" creationdate="20180205T152539Z">
-        <seg>I database &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; sono zeppi di dati di test, specialmente se questi comprendono immagini, mantengono la stessa dimensione, anche se questi record di dati vengono in seguito cancellati,&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T154110Z" creationid="steevie" creationdate="20180205T152539Z">
+        <seg>I database &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;che&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; sono zeppi di dati di test, specialmente se questi comprendono immagini, mantengono la stessa dimensione anche se questi record di dati vengono in seguito cancellati,&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8608,8 +8608,8 @@
       <tuv lang="EN">
         <seg>First, the database grows steadily even though it may not actually contain more data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T151816Z" creationid="steevie" creationdate="20180205T151816Z">
-        <seg>In primo luogo, il database cresce costantemente anche se può non contenere più alcun dato.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T153901Z" creationid="steevie" creationdate="20180205T151816Z">
+        <seg>In primo luogo, il database cresce costantemente anche se potrebbe non contenere più alcun dato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15576,8 +15576,8 @@
       <tuv lang="EN">
         <seg>Second, the automatically created primary key continues to increment regardless of what value for the next key is actually necessary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152215Z" creationid="steevie" creationdate="20180205T152215Z">
-        <seg>In secondo luogo, le chiavi primarie esistenti e create automaticamente continuano ad incrementare, senza considerate quale valore per la chiave successiva sia effettivamente necessario.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20180321T153939Z" creationid="steevie" creationdate="20180205T152215Z">
+        <seg>In secondo luogo, le chiavi primarie create automaticamente continuano ad incrementare, senza considerare quale valore per la chiave successiva sia effettivamente necessario.</seg>
       </tuv>
     </tu>
     <tu>
