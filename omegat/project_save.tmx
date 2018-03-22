@@ -12014,6 +12014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the background of these column headers is a gray rectangle, which also serves as a frame for the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T083804Z" creationid="Alessia Mazzarini" creationdate="20180322T083804Z">
+        <seg>Lo sfondo dell'intestazione di queste colonne è un rettangolo grigio, che fornisce anche una cornice per i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the case just described, almost all the example authors are in use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162146Z" creationid="steevie" creationdate="20180216T160902Z">
