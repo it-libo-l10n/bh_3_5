@@ -9960,8 +9960,8 @@
       <tuv lang="EN">
         <seg>Here you could also have a letterhead with a logo, since the incorporation of graphics is possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090445Z" creationid="Alessia Mazzarini" creationdate="20180321T090445Z">
-        <seg>È possibile anche incorporare dei grafici, quindi potreste scegliere di inserire in questa sezione una carta intestata con un logo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T081529Z" creationid="Alessia Mazzarini" creationdate="20180321T090445Z">
+        <seg>È possibile anche incorporare delle immagini, quindi potreste scegliere di inserire in questa sezione una carta intestata con un logo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12192,8 +12192,8 @@
       <tuv lang="EN">
         <seg>In the page header is the heading Libre Office Library, inserted as a label field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090009Z" creationid="Alessia Mazzarini" creationdate="20180321T090009Z">
-        <seg>Nell'intestazione di pagina si trova la riga d'intestazione Libre Office Library, inserita come campo etichetta.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T081453Z" creationid="Alessia Mazzarini" creationdate="20180321T090009Z">
+        <seg>Nell'intestazione di pagina si trova la riga d'intestazione Libre Office Library, inserita come testo fisso.</seg>
       </tuv>
     </tu>
     <tu>
