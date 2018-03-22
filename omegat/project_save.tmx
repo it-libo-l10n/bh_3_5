@@ -6272,8 +6272,8 @@
       <tuv lang="EN">
         <seg>By default there is a new group for each value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082525Z" creationid="Alessia Mazzarini" creationdate="20180321T082525Z">
-        <seg>Per impostazione predefinita, ogni valore ha un nuovo gruppo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T080457Z" creationid="Alessia Mazzarini" creationdate="20180321T082525Z">
+        <seg>Per impostazione predefinita, si crea un nuovo gruppo per ogni valore.</seg>
       </tuv>
     </tu>
     <tu>
