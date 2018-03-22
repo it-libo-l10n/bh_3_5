@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name header&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;, in addition to the salutation, we see the column headings for the following table view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T083428Z" creationid="Alessia Mazzarini" creationdate="20180322T083428Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L'intestazione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Nome_Lettore&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; riporta, oltre ai saluti iniziali, le intestazioni delle colonne della successiva tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
@@ -20378,6 +20386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184328Z" creationid="Marco Marega" creationdate="20171013T184328Z">
         <seg>Questi controlli sono suddivisi dall'Interfaccia grafica &lt;/f5&gt;&lt;f6&gt;in varie tipologie.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These elements should appear only once, even if several media are listed.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T083522Z" creationid="Alessia Mazzarini" creationdate="20180322T083522Z">
+        <seg>Questi elementi devono comparire solo una volta, anche se i media elencati sono diversi.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
