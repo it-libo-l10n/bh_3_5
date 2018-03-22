@@ -3728,8 +3728,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;start&lt;/f1&gt; the Report Builder &lt;f2&gt;from within Base, use&lt;/f2&gt; &lt;f3&gt;Reports &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Create Report in Design View&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T080620Z" creationid="Alessia Mazzarini" creationdate="20180314T185718Z">
-        <seg>&lt;f0&gt;Per &lt;/f0&gt;&lt;f1&gt;aprire&lt;/f1&gt; il Report Builder &lt;f2&gt;dall'interno di Base, scegli&lt;/f2&gt; &lt;f3&gt;Rapporti&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Crea rapporto in vista struttura&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091359Z" creationid="Alessia Mazzarini" creationdate="20180314T185718Z">
+        <seg>&lt;f0&gt;Per &lt;/f0&gt;&lt;f1&gt;aprire&lt;/f1&gt; il Report Builder &lt;f2&gt;dall'interno di Base, scegliete&lt;/f2&gt; &lt;f3&gt;Rapporti&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Crea rapporto in vista struttura&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8864,8 +8864,8 @@
       <tuv lang="EN">
         <seg>For example, if you also want to group and sort by the &lt;f1&gt;Loan_Date&lt;/f1&gt; field, choose this as &lt;f2&gt;the&lt;/f2&gt; second line.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T182724Z" creationid="Alessia Mazzarini" creationdate="20180316T182724Z">
-        <seg>Se volete per esempio raggruppare e ordinare in base al campo&lt;f1&gt;Data_prestito&lt;/f1&gt;, sceglietelo come &lt;f2&gt;seconda&lt;/f2&gt; riga.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091352Z" creationid="Alessia Mazzarini" creationdate="20180316T182724Z">
+        <seg>Se volete per esempio raggruppare e ordinare in base al campo&lt;f1&gt;Loan_Date&lt;/f1&gt;, sceglietelo come &lt;f2&gt;seconda&lt;/f2&gt; riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9704,8 +9704,8 @@
       <tuv lang="EN">
         <seg>Here grouping and sorting are by the &lt;f0&gt;Reader_Name&lt;/f0&gt; field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T182154Z" creationid="Alessia Mazzarini" creationdate="20180316T182154Z">
-        <seg>In questo caso si ordina e raggruppa in base al campo &lt;f0&gt;Nome_lettore&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091311Z" creationid="Alessia Mazzarini" creationdate="20180316T182154Z">
+        <seg>In questo caso si ordina e raggruppa in base al campo &lt;f0&gt;Reader_Name&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11208,8 +11208,8 @@
       <tuv lang="EN">
         <seg>If you have chosen to have a group header and perhaps a group footer, these elements will appear as sections in the report navigator under the corresponding fieldname &lt;f0&gt;Reader_Name&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084847Z" creationid="Alessia Mazzarini" creationdate="20180321T084726Z">
-        <seg>Se avete scelto di inserire un'intestazione e un piè di pagina del gruppo, questi elementi appariranno nel navigatore rapporto come sezioni sotto il corrispettivo nome campo&lt;f0&gt;Nome_Lettore&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091241Z" creationid="Alessia Mazzarini" creationdate="20180321T084726Z">
+        <seg>Se avete scelto di inserire un'intestazione e un piè di pagina del gruppo, questi elementi appariranno nel navigatore rapporto come sezioni sotto il corrispettivo nome campo&lt;f0&gt;Reader_Name&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13904,8 +13904,8 @@
       <tuv lang="EN">
         <seg>Next to the field description &lt;f0&gt;Reader_Name&lt;/f0&gt; you can now see &lt;f1&gt;Header&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T081927Z" creationid="Alessia Mazzarini" creationdate="20180321T081927Z">
-        <seg>Accanto alla descrizione di campo &lt;f0&gt;Nome_Lettore&lt;/f0&gt; ora compare &lt;f1&gt;Intestazione&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091302Z" creationid="Alessia Mazzarini" creationdate="20180321T081927Z">
+        <seg>Accanto alla descrizione di campo &lt;f0&gt;Reader_Name&lt;/f0&gt; ora compare &lt;f1&gt;Intestazione&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16000,8 +16000,8 @@
       <tuv lang="EN">
         <seg>So if the &lt;f0&gt;Reader_Name&lt;/f0&gt; changes, a new group is started.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082614Z" creationid="Alessia Mazzarini" creationdate="20180321T082614Z">
-        <seg>Quindi se cambiamo il &lt;f0&gt;Nome_Lettore&lt;/f0&gt;, si crea un nuovo gruppo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091249Z" creationid="Alessia Mazzarini" creationdate="20180321T082614Z">
+        <seg>Quindi se cambiamo il &lt;f0&gt;Reader_Name&lt;/f0&gt;, si crea un nuovo gruppo.</seg>
       </tuv>
     </tu>
     <tu>
