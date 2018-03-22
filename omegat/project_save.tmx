@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The details area is repeated as often as there are separate records with the same &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T090022Z" creationid="Alessia Mazzarini" creationdate="20180322T090022Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L'area Dettaglio può essere ripetuta per ogni singola entrata con gli stessi dati &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Nome_Lettore&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The filter is hard-&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;cod&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed in this case.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161424Z" creationid="steevie" creationdate="20180216T161424Z">
