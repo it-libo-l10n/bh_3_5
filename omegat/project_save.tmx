@@ -9686,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are listed all media that have not been returned on time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T090127Z" creationid="Alessia Mazzarini" creationdate="20180322T090127Z">
+        <seg>Qui vengono elencati tutti i media che non sono stati riconsegnati in tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here further tables or queries can subsequently be added and made visible in the graphical user interface.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161520Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
@@ -20206,6 +20214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is another &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;rectangle in the background to frame the contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T090224Z" creationid="Alessia Mazzarini" creationdate="20180322T090224Z">
+        <seg>Un altro rettangolo &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;sullo sfondo incornicia i contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is no check on whether a field can be NULL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204741Z" creationid="Marco Marega" creationdate="20171026T204741Z">
@@ -21554,6 +21570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221620Z" creationid="Marco Marega" creationdate="20171217T221620Z">
         <seg>Questo record verrà letto e riscritto ripetutamente dal formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This rectangle is filled with white rather than gray.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T090257Z" creationid="Alessia Mazzarini" creationdate="20180322T090257Z">
+        <seg>In questo caso il rettangolo è bianco invece che grigio.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
