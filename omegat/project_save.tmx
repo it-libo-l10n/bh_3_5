@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;=TODAY()&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; field represents a built-in function, which inserts the current date into this position.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T082701Z" creationid="Alessia Mazzarini" creationdate="20180322T082701Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il campo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;=OGGI()&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; rappresenta una funzione integrata, in grado di inserire in questa posizione la data attuale.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The Base environment contains four work areas: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;T&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ables, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Q&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ueries, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;F&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;orms, and &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;R&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;eports.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T220338Z" creationid="osvaldo" creationdate="20180103T220014Z">
@@ -15430,6 +15438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "FirstName"||' '||"LastName"||CHAR(13)||"Street"||' '||"No"||CHAR13||"Postcode"||' '||"Town" FROM "FirstName"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T082558Z" creationid="Alessia Mazzarini" creationdate="20180322T082558Z">
+        <seg>SELEZIONA "Nome"||' '||"Cognome"||CHAR(13)||"Via"||' '||"Numero"||CHAR13||"CodicePostale"||' '||"Città" DA "Nome"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
@@ -23386,6 +23402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144519Z" creationid="Marco Marega" creationdate="20180218T144519Z">
         <seg>Poi potete inserire i comandi nell'area superiore della finestra (mostrata nella Figura &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use &lt;/f1&gt;&lt;f2&gt;CHAR(13)&lt;/f2&gt;&lt;f3&gt; to create them.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T082439Z" creationid="Alessia Mazzarini" creationdate="20180322T082439Z">
+        <seg>Per crearle, potete utilizzare &lt;/f1&gt;&lt;f2&gt;CHAR(13)&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
