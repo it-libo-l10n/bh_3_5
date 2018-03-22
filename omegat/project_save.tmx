@@ -2990,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In principle L&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ibre&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;O&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; provides for the possibility of adding horizontal and vertical lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091716Z" creationid="Alessia Mazzarini" creationdate="20180322T091716Z">
+        <seg>&lt;f0&gt;In linea di principio, L&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ibre&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;O&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; consente di aggiungere righe orizzontali e verticali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the Form Navigator (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;23&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), r&lt;/f3&gt;ight-click on &lt;f4&gt;Forms&lt;/f4&gt; &lt;f5&gt;to&lt;/f5&gt; open a context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T135152Z" creationid="Marco Marega" creationdate="20171014T135152Z">
@@ -3344,8 +3352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reader_Name header&lt;/f0&gt;&lt;f1&gt; is the header for the grouped and sorted data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T203221Z" creationid="Alessia Mazzarini" creationdate="20180321T091035Z">
-        <seg>L'&lt;f0&gt;intestazione Nome_lettore&lt;/f0&gt;&lt;f1&gt; rappresenta l'intestazione dei dati raggruppati e ordinati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091546Z" creationid="Alessia Mazzarini" creationdate="20180321T091035Z">
+        <seg>L'&lt;f0&gt;intestazione Reader_Name&lt;/f0&gt;&lt;f1&gt; rappresenta l'intestazione dei dati raggruppati e ordinati.</seg>
       </tuv>
     </tu>
     <tu>
