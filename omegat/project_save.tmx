@@ -1872,8 +1872,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Keep together&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; refers here to the page break.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192714Z" creationid="Alessia Mazzarini" creationdate="20180323T192714Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Mantenere assieme&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; fa riferimento qui all'interruzione di pagina.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192826Z" creationid="Alessia Mazzarini" creationdate="20180323T192714Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Mantieni assieme&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; fa riferimento qui all'interruzione di pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18490,6 +18490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214856Z" creationid="Marco Marega" creationdate="20171213T214856Z">
         <seg>I caratteri, ad esempio, possono essere impostati solamente per l'intero campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The footer is so defined that an additional page break will occur after this area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192928Z" creationid="Alessia Mazzarini" creationdate="20180323T192928Z">
+        <seg>Il piè di pagina è impostato in modo da essere seguito da un'interruzione di pagina aggiuntiva.</seg>
       </tuv>
     </tu>
     <tu>
