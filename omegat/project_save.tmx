@@ -10000,8 +10000,8 @@
       <tuv lang="EN">
         <seg>Here you could also have a letterhead with a logo, since the incorporation of graphics is possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T081529Z" creationid="Alessia Mazzarini" creationdate="20180321T090445Z">
-        <seg>È possibile anche incorporare delle immagini, quindi potreste scegliere di inserire in questa sezione una carta intestata con un logo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T185147Z" creationid="Alessia Mazzarini" creationdate="20180321T090445Z">
+        <seg>Qui potreste anche aggiungere, visto che è possibile l'incorporazione di immagini, una carta intestata con un logo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16104,8 +16104,8 @@
       <tuv lang="EN">
         <seg>So, for example, the view underlying the report has a field named Address, containing the complete address of the recipient with street and town.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T082159Z" creationid="Alessia Mazzarini" creationdate="20180322T082159Z">
-        <seg>Quindi, per esempio, la visualizzazione alla base del rapporto contiene un campo intitolato Indirizzo che riporta l'indirizzo del destinatario completo di strada e città.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T185406Z" creationid="Alessia Mazzarini" creationdate="20180322T082159Z">
+        <seg>Quindi, per esempio, la visualizzazione alla base del rapporto contiene un campo intitolato Address che riporta l'indirizzo del destinatario completo di strada e città.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16632,8 +16632,8 @@
       <tuv lang="EN">
         <seg>That depends on the page settings; if an upper margin has been set, it lies above the page header.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090914Z" creationid="Alessia Mazzarini" creationdate="20180321T090748Z">
-        <seg>Dipende infatti dalle impostazioni della pagina; se è stato impostato un margine superiore, quest'ultimo si troverà al di sopra dell'intestazione di pagina.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T185230Z" creationid="Alessia Mazzarini" creationdate="20180321T090748Z">
+        <seg>Ciò dipende dalle impostazioni della pagina; se è stato impostato un margine superiore, quest'ultimo si troverà al di sopra dell'intestazione di pagina.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
