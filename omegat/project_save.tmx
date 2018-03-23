@@ -11808,8 +11808,8 @@
       <tuv lang="EN">
         <seg>In particular, if sorting within the report is required, always use a query that makes provision for sorting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T092633Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
-        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare un'interrogazione che si occupi dell'ordinamento.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175955Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
+        <seg>In particolare, se è necessario ordinare i dati all'interno del rapporto, è opportuno usare un'interrogazione in grado di provvedere all'ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21464,8 +21464,8 @@
       <tuv lang="EN">
         <seg>This means that queries in direct SQL mode should be avoided under these conditions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193440Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
-        <seg>Questo vuol dire che le interrogazioni SQL in tali circostanze vanno evitate.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T180104Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
+        <seg>Questo vuol dire che le interrogazioni in modalità SQL diretta andrebbero evitate in tali circostanze.</seg>
       </tuv>
     </tu>
     <tu>
