@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;These lines have the further disadvantage that they are interpreted only as hairlines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T191257Z" creationid="Alessia Mazzarini" creationdate="20180323T191257Z">
+        <seg>&lt;f0&gt;Queste righe hanno l'ulteriore svantaggio di essere interpretate solo come righe sottilissime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This limits the number of records to be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150603Z" creationid="manuel" creationdate="20180224T150603Z">
