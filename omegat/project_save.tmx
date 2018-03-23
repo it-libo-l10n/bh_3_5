@@ -1808,8 +1808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name header&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;, in addition to the salutation, we see the column headings for the following table view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091209Z" creationid="Alessia Mazzarini" creationdate="20180322T083428Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;L'intestazione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; riporta, oltre ai saluti iniziali, le intestazioni delle colonne della successiva tabella.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T185642Z" creationid="Alessia Mazzarini" creationdate="20180322T083428Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L'intestazione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; riporta, oltre alla formula di saluto, le intestazioni delle colonne della tabella successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;=TODAY()&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; field represents a built-in function, which inserts the current date into this position.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091141Z" creationid="Alessia Mazzarini" creationdate="20180322T082701Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il campo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;=TODAY()&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; rappresenta una funzione integrata, in grado di inserire in questa posizione la data attuale.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T185512Z" creationid="Alessia Mazzarini" creationdate="20180322T082701Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il campo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;=TODAY()&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; rappresenta una funzione integrata, che inserisce in questa posizione la data attuale.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
