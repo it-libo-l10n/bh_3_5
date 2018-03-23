@@ -17040,8 +17040,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;u&lt;/f0&gt;ser &lt;f1&gt;i&lt;/f1&gt;nterface of the Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T185342Z" creationid="Alessia Mazzarini" creationdate="20180314T185342Z">
-        <seg>L' &lt;f0&gt;I&lt;/f0&gt;nterfaccia&lt;f1&gt;u&lt;/f1&gt;tente del Report Builder</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T180420Z" creationid="Alessia Mazzarini" creationdate="20180314T185342Z">
+        <seg>L' &lt;f0&gt;i&lt;/f0&gt;nterfaccia&lt;f1&gt;u&lt;/f1&gt;tente del Report Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -23240,8 +23240,8 @@
       <tuv lang="EN">
         <seg>Without content from the database, a report has no proper function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203518Z" creationid="Alessia Mazzarini" creationdate="20180315T203251Z">
-        <seg>Per funzionare correttamente, un rapporto ha bisogno di contenuto dal database.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T180658Z" creationid="Alessia Mazzarini" creationdate="20180315T203251Z">
+        <seg>Per funzionare correttamente, un rapporto ha bisogno di contenuto a partire dal database.</seg>
       </tuv>
     </tu>
     <tu>
