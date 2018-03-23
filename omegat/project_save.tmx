@@ -8872,8 +8872,8 @@
       <tuv lang="EN">
         <seg>For example, if you also want to group and sort by the &lt;f1&gt;Loan_Date&lt;/f1&gt; field, choose this as &lt;f2&gt;the&lt;/f2&gt; second line.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091352Z" creationid="Alessia Mazzarini" creationdate="20180316T182724Z">
-        <seg>Se volete per esempio raggruppare e ordinare in base al campo&lt;f1&gt;Loan_Date&lt;/f1&gt;, sceglietelo come &lt;f2&gt;seconda&lt;/f2&gt; riga.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T183044Z" creationid="Alessia Mazzarini" creationdate="20180316T182724Z">
+        <seg>Ad esempio, se volete raggruppare e ordinare anche in base al campo&lt;f1&gt;Loan_Date&lt;/f1&gt;, sceglietelo come &lt;f2&gt;seconda&lt;/f2&gt; riga.</seg>
       </tuv>
     </tu>
     <tu>
