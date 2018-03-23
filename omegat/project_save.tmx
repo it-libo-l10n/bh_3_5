@@ -3712,8 +3712,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;These lines have the further disadvantage that they are interpreted only as hairlines.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T191257Z" creationid="Alessia Mazzarini" creationdate="20180323T191257Z">
-        <seg>&lt;f0&gt;Queste righe hanno l'ulteriore svantaggio di essere interpretate solo come righe sottilissime.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192122Z" creationid="Alessia Mazzarini" creationdate="20180323T191257Z">
+        <seg>&lt;f0&gt;Queste righe hanno l'ulteriore svantaggio di venire rappresentate solo come righe sottilissime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5920,8 +5920,8 @@
       <tuv lang="EN">
         <seg>At present they do not appear when the report is complete.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T190735Z" creationid="Alessia Mazzarini" creationdate="20180323T190735Z">
-        <seg>Al momento, non vengono visualizzate quando il rapporto è completo.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192149Z" creationid="Alessia Mazzarini" creationdate="20180323T190735Z">
+        <seg>Al momento, non vengono mostrate quando il rapporto è completo.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21818,6 +21818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140334Z" creationid="Marco Marega" creationdate="20180203T140334Z">
         <seg>Questa scelta è stata fatta in quanto può essere richiesta sia la classe della scuola, sia l'indirizzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will create a horizontal line with a thickness of 0.03cm and a length of 17cm.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192044Z" creationid="Alessia Mazzarini" creationdate="20180323T192044Z">
+        <seg>Otterrete così una riga di 0,03 cm spessore e 17 cm di lunghezza.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
