@@ -3304,8 +3304,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;roduce form letters such as bills, recall notices, or notifications to people joining or leaving an association</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083702Z" creationid="Alessia Mazzarini" creationdate="20180311T182641Z">
-        <seg>&lt;f0&gt;P&lt;/f0&gt;rodurre lettere prestampate come fatture, notifiche di riconsegna, o comunicazioni a persone che entrano a far parte o lasciano un'associazione</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175508Z" creationid="Alessia Mazzarini" creationdate="20180311T182641Z">
+        <seg>&lt;f0&gt;G&lt;/f0&gt;enerare lettere prestampate come fatture, notifiche di riconsegna, o comunicazioni a persone che entrano a far parte o lasciano un'associazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,8 +13896,8 @@
       <tuv lang="EN">
         <seg>Neither can a report present different data elements than those that are available in the underlying data source, as a form can do using list boxes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193054Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
-        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente dati sottostante, al contrario dei formulari che possono invece farlo con caselle di riepilogo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175704Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
+        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente di dati sottostante, al contrario dei formulari che possono invece farlo con caselle di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22368,8 +22368,8 @@
       <tuv lang="EN">
         <seg>Unlike a form, a report cannot include subreports and thus incorporate additional data sources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T084807Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
-        <seg>A differenza di un formulario, un rapporto non può includere dei sottorapporti e quindi incorporare sorgenti dati addizionali.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175514Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
+        <seg>A differenza di un formulario, un rapporto non può includere dei sottorapporti e quindi incorporare sorgenti di dati addizionali.</seg>
       </tuv>
     </tu>
     <tu>
