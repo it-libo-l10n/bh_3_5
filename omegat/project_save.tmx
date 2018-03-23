@@ -4016,8 +4016,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; another menu, &lt;f3&gt;you can choose &lt;/f3&gt;that each group &lt;f4&gt;(in this case, each reader name) &lt;/f4&gt;be followed by a page break before dealing with the next value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084458Z" creationid="Alessia Mazzarini" creationdate="20180321T084458Z">
-        <seg>&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; un altro menu, &lt;f3&gt;è possibile scegliere&lt;/f3&gt;che ogni gruppo &lt;f4&gt;(in questo caso, ogni nome lettore) &lt;/f4&gt;sia seguito da una interruzione di pagina prima di affrontare il valore successivo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184322Z" creationid="Alessia Mazzarini" creationdate="20180321T084458Z">
+        <seg>&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; un altro menu, &lt;f3&gt;è possibile scegliere&lt;/f3&gt;che ogni gruppo &lt;f4&gt;(in questo caso, ogni nome lettore) &lt;/f4&gt;sia seguito da un'interruzione di pagina prima di gestire il valore successivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4552,8 +4552,8 @@
       <tuv lang="EN">
         <seg>A group can be set either to be kept together with the first details section, or, as far as possible, as a complete group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083606Z" creationid="Alessia Mazzarini" creationdate="20180321T083606Z">
-        <seg>Potete scegliere se mantenere assieme il gruppo con la sezione del primo dettaglio, o, per quanto possibile, come un gruppo intero.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184219Z" creationid="Alessia Mazzarini" creationdate="20180321T083606Z">
+        <seg>Potete scegliere se mantenere assieme il gruppo con la sezione del primo dettaglio, o, per quanto possibile, come intero gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6120,8 +6120,8 @@
       <tuv lang="EN">
         <seg>Both can be independently moved, changed in size and dragged to different sections.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085357Z" creationid="Alessia Mazzarini" creationdate="20180321T085357Z">
-        <seg>Entrambi possono essere liberamente spostati, ridimensionati e trascinati in sezioni diverse.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184454Z" creationid="Alessia Mazzarini" creationdate="20180321T085357Z">
+        <seg>Entrambi possono essere liberamente spostati, ridimensionati e trascinati in altre sezioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6360,8 +6360,8 @@
       <tuv lang="EN">
         <seg>By default, this option is set to &lt;f0&gt;No&lt;/f0&gt; .</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084055Z" creationid="Alessia Mazzarini" creationdate="20180321T084055Z">
-        <seg>Il valore predefinito, è impostato su &lt;f0&gt;No&lt;/f0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184242Z" creationid="Alessia Mazzarini" creationdate="20180321T084055Z">
+        <seg>Il valore predefinito di questa opzione, è impostato su &lt;f0&gt;No&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -9888,8 +9888,8 @@
       <tuv lang="EN">
         <seg>Here too you have the possibility of using functions, which will then be limited to this group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084953Z" creationid="Alessia Mazzarini" creationdate="20180321T084953Z">
-        <seg>Qui potete inoltre usare delle funzioni, che verranno di conseguenza limitate al gruppo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184354Z" creationid="Alessia Mazzarini" creationdate="20180321T084953Z">
+        <seg>Qui potete inoltre usare delle funzioni, che verranno di conseguenza limitate a questo gruppo.</seg>
       </tuv>
     </tu>
     <tu>
