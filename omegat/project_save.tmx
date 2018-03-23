@@ -2000,8 +2000,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The details area is repeated as often as there are separate records with the same &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091228Z" creationid="Alessia Mazzarini" creationdate="20180322T090022Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;L'area Dettaglio può essere ripetuta per ogni singola entrata con gli stessi dati &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T190145Z" creationid="Alessia Mazzarini" creationdate="20180322T090022Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L'area Dettaglio è ripetuta tante volte quanti sono i singoli record di dati con lo stesso valore &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Reader_Name&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
