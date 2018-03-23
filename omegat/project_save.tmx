@@ -5902,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At present they do not appear when the report is complete.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T190735Z" creationid="Alessia Mazzarini" creationdate="20180323T190735Z">
+        <seg>Al momento, non vengono visualizzate quando il rapporto è completo.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time the Add fields dialog is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T080716Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
