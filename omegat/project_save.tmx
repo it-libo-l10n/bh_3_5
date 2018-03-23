@@ -7480,8 +7480,8 @@
       <tuv lang="EN">
         <seg>Detail areas show the records belonging to a group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T180928Z" creationid="Alessia Mazzarini" creationdate="20180316T180928Z">
-        <seg>Le aree dettaglio mostrano i dati che appartengono a un gruppo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T182507Z" creationid="Alessia Mazzarini" creationdate="20180316T180928Z">
+        <seg>Le aree dettaglio mostrano i record di dati che appartengono a un gruppo.</seg>
       </tuv>
     </tu>
     <tu>
