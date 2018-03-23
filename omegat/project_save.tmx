@@ -20534,6 +20534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be reproduced better if rectangles are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T191518Z" creationid="Alessia Mazzarini" creationdate="20180323T191518Z">
+        <seg>Vengono rappresentate in maniera più chiara usando i rettangoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They can bring together data from different tables, calculate results where necessary, and quickly filter a specific record from a mass of data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T163743Z" creationid="Manuel Frassinetti" creationdate="20171125T160455Z">
