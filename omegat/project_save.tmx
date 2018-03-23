@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Set t&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;he background of the rectangle to black and the size &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;to&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, for example, 17cm wide and 0.03cm high.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T191901Z" creationid="Alessia Mazzarini" creationdate="20180323T191901Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Impostate l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;o sfondo del rettangolo di color nero, una larghezza&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;di&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, per esempio, 17 cm e un'altezza di 0,03 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;The field “Searchterm” is empty, the &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Title&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; field must be empty also.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224354Z" creationid="MicrosoftSucks" creationdate="20180316T224354Z">
