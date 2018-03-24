@@ -10582,6 +10582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;f0&gt;Print repeated values&lt;/f0&gt; is deactivated, display of the field is inhibited when a field with the same content is loaded directly before.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T160648Z" creationid="Alessia Mazzarini" creationdate="20180324T160648Z">
+        <seg>Se &lt;f0&gt;Stampa valori ripetuti&lt;/f0&gt; è disattivato, la visualizzazione di un campo viene impedita nel caso in cui un campo contenente lo stesso contenuto è caricato direttamente prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;f0&gt;Y&lt;/f0&gt;es, the button can be shown pressed in.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212840Z" creationid="Marco Marega" creationdate="20171126T212840Z">
