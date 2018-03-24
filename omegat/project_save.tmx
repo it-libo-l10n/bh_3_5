@@ -10726,6 +10726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both grouping areas and graphical elements are included, this may result in unpredictable sizes for certain &lt;/f0&gt;&lt;f1&gt;areas.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T152700Z" creationid="Alessia Mazzarini" creationdate="20180324T152700Z">
+        <seg>Nel caso in cui si includano sia aree di raggruppamento che elementi grafici, ciò può comportare dimensioni imprevedibili per alcune &lt;/f0&gt;&lt;f1&gt;aree.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
