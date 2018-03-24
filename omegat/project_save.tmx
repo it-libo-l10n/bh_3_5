@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to&lt;/f0&gt; text fields (which, contrary to their name, can also contain numbers and formatting), there is also a field type that can contain images from the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T154947Z" creationid="Alessia Mazzarini" creationdate="20180324T154947Z">
+        <seg>&lt;f0&gt;Oltre&lt;/f0&gt; ai campi di testo (che, contrariamente al nome, possono includere anche numeri e formattazione), esiste anche un tipo di campo che può contenere immagini del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to&lt;/f0&gt; the properties described on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are avail&lt;f2&gt;a&lt;/f2&gt;ble.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204923Z" creationid="Marco Marega" creationdate="20171118T204923Z">
@@ -5942,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with forms, fields are given names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T155110Z" creationid="Alessia Mazzarini" creationdate="20180324T155110Z">
+        <seg>Come nel caso dei formulari, ai campi viene assegnato un nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with forms, properties are grouped into three categories: General, Data and Events.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210536Z" creationid="Marco Marega" creationdate="20171015T210536Z">
@@ -6442,6 +6458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204217Z" creationid="Marco Marega" creationdate="20171109T204217Z">
         <seg>In modo predefinito, l'etichetta non viene spezzata per andare a capo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the name is that of the underlying database field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T155207Z" creationid="Alessia Mazzarini" creationdate="20180324T155207Z">
+        <seg>Per impostazione predefinita, il nome è lo stesso del campo database sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17834,6 +17858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220100Z" creationid="Marco Marega" creationdate="20171210T220100Z">
         <seg>La modifica è resa visibile nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt; dalla modifica dell'icona abbinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chart field displays a summary of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T155018Z" creationid="Alessia Mazzarini" creationdate="20180324T155018Z">
+        <seg>Il campo Grafico presenta un sommario di dati.</seg>
       </tuv>
     </tu>
     <tu>
