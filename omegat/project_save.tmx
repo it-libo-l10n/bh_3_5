@@ -1872,8 +1872,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Keep together&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; refers here to the page break.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192826Z" creationid="Alessia Mazzarini" creationdate="20180323T192714Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Mantieni assieme&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; fa riferimento qui all'interruzione di pagina.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T145308Z" creationid="Alessia Mazzarini" creationdate="20180323T192714Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Mantieni assieme&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; si riferisce in questo caso all'interruzione di pagina.</seg>
       </tuv>
     </tu>
     <tu>
