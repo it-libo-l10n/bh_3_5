@@ -3430,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reports for single records can also extend over more than one page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151657Z" creationid="Alessia Mazzarini" creationdate="20180324T151657Z">
+        <seg>&lt;f0&gt;I rapporti per un singolo record di dati possono continuare su più di una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reset&lt;/f0&gt;: The form is emptied of all data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200810Z" creationid="Marco Marega" creationdate="20171017T200810Z">
@@ -18690,6 +18698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212646Z" creationid="Marco Marega" creationdate="20171126T212646Z">
         <seg>La casella di gruppo reagisce a eventi che comportano l'uso del mouse, di un tasto o il passaggio del focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The group footer contains the total fine due.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151455Z" creationid="Alessia Mazzarini" creationdate="20180324T151455Z">
+        <seg>Il piè di pagina del gruppo contiente il totale dovuto.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
