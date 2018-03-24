@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Below&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; is what an actual recall notice would look like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151303Z" creationid="Alessia Mazzarini" creationdate="20180324T151303Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Qui sotto&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; si può vedere come appare una notifica di riconsegna reale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;COUNT("Name")&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; counts all &lt;/f2&gt;&lt;f3&gt;entries&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;for the field Name&lt;/f5&gt;&lt;f6&gt;.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155115Z" creationid="manuel" creationdate="20180301T155115Z">
@@ -4466,6 +4474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T110703Z" creationid="Manuel Frassinetti" creationdate="20171202T110703Z">
         <seg>Una regola di base è che non sono possibili nuovi inserimenti se la chiave primaria nella tabella interrogata non è inclusa nella ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A built-in function is used for calculating the total fines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151125Z" creationid="Alessia Mazzarini" creationdate="20180324T151125Z">
+        <seg>Una funzione integrata viene usata per calcolare il totale delle multe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18098,6 +18114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160637Z" creationid="steevie" creationdate="20180209T151921Z">
         <seg>Le opzioni di cancellazione sono gestite in maniera simile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The details area contains 5 media that the reader has taken out on loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151336Z" creationid="Alessia Mazzarini" creationdate="20180324T151336Z">
+        <seg>L'ara dettagli contiene 5 media che il lettore ha preso in prestito.</seg>
       </tuv>
     </tu>
     <tu>
