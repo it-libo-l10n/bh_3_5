@@ -21342,6 +21342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This functions correctly only for data fields that contain text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T161036Z" creationid="Alessia Mazzarini" creationdate="20180324T161036Z">
+        <seg>Questo vale solo per i campi dati che contengono testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This groups field and label together.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T202907Z" creationid="Marco Marega" creationdate="20171016T202907Z">
