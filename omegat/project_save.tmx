@@ -19936,8 +19936,8 @@
       <tuv lang="EN">
         <seg>The setting for the mouse wheel has no effect &lt;f0&gt;because&lt;/f0&gt; report fields are not editable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T163052Z" creationid="Alessia Mazzarini" creationdate="20180324T163014Z">
-        <seg>Le impostazioni della rotella del mouse non hanno effetto&lt;f0&gt;poichè&lt;/f0&gt; i campi del rapporto non sono modificabili.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T163417Z" creationid="Alessia Mazzarini" creationdate="20180324T163014Z">
+        <seg>Le impostazioni riguardanti la rotella del mouse non hanno alcun effetto&lt;f0&gt;poiché&lt;/f0&gt; i campi del rapporto non sono modificabili.</seg>
       </tuv>
     </tu>
     <tu>
