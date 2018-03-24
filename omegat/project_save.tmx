@@ -16102,6 +16102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So far individual elements can be moved to positions outside the size of a single page only with the mouse and cursor keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T153043Z" creationid="Alessia Mazzarini" creationdate="20180324T153043Z">
+        <seg>Per il momento, i singoli elementi possono essere spostati in posizioni al di fuori delle dimensioni di una singola pagina solo con il mouse e i tasti del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So far the Media_ID and Reader_ID fields are only visible as numeric fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145054Z" creationid="Manuel Frassinetti" creationdate="20171202T145054Z">
@@ -19522,6 +19530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201127Z" creationid="Elisabetta Manuele" creationdate="20180308T201127Z">
         <seg>I campi dati e le loro proprietà non vengono letti congiuntamente, ma sono determinati da Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The properties of the elements always provide the same maximum distance from the upper corner of any area that lies on the first page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T153307Z" creationid="Alessia Mazzarini" creationdate="20180324T153307Z">
+        <seg>Le proprietà degli elementi forniscono sempre la stessa distanza massima dall'angolo superiore di qualsiasi area che si trova sulla prima pagina.</seg>
       </tuv>
     </tu>
     <tu>
