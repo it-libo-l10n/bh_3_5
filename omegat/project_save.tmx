@@ -21686,6 +21686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This may seem a bit pointless in the case of fields but is useful for group headers and footers, which may be required to carry out other functions of the grouping without containing anything that needs to be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T160108Z" creationid="Alessia Mazzarini" creationdate="20180324T160108Z">
+        <seg>Ciò può apparire inutile nel caso dei comandi di campo, ma risulta invece utile per le intestazioni e piè di pagina di gruppo, che potrebbero dover svolgere altre funzioni del raggruppamento pur non contenendo nulla da visualizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means more than just updating the data; the whole form document must be closed and then reopened.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161836Z" creationid="steevie" creationdate="20180216T161836Z">
