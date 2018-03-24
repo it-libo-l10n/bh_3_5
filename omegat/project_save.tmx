@@ -11022,6 +11022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the background is not defined as transparent, a background color can be defined for each field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164443Z" creationid="Alessia Mazzarini" creationdate="20180324T164443Z">
+        <seg>A meno che lo sfondo non sia impostato come trasparente, è possibile impostare un colore di sfondo per ciascun campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the button is clicked again, the filter continues to exist, but all records are now shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144450Z" creationid="Marco Marega" creationdate="20180303T144450Z">
@@ -17152,8 +17160,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Print When Group Change &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;function &lt;/f2&gt;&lt;/f1&gt;could not be reproduced in reports either.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164155Z" creationid="Alessia Mazzarini" creationdate="20180324T164155Z">
-        <seg>Non è stato possibile riprodurre nei rapporti neanche la funzione&lt;f0&gt;Print When Group Change &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164338Z" creationid="Alessia Mazzarini" creationdate="20180324T164155Z">
+        <seg>Non è stato possibile riprodurre nei rapporti neanche la funzione&lt;f0&gt;Stampa su modifica gruppo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
