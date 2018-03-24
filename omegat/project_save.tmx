@@ -1288,8 +1288,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;You can choose &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Keep together = Yes&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;, but it does not work; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;the Details area becomes separated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T150110Z" creationid="Alessia Mazzarini" creationdate="20180324T150110Z">
-        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Anche se scegliendo &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Mantieni assieme= Sì&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;, non funzionerà; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;l'area dettagli viene separata.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T150754Z" creationid="Alessia Mazzarini" creationdate="20180324T150110Z">
+        <seg>&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;Anche scegliendo &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Mantieni assieme= Sì&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;, questo non funzionerà; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;l'area dettagli verrà separata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5448,8 +5448,8 @@
       <tuv lang="EN">
         <seg>Also, contrary to the default setup, it is specified that this area should be kept together in all cases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192520Z" creationid="Alessia Mazzarini" creationdate="20180323T192520Z">
-        <seg>Inoltre, a differenza dell'impostazione predefinita, è indicato che quest'area debba essere mantenuta assieme in ogni caso.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T150520Z" creationid="Alessia Mazzarini" creationdate="20180323T192520Z">
+        <seg>Inoltre, a differenza dell'impostazione predefinita, si specifica che quest'area debba essere mantenuta assieme in ogni caso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11352,8 +11352,8 @@
       <tuv lang="EN">
         <seg>If you want the content of a record to be kept together &lt;s4/&gt;independently of the break, this is only possible at present if the record is not read in as Details but is used as the basis for a grouping.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T145848Z" creationid="Alessia Mazzarini" creationdate="20180324T145848Z">
-        <seg>Se volete tenere insieme il contenuto di un record di dati, &lt;s4/&gt;indipendentemente dall'interruzione, è possibile farlo al momento solo se il record di dati non viene letto come Dettaglio ma viene utilizzato come base per un raggruppamento.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T150540Z" creationid="Alessia Mazzarini" creationdate="20180324T145848Z">
+        <seg>Se volete tenere insieme il contenuto di un record di dati, &lt;s4/&gt;indipendentemente dall'interruzione, è possibile farlo, al momento, solo se il record di dati non viene letto come Dettaglio ma viene utilizzato come base per un raggruppamento.</seg>
       </tuv>
     </tu>
     <tu>
