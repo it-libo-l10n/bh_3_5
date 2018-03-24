@@ -10414,6 +10414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, stretching the details area over more than one page can lead to faulty breaks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T152015Z" creationid="Alessia Mazzarini" creationdate="20180324T152015Z">
+        <seg>Tuttavia, se si estende l'area dei dettagli su più di una pagina, si possono produrre delle interruzioni errate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the address book of a school or a sports association could contain so much repetition of postcodes and locations that these fields are better placed in one or even two separate tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223011Z" creationid="Marco Marega" creationdate="20180112T223011Z">
@@ -19858,6 +19866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
         <seg>Il modo più semplice per creare un formulario è quello di usare la procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The size of the report is quite separate from the page size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151818Z" creationid="Alessia Mazzarini" creationdate="20180324T151757Z">
+        <seg>La dimensione del rapporto è distinta da quella della pagina.</seg>
       </tuv>
     </tu>
     <tu>
