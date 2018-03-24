@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;48&lt;/seq2&gt;&lt;/f1&gt;: Fonts: Character Settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T165256Z" creationid="Alessia Mazzarini" creationdate="20180324T165157Z">
+        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;48&lt;/seq2&gt;&lt;/f1&gt;: Caratteri: Impostazioni carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;47&lt;/t2&gt;&lt;/f1&gt; shows the report design for the recall notice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085850Z" creationid="Alessia Mazzarini" creationdate="20180321T085850Z">
@@ -8522,6 +8530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085758Z" creationid="Alessia Mazzarini" creationdate="20180321T085758Z">
         <seg>Figura &lt;seq0&gt;47&lt;/seq0&gt;: Struttura rapporto per un esempio di notifica di riconsegna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;49&lt;/seq0&gt;: Formatting numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T165217Z" creationid="Alessia Mazzarini" creationdate="20180324T165217Z">
+        <seg>Figura &lt;seq0&gt;49&lt;/seq0&gt;: Formattazione numeri</seg>
       </tuv>
     </tu>
     <tu>
