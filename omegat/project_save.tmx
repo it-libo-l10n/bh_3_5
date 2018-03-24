@@ -13952,8 +13952,8 @@
       <tuv lang="EN">
         <seg>More on conditional expressions is given in &lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Conditional print&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;on page &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;bf11&gt;169&lt;/bf11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T162443Z" creationid="Alessia Mazzarini" creationdate="20180324T162443Z">
-        <seg>Maggiori informazioni sulle espressioni condizionali si possono trovare in &lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Conditional print&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;a pagina &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;bf11&gt;169&lt;/bf11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T162938Z" creationid="Alessia Mazzarini" creationdate="20180324T162443Z">
+        <seg>Maggiori informazioni sulle espressioni condizionali si possono trovare in &lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Stampa condizionale&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;a pagina &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;bf11&gt;169&lt;/bf11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19930,6 +19930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172809Z" creationid="steevie" creationdate="20180226T172809Z">
         <seg>Il server &lt;s1/&gt;considera le viste come interrogazioni locali complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The setting for the mouse wheel has no effect &lt;f0&gt;because&lt;/f0&gt; report fields are not editable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T163052Z" creationid="Alessia Mazzarini" creationdate="20180324T163014Z">
+        <seg>Le impostazioni della rotella del mouse non hanno effetto&lt;f0&gt;poichè&lt;/f0&gt; i campi del rapporto non sono modificabili.</seg>
       </tuv>
     </tu>
     <tu>
