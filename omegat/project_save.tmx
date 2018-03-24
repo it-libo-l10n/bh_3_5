@@ -23614,6 +23614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You have to put the content of Details in a separate group &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;to&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt; keep it together.&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151039Z" creationid="Alessia Mazzarini" creationdate="20180324T151039Z">
+        <seg>&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Per&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt; tenerla assieme, dovete inserire il contenuto del Dettaglio in un gruppo distinto.&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a3&gt;), version 3.0 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105548Z" creationid="ldaghino" creationdate="20171002T105548Z">
