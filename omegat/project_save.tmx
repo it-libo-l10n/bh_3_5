@@ -13950,6 +13950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More on conditional expressions is given in &lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Conditional print&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;on page &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;bf11&gt;169&lt;/bf11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T162443Z" creationid="Alessia Mazzarini" creationdate="20180324T162443Z">
+        <seg>Maggiori informazioni sulle espressioni condizionali si possono trovare in &lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Conditional print&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;a pagina &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;bf11&gt;169&lt;/bf11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More rapid access to queries using table views</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173034Z" creationid="Marina Latini" creationdate="20171205T173034Z">
