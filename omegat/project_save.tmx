@@ -13206,6 +13206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It seems to be a leftover from the form definition dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T163716Z" creationid="Alessia Mazzarini" creationdate="20180324T163716Z">
+        <seg>Sembra essere un residuo della finestra di dialogo Definizione del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It serves within Base to allow contact with the data&lt;/f5&gt;&lt;f6&gt;base.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184048Z" creationid="Marco Marega" creationdate="20171013T184048Z">
@@ -17138,6 +17146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204136Z" creationid="Marco Marega" creationdate="20180315T204136Z">
         <seg>Il pulsante &lt;f0&gt;Nuovo&lt;/f0&gt; nella finestra di dialogo Macro LibreOffice Basic &lt;f1&gt;&lt;/f1&gt;apre la finestra di dialogo &lt;f2&gt;Nuovo modulo&lt;/f2&gt;, &lt;f3&gt;che &lt;/f3&gt;richiede un &lt;f4&gt;nome &lt;/f4&gt; per il modulo (la cartella all'interno della quale la macro verrà archiviata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Print When Group Change &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;function &lt;/f2&gt;&lt;/f1&gt;could not be reproduced in reports either.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164155Z" creationid="Alessia Mazzarini" creationdate="20180324T164155Z">
+        <seg>Non è stato possibile riprodurre nei rapporti neanche la funzione&lt;f0&gt;Print When Group Change &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
