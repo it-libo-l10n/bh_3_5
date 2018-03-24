@@ -19454,6 +19454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The other entries deal with the internal content of the field in question.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164540Z" creationid="Alessia Mazzarini" creationdate="20180324T164540Z">
+        <seg>Le altre voci si riferiscono al contenuto interno del campo in questione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The other fields on the navigation bar are not needed, as they are mostly available from the table control (record display, record navigation) or else carried out by movement through the table control (data storage).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215647Z" creationid="Marco Marega" creationdate="20171216T215301Z">
