@@ -14438,6 +14438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Numeric fields or date fields ignore the deactivation instruction, Label fields are completely faded out when deactivated, even if they occur only once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T161901Z" creationid="Alessia Mazzarini" creationdate="20180324T161901Z">
+        <seg>I campi numerici o data ignorano il comando di disattivazione, i campi di testo fisso vengono completamente oscurati una volta disattivati, anche nel caso in cui appaiono una sola volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occurs after each additional character is entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195450Z" creationid="Marco Marega" creationdate="20171017T195450Z">
