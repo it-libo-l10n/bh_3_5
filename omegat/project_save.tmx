@@ -9894,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the Report Builder still has problems in calculating the spacing correctly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T152256Z" creationid="Alessia Mazzarini" creationdate="20180324T152140Z">
+        <seg>In questo caso, il Report Builder presenta ancora dei problemi nel calcolare la spaziatura in maniera corretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the SQL formula created by our previous choices is revealed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165915Z" creationid="Manuel Frassinetti" creationdate="20171202T114233Z">
