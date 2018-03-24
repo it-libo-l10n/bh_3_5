@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A field can be set to be invisible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T155247Z" creationid="Alessia Mazzarini" creationdate="20180324T155247Z">
+        <seg>È possibile impostare un campo come invisibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A field can therefore have the same value repeatedly without causing any problems, if the other field in each of the records is &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231838Z" creationid="Marco Marega" creationdate="20180226T231838Z">
