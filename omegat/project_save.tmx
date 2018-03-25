@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3650,6 +3650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214315Z" creationid="Marco Marega" creationdate="20180204T214315Z">
         <seg>&lt;f0&gt;Il valore predefinito in un database è memorizzato nella definizione della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The following code snippet calls the reload method on the second form, causing it to refresh&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204650Z" creationid="Marco Marega" creationdate="20180325T204650Z">
+        <seg>&lt;f0&gt;Il frammento di codice seguente chiama il metodo ricarica del secondo formulario, provocandone l'aggiornamento&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14530,6 +14538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180742Z" creationid="Manuel Frassinetti" creationdate="20171130T180742Z">
         <seg>Spesso un errore logico impedisce a una ricerca di recuperare tutti i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often something is altered in a form and this alteration is required to appear in a second form on the same page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204510Z" creationid="Marco Marega" creationdate="20180325T204510Z">
+        <seg>Spesso qualche elemento viene modificato in un formulario ed è necessario che questa variazione compaia in un secondo formulario nella stessa pagina.</seg>
       </tuv>
     </tu>
     <tu>
