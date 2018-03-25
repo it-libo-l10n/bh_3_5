@@ -9182,6 +9182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, on a &lt;f0&gt;cash register (&lt;/f0&gt;till&lt;f1&gt;)&lt;/f1&gt;, if the total number of items sold and their stock numbers (read by a barcode scanner) are entered into one form, another form in the same open window can show the names of all the items, and the total cost, as soon as the form is saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T212050Z" creationid="Marco Marega" creationdate="20180325T212050Z">
+        <seg>Ad esempio, su un &lt;f0&gt;registratore di cassa (&lt;/f0&gt;cassa&lt;f1&gt;)&lt;/f1&gt;, se il numero totale degli articoli venduti ed il loro codice numerico (letto da uno scanner di codici a barre) vengono inseriti in un formulario, un altro formulario aperto nella stessa finestra può mostrare i nomi di tutti gli articoli ed il costo totale, non appena il formulario viene salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, suppose you choose a text field: the cursor changes shape and a rectangular shape may be drawn on the white surface of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182120Z" creationid="Marco Marega" creationdate="20171014T182120Z">
