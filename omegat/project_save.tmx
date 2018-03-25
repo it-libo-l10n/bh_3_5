@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211426Z" creationid="Marco Marega" creationdate="20180325T211426Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211225Z" creationid="Marco Marega" creationdate="20180325T211225Z">
@@ -3722,6 +3730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162827Z" creationid="Manuel Frassinetti" creationdate="20171218T162827Z">
         <seg>&lt;f0&gt;L'opzione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;naturale&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; specifica che i campi collegati nelle tabelle sono considerati uguali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;subroutine&lt;/f1&gt;&lt;f2&gt; begins with &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SUB&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; so it must end with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;END SUB&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211515Z" creationid="Marco Marega" creationdate="20180325T211515Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;subroutine&lt;/f1&gt;&lt;f2&gt; inizia con &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SUB&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; perciò deve finire con &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;END SUB&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7914,6 +7930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230911Z" creationid="Marco Marega" creationdate="20171102T230911Z">
         <seg>Durante l'inserimento di nuovi valori, viene visualizzato un elenco dei valori corrispondenti (se ve ne sono) per l'eventuale selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>END SUB</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211435Z" creationid="Marco Marega" creationdate="20180325T211435Z">
+        <seg>END SUB</seg>
       </tuv>
     </tu>
     <tu>
@@ -21954,6 +21978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111240Z" creationid="Marina Latini" creationdate="20171207T111240Z">
         <seg>Questo è il vostro primo supporto per l'utilizzo di &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This macro can now be selected to run when another form is saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211606Z" creationid="Marco Marega" creationdate="20180325T211606Z">
+        <seg>Ora questa macro può essere selezionata ed eseguita quando viene salvato un altro formulario.</seg>
       </tuv>
     </tu>
     <tu>
