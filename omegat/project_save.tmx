@@ -3814,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Therefore we usually start by declaring variables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210013Z" creationid="Marco Marega" creationdate="20180325T210013Z">
+        <seg>&lt;f0&gt;Perciò di solito inizierete dichiarando le variabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;These lines have the further disadvantage that they are interpreted only as hairlines.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192122Z" creationid="Alessia Mazzarini" creationdate="20180323T191257Z">
@@ -5466,6 +5474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143618Z" creationid="Marco Marega" creationdate="20171231T143618Z">
         <seg>Tutti gli altri formulari si relazionano con uno o con l'altro dei campi di controllo tabella visti sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the variables declared here are objects (not numbers or text), so we add &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AS OBJECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to the end of the declaration.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210144Z" creationid="Marco Marega" creationdate="20180325T210144Z">
+        <seg>Tutte le variabili che vengono dichiarate in questo punto sono degli oggetti (non numeri o testo), perciò aggiungeremo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AS OBJECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; alla fine della dichiarazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22850,6 +22866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203651Z" creationid="Marco Marega" creationdate="20171015T203651Z">
         <seg>Utilizzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Option Explicit&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;To prevent LibreoOffice Basic from automatically creating variables; this is recommended by most programmers&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205934Z" creationid="Marco Marega" creationdate="20180325T205934Z">
+        <seg>Usate &lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Option Explicit&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;per evitare che LibreoOffice Basic crei automaticamente le variabili; ciò è raccomandato dalla maggior parte dei programmatori&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
