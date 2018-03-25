@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In this example, t&lt;/f0&gt;he form to be accessed is named &lt;f1&gt;Display&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210958Z" creationid="Marco Marega" creationdate="20180325T210958Z">
+        <seg>&lt;f0&gt;In questo esempio, il&lt;/f0&gt; formulario a cui accedere si chiama &lt;f1&gt;Display&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Insert data as Fields&lt;/f0&gt; provides the possibility of using a mini-editor to position the various table fields successively in the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184134Z" creationid="Elisabetta Manuele" creationdate="20180306T184134Z">
@@ -4306,6 +4314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T215314Z" creationid="Marco Marega" creationdate="20180301T215314Z">
         <seg>&lt;f2&gt;Tentativo di inserire null in una colonna che non ammette valori nulli…&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Display&lt;/f2&gt; is the name visible in the form navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211030Z" creationid="Marco Marega" creationdate="20180325T211030Z">
+        <seg>&lt;f2&gt;Display&lt;/f2&gt; è il nome visibile nel navigatore formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12482,6 +12498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220154Z" creationid="Marco Marega" creationdate="20180303T220154Z">
         <seg>Nella prima tabella vengono inseriti in "Nome_campo" tanti nuovi record quanti ne sono presenti nella colonna "Altro_nome_campo" della seconda tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the form navigator this is the top-level concept, to which all the forms are subsidiary.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210928Z" creationid="Marco Marega" creationdate="20180325T210928Z">
+        <seg>Nel navigatore formulario corrisponde concettualmente al livello superiore, quello di cui tutti i formulario sono sussidiari.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
