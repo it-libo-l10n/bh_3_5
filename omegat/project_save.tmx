@@ -20606,6 +20606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The variant shown below replaces the &lt;f7&gt;S&lt;/f7&gt;ave button and reads the listboxes again, so that a chosen filter from one listbox can restrict the choices available in the other listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213022Z" creationid="Marco Marega" creationdate="20180325T213022Z">
+        <seg>La variante illustrata di seguito sostituisce il pulsante &lt;f7&gt;Save&lt;/f7&gt; e legge nuovamente le caselle di riepilogo, in modo che un filtro selezionato in una casella di riepilogo possa restringere le scelte disponibili nell'altra casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vertical alignment is not active for multi-line fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T203549Z" creationid="Marco Marega" creationdate="20171026T203549Z">
