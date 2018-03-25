@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;SUB&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; allows a &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; to run without returning a value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205111Z" creationid="Marco Marega" creationdate="20180325T205111Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;SUB&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; permette a una &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; di essere eseguita senza che debba restituire un valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Subroutines&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; are program segments without return values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T210719Z" creationid="Marco Marega" creationdate="20180315T210719Z">
@@ -9578,6 +9586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T210739Z" creationid="Marco Marega" creationdate="20180315T210739Z">
         <seg>Le Funzioni restituiscono un valore.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Further down by contrast a function is described, which does return a value.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205344Z" creationid="Marco Marega" creationdate="20180325T205344Z">
+        <seg>In seguito verrà descritta una funzione, la quale, al contrario, restituisce un valore.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21826,6 +21842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221113Z" creationid="Marco Marega" creationdate="20180126T221113Z">
         <seg>Questo rende la coppia univoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This may be written in upper or lower case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204939Z" creationid="Marco Marega" creationdate="20180325T204939Z">
+        <seg>Che può essere scritto sia in maiuscolo che in minuscolo.</seg>
       </tuv>
     </tu>
     <tu>
