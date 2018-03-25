@@ -2246,6 +2246,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;thisComponent&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211156Z" creationid="Marco Marega" creationdate="20180325T211156Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;thisComponent&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDrawpage&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc.drawpage&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211202Z" creationid="Marco Marega" creationdate="20180325T211202Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDrawpage&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc.drawpage&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211225Z" creationid="Marco Marega" creationdate="20180325T211225Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A &lt;/f0&gt;&lt;f1&gt;Form&lt;/f1&gt;&lt;f2&gt; in Base is a structure &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;invisible to the user&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183935Z" creationid="Marco Marega" creationdate="20171013T183935Z">
@@ -3570,6 +3594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113257Z" creationid="Marina Latini" creationdate="20171213T113257Z">
         <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Since the form has now been made accessible and the point at which it can be accessed is saved in the variable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;oForm&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, it is now reloaded &lt;/f3&gt;&lt;f4&gt;(refreshed)&lt;/f4&gt;&lt;f5&gt; with the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;reload()&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; command.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211422Z" creationid="Marco Marega" creationdate="20180325T211422Z">
+        <seg>&lt;f0&gt;Dato che il formulario ora è stato reso accessibile ed il punto attraverso il quale si può accedere allo stesso è memorizzato nella variabile &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;oForm&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, questo viene ricaricato &lt;/f3&gt;&lt;f4&gt;(aggiornato)&lt;/f4&gt;&lt;f5&gt; con il comando &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;reload()&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16470,6 +16502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, the first form by default is called &lt;f3&gt;Form&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211153Z" creationid="Marco Marega" creationdate="20180325T211057Z">
+        <seg>Perciò, ad esempio, il nome predefinito del primo formulario è &lt;f3&gt;Form&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, the view underlying the report has a field named Address, containing the complete address of the recipient with street and town.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T185406Z" creationid="Alessia Mazzarini" creationdate="20180322T082159Z">
@@ -18160,8 +18200,8 @@
       <tuv lang="EN">
         <seg>The container, in which all forms are stored, is named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;drawpage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210753Z" creationid="Marco Marega" creationdate="20180325T210753Z">
-        <seg>Il contenitore, nel quale sono contenuti tutti i formulari, si chiama &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;pagina di disegno&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211106Z" creationid="Marco Marega" creationdate="20180325T210753Z">
+        <seg>Il contenitore, nel quale sono contenuti tutti i formulari, si chiama &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;drawpage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
