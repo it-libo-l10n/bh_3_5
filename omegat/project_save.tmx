@@ -1718,6 +1718,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDoc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210446Z" creationid="Marco Marega" creationdate="20180325T210446Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDoc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDrawpage&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210447Z" creationid="Marco Marega" creationdate="20180325T210447Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDrawpage&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210453Z" creationid="Marco Marega" creationdate="20180325T210453Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ta as Fields&lt;/f2&gt;&lt;f3&gt;, as described i&lt;/f3&gt;n the previous section, is used to create mail merge fields in a &lt;s4/&gt;Writer document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185243Z" creationid="Elisabetta Manuele" creationdate="20180306T185730Z">
@@ -3706,6 +3730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191929Z" creationid="MicrosoftSucks" creationdate="20180316T191929Z">
         <seg>&lt;f0&gt;Il formulario e' composto da due parti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The form lies in the currently active document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210521Z" creationid="Marco Marega" creationdate="20180325T210521Z">
+        <seg>&lt;f0&gt;Il formulario si trova nel documento attivo al momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18098,6 +18130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215453Z" creationid="Marco Marega" creationdate="20180126T215453Z">
         <seg>Il collegamento tra un autore e, ad esempio, i libri che quell'autore ha scritto è ovvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The container, in which all forms are stored, is named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;drawpage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210753Z" creationid="Marco Marega" creationdate="20180325T210753Z">
+        <seg>Il contenitore, nel quale sono contenuti tutti i formulari, si chiama &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;pagina di disegno&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
