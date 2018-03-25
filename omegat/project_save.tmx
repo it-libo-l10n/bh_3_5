@@ -12142,6 +12142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In principle, though, you can choose almost any variable names you like.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210443Z" creationid="Marco Marega" creationdate="20180325T210443Z">
+        <seg>In linea di principio, però, potete scegliere quasi qualsiasi nome di variabile che più vi piaccia.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In query search conditions, use either &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;TRUE&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;FALSE&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; or &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173300Z" creationid="manuel" creationdate="20180301T173300Z">
@@ -22546,6 +22554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224936Z" creationid="Marco Marega" creationdate="20180112T224936Z">
         <seg>Per leggere il contenuto, ingrandite la pagina al 200%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remind us later of the &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;type of the variables, we preface their names with an &lt;/f5&gt;&lt;f6&gt;"o"&lt;/f6&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210320Z" creationid="Marco Marega" creationdate="20180325T210320Z">
+        <seg>Per ricordare in seguito a noi stessi il &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;tipo delle variabili, inizieremo i loro nomi con la preposizione &lt;/f5&gt;&lt;f6&gt;"o"&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
