@@ -22782,6 +22782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, if you misspell a variable, LibreOffice Basic silently creates a new variable without complaint.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205816Z" creationid="Marco Marega" creationdate="20180325T205816Z">
+        <seg>Sfortunatamente, se digitate il nome di una variabile in modo sbagliato, LibreOffice Basic silenziosamente crea una nuova variabile, senza lamentarsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Universal entry module, which can display a whole table.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205342Z" creationid="Marco Marega" creationdate="20171015T205342Z">
