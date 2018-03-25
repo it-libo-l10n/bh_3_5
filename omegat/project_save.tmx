@@ -1734,6 +1734,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFieldList1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213028Z" creationid="Marco Marega" creationdate="20180325T213028Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFieldList1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFieldList2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213029Z" creationid="Marco Marega" creationdate="20180325T213029Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFieldList2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213026Z" creationid="Marco Marega" creationdate="20180325T213026Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213027Z" creationid="Marco Marega" creationdate="20180325T213027Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oForm&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210453Z" creationid="Marco Marega" creationdate="20180325T210453Z">
@@ -1994,6 +2026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T163509Z" creationid="manuel" creationdate="20180301T163509Z">
         <seg>&lt;f0&gt;&lt;f1&gt;SOME&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;restituisce &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;VERO&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; (o &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) se almeno un inserimento per il campo è &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;e restituisce &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;FALSO&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; (o &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;0&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;) solo se tutti gli inserimento sono &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;0&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Filter&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213024Z" creationid="Marco Marega" creationdate="20180325T213024Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Filter&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
