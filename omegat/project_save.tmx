@@ -14038,6 +14038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listboxes that are to be influenced using this method can be supplied with content using various queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204750Z" creationid="Marco Marega" creationdate="20180326T204750Z">
+        <seg>Le caselle di riepilogo che devono essere influenzate usando questo metodo, possono essere fornite del contenuto usando diversi tipi di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loan table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210041Z" creationid="Marco Marega" creationdate="20180202T210041Z">
@@ -20478,6 +20486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The simplest variant is to have the listbox take its content from the filter results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204847Z" creationid="Marco Marega" creationdate="20180326T204847Z">
+        <seg>La variante più semplice è quella di far si che la casella di riepilogo prenda il suo contenuto dai risultati del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The simplest way to create a form is to use the Form Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184542Z" creationid="Marco Marega" creationdate="20171013T184542Z">
@@ -20882,6 +20898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170232Z" creationid="Manuel Frassinetti" creationdate="20171202T151334Z">
         <seg>Allora una nuova tabella può essere aggiunta alla vista struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then a single filter determines which data content will be further filtered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204942Z" creationid="Marco Marega" creationdate="20180326T204942Z">
+        <seg>Poi un filtro semplice determina quale contenuto sarà ulteriormente filtrato.</seg>
       </tuv>
     </tu>
     <tu>
