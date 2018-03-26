@@ -2302,10 +2302,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_1"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202931Z" creationid="Marco Marega" creationdate="20180326T202931Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_1"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_2"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202933Z" creationid="Marco Marega" creationdate="20180326T202933Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_2"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211426Z" creationid="Marco Marega" creationdate="20180325T211426Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Filter"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202922Z" creationid="Marco Marega" creationdate="20180326T202922Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Filter"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"Display"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202929Z" creationid="Marco Marega" creationdate="20180326T202929Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"Display"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +2914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210117Z" creationid="Marco Marega" creationdate="20171014T210117Z">
         <seg>&lt;f0&gt;Filtro&lt;/f0&gt;: Qui potete impostare un filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;First the contents of the listboxes are transferred to the underlying form using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;commit()&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203038Z" creationid="Marco Marega" creationdate="20180326T203038Z">
+        <seg>&lt;f0&gt;Per iniziare i contenuti delle caselle di riepilogo vengono trasferiti al formulario sottostante usando &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;commit()&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20578,6 +20618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184157Z" creationid="Elisabetta Manuele" creationdate="20180306T184157Z">
         <seg>Potete anche assegnare uno stile di paragrafo al testo ottenuto con questo procedimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The transfer is necessary, because otherwise the change in a listbox will not be recogni&lt;/f3&gt;&lt;f4&gt;z&lt;/f4&gt;&lt;f5&gt;ed when saving.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203200Z" creationid="Marco Marega" creationdate="20180326T203200Z">
+        <seg>Il trasferimento è necessario, in quanto altrimenti la modifica in una casella di riepilogo non sarebbe &lt;/f3&gt;&lt;f4&gt;riconosciuta&lt;/f4&gt;&lt;f5&gt; al momento del salvataggio.</seg>
       </tuv>
     </tu>
     <tu>
