@@ -19462,6 +19462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The listboxes are in the "Filter" form and have the names "List_1" and "List_2".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202638Z" creationid="Marco Marega" creationdate="20180326T202638Z">
+        <seg>Le caselle di riepilogo si trovano nel formulario "Filter" e si chiamano "List_1" e "List_2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The loan date is set to the current date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160619Z" creationid="Marco Marega" creationdate="20171230T160619Z">
@@ -22306,6 +22314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T213241Z" creationid="Marco Marega" creationdate="20171029T213241Z">
         <seg>Questo campo serve da &lt;f3&gt;campo di visualizzazione&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This set comprises the two forms "Filter" and "Display".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202541Z" creationid="Marco Marega" creationdate="20180326T202541Z">
+        <seg>Questo insieme comprende i due formulari "Filter" e "Display".</seg>
       </tuv>
     </tu>
     <tu>
