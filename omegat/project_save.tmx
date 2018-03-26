@@ -5510,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After activation of the second listbox, only the empty fields and one displayed value are available to both listboxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205904Z" creationid="Marco Marega" creationdate="20180326T205904Z">
+        <seg>In seguito all'attivazione della seconda casella di riepilogo, in entrambe le caselle di riepilogo sono disponibili solo i campi vuoti e un valore visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After all, fields in different tables can easily have the same field names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172546Z" creationid="Manuel Frassinetti" creationdate="20171204T173616Z">
@@ -11042,6 +11050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210349Z" creationid="Marco Marega" creationdate="20171126T210349Z">
         <seg>Se una casella di gruppo viene creata con la procedura guidata, questa procede partendo dal presupposto che all'interno di questa cornice troveranno posto diversi pulsanti di scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a listbox is not NULL, it is taken into account by the filtering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205705Z" creationid="Marco Marega" creationdate="20180326T205705Z">
+        <seg>Se una casella di riepilogo non è NULL, viene presa in considerazione dal filtro.</seg>
       </tuv>
     </tu>
     <tu>
