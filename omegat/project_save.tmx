@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1.refresh&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204242Z" creationid="Marco Marega" creationdate="20180326T204242Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1.refresh&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_1"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202931Z" creationid="Marco Marega" creationdate="20180326T202931Z">
@@ -2330,6 +2338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203514Z" creationid="Marco Marega" creationdate="20180326T203514Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2.commit&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2.refresh&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204243Z" creationid="Marco Marega" creationdate="20180326T204243Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2.refresh&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202922Z" creationid="Marco Marega" creationdate="20180326T202922Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Filter"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm2.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204245Z" creationid="Marco Marega" creationdate="20180326T204245Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm2.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,6 +5562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T154111Z" creationid="steevie" creationdate="20180205T154111Z">
         <seg>Una volta fatto questo, Base dev'essere riavviato per poter accedere al database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After this, form2, which should display the filtered content, is read in again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204241Z" creationid="Marco Marega" creationdate="20180326T204241Z">
+        <seg>Dopo di ciò, form2, che dovrebbe visualizzare il contenuto filtrato, viene riletto.</seg>
       </tuv>
     </tu>
     <tu>
