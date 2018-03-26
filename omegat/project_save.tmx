@@ -8966,6 +8966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First the variables are defined and set to access the set of forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202518Z" creationid="Marco Marega" creationdate="20180326T202518Z">
+        <seg>Per prima cosa vengono definite le variabili ed impostate per accedere all'insieme dei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First we will use the relationship of the Reader table t&lt;f0&gt;o the &lt;/f0&gt;Loan table (see &lt;f1&gt;Chapter 3, &lt;/f1&gt;Tables).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210652Z" creationid="Marco Marega" creationdate="20171215T210652Z">
