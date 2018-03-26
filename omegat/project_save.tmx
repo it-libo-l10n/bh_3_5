@@ -4998,6 +4998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A selection in the second listbox would then all too often result in an empty filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203924Z" creationid="Marco Marega" creationdate="20180326T203924Z">
+        <seg>Una selezione all'interno della seconda casella di riepilogo potrebbe quindi far spesso risultare il filtro vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple &lt;f0&gt;f&lt;/f0&gt;orm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132108Z" creationid="Marco Marega" creationdate="20171014T132108Z">
@@ -16878,6 +16886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strictly speaking, the &lt;f0&gt;refresh()&lt;/f0&gt; &lt;f1&gt;command &lt;/f1&gt;only needs to be carried out on the listbox &lt;f2&gt;that&lt;/f2&gt; has not been accessed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204153Z" creationid="Marco Marega" creationdate="20180326T204153Z">
+        <seg>Per dirla tutta, il comando &lt;f0&gt;refresh()&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;deve essere eseguito solo sulla casella di riepilogo &lt;f2&gt;alla quale&lt;/f2&gt; non è stato fatto accesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subqueries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
@@ -17274,6 +17290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220632Z" creationid="Marco Marega" creationdate="20171226T220632Z">
         <seg>Per questo tutti i campi di questo formulario sono impostato a &lt;f0&gt;No.&lt;/f0&gt; Il formulario principale e il formulario secondario sono collegati attraverso il campo, il cui valore va trasmetto ai formulari secondari del formulario secondario: il campo &lt;f1&gt;Integer nella tabella&lt;/f1&gt; &lt;f2&gt;Filter&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is why the listboxes must be read again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204000Z" creationid="Marco Marega" creationdate="20180326T204000Z">
+        <seg>Per questo motivo le caselle di riepilogo devono essere lette di nuovo.</seg>
       </tuv>
     </tu>
     <tu>
