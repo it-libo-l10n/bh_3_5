@@ -17382,6 +17382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That may seem practical for a limited search.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T210015Z" creationid="Marco Marega" creationdate="20180326T210015Z">
+        <seg>Questo può apparire pratico per una ricerca limitata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means that those records will never be displayed that have no title entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T214007Z" creationid="MicrosoftSucks" creationdate="20180218T214007Z">
