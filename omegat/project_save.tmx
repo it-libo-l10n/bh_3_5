@@ -8510,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FROM ( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table_Filter_result" GROUP BY "Field_1" )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204948Z" creationid="Marco Marega" creationdate="20180326T204948Z">
+        <seg>FROM ( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table_Filter_result" GROUP BY "Field_1" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FROM &lt;Table_list&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114748Z" creationid="manuel" creationdate="20180302T114748Z">
@@ -14878,6 +14886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ORDER BY "Field_1"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205225Z" creationid="Marco Marega" creationdate="20180326T205225Z">
+        <seg>ORDER BY "Field_1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occurs after each additional character is entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195450Z" creationid="Marco Marega" creationdate="20171017T195450Z">
@@ -16082,6 +16098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173821Z" creationid="manuel" creationdate="20180301T173821Z">
         <seg>SELECT "Classe", EVERY("Nuotatore") FROM "Tabella1" GROUP BY "Classe";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Field_1" || ' - ' || "Count" AS "Display", "Field_1"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204947Z" creationid="Marco Marega" creationdate="20180326T204947Z">
+        <seg>SELECT "Field_1" || ' - ' || "Count" AS "Display", "Field_1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18794,6 +18818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223037Z" creationid="Marco Marega" creationdate="20180224T223037Z">
         <seg>Il campo "Nome_campo" viene eliminato dalla tabella &lt;f0&gt;Nome_tabella&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field content and the number of hits is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205251Z" creationid="Marco Marega" creationdate="20180326T205251Z">
+        <seg>Vengono visualizzati il contenuto del campo e il numero dei risultati.</seg>
       </tuv>
     </tu>
     <tu>
