@@ -2310,10 +2310,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1.commit&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203512Z" creationid="Marco Marega" creationdate="20180326T203512Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1.commit&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_1"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202931Z" creationid="Marco Marega" creationdate="20180326T202931Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oFieldList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm1.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"List_1"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2.commit&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203514Z" creationid="Marco Marega" creationdate="20180326T203514Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFieldList2.commit&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211426Z" creationid="Marco Marega" creationdate="20180325T211426Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm.reload&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm1.updateRow&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203517Z" creationid="Marco Marega" creationdate="20180326T203517Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm1.updateRow&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9258,6 +9282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221310Z" creationid="Marco Marega" creationdate="20180228T220816Z">
         <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Adress &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Adress.Street_ID&lt;/f4&gt; con il valore 3, verranno modificate in 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if one listbox is used to restrict displayed media to CDs, the other listbox should not include all the writers of books in its list of authors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203810Z" creationid="Marco Marega" creationdate="20180326T203810Z">
+        <seg>Ad esempio, se una casella di riepilogo è usata per restringere i supporti visualizzati ai soli CD, l'altra casella di riepilogo non deve includere tutti gli scrittori di libri nella sua lista degli autori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19534,6 +19566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The listboxes are meant to influence each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203550Z" creationid="Marco Marega" creationdate="20180326T203550Z">
+        <seg>Le casella di riepilogo sono pensate per influenzarsi l'una con l'altra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The loan date is set to the current date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160619Z" creationid="Marco Marega" creationdate="20171230T160619Z">
@@ -22298,6 +22338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223318Z" creationid="MicrosoftSucks" creationdate="20180316T223318Z">
         <seg>Questa query normalmente genera una lista di risultati vuota per &lt;f0&gt;queste&lt;/f0&gt; ragioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This record is therefore overwritten continuously using an update command.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203510Z" creationid="Marco Marega" creationdate="20180326T203510Z">
+        <seg>Perciò questo record viene sovrascritto continuamente usando un comando di aggiornamento.&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
