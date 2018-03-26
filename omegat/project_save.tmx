@@ -19694,6 +19694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro creates listboxes quite quickly by this action; they are filled with only one value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205627Z" creationid="Marco Marega" creationdate="20180326T205627Z">
+        <seg>La macro, con questa operazione, crea le caselle di riepilogo piuttosto velocemente; queste sono riempite con un unico valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main difference between searching for data and filtering data is in the query technique.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182806Z" creationid="MicrosoftSucks" creationdate="20180316T182806Z">
@@ -22126,6 +22134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is necessary as otherwise only the number of hits, without further information from the field, will be shown in the listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205451Z" creationid="Marco Marega" creationdate="20180326T205451Z">
+        <seg>Ciò è necessario in quanto altrimenti nella casella di riepilogo sarebbe visualizzato solo il numero di risultati, senza ulteriori informazioni tratte dal campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is necessary as the form is to be used not just for entering records but also for searching.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154107Z" creationid="Marco Marega" creationdate="20171231T154107Z">
@@ -22946,6 +22962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210416Z" creationid="Marco Marega" creationdate="20171014T210416Z">
         <seg>Per ottenere un aiuto, fate clic sul pulsante alla destra del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get the number of hits, a sub-query is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205328Z" creationid="Marco Marega" creationdate="20180326T205328Z">
+        <seg>Per ottenere il numero di risultati viene usata una sub-query.</seg>
       </tuv>
     </tu>
     <tu>
