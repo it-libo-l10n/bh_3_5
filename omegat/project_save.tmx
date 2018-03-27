@@ -12584,8 +12584,8 @@
       <tuv lang="EN">
         <seg>In the Report Builder the display of certain content can be inhibited by using &lt;f0&gt;Conditional Print Expression&lt;/f0&gt; or the value of the field can be used as a base for formatting text and background.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T162353Z" creationid="Alessia Mazzarini" creationdate="20180324T162353Z">
-        <seg>Nel Report Builder è possibile impedire la visualizzazione di qualche contenuto usando&lt;f0&gt;Espressione di stampa condizionale&lt;/f0&gt; oppure il valore del campo può essere utilizzato come base per formattare il testo e lo sfondo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T162910Z" creationid="Alessia Mazzarini" creationdate="20180324T162353Z">
+        <seg>Nel Report Builder è possibile impedire la visualizzazione di un qualche contenuto usando&lt;f0&gt;Espressione di stampa condizionale&lt;/f0&gt; oppure il valore del campo può essere utilizzato come base per formattare il testo e lo sfondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14920,8 +14920,8 @@
       <tuv lang="EN">
         <seg>Numeric fields or date fields ignore the deactivation instruction, Label fields are completely faded out when deactivated, even if they occur only once.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073545Z" creationid="Alessia Mazzarini" creationdate="20180324T161901Z">
-        <seg>I campi numerici o data ignorano il comando di disattivazione, il campo testo fisso viene completamente oscurato una volta disattivato, anche nel caso in cui appaia una sola volta.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T162755Z" creationid="Alessia Mazzarini" creationdate="20180324T161901Z">
+        <seg>I campi numerici o data ignorano il comando di disattivazione, i campi testo fisso vengono completamente oscurati una volta disattivati, anche nel caso in cui appaiano una sola volta.</seg>
       </tuv>
     </tu>
     <tu>
