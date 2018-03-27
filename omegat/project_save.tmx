@@ -17422,6 +17422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So in fact text conversion need not take place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204519Z" creationid="MicrosoftSucks" creationdate="20180327T204519Z">
+        <seg>Quindi la conversione a testo non e' realmente necessaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So this pair meets the requirements for the primary key for the intermediate table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220714Z" creationid="Marco Marega" creationdate="20180126T220714Z">
