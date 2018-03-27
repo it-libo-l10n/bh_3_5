@@ -7118,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But does the code still work with fields that are not text?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204120Z" creationid="MicrosoftSucks" creationdate="20180327T204120Z">
+        <seg>Ma il codice continua a funzionare anche per campi diversi dai campi testo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But for a school database, the school class is also required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150813Z" creationid="Marco Marega" creationdate="20180127T150534Z">
@@ -13094,6 +13102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In such cases it is better to use a macro, to allow the code to cover all the fields in one go.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204040Z" creationid="MicrosoftSucks" creationdate="20180327T204040Z">
+        <seg>In casi simili e' meglio usare una macro, per permettere al codice di coprire tutti i campi in una singola passata.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In such cases it is necessary to &lt;/f2&gt;&lt;f3&gt;switch&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;D&lt;/f5&gt;&lt;f6&gt;esign &lt;/f6&gt;&lt;f7&gt;V&lt;/f7&gt;&lt;f8&gt;iew &lt;/f8&gt;&lt;f9&gt;off &lt;/f9&gt;&lt;f10&gt;and use &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Edit &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Run SQL command directly&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; for direct access to the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174101Z" creationid="Manuel Frassinetti" creationdate="20180116T174101Z">
@@ -15578,6 +15594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T203715Z" creationid="Marco Marega" creationdate="20171215T203715Z">
         <seg>Naturalmente ci sarebbe ancora spazio per dei miglioramenti, ma confrontato con il formulario precedente, questa&lt;f0&gt; versione&lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt; presenta &lt;/f2&gt;chiaramente il vantaggio di rendere visibili tutti i supporti a colpo d'occhio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, for multiple field searches, this code becomes correspondingly longer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203925Z" creationid="MicrosoftSucks" creationdate="20180327T203925Z">
+        <seg>Naturalmente per ricerche su piu' campi il codice corrispondente diventa piu' lungo.</seg>
       </tuv>
     </tu>
     <tu>
