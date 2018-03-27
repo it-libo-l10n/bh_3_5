@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1426,6 +1426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180235Z" creationid="Manuel Frassinetti" creationdate="20171206T180235Z">
         <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Nel&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; grafico &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;della prossima sezione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;, Rientro_Data &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;ne è un esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;%&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; is a wildcard for any number of characters before or after the search term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201706Z" creationid="MicrosoftSucks" creationdate="20180327T201706Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;%&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; e' un carattere jolly che significa qualsiasi numero di caratteri prima o dopo il termine da ricercare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13622,6 +13630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is common to use lower case letters for search terms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201905Z" creationid="MicrosoftSucks" creationdate="20180327T201905Z">
+        <seg>Per i termini di ricerca si usano di solito i caratteri minuscoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is found in the form properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162211Z" creationid="steevie" creationdate="20180216T161451Z">
@@ -23994,6 +24010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204500Z" creationid="Marco Marega" creationdate="20171026T204500Z">
         <seg>Valore visualizzato quando viene creato un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Various projects still remain after this version of the query has been built:&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201808Z" creationid="MicrosoftSucks" creationdate="20180327T201808Z">
+        <seg>Restano ancora diversi progetti dopo che e' stata realizzata questa versione della ricerca:&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
