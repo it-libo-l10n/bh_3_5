@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CASEWHEN&lt;/f0&gt; can also be used to make the text &lt;f1&gt;Birthday today&lt;/f1&gt; appear in another field, if &lt;f2&gt;DAYOFYEAR("Birthdate") = DAYOFYEAR(CURDATE())&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210322Z" creationid="MicrosoftSucks" creationdate="20180327T210322Z">
+        <seg>&lt;f0&gt;CASEWHEN&lt;/f0&gt; puo' anche essere usata per far comparire il testo &lt;f1&gt;Compleanno!&lt;/f1&gt; in un altro campo, se &lt;f2&gt;DAYOFYEAR("Birthdate") = DAYOFYEAR(CURDATE())&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;CREATE TABLE "Test"&lt;/f0&gt;: Create a table with the name "Test".&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204132Z" creationid="Marco Marega" creationdate="20180219T204132Z">
