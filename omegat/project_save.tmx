@@ -23966,6 +23966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When scaling, you can select &lt;f0&gt;No&lt;/f0&gt;, &lt;f1&gt;Keep aspect ratio&lt;/f1&gt;, or &lt;f2&gt;Autom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T171951Z" creationid="Alessia Mazzarini" creationdate="20180327T171951Z">
+        <seg>Per quanto riguarda la scala, potete scegliere &lt;f0&gt;No&lt;/f0&gt;, &lt;f1&gt;Mantieni rapporto&lt;/f1&gt;, o &lt;f2&gt;Autom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When several option buttons in the form are linked to the same table field, only one of the options can be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210607Z" creationid="Marco Marega" creationdate="20171109T210607Z">
