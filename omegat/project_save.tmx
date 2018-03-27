@@ -4830,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;However,&lt;/f1&gt; a time field &lt;f2&gt;that&lt;/f2&gt; is a mixture of text and numbers cannot interact with the search results – unless the query is broadened, so that a single search term is subdivided across all the &lt;f3&gt;spaces between the text and numbers&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204930Z" creationid="MicrosoftSucks" creationdate="20180327T204930Z">
+        <seg>&lt;f1&gt;Comunque,&lt;/f1&gt; un campo temporale &lt;f2&gt;che&lt;/f2&gt; contenga testo e numeri non puo' interagire con i risultati della ricerca - a meno che la ricerca non venga allargata in modo che un singolo termine di ricerca sia suddiviso tra tutti gli &lt;f3&gt;spazi tra testo e numeri&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; another menu, &lt;f3&gt;you can choose &lt;/f3&gt;that each group &lt;f4&gt;(in this case, each reader name) &lt;/f4&gt;be followed by a page break before dealing with the next value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184322Z" creationid="Alessia Mazzarini" creationdate="20180321T084458Z">
@@ -23658,6 +23666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154721Z" creationid="Marco Marega" creationdate="20171230T154721Z">
         <seg>Questo sarebbe un requisito ideale per accelerare ancor di più il lavoro della libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This, however, will significantly bloat the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205012Z" creationid="MicrosoftSucks" creationdate="20180327T205012Z">
+        <seg>Tuttavia cio' fa lievitare le dimensioni della query.</seg>
       </tuv>
     </tu>
     <tu>
