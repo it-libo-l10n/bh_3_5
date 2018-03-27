@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Automatic size&lt;/f0&gt;: The image is fitted to the control and in some cases may be distorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173525Z" creationid="Alessia Mazzarini" creationdate="20180327T173305Z">
+        <seg>&lt;f0&gt;Adatta alla dimensioni&lt;/f0&gt;: L'immagine viene adattata al campo di controllo e in alcuni casi potrebbe risultare distorta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Basically the names of forms and controls are without significance.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214505Z" creationid="Marco Marega" creationdate="20171226T214505Z">
@@ -3376,8 +3384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep aspect ratio&lt;/f0&gt;: The image is fitted to the control but not distorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173150Z" creationid="Alessia Mazzarini" creationdate="20180327T172811Z">
-        <seg>&lt;f0&gt;Mantieni rapporto&lt;/f0&gt;: l'immagine viene adattata ma non distorta.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173314Z" creationid="Alessia Mazzarini" creationdate="20180327T172811Z">
+        <seg>&lt;f0&gt;Mantieni rapporto&lt;/f0&gt;: l'immagine viene adattata al campo di controllo ma non distorta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3576,8 +3584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;No&lt;/f0&gt;: The image is not fitted to the control.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173118Z" creationid="Alessia Mazzarini" creationdate="20180327T172524Z">
-        <seg>&lt;f0&gt;No&lt;/f0&gt;: L'immagine non viene adattata.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173408Z" creationid="Alessia Mazzarini" creationdate="20180327T172524Z">
+        <seg>&lt;f0&gt;No&lt;/f0&gt;: L'immagine non viene adattata al campo di controllo.</seg>
       </tuv>
     </tu>
     <tu>
