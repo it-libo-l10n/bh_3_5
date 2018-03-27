@@ -6358,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although the LIKE condition is really tailored to text, it also works for numbers, dates, and times without needing any alteration&lt;f0&gt;s&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204354Z" creationid="MicrosoftSucks" creationdate="20180327T204354Z">
+        <seg>Sebbene la condizione LIKE sia pensata in realta' per campi testo, puo' funzionare anche per numeri, date e ore senza bisogno di modifich&lt;f0&gt;e&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although this linkage has already been created in the database using &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Relationships&lt;/f3&gt; (see &lt;f4&gt;C&lt;/f4&gt;hapter &lt;f5&gt;3,&lt;/f5&gt; Tables), the function that lies behind the Suggest button in this dialog does not reference this and would suggest that the first foreign key in the Loan table, namely &lt;f6&gt;Media_ID&lt;/f6&gt;, &lt;t7/&gt;should be linked with &lt;f8&gt;ID&lt;/f8&gt; from the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T212739Z" creationid="Marco Marega" creationdate="20171216T212739Z">
