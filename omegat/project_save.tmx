@@ -21256,8 +21256,8 @@
       <tuv lang="EN">
         <seg>These are displayed in design mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T190403Z" creationid="Alessia Mazzarini" creationdate="20180323T190403Z">
-        <seg>Queste vengono visualizzate in modalità design.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T071937Z" creationid="Alessia Mazzarini" creationdate="20180323T190403Z">
+        <seg>Queste vengono visualizzate in modalità struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21384,8 +21384,8 @@
       <tuv lang="EN">
         <seg>They can be reproduced better if rectangles are used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T191518Z" creationid="Alessia Mazzarini" creationdate="20180323T191518Z">
-        <seg>Vengono rappresentate in maniera più chiara usando i rettangoli.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T072101Z" creationid="Alessia Mazzarini" creationdate="20180323T191518Z">
+        <seg>Per una migliore rappresentazione, si consiglia di usare i rettangoli.</seg>
       </tuv>
     </tu>
     <tu>
