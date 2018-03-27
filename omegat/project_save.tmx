@@ -20966,6 +20966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The vertical alignment setting does not seem to have any effect during the design stage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T171537Z" creationid="Alessia Mazzarini" creationdate="20180327T171458Z">
+        <seg>L'impostazione Allineamento verticale non sembra avere effetto durante la fase di progettazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The window provides information on the way this type of join works in practice.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161852Z" creationid="Manuel Frassinetti" creationdate="20171218T161708Z">
@@ -24058,6 +24066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220430Z" creationid="Marco Marega" creationdate="20180303T220430Z">
         <seg>Quando modificate molti record in una sola volta, è molto importante controllare attentamente il comando SQL che state inserendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you call up the report, however, the graphic appears in the correct position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T171647Z" creationid="Alessia Mazzarini" creationdate="20180327T171647Z">
+        <seg>Tuttavia, quando si richiama il report, il grafico viene visualizzato nella posizione corretta..</seg>
       </tuv>
     </tu>
     <tu>
