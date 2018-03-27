@@ -2888,8 +2888,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;48&lt;/seq2&gt;&lt;/f1&gt;: Fonts: Character Settings</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T165256Z" creationid="Alessia Mazzarini" creationdate="20180324T165157Z">
-        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;48&lt;/seq2&gt;&lt;/f1&gt;: Caratteri: Impostazioni carattere</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T074102Z" creationid="Alessia Mazzarini" creationdate="20180324T165157Z">
+        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;48&lt;/seq2&gt;&lt;/f1&gt;: Carattere: Impostazioni caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -13632,8 +13632,8 @@
       <tuv lang="EN">
         <seg>It seems to be a leftover from the form definition dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T163716Z" creationid="Alessia Mazzarini" creationdate="20180324T163716Z">
-        <seg>Sembra essere un residuo della finestra di dialogo Definizione del formulario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073719Z" creationid="Alessia Mazzarini" creationdate="20180324T163716Z">
+        <seg>Quest'ultimo sembra essere un residuo della finestra di dialogo Definizione del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21792,8 +21792,8 @@
       <tuv lang="EN">
         <seg>This covers the font (for font color, font weight, &lt;f0&gt;and so on,&lt;/f0&gt; see &lt;f1&gt;Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;48&lt;/t3&gt;&lt;/f2&gt;), the alignment of the text within the field, and formatting with the corresponding Character dialog (see &lt;f4&gt;Figure &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;49&lt;/t6&gt;&lt;/f5&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T065409Z" creationid="Alessia Mazzarini" creationdate="20180324T165117Z">
-        <seg>Esso comprende il carattere (il colore, lo spessore del carattere &lt;f0&gt;e così via,&lt;/f0&gt; vedi la &lt;f1&gt;Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;48&lt;/t3&gt;&lt;/f2&gt;), l'allineamento del testo all'interno del campo e la formattazione con la corrispettiva finestra di dialogo Carattere (vedi la &lt;f4&gt;Figura &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;49&lt;/t6&gt;&lt;/f5&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T074302Z" creationid="Alessia Mazzarini" creationdate="20180324T165117Z">
+        <seg>Esso comprende il carattere (il colore, lo spessore del carattere &lt;f0&gt;e così via,&lt;/f0&gt; vedi la &lt;f1&gt;Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;48&lt;/t3&gt;&lt;/f2&gt;), l'allineamento del testo all'interno del campo e la formattazione con la corrispettiva finestra di dialogo Formato numero (vedi la &lt;f4&gt;Figura &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;49&lt;/t6&gt;&lt;/f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
