@@ -14896,8 +14896,8 @@
       <tuv lang="EN">
         <seg>Numeric fields or date fields ignore the deactivation instruction, Label fields are completely faded out when deactivated, even if they occur only once.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T161901Z" creationid="Alessia Mazzarini" creationdate="20180324T161901Z">
-        <seg>I campi numerici o data ignorano il comando di disattivazione, i campi di testo fisso vengono completamente oscurati una volta disattivati, anche nel caso in cui appaiono una sola volta.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073545Z" creationid="Alessia Mazzarini" creationdate="20180324T161901Z">
+        <seg>I campi numerici o data ignorano il comando di disattivazione, il campo testo fisso viene completamente oscurato una volta disattivato, anche nel caso in cui appaia una sola volta.</seg>
       </tuv>
     </tu>
     <tu>
