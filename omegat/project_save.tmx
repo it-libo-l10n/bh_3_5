@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;LIKE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, coupled with &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;%&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, means that all records are displayed which have the search term anywhere within them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201555Z" creationid="MicrosoftSucks" creationdate="20180327T201555Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;LIKE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, usato insieme a &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;%&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, significa che vengono visualizzati tutti i record che contengono il termine da ricercare in qualunque posizione al loro interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Macro designation&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211250Z" creationid="Marco Marega" creationdate="20180315T211250Z">
@@ -25138,6 +25146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222457Z" creationid="Marco Marega" creationdate="20180303T222457Z">
         <seg>o alternativamente con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or better still:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201348Z" creationid="MicrosoftSucks" creationdate="20180327T201348Z">
+        <seg>o ancora meglio:</seg>
       </tuv>
     </tu>
     <tu>
