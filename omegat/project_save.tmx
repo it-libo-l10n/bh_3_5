@@ -7230,6 +7230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But, the age of a child born on &lt;f0&gt;31 &lt;/f0&gt;&lt;f1&gt;December 31 2011&lt;/f1&gt; would be given as 1 year on &lt;f2&gt;1 &lt;/f2&gt;&lt;f3&gt;January 2012.&lt;/f3&gt; So we also need to consider the position of the day within the year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205950Z" creationid="MicrosoftSucks" creationdate="20180327T205950Z">
+        <seg>Ma l'eta' di un bambino nato il &lt;f0&gt;31 &lt;/f0&gt;&lt;f1&gt;Dicembre 2011&lt;/f1&gt; risulterebbe di 1 anno al &lt;f2&gt;1 &lt;/f2&gt;&lt;f3&gt;Gennaio 2012.&lt;/f3&gt; Percio' dobbiamo prendere in considerazione anche la posizione del giorno all'interno dell'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205855Z" creationid="Marco Marega" creationdate="20171015T205855Z">
