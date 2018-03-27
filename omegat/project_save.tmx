@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7034,6 +7034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210242Z" creationid="Marco Marega" creationdate="20171015T210242Z">
         <seg>Può essere usato solo con una macro&lt;f0&gt;—&lt;/f0&gt;non verrà ulteriormente descritto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Can you search for dates or numbers with the same search field?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202512Z" creationid="MicrosoftSucks" creationdate="20180327T202512Z">
+        <seg>E' possibile ricercare date o numeri all'interno dello stesso campo di ricerca?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24194,6 +24202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211139Z" creationid="Marco Marega" creationdate="20171215T211139Z">
         <seg>Non è prevista una barra di navigazione, in quanto il contenuto del formulario secondario sarà visibile tra il formulario principale e la barra di navigazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What about fields &lt;f0&gt;that&lt;/f0&gt; are not formatted as text fields?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202412Z" creationid="MicrosoftSucks" creationdate="20180327T202412Z">
+        <seg>E riguardo ai campi &lt;f0&gt;non&lt;/f0&gt; formattati come campi testo?</seg>
       </tuv>
     </tu>
     <tu>
