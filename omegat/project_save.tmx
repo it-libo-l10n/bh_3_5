@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16902,6 +16902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So how do I get a result if I type "anhalter" instead of "Anhalter"?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202138Z" creationid="MicrosoftSucks" creationdate="20180327T202138Z">
+        <seg>Allora come e' possibile ottenere un risultato digitando "autostoppisti" invece di "Autostoppisti"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So if the &lt;f0&gt;Reader_Name&lt;/f0&gt; changes, a new group is started.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091249Z" creationid="Alessia Mazzarini" creationdate="20180321T082614Z">
@@ -24138,6 +24146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085814Z" creationid="Marina Latini" creationdate="20171003T085814Z">
         <seg>Termini utilizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What other conventions in writing need to be &lt;f0&gt;considered&lt;/f0&gt;?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202254Z" creationid="MicrosoftSucks" creationdate="20180327T202254Z">
+        <seg>Quali altre convenzioni di scrittura devono dunque essere &lt;f0&gt;prese in considerazione&lt;/f0&gt;?</seg>
       </tuv>
     </tu>
     <tu>
