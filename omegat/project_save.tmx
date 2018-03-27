@@ -960,8 +960,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Set t&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;he background of the rectangle to black and the size &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;to&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, for example, 17cm wide and 0.03cm high.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T191901Z" creationid="Alessia Mazzarini" creationdate="20180323T191901Z">
-        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Impostate l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;o sfondo del rettangolo di color nero, una larghezza&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;di&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, per esempio, 17 cm e un'altezza di 0,03 cm.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T072215Z" creationid="Alessia Mazzarini" creationdate="20180323T191901Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Impostate l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;o sfondo del rettangolo di colore nero, una larghezza, per esempio,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;di&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 17 cm e un'altezza di 0,03 cm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4792,8 +4792,8 @@
       <tuv lang="EN">
         <seg>A built-in function is used for calculating the total fines.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151125Z" creationid="Alessia Mazzarini" creationdate="20180324T151125Z">
-        <seg>Una funzione integrata viene usata per calcolare il totale delle multe.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T072359Z" creationid="Alessia Mazzarini" creationdate="20180324T151125Z">
+        <seg>Per calcolare il totale delle multe viene usata una funzione integrata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18760,8 +18760,8 @@
       <tuv lang="EN">
         <seg>The details area contains 5 media that the reader has taken out on loan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151336Z" creationid="Alessia Mazzarini" creationdate="20180324T151336Z">
-        <seg>L'ara dettagli contiene 5 media che il lettore ha preso in prestito.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T072423Z" creationid="Alessia Mazzarini" creationdate="20180324T151336Z">
+        <seg>L'area dettaglio contiene i 5 media che il lettore ha preso in prestito.</seg>
       </tuv>
     </tu>
     <tu>
