@@ -4334,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The array is run through from its lower bound (&lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Lbound()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;) to its upper bound (&lt;/f5&gt;&lt;f6&gt;'&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Ubound()&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt;) in a single loop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215924Z" creationid="Marco Marega" creationdate="20180327T215924Z">
+        <seg>&lt;f0&gt;La matrice viene scorsa dal suo limite inferiore (&lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Lbound()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;) al suo limite superiore (&lt;/f5&gt;&lt;f6&gt;'&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Ubound()&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt;) in un unico passaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The creation of queries using the Wizard is briefly described in &lt;/f0&gt;&lt;f1&gt;Chapter 8 of the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Getting Started&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide, &lt;/f4&gt;&lt;f5&gt;Getting Started with Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084414Z" creationid="Manuel Frassinetti" creationdate="20171125T172903Z">
@@ -19930,6 +19938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120111Z" creationid="Elisabetta Manuele" creationdate="20180310T120111Z">
         <seg>La prima riga contiene le intestazioni di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first name &lt;f0&gt;in the list &lt;/f0&gt;is the name of the listbox linked to the event.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215742Z" creationid="Marco Marega" creationdate="20180327T215742Z">
+        <seg>Il primo nome &lt;f0&gt;della list &lt;/f0&gt;è il nome della casella di riepilogo collegata all'evento.</seg>
       </tuv>
     </tu>
     <tu>
