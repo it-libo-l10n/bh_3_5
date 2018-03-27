@@ -3374,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Keep aspect ratio&lt;/f0&gt;: The image is fitted to the control but not distorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172811Z" creationid="Alessia Mazzarini" creationdate="20180327T172811Z">
+        <seg>&lt;f0&gt;Mantieni rapporto&lt;/f0&gt;: The image is fitted to the control but not distorted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;eft-click on &lt;f1&gt;Report&lt;/f1&gt; and the properties of the report are once more accessible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175253Z" creationid="Alessia Mazzarini" creationdate="20180316T175021Z">
@@ -20050,6 +20058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223908Z" creationid="Marco Marega" creationdate="20171214T223908Z">
         <seg>L'ordine delle colonne può essere modificato trascinando l'intestazione di una colonna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The original image is not affected by this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172709Z" creationid="Alessia Mazzarini" creationdate="20180327T172709Z">
+        <seg>Tutto ciò non ha conseguenze sull'immagine originale.</seg>
       </tuv>
     </tu>
     <tu>
