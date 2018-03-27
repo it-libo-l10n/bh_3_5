@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;FNULL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; function must occur only once, so that when the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Searchterm &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;is &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;NULL&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LOWER("Title") LIKE LOWER("Title")&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; is queried.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203612Z" creationid="MicrosoftSucks" creationdate="20180327T203612Z">
+        <seg>&lt;f0&gt;La funzione &lt;/f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;FNULL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; deve comparire solo una volta, in modo che quando &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Searchterm &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;e' &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;NULL&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LOWER("Title") LIKE LOWER("Title")&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; venga incluso nella query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;subroutine&lt;/f1&gt;&lt;f2&gt; begins with &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SUB&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; so it must end with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;END SUB&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211515Z" creationid="Marco Marega" creationdate="20180325T211515Z">
@@ -6450,6 +6458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204303Z" creationid="Marco Marega" creationdate="20171016T204303Z">
         <seg>Ancoraggio delle immagini all'interno di un campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And as the title should be a field that cannot be &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;NULL&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;, in such cases all records are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203754Z" creationid="MicrosoftSucks" creationdate="20180327T203754Z">
+        <seg>E dal momento che il titolo dovrebbe essere un campo che non puo' essere &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;NULL&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;, in casi del genere vengono visualizzati tutti i record.</seg>
       </tuv>
     </tu>
     <tu>
