@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16422,6 +16422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searching should work well when only fragmentary knowledge is available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201148Z" creationid="MicrosoftSucks" creationdate="20180327T201148Z">
+        <seg>La ricerca dovrebbe funzionare bene quando e' disponibile solo una conoscenza frammentata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searching tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133734Z" creationid="Marco Marega" creationdate="20180302T133734Z">
@@ -20490,6 +20498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210536Z" creationid="MicrosoftSucks" creationdate="20180218T210359Z">
         <seg>La query restituisce dalla tabella sottostante solo i record corrispondentiai valori del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query technique must therefore use the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LIKE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; condition:&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201229Z" creationid="MicrosoftSucks" creationdate="20180327T201229Z">
+        <seg>La tecnica di ricerca deve dunque fare uso della condizione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LIKE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; :&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
