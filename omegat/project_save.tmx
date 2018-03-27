@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16358,6 +16358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202009Z" creationid="Marco Marega" creationdate="20180327T202009Z">
+        <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1" JOIN "Table2" ON "Table1"."ClassID" = "Table2"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120023Z" creationid="manuel" creationdate="20180302T120023Z">
@@ -22806,6 +22814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This query in turn is based on a further sub-query:&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202002Z" creationid="Marco Marega" creationdate="20180327T202002Z">
+        <seg>A sua volta questa ricerca si basa su di un'ulteriore sub-query:&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This query is no longer suitable for use as a query that allows new entries into the resulting table, since it lacks the primary key for the added Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164849Z" creationid="Manuel Frassinetti" creationdate="20171202T164849Z">
@@ -22826,6 +22842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223318Z" creationid="MicrosoftSucks" creationdate="20180316T223318Z">
         <seg>Questa query normalmente genera una lista di risultati vuota per &lt;f0&gt;queste&lt;/f0&gt; ragioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query presents the term in the field itself as the second column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201938Z" creationid="Marco Marega" creationdate="20180327T201938Z">
+        <seg>Questa ricerca presenta come seconda colonna il termine stesso del campo.</seg>
       </tuv>
     </tu>
     <tu>
