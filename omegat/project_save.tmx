@@ -20014,6 +20014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number of hits must be obtained in a different way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200152Z" creationid="Marco Marega" creationdate="20180327T200152Z">
+        <seg>Il numero di risultati dev'essere ottenuto in modo diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The number should always remain small and positive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214428Z" creationid="Marco Marega" creationdate="20171213T214428Z">
