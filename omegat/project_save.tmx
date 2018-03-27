@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4074,6 +4074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T184754Z" creationid="MicrosoftSucks" creationdate="20180316T184754Z">
         <seg>&lt;f0&gt;La tabella per il contenuto della ricerca puo' essere la stessa che contiene gia' i valori di filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The table from which this information is drawn is actually a query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201543Z" creationid="Marco Marega" creationdate="20180327T201543Z">
+        <seg>&lt;f0&gt;La tabella dalla quale sono tratte queste informazioni in realtà è una ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10566,6 +10574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here we have only the content of the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200917Z" creationid="Marco Marega" creationdate="20180327T200917Z">
+        <seg>Qui si trova solo il contenuto del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we shall explain the direct creation of queries&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;D&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esign &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;V&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;iew.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162804Z" creationid="Manuel Frassinetti" creationdate="20171125T173748Z">
@@ -13150,6 +13166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this query the primary key fields are counted (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT COUNT( "ID" ) AS "Count"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201628Z" creationid="Marco Marega" creationdate="20180327T201628Z">
+        <seg>In questa ricerca vengono contati i campi della chiave primaria (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT COUNT( "ID" ) AS "Count"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this table all fields that are directly entered are assumed not to be also in use for other media with the same content.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153243Z" creationid="Marco Marega" creationdate="20180127T153243Z">
@@ -15458,6 +15482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T112143Z" creationid="Elisabetta Manuele" creationdate="20180308T112143Z">
         <seg>Solo così disporrete dello spazio necessario per la stampa di tre etichette in fila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only these fields are available for further filtering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201502Z" creationid="Marco Marega" creationdate="20180327T201502Z">
+        <seg>Solo questi campi sono disponibili per ulteriori filtraggi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19902,6 +19934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The listboxes thus draw their content &lt;t0/&gt;from the query, which is presented as the filter result in the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201436Z" creationid="Marco Marega" creationdate="20180327T201436Z">
+        <seg>Le caselle di riepilogo perciò traggono il loro contenuto &lt;t0/&gt;dalla ricerca, che nel formulario viene presentata come il risultato del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The loan date is set to the current date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160619Z" creationid="Marco Marega" creationdate="20171230T160619Z">
@@ -20698,6 +20738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T134234Z" creationid="Marco Marega" creationdate="20180302T134234Z">
         <seg>La finestra di ricerca rimane in primo piano e non avrete la possibilità di correggere le impostazioni della larghezza delle colonne nella tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second column transfers its content to the underlying table of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200856Z" creationid="Marco Marega" creationdate="20180327T200856Z">
+        <seg>La seconda colonna trasferisce il suo contenuto alla tabella sottostante al formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22538,6 +22586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223549Z" creationid="Marco Marega" creationdate="20180228T223549Z">
         <seg>Questa è la stessa opzione prevista nel caso di aggiornamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is then grouped by the search term in the field (&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;GROUP BY "Field_1"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201841Z" creationid="Marco Marega" creationdate="20180327T201841Z">
+        <seg>Poi questo è raggruppato in base al termine di ricerca del campo (&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;GROUP BY "Field_1"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
