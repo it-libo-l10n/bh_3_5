@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A query needs to calculate a person's actual age from a birth date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205434Z" creationid="MicrosoftSucks" creationdate="20180327T205434Z">
+        <seg>Query che serve per calcolare l'eta' effettiva di una persona a partire da una data di nascita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A quick variant for direct entry of fields with labels is to use the &lt;f0&gt;Add Field&lt;/f0&gt; function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205427Z" creationid="Marco Marega" creationdate="20171210T205427Z">
@@ -17078,6 +17086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See also the functions in the appendix to this Base Handbook.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205559Z" creationid="MicrosoftSucks" creationdate="20180327T205559Z">
+        <seg>Vedere anche le funzioni nell'appendice al Manuale di Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the code fragments in this chapter, in &lt;/f4&gt;&lt;f5&gt;Chapter 9 (&lt;/f5&gt;&lt;f6&gt;Macros&lt;/f6&gt;&lt;f7&gt;),&lt;/f7&gt;&lt;f8&gt; and in &lt;/f8&gt;&lt;f9&gt;C&lt;/f9&gt;&lt;f10&gt;hapter &lt;/f10&gt;&lt;f11&gt;8&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;f14&gt;D&lt;/f14&gt;&lt;f15&gt;atabase T&lt;/f15&gt;&lt;f16&gt;asks&lt;/f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170915Z" creationid="Manuel Frassinetti" creationdate="20180116T170915Z">
@@ -23362,6 +23378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211249Z" creationid="Marco Marega" creationdate="20171216T211249Z">
         <seg>Questo previene la visualizzazione dei supporti che sono già stati restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query gives the age as a difference in years.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205645Z" creationid="MicrosoftSucks" creationdate="20180327T205645Z">
+        <seg>Questa query restituisce l'eta' come differenza di anni.</seg>
       </tuv>
     </tu>
     <tu>
