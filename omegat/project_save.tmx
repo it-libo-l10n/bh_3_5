@@ -21158,6 +21158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore it is essential that the graphic is available in the search path, even when you are presented with the choice of embedding rather than linking images and the first field &lt;f0&gt;Set up a&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ink&lt;/f3&gt; can be set (literally closed) to a corresponding planned functionality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T075553Z" creationid="Alessia Mazzarini" creationdate="20180327T075553Z">
+        <seg>Per questo motivo è essenziale che l'immagine sia disponibile nel percorso ricerca, anche nel caso in cui venga data la possibilità di incorporare l'immagine piuttosto che mettere un collegamento e il primo campo &lt;f0&gt;Mantieni com&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e c&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ollegamento&lt;/f3&gt; può essere impostata (literally closed) to a corresponding planned functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore it is not necessary to include these addresses in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150846Z" creationid="Marco Marega" creationdate="20180127T150846Z">
