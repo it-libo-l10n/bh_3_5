@@ -20974,6 +20974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The other listboxes must be &lt;f0&gt;refreshed&lt;/f0&gt;, as they now contain different values depending on the first listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T220445Z" creationid="Marco Marega" creationdate="20180327T220445Z">
+        <seg>Le altre caselle di riepilogo devono essere &lt;f0&gt;aggiornate&lt;/f0&gt;, in quanto contengo dei valori differenti a seconda della prima casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The overall condition is:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123724Z" creationid="Elisabetta Manuele" creationdate="20180308T123724Z">
