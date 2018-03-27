@@ -6454,6 +6454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An array (a collection of data accessible via an index number) is established and filled with the field names of the listboxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215705Z" creationid="Marco Marega" creationdate="20180327T215705Z">
+        <seg>Viene creata una matrice (una raccolta di dati accessibile tramite un indice numerico) riempita con i nomi dei campi delle caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114110Z" creationid="Marina Latini" creationdate="20171213T114110Z">
@@ -19922,6 +19930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120111Z" creationid="Elisabetta Manuele" creationdate="20180310T120111Z">
         <seg>La prima riga contiene le intestazioni di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first name in the list must be the name of that listbox.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215438Z" creationid="Marco Marega" creationdate="20180327T215438Z">
+        <seg>Il primo nome della lista deve essere il nome di quella casella di riepilogo.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
