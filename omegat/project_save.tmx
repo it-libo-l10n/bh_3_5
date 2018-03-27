@@ -19238,6 +19238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first column contains the view seen by a person who has the form open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200657Z" creationid="Marco Marega" creationdate="20180327T200657Z">
+        <seg>La prima colonna contiene la vista visualizzata da una persona che ha il formulario aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first five fields of the Loan table are selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T173018Z" creationid="Manuel Frassinetti" creationdate="20171130T173018Z">
@@ -20450,6 +20458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
         <seg>La query costruita dalla procedura guidata è così strutturata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query in detail: The query presents two columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200615Z" creationid="Marco Marega" creationdate="20180327T200615Z">
+        <seg>La ricerca nel dettaglio: La ricerca presenta due colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22938,6 +22954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214612Z" creationid="Marco Marega" creationdate="20180227T214612Z">
         <seg>Questo di solito si ottiene attraverso l'uso di adeguati formulari di inserimento che gestiscano questo aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This view shows the content of the field and, separated by a hyphen, the hits for this field content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200823Z" creationid="Marco Marega" creationdate="20180327T200823Z">
+        <seg>Questa vista mostra il contenuto del campo e, separato da un trattino, il numero di risultati per questo contenuto del campo.</seg>
       </tuv>
     </tu>
     <tu>
