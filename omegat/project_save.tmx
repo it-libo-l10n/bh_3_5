@@ -4430,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The listbox that triggered the macro must be saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T220109Z" creationid="Marco Marega" creationdate="20180327T220109Z">
+        <seg>&lt;f0&gt;La casella di riepilogo che attiva la macro deve essere salvata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The macro has the name &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Update&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205416Z" creationid="Marco Marega" creationdate="20180325T205416Z">
@@ -6298,6 +6306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105552Z" creationid="ldaghino" creationdate="20171002T105552Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All values which were separated by commas in the additional information, are now transferred successively.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T220039Z" creationid="Marco Marega" creationdate="20180327T220039Z">
+        <seg>Tutti i valori che erano separati da virgole nelle informazioni addizionali (Additional Information), vengono ora trasmesse in successione.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,6 +9746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215946Z" creationid="Marco Marega" creationdate="20171217T215946Z">
         <seg>Per prima cosa va migliorata la selezione dei lettori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First the information for the listbox is carried across to the underlying table, and then the record is saved.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T220302Z" creationid="Marco Marega" creationdate="20180327T220302Z">
+        <seg>Per prima cosa l'informazione relativa alla casella di riepilogo viene spostata nella tabella sottostante, quindi il record viene salvato.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14178,6 +14202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162211Z" creationid="steevie" creationdate="20180216T161451Z">
         <seg>Potete trovarlo nelle proprietà del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is found in the variable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;aList(0)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T220138Z" creationid="Marco Marega" creationdate="20180327T220138Z">
+        <seg>Questa si trova nella variabile &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;aList(0)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
