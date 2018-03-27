@@ -6494,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another function will carry out the comparison.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210055Z" creationid="MicrosoftSucks" creationdate="20180327T210055Z">
+        <seg>Un'altra funzione eseguira' il confronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another possibility would be to write the tables to the hard drive and use memory only to buffer access to the hard drive (&lt;f1&gt;CACHED&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205216Z" creationid="Marco Marega" creationdate="20180219T205216Z">
@@ -15502,6 +15510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now we get the correct current age in years.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210149Z" creationid="MicrosoftSucks" creationdate="20180327T210149Z">
+        <seg>Ora otteniamo l'eta' in anni corretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now we will be grouping only by the reader.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163937Z" creationid="Manuel Frassinetti" creationdate="20171216T163937Z">
@@ -22970,6 +22986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212035Z" creationid="Marco Marega" creationdate="20171126T212035Z">
         <seg>Questa è una caratteristica dei pulsanti di scelta che sono collegati allo stesso campo della tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is accessible using the &lt;f4&gt;'DAYOFYEAR()'&lt;/f4&gt; function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210026Z" creationid="MicrosoftSucks" creationdate="20180327T210026Z">
+        <seg>E' possibile fare cio' con la funzione &lt;f4&gt;'DAYOFYEAR()'&lt;/f4&gt; .</seg>
       </tuv>
     </tu>
     <tu>
