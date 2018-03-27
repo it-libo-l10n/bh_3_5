@@ -5832,8 +5832,8 @@
       <tuv lang="EN">
         <seg>Also, contrary to the default setup, it is specified that this area should be kept together in all cases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T150520Z" creationid="Alessia Mazzarini" creationdate="20180323T192520Z">
-        <seg>Inoltre, a differenza dell'impostazione predefinita, si specifica che quest'area debba essere mantenuta assieme in ogni caso.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T160409Z" creationid="Alessia Mazzarini" creationdate="20180323T192520Z">
+        <seg>Inoltre, a differenza dell'impostazione predefinita, si specifica che quest'area debba essere tenuta assieme in ogni caso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19224,8 +19224,8 @@
       <tuv lang="EN">
         <seg>The footer is so defined that an additional page break will occur after this area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192928Z" creationid="Alessia Mazzarini" creationdate="20180323T192928Z">
-        <seg>Il piè di pagina è impostato in modo da essere seguito da un'interruzione di pagina aggiuntiva.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T160342Z" creationid="Alessia Mazzarini" creationdate="20180323T192928Z">
+        <seg>Il piè di pagina è impostato in modo da essere seguito, dopo questa area, da un'interruzione di pagina aggiuntiva .</seg>
       </tuv>
     </tu>
     <tu>
@@ -22768,8 +22768,8 @@
       <tuv lang="EN">
         <seg>This will create a horizontal line with a thickness of 0.03cm and a length of 17cm.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192044Z" creationid="Alessia Mazzarini" creationdate="20180323T192044Z">
-        <seg>Otterrete così una riga di 0,03 cm spessore e 17 cm di lunghezza.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T160225Z" creationid="Alessia Mazzarini" creationdate="20180323T192044Z">
+        <seg>Otterrete così una riga di 0,03 cm di spessore e 17 cm di lunghezza.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
