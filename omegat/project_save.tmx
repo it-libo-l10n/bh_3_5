@@ -19352,8 +19352,8 @@
       <tuv lang="EN">
         <seg>The group footer contains the total fine due.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151455Z" creationid="Alessia Mazzarini" creationdate="20180324T151455Z">
-        <seg>Il piè di pagina del gruppo contiente il totale dovuto.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T072504Z" creationid="Alessia Mazzarini" creationdate="20180324T151455Z">
+        <seg>Il piè di pagina del gruppo contiene il totale della multa.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
