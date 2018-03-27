@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A graphical control can contain graphics from both inside and outside the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T074834Z" creationid="Alessia Mazzarini" creationdate="20180327T074834Z">
+        <seg>Un campo di controllo immagine può contenere immagini interne o esterne al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A group box graphically groups several controls and provides them with a collective label.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210145Z" creationid="Marco Marega" creationdate="20171126T210145Z">
@@ -16910,6 +16918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Special properties of graphical controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T074757Z" creationid="Alessia Mazzarini" creationdate="20180327T074757Z">
+        <seg>Proprietà speciali dei campi di controllo immagine </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies the alignment of the graphic to the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214442Z" creationid="Marco Marega" creationdate="20171126T214442Z">
@@ -23274,6 +23290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175533Z" creationid="MicrosoftSucks" creationdate="20180301T175533Z">
         <seg>Purtroppo &lt;f0&gt;non potete svolgere questa operazione &lt;/f0&gt;attraverso la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately it is not possible at present to store a graphic such as a logo permanently in Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T074922Z" creationid="Alessia Mazzarini" creationdate="20180327T074922Z">
+        <seg>Purtroppo al momento non è possibile salvare permanentemente in Base una immagine come un logo.</seg>
       </tuv>
     </tu>
     <tu>
