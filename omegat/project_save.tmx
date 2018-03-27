@@ -6646,6 +6646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But in that case, it must be accessible through one of the fields in the query underlying the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T154602Z" creationid="Alessia Mazzarini" creationdate="20180327T154602Z">
+        <seg>In questo caso però, dovrà essere accessibile attraverso uno dei campi nell'interrogazione sottostante il rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But it would still be possible to change the medium and the loan date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205507Z" creationid="Marco Marega" creationdate="20171229T205507Z">
