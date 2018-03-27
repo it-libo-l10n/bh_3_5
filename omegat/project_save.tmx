@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200200Z" creationid="Marco Marega" creationdate="20180327T200200Z">
         <seg>"Field_1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202254Z" creationid="Marco Marega" creationdate="20180327T202254Z">
+        <seg>"Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Table"."Field_3" = IFNULL( "Filter"."Filter_3", "Table"."Field_3" )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202357Z" creationid="Marco Marega" creationdate="20180327T202357Z">
+        <seg>"Table"."Field_3" = IFNULL( "Filter"."Filter_3", "Table"."Field_3" )</seg>
       </tuv>
     </tu>
     <tu>
@@ -5434,6 +5450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213243Z" creationid="Marco Marega" creationdate="20180227T213243Z">
         <seg>ALTER TABLE "Nome_tabella" RENAME TO "nuovo_nome_tabella";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AND</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202255Z" creationid="Marco Marega" creationdate="20180327T202255Z">
+        <seg>AND</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,6 +11822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are further filters, this query can be extended:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202251Z" creationid="Marco Marega" creationdate="20180327T202251Z">
+        <seg>Se ci sono ulteriori filtri, questa ricerca può essere estesa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are more records than will fit on the page, the next page will automatically be filled with the next set of records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191119Z" creationid="Elisabetta Manuele" creationdate="20180308T121433Z">
@@ -12626,6 +12658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140815Z" creationid="Marco Marega" creationdate="20180218T140815Z">
         <seg>In linea di principio, un indice può essere creato anche da campi di una tabella che non contengono valori univoci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In principle, this other field must also match the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202220Z" creationid="Marco Marega" creationdate="20180327T202220Z">
+        <seg>In linea di principio, anche la chiave primaria di quest'altro campo deve coincidere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16354,6 +16394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162039Z" creationid="steevie" creationdate="20180216T162039Z">
         <seg>SELECT "Surname", "Firstname" FROM "Author" WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202253Z" creationid="Marco Marega" creationdate="20180327T202253Z">
+        <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE</seg>
       </tuv>
     </tu>
     <tu>
@@ -23042,6 +23090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215800Z" creationid="Marco Marega" creationdate="20171217T220247Z">
         <seg>Ciò richiede una funzione di ricerca quando un utente desidera prendere in prestito &lt;f0&gt;un articolo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This sub-query deals with the other field to be filtered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202124Z" creationid="Marco Marega" creationdate="20180327T202124Z">
+        <seg>Questa sub-query gestisce l'altro campo da filtrare.</seg>
       </tuv>
     </tu>
     <tu>
