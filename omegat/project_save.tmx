@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Field_1"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200200Z" creationid="Marco Marega" creationdate="20180327T200200Z">
+        <seg>"Field_1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Table_name 1" [{CROSS | INNER | LEFT OUTER | RIGHT OUTER} JOIN "Table_name 2" ON Expression] [, ...]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114829Z" creationid="manuel" creationdate="20180302T114829Z">
@@ -50,6 +58,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103522Z" creationid="manuel" creationdate="20180302T103522Z">
         <seg>"Tabella_nome".* | * [, ...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>( SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" ) )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200207Z" creationid="Marco Marega" creationdate="20180327T200207Z">
+        <seg>( SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" ) )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table" WHERE "ID" IN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200205Z" creationid="Marco Marega" creationdate="20180327T200205Z">
+        <seg>( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table" WHERE "ID" IN</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T174956Z" creationid="MicrosoftSucks" creationdate="20180301T174956Z">
         <seg>&lt;f0&gt;Questa variante produrra' l'effetto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This very complex query can be broken down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200331Z" creationid="Marco Marega" creationdate="20180327T200331Z">
+        <seg>&lt;f0&gt;Questa ricerca molto complessa può essere spezzettata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8574,6 +8606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FROM</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200202Z" creationid="Marco Marega" creationdate="20180327T200202Z">
+        <seg>FROM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FROM "Table_list"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145523Z" creationid="manuel" creationdate="20180224T145523Z">
@@ -10006,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GROUP BY "Field_1" )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200208Z" creationid="Marco Marega" creationdate="20180327T200208Z">
+        <seg>GROUP BY "Field_1" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GUI Condition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145916Z" creationid="Marco Marega" creationdate="20180303T145905Z">
@@ -10978,6 +11026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221405Z" creationid="Marco Marega" creationdate="20171217T221405Z">
         <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IFNULL( "Field_1" || ' - ' || "Count", 'empty - ' || "Count" ) AS "Display",</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200158Z" creationid="Marco Marega" creationdate="20180327T200158Z">
+        <seg>IFNULL( "Field_1" || ' - ' || "Count", 'empty - ' || "Count" ) AS "Display",</seg>
       </tuv>
     </tu>
     <tu>
@@ -12466,6 +12522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211756Z" creationid="Marco Marega" creationdate="20171213T211756Z">
         <seg>In pratica potrebbe essere meglio &lt;f4&gt;se&lt;/f4&gt; &lt;f5&gt;non&lt;/f5&gt; associate i campi con le etichette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice it is common to use a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;VIEW&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; for the sub-query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200401Z" creationid="Marco Marega" creationdate="20180327T200401Z">
+        <seg>Nella pratica è comune l'uso di una &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Vista&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; per le sub-query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16190,6 +16254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200157Z" creationid="Marco Marega" creationdate="20180327T200157Z">
+        <seg>SELECT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "COLUMN_NAME", "TYPE_NAME", "COLUMN_SIZE", "COLUMN_DEF" AS "Default Value" FROM "INFORMATION_SCHEMA"."SYSTEM_COLUMNS" WHERE "TABLE_NAME" = 'Searchtable' ORDER BY "ORDINAL_POSITION"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T161015Z" creationid="steevie" creationdate="20180205T161015Z">
@@ -19782,6 +19854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The listbox receives its content from a query relating to thi&lt;/f3&gt;&lt;f4&gt;s &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;VIEW.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200448Z" creationid="Marco Marega" creationdate="20180327T200448Z">
+        <seg>La casella di riepilogo riceve i suoi contenuti da una ricerca collegata a &lt;/f3&gt;&lt;f4&gt;questa &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Vista.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The listboxes are in the "Filter" form and have the names "List_1" and "List_2".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202638Z" creationid="Marco Marega" creationdate="20180326T202638Z">
@@ -23000,8 +23080,8 @@
       <tuv lang="EN">
         <seg>To achieve this aim, the following query is constructed, which is no longer fed directly from the filter results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200127Z" creationid="Marco Marega" creationdate="20180327T200127Z">
-        <seg>La query seguente è costruita per raggiungere questo scopo e non è più alimentata direttamente dai risultati del filtro.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200237Z" creationid="Marco Marega" creationdate="20180327T200127Z">
+        <seg>La seguente ricerca è costruita per raggiungere questo scopo e non è più alimentata direttamente dai risultati del filtro.</seg>
       </tuv>
     </tu>
     <tu>
