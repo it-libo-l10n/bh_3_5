@@ -23152,8 +23152,8 @@
       <tuv lang="EN">
         <seg>To take up an &lt;f0&gt;external graphic,&lt;/f0&gt; use the selection button beside the &lt;f1&gt;Graphic&lt;/f1&gt; field to load it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T160038Z" creationid="Alessia Mazzarini" creationdate="20180327T160038Z">
-        <seg>Per acquisire &lt;f0&gt;un'immagine esterna,&lt;/f0&gt; usa il pulsante di selezione accanto al campo &lt;f1&gt;Immagine&lt;/f1&gt; per caricarla.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T170216Z" creationid="Alessia Mazzarini" creationdate="20180327T160038Z">
+        <seg>Per caricare &lt;f0&gt;un'immagine esterna,&lt;/f0&gt; usate il pulsante di selezione accanto al campo &lt;f1&gt;Immagine&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
