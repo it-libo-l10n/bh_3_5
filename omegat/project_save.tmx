@@ -4374,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The following subroutine assumes that the “Additional information” property for each listbox contains a comma&lt;/f0&gt;&lt;f1&gt;-&lt;/f1&gt;&lt;f2&gt;separated list of all listbox names with no spaces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215408Z" creationid="Marco Marega" creationdate="20180327T215408Z">
+        <seg>&lt;f0&gt;La subroutine seguente presuppone che la proprietà “Additional information” di ciascuna casella di riepilogo contenga una lista di tutti i nomi delle caselle di riepilogo senza spazi e separati da una virgola &lt;/f0&gt;&lt;f1&gt;-&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The form consists of two parts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191929Z" creationid="MicrosoftSucks" creationdate="20180316T191929Z">
@@ -19946,6 +19954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120252Z" creationid="Elisabetta Manuele" creationdate="20180310T120252Z">
         <seg>I campi seguenti sono già stati impostati come chiave primaria: ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following macro can control through a listbox which listboxes must be saved and which must be read in again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215234Z" creationid="Marco Marega" creationdate="20180327T215234Z">
+        <seg>La macro seguente tramite una casella di riepilogo può controllare quali caselle di riepilogo devono essere salvate e quali devono essere lette nuovamente.</seg>
       </tuv>
     </tu>
     <tu>
