@@ -23054,6 +23054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To load a g&lt;f2&gt;raphical database field, specify the &lt;/f2&gt;field under the &lt;f3&gt;Data&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T171253Z" creationid="Alessia Mazzarini" creationdate="20180327T171253Z">
+        <seg>Per caricare un campo di dati i&lt;f2&gt;immagini, specificate il &lt;/f2&gt;campo nella scheda &lt;f3&gt;Dati&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make it easier to read, some line breaks have been included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114528Z" creationid="Manuel Frassinetti" creationdate="20171202T114528Z">
