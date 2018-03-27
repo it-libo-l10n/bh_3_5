@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6718,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But what if a library catalog shows clearly the classification for an item, but does not show uniquely if this is a book, a CD or a DVD?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T195140Z" creationid="Marco Marega" creationdate="20180327T195140Z">
+        <seg>Ma cosa succedere se il catalogo di una biblioteca mostra chiaramente la classificazione di un articolo, ma non specifica se si tratta di un libro, un CD o un DVD?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But when using &lt;s2/&gt;them as a pair, there is no duplication: no two pairs are identical.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220404Z" creationid="Marco Marega" creationdate="20180126T220404Z">
@@ -11498,6 +11506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144450Z" creationid="Marco Marega" creationdate="20180303T144450Z">
         <seg>Se il pulsante viene premuto nuovamente, il filtro continua a esistere, ma ora sono visualizzati tutti i record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the classification is chosen first and the second listbox is then set to "CD", it must be reset to NULL in order to carry out a subsequent search that includes books.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T195343Z" creationid="Marco Marega" creationdate="20180327T195343Z">
+        <seg>Se viene selezionata per prima la classificazione e quindi la seconda casella di riepilogo viene impostata a "CD", questa deve essere reimpostata a NULL per poter eseguire una successiva ricerca che comprenda i libri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17464,8 +17480,8 @@
       <tuv lang="EN">
         <seg>That may seem practical for a limited search.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T210015Z" creationid="Marco Marega" creationdate="20180326T210015Z">
-        <seg>Questo può apparire pratico per una ricerca limitata.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T194953Z" creationid="Marco Marega" creationdate="20180326T210015Z">
+        <seg>Questo può sembrare pratico per una ricerca limitata.</seg>
       </tuv>
     </tu>
     <tu>
