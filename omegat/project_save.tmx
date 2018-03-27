@@ -3232,8 +3232,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to&lt;/f0&gt; text fields (which, contrary to their name, can also contain numbers and formatting), there is also a field type that can contain images from the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T154947Z" creationid="Alessia Mazzarini" creationdate="20180324T154947Z">
-        <seg>&lt;f0&gt;Oltre&lt;/f0&gt; ai campi di testo (che, contrariamente al nome, possono includere anche numeri e formattazione), esiste anche un tipo di campo che può contenere immagini del database.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T072950Z" creationid="Alessia Mazzarini" creationdate="20180324T154947Z">
+        <seg>&lt;f0&gt;Oltre&lt;/f0&gt; al Campo di testo (che, contrariamente al nome, può includere anche numeri e formattazione), esiste anche un tipo di campo che può contenere immagini del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18416,8 +18416,8 @@
       <tuv lang="EN">
         <seg>The chart field displays a summary of data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T155018Z" creationid="Alessia Mazzarini" creationdate="20180324T155018Z">
-        <seg>Il campo Grafico presenta un sommario di dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073007Z" creationid="Alessia Mazzarini" creationdate="20180324T155018Z">
+        <seg>Il campo Grafico mostra un sommario di dati.</seg>
       </tuv>
     </tu>
     <tu>
