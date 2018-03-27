@@ -16622,6 +16622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172009Z" creationid="Alessia Mazzarini" creationdate="20180327T172009Z">
+        <seg>Dimensioni&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size&lt;/f4&gt;: The image is fitted to the control and may be shown in a distorted form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192524Z" creationid="Marco Marega" creationdate="20171125T192524Z">
@@ -21834,6 +21842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T153211Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
         <seg>Corrisponde alla condizione di relazione per cui devono essere visualizzati solo i record di dati per i quali il campo Supporto_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This corresponds to the settings for a form:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172055Z" creationid="Alessia Mazzarini" creationdate="20180327T172055Z">
+        <seg>Le seguenti impostazioni corrispondono a quelle per un formulario:</seg>
       </tuv>
     </tu>
     <tu>
