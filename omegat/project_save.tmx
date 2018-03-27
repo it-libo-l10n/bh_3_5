@@ -10976,8 +10976,8 @@
       <tuv lang="EN">
         <seg>If &lt;f0&gt;Print repeated values&lt;/f0&gt; is deactivated, display of the field is inhibited when a field with the same content is loaded directly before.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T160648Z" creationid="Alessia Mazzarini" creationdate="20180324T160648Z">
-        <seg>Se &lt;f0&gt;Stampa valori ripetuti&lt;/f0&gt; è disattivato, la visualizzazione di un campo viene impedita nel caso in cui un campo contenente lo stesso contenuto è caricato direttamente prima.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073301Z" creationid="Alessia Mazzarini" creationdate="20180324T160648Z">
+        <seg>Se &lt;f0&gt;Stampa valori ripetuti&lt;/f0&gt; è disattivato, la visualizzazione di un campo viene impedita nel caso in cui un campo contenente lo stesso contenuto sia caricato appena sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22376,8 +22376,8 @@
       <tuv lang="EN">
         <seg>This may seem a bit pointless in the case of fields but is useful for group headers and footers, which may be required to carry out other functions of the grouping without containing anything that needs to be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T160316Z" creationid="Alessia Mazzarini" creationdate="20180324T160108Z">
-        <seg>Ciò può apparire inutile nel caso dei comandi di campo, ma risulta invece utile per le intestazioni e piè di pagina di gruppo, che potrebbero dover svolgere altre funzioni di raggruppamento pur non contenendo nulla da visualizzare.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073153Z" creationid="Alessia Mazzarini" creationdate="20180324T160108Z">
+        <seg>Ciò può apparire superfluo nel caso dei comandi di campo, ma risulta invece utile per le intestazioni e piè di pagina di gruppo, che potrebbero dover svolgere altre funzioni di raggruppamento pur non contenendo nulla da visualizzare.</seg>
       </tuv>
     </tu>
     <tu>
