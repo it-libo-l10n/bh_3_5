@@ -3376,8 +3376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep aspect ratio&lt;/f0&gt;: The image is fitted to the control but not distorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172811Z" creationid="Alessia Mazzarini" creationdate="20180327T172811Z">
-        <seg>&lt;f0&gt;Mantieni rapporto&lt;/f0&gt;: The image is fitted to the control but not distorted.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173150Z" creationid="Alessia Mazzarini" creationdate="20180327T172811Z">
+        <seg>&lt;f0&gt;Mantieni rapporto&lt;/f0&gt;: l'immagine viene adattata ma non distorta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3576,8 +3576,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;No&lt;/f0&gt;: The image is not fitted to the control.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172524Z" creationid="Alessia Mazzarini" creationdate="20180327T172524Z">
-        <seg>&lt;f0&gt;No&lt;/f0&gt;: L'immagine non viene ridimensionata.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173118Z" creationid="Alessia Mazzarini" creationdate="20180327T172524Z">
+        <seg>&lt;f0&gt;No&lt;/f0&gt;: L'immagine non viene adattata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24016,8 +24016,8 @@
       <tuv lang="EN">
         <seg>When scaling, you can select &lt;f0&gt;No&lt;/f0&gt;, &lt;f1&gt;Keep aspect ratio&lt;/f1&gt;, or &lt;f2&gt;Autom.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T171951Z" creationid="Alessia Mazzarini" creationdate="20180327T171951Z">
-        <seg>Per quanto riguarda la scala, potete scegliere &lt;f0&gt;No&lt;/f0&gt;, &lt;f1&gt;Mantieni rapporto&lt;/f1&gt;, o &lt;f2&gt;Autom.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173039Z" creationid="Alessia Mazzarini" creationdate="20180327T171951Z">
+        <seg>Per ridimensionare, scegliete tra le opzioni Scala: &lt;f0&gt;No&lt;/f0&gt;, &lt;f1&gt;Mantieni rapporto&lt;/f1&gt;, o &lt;f2&gt;Adatta alla dimensione</seg>
       </tuv>
     </tu>
     <tu>
