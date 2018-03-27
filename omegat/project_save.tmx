@@ -23142,6 +23142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To take up an &lt;f0&gt;external graphic,&lt;/f0&gt; use the selection button beside the &lt;f1&gt;Graphic&lt;/f1&gt; field to load it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T160038Z" creationid="Alessia Mazzarini" creationdate="20180327T160038Z">
+        <seg>Per acquisire &lt;f0&gt;un'immagine esterna,&lt;/f0&gt; usa il pulsante di selezione accanto al campo &lt;f1&gt;Immagine&lt;/f1&gt; per caricarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the right of the name tree, you can see the table you have selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182308Z" creationid="Elisabetta Manuele" creationdate="20180306T182308Z">
