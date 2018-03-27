@@ -11192,8 +11192,8 @@
       <tuv lang="EN">
         <seg>If both grouping areas and graphical elements are included, this may result in unpredictable sizes for certain &lt;/f0&gt;&lt;f1&gt;areas.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T152700Z" creationid="Alessia Mazzarini" creationdate="20180324T152700Z">
-        <seg>Nel caso in cui si includano sia aree di raggruppamento che elementi grafici, ciò può comportare dimensioni imprevedibili per alcune &lt;/f0&gt;&lt;f1&gt;aree.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T161357Z" creationid="Alessia Mazzarini" creationdate="20180324T152700Z">
+        <seg>Nel caso in cui si includano sia aree di raggruppamento che elementi grafici, ciò può comportare dimensioni imprevedibili in alcune &lt;/f0&gt;&lt;f1&gt;parti.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20600,8 +20600,8 @@
       <tuv lang="EN">
         <seg>The size of the report is quite separate from the page size.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T151818Z" creationid="Alessia Mazzarini" creationdate="20180324T151757Z">
-        <seg>La dimensione del rapporto è distinta da quella della pagina.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T161227Z" creationid="Alessia Mazzarini" creationdate="20180324T151757Z">
+        <seg>La dimensione del rapporto non è in relazione con quella della pagina.</seg>
       </tuv>
     </tu>
     <tu>
