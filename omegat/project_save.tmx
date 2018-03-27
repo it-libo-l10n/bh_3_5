@@ -5862,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, of course, a graphic can be stored in the database itself and so becomes available internally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T154433Z" creationid="Alessia Mazzarini" creationdate="20180327T154433Z">
+        <seg>In alternativa, si può salvare un'immagine nel database stesso così da renderla disponibile internamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170452Z" creationid="Marina Latini" creationdate="20171207T170452Z">
