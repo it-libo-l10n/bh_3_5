@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2922,6 +2922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205943Z" creationid="Marco Marega" creationdate="20171014T205943Z">
         <seg>&lt;f0&gt;Analizza&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;comando SQL&lt;/f3&gt;: Se volete che l'&lt;f4&gt;analisi&lt;/f4&gt; del comando SQL non sia premessa (ad esempio, perché state usando del codice che l'Interfaccia Grafica non può visualizzare correttamente), qui dovrete scegliere &lt;f5&gt;No&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;And what if, as in the case of the filter, you want to prevent &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NULL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; values in the field from causing all the records to being displayed?&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202908Z" creationid="MicrosoftSucks" creationdate="20180327T202908Z">
+        <seg>&lt;f0&gt;E cosa succede se, come nel caso del filtro, volete evitare che i valori &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NULL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nei campi causino la visualizzazione di tutti i record?&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19866,6 +19874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221322Z" creationid="Marco Marega" creationdate="20171217T221322Z">
         <seg>Perciò deve essere creata la seguente tabella denominata Filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following variant covers one or two of these possibilities:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203109Z" creationid="MicrosoftSucks" creationdate="20180327T203109Z">
+        <seg>La variante presentata di seguito copre una o due di queste possibilita':</seg>
       </tuv>
     </tu>
     <tu>
