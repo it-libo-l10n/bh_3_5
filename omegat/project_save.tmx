@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9674,6 +9674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T121931Z" creationid="Elisabetta Manuele" creationdate="20180308T121931Z">
         <seg>A questo punto il pulsante &lt;f0&gt;Nuovo documento&lt;/f0&gt; consente di generare un nuovo documento contenente i campi selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finally the whole query is sorted by the underlying field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T214913Z" creationid="Marco Marega" creationdate="20180327T214913Z">
+        <seg>Infine l'intera ricerca è ordinata in base al campo sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22414,6 +22422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This allows any further fields that are to be filtered to control what finally appears in the listbox of the first field, "Field_1".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T214819Z" creationid="Marco Marega" creationdate="20180327T214819Z">
+        <seg>Questo permette ad ogni ulteriore campo da filtrare di controllare quello che appare nella casella di riepilogo del primo campo, "Field_1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This allows more space, if necessary, for a display of the data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T173824Z" creationid="Elisabetta Manuele" creationdate="20180307T173824Z">
@@ -24786,6 +24802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202254Z" creationid="MicrosoftSucks" creationdate="20180327T202254Z">
         <seg>Quali altre convenzioni di scrittura devono dunque essere &lt;f0&gt;prese in considerazione&lt;/f0&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What the final query underlying the displayed form, actually looks like, can be seen from &lt;f0&gt;Chapter 8,&lt;/f0&gt; Database &lt;f1&gt;T&lt;/f1&gt;asks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215101Z" creationid="Marco Marega" creationdate="20180327T215101Z">
+        <seg>Nel &lt;f0&gt;Capitolo 8,&lt;/f0&gt; Attività di Database &lt;f1&gt;&lt;/f1&gt;è possibile vedere come appare realmente la ricerca sottostante al formulario visualizzato.</seg>
       </tuv>
     </tu>
     <tu>
