@@ -3566,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;No&lt;/f0&gt;: The image is not fitted to the control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172524Z" creationid="Alessia Mazzarini" creationdate="20180327T172524Z">
+        <seg>&lt;f0&gt;No&lt;/f0&gt;: L'immagine non viene ridimensionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;No&lt;/f0&gt;: The image will not be fitted to the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191743Z" creationid="Marco Marega" creationdate="20171125T191743Z">
@@ -11298,6 +11306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191819Z" creationid="Marco Marega" creationdate="20171125T191819Z">
         <seg>Se è troppo grande, il campo visualizzerà una finestra nell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is too large, a cropped version is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172614Z" creationid="Alessia Mazzarini" creationdate="20180327T172614Z">
+        <seg>Nel caso in cui sia troppo grande, viene mostrata una versione ritagliata.</seg>
       </tuv>
     </tu>
     <tu>
