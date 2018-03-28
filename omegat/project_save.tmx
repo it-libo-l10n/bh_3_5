@@ -8790,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each group is given its own chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T145755Z" creationid="Alessia Mazzarini" creationdate="20180328T145755Z">
+        <seg>Ogni gruppo ha il proprio grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each index has a defined sort order.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135654Z" creationid="Marco Marega" creationdate="20180218T135654Z">
@@ -22520,8 +22528,8 @@
       <tuv lang="EN">
         <seg>They are grouped by gender.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T145441Z" creationid="Alessia Mazzarini" creationdate="20180328T145441Z">
-        <seg>Essi sono raggruppati per genere.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T145807Z" creationid="Alessia Mazzarini" creationdate="20180328T145441Z">
+        <seg>I membri sono raggruppati per genere.</seg>
       </tuv>
     </tu>
     <tu>
