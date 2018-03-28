@@ -22518,6 +22518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are grouped by gender.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T145441Z" creationid="Alessia Mazzarini" creationdate="20180328T145441Z">
+        <seg>Essi sono raggruppati per genere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are included in the list, but are not in fact accessed &lt;f0&gt;through&lt;/f0&gt; the keyboard when working with the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T151528Z" creationid="Marco Marega" creationdate="20171231T151528Z">
