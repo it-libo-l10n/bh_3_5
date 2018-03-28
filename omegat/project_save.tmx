@@ -9598,6 +9598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;50&lt;/seq0&gt;: Linked fields for a chart, same as in forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150512Z" creationid="Alessia Mazzarini" creationdate="20180328T150512Z">
+        <seg>Figura &lt;seq0&gt;50&lt;/seq0&gt;: Campi collegati in un grafico, come nei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;51&lt;/seq0&gt;: Data source browser toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182707Z" creationid="Elisabetta Manuele" creationdate="20180306T182707Z">
@@ -23106,6 +23114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135330Z" creationid="Marco Marega" creationdate="20180228T135330Z">
         <seg>Questo errore è molto comune, quando due tabelle devono essere collegate e alcuni campi nella tabella con la chiave esterna di riferimento contengono già dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This example is n&lt;f1&gt;o&lt;/f1&gt;t translated, because the report is nt part of the example database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150620Z" creationid="Alessia Mazzarini" creationdate="20180328T150620Z">
+        <seg>Questo esempio n&lt;f1&gt;o&lt;/f1&gt;n è stato tradotto, poichè il rapporto non fa parte del database degli esempi.</seg>
       </tuv>
     </tu>
     <tu>
