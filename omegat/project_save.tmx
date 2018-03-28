@@ -11286,6 +11286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, in a Media &lt;f0&gt;Top 10&lt;/f0&gt; list example, the chart shows the frequency with which particular media are borrowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T141227Z" creationid="Alessia Mazzarini" creationdate="20180328T141212Z">
+        <seg>Nell'esempio qui riportato, la lista dei &lt;f0&gt;Top 10&lt;/f0&gt; media, il grafico mostra la frequenza con la quale un particolare media viene preso in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here, it is just a matter of choosing which field the gender of the recipient should be taken from.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180525Z" creationid="Elisabetta Manuele" creationdate="20180307T180525Z">
