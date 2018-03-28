@@ -18974,6 +18974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Query Editor is used to create a suitable SQL command, as you would do for a listbox in a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T141827Z" creationid="Alessia Mazzarini" creationdate="20180328T141827Z">
+        <seg>L'editor di query serve per creare un comando SQL adatto, allo stesso modo di una lista di scelta all'interno di un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Reader table i&lt;f5&gt;s desc&lt;/f5&gt;ribed here as the &lt;f6&gt;List table&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T214203Z" creationid="Marco Marega" creationdate="20171029T213659Z">
