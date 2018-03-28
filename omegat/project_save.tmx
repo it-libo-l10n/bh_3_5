@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13810,6 +13810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111251Z" creationid="Elisabetta Manuele" creationdate="20180308T111251Z">
         <seg>Nelle versioni comprese tra la 3.4.x e la 3.5.2, a causa di una modifica apportata alle impostazioni di base della creazione guidata etichette, si sono verificati errori di visualizzazione quando la larghezza delle etichette coincideva con quella della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incorporating charts into the report</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T132659Z" creationid="Alessia Mazzarini" creationdate="20180328T132659Z">
+        <seg>Inserimento di grafici nel rapporto</seg>
       </tuv>
     </tu>
     <tu>
