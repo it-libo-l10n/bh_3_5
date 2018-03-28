@@ -4286,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;o get a correct result, the table must contain the content you are searching for as text and not as foreign keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204358Z" creationid="Marco Marega" creationdate="20180328T204358Z">
+        <seg>&lt;f0&gt;Per&lt;/f0&gt; ottenere il risultato corretto, la tabella deve contenere ciò che state cercando in forma di testo e non come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tables and relationships for the&lt;/f0&gt;&lt;f1&gt; example database&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152238Z" creationid="Marco Marega" creationdate="20180127T152238Z">
@@ -22006,6 +22014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table name is supplied initially to the &lt;f3&gt;subroutine&lt;/f3&gt; as a variable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204241Z" creationid="Marco Marega" creationdate="20180328T204241Z">
+        <seg>Il nome della tabella viene passato alla &lt;f3&gt;subroutine&lt;/f3&gt; all'inizio come variabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table of a main form stands to the table of a subform in a 1:n relationship, or in some exceptional cases 1:1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T214517Z" creationid="Marco Marega" creationdate="20171230T214517Z">
@@ -26370,6 +26386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202535Z" creationid="Marco Marega" creationdate="20180327T202535Z">
         <seg>stContent &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oField.getCurrentValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>that contains all the primary keys retrieved from the table being searched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204137Z" creationid="Marco Marega" creationdate="20180328T204137Z">
+        <seg>che contiene tutte le chiavi primarie recuperate dalla tabella su cui è stata effettuata la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
