@@ -12158,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, you can create a VIEW for the macro to &lt;f1&gt;use&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204435Z" creationid="Marco Marega" creationdate="20180328T204435Z">
+        <seg>Se necessario, potete creare una VISTA per la macro da &lt;f1&gt;usare&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no "Field_name" is specified, all fields must be completed and in the right order (as laid down in the table).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215324Z" creationid="Marco Marega" creationdate="20180303T215324Z">
@@ -19626,6 +19634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222330Z" creationid="Marco Marega" creationdate="20180222T222330Z">
         <seg>Il contenuto delle tabella del tipo &lt;f0&gt;TEMPORARY&lt;/f0&gt; o &lt;f1&gt;TEMP&lt;/f1&gt; in modo predefinito viene cancellato quando avete finito di lavorare con un determinato record (&lt;f2&gt;ON COMMIT DELETE ROWS&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the search text field is initially converted into lower case so that the subsequent search function need only compare lower case spellings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204709Z" creationid="Marco Marega" creationdate="20180328T204709Z">
+        <seg>Il contenuto del campo di ricerca testuale viene dapprima convertito in minuscolo in modo che la funzione di ricerca seguente debba comparare solamente scritte in minuscolo.</seg>
       </tuv>
     </tu>
     <tu>
