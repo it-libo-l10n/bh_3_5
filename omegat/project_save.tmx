@@ -18976,8 +18976,8 @@
       <tuv lang="EN">
         <seg>The Query Editor is used to create a suitable SQL command, as you would do for a listbox in a form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T141827Z" creationid="Alessia Mazzarini" creationdate="20180328T141827Z">
-        <seg>L'editor di query serve per creare un comando SQL adatto, allo stesso modo di una lista di scelta all'interno di un formulario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T142326Z" creationid="Alessia Mazzarini" creationdate="20180328T141827Z">
+        <seg>L'editor di query serve per creare un comando SQL adatto, come quando si crea una casella di riepilogo in un formulario.</seg>
       </tuv>
     </tu>
     <tu>
