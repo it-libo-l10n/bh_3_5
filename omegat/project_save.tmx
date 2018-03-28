@@ -13542,6 +13542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the general properties, in addition to the familiar fields, &lt;f2&gt;you can &lt;/f2&gt;choos&lt;f3&gt;e&lt;/f3&gt; a &lt;f4&gt;Chart type&lt;/f4&gt; (see the corresponding types in Calc).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T135808Z" creationid="Alessia Mazzarini" creationdate="20180328T135808Z">
+        <seg>Nelle proprietà generali, in aggiunta ai campi già familiari, &lt;f2&gt;potete &lt;/f2&gt;sceglier&lt;f3&gt;e&lt;/f3&gt; un &lt;f4&gt;Tipo di grafico&lt;/f4&gt; (vedete i corrispondenti tipi in Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the intermediate table, the &lt;f0&gt;Media_ID&lt;/f0&gt; can occur more than once, as can the &lt;f1&gt;Author_ID&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220237Z" creationid="Marco Marega" creationdate="20180126T220237Z">
