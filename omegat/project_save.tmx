@@ -13662,6 +13662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the following description, there is a table called Searchtmp, which consists of an auto-incrementing primary key field &lt;f1&gt;(&lt;/f1&gt;ID&lt;f2&gt;)&lt;/f2&gt; and a field called Nr.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204053Z" creationid="Marco Marega" creationdate="20180328T204053Z">
+        <seg>Nella descrizione seguente, c'è una tabella denominata Searchtmp, che è composta da un campo con una chiave primaria autoincrementale &lt;f1&gt;(&lt;/f1&gt;ID&lt;f2&gt;)&lt;/f2&gt; e un campo chiamato Nr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the form navigator this is the top-level concept, to which all the forms are subsidiary.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210928Z" creationid="Marco Marega" creationdate="20180325T210928Z">
