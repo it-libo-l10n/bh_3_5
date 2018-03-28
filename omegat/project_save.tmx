@@ -20222,6 +20222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following &lt;f0&gt;subroutine&lt;/f0&gt; reads the fields in a table, creates a query internally, and finally writes a list of primary key numbers of records in the table that are retrieved by this search term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203608Z" creationid="Marco Marega" creationdate="20180328T203608Z">
+        <seg>La seguente &lt;f0&gt;subroutine&lt;/f0&gt; legge i campi in una tabella, crea internamente una ricerca, ed infine scrive una lista di numeri di chiavi primarie dei record della tabella che sono stati recuperati in base al termine di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following SQL commands are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T145804Z" creationid="Marco Marega" creationdate="20180303T145804Z">
