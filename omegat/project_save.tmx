@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5538,6 +5538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T195943Z" creationid="Marco Marega" creationdate="20171017T195943Z">
         <seg>Si creerebbe un loop che sarebbe possibile arrestare solamene usando la tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A macro can solve this problem &lt;f1&gt;with&lt;/f1&gt; a loop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203208Z" creationid="Marco Marega" creationdate="20180328T203208Z">
+        <seg>Una macro può risolvere questo problema &lt;f1&gt;con&lt;/f1&gt; un ciclo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11650,6 +11658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223011Z" creationid="Marco Marega" creationdate="20180112T223011Z">
         <seg>Però, la rubrica di una scuola o di un'associazione sportiva potrebbe contenere così tante ripetizioni dei codici di avviamento postali e delle località, che sarebbe meglio inserire questi campi in una o anche due tabelle separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the corresponding query that must be set up can be very &lt;f0&gt;complicated&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203056Z" creationid="Marco Marega" creationdate="20180328T203056Z">
+        <seg>Però, la ricerca equivalente che deve essere impostate può essere molto &lt;f0&gt;complicata&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21422,6 +21438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The queries for this more usable macro are naturally the same as those already presented in the previous section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T202934Z" creationid="Marco Marega" creationdate="20180328T202934Z">
+        <seg>Le ricerche di questa macro più usabile sono naturalmene le stesse di quelle presentate nella sezione precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query can now be enlarged to filter two fields:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190731Z" creationid="MicrosoftSucks" creationdate="20180316T190731Z">
@@ -25850,6 +25874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180320T180953Z" creationid="Alessia Mazzarini" creationdate="20180320T180953Z">
         <seg>Potete spostare un gruppo in alto o in basso nella lista o rimuoverlo completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can search database records without using a macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203002Z" creationid="Marco Marega" creationdate="20180328T203002Z">
+        <seg>Potete ricercare i record nel database senza usare una macro.</seg>
       </tuv>
     </tu>
     <tu>
