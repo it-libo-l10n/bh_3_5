@@ -4854,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;becomes, when displayed with the command &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;msgbox stSql&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205558Z" creationid="Marco Marega" creationdate="20180328T205558Z">
+        <seg>&lt;f0&gt;quando viene visualizzato con il comando &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;msgbox stSql&lt;/f2&gt;&lt;/f1&gt; diventa &lt;f3&gt;,&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113239Z" creationid="Marina Latini" creationdate="20171213T113239Z">
@@ -9298,6 +9306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221347Z" creationid="Marco Marega" creationdate="20171217T221347Z">
         <seg>Nome campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Field names and table names are already in double quotes inside the SQL formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205253Z" creationid="Marco Marega" creationdate="20180328T205253Z">
+        <seg>I nomi dei campi e delle tabelle nella formula SQL sono già tra virgolette doppie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24370,6 +24386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213712Z" creationid="Marco Marega" creationdate="20171216T213712Z">
         <seg>Per creare un campo di controllo tabella nel formulario principale, dovete ora selezionare il formulario principale nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create final code that transmits the double quotes properly, field names and table names must be given two sets of these quotes.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205453Z" creationid="Marco Marega" creationdate="20180328T205453Z">
+        <seg>Per creare il codice definitivo che trasmette le virgolette doppie in modo appropriato, ai nomi dei campi e delle tabelle devono essere aggiunte due serie di virgolette doppie.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
