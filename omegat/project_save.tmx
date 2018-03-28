@@ -10392,8 +10392,8 @@
       <tuv lang="EN">
         <seg>For this reason &lt;f1&gt;No&lt;/f1&gt; (German: Nein) has been chosen for &lt;f2&gt;Analyze SQL command&lt;/f2&gt;, a choice that excludes any filtering and sorting with the internal tools of the Report Builder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144417Z" creationid="Alessia Mazzarini" creationdate="20180328T144417Z">
-        <seg>Per questa ragione è stato scelto &lt;f1&gt;No&lt;/f1&gt; (Tedesco: Nein) per &lt;f2&gt;Analizza comando SQL&lt;/f2&gt;, scelta che esclude ogni filtro e ordine applicato con gli strumenti interni del Report Builder.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150108Z" creationid="Alessia Mazzarini" creationdate="20180328T144417Z">
+        <seg>Per questa ragione è stato scelto &lt;f1&gt;No&lt;/f1&gt; (tedesco: Nein) per &lt;f2&gt;Analizza comando SQL&lt;/f2&gt;, scelta che esclude ogni filtro e ordine applicato con gli strumenti interni del Report Builder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13512,8 +13512,8 @@
       <tuv lang="EN">
         <seg>In the data properties of the chart, &lt;f3&gt;Query&lt;/f3&gt; (German: Abfrage) has been entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144834Z" creationid="Alessia Mazzarini" creationdate="20180328T144834Z">
-        <seg>Come Tipo di contenuto del grafico è stato selezionato: &lt;f3&gt;Query&lt;/f3&gt; (Tedesco: Abfrage).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150059Z" creationid="Alessia Mazzarini" creationdate="20180328T144834Z">
+        <seg>Come Tipo di contenuto del grafico è stato selezionato: &lt;f3&gt;Query&lt;/f3&gt; (tedesco: Abfrage).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17686,6 +17686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So that the chart only contains data for the correct gender, the &lt;f0&gt;Gender&lt;/f0&gt; fi&lt;f1&gt;eld&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(German: Geschlecht) in the report i&lt;/f3&gt;s linked to the &lt;f4&gt;Gender &lt;/f4&gt;&lt;f5&gt;in the chart&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150342Z" creationid="Alessia Mazzarini" creationdate="20180328T150053Z">
+        <seg>In questo modo il grafico contiene solo i dati relativi al genere corretto, il campo &lt;f0&gt;Genere&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(tedesco: Geschlecht) nel rapporto è&lt;/f3&gt; collegato al &lt;f4&gt;Genere &lt;/f4&gt;&lt;f5&gt;nel grafico&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So this pair meets the requirements for the primary key for the intermediate table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220714Z" creationid="Marco Marega" creationdate="20180126T220714Z">
@@ -19432,8 +19440,8 @@
       <tuv lang="EN">
         <seg>The chart &lt;f0&gt;on the next page&lt;/f0&gt;, from the membership database of a society (German: Mitgliederstatistik), has been prepared from a query that needs to be entered in direct SQL mode, as the graphical user interface does not understand it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144215Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
-        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database dei membri di una società (Tedesco: Mitgliederstatistik), è stato preparato partendo da una interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150112Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
+        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database dei membri di una società (tedesco: Mitgliederstatistik), è stato preparato partendo da una interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
       </tuv>
     </tu>
     <tu>
