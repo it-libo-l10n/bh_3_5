@@ -15590,6 +15590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next the fields are read and the array index incremented by 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210044Z" creationid="Marco Marega" creationdate="20180328T210044Z">
+        <seg>Quindi vengono letti i campi e l'indice della matrice viene incrementato di 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next to the field description &lt;f0&gt;Reader_Name&lt;/f0&gt; you can now see &lt;f1&gt;Header&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091302Z" creationid="Alessia Mazzarini" creationdate="20180321T081927Z">
@@ -18562,6 +18570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204000Z" creationid="Marco Marega" creationdate="20180326T204000Z">
         <seg>Per questo motivo le caselle di riepilogo devono essere lette di nuovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is why the loop begins with &lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ReDim Preserve arContent(inI)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt; to set the size of the array and at the same time to preserve its existing contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205950Z" creationid="Marco Marega" creationdate="20180328T205950Z">
+        <seg>Questo è il motivo per cui il ciclo inizia con &lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ReDim Preserve arContent(inI)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt; in modo da impostare le dimensioni della matrice e allo stesso tempo preservare il contenuto esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22346,6 +22362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T155518Z" creationid="Marco Marega" creationdate="20171230T155518Z">
         <seg>Quindi il supporto potrebbe essere concesso in prestito tanto velocemente quanto l'utente impieghi per inserirlo nella sua borsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then the array is dimensioned again and a further value can be stored.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210131Z" creationid="Marco Marega" creationdate="20180328T210131Z">
+        <seg>Poi la matrice viene ridimensionata di nuovo e un ulteriore valore può essere memorizzato.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
