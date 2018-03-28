@@ -9254,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields are linked together in the same way as for a main form with a subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144940Z" creationid="Alessia Mazzarini" creationdate="20180328T144940Z">
+        <seg>I campi sono collegati tra loro come succede tra un formulario principale e un sottoformulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fields can be automatically sorted in the order in which they appear on the form background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152140Z" creationid="Marco Marega" creationdate="20171231T152140Z">
@@ -13490,6 +13498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T201318Z" creationid="Marco Marega" creationdate="20171125T201318Z">
         <seg>Nel campo di controllo la tabella Loans è &lt;f0&gt;disponibile&lt;/f0&gt; per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the data properties of the chart, &lt;f3&gt;Query&lt;/f3&gt; (German: Abfrage) has been entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144834Z" creationid="Alessia Mazzarini" creationdate="20180328T144834Z">
+        <seg>Come Tipo di contenuto del grafico è stato selezionato: &lt;f3&gt;Query&lt;/f3&gt; (Tedesco: Abfrage).</seg>
       </tuv>
     </tu>
     <tu>
