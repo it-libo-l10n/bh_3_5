@@ -6310,6 +6310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All records will be displayed without further searching.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204918Z" creationid="Marco Marega" creationdate="20180328T204918Z">
+        <seg>Tutti i record saranno visualizzati senza ulteriori ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All records with a 'w' start with &lt;f0&gt;Dear Ms…&lt;/f0&gt;, all those with 'm' with &lt;f1&gt;Dear Mr…&lt;/f1&gt; If there is no gender given, &lt;f2&gt;Dear Sir/Madam&lt;/f2&gt; is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180809Z" creationid="Elisabetta Manuele" creationdate="20180307T180809Z">
@@ -9838,6 +9846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First it must be determined if a search term has actually been entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204811Z" creationid="Marco Marega" creationdate="20180328T204811Z">
+        <seg>Per prima cosa va determinato se è stato effettivamente inserito un termine di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First let us improve the selection of readers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215946Z" creationid="Marco Marega" creationdate="20171217T215946Z">
@@ -12338,6 +12354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215522Z" creationid="Marco Marega" creationdate="20171029T215522Z">
         <seg>Se il campo è apribile, questa proprietà indica il numero massimo di linee visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the field is empty, it will be assumed that no search is required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T204854Z" creationid="Marco Marega" creationdate="20180328T204854Z">
+        <seg>Se il campo è vuoto, si presume che non sia necessaria alcuna ricerca.</seg>
       </tuv>
     </tu>
     <tu>
