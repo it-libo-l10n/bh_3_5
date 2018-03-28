@@ -7830,6 +7830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Charts can be formatted in the same way as in Calc (double-click on the chart).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T140230Z" creationid="Alessia Mazzarini" creationdate="20180328T140230Z">
+        <seg>I grafici possono essere formattati come in Calc (facendo doppio clic sul grafico).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204715Z" creationid="Marco Marega" creationdate="20171015T204715Z">
@@ -12890,6 +12898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T223504Z" creationid="Marco Marega" creationdate="20171205T223504Z">
         <seg>In aggiunta potete scegliere quali gruppi visualizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, &lt;f5&gt;you can set &lt;/f5&gt;a maximum number of records for the preview, which will give an impression of how the chart will finally look.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T140136Z" creationid="Alessia Mazzarini" creationdate="20180328T140136Z">
+        <seg>Inoltre, &lt;f5&gt;potete impostare &lt;/f5&gt;un numbero massimo di record di dati per l'anteprima, che vi darà un'idea di come apparirà il grafico.</seg>
       </tuv>
     </tu>
     <tu>
