@@ -20056,8 +20056,8 @@
       <tuv lang="EN">
         <seg>The first column in the query will be used to provide the labels for the vertical bars in the chart, while the second column yields the total number of loan transactions, shown in the height of the bars.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T142716Z" creationid="Alessia Mazzarini" creationdate="20180328T142716Z">
-        <seg>La prima colonna dell'interrogazione fornisce le etichette per le colonne verticali nel grafico, mentre la seconda colonna yields il numero totale di prestiti, mostrato dall'altezza delle colonne.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T143342Z" creationid="Alessia Mazzarini" creationdate="20180328T142716Z">
+        <seg>La prima colonna dell'interrogazione fornisce le etichette per le colonne verticali nel grafico, mentre la seconda colonna riproduce il numero totale di prestiti, mostrato dall'altezza delle colonne.</seg>
       </tuv>
     </tu>
     <tu>
