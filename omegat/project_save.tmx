@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_Result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;THEN&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210135Z" creationid="Marco Marega" creationdate="20180328T210135Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_Result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;THEN&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202444Z" creationid="Marco Marega" creationdate="20180327T202444Z">
@@ -2222,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;InI&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;0&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210133Z" creationid="Marco Marega" creationdate="20180328T210133Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;InI&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;0&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;It is just these queries, used in the previous section to filter data, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; prove unsatisfactory in regard to the maximum speed of searching a database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163627Z" creationid="steevie" creationdate="20180216T163223Z">
@@ -2290,6 +2306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162827Z" creationid="steevie" creationdate="20180216T163107Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Potrete quindi cancellare voci orfane selezionando tutte le voci che superano il filtro impostato .Usate l'opzione Cancella nel menu contestuale del puntatore del record, invocandolo con un &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;clic&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;del pulsante destro del mouse.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Preserve&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;arContent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;inI&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210143Z" creationid="Marco Marega" creationdate="20180328T210143Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Preserve&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;arContent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;inI&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.next&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210141Z" creationid="Marco Marega" creationdate="20180328T210141Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.next&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;What is&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; visible&lt;/f2&gt;&lt;f3&gt; to the user is the set of &lt;/f3&gt;&lt;f4&gt;Controls&lt;/f4&gt;&lt;f5&gt;, which serve for the entry or display of text, numbers, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184211Z" creationid="Marco Marega" creationdate="20171013T184211Z">
@@ -2590,10 +2622,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;arContent&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inI&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;=&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;oQuery_Result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;1&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210145Z" creationid="Marco Marega" creationdate="20180328T210145Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;arContent&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inI&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;=&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;oQuery_Result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;1&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;can contain a large number of possible foreign keys from the rel_Media_Author table, which must first be compared with the primary keys in the table Authors for each record in that table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170910Z" creationid="steevie" creationdate="20180209T152350Z">
         <seg>&lt;f0&gt;&lt;f1&gt;può contenere un gran numero di possibili chiavi esterne dalla tabella rel_Media_Author, che prima dev'essere confrontata con le chiavi primarie della tabella Authors per ogni record di dati in quella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inI&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;inI&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210147Z" creationid="Marco Marega" creationdate="20180328T210147Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inI&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;inI&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25242,6 +25290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172743Z" creationid="steevie" creationdate="20180226T172743Z">
         <seg>Le viste sono preferibili soprattutto per sistemi di database esterni, poiché in questo caso il server lavora in maniera significativamente più veloce che in un'interrogazione che deve essere composta dalla GUI e poi inviata al server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WEND</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210149Z" creationid="Marco Marega" creationdate="20180328T210149Z">
+        <seg>WEND</seg>
       </tuv>
     </tu>
     <tu>
