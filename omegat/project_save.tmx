@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f5&gt;SELECT "Name" FROM "Table"&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205559Z" creationid="Marco Marega" creationdate="20180328T205559Z">
+        <seg>&lt;/f3&gt;&lt;f5&gt;SELECT "Name" FROM "Table"&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Basically they calculate over all values covered by the query, whereas &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; excludes records with the same values from the display.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103240Z" creationid="manuel" creationdate="20180302T103240Z">
@@ -4446,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The index of the array, in which the field names are written is initially set to 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205652Z" creationid="Marco Marega" creationdate="20180328T205652Z">
+        <seg>&lt;f0&gt;L'indice della matrice, nella quale vengono scritti i nomi dei campi inizialmente è impostato a 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
@@ -6906,6 +6922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193755Z" creationid="Elisabetta Manuele" creationdate="20180308T193755Z">
         <seg>Poiché i collegamenti sono memorizzati in base al formulario, è sufficiente salvare il database e i relativi formulari in una cartella comune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the size of the array is unknown, it must be adjusted continuously.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205822Z" creationid="Marco Marega" creationdate="20180328T205822Z">
+        <seg>Siccome le dimensioni della matrice sono sconosciute, devono essere aggiustate continuamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,6 +22354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200400Z" creationid="Marco Marega" creationdate="20171017T200400Z">
         <seg>Poi il tasto viene rilasciato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then the query begins to be read out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205729Z" creationid="Marco Marega" creationdate="20180328T205729Z">
+        <seg>Poi la ricerca inizia a essere letta.</seg>
       </tuv>
     </tu>
     <tu>
