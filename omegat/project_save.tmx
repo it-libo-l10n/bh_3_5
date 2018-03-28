@@ -13510,6 +13510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example above, the chart shows very little at first, since only limited test loans were carried out before the SQL command was issued.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T143755Z" creationid="Alessia Mazzarini" creationdate="20180328T143755Z">
+        <seg>Nell'esempio riportato sopra, il grafico mostra molto poco all'inizio poiché, prima dell'introduzione del comando SQL, erano stati creati solo pochi prestiti di esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example database, these are the Media and Address tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180207T153500Z" creationid="steevie" creationdate="20180206T075818Z">
