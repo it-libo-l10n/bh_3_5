@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You must draw t&lt;/f0&gt;he place for the chart &lt;f1&gt;using&lt;/f1&gt; the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T134822Z" creationid="Alessia Mazzarini" creationdate="20180328T134822Z">
+        <seg>&lt;f0&gt;Disegnate&lt;/f0&gt;con&lt;f1&gt;il mouse&lt;/f1&gt; lo spazio destinato al grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You&lt;/f0&gt; can get comprehensive online &lt;is1/&gt;support&lt;ie2/&gt; from the community through mailing lists &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;the Ask LibreOffice website&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T152036Z" creationid="Marina Latini" creationdate="20171207T152036Z">
