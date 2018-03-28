@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A chart can therefore be seen as a kind of subreport, but also as a free-standing component of the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T134515Z" creationid="Alessia Mazzarini" creationdate="20180328T134515Z">
+        <seg>Un rapporto può quindi essere visto come una specie di sottorapporto, ma anche come una componente autonoma del rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A chart is the only way to reproduce data that is not found in the data source specified for the report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T133314Z" creationid="Alessia Mazzarini" creationdate="20180328T133314Z">
