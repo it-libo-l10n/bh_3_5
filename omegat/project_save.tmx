@@ -10134,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For further information, see the description in the &lt;f0&gt;&lt;f1&gt;LibreOffice &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Calc Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T140355Z" creationid="Alessia Mazzarini" creationdate="20180328T140355Z">
+        <seg>Per ulteriori informazioni, consultate la descrizione che appare nella &lt;f0&gt;&lt;f1&gt;Guida Calc &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;di LibreOffice&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For future work, it will be clearer if we use the &lt;f5&gt;F&lt;/f5&gt;orm &lt;f6&gt;N&lt;/f6&gt;avigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214912Z" creationid="Marco Marega" creationdate="20171210T214617Z">
@@ -19362,6 +19370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T162227Z" creationid="Alessia Mazzarini" creationdate="20180324T155018Z">
         <seg>Il campo Grafico mostra un riepilogo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chart is linked in the Data section with the necessary data fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T140439Z" creationid="Alessia Mazzarini" creationdate="20180328T140439Z">
+        <seg>ILThe chart is linked in the Data section with the necessary data fields.</seg>
       </tuv>
     </tu>
     <tu>
