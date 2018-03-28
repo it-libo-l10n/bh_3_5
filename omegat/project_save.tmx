@@ -10374,6 +10374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason &lt;f1&gt;No&lt;/f1&gt; (German: Nein) has been chosen for &lt;f2&gt;Analyze SQL command&lt;/f2&gt;, a choice that excludes any filtering and sorting with the internal tools of the Report Builder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144417Z" creationid="Alessia Mazzarini" creationdate="20180328T144417Z">
+        <seg>Per questa ragione è stato scelto &lt;f1&gt;No&lt;/f1&gt; (Tedesco: Nein) per &lt;f2&gt;Analizza comando SQL&lt;/f2&gt;, scelta che esclude ogni filtro e ordine applicato con gli strumenti interni del Report Builder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason it is preferable for the command to be more specific.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222111Z" creationid="Marco Marega" creationdate="20180303T222111Z">
@@ -19386,6 +19394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220100Z" creationid="Marco Marega" creationdate="20171210T220100Z">
         <seg>La modifica è resa visibile nel &lt;f0&gt;Navigatore&lt;/f0&gt; &lt;f1&gt;formulario&lt;/f1&gt; dalla modifica dell'icona abbinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chart &lt;f0&gt;on the next page&lt;/f0&gt;, from the membership database of a society (German: Mitgliederstatistik), has been prepared from a query that needs to be entered in direct SQL mode, as the graphical user interface does not understand it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144215Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
+        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database dei membri di una società (Tedesco: Mitgliederstatistik), è stato preparato partendo da una interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
       </tuv>
     </tu>
     <tu>
