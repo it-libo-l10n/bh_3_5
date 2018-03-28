@@ -4174,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;SQL formulas in macros must first be placed in double quotes like normal character string&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205216Z" creationid="Marco Marega" creationdate="20180328T205216Z">
+        <seg>&lt;f0&gt;Nelle macro le formule SQL devono essere inserite tra virgolette doppie come normali stringhe di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;caratteri&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select t&lt;/f0&gt;he &lt;f1&gt;Form&lt;/f1&gt; menu option &lt;f2&gt;(highlighted in the illustration) &lt;/f2&gt;to set properties for the form you have just created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182648Z" creationid="Marco Marega" creationdate="20171014T182648Z">
@@ -11970,6 +11978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T222952Z" creationid="Marco Marega" creationdate="20180228T222952Z">
         <seg>Se un record viene eliminato dalla tabella &lt;f0&gt;Street&lt;/f0&gt; e ciò influisce su di un record della tabella &lt;f1&gt;Adress&lt;/f1&gt;,&lt;f2&gt; &lt;/f2&gt;verrà cancellato anche quel record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a search term has been entered, the column names are read from the table being searched, so that the query can access the fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205048Z" creationid="Marco Marega" creationdate="20180328T205048Z">
+        <seg>Se è stato inserito un termine di ricerca, i nomi delle colonne vengono letti dalla tabella ricercata, in modo che la ricerca abbia accesso ai campi.</seg>
       </tuv>
     </tu>
     <tu>
