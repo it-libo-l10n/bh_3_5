@@ -4766,6 +4766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can insert c&lt;/f0&gt;harts &lt;f1&gt;i&lt;/f1&gt;nto a report &lt;f2&gt;by &lt;/f2&gt;using the corresponding control or with &lt;f3&gt;Insert &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Report controls &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Chart&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T133128Z" creationid="Alessia Mazzarini" creationdate="20180328T133128Z">
+        <seg>&lt;f0&gt;Potete inserire dei g&lt;/f0&gt;rafici &lt;f1&gt;i&lt;/f1&gt;n un rapporto &lt;f2&gt;usando &lt;/f2&gt;il rispettivo campo di controllo oppure dal menu &lt;f3&gt;Inserisci &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Comandi rapporto &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Grafico&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can move through a form using either the mouse or the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ab&lt;/f3&gt;&lt;f4&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223537Z" creationid="Marco Marega" creationdate="20171214T223537Z">
