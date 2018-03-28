@@ -12830,6 +12830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Version 3.3 of OpenOffice.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;org&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, the display does not work either.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T151046Z" creationid="Alessia Mazzarini" creationdate="20180328T151046Z">
+        <seg>La visualizzazione non funziona neanche nella versione 3.3 di OpenOffice.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;org&lt;/f5&gt;&lt;/f4&gt;&lt;f6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a 4-stream school, this suffix might run from &lt;f1&gt;a&lt;/f1&gt; to &lt;f2&gt;d&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145855Z" creationid="Marco Marega" creationdate="20180203T145731Z">
@@ -16330,6 +16338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140238Z" creationid="Marco Marega" creationdate="20180218T140238Z">
         <seg>Aprite la tabella per modificarla facendo clic con il pulsante destro del mouse e usando il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenOffice.&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;org&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; does open the reports, but with the charts missing.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T151140Z" creationid="Alessia Mazzarini" creationdate="20180328T151140Z">
+        <seg>OpenOffice.&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;org&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; riesce ad aprire i rapporti, ma i grafici non vengono visualizzati.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
