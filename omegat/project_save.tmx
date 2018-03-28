@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice is not the only program to have problems with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;chart&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;s.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T151009Z" creationid="Alessia Mazzarini" creationdate="20180328T151009Z">
+        <seg>&lt;f0&gt;LibreOffice non è l'unico programma ad avere problemi con i &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;grafici&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; comes with an extensive &lt;is1/&gt;Help system&lt;ie2/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111218Z" creationid="Marina Latini" creationdate="20171207T111218Z">
@@ -4338,6 +4346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215924Z" creationid="Marco Marega" creationdate="20180327T215924Z">
         <seg>&lt;f0&gt;La matrice viene scorsa dal suo limite inferiore (&lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Lbound()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;) al suo limite superiore (&lt;/f5&gt;&lt;f6&gt;'&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Ubound()&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt;) in un unico passaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The creation of charts works at present only in Versions 3.3.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and 3.4.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150736Z" creationid="Alessia Mazzarini" creationdate="20180328T150736Z">
+        <seg>&lt;f0&gt;La creazione di grafici funziona al momento solo con le versioni 3.3.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e 3.4.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10602,6 +10618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085830Z" creationid="Marina Latini" creationdate="20171003T085830Z">
         <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From Version 3.5, L&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ibre&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;O&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;ffice&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; can no longer open these reports.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150838Z" creationid="Alessia Mazzarini" creationdate="20180328T150838Z">
+        <seg>Dalla versione 3.5, L&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ibre&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;O&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;ffice&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; non può più aprire questi rapporti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22610,6 +22634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T192347Z" creationid="Elisabetta Manuele" creationdate="20180308T193454Z">
         <seg>Possono continuare a lavorare al database anche mentre sviluppano altri formulari, senza la necessità di copiare complicati formulari esterni da un database a un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can still be produced, however.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150926Z" creationid="Alessia Mazzarini" creationdate="20180328T150926Z">
+        <seg>Si può comunque continuare a crearli.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
