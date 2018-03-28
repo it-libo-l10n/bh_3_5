@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A chart is the only way to reproduce data that is not found in the data source specified for the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T133314Z" creationid="Alessia Mazzarini" creationdate="20180328T133314Z">
+        <seg>Un grafico rappresenta l'unico modo per riprodurre dei dati che non si trovano nella sorgente dati indicata per il rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A click on &lt;f0&gt;Media_ID&lt;/f0&gt; selects this field &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;34&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215335Z" creationid="Marco Marega" creationdate="20171210T215335Z">
