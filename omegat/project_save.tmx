@@ -22446,6 +22446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These fields are therefore grayed out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144557Z" creationid="Alessia Mazzarini" creationdate="20180328T144557Z">
+        <seg>Di conseguenza, questi campi diventano non selezionabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These must be entered without single quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212126Z" creationid="Marco Marega" creationdate="20180219T212126Z">
