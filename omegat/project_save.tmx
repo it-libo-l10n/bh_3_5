@@ -12054,6 +12054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, in addition to the field types &lt;f0&gt;Field &lt;/f0&gt;&lt;f1&gt;and&lt;/f1&gt;&lt;f2&gt; Formula, &lt;/f2&gt;the types &lt;f3&gt;Function&lt;/f3&gt;, &lt;f4&gt;Counter,&lt;/f4&gt; and &lt;f5&gt;User-defined function &lt;/f5&gt;are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180402T110618Z" creationid="Alessia Mazzarini" creationdate="20180402T110618Z">
+        <seg>Tuttavia, oltre ai tipi di campo &lt;f0&gt;Campo &lt;/f0&gt;&lt;f1&gt;e&lt;/f1&gt;&lt;f2&gt; Formula, &lt;/f2&gt;sono disponibili anche i tipi &lt;f3&gt;Funzione&lt;/f3&gt;, &lt;f4&gt;Contatore,&lt;/f4&gt; e &lt;f5&gt;Funzione definita dall'utente &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it is not apparent during normal usage that the record is no longer needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160149Z" creationid="steevie" creationdate="20180206T080303Z">
