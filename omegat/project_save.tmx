@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6310,6 +6310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjustable (0.6 – 6 means with milliseconds)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T103238Z" creationid="Elisabetta Manuele" creationdate="20180402T103238Z">
+        <seg>Modificabile (0,6 – 6 si riferisce a millisecondi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjustable, not exact, 15 decimal places maximum</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102312Z" creationid="Elisabetta Manuele" creationdate="20180402T102312Z">
@@ -6322,6 +6330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102441Z" creationid="Elisabetta Manuele" creationdate="20180402T102441Z">
         <seg>Modificabile, l'intervallo influisce sull'ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adjustable, rest of actual text replaced with spaces</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102541Z" creationid="Elisabetta Manuele" creationdate="20180402T102541Z">
+        <seg>Modificabile, il resto del testo effettivo è sostituito da spazi</seg>
       </tuv>
     </tu>
     <tu>
@@ -8510,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DATE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102649Z" creationid="Elisabetta Manuele" creationdate="20180402T102649Z">
+        <seg>DATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DECIMAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102024Z" creationid="Elisabetta Manuele" creationdate="20180402T102024Z">
@@ -8826,6 +8850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T224050Z" creationid="Marco Marega" creationdate="20180228T224050Z">
         <seg>I database costituiti da una singola tabella di solito non richiedono un formulario per l'inserimento dei dati, a meno che non contengano un campo per delle immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102637Z" creationid="Elisabetta Manuele" creationdate="20180402T102637Z">
+        <seg>Data</seg>
       </tuv>
     </tu>
     <tu>
@@ -15238,6 +15270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LONGVARCHAR</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102603Z" creationid="Elisabetta Manuele" creationdate="20180402T102603Z">
+        <seg>LONGVARCHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Label field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205541Z" creationid="Marco Marega" creationdate="20171015T205541Z">
@@ -15706,6 +15746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T204244Z" creationid="Marco Marega" creationdate="20171213T204244Z">
         <seg>I supporti per i quali risulta una data di restituzione devono essere scartati dal filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102559Z" creationid="Elisabetta Manuele" creationdate="20180402T102559Z">
+        <seg>Memo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18746,6 +18794,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085123Z" creationid="Alessia Mazzarini" creationdate="20180321T085123Z">
         <seg>P&lt;f0&gt;er&lt;/f0&gt; aggiungere dei campi, usat&lt;f1&gt;e&lt;/f1&gt; la funzione&lt;f2&gt;Aggiungi campo&lt;/f2&gt;, come per i formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TIME</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102706Z" creationid="Elisabetta Manuele" creationdate="20180402T102706Z">
+        <seg>TIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TIMESTAMP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102716Z" creationid="Elisabetta Manuele" creationdate="20180402T102716Z">
+        <seg>TIMESTAMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TIMESTAMP | DATETIME</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102720Z" creationid="Elisabetta Manuele" creationdate="20180402T102720Z">
+        <seg>TIMESTAMP | DATETIME</seg>
       </tuv>
     </tu>
     <tu>
@@ -24808,8 +24880,8 @@
       <tuv lang="EN">
         <seg>Time</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100035Z" creationid="Marina Latini" creationdate="20171207T100035Z">
-        <seg>Orario</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102622Z" creationid="Marina Latini" creationdate="20171207T100035Z">
+        <seg>Ora</seg>
       </tuv>
     </tu>
     <tu>
@@ -26922,6 +26994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150334Z" creationid="Marco Marega" creationdate="20180303T150334Z">
         <seg>nullo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fixed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102550Z" creationid="Elisabetta Manuele" creationdate="20180402T102550Z">
+        <seg>Fisso</seg>
       </tuv>
     </tu>
     <tu>
