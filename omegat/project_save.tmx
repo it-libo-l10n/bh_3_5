@@ -5126,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;If c&lt;/f1&gt;olumn 3 is set to show Column 1 * Column 2, it would actually show 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174506Z" creationid="Elisabetta Manuele" creationdate="20180402T174506Z">
+        <seg>&lt;f1&gt;Se la c&lt;/f1&gt;olonna 3 è impostata per visualizzare Colonna 1 * Colonna 2, indicherà effettivamente 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In addition to&lt;/f1&gt; the &lt;f2&gt;ID&lt;/f2&gt; (primary key) field and the &lt;f3&gt;Media_ID_BC&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;field&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;(entry of media using a bar-code scanner), all fields are to be used in the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T202140Z" creationid="Marco Marega" creationdate="20171125T202140Z">
@@ -5994,6 +6002,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215321Z" creationid="Marco Marega" creationdate="20171101T212240Z">
         <seg>Un&lt;f2&gt; problema&lt;/f2&gt;aggiuntivo potrebbe essere, che &lt;f3&gt;LastName&lt;/f3&gt; potrebbe essere lo stesso per più di un utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ABS(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174511Z" creationid="Elisabetta Manuele" creationdate="20180402T174511Z">
+        <seg>ABS(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ACOS(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174528Z" creationid="Elisabetta Manuele" creationdate="20180402T174528Z">
+        <seg>ACOS(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7170,6 +7194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T170606Z" creationid="Manuel Frassinetti" creationdate="20171218T170606Z">
         <seg>Dato che non ci sono sottotitoli che mancano di un titolo in Supporto ma ci sono certamente titoli in Supporto privi di sottotitolo, questa è la scelta giusta.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As we are dealing here with floating point numbers, &lt;f0&gt;be sure&lt;/f0&gt; to take care with the settings of the fields in queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174350Z" creationid="Elisabetta Manuele" creationdate="20180402T174350Z">
+        <seg>Poiché si tratta di numeri in virgola mobile, &lt;f0&gt;assicuratevi&lt;/f0&gt; di prestare attenzione alle impostazioni dei campi nelle query. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10530,6 +10562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170722Z" creationid="Manuel Frassinetti" creationdate="20171202T170715Z">
         <seg>Per esempio, cambiate il nome del lettore, e avete anche cambiato quale libro il lettore ha preso e restituito.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, column 1 might show 0.00 but actually contain 0.001, and column 2, 1000.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174430Z" creationid="Elisabetta Manuele" creationdate="20180402T174430Z">
+        <seg>Per esempio, la colonna 1 potrebbe riportare 0,00 ma contenere effettivamente 0,001, e la colonna 2, 1000.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15950,6 +15990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mostly the display of decimal places is restricted, so that in some cases there may be unexpected results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174409Z" creationid="Elisabetta Manuele" creationdate="20180402T174409Z">
+        <seg>La visualizzazione dei decimali è prevalentemente limitata, per cui in alcuni casi possono prodursi risultati inaspettati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multi-line text fields are then shown as single lines to be scrolled.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T204111Z" creationid="Marco Marega" creationdate="20171125T204111Z">
@@ -16482,6 +16530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174250Z" creationid="Elisabetta Manuele" creationdate="20180402T174250Z">
         <seg>OTHER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OTHER | OBJECT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174304Z" creationid="Elisabetta Manuele" creationdate="20180402T174304Z">
+        <seg>OTHER | OBJECT</seg>
       </tuv>
     </tu>
     <tu>
@@ -17730,6 +17786,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095412Z" creationid="Marina Latini" creationdate="20171207T095412Z">
         <seg>Ripristinare i valori automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the absolute value of a number, removing a minus sign where necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174524Z" creationid="Elisabetta Manuele" creationdate="20180402T174524Z">
+        <seg>Riporta il valore assoluto di un numero eliminando il segno meno se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the arc-cosine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174605Z" creationid="Elisabetta Manuele" creationdate="20180402T174605Z">
+        <seg>Riporta la funzione di arcocoseno.</seg>
       </tuv>
     </tu>
     <tu>
