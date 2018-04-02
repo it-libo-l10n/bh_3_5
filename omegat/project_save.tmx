@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8458,6 +8458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213450Z" creationid="Marco Marega" creationdate="20171226T213450Z">
         <seg>I dati vengono aggiornati in modo gerarchico partendo dal formulario principale e attraversando i formulari secondari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data properties of &lt;f0&gt;f&lt;/f0&gt;ields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180402T094956Z" creationid="Alessia Mazzarini" creationdate="20180402T094956Z">
+        <seg>Proprietà dati dei &lt;f0&gt;c&lt;/f0&gt;ampi</seg>
       </tuv>
     </tu>
     <tu>
