@@ -15646,6 +15646,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LENGTH(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181724Z" creationid="Elisabetta Manuele" creationdate="20180402T181724Z">
+        <seg>LENGTH(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LOCATE(search,s,[start])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181753Z" creationid="Elisabetta Manuele" creationdate="20180402T181753Z">
+        <seg>LOCATE(search,s,[start])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LOG(d)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175309Z" creationid="Elisabetta Manuele" creationdate="20180402T175309Z">
@@ -15674,6 +15690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102603Z" creationid="Elisabetta Manuele" creationdate="20180402T102603Z">
         <seg>LONGVARCHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LTRIM(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181847Z" creationid="Elisabetta Manuele" creationdate="20180402T181847Z">
+        <seg>LTRIM(s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16826,6 +16850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T162755Z" creationid="Alessia Mazzarini" creationdate="20180324T161901Z">
         <seg>I campi numerici o data ignorano il comando di disattivazione, i campi testo fisso vengono completamente oscurati una volta disattivati, anche nel caso in cui appaiano una sola volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OCTET_LENGTH(str)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181916Z" creationid="Elisabetta Manuele" creationdate="20180402T181916Z">
+        <seg>OCTET_LENGTH(str)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18062,6 +18094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removes leading spaces and non-printing characters from the beginning of a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181912Z" creationid="Elisabetta Manuele" creationdate="20180402T181912Z">
+        <seg>Elimina gli spazi iniziali e i caratteri non stampabili a partire dall'inizio di una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removing distracting elements from forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094631Z" creationid="Marina Latini" creationdate="20171207T094631Z">
@@ -18270,10 +18310,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the first count characters from the beginning of the text s.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181711Z" creationid="Elisabetta Manuele" creationdate="20180402T181711Z">
+        <seg>Restituisce i primi caratteri conteggiati dall'inizio della stringa di testo s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the first match for the term search in the text s.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181813Z" creationid="Elisabetta Manuele" creationdate="20180402T181813Z">
+        <seg>Restituisce la prima corrispondenza della ricerca dei termini nel testo s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the largest whole number that is not greater than d.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175305Z" creationid="Elisabetta Manuele" creationdate="20180402T175305Z">
         <seg>Restituisce il massimo numero intero non superiore a d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the length of a text string in bytes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181955Z" creationid="Elisabetta Manuele" creationdate="20180402T181955Z">
+        <seg>Riporta la lunghezza della stringa di testo in byte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the length of text in characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181731Z" creationid="Elisabetta Manuele" creationdate="20180402T181731Z">
+        <seg>Riporta la lunghezza del testo in caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18810,6 +18882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223441Z" creationid="Marco Marega" creationdate="20180224T223441Z">
         <seg>Imposta o elimina la condizione &lt;f0&gt;NOT NULL&lt;/f0&gt; per un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting a starting point within the text string is optional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181843Z" creationid="Elisabetta Manuele" creationdate="20180402T181843Z">
+        <seg>L'impostazione di un punto iniziale all'interno della stringa di testo è facoltativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22410,6 +22490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215147Z" creationid="Marco Marega" creationdate="20180126T215147Z">
         <seg>La maggior parte delle relazioni tra tabelle all'interno di un database sono relazioni uno a molti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The match is given as an offset number: (1=left, 0=not found)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181830Z" creationid="Elisabetta Manuele" creationdate="20180402T181830Z">
+        <seg>La corrispondenza viene indicata come un numero offset: (1=sinistra, 0= non trovato)</seg>
       </tuv>
     </tu>
     <tu>
