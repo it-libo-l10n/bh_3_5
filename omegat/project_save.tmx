@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14050,6 +14050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145023Z" creationid="Marco Marega" creationdate="20171231T145023Z">
         <seg>Nel formulario precedente, la maggior parte dei campi in realtà erano colonne all'interno dei campi di controllo tabella, erano quindi invisibili nel &lt;f2&gt;Navigatore&lt;/f2&gt; &lt;f3&gt;formulario&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the properties dialog, the Data tab shows by default only the database field from which the data for this report field will be read.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180402T101836Z" creationid="Alessia Mazzarini" creationdate="20180402T101836Z">
+        <seg>Nella finestra di dialogo Proprietà, la linguetta Dati mostra, per impostazione predefinita, solo i campi database da cui verranno letti i dati per questo campo del rapporto.</seg>
       </tuv>
     </tu>
     <tu>
