@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.11-3.1-0.01 is not exactly 0, but is shown as 0 in the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180332Z" creationid="Elisabetta Manuele" creationdate="20180402T180332Z">
+        <seg>3,11-3,1-0,01 non è esattamente 0, ma viene visualizzato come 0 nell'interfaccia grafica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -17718,6 +17726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RAND()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180144Z" creationid="Elisabetta Manuele" creationdate="20180402T180144Z">
+        <seg>RAND()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102217Z" creationid="Elisabetta Manuele" creationdate="20180402T102217Z">
@@ -17746,6 +17762,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204648Z" creationid="Marco Marega" creationdate="20180315T204648Z">
         <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ROUND(a,b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180236Z" creationid="Elisabetta Manuele" creationdate="20180402T180236Z">
+        <seg>ROUND(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ROUNDMAGIC makes it an actual zero value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180350Z" creationid="Elisabetta Manuele" creationdate="20180402T180350Z">
+        <seg>ROUNDMAGIC lo rende un valore di zero effettivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ROUNDMAGIC(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180253Z" creationid="Elisabetta Manuele" creationdate="20180402T180253Z">
+        <seg>ROUNDMAGIC(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17990,6 +18030,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns &lt;f0&gt;–&lt;/f0&gt;1, if d is less than 0, 0 if d==0 and 1 if d is greater than 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180444Z" creationid="Elisabetta Manuele" creationdate="20180402T180444Z">
+        <seg>Restituisce &lt;f0&gt;–&lt;/f0&gt;1, se d è inferiore a 0, 0 se d==0 e 1 se d è superiore a 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a random number greater than or equal to 0.0 and less than 1.0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180224Z" creationid="Elisabetta Manuele" creationdate="20180402T180224Z">
+        <seg>Restituisce un numero casuale maggiore o uguale a 0,0 e inferiore a 1,0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns e&lt;f0&gt;d&lt;/f0&gt; ( e: (2.718...) ).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175230Z" creationid="Elisabetta Manuele" creationdate="20180402T175230Z">
@@ -18098,6 +18154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113029Z" creationid="Marina Latini" creationdate="20171213T113029Z">
         <seg>Pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds a to b decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180248Z" creationid="Elisabetta Manuele" creationdate="20180402T180248Z">
+        <seg>Arrotonda a al b decimale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18234,6 +18298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T153846Z" creationid="steevie" creationdate="20180205T153846Z">
         <seg>SHUTDOWN COMPACT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SIGN(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180401Z" creationid="Elisabetta Manuele" creationdate="20180402T180401Z">
+        <seg>SIGN(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18906,6 +18978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144556Z" creationid="Marco Marega" creationdate="20180303T144556Z">
         <seg>Quindi, se volete, potete sempre ritornare alla condizione con il filtro applicato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Solves rounding problems, that arise from using floating point numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180314Z" creationid="Elisabetta Manuele" creationdate="20180402T180314Z">
+        <seg>Risolve i problemi di arrotondamento derivanti dall'utilizzo di numeri a virgola mobile.</seg>
       </tuv>
     </tu>
     <tu>
