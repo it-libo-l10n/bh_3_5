@@ -6174,6 +6174,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASIN(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174611Z" creationid="Elisabetta Manuele" creationdate="20180402T174611Z">
+        <seg>ASIN(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ATAN(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174626Z" creationid="Elisabetta Manuele" creationdate="20180402T174626Z">
+        <seg>ATAN(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ATAN2(a,b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174647Z" creationid="Elisabetta Manuele" creationdate="20180402T174647Z">
+        <seg>ATAN2(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113025Z" creationid="Marina Latini" creationdate="20171213T113025Z">
@@ -7366,6 +7390,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BITAND(3,5) yields 1; 0011 AND 0101 = 0001</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174859Z" creationid="Elisabetta Manuele" creationdate="20180402T174815Z">
+        <seg>BITAND(3,5) restituisce 1; 0011 AND 0101 = 0001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BITAND(a,b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174739Z" creationid="Elisabetta Manuele" creationdate="20180402T174739Z">
+        <seg>BITAND(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BITOR(a,b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174820Z" creationid="Elisabetta Manuele" creationdate="20180402T174820Z">
+        <seg>BITOR(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>BOOLEAN</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174036Z" creationid="Elisabetta Manuele" creationdate="20180402T174036Z">
@@ -7570,6 +7618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184454Z" creationid="Alessia Mazzarini" creationdate="20180321T085357Z">
         <seg>Entrambi possono essere liberamente spostati, ridimensionati e trascinati in altre sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both the binary form of a and the binary form of b must have 1 at the same position to yield 1 in the result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174756Z" creationid="Elisabetta Manuele" creationdate="20180402T174756Z">
+        <seg>Le forme binarie di a e di b devono entrambe visualizzare 1 nella stessa posizione per restituire 1 nel risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9346,6 +9402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164134Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
         <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata della finestra di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either the binary form of a or the binary form of b must have 1 at the same position to yield 1 in the result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174835Z" creationid="Elisabetta Manuele" creationdate="20180402T174835Z">
+        <seg>Le forme binarie di a e di b devono entrambe visualizzare 1 nella stessa posizione per restituire 1 nel risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17802,6 +17866,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174605Z" creationid="Elisabetta Manuele" creationdate="20180402T174605Z">
         <seg>Riporta la funzione di arcocoseno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the arc-sine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174622Z" creationid="Elisabetta Manuele" creationdate="20180402T174622Z">
+        <seg>Riporta la funzione di arcoseno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the arc-tangent using coordinates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174723Z" creationid="Elisabetta Manuele" creationdate="20180402T174723Z">
+        <seg>Riporta la funzione di arcotangente con le coordinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the arc-tangent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174641Z" creationid="Elisabetta Manuele" creationdate="20180402T174641Z">
+        <seg>Riporta la funzione di arcotangente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27122,6 +27210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194447Z" creationid="Marco Marega" creationdate="20171125T194447Z">
         <seg>a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a is the value of the x‑axis, b the value of the y-axis</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174735Z" creationid="Elisabetta Manuele" creationdate="20180402T174735Z">
+        <seg>a rappresenta il valore dell'asse x, b quello dell'asse y.</seg>
       </tuv>
     </tu>
     <tu>
