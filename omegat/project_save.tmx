@@ -7718,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both the long and the short forms can be used for string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183129Z" creationid="Elisabetta Manuele" creationdate="20180402T183129Z">
+        <seg>Si possono usare entrambi i formati per la stringa, lungo e breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Built-in functions and stored procedures</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100219Z" creationid="Marina Latini" creationdate="20171207T100219Z">
@@ -8114,6 +8122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182838Z" creationid="Elisabetta Manuele" creationdate="20180402T182838Z">
         <seg>CURDATE()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CURTIME()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182911Z" creationid="Elisabetta Manuele" creationdate="20180402T182911Z">
+        <seg>CURTIME()</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +8870,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DATEDIFF(string, datetime1, datetime2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182940Z" creationid="Elisabetta Manuele" creationdate="20180402T182940Z">
+        <seg>DATEDIFF(string, datetime1, datetime2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAY(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183149Z" creationid="Elisabetta Manuele" creationdate="20180402T183134Z">
+        <seg>DAY(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAYNAME(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183213Z" creationid="Elisabetta Manuele" creationdate="20180402T183213Z">
+        <seg>DAYNAME(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DECIMAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102024Z" creationid="Elisabetta Manuele" creationdate="20180402T102024Z">
@@ -9202,6 +9242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203817Z" creationid="Marco Marega" creationdate="20171015T203817Z">
         <seg>Campo &lt;s0/&gt;data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date difference between two dates- compares date/time values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183001Z" creationid="Elisabetta Manuele" creationdate="20180402T183001Z">
+        <seg>Differenza tra due date: consente di confrontare i valori di data e ora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18470,6 +18518,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the current time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182926Z" creationid="Elisabetta Manuele" creationdate="20180402T182926Z">
+        <seg>Riporta l'orario corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the day of the month (1-31).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183203Z" creationid="Elisabetta Manuele" creationdate="20180402T183203Z">
+        <seg>Riporta il giorno del mese (compreso tra 1 e 31).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the first count characters from the beginning of the text s.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181711Z" creationid="Elisabetta Manuele" creationdate="20180402T181711Z">
@@ -21610,6 +21674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222916Z" creationid="MicrosoftSucks" creationdate="20180316T222916Z">
         <seg>La differenza tra filtraggio e &lt;f0&gt;r&lt;/f0&gt;icerca sta nella tecnica di interrogazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The entry in string determines the units in which the difference is returned: ms=millisecond, ss=second, mi=minute, hh=hour, dd=day, mm=month, yy = year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183015Z" creationid="Elisabetta Manuele" creationdate="20180402T183015Z">
+        <seg>Il valore della stringa indica l'unità in cui si ottiene il risultato: ms=millisecondi, ss=secondi, mi=minuti, hh=ore, dd=giorni, mm=mesi, yy=anni.</seg>
       </tuv>
     </tu>
     <tu>
