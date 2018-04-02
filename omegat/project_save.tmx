@@ -134,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101200Z" creationid="Elisabetta Manuele" creationdate="20180402T101200Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101225Z" creationid="Elisabetta Manuele" creationdate="20180402T101225Z">
+        <seg>+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101047Z" creationid="Elisabetta Manuele" creationdate="20180402T101047Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165552Z" creationid="Marina Latini" creationdate="20171205T165552Z">
@@ -766,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101057Z" creationid="Elisabetta Manuele" creationdate="20180402T101057Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170739Z" creationid="Marina Latini" creationdate="20171205T170739Z">
@@ -814,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101102Z" creationid="Elisabetta Manuele" creationdate="20180402T101102Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>40</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170803Z" creationid="Marina Latini" creationdate="20171205T170803Z">
@@ -846,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101106Z" creationid="Elisabetta Manuele" creationdate="20180402T101106Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>52</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170832Z" creationid="Marina Latini" creationdate="20171205T170832Z">
@@ -866,6 +914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T170837Z" creationid="Marina Latini" creationdate="20171205T170837Z">
         <seg>59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101111Z" creationid="Elisabetta Manuele" creationdate="20180402T101111Z">
+        <seg>6</seg>
       </tuv>
     </tu>
     <tu>
@@ -15206,6 +15262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lower case, a=0 b=1 etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101222Z" creationid="Elisabetta Manuele" creationdate="20180402T101222Z">
+        <seg>Lettere minuscole, a=0 b=1 ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113006Z" creationid="Marina Latini" creationdate="20171213T113006Z">
@@ -15978,6 +16042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182513Z" creationid="Marco Marega" creationdate="20171014T182513Z">
         <seg>Ora potete creare il formulario &lt;f0&gt;facendo clic con il pulsante destro del mouse &lt;/f0&gt;e usando il &lt;f1&gt;menu contestuale&lt;/f1&gt; del campo di controllo &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;1&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101130Z" creationid="Elisabetta Manuele" creationdate="20180402T101130Z">
+        <seg>Numero</seg>
       </tuv>
     </tu>
     <tu>
@@ -17554,6 +17626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205559Z" creationid="MicrosoftSucks" creationdate="20180327T205559Z">
         <seg>Vedere anche le funzioni nell'appendice al Manuale di Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See also the query &lt;f0&gt;Barcode_EAN13_ttf_command&lt;/f0&gt; in the example database Media_without_Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101251Z" creationid="Elisabetta Manuele" creationdate="20180402T101251Z">
+        <seg>Vd. anche la query &lt;f0&gt;Barcode_EAN13_ttf_command&lt;/f0&gt; del database di esempio Media_without _Macros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25042,6 +25122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180207T160054Z" creationid="steevie" creationdate="20180207T155947Z">
         <seg>Le opzioni di aggiornamento si riferiscono ad un aggiornamento del campo ID nella tabella Street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upper case, A=0 B=1 etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101156Z" creationid="Elisabetta Manuele" creationdate="20180402T101156Z">
+        <seg>Lettere maiuscole, A=0 B=1 ecc.</seg>
       </tuv>
     </tu>
     <tu>
