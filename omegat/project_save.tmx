@@ -8894,6 +8894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DAYOFMONTH(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183232Z" creationid="Elisabetta Manuele" creationdate="20180402T183232Z">
+        <seg>DAYOFMONTH(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DECIMAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102024Z" creationid="Elisabetta Manuele" creationdate="20180402T102024Z">
@@ -18454,6 +18462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the English name of the day.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183224Z" creationid="Elisabetta Manuele" creationdate="20180402T183224Z">
+        <seg>Riporta il nome inglese del giorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of a number, removing a minus sign where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174524Z" creationid="Elisabetta Manuele" creationdate="20180402T174524Z">
@@ -19890,6 +19906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214818Z" creationid="Marco Marega" creationdate="20180227T214818Z">
         <seg>Supponete di voler eliminare una determinata via dalla tabella &lt;f0&gt;Street&lt;/f0&gt; della Figura &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, nella quale questo campo è collegato alla tabella &lt;f3&gt;Adress&lt;/f3&gt; come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synonym for DAY()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183258Z" creationid="Elisabetta Manuele" creationdate="20180402T183258Z">
+        <seg>Sinonimo di DAY()</seg>
       </tuv>
     </tu>
     <tu>
