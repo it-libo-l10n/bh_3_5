@@ -8902,6 +8902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>EAN13 barcodes can be created using &lt;f0&gt;ean13.ttf&lt;/f0&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101038Z" creationid="Elisabetta Manuele" creationdate="20180402T101038Z">
+        <seg>I codici a barre EAN13 si possono generare con il &lt;f0&gt;carattere omonimo&lt;/f0&gt; mediante la seguente procedura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ELSE</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202452Z" creationid="Marco Marega" creationdate="20180327T202452Z">
@@ -23462,6 +23470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This font is freely available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T100944Z" creationid="Elisabetta Manuele" creationdate="20180402T100944Z">
+        <seg>disponibile gratuitamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This form is based on the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210425Z" creationid="Marco Marega" creationdate="20171126T210425Z">
@@ -24474,6 +24490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214522Z" creationid="Marco Marega" creationdate="20171210T214502Z">
         <seg>Per regolare i singoli campi, dovete modificare il gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To be able to use the barcode print function, the font &lt;f0&gt;ean13.ttf&lt;/f0&gt; must be installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T100927Z" creationid="Elisabetta Manuele" creationdate="20180402T100927Z">
+        <seg>La funzione di stampa dei codici a barre è accessibile solo a condizione che sia installato il carattere e&lt;f0&gt;an13.ttf&lt;/f0&gt;, </seg>
       </tuv>
     </tu>
     <tu>
