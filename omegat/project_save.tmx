@@ -7070,6 +7070,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As LCASE(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182803Z" creationid="Elisabetta Manuele" creationdate="20180402T182803Z">
+        <seg>Uguale a LCASE(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As UCASE(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182825Z" creationid="Elisabetta Manuele" creationdate="20180402T182825Z">
+        <seg>Uguale a UCASE(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a CD can contain several pieces of music, a record of the individual pieces in the main table would require a lot of additional fields (Subtitle 1, Subtitle 2, etc.) or the same item would have to be entered many times.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153933Z" creationid="Marco Marega" creationdate="20180127T153933Z">
@@ -8094,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CURDATE()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182838Z" creationid="Elisabetta Manuele" creationdate="20180402T182838Z">
+        <seg>CURDATE()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
@@ -8626,6 +8650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181636Z" creationid="Elisabetta Manuele" creationdate="20180402T181636Z">
         <seg>Converte il testo di una stringa in minuscole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a string to upper case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182735Z" creationid="Elisabetta Manuele" creationdate="20180402T182735Z">
+        <seg>Converte il testo di una stringa in maiuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,6 +12950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If length is left out, the whole string is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182719Z" creationid="Elisabetta Manuele" creationdate="20180402T182719Z">
+        <seg>Se 'len' viene omesso, vengono restituiti tutti i caratteri della stringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If links between the tables were declared at the time of their creation (see &lt;f0&gt;Chapter&lt;/f0&gt; &lt;f1&gt;3,&lt;/f1&gt; Tables), then these tables are shown with the corresponding direct links.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161834Z" creationid="Manuel Frassinetti" creationdate="20171202T161834Z">
@@ -15710,6 +15750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LOWER(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182739Z" creationid="Elisabetta Manuele" creationdate="20180402T182739Z">
+        <seg>LOWER(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LTRIM(s)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181847Z" creationid="Elisabetta Manuele" creationdate="20180402T181847Z">
@@ -18414,6 +18462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182907Z" creationid="Elisabetta Manuele" creationdate="20180402T182907Z">
+        <seg>Riporta la data corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the first count characters from the beginning of the text s.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181711Z" creationid="Elisabetta Manuele" creationdate="20180402T181711Z">
@@ -18538,6 +18594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180623Z" creationid="Elisabetta Manuele" creationdate="20180402T180623Z">
         <seg>Riporta la tangente di un angolo in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the text s from the start position (1=left).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182639Z" creationid="Elisabetta Manuele" creationdate="20180402T182639Z">
+        <seg>Restituisce un numero di caratteri (len) del testo s a partire dal carattere in posizione 'start' (1=sinistra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18754,6 +18818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182539Z" creationid="Elisabetta Manuele" creationdate="20180402T182539Z">
         <seg>SUBSTR(s,start[,len])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUBSTRING(s,start[,len])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182622Z" creationid="Elisabetta Manuele" creationdate="20180402T182622Z">
+        <seg>SUBSTRING(s,start[,len])</seg>
       </tuv>
     </tu>
     <tu>
@@ -26342,6 +26414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UCASE(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182724Z" creationid="Elisabetta Manuele" creationdate="20180402T182724Z">
+        <seg>UCASE(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UNIQUE ( "Field_name 1" [,"Field_name 2"...] ) |</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214535Z" creationid="Marco Marega" creationdate="20180222T214506Z">
@@ -26378,6 +26458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221045Z" creationid="Marco Marega" creationdate="20180303T220534Z">
         <seg>UPDATE &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; SET &lt;f2&gt;"Anno" = "Anno"+1&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UPPER(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182808Z" creationid="Elisabetta Manuele" creationdate="20180402T182808Z">
+        <seg>UPPER(s)</seg>
       </tuv>
     </tu>
     <tu>
