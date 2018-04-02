@@ -7622,6 +7622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beginning with start, a length len is cut out of the text s and replaced by the text s2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181442Z" creationid="Elisabetta Manuele" creationdate="20180402T181442Z">
+        <seg>A partire da start (inizio), una sezione di testo s (cioè un certo numero di caratteri, o len) viene sostituita da un'altra s2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Behind the button for Formating &lt;f0&gt;i&lt;/f0&gt;s a flexible field &lt;f1&gt;t&lt;/f1&gt;h&lt;f2&gt;at&lt;/f2&gt; makes most currency and numeric fields unnecessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211621Z" creationid="Marco Marega" creationdate="20171026T211621Z">
@@ -8602,6 +8610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162135Z" creationid="Marina Latini" creationdate="20171206T162135Z">
         <seg>Converire dati da un database a un altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a string to lower case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181636Z" creationid="Elisabetta Manuele" creationdate="20180402T181636Z">
+        <seg>Converte il testo di una stringa in minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12502,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INSERT(Bundesbahn, 3, 4, mmel ) converts Bundesbahn into Bummelbahn, where the length of the inserted text can be greater than that of the deleted text without causing any problems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181538Z" creationid="Elisabetta Manuele" creationdate="20180402T181538Z">
+        <seg>INSERT(pizza, 2, 1, ia) converte 'pizza' in 'piazza', con la possibilità di inserire un testo di lunghezza superiore a quella del testo soppresso, senza alcun problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INSERT(s,start,len,s2)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181353Z" creationid="Elisabetta Manuele" creationdate="20180402T181353Z">
@@ -15606,6 +15630,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCASE(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181620Z" creationid="Elisabetta Manuele" creationdate="20180402T181620Z">
+        <seg>LCASE(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LEFT(s,count)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181653Z" creationid="Elisabetta Manuele" creationdate="20180402T181653Z">
+        <seg>LEFT(s,count)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LOG(d)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175309Z" creationid="Elisabetta Manuele" creationdate="20180402T175309Z">
@@ -18150,6 +18190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns a text string, with part of the text replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181411Z" creationid="Elisabetta Manuele" creationdate="20180402T181411Z">
+        <seg>Restituisce una stringa di testo di cui una parte viene modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns e&lt;f0&gt;d&lt;/f0&gt; ( e: (2.718...) ).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175230Z" creationid="Elisabetta Manuele" creationdate="20180402T175230Z">
@@ -18954,6 +19002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T083333Z" creationid="Alessia Mazzarini" creationdate="20180321T083333Z">
         <seg>Quindi A e B formerebbero il primo gruppo, poi C e D e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So INSERT(Bundesbahn, 3, 5, s und B ) yields 'Bus und Bahn'.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181615Z" creationid="Elisabetta Manuele" creationdate="20180402T181615Z">
+        <seg>Quindi INSERT(capofamiglia, 3, 3, sa e f) restituisce 'casa e famiglia'</seg>
       </tuv>
     </tu>
     <tu>
