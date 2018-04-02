@@ -6182,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180704Z" creationid="Elisabetta Manuele" creationdate="20180402T180704Z">
+        <seg>ASCII(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASIN(d)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174611Z" creationid="Elisabetta Manuele" creationdate="20180402T174611Z">
@@ -7426,6 +7434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174820Z" creationid="Elisabetta Manuele" creationdate="20180402T174820Z">
         <seg>BITOR(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BIT_LENGTH(str)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180725Z" creationid="Elisabetta Manuele" creationdate="20180402T180725Z">
+        <seg>BIT_LENGTH(str)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,6 +18070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the ASCII code of the first letter of the string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180719Z" creationid="Elisabetta Manuele" creationdate="20180402T180719Z">
+        <seg>Restituisce il codice ASCII della prima lettera della stringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of a number, removing a minus sign where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174524Z" creationid="Elisabetta Manuele" creationdate="20180402T174524Z">
@@ -18118,6 +18142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the length of the text string str in bits.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180737Z" creationid="Elisabetta Manuele" creationdate="20180402T180737Z">
+        <seg>Riporta la lunghezza della stringa di testo in bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the logarithm to base 10.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175349Z" creationid="Elisabetta Manuele" creationdate="20180402T175349Z">
@@ -18142,10 +18174,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the sine of an angle in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180518Z" creationid="Elisabetta Manuele" creationdate="20180402T180518Z">
+        <seg>Restituisce il seno di un angolo in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the smallest whole number that is not smaller than d.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175008Z" creationid="Elisabetta Manuele" creationdate="20180402T175008Z">
         <seg>Restituisce il minimo numero intero non inferiore a d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the square root.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180558Z" creationid="Elisabetta Manuele" creationdate="20180402T180558Z">
+        <seg>Restituisce la radice quadrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the tangent of an angle in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180623Z" creationid="Elisabetta Manuele" creationdate="20180402T180623Z">
+        <seg>Riporta la tangente di un angolo in radianti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18310,6 +18366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SIN(A)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180450Z" creationid="Elisabetta Manuele" creationdate="20180402T180450Z">
+        <seg>SIN(A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SMALLINT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101633Z" creationid="Elisabetta Manuele" creationdate="20180402T101633Z">
@@ -18322,6 +18386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
         <seg>I valori predefiniti in SQL &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;non&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; compaiono &lt;/f3&gt;&lt;f4&gt;quando di modificano le proprietà della tabella.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQRT(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180528Z" creationid="Elisabetta Manuele" creationdate="20180402T180528Z">
+        <seg>SQRT(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19318,6 +19390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TAN(A)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180602Z" creationid="Elisabetta Manuele" creationdate="20180402T180602Z">
+        <seg>TAN(A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TIME</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102706Z" creationid="Elisabetta Manuele" creationdate="20180402T102706Z">
@@ -19346,6 +19426,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101532Z" creationid="Elisabetta Manuele" creationdate="20180402T101532Z">
         <seg>TINYINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TRUNCATE(2.37456,2) = 2.37</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180656Z" creationid="Elisabetta Manuele" creationdate="20180402T180656Z">
+        <seg>TRUNCATE(2,374562) = 2,37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TRUNCATE(a,b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180628Z" creationid="Elisabetta Manuele" creationdate="20180402T180628Z">
+        <seg>TRUNCATE(a,b)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25794,6 +25890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162641Z" creationid="Marina Latini" creationdate="20171205T162641Z">
         <seg>Barre degli strumenti per la progettazione del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Truncates a to b decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180642Z" creationid="Elisabetta Manuele" creationdate="20180402T180642Z">
+        <seg>Tronca a al b decimale.</seg>
       </tuv>
     </tu>
     <tu>
