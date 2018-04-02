@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'str1'||'str2'||'str3' or 'str1'+'str2'+'str3'</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180857Z" creationid="Elisabetta Manuele" creationdate="20180402T180857Z">
+        <seg>'str1'||'str2'||'str3' or 'str1'+'str2'+'str3'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" ) )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200207Z" creationid="Marco Marega" creationdate="20180327T200207Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101225Z" creationid="Elisabetta Manuele" creationdate="20180402T101225Z">
         <seg>+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0 means th&lt;f0&gt;e&lt;/f0&gt;y sound the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181050Z" creationid="Elisabetta Manuele" creationdate="20180402T181050Z">
+        <seg>0 significa ch&lt;f0&gt;e&lt;/f0&gt; sono omofonici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111907Z" creationid="Manuel Frassinetti" creationdate="20171129T111907Z">
         <seg>&lt;f0&gt;Fate&lt;/f0&gt; clic su campo nella prima colonna nell'area tabella &lt;f1&gt;per  &lt;/f1&gt;&lt;f2&gt;mostrare una freccia a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;oncatenates str1 and str2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180849Z" creationid="Elisabetta Manuele" creationdate="20180402T180849Z">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;oncatenazione di str1 e str2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,10 +8014,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CHAR(c)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180741Z" creationid="Elisabetta Manuele" creationdate="20180402T180741Z">
+        <seg>CHAR(c)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CHAR_LENGTH(str)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180805Z" creationid="Elisabetta Manuele" creationdate="20180402T180805Z">
+        <seg>CHAR_LENGTH(str)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CHECK(&lt;Search_condition&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214646Z" creationid="Marco Marega" creationdate="20180222T214646Z">
         <seg>CHECK(&lt;Criteri_di_ricerca&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CONCAT(str1,str2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180827Z" creationid="Elisabetta Manuele" creationdate="20180402T180827Z">
+        <seg>CONCAT(str1,str2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8462,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Concatenates str1 + str2 + str3, simpler alternative to CONCAT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180913Z" creationid="Elisabetta Manuele" creationdate="20180402T180913Z">
+        <seg>Concatenazione di str1 + str2 + str3, come alternativa semplificata di CONCAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conditional formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154606Z" creationid="Marina Latini" creationdate="20171206T154606Z">
@@ -8786,6 +8842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221943Z" creationid="Marco Marega" creationdate="20180303T221943Z">
         <seg>DELETE FROM &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; [WHERE &lt;f2&gt;&lt;Espressione&gt;&lt;/f2&gt;];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIFFERENCE(s1,s2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180931Z" creationid="Elisabetta Manuele" creationdate="20180402T180931Z">
+        <seg>DIFFERENCE(s1,s2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16990,6 +17054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only a whole number is output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181013Z" creationid="Elisabetta Manuele" creationdate="20180402T181013Z">
+        <seg>Viene generato solo un numero intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only active when a graphic has been selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214423Z" creationid="Marco Marega" creationdate="20171126T214423Z">
@@ -18142,10 +18214,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the length of the text in characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180823Z" creationid="Elisabetta Manuele" creationdate="20180402T180823Z">
+        <seg>Riporta la lunghezza del testo in caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the length of the text string str in bits.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180737Z" creationid="Elisabetta Manuele" creationdate="20180402T180737Z">
         <seg>Riporta la lunghezza della stringa di testo in bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the letter corresponding to the ASCII code c.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180800Z" creationid="Elisabetta Manuele" creationdate="20180402T180800Z">
+        <seg>Restituisce la lettera corrispondente al codice ASCII c.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18186,6 +18274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175008Z" creationid="Elisabetta Manuele" creationdate="20180402T175008Z">
         <seg>Restituisce il minimo numero intero non inferiore a d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the sound difference between s1 and s2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180958Z" creationid="Elisabetta Manuele" creationdate="20180402T180958Z">
+        <seg>Riporta la differenza di suono tra s1 e s2.</seg>
       </tuv>
     </tu>
     <tu>
