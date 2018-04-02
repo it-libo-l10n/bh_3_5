@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7326,6 +7326,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BINARY</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174114Z" creationid="Elisabetta Manuele" creationdate="20180402T174114Z">
+        <seg>BINARY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BOOLEAN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174036Z" creationid="Elisabetta Manuele" creationdate="20180402T174036Z">
+        <seg>BOOLEAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BOOLEAN | BIT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174041Z" creationid="Elisabetta Manuele" creationdate="20180402T174041Z">
+        <seg>BOOLEAN | BIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background color of the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
@@ -7482,6 +7506,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101913Z" creationid="Elisabetta Manuele" creationdate="20180402T101913Z">
         <seg>Intero grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Binary field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174141Z" creationid="Elisabetta Manuele" creationdate="20180402T174141Z">
+        <seg>Campo binario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Binaryfield (fix)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174059Z" creationid="Elisabetta Manuele" creationdate="20180402T174059Z">
+        <seg>Campobinario (fisso)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13230,6 +13270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174208Z" creationid="Elisabetta Manuele" creationdate="20180402T174208Z">
+        <seg>Immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Image &lt;f0&gt;b&lt;/f0&gt;utton</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T214649Z" creationid="Marco Marega" creationdate="20171126T214649Z">
@@ -15278,6 +15326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LONGVARBINARY</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174212Z" creationid="Elisabetta Manuele" creationdate="20180402T174212Z">
+        <seg>LONGVARBINARY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LONGVARCHAR</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102603Z" creationid="Elisabetta Manuele" creationdate="20180402T102603Z">
@@ -15362,6 +15418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170527Z" creationid="Marina Latini" creationdate="20171207T170527Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like Integer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174126Z" creationid="Elisabetta Manuele" creationdate="20180402T174126Z">
+        <seg>Come intero</seg>
       </tuv>
     </tu>
     <tu>
@@ -16410,6 +16474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205225Z" creationid="Marco Marega" creationdate="20180326T205225Z">
         <seg>ORDER BY "Field_1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OTHER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174250Z" creationid="Elisabetta Manuele" creationdate="20180402T174250Z">
+        <seg>OTHER</seg>
       </tuv>
     </tu>
     <tu>
@@ -25790,6 +25862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VARBINARY</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174145Z" creationid="Elisabetta Manuele" creationdate="20180402T174145Z">
+        <seg>VARBINARY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VARCHAR</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102347Z" creationid="Elisabetta Manuele" creationdate="20180402T102347Z">
@@ -26542,6 +26622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes/No</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174018Z" creationid="Elisabetta Manuele" creationdate="20180402T174018Z">
+        <seg>Sì/No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yes/No Field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
@@ -27186,6 +27274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102055Z" creationid="Elisabetta Manuele" creationdate="20180402T102055Z">
         <seg>Variabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>variable, intended for larger images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174228Z" creationid="Elisabetta Manuele" creationdate="20180402T174228Z">
+        <seg>Variabile, adatto alle immagini più grandi</seg>
       </tuv>
     </tu>
     <tu>
