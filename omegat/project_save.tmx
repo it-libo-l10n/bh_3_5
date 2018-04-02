@@ -6302,6 +6302,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjustable</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102359Z" creationid="Elisabetta Manuele" creationdate="20180402T102359Z">
+        <seg>Modificabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adjustable, not exact, 15 decimal places maximum</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102312Z" creationid="Elisabetta Manuele" creationdate="20180402T102312Z">
+        <seg>Modificabile, non preciso, a un massimo di 15 cifre decimali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adjustable, range affects sorting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102441Z" creationid="Elisabetta Manuele" creationdate="20180402T102441Z">
+        <seg>Modificabile, l'intervallo influisce sull'ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting &lt;f0&gt;f&lt;/f0&gt;ield &lt;f1&gt;p&lt;/f1&gt;roportions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T212029Z" creationid="Marco Marega" creationdate="20171210T212029Z">
@@ -7766,6 +7790,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CHAR</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102502Z" creationid="Elisabetta Manuele" creationdate="20180402T102502Z">
+        <seg>CHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CHAR | CHARACTER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102513Z" creationid="Elisabetta Manuele" creationdate="20180402T102513Z">
+        <seg>CHAR | CHARACTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CHECK(&lt;Search_condition&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214646Z" creationid="Marco Marega" creationdate="20180222T214646Z">
@@ -8518,6 +8558,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DOUBLE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102248Z" creationid="Elisabetta Manuele" creationdate="20180402T102248Z">
+        <seg>DOUBLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DOUBLE [PRECISION] | FLOAT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102259Z" creationid="Elisabetta Manuele" creationdate="20180402T102259Z">
+        <seg>DOPPIA [PRECISION] | FLOAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DROP TABLE &lt;f0&gt;"&lt;/f0&gt;Table name&lt;f1&gt;"&lt;/f1&gt; [IF EXISTS] [RESTRICT | CASCADE];</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213321Z" creationid="Marco Marega" creationdate="20180227T213321Z">
@@ -9034,6 +9090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204156Z" creationid="Marco Marega" creationdate="20171016T204156Z">
         <seg>Il campo prevede lo stop del cursore?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102232Z" creationid="Elisabetta Manuele" creationdate="20180402T102232Z">
+        <seg>Doppio</seg>
       </tuv>
     </tu>
     <tu>
@@ -12050,6 +12114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200158Z" creationid="Marco Marega" creationdate="20180327T200158Z">
         <seg>IFNULL( "Field_1" || ' - ' || "Count", 'empty - ' || "Count" ) AS "Display",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IGNORECASE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102423Z" creationid="Elisabetta Manuele" creationdate="20180402T102423Z">
+        <seg>IGNORECASE</seg>
       </tuv>
     </tu>
     <tu>
@@ -17270,6 +17342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REAL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102217Z" creationid="Elisabetta Manuele" creationdate="20180402T102217Z">
+        <seg>REAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REFERENCES "Table_name_of_another_table" ("Field_name1_other_table", "Field_name2_other_table" ...)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232547Z" creationid="Marco Marega" creationdate="20180226T232547Z">
@@ -18794,6 +18874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100021Z" creationid="Marina Latini" creationdate="20171207T100021Z">
         <seg>Testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text (fix)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102458Z" creationid="Elisabetta Manuele" creationdate="20180402T102458Z">
+        <seg>Testo (fisso)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25618,6 +25706,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215854Z" creationid="Marco Marega" creationdate="20171029T215854Z">
         <seg>Di solito questa funzione non viene usata per i database, in quanto ogni campo dovrebbe contenere un solo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VARCHAR</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102347Z" creationid="Elisabetta Manuele" creationdate="20180402T102347Z">
+        <seg>VARCHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VARCHAR_&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102408Z" creationid="Elisabetta Manuele" creationdate="20180402T102408Z">
+        <seg>VARCHAR_&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
