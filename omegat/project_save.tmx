@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -106,6 +106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223150Z" creationid="MicrosoftSucks" creationdate="20180316T223150Z">
         <seg>(&lt;f1&gt;D&lt;/f1&gt;opo tutto, la lista di scelta e' costruita a partire dal contenuto della tabella.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(DOUBLE used instead)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102158Z" creationid="Elisabetta Manuele" creationdate="20180402T102158Z">
+        <seg>(DOUBLE usato in alternativa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2&lt;f0&gt;64&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101931Z" creationid="Elisabetta Manuele" creationdate="20180402T101931Z">
+        <seg>2&lt;f0&gt;64&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2&lt;f0&gt;8 &lt;/f0&gt;= 256 | - 128 bis + 127</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101606Z" creationid="Elisabetta Manuele" creationdate="20180402T101606Z">
@@ -1026,6 +1042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165524Z" creationid="Marina Latini" creationdate="20171205T165524Z">
         <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8 Byte</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101935Z" creationid="Elisabetta Manuele" creationdate="20180402T101935Z">
+        <seg>8 Byte</seg>
       </tuv>
     </tu>
     <tu>
@@ -7254,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BIGINT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101919Z" creationid="Elisabetta Manuele" creationdate="20180402T101919Z">
+        <seg>BIGINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background color of the text field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205214Z" creationid="Marco Marega" creationdate="20171016T205214Z">
@@ -8438,6 +8470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DECIMAL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102024Z" creationid="Elisabetta Manuele" creationdate="20180402T102024Z">
+        <seg>DECIMAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DELETE FROM "Table_name" WHERE "Return_date" IS NOT NULL;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222505Z" creationid="Marco Marega" creationdate="20180303T222505Z">
@@ -8762,6 +8802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102246Z" creationid="Marina Latini" creationdate="20171207T102246Z">
         <seg>Data/ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decimal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102014Z" creationid="Elisabetta Manuele" creationdate="20180402T102014Z">
+        <seg>Decimale</seg>
       </tuv>
     </tu>
     <tu>
@@ -9442,6 +9490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165649Z" creationid="Marina Latini" creationdate="20171207T165649Z">
         <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FLOAT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102143Z" creationid="Elisabetta Manuele" creationdate="20180402T102143Z">
+        <seg>FLOAT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,10 +10190,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Float</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102139Z" creationid="Elisabetta Manuele" creationdate="20180402T102139Z">
+        <seg>Mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating-point numbers</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100014Z" creationid="Marina Latini" creationdate="20171207T100014Z">
-        <seg>Numeri in virgola mobile</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101947Z" creationid="Marina Latini" creationdate="20171207T100014Z">
+        <seg>Numeri a virgola mobile</seg>
       </tuv>
     </tu>
     <tu>
@@ -15742,6 +15806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>NUMERIC</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102105Z" creationid="Elisabetta Manuele" creationdate="20180402T102105Z">
+        <seg>NUMERIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Naturally Titles appear more than once as with the previous relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170523Z" creationid="Manuel Frassinetti" creationdate="20180116T170523Z">
@@ -17258,6 +17330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T212853Z" creationid="Marco Marega" creationdate="20171226T212853Z">
         <seg>gli utenti possono essere trovati più velocemente digitando nel campo di controllo piuttosto che usando un filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Real</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102212Z" creationid="Elisabetta Manuele" creationdate="20180402T102212Z">
+        <seg>Reale</seg>
       </tuv>
     </tu>
     <tu>
@@ -25254,6 +25334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlimited, up to 50 places in the GUI, fixed decimal point, perfect accuracy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102048Z" creationid="Elisabetta Manuele" creationdate="20180402T102048Z">
+        <seg>Illimitato, fino a 50 cifre nella GUI, punto decimale fisso, perfetta precisione delle cifre decimali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Up to now all the documents have been identical except for the different content of the fields read from the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181022Z" creationid="Elisabetta Manuele" creationdate="20180307T181022Z">
@@ -26898,6 +26986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210906Z" creationid="Marco Marega" creationdate="20171026T210906Z">
         <seg>minimo, Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>variable</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102055Z" creationid="Elisabetta Manuele" creationdate="20180402T102055Z">
+        <seg>Variabile</seg>
       </tuv>
     </tu>
     <tu>
