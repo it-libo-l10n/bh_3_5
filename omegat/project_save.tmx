@@ -11614,6 +11614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HEXTORAW(s1)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181304Z" creationid="Elisabetta Manuele" creationdate="20180402T181304Z">
+        <seg>HEXTORAW(s1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HSQLDB</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101449Z" creationid="Elisabetta Manuele" creationdate="20180402T101449Z">
@@ -12490,6 +12498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215115Z" creationid="Marco Marega" creationdate="20180303T215115Z">
         <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; [( &lt;f2&gt;"Nome_campo"&lt;/f2&gt; [,...] )]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INSERT(s,start,len,s2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181353Z" creationid="Elisabetta Manuele" creationdate="20180402T181353Z">
+        <seg>INSERT(s,start,len,s2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18914,6 +18930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T210040Z" creationid="Marco Marega" creationdate="20180315T210040Z">
         <seg>Perciò "String" è la stessa cosa di "STRING", "string" o di qualsiasi altra combinazione di maiuscole e minuscole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So 'for' and 'four' yield 0, ‘&lt;f1&gt;king’&lt;/f1&gt; &lt;f2&gt;a&lt;/f2&gt;nd &lt;f3&gt;‘wing’&lt;/f3&gt; yield 1, ‘&lt;f4&gt;see’&lt;/f4&gt; and ‘&lt;f5&gt;sea’ yield&lt;/f5&gt; 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181258Z" creationid="Elisabetta Manuele" creationdate="20180402T181258Z">
+        <seg>Quindi 'anno' e 'hanno' restituiscono 0, '&lt;f1&gt;mente'&lt;/f1&gt; &lt;f2&gt;e&lt;/f2&gt; &lt;f3&gt;'sente'&lt;/f3&gt; 1, '&lt;f4&gt;ceco'&lt;/f4&gt; e '&lt;f5&gt;cieco', restituiscono&lt;/f5&gt; 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25986,6 +26010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162641Z" creationid="Marina Latini" creationdate="20171205T162641Z">
         <seg>Barre degli strumenti per la progettazione del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translates hexadecimal code to other characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181321Z" creationid="Elisabetta Manuele" creationdate="20180402T181321Z">
+        <seg>Traduce il codice esadecimale in altri caratteri.</seg>
       </tuv>
     </tu>
     <tu>
