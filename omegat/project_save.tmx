@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2&lt;f0&gt;8 &lt;/f0&gt;= 256 | - 128 bis + 127</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101606Z" creationid="Elisabetta Manuele" creationdate="20180402T101606Z">
+        <seg>2&lt;f0&gt;8&lt;/f0&gt;= 256 | - 128 bis + 127</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101057Z" creationid="Elisabetta Manuele" creationdate="20180402T101057Z">
@@ -8576,8 +8584,8 @@
       <tuv lang="EN">
         <seg>Data types for the table editor</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095929Z" creationid="Marina Latini" creationdate="20171207T095929Z">
-        <seg>Tipi di dato per l'editor della tabella</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101312Z" creationid="Marina Latini" creationdate="20171207T095929Z">
+        <seg>Tipi di dati per l'editor della tabella</seg>
       </tuv>
     </tu>
     <tu>
@@ -11090,6 +11098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201756Z" creationid="Marco Marega" creationdate="20171210T201756Z">
         <seg>&lt;/f7&gt;Qui &lt;f8&gt;viene descritta &lt;/f8&gt;la creazione in &lt;f9&gt;Vista&lt;/f9&gt; &lt;f10&gt;struttura&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HSQLDB</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101449Z" creationid="Elisabetta Manuele" creationdate="20180402T101449Z">
+        <seg>HSQLDB</seg>
       </tuv>
     </tu>
     <tu>
@@ -16630,6 +16646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Option</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101444Z" creationid="Elisabetta Manuele" creationdate="20180402T101444Z">
+        <seg>Opzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Option button</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210247Z" creationid="Marco Marega" creationdate="20171109T210247Z">
@@ -17130,6 +17154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114003Z" creationid="Marina Latini" creationdate="20171213T114003Z">
         <seg>Pulsanti Radio (permettono una singola scelta esclusiva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101458Z" creationid="Elisabetta Manuele" creationdate="20180402T101458Z">
+        <seg>Intervallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,6 +18326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Storage space</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101516Z" creationid="Elisabetta Manuele" creationdate="20180402T101516Z">
+        <seg>Spazio di archiviazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Storing data in separate tables helps:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223039Z" creationid="Marco Marega" creationdate="20180112T223039Z">
@@ -18458,6 +18498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085123Z" creationid="Alessia Mazzarini" creationdate="20180321T085123Z">
         <seg>P&lt;f0&gt;er&lt;/f0&gt; aggiungere dei campi, usat&lt;f1&gt;e&lt;/f1&gt; la funzione&lt;f2&gt;Aggiungi campo&lt;/f2&gt;, come per i formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TINYINT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101532Z" creationid="Elisabetta Manuele" creationdate="20180402T101532Z">
+        <seg>TINYINT</seg>
       </tuv>
     </tu>
     <tu>
@@ -24518,6 +24566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tiny Integer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101526Z" creationid="Elisabetta Manuele" creationdate="20180402T101526Z">
+        <seg>Intero minimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tiny Integer, Primary key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220308Z" creationid="Marco Marega" creationdate="20171217T221409Z">
@@ -24898,6 +24954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T203440Z" creationid="steevie" creationdate="20180226T165433Z">
         <seg>Si possono selezionare due formati finali per i rapporti: &lt;f0&gt;Documento di testo ODF&lt;/f0&gt; (un documento Writer) oppure &lt;f1&gt;Foglio elettronico ODF&lt;/f1&gt; (un documento Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101432Z" creationid="Elisabetta Manuele" creationdate="20180402T101432Z">
+        <seg>Tipo</seg>
       </tuv>
     </tu>
     <tu>
