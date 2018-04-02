@@ -6238,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abbrev&lt;f0&gt;iation&lt;/f0&gt; for SUBSTRING.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182606Z" creationid="Elisabetta Manuele" creationdate="20180402T182606Z">
+        <seg>Abbrev&lt;f0&gt;iazione&lt;/f0&gt; di SUBSTRING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113025Z" creationid="Marina Latini" creationdate="20171213T113025Z">
@@ -18014,6 +18022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RTRIM(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182335Z" creationid="Elisabetta Manuele" creationdate="20180402T182335Z">
+        <seg>RTRIM(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Radio buttons (only one can be selected at a time).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114003Z" creationid="Marina Latini" creationdate="20171213T114003Z">
@@ -18138,6 +18154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135226Z" creationid="Marco Marega" creationdate="20180203T135226Z">
         <seg>Non c'è bisogno di inviare i solleciti per posta, dato che possono essere distribuiti internamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removes all spaces and non-printing characters from the end of a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182352Z" creationid="Elisabetta Manuele" creationdate="20180402T182352Z">
+        <seg>Elimina tutti gli spazi e i caratteri non stampabili a partire dalla fine di una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18286,6 +18310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns a 4-character code, corresponding to the sound of s – matches the function DIFFERENCE().</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182438Z" creationid="Elisabetta Manuele" creationdate="20180402T182438Z">
+        <seg>Restituisce un codice di 4 caratteri, corrispondente al suono di s – è uguale alla funzione DIFFERENCE().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns a random number greater than or equal to 0.0 and less than 1.0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180224Z" creationid="Elisabetta Manuele" creationdate="20180402T180224Z">
@@ -18298,6 +18330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181411Z" creationid="Elisabetta Manuele" creationdate="20180402T181411Z">
         <seg>Restituisce una stringa di testo di cui una parte viene modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns count spaces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182512Z" creationid="Elisabetta Manuele" creationdate="20180402T182512Z">
+        <seg>Restituisce un numero di spazi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18678,6 +18718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SOUNDEX(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182356Z" creationid="Elisabetta Manuele" creationdate="20180402T182356Z">
+        <seg>SOUNDEX(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SPACE(count)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182458Z" creationid="Elisabetta Manuele" creationdate="20180402T182458Z">
+        <seg>SPACE(count)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQL default values do &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; appear &lt;/f3&gt;&lt;f4&gt;when editing table properties.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
@@ -18690,6 +18746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180528Z" creationid="Elisabetta Manuele" creationdate="20180402T180528Z">
         <seg>SQRT(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUBSTR(s,start[,len])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182539Z" creationid="Elisabetta Manuele" creationdate="20180402T182539Z">
+        <seg>SUBSTR(s,start[,len])</seg>
       </tuv>
     </tu>
     <tu>
