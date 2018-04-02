@@ -8526,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts degrees to radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180131Z" creationid="Elisabetta Manuele" creationdate="20180402T180131Z">
+        <seg>Converte i gradi in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts radians to degrees.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175136Z" creationid="Elisabetta Manuele" creationdate="20180402T175136Z">
@@ -17358,6 +17366,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PI()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175826Z" creationid="Elisabetta Manuele" creationdate="20180402T175826Z">
+        <seg>PI()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>POWER(a,b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175923Z" creationid="Elisabetta Manuele" creationdate="20180402T175923Z">
+        <seg>POWER(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PRIMARY KEY ( "Field_name 1" [,"Field_name 2"...] ) |</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214530Z" creationid="Marco Marega" creationdate="20180222T214530Z">
@@ -17686,6 +17710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RADIANS(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180116Z" creationid="Elisabetta Manuele" creationdate="20180402T180116Z">
+        <seg>RADIANS(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102217Z" creationid="Elisabetta Manuele" creationdate="20180402T102217Z">
@@ -17946,6 +17978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095412Z" creationid="Marina Latini" creationdate="20171207T095412Z">
         <seg>Ripristinare i valori automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns &lt;f0&gt;π&lt;/f0&gt; (3.1415...)&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175855Z" creationid="Elisabetta Manuele" creationdate="20180402T175855Z">
+        <seg>Restituisce &lt;f0&gt;π&lt;/f0&gt; (3,1415...)&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27378,6 +27418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174735Z" creationid="Elisabetta Manuele" creationdate="20180402T174735Z">
         <seg>a rappresenta il valore dell'asse x, b quello dell'asse y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a&lt;f0&gt;b&lt;/f0&gt; , POWER(2,3) = 8, since 2&lt;f1&gt;3&lt;/f1&gt; = 8</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180103Z" creationid="Elisabetta Manuele" creationdate="20180402T180103Z">
+        <seg>a&lt;f0&gt;b&lt;/f0&gt; , POWER(2,3) = 8, poiché 2&lt;f1&gt;3&lt;/f1&gt; = 8</seg>
       </tuv>
     </tu>
     <tu>
