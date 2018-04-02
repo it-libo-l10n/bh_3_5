@@ -7398,6 +7398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BITAND(3,5) yields 7; 0011 OR 0101 = 0111</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174951Z" creationid="Elisabetta Manuele" creationdate="20180402T174951Z">
+        <seg>BITAND(3,5) restituisce 7; 0011 OR 0101 = 0111</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>BITAND(a,b)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174739Z" creationid="Elisabetta Manuele" creationdate="20180402T174739Z">
@@ -7934,6 +7942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CEILING(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174956Z" creationid="Elisabetta Manuele" creationdate="20180402T174956Z">
+        <seg>CEILING(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CHAR</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102502Z" creationid="Elisabetta Manuele" creationdate="20180402T102502Z">
@@ -7954,6 +7970,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214646Z" creationid="Marco Marega" creationdate="20180222T214646Z">
         <seg>CHECK(&lt;Criteri_di_ricerca&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COS(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175012Z" creationid="Elisabetta Manuele" creationdate="20180402T175012Z">
+        <seg>COS(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COT(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175045Z" creationid="Elisabetta Manuele" creationdate="20180402T175045Z">
+        <seg>COT(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8494,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts radians to degrees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175136Z" creationid="Elisabetta Manuele" creationdate="20180402T175136Z">
+        <seg>Converte i radianti in gradi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085033Z" creationid="Marina Latini" creationdate="20171003T085033Z">
@@ -8666,6 +8706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102024Z" creationid="Elisabetta Manuele" creationdate="20180402T102024Z">
         <seg>DECIMAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DEGREES(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175111Z" creationid="Elisabetta Manuele" creationdate="20180402T175111Z">
+        <seg>DEGREES(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9314,6 +9362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211435Z" creationid="Marco Marega" creationdate="20180325T211435Z">
         <seg>END SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EXP(d)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175139Z" creationid="Elisabetta Manuele" creationdate="20180402T175139Z">
+        <seg>EXP(d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17854,6 +17910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns e&lt;f0&gt;d&lt;/f0&gt; ( e: (2.718...) ).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175230Z" creationid="Elisabetta Manuele" creationdate="20180402T175230Z">
+        <seg>Restituisce e&lt;f0&gt;d&lt;/f0&gt; ( e: (2,718...) ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of a number, removing a minus sign where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174524Z" creationid="Elisabetta Manuele" creationdate="20180402T174524Z">
@@ -17890,6 +17954,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174641Z" creationid="Elisabetta Manuele" creationdate="20180402T174641Z">
         <seg>Riporta la funzione di arcotangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the cosine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175040Z" creationid="Elisabetta Manuele" creationdate="20180402T175040Z">
+        <seg>Riporta la funzione di coseno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the cotangent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175057Z" creationid="Elisabetta Manuele" creationdate="20180402T175057Z">
+        <seg>Riporta la funzione di cotangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the smallest whole number that is not smaller than d.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175008Z" creationid="Elisabetta Manuele" creationdate="20180402T175008Z">
+        <seg>Restituisce il minimo numero intero non inferiore a d.</seg>
       </tuv>
     </tu>
     <tu>
