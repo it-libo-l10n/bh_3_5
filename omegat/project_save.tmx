@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 Byte</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101613Z" creationid="Elisabetta Manuele" creationdate="20180402T101613Z">
+        <seg>1 Byte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T165552Z" creationid="Marina Latini" creationdate="20171205T165552Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2 Byte</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101734Z" creationid="Elisabetta Manuele" creationdate="20180402T101734Z">
+        <seg>2 Byte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>200</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162327Z" creationid="Marina Latini" creationdate="20171206T162327Z">
@@ -790,6 +806,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2&lt;f0&gt;16 &lt;/f0&gt;= 65536 | - 32768 bis + 32767</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101727Z" creationid="Elisabetta Manuele" creationdate="20180402T101727Z">
+        <seg>2&lt;f0&gt;16 &lt;/f0&gt;= 65536 | - 32768 bis + 32767</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2&lt;f0&gt;32 &lt;/f0&gt;= 4294967296 | - 2147483648 bis + 2147483647</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101840Z" creationid="Elisabetta Manuele" creationdate="20180402T101840Z">
+        <seg>2&lt;f0&gt;32 &lt;/f0&gt;= 4294967296 | - 2147483648 bis + 2147483647</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2&lt;f0&gt;8 &lt;/f0&gt;= 256 | - 128 bis + 127</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101606Z" creationid="Elisabetta Manuele" creationdate="20180402T101606Z">
@@ -858,6 +890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101102Z" creationid="Elisabetta Manuele" creationdate="20180402T101102Z">
         <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4 Byte</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101845Z" creationid="Elisabetta Manuele" creationdate="20180402T101845Z">
+        <seg>4 Byte</seg>
       </tuv>
     </tu>
     <tu>
@@ -7366,6 +7406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BigInt</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101913Z" creationid="Elisabetta Manuele" creationdate="20180402T101913Z">
+        <seg>Intero grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both are read from the Reader table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211823Z" creationid="Marco Marega" creationdate="20171101T211823Z">
@@ -11962,6 +12010,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215115Z" creationid="Marco Marega" creationdate="20180303T215115Z">
         <seg>INSERT INTO &lt;f0&gt;"&lt;/f0&gt;Nome_tabella&lt;f1&gt;"&lt;/f1&gt; [( &lt;f2&gt;"Nome_campo"&lt;/f2&gt; [,...] )]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INTEGER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101800Z" creationid="Elisabetta Manuele" creationdate="20180402T101800Z">
+        <seg>INTEGER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INTEGER | INT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101832Z" creationid="Elisabetta Manuele" creationdate="20180402T101832Z">
+        <seg>INTEGER | INT</seg>
       </tuv>
     </tu>
     <tu>
@@ -17518,6 +17582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SMALLINT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101633Z" creationid="Elisabetta Manuele" creationdate="20180402T101633Z">
+        <seg>SMALLINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQL default values do &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; appear &lt;/f3&gt;&lt;f4&gt;when editing table properties.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
@@ -17930,6 +18002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T192524Z" creationid="Marco Marega" creationdate="20171125T192524Z">
         <seg>alla dimensione&lt;/f4&gt;: l'immagine viene adattata al campo di controllo e può essere visualizzata in maniera distorta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Small Integer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101628Z" creationid="Elisabetta Manuele" creationdate="20180402T101628Z">
+        <seg>Intero piccolo</seg>
       </tuv>
     </tu>
     <tu>
