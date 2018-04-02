@@ -15790,6 +15790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MOD(11,3) ergibt 2, weil 3*3+2=11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175819Z" creationid="Elisabetta Manuele" creationdate="20180402T175819Z">
+        <seg>MOD(11,3) è uguale a 2, perché 3*3+2=11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MOD(a,b)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175353Z" creationid="Elisabetta Manuele" creationdate="20180402T175353Z">
