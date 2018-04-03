@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;db:connection-data&gt;&lt;db:connection-resource xlink:href="sdbc:embedded:hsqldb"/&gt;&lt;db:login db:is-password-required="false"/&gt;&lt;/db:connection-data&gt;&lt;db:driver-settings/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165526Z" creationid="Elisabetta Manuele" creationdate="20180403T165526Z">
+        <seg>&lt;db:connection-data&gt;&lt;db:connection-resource xlink:href="sdbc:embedded:hsqldb"/&gt;&lt;db:login db:is-password-required="false"/&gt;&lt;/db:connection-data&gt;&lt;db:driver-settings/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;(Enter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;IS EMPTY&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; in the Criterion&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; row of the Return_Date field.) &lt;/f5&gt;&lt;s6/&gt;This exclusion criterion will cause only those records to be displayed that relate to media &lt;f7&gt;that&lt;/f7&gt; have not yet been returned from loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T113452Z" creationid="Manuel Frassinetti" creationdate="20171202T113452Z">
@@ -17742,6 +17750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now the &lt;f0&gt;content.xml&lt;/f0&gt; file must be extracted from the &lt;s1/&gt;*.odb archive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165347Z" creationid="Elisabetta Manuele" creationdate="20180403T165347Z">
+        <seg>A questo punto il file &lt;f0&gt;content.xml&lt;/f0&gt; deve essere estratto dall'archivio &lt;s1/&gt;*.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now the choice of properties that you can change is greater as you are dealing only with similar fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194548Z" creationid="Marco Marega" creationdate="20171210T194548Z">
@@ -26134,6 +26150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These lines must be replaced with a connection to an external database, in this case a connection to a database with the name &lt;f0&gt;Union&lt;/f0&gt;, in the &lt;f1&gt;hsqldb_data&lt;/f1&gt; directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165615Z" creationid="Elisabetta Manuele" creationdate="20180403T165615Z">
+        <seg>Queste righe vanno sostituite da una connessione a un database esterno, in questo caso denominato &lt;f0&gt;Union&lt;/f0&gt;, nella cartella &lt;f1&gt;hsqldb_data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These must be entered without single quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212126Z" creationid="Marco Marega" creationdate="20180219T212126Z">
@@ -28602,6 +28626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205934Z" creationid="Marco Marega" creationdate="20180325T205934Z">
         <seg>Usate &lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Option Explicit&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;per evitare che LibreoOffice Basic crei automaticamente le variabili; ciò è raccomandato dalla maggior parte dei programmatori&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use any simple text editor to find the following lines:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165454Z" creationid="Elisabetta Manuele" creationdate="20180403T165454Z">
+        <seg>Utilizzate un semplice editor di testo per trovare le seguenti righe:</seg>
       </tuv>
     </tu>
     <tu>
