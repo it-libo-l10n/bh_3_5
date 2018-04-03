@@ -10862,6 +10862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally the detailed &lt;f0&gt;User-defined Function&lt;/f0&gt; is available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T145713Z" creationid="Alessia Mazzarini" creationdate="20180403T145713Z">
+        <seg>Per ultimo, è disponibile la dettagliata&lt;f0&gt;Funzione definita dall'utente&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally the whole query is sorted by the underlying field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T214913Z" creationid="Marco Marega" creationdate="20180327T214913Z">
@@ -13530,6 +13538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
         <seg>Se il contenuto prosegue su ulteriori linee, quando l'elenco viene aperto comparirà una barra di scorrimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the counter is inserted into the Details area, each record will be provided with a running number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T145502Z" creationid="Alessia Mazzarini" creationdate="20180403T145502Z">
+        <seg>Se il Contatore viene inserito nell'area Dettaglio, ciascun record di dati avrà un numero in sequenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24034,6 +24050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214428Z" creationid="Marco Marega" creationdate="20171213T214428Z">
         <seg>Il numero dovrebbe mantenersi sempre piccolo e positivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The numbering will apply only to records in the group or in the whole report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T145612Z" creationid="Alessia Mazzarini" creationdate="20180403T145612Z">
+        <seg>La numerazione verrà applicata solo ai record di dati all'interno del gruppo o dell'intero rapporto.</seg>
       </tuv>
     </tu>
     <tu>
