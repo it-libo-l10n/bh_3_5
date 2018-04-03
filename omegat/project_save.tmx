@@ -22038,6 +22038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Report Builder provides a variety of functions, both for displaying data and for setting conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T151120Z" creationid="Alessia Mazzarini" creationdate="20180403T151120Z">
+        <seg>Il Report Builder offre una varietà di funzioni, sia per la visualizzazione dei dati che per le condizioni di impostazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Return_Date field is given not just an alias but also a search criterion, which will cause only those records to be displayed for which the Return_Date field is empty.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T165807Z" creationid="Manuel Frassinetti" creationdate="20171202T111531Z">
