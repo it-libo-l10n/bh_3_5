@@ -10,3 +10,4 @@ listboxes	liste di scelta
 Data to Fields	Dati in campi	Voce UI
 listboxes	caselle di riepilogo
 listbox	casella di riepilogo
+multi-user	multiutente
