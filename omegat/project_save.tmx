@@ -7712,8 +7712,8 @@
       <tuv lang="EN">
         <seg>Auto-incrementing values with external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103011Z" creationid="Marina Latini" creationdate="20171207T103011Z">
-        <seg>Valori a incremento automatico con HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172229Z" creationid="Marina Latini" creationdate="20171207T103011Z">
+        <seg>Valori a incremento automatico con un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
@@ -8954,6 +8954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T162003Z" creationid="Manuel Frassinetti" creationdate="20171216T162003Z">
         <seg>Le virgole sono utilizzate come separatori di campo, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;quindi &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;vengono creati nuovi campi di ricerca per la parte decimale.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Common to all of them is the following entry under &lt;f1&gt;Edit &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Database &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Advance settings&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172358Z" creationid="Elisabetta Manuele" creationdate="20180403T172358Z">
+        <seg>Tutte hanno in comune la seguente voce del menu &lt;f1&gt;Modifica &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Database &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Impostazioni avanzate&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11786,6 +11794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193953Z" creationid="Elisabetta Manuele" creationdate="20180308T193953Z">
         <seg>A tal fine è necessario in primo luogo renderli accessibili in un foglio di lavoro di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose we need an additional setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172206Z" creationid="Elisabetta Manuele" creationdate="20180403T172206Z">
+        <seg>Per superare l'inconveniente è necessaria un'impostazione supplementare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19150,6 +19166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quickly, however, an additional problem appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172133Z" creationid="Elisabetta Manuele" creationdate="20180403T172133Z">
+        <seg>Tuttavia si profila subito un ulteriore problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RADIANS(d)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180116Z" creationid="Elisabetta Manuele" creationdate="20180402T180116Z">
@@ -23398,6 +23422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database is now connected and we can write into it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172119Z" creationid="Elisabetta Manuele" creationdate="20180403T172119Z">
+        <seg>Il database è ora connesso e possiamo popolarlo con i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database itself must be given a suitably informative name, for which you can simply use the name of the database file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181104Z" creationid="Elisabetta Manuele" creationdate="20180306T181104Z">
@@ -24994,6 +25026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214150Z" creationid="Marco Marega" creationdate="20180301T214150Z">
         <seg>L'inserimento precedente viene memorizzato in archivio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The previously automatically generated values are suddenly no longer incremented.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172149Z" creationid="Elisabetta Manuele" creationdate="20180403T172149Z">
+        <seg>I valori in precedenza generati automaticamente, a un tratto non vengono più incrementati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28470,6 +28510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use autovalues, different procedures for table configuration are needed according to the version of L&lt;f0&gt;ibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172258Z" creationid="Elisabetta Manuele" creationdate="20180403T172258Z">
+        <seg>Per utilizzare i valori automatici sono necessarie procedure diverse per la configurazione della tabella, in base alla versione di L&lt;f0&gt;ibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggling th&lt;f0&gt;e &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Explorer On/Off&lt;/f2&gt;&lt;/f1&gt; button shows or hides the directory tree to the left of the table view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191310Z" creationid="Elisabetta Manuele" creationdate="20180306T191310Z">
@@ -30450,6 +30498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172020Z" creationid="Elisabetta Manuele" creationdate="20180403T172020Z">
         <seg>jdbc:hsqldb:hsql://192.168.0.20/union;default_schema=true&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jdbc:hsqldb:hsql://lin_serv/union;default_schema=true</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172053Z" creationid="Elisabetta Manuele" creationdate="20180403T172053Z">
+        <seg>jdbc:hsqldb:hsql://lin_serv/union;default_schema=true</seg>
       </tuv>
     </tu>
     <tu>
