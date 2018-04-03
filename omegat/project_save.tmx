@@ -6726,6 +6726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All formula input applies only to the current record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T160516Z" creationid="Alessia Mazzarini" creationdate="20180403T160516Z">
+        <seg>Tutte le formule immesse sono valide solo per il record di dati corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All information on the tables of the database is stored in table form in a separate part of HSQLDB.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T160037Z" creationid="steevie" creationdate="20180205T160037Z">
@@ -18946,6 +18954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161945Z" creationid="Marina Latini" creationdate="20171205T161945Z">
         <seg>Relazioni tra tabelle nei database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relationships with previous or following records are therefore not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T160546Z" creationid="Alessia Mazzarini" creationdate="20180403T160546Z">
+        <seg>Non sono pertanto possibili relazioni con record di dati precedenti o successivi.</seg>
       </tuv>
     </tu>
     <tu>
