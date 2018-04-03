@@ -4430,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;See also: &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://forum.openoffice.org/en/forum/viewtopic.php?f=83&amp;t=17125&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104630Z" creationid="Elisabetta Manuele" creationdate="20180403T104630Z">
+        <seg>&lt;f0&gt;Vd. anche: &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://forum.openoffice.org/en/forum/viewtopic.php?f=83&amp;t=17125&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select t&lt;/f0&gt;he &lt;f1&gt;Form&lt;/f1&gt; menu option &lt;f2&gt;(highlighted in the illustration) &lt;/f2&gt;to set properties for the form you have just created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T182648Z" creationid="Marco Marega" creationdate="20171014T182648Z">
@@ -5370,6 +5378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140435Z" creationid="Marco Marega" creationdate="20171014T140435Z">
         <seg>&lt;f2&gt;I&lt;/f2&gt; primi quattro elementi sono identici a quelli della barra degli strumenti Struttura formulario; a questi seguono i campi di controllo usati più comunemente (un campo di controllo è formato da un campo ed un'etichetta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Y&lt;/f2&gt;ou &lt;f3&gt;should&lt;/f3&gt; be able to access your tables again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104531Z" creationid="Elisabetta Manuele" creationdate="20180403T104531Z">
+        <seg>&lt;f2&gt;Le v&lt;/f2&gt;ostre tabelle &lt;f3&gt;dovrebbero&lt;/f3&gt; essere nuovamente accessibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12502,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How far your queries, forms, and reports can be recovered in a similar way must be the subject of further testing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104553Z" creationid="Elisabetta Manuele" creationdate="20180403T104553Z">
+        <seg>Fino a che punto sia possibile ripristinare query, moduli e report con tale procedura deve essere oggetto di ulteriori verifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114143Z" creationid="Marina Latini" creationdate="20171213T114143Z">
@@ -13298,6 +13322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T210224Z" creationid="Marco Marega" creationdate="20171125T210224Z">
         <seg>Se è troppo lunga per il campo, viene troncata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it was necessary to rename the file to *.zip before opening it in the archiving program (this depends on your operating system), &lt;f2&gt;now &lt;/f2&gt;rename it again to *.odb.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104426Z" creationid="Elisabetta Manuele" creationdate="20180403T104426Z">
+        <seg>Se è stato necessario modificare l'estensione del file in *.zip prima di aprirlo nel programma di archiviazione (a seconda del sistema operativo in uso), &lt;f2&gt;a questo punto &lt;/f2&gt;cambiatela di nuovo in *.odb.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +17978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113330Z" creationid="Marina Latini" creationdate="20171213T113330Z">
         <seg>Aprire la finestra Stili e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the database file in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104453Z" creationid="Elisabetta Manuele" creationdate="20180403T104453Z">
+        <seg>Aprite il file del database in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
