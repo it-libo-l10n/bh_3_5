@@ -5278,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;or&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172034Z" creationid="Elisabetta Manuele" creationdate="20180403T172034Z">
+        <seg>&lt;f0&gt;oppure&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113239Z" creationid="Marina Latini" creationdate="20171213T113239Z">
@@ -30434,6 +30442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163933Z" creationid="Elisabetta Manuele" creationdate="20180403T163933Z">
         <seg>jdbc:hsqldb:file:/home/PercorsoDatabase/NomeDatabase;default_schema=true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jdbc:hsqldb:hsql://192.168.0.20/union;default_schema=true</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172020Z" creationid="Elisabetta Manuele" creationdate="20180403T172020Z">
+        <seg>jdbc:hsqldb:hsql://192.168.0.20/union;default_schema=true&gt;</seg>
       </tuv>
     </tu>
     <tu>
