@@ -8302,6 +8302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Can replace many of the date and time functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101418Z" creationid="Elisabetta Manuele" creationdate="20180403T101418Z">
+        <seg>Può sostituire molte funzioni di data e ora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can you search for dates or numbers with the same search field?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202512Z" creationid="MicrosoftSucks" creationdate="20180327T202512Z">
@@ -13502,6 +13510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the first string is contained in the second one, the offset of the first string is given, otherwise 0 is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101545Z" creationid="Elisabetta Manuele" creationdate="20180403T101545Z">
+        <seg>Se la prima stringa è contenuta nella seconda, viene restituito l'offset della prima stringa, altrimenti 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the foreign key field contains an entry that is not present in the parent table (the table containing the primary key), this is an invalid entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135433Z" creationid="Marco Marega" creationdate="20180228T135433Z">
@@ -18014,6 +18030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>POSITION(&lt;string expression&gt; IN &lt;string expression&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101528Z" creationid="Elisabetta Manuele" creationdate="20180403T101528Z">
+        <seg>POSITION(&lt;string expression&gt; IN &lt;string expression&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>POWER(a,b)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175923Z" creationid="Elisabetta Manuele" creationdate="20180402T175923Z">
@@ -19130,6 +19154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095526Z" creationid="Elisabetta Manuele" creationdate="20180403T095526Z">
         <seg>Riporta la parte dell'anno di una voce data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the year, the month, the day, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101453Z" creationid="Elisabetta Manuele" creationdate="20180403T101453Z">
+        <seg>Riporta l'anno, il mese, il giorno, ecc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28834,6 +28866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211904Z" creationid="Marco Marega" creationdate="20180219T211817Z">
         <seg>per l'orario corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>from a date or date/time value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101510Z" creationid="Elisabetta Manuele" creationdate="20180403T101510Z">
+        <seg>da una data o da un valore di data/ora.</seg>
       </tuv>
     </tu>
     <tu>
