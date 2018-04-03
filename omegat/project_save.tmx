@@ -4254,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NA&lt;/f0&gt; (Not available)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153842Z" creationid="Alessia Mazzarini" creationdate="20180403T153842Z">
+        <seg>&lt;f0&gt;NA&lt;/f0&gt; (Non disponibile)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;NOT NULL:&lt;/f0&gt; The field value cannot be &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213043Z" creationid="Marco Marega" creationdate="20180219T213043Z">
@@ -9594,6 +9602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095158Z" creationid="Marina Latini" creationdate="20171207T095158Z">
         <seg>Decrementare l'indice della tabella per i campi con valore automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153648Z" creationid="Alessia Mazzarini" creationdate="20180403T153648Z">
+        <seg>Messaggio di errore predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19486,6 +19502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Round brackets are allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153632Z" creationid="Alessia Mazzarini" creationdate="20180403T153632Z">
+        <seg>Le parentesi tonde sono consentite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rounds a to b decimal places.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180248Z" creationid="Elisabetta Manuele" creationdate="20180402T180248Z">
@@ -23378,6 +23402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175528Z" creationid="Manuel Frassinetti" creationdate="20171204T175528Z">
         <seg>La seguente ricerca funziona senza inserire i nomi delle tabelle davanti ai nomi dei campi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following relationships are possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153616Z" creationid="Alessia Mazzarini" creationdate="20180403T153616Z">
+        <seg>Sono possibili le seguenti relazioni.</seg>
       </tuv>
     </tu>
     <tu>
