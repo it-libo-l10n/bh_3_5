@@ -8182,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CURRENT_USER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095940Z" creationid="Elisabetta Manuele" creationdate="20180403T095940Z">
+        <seg>CURRENT_USER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CURTIME()</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182911Z" creationid="Elisabetta Manuele" creationdate="20180402T182911Z">
@@ -8914,6 +8922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203907Z" creationid="Marco Marega" creationdate="20171015T203907Z">
         <seg>Campo valuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DATABASE()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095854Z" creationid="Elisabetta Manuele" creationdate="20180403T095854Z">
+        <seg>DATABASE()</seg>
       </tuv>
     </tu>
     <tu>
@@ -12658,6 +12674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221405Z" creationid="Marco Marega" creationdate="20171217T221405Z">
         <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IDENTITY()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100015Z" creationid="Elisabetta Manuele" creationdate="20180403T100015Z">
+        <seg>IDENTITY()</seg>
       </tuv>
     </tu>
     <tu>
@@ -18742,6 +18766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the last value for an autovalue field, which was created in the current connection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100041Z" creationid="Elisabetta Manuele" creationdate="20180403T100041Z">
+        <seg>Restituisce l'ultimo valore di un campo a valore automatico generato nella connessione attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the length of a text string in bytes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181955Z" creationid="Elisabetta Manuele" creationdate="20180402T181955Z">
@@ -18802,6 +18834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095132Z" creationid="Elisabetta Manuele" creationdate="20180403T095132Z">
         <seg>Riporta il mese (compreso tra 1 e 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the name of the database to which this connection belongs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095912Z" creationid="Elisabetta Manuele" creationdate="20180403T095912Z">
+        <seg>Restituisce il nome del database a cui appartiene la connessione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18882,6 +18922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182639Z" creationid="Elisabetta Manuele" creationdate="20180402T182639Z">
         <seg>Restituisce un numero di caratteri (len) del testo s a partire dal carattere in posizione 'start' (1=sinistra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the username of this connection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095936Z" creationid="Elisabetta Manuele" creationdate="20180403T095936Z">
+        <seg>Restituisce il nome utente della connessione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19114,6 +19162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
         <seg>I valori predefiniti in SQL &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;non&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; compaiono &lt;/f3&gt;&lt;f4&gt;quando di modificano le proprietà della tabella.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQL standard function, &lt;f0&gt;s&lt;/f0&gt;ynonym for USER().</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100000Z" creationid="Elisabetta Manuele" creationdate="20180403T100000Z">
+        <seg>Funzione standard SQL, &lt;f0&gt;s&lt;/f0&gt;inonimo di USER().</seg>
       </tuv>
     </tu>
     <tu>
@@ -26842,6 +26898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182808Z" creationid="Elisabetta Manuele" creationdate="20180402T182808Z">
         <seg>UPPER(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USER()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095925Z" creationid="Elisabetta Manuele" creationdate="20180403T095925Z">
+        <seg>USER()</seg>
       </tuv>
     </tu>
     <tu>
