@@ -24422,6 +24422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These functions can lead to problems if a field is empty (NULL).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082200Z" creationid="Alessia Mazzarini" creationdate="20180403T082200Z">
+        <seg>Queste funzioni possono creare problemi nel caso in cui un campo rimanga vuoto (NULL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These must be entered without single quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212126Z" creationid="Marco Marega" creationdate="20180219T212126Z">
@@ -24578,6 +24586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163803Z" creationid="Manuel Frassinetti" creationdate="20171216T163803Z">
         <seg>Sono stati utilizzati nella ricerca precedente per creare raggruppando un record separato per ciascun supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They will apply either to the current group or &lt;f4&gt;to &lt;/f4&gt;the whole report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082122Z" creationid="Alessia Mazzarini" creationdate="20180403T082122Z">
+        <seg>Queste verranno applicate o al gruppo corrente o &lt;f4&gt;all'&lt;/f4&gt;intero raporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27890,6 +27906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180008Z" creationid="Elisabetta Manuele" creationdate="20180307T180008Z">
         <seg>Potete notare sullo sfondo che, se scegliete di modificare il blocco, verrà dapprima proposto un elenco di blocchi indirizzi ampliato </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select in advance the&lt;f0&gt; Sum, Minimum, a&lt;/f0&gt;&lt;f1&gt;nd&lt;/f1&gt;&lt;f2&gt; Maximum&lt;/f2&gt; f&lt;f3&gt;unctions&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082035Z" creationid="Alessia Mazzarini" creationdate="20180403T082035Z">
+        <seg>Potete selzionare in anticipo la&lt;f0&gt; funzione &lt;/f0&gt;&lt;f1&gt;Accumulo, Minimo &lt;/f1&gt;&lt;f2&gt;e&lt;/f2&gt; M&lt;f3&gt;assimo&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
