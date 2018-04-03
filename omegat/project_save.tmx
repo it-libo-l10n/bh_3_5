@@ -13590,6 +13590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the data fields contain special characters (including spaces), the field name must also be enclosed in quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152803Z" creationid="Alessia Mazzarini" creationdate="20180403T152616Z">
+        <seg>Se i campi di dati contengono caratteri speciali (spazi inclusi) anche il nome del campo va inserito tra virgolette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the database has not existed for long, it will often be necessary to make entries into these fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T141826Z" creationid="Marco Marega" creationdate="20171231T141826Z">
@@ -21266,6 +21274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203728Z" creationid="Marco Marega" creationdate="20171015T203728Z">
         <seg>Inserimento di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text entry must always be in double quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152654Z" creationid="Alessia Mazzarini" creationdate="20180403T152654Z">
+        <seg>Il testo va sempre inserito tra Text entry must always be in double quotes.</seg>
       </tuv>
     </tu>
     <tu>
