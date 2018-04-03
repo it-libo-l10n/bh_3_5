@@ -13422,6 +13422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If that does not open it, your database is past saving.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103844Z" creationid="Elisabetta Manuele" creationdate="20180403T103844Z">
+        <seg>Se questo non lo apre, significa che il database è stato salvato in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Count&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; function had been assigned to the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Return_&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;D&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;ate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; instead of the ID, every &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Reader_ID&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; would have '0' media on loan, since &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Return_date&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; is predefined as NULL.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174904Z" creationid="Manuel Frassinetti" creationdate="20171214T174904Z">
@@ -13538,6 +13546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215249Z" creationid="Marco Marega" creationdate="20171029T215249Z">
         <seg>Se il campo non è indicato come apribile, quando il formulario viene caricato appariranno delle frecce di selezione sul lato destro della linea di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the file cannot be opened directly, try renaming it from &lt;s0/&gt;*.odb to *.zip.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103824Z" creationid="Elisabetta Manuele" creationdate="20180403T103824Z">
+        <seg>Se il file non può essere aperto direttamente, provate a modificarne l'estensione da &lt;s0/&gt;*.odb a *.zip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14778,6 +14794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162146Z" creationid="steevie" creationdate="20180216T160902Z">
         <seg>Nel caso appena presentato, quasi tutti gli autori dell'esempio sono utilizzati in qualche relazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the case of *.odb files, we are dealing with a compressed format, a Zip archive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103800Z" creationid="Elisabetta Manuele" creationdate="20180403T103800Z">
+        <seg>Nel caso di file *.odb, si tratta di un formato compresso, cioè un archivio Zip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22558,6 +22582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database file must be decompressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103920Z" creationid="Elisabetta Manuele" creationdate="20180403T103920Z">
+        <seg>Il file di database deve essere decompresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database is found using the file browser and connected to LibreOffice in a similar way as for a simple form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181040Z" creationid="Elisabetta Manuele" creationdate="20180306T181040Z">
@@ -23042,6 +23074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120252Z" creationid="Elisabetta Manuele" creationdate="20180310T120252Z">
         <seg>I campi seguenti sono già stati impostati come chiave primaria: ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following folders will always be seen after opening a database file in an archiving program:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103903Z" creationid="Elisabetta Manuele" creationdate="20180403T103903Z">
+        <seg>Le seguenti cartelle vengono sempre visualizzate dopo l'apertura di un file di database in un programma di archiviazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23794,6 +23834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224622Z" creationid="Marco Marega" creationdate="20180112T224622Z">
         <seg>Più relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important information, as far as the data is concerned, are in the subfolder &lt;f0&gt;database&lt;/f0&gt; in the file&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;data&lt;/f2&gt; and &lt;f3&gt;script&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104033Z" creationid="Elisabetta Manuele" creationdate="20180403T104033Z">
+        <seg>Le informazioni più importanti, per quanto riguarda i dati, si trovano nel &lt;f0&gt;database&lt;/f0&gt; delle sottocartelle all'interno dei fil&lt;f1&gt;e&lt;/f1&gt; di &lt;f2&gt;dati&lt;/f2&gt; e &lt;f3&gt;script&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27498,6 +27546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180642Z" creationid="Elisabetta Manuele" creationdate="20180402T180642Z">
         <seg>Tronca a al b decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try to open the copy with an archiving program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103734Z" creationid="Elisabetta Manuele" creationdate="20180403T103734Z">
+        <seg>Provate ad aprire la copia con un programma di archiviazione.</seg>
       </tuv>
     </tu>
     <tu>
