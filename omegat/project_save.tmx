@@ -17214,6 +17214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next to the date field is a button with &lt;f0&gt;three&lt;/f0&gt; dots whenever a formula can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161030Z" creationid="Alessia Mazzarini" creationdate="20180403T160950Z">
+        <seg>Accanto a Campo di dati, il pulsante con &lt;f0&gt;tre&lt;/f0&gt; puntini permette di inserire le formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next to the field description &lt;f0&gt;Reader_Name&lt;/f0&gt; you can now see &lt;f1&gt;Header&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091302Z" creationid="Alessia Mazzarini" creationdate="20180321T081927Z">
