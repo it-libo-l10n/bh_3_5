@@ -9950,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering &lt;f0&gt;f&lt;/f0&gt;ormulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T151630Z" creationid="Alessia Mazzarini" creationdate="20180403T151630Z">
+        <seg>Inserimento di &lt;f0&gt;f&lt;/f0&gt;ormule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering data into Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162027Z" creationid="Marina Latini" creationdate="20171206T162027Z">
@@ -13834,6 +13842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210815Z" creationid="Marco Marega" creationdate="20171126T210815Z">
         <seg>Se non ci dev'essere un campo predefinito, la voce nella tabella sottostante è &lt;f0&gt;NULL.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If these are not sufficient, user-defined functions can be created using simple calculation steps, which are particularly useful in group footers and summaries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T151437Z" creationid="Alessia Mazzarini" creationdate="20180403T151437Z">
+        <seg>Nel caso in cui queste non fossero sufficienti, è possibile creare delle funzioni definite dall'utente attraverso semplici passaggi di calcoli , particolarmente utili per i piè di pagina e i riepiloghi di gruppo.</seg>
       </tuv>
     </tu>
     <tu>
