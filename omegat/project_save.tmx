@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13206,6 +13206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a different archive is used, it can lead to the internal database suddenly becoming inaccessible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162305Z" creationid="Elisabetta Manuele" creationdate="20180403T161312Z">
+        <seg>un archivio diverso può impedire improvvisamente l'accesso al database interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a graphical control had been included, it would have been given a square field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T212005Z" creationid="Marco Marega" creationdate="20171210T212005Z">
@@ -13382,6 +13390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If external HSQLDB is used, the safest way is through the hsqldb.jar-archive, which is supplied with L&lt;f1&gt;ibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T161335Z" creationid="Elisabetta Manuele" creationdate="20180403T160514Z">
+        <seg>Con un HSQLDB esterno, il metodo più sicuro consiste nel far uso dell'archivio hsqldb.jar fornito con L&lt;f1&gt;ibreOffice&lt;/f1&gt;, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
@@ -13442,6 +13458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T160336Z" creationid="Manuel Frassinetti" creationdate="20171206T160336Z">
         <seg>Se invece volete ordinare prima per &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"data di prestito"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e poi per "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Prestito"."Lettore_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, che può essere fatto se:&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If internal databases can no longer be opened, you must use as your external database the supplied &lt;f0&gt;hsqldb.jar&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162453Z" creationid="Elisabetta Manuele" creationdate="20180403T162453Z">
+        <seg>Se non risulta più possibile aprire i database interni, è necessario utilizzare come database esterno il file &lt;f0&gt;hsqldb.jar&lt;/f0&gt; fornito in dotazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14214,6 +14238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, as described in the following pages, you are using external HSQLDB, there may be a further problem with the *.odb file connected with some L&lt;f0&gt;ibreOffice&lt;/f0&gt; versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T160434Z" creationid="Elisabetta Manuele" creationdate="20180403T160434Z">
+        <seg>Se, come descritto nelle pagine seguenti, vi avvalete di un HSQLDB esterno, potrebbe sorgere un ulteriore problema con il file *.odb connesso ad alcune versioni di L&lt;f0&gt;ibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for example, wares costing more than $150.00 are to be included in a special offer and the price reduced by 10%, this can be carried out as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221849Z" creationid="Marco Marega" creationdate="20180303T221849Z">
@@ -14602,6 +14634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T215103Z" creationid="Marco Marega" creationdate="20171213T215103Z">
         <seg>Inoltre, non avete la possibilità di saltare singole colonne togliendogli il passaggio con il tabulatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, you must extract from the *.odb file the &lt;f1&gt;database&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162523Z" creationid="Elisabetta Manuele" creationdate="20180403T162523Z">
+        <seg>Inoltre è necessario estrarre la cartella del &lt;f1&gt;database&lt;/f1&gt; dal file *.odb. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26722,6 +26762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210026Z" creationid="MicrosoftSucks" creationdate="20180327T210026Z">
         <seg>E' possibile fare cio' con la funzione &lt;f4&gt;'DAYOFYEAR()'&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is because L&lt;f2&gt;ibreOffice&lt;/f2&gt; &lt;f3&gt;3.x &lt;/f3&gt;has difficulty distinguishing between internal and external HSQLDB and produces warnings of an incompatibility between versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162417Z" creationid="Elisabetta Manuele" creationdate="20180403T162417Z">
+        <seg>Questo perché L&lt;f2&gt;ibreOffice&lt;/f2&gt; &lt;f3&gt;3.x &lt;/f3&gt;distingue tra HSQLDB interno ed esterno con una certa difficoltà e genera avvisi di incompatibilità tra le versioni.</seg>
       </tuv>
     </tu>
     <tu>
