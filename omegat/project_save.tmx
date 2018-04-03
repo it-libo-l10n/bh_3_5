@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;db:connection-data&gt;&lt;db:connection-resource xlink:href="jdbc:hsqldb:file:/home/robby/documents/databases/hsqldb_data/Union;default_schema=true"/&gt;&lt;db:login db:user-name="sa" db:is-password-required="false"/&gt;&lt;/db:connection-data&gt;&lt;db:driver-settings db:java-driver-class="org.hsqldb.jdbcDriver"/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165711Z" creationid="Elisabetta Manuele" creationdate="20180403T165711Z">
+        <seg>&lt;db:connection-data&gt;&lt;db:connection-resource xlink:href="jdbc:hsqldb:file:/home/robby/documenti/database/hsqldb_data/Union;default_schema=true"/&gt;&lt;db:login db:nome-utente="sa" db:is-password-required="false"/&gt;&lt;/db:connection-data&gt;&lt;db:driver-settings db:java-driver-class="org.hsqldb.jdbcDriver"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;db:connection-data&gt;&lt;db:connection-resource xlink:href="sdbc:embedded:hsqldb"/&gt;&lt;db:login db:is-password-required="false"/&gt;&lt;/db:connection-data&gt;&lt;db:driver-settings/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165526Z" creationid="Elisabetta Manuele" creationdate="20180403T165526Z">
@@ -6666,6 +6674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192623Z" creationid="Alessia Mazzarini" creationdate="20180323T192623Z">
         <seg>D'altronde, apparirebbe strano se molte notifiche di riconsegna avessero la firma in una pagina diversa.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After changing the code, &lt;f0&gt;content.xml&lt;/f0&gt; must be put back into the *.odb archive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165835Z" creationid="Elisabetta Manuele" creationdate="20180403T165835Z">
+        <seg>Dopo la modifica del codice, il file &lt;f0&gt;content.xml&lt;/f0&gt; deve essere inserito nuovamente nell'archivio *.odb.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14354,6 +14370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T111953Z" creationid="Marina Latini" creationdate="20171213T111953Z">
         <seg>Se lo desiderate, potete visualizzare le icone Galaxy in LibreOffice nel modo seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, as described above, the basic configuration of HSQLDB was not damaged, the username and the optional password must also agree.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165812Z" creationid="Elisabetta Manuele" creationdate="20180403T165812Z">
+        <seg>Se, come descritto sopra, la configurazione di base dell'HSQLDB non è stata danneggiata, devono coincidere anche il nome utente e la password opzionale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22218,6 +22242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154027Z" creationid="Marco Marega" creationdate="20180127T154027Z">
         <seg>Perciò la tabella &lt;f1&gt;Subtitle&lt;/f1&gt; sta in una relazione &lt;f2&gt; n:1 &lt;/f2&gt;con la tabella &lt;f3&gt;Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;database&lt;/f1&gt; directory in the archive is now surplus to requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165906Z" creationid="Elisabetta Manuele" creationdate="20180403T165906Z">
+        <seg>La cartella del &lt;f1&gt;database&lt;/f1&gt; nell'archivio è ora superflua.</seg>
       </tuv>
     </tu>
     <tu>
