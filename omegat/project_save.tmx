@@ -7582,6 +7582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup copies are the simplest way to &lt;f1&gt;return&lt;/f1&gt; to an even halfway current state for your data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103139Z" creationid="Elisabetta Manuele" creationdate="20180403T103139Z">
+        <seg>Le copie di backup sono il metodo più semplice per &lt;f1&gt;ripristinare&lt;/f1&gt; lo stato attuale dei dati anche solo in parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad luck if the primary key has been set to auto-increment, as is commonplace!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155405Z" creationid="steevie" creationdate="20180205T154558Z">
@@ -9368,8 +9376,8 @@
       <tuv lang="EN">
         <seg>Database repair for *.odb files</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102712Z" creationid="Marina Latini" creationdate="20171207T102712Z">
-        <seg>Riparazione del database per i file *.odb</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102905Z" creationid="Marina Latini" creationdate="20171207T102712Z">
+        <seg>Riparare i database per i file *.odb</seg>
       </tuv>
     </tu>
     <tu>
@@ -18622,6 +18630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular backing up of data should be &lt;f0&gt;standard&lt;/f0&gt; practice when using a PC.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102927Z" creationid="Elisabetta Manuele" creationdate="20180403T102927Z">
+        <seg>Il backup regolare dei dati dovrebbe costituire una procedura &lt;f0&gt;comune&lt;/f0&gt; nell'uso di un PC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expressions are described in detail in LibreOffice Help.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T142233Z" creationid="Marco Marega" creationdate="20180303T142233Z">
@@ -19674,6 +19690,110 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102759Z" creationid="Elisabetta Manuele" creationdate="20180403T102759Z">
         <seg>SYSTEM_TABLE_CONSTRAINTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TEXTTABLES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102811Z" creationid="Elisabetta Manuele" creationdate="20180403T102811Z">
+        <seg>SYSTEM_TEXTTABLES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TRIGGERCOLUMNS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102814Z" creationid="Elisabetta Manuele" creationdate="20180403T102814Z">
+        <seg>SYSTEM_TRIGGERCOLUMNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TRIGGERS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102816Z" creationid="Elisabetta Manuele" creationdate="20180403T102816Z">
+        <seg>SYSTEM_TRIGGERS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TYPEINFO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102818Z" creationid="Elisabetta Manuele" creationdate="20180403T102818Z">
+        <seg>SYSTEM_TYPEINFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_UDTATTRIBUTES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102820Z" creationid="Elisabetta Manuele" creationdate="20180403T102820Z">
+        <seg>SYSTEM_UDTATTRIBUTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_UDTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102823Z" creationid="Elisabetta Manuele" creationdate="20180403T102823Z">
+        <seg>SYSTEM_UDTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_USAGE_PRIVILEGES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102825Z" creationid="Elisabetta Manuele" creationdate="20180403T102825Z">
+        <seg>SYSTEM_USAGE_PRIVILEGES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_USERS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102827Z" creationid="Elisabetta Manuele" creationdate="20180403T102827Z">
+        <seg>SYSTEM_USERS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_VERSIONCOLUMNS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102831Z" creationid="Elisabetta Manuele" creationdate="20180403T102831Z">
+        <seg>SYSTEM_VERSIONCOLUMNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_VIEWS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102833Z" creationid="Elisabetta Manuele" creationdate="20180403T102833Z">
+        <seg>SYSTEM_VIEWS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_VIEW_COLUMN_USAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102835Z" creationid="Elisabetta Manuele" creationdate="20180403T102835Z">
+        <seg>SYSTEM_VIEW_COLUMN_USAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_VIEW_ROUTINE_USAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102838Z" creationid="Elisabetta Manuele" creationdate="20180403T102838Z">
+        <seg>SYSTEM_VIEW_ROUTINE_USAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_VIEW_TABLE_USAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102840Z" creationid="Elisabetta Manuele" creationdate="20180403T102840Z">
+        <seg>SYSTEM_VIEW_TABLE_USAGE</seg>
       </tuv>
     </tu>
     <tu>
