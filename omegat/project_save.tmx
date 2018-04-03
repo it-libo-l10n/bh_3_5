@@ -14360,8 +14360,8 @@
       <tuv lang="EN">
         <seg>In contrast to a normal table, it is necessary here to use &lt;f0&gt;INFORMATION_SCHEMA &lt;/f0&gt;&lt;f1&gt;as a &lt;/f1&gt;prefix to &lt;s2/&gt;the appropriate name from the following list:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102557Z" creationid="Elisabetta Manuele" creationdate="20180403T102557Z">
-        <seg>Contrariamente a una tabella normale, in questo caso è necessario anteporre &lt;f0&gt;INFORMATION_SCHEMA&lt;/f0&gt;&lt;f1&gt; al &lt;s2/&gt;nome appropriato dell'elenco seguente:</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102649Z" creationid="Elisabetta Manuele" creationdate="20180403T102557Z">
+        <seg>Contrariamente a una tabella normale, in questo caso è necessario anteporre &lt;f0&gt;INFORMATION_SCHEMA&lt;/f0&gt;&lt;f1&gt; al &lt;/f1&gt; &lt;s2/&gt;nome appropriato dell'elenco seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19458,6 +19458,222 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182622Z" creationid="Elisabetta Manuele" creationdate="20180402T182622Z">
         <seg>SUBSTRING(s,start[,len])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_ALIASES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102658Z" creationid="Elisabetta Manuele" creationdate="20180403T102658Z">
+        <seg>SYSTEM_ALIASES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_ALLTYPEINFO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102702Z" creationid="Elisabetta Manuele" creationdate="20180403T102702Z">
+        <seg>SYSTEM_ALLTYPEINFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_BESTROWIDENTIFIER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102705Z" creationid="Elisabetta Manuele" creationdate="20180403T102705Z">
+        <seg>SYSTEM_BESTROWIDENTIFIER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CACHEINFO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102707Z" creationid="Elisabetta Manuele" creationdate="20180403T102707Z">
+        <seg>SYSTEM_CACHEINFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CATALOGS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102709Z" creationid="Elisabetta Manuele" creationdate="20180403T102709Z">
+        <seg>SYSTEM_CATALOGS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CHECK_COLUMN_USAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102711Z" creationid="Elisabetta Manuele" creationdate="20180403T102711Z">
+        <seg>SYSTEM_CHECK_COLUMN_USAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CHECK_CONSTRAINTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102713Z" creationid="Elisabetta Manuele" creationdate="20180403T102713Z">
+        <seg>SYSTEM_CHECK_CONSTRAINTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CHECK_ROUTINE_USAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102716Z" creationid="Elisabetta Manuele" creationdate="20180403T102716Z">
+        <seg>SYSTEM_CHECK_ROUTINE_USAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CHECK_TABLE_USAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102718Z" creationid="Elisabetta Manuele" creationdate="20180403T102718Z">
+        <seg>SYSTEM_CHECK_TABLE_USAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CLASSPRIVILEGES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102720Z" creationid="Elisabetta Manuele" creationdate="20180403T102720Z">
+        <seg>SYSTEM_CLASSPRIVILEGES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_COLUMNPRIVILEGES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102722Z" creationid="Elisabetta Manuele" creationdate="20180403T102722Z">
+        <seg>SYSTEM_COLUMNPRIVILEGES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_COLUMNS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102724Z" creationid="Elisabetta Manuele" creationdate="20180403T102724Z">
+        <seg>SYSTEM_COLUMNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_CROSSREFERENCE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102726Z" creationid="Elisabetta Manuele" creationdate="20180403T102726Z">
+        <seg>SYSTEM_CROSSREFERENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_INDEXINFO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102728Z" creationid="Elisabetta Manuele" creationdate="20180403T102728Z">
+        <seg>SYSTEM_INDEXINFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_PRIMARYKEYS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102730Z" creationid="Elisabetta Manuele" creationdate="20180403T102730Z">
+        <seg>SYSTEM_PRIMARYKEYS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_PROCEDURECOLUMNS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102732Z" creationid="Elisabetta Manuele" creationdate="20180403T102732Z">
+        <seg>SYSTEM_PROCEDURECOLUMNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_PROCEDURES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102734Z" creationid="Elisabetta Manuele" creationdate="20180403T102734Z">
+        <seg>SYSTEM_PROCEDURES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_PROPERTIES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102736Z" creationid="Elisabetta Manuele" creationdate="20180403T102736Z">
+        <seg>SYSTEM_PROPERTIES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_SCHEMAS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102739Z" creationid="Elisabetta Manuele" creationdate="20180403T102739Z">
+        <seg>SYSTEM_SCHEMAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_SEQUENCES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102741Z" creationid="Elisabetta Manuele" creationdate="20180403T102741Z">
+        <seg>SYSTEM_SEQUENCES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_SESSIONINFO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102743Z" creationid="Elisabetta Manuele" creationdate="20180403T102743Z">
+        <seg>SYSTEM_SESSIONINFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_SESSIONS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102745Z" creationid="Elisabetta Manuele" creationdate="20180403T102745Z">
+        <seg>SYSTEM_SESSIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_SUPERTABLES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102747Z" creationid="Elisabetta Manuele" creationdate="20180403T102747Z">
+        <seg>SYSTEM_SUPERTABLES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_SUPERTYPES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102749Z" creationid="Elisabetta Manuele" creationdate="20180403T102749Z">
+        <seg>SYSTEM_SUPERTYPES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TABLEPRIVILEGES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102751Z" creationid="Elisabetta Manuele" creationdate="20180403T102751Z">
+        <seg>SYSTEM_TABLEPRIVILEGES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TABLETYPES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102757Z" creationid="Elisabetta Manuele" creationdate="20180403T102757Z">
+        <seg>SYSTEM_TABLETYPES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYSTEM_TABLE_CONSTRAINTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102759Z" creationid="Elisabetta Manuele" creationdate="20180403T102759Z">
+        <seg>SYSTEM_TABLE_CONSTRAINTS</seg>
       </tuv>
     </tu>
     <tu>
