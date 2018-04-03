@@ -20510,6 +20510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SYSTEM_TABLES</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T173128Z" creationid="Elisabetta Manuele" creationdate="20180403T173128Z">
+        <seg>SYSTEM_TABLES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SYSTEM_TABLETYPES</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102757Z" creationid="Elisabetta Manuele" creationdate="20180403T102757Z">
