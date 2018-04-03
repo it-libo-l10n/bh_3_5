@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;For empty fields, no calculation is carried out and the result is always 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082854Z" creationid="Alessia Mazzarini" creationdate="20180403T082854Z">
+        <seg>&lt;/f5&gt;Per i campi vuoti, non viene eseguito nessun calcolo e il risultato è sempre 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f67&gt;&lt;f68&gt;Furthermore, they produce a summary of the field content to which they are applied.&lt;/f68&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T163231Z" creationid="manuel" creationdate="20180301T163231Z">
@@ -14314,6 +14322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T224249Z" creationid="Marco Marega" creationdate="20180228T224249Z">
         <seg>In tali casi, un formulario è utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In such fields, if they have been formatted as numbers, "&lt;f5&gt;NaN" appears; that is, there is no numerical value present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082810Z" creationid="Alessia Mazzarini" creationdate="20180403T082810Z">
+        <seg>Se sono stati formattati come numeri, in questi campi appare "&lt;f5&gt;NaN"; ossia, senza nessun valore numerio presente.</seg>
       </tuv>
     </tu>
     <tu>
