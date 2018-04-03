@@ -12774,6 +12774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However there are far fewer &lt;f0&gt;functions&lt;/f0&gt; than in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161240Z" creationid="Alessia Mazzarini" creationdate="20180403T161240Z">
+        <seg>Sono però disponibili molte meno &lt;f0&gt;funzioni&lt;/f0&gt; rispetto a Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However there are still details that can be improved:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T212459Z" creationid="Marco Marega" creationdate="20171217T212459Z">
@@ -16826,6 +16834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094950Z" creationid="Marina Latini" creationdate="20171207T094950Z">
         <seg>Effettuare un collegamento a un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many functions do have Calc equivalents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161309Z" creationid="Alessia Mazzarini" creationdate="20180403T161309Z">
+        <seg>Molte funzioni hanno invece un equivalente in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26106,6 +26122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175404Z" creationid="Marco Marega" creationdate="20171226T175404Z">
         <seg>Questo pulsante in realtà fa parte del formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button starts the Function Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161117Z" creationid="Alessia Mazzarini" creationdate="20180403T161117Z">
+        <seg>Questo pulsante apre la Creazione guidata funzione.</seg>
       </tuv>
     </tu>
     <tu>
