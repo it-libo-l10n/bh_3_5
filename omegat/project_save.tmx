@@ -6486,6 +6486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the database name to the resultant filenames:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165259Z" creationid="Elisabetta Manuele" creationdate="20180403T165259Z">
+        <seg>Aggiungete il nome del database ai nomi dei file risultanti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding &lt;f0&gt;g&lt;/f0&gt;roups of &lt;f1&gt;f&lt;/f1&gt;ields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T205113Z" creationid="Marco Marega" creationdate="20171210T205113Z">
@@ -9042,6 +9050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182031Z" creationid="Elisabetta Manuele" creationdate="20180402T182031Z">
         <seg>Converte in esadecimali, il contrario di HEXTORAW().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the contents into an arbitrary directory as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165232Z" creationid="Elisabetta Manuele" creationdate="20180403T165232Z">
+        <seg>Copiate il contenuto in una cartella a scelta come descritto sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11946,6 +11962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150838Z" creationid="Alessia Mazzarini" creationdate="20180328T150838Z">
         <seg>Dalla versione 3.5, L&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ibre&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;O&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;ffice&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; non può più aprire questi rapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From a copy of the existing database, extract the &lt;f0&gt;database&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165206Z" creationid="Elisabetta Manuele" creationdate="20180403T165206Z">
+        <seg>Estraete la cartella del database da una copia del &lt;f0&gt;database&lt;/f0&gt; esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15902,6 +15926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internal HSQL databases have the disadvantage that data storage involves a compressed archive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165017Z" creationid="Elisabetta Manuele" creationdate="20180403T165017Z">
+        <seg>I database HSQL interni presentano lo svantaggio che la memorizzazione dei dati richiede un archivio compresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internal HSQLDB is indistinguishable from the external variant.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162851Z" creationid="Elisabetta Manuele" creationdate="20180403T162851Z">
@@ -18186,6 +18218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T170542Z" creationid="Manuel Frassinetti" creationdate="20171202T165135Z">
         <seg>Solo se questa chiave primaria è incorporata, la ricerca diventa nuovamente modificabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only on compression are all the data finally written.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165033Z" creationid="Elisabetta Manuele" creationdate="20180403T165033Z">
+        <seg>Solo con la compressione tutti i dati vengono scritti in forma definitiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23726,6 +23766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following section shows the steps necessary to successfully change an existing database from an *.odb archive to an external version in HSQL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165120Z" creationid="Elisabetta Manuele" creationdate="20180403T165120Z">
+        <seg>La sezione seguente illustra i passi necessari per modificare con successo un database esistente da archivio *.odb a versione esterna in HSQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following table controls are all subordinated as individual side forms to the main form, the entry form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T142222Z" creationid="Marco Marega" creationdate="20171231T142222Z">
@@ -26498,6 +26546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200156Z" creationid="Marco Marega" creationdate="20171017T200156Z">
         <seg>Può portare allo stesso tipo di interazione quando la gestione dell'evento provoca la sua ripetizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can more easily lead to data loss than when working with an external database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165052Z" creationid="Elisabetta Manuele" creationdate="20180403T165052Z">
+        <seg>Questo può condurre più facilmente alla perdita di dati rispetto a una gestione esterna del database.</seg>
       </tuv>
     </tu>
     <tu>
