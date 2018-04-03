@@ -8648,8 +8648,8 @@
       <tuv lang="EN">
         <seg>Changing the database connection for multi-user access</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102936Z" creationid="Marina Latini" creationdate="20171207T102936Z">
-        <seg>Modificare la connessione al database per un accesso multi utente</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170006Z" creationid="Marina Latini" creationdate="20171207T102936Z">
+        <seg>Modificare una connessione al database per un accesso multiutente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11254,6 +11254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For OpenSuSE, it is only necessary to download the appropriate package and to start the server centrally using YAST &lt;s0/&gt;(runlevel setting).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170115Z" creationid="Elisabetta Manuele" creationdate="20180403T170115Z">
+        <seg>Per OpenSuSE, è sufficiente scaricare il pacchetto appropriato e avviare il server centralmente tramite YAST &lt;s0/&gt;(impostazioni runlevel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a better view, all unnecessary toolbars have been removed from the window, which has also been compressed so that not all elements of the &lt;f4&gt;N&lt;/f4&gt;avigation bar are visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T210915Z" creationid="Marco Marega" creationdate="20171210T210915Z">
@@ -11554,6 +11562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T215906Z" creationid="Marco Marega" creationdate="20171217T215906Z">
         <seg>Per le librerie, questo vale allo stesso modo per le cancellazioni o per modifiche complete del nominativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For multi-user access, HSQLDB must be made available over a server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170029Z" creationid="Elisabetta Manuele" creationdate="20180403T170029Z">
+        <seg>Per consentire un accesso multiutente, l'HSQLDB deve essere reso disponibile su un server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12826,6 +12842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142323Z" creationid="Marina Latini" creationdate="20171213T142323Z">
         <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How the installation of the server is carried out varies depending on your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170044Z" creationid="Elisabetta Manuele" creationdate="20180403T170044Z">
+        <seg>Le modalità di installazione del server variano a seconda del sistema operativo in uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15426,6 +15450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T135808Z" creationid="Alessia Mazzarini" creationdate="20180328T135808Z">
         <seg>Nelle proprietà generali, in aggiunta ai campi già familiari, &lt;f2&gt;potete &lt;/f2&gt;sceglier&lt;f3&gt;e&lt;/f3&gt; un &lt;f4&gt;Tipo di grafico&lt;/f4&gt; (vedete i corrispondenti tipi in Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the home directory on the server (in SuSE, &lt;f0&gt;/var/lib/hsqldb&lt;/f0&gt;), you will find, among other things, a directory called &lt;f1&gt;data&lt;/f1&gt;, in which the database is to be filed, and a file called &lt;f2&gt;server.properties&lt;/f2&gt;, which controls the access to the databases in this directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170301Z" creationid="Elisabetta Manuele" creationdate="20180403T170301Z">
+        <seg>Nella cartella home del server (in SuSE, &lt;f0&gt;/var/lib/hsqldb&lt;/f0&gt;), si trova, tra l'altro, una cartella denominata &lt;f1&gt;dati&lt;/f1&gt;, in cui deve essere archiviato il database, e un file chiamato &lt;f2&gt;server.properties&lt;/f2&gt;, che controlla l'accesso ai database presenti in questa cartella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23206,6 +23238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data will in the future be accessed through the external database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165920Z" creationid="Elisabetta Manuele" creationdate="20180403T165920Z">
+        <seg>In futuro i dati saranno accessibili attraverso il database esterno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database does not allow this, once the relationship has been created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214947Z" creationid="Marco Marega" creationdate="20180227T214947Z">
@@ -28754,6 +28794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193716Z" creationid="Elisabetta Manuele" creationdate="20180308T193716Z">
         <seg>Gli utenti devono comunque installare Base e formulari in modo che presentino una identica struttura di cartelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users of other operating systems and other Linux distributions can &lt;f1&gt;lik&lt;/f1&gt;ely find suitable advice on the Internet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170145Z" creationid="Elisabetta Manuele" creationdate="20180403T170145Z">
+        <seg>Gli utenti di altri sistemi operativi e di altre distribuzioni Linux possono &lt;f1&gt;eve&lt;/f1&gt;ntualmente trovare validi consigli in Internet.</seg>
       </tuv>
     </tu>
     <tu>
