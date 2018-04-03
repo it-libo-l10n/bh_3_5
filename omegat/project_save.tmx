@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp; (concatenate text),</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153543Z" creationid="Alessia Mazzarini" creationdate="20180403T153543Z">
+        <seg>&amp; (concatenazione del testo),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'str1'||'str2'||'str3' or 'str1'+'str2'+'str3'</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180857Z" creationid="Elisabetta Manuele" creationdate="20180402T180857Z">
@@ -168,8 +176,8 @@
       <tuv lang="EN">
         <seg>* (Multiplication), &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153119Z" creationid="Alessia Mazzarini" creationdate="20180403T153119Z">
-        <seg>* (Multiplicazione), &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153401Z" creationid="Alessia Mazzarini" creationdate="20180403T153119Z">
+        <seg>* (moltiplicazione), &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +192,8 @@
       <tuv lang="EN">
         <seg>/ (Division), &lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153134Z" creationid="Alessia Mazzarini" creationdate="20180403T153134Z">
-        <seg>/ (Divisione), &lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153348Z" creationid="Alessia Mazzarini" creationdate="20180403T153134Z">
+        <seg>/ (divisione), &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29546,6 +29554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150456Z" creationid="manuel" creationdate="20180224T150456Z">
         <seg>[{LIMIT &lt;spostamento&gt; &lt;limite&gt; | TOP &lt;limite&gt;}]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>^ (Raise to the power of the following number), &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153343Z" creationid="Alessia Mazzarini" creationdate="20180403T153343Z">
+        <seg>^ (eleva a potenza il numero successivo), &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
