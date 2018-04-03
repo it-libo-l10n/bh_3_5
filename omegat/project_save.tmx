@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Except for IDENTITY(), which has no meaning in Base, all these can be carried out using &lt;/f0&gt;&lt;f1&gt;Direct &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;SQL Command&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095848Z" creationid="Elisabetta Manuele" creationdate="20180403T095848Z">
+        <seg>&lt;f0&gt;A eccezione di IDENTITY, priva di significato in Base, tutte queste funzioni si possono eseguire tramite il &lt;/f0&gt;&lt;f1&gt;comando &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;SQL diretto&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Execute action&lt;/f0&gt;: If a value is chosen by the keyboard &lt;f1&gt;or the mouse&lt;/f1&gt;, the list box executes &lt;f2&gt;this action&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213705Z" creationid="Marco Marega" creationdate="20171101T213705Z">
@@ -4474,6 +4482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T184624Z" creationid="Marco Marega" creationdate="20171014T184503Z">
         <seg>&lt;f0&gt;Codifica all'invio&lt;/f0&gt;: &lt;f1&gt;in aggiunta&lt;/f1&gt; alla normale codifica dei caratteri per la trasmissione all'URL, qui potete specificare la codifica di tipo Testo o Multipart (ad esempio per il trasferimento dei dati&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Synonym for CURDATE(), SQL-Standard, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Base gives the message: Access is denied.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095631Z" creationid="Elisabetta Manuele" creationdate="20180403T095555Z">
+        <seg>&lt;f0&gt;Sinonimo di CURDATE(), SQL-Standard, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Base restituisce il messaggio: Accesso negato.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8138,6 +8154,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182838Z" creationid="Elisabetta Manuele" creationdate="20180402T182838Z">
         <seg>CURDATE()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CURRENT_DATE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095530Z" creationid="Elisabetta Manuele" creationdate="20180403T095530Z">
+        <seg>CURRENT_DATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CURRENT_TIME</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095638Z" creationid="Elisabetta Manuele" creationdate="20180403T095638Z">
+        <seg>CURRENT_TIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CURRENT_TIMESTAMP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095657Z" creationid="Elisabetta Manuele" creationdate="20180403T095657Z">
+        <seg>CURRENT_TIMESTAMP</seg>
       </tuv>
     </tu>
     <tu>
@@ -18862,6 +18902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the year part of a date entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095526Z" creationid="Elisabetta Manuele" creationdate="20180403T095526Z">
+        <seg>Riporta la parte dell'anno di una voce data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113029Z" creationid="Marina Latini" creationdate="20171213T113029Z">
@@ -20102,10 +20150,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synonym for CURTIME(), SQL-Standard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095649Z" creationid="Elisabetta Manuele" creationdate="20180403T095649Z">
+        <seg>Sinonimo di CURTIME(), SQL-Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synonym for DAY()</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183258Z" creationid="Elisabetta Manuele" creationdate="20180402T183258Z">
         <seg>Sinonimo di DAY()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synonym for NOW(), SQL-Standard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095714Z" creationid="Elisabetta Manuele" creationdate="20180403T095714Z">
+        <seg>Sinonimo di NOW(), SQL-Standard.</seg>
       </tuv>
     </tu>
     <tu>
