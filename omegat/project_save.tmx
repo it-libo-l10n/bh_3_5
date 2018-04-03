@@ -14328,8 +14328,8 @@
       <tuv lang="EN">
         <seg>In such fields, if they have been formatted as numbers, "&lt;f5&gt;NaN" appears; that is, there is no numerical value present.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082810Z" creationid="Alessia Mazzarini" creationdate="20180403T082810Z">
-        <seg>Se sono stati formattati come numeri, in questi campi appare "&lt;f5&gt;NaN"; ossia, senza nessun valore numerio presente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083056Z" creationid="Alessia Mazzarini" creationdate="20180403T082810Z">
+        <seg>Se sono stati formattati come numeri, in questi campi appare "&lt;f5&gt;NaN"; ossia, senza nessun valore numerico presente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15690,6 +15690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193912Z" creationid="Marco Marega" creationdate="20171210T193616Z">
         <seg>Ciò renderebbe difficile trovare i singoli elementi utilizzando il &lt;f1&gt;Navigatore&lt;/f1&gt; del &lt;f2&gt;Formulario&lt;/f2&gt; e renderebbe impossibile la gestione del formulario attraverso l'uso dei nomi dei controlli all'interno delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would seem simpler to formulate the underlying query for the report so that 0 is given instead of NULL for numeric fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083337Z" creationid="Alessia Mazzarini" creationdate="20180403T083337Z">
+        <seg>Sarebbe più semplice formulare l'interrogazione sottostante in modo che invece di NULL appaia 0 nei campi numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19850,6 +19858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175151Z" creationid="Alessia Mazzarini" creationdate="20180316T174329Z">
         <seg>Si potrà accedere a tali dati solamente attraverso il navigatore rapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such fields can be reformatted to display a value of 0 by using the following formula in the Data area of the view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083017Z" creationid="Alessia Mazzarini" creationdate="20180403T083017Z">
+        <seg>Tali campi possono essere formattati in modo da presentare un valore 0 usando la seguente formula nella visualizzazione dell'area Dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24608,8 +24624,8 @@
       <tuv lang="EN">
         <seg>They will apply either to the current group or &lt;f4&gt;to &lt;/f4&gt;the whole report.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082122Z" creationid="Alessia Mazzarini" creationdate="20180403T082122Z">
-        <seg>Queste verranno applicate o al gruppo corrente o &lt;f4&gt;all'&lt;/f4&gt;intero raporto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083114Z" creationid="Alessia Mazzarini" creationdate="20180403T082122Z">
+        <seg>Queste verranno applicate o al gruppo corrente o &lt;f4&gt;all'&lt;/f4&gt;intero rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25186,6 +25202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164223Z" creationid="Marina Latini" creationdate="20171207T164223Z">
         <seg>Questo forum fornisce supporto da parte della comunità per LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function calculates with the actual value of a field that has no value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083216Z" creationid="Alessia Mazzarini" creationdate="20180403T083216Z">
+        <seg>Questa funzione calcola il valore reale di un campo che non contiene un valore.</seg>
       </tuv>
     </tu>
     <tu>
