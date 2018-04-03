@@ -9582,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date and Time Functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161944Z" creationid="Alessia Mazzarini" creationdate="20180403T161944Z">
+        <seg>Funzioni Data e ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date difference between two dates- compares date/time values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183001Z" creationid="Elisabetta Manuele" creationdate="20180402T183001Z">
@@ -11878,6 +11886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161910Z" creationid="Alessia Mazzarini" creationdate="20180403T161910Z">
+        <seg>Funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions are used for calculations such as sums.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T182656Z" creationid="Alessia Mazzarini" creationdate="20180316T181037Z">
@@ -12906,6 +12922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160149Z" creationid="steevie" creationdate="20180206T080303Z">
         <seg>Tuttavia, non è evidente durante il normale utilizzo che questo record di dati non sia più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, only entries with double quotes are processed when starting the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161833Z" creationid="Alessia Mazzarini" creationdate="20180403T161718Z">
+        <seg>Tuttavia, quando si avvia la funzione, solo le voci tra virgolette doppie vengono elaborate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23410,6 +23434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103903Z" creationid="Elisabetta Manuele" creationdate="20180403T103903Z">
         <seg>Le seguenti cartelle vengono sempre visualizzate dopo l'apertura di un file di database in un programma di archiviazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following functions are available:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161850Z" creationid="Alessia Mazzarini" creationdate="20180403T161850Z">
+        <seg>Sono disponibili le seguenti funzioni:</seg>
       </tuv>
     </tu>
     <tu>
