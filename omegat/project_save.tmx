@@ -14110,6 +14110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a query, individual pieces of information and all the fields that belong can be provided in the following way:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102013Z" creationid="Elisabetta Manuele" creationdate="20180403T102013Z">
+        <seg>In una query, le singole informazioni e tutti i campi che ne fanno parte possono essere forniti nel modo seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition different functions are available for the field &lt;/f0&gt;&lt;f1&gt;shown&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154635Z" creationid="manuel" creationdate="20180301T154635Z">
@@ -14346,6 +14354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210648Z" creationid="Marco Marega" creationdate="20180202T210648Z">
         <seg>Nel caso abbiate la necessità di ritrovare retroattivamente chi aveva preso in prestito un libro (ad esempio, perché qualcuno durante il prestito segnala che il libro è danneggiato, oppure perché desiderate redigere una lista dei supporti più popolari), nel record del prestito, la data iniziale &lt;f2&gt;(Loan_Date)&lt;/f2&gt; non viene cancellata durante la procedura di reso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In contrast to a normal table, it is necessary here to use &lt;f0&gt;INFORMATION_SCHEMA &lt;/f0&gt;&lt;f1&gt;as a &lt;/f1&gt;prefix to &lt;s2/&gt;the appropriate name from the following list:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102557Z" creationid="Elisabetta Manuele" creationdate="20180403T102557Z">
+        <seg>Contrariamente a una tabella normale, in questo caso è necessario anteporre &lt;f0&gt;INFORMATION_SCHEMA&lt;/f0&gt;&lt;f1&gt; al &lt;s2/&gt;nome appropriato dell'elenco seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19322,6 +19338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173205Z" creationid="Manuel Frassinetti" creationdate="20180116T173205Z">
         <seg>SELECT * FROM "Tabella_nome" WHERE "Campo_nome" = 'Karl'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT * FROM ″INFORMATION_SCHEMA″.″SYSTEM_ALIASES″</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102029Z" creationid="Elisabetta Manuele" creationdate="20180403T102029Z">
+        <seg>SCELTA * FROM ″INFORMATION_SCHEMA″.″SYSTEM_ALIASES″</seg>
       </tuv>
     </tu>
     <tu>
