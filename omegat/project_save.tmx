@@ -12558,6 +12558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the database name and file begin identically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170955Z" creationid="Elisabetta Manuele" creationdate="20180403T170955Z">
+        <seg>In questo caso il nome del database e il file iniziano allo stesso modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the default option is "female".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210722Z" creationid="Marco Marega" creationdate="20171126T210722Z">
@@ -13154,6 +13162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170935Z" creationid="manuel" creationdate="20180301T170935Z">
         <seg>Tuttavia, questo campo contiene solo 0 o 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I added my own database as &lt;f2&gt;Database 1&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170935Z" creationid="Elisabetta Manuele" creationdate="20180403T170935Z">
+        <seg>È stato aggiunto un database personale, cioè &lt;f2&gt;Database 1&lt;/f2&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25718,6 +25734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two databases are addressed in the following way:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171008Z" creationid="Elisabetta Manuele" creationdate="20180403T171008Z">
+        <seg>I due database presentano il seguente indirizzamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two previously selected tables are listed as Tables &lt;f0&gt;I&lt;/f0&gt;nvolved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161803Z" creationid="Manuel Frassinetti" creationdate="20171218T161803Z">
@@ -30358,6 +30382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jdbc:hsqldb:hsql://localhost/firstdb;default_schema=true&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171111Z" creationid="Elisabetta Manuele" creationdate="20180403T171111Z">
+        <seg>jdbc:hsqldb:hsql://localhost/firstdb;default_schema=true&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>licensing of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114148Z" creationid="Marina Latini" creationdate="20171213T114148Z">
@@ -30554,6 +30586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113340Z" creationid="Marina Latini" creationdate="20171213T113340Z">
         <seg>Parti dell'interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>username sa&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171134Z" creationid="Elisabetta Manuele" creationdate="20180403T171134Z">
+        <seg>username sa&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
