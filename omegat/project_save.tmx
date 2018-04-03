@@ -22046,6 +22046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Report Builder is based on the Pentaho Report Builder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T151858Z" creationid="Alessia Mazzarini" creationdate="20180403T151858Z">
+        <seg>Il Report Builder è basato sul Report Builder di Pentaho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Report Builder provides a lot of additional buttons, so the table &lt;f0&gt;on the next page&lt;/f0&gt; shows the buttons with their descriptions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T215309Z" creationid="Alessia Mazzarini" creationdate="20180315T215309Z">
