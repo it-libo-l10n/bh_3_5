@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Hsqldb Server cfg file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170408Z" creationid="Elisabetta Manuele" creationdate="20180403T170408Z">
+        <seg># File cfg Server Hsqldb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># See the Advanced Topics chapter of the Hsqldb User Guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170431Z" creationid="Elisabetta Manuele" creationdate="20180403T170431Z">
+        <seg># Vd. capitolo Argomenti avanzati della Guida utente di Hsqldb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>% (divide the preceding number by 100), &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153156Z" creationid="Alessia Mazzarini" creationdate="20180403T153156Z">
@@ -16110,6 +16126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It controls access to two databases, nam&lt;f0&gt;e&lt;/f0&gt;ly the original default database (which can be used as a new database) and the database that was extracted from the *.odb file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170353Z" creationid="Elisabetta Manuele" creationdate="20180403T170353Z">
+        <seg>Esso controlla l'accesso a due database, ovv&lt;f0&gt;e&lt;/f0&gt;ro il database predefinito originale (utilizzabile come nuovo database) e il database estratto dal file *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It could also be a click on the drop-down button of the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T214108Z" creationid="Marco Marega" creationdate="20171101T214108Z">
@@ -23782,6 +23806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following lines reproduce the complete contents of this file on my computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170319Z" creationid="Elisabetta Manuele" creationdate="20180403T170319Z">
+        <seg>Le righe seguenti riproducono l'intero contenuto di questo file nel computer in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following macro can control through a listbox which listboxes must be saved and which must be read in again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215234Z" creationid="Marco Marega" creationdate="20180327T215234Z">
@@ -30394,6 +30426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201348Z" creationid="MicrosoftSucks" creationdate="20180327T201348Z">
         <seg>o ancora meglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.database.0 &lt;s0/&gt;file:data/db0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170511Z" creationid="Elisabetta Manuele" creationdate="20180403T170511Z">
+        <seg>&lt;s0/&gt;file server.database.0: data/db0</seg>
       </tuv>
     </tu>
     <tu>
