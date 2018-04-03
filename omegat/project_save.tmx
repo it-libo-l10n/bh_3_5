@@ -23270,6 +23270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database 0 is addressed with the name &lt;f0&gt;firstdb&lt;/f0&gt;, although the individual files in the data directory begin with &lt;f1&gt;db0&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170851Z" creationid="Elisabetta Manuele" creationdate="20180403T170851Z">
+        <seg>Il database 0 viene indirizzato con il nome &lt;f0&gt;firstdb&lt;/f0&gt;, anche se i singoli file nella cartella dati iniziano con &lt;f1&gt;db0&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database does not allow this, once the relationship has been created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214947Z" creationid="Marco Marega" creationdate="20180227T214947Z">
@@ -30434,6 +30442,78 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170511Z" creationid="Elisabetta Manuele" creationdate="20180403T170511Z">
         <seg>&lt;s0/&gt;file server.database.0: data/db0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.database.1 &lt;s0/&gt;file:data/union</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170609Z" creationid="Elisabetta Manuele" creationdate="20180403T170609Z">
+        <seg>&lt;s0/&gt;file server.database.1: data/union</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.dbname.0 &lt;s0/&gt;firstdb</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170531Z" creationid="Elisabetta Manuele" creationdate="20180403T170531Z">
+        <seg>server.dbname.0 &lt;s0/&gt;firstdb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.dbname.1 &lt;s0/&gt;union</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170649Z" creationid="Elisabetta Manuele" creationdate="20180403T170649Z">
+        <seg>server.dbname.1 &lt;s0/&gt;union</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.no_system_exit &lt;s0/&gt;true</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170811Z" creationid="Elisabetta Manuele" creationdate="20180403T170811Z">
+        <seg>server.no_system_exit &lt;s0/&gt;true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.port &lt;s0/&gt;9001</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170758Z" creationid="Elisabetta Manuele" creationdate="20180403T170758Z">
+        <seg>server.port &lt;s0/&gt;9001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.silent &lt;s0/&gt;true</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170731Z" creationid="Elisabetta Manuele" creationdate="20180403T170731Z">
+        <seg>server.silent &lt;s0/&gt;true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.trace &lt;s0/&gt;false</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170741Z" creationid="Elisabetta Manuele" creationdate="20180403T170741Z">
+        <seg>server.trace &lt;s0/&gt;false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.urlid.0 &lt;s0/&gt;db0-url</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170546Z" creationid="Elisabetta Manuele" creationdate="20180403T170546Z">
+        <seg>server.urlid.0 &lt;s0/&gt;db0-url</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>server.urlid.1 &lt;s0/&gt;union-url</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170712Z" creationid="Elisabetta Manuele" creationdate="20180403T170712Z">
+        <seg>server.urlid.1 &lt;s0/&gt;union-url</seg>
       </tuv>
     </tu>
     <tu>
