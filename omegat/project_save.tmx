@@ -6806,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively CURRENT_TIMESTAMP can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095230Z" creationid="Elisabetta Manuele" creationdate="20180403T095230Z">
+        <seg>In alternativa è possibile utilizzare CURRENT_TIMESTAMP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively it might be possible to create it, at least partially, using mail merge.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193905Z" creationid="Elisabetta Manuele" creationdate="20180308T193905Z">
@@ -16166,6 +16174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MONTHNAME(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095141Z" creationid="Elisabetta Manuele" creationdate="20180403T095141Z">
+        <seg>MONTHNAME(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113006Z" creationid="Marina Latini" creationdate="20171213T113006Z">
@@ -16562,6 +16578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202504Z" creationid="Marco Marega" creationdate="20180327T202504Z">
         <seg>NEXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NOW()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095157Z" creationid="Elisabetta Manuele" creationdate="20180403T095157Z">
+        <seg>NOW()</seg>
       </tuv>
     </tu>
     <tu>
@@ -17966,6 +17990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QUARTER(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095238Z" creationid="Elisabetta Manuele" creationdate="20180403T095238Z">
+        <seg>QUARTER(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Queries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163642Z" creationid="Marina Latini" creationdate="20171205T163642Z">
@@ -18534,6 +18566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the English name of the month.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095151Z" creationid="Elisabetta Manuele" creationdate="20180403T095151Z">
+        <seg>Riporta il nome inglese del mese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of a number, removing a minus sign where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174524Z" creationid="Elisabetta Manuele" creationdate="20180402T174524Z">
@@ -18586,6 +18626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175057Z" creationid="Elisabetta Manuele" creationdate="20180402T175057Z">
         <seg>Riporta la funzione di cotangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the current date and the current time together as a timestamp.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095217Z" creationid="Elisabetta Manuele" creationdate="20180403T095217Z">
+        <seg>Riporta la data e l'ora correnti come timestamp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,6 +18758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the month (1-12).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095132Z" creationid="Elisabetta Manuele" creationdate="20180403T095132Z">
+        <seg>Riporta il mese (compreso tra 1 e 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the natural logarithm to base e.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175329Z" creationid="Elisabetta Manuele" creationdate="20180402T175329Z">
@@ -18718,10 +18774,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the quarter of the year (1-4).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095257Z" creationid="Elisabetta Manuele" creationdate="20180403T095257Z">
+        <seg>Riporta il trimestre dell'anno (compreso tra 1 e 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the remainder as a whole number, in the division of 2 whole numbers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175736Z" creationid="Elisabetta Manuele" creationdate="20180402T175736Z">
         <seg>Restituisce il resto come un numero intero, nella divisione di 2 numeri interi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the seconds part of the time (0-59).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095329Z" creationid="Elisabetta Manuele" creationdate="20180403T095329Z">
+        <seg>Riporta la frazione in secondi dell'orario dato (tra 0 e 59).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18774,6 +18846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the week of the year (1-53).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095408Z" creationid="Elisabetta Manuele" creationdate="20180403T095408Z">
+        <seg>Riporta la settimana dell'anno (tra 1 e 53).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the weekday as a number (1 represents Sunday).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094604Z" creationid="Elisabetta Manuele" creationdate="20180403T094604Z">
@@ -18794,6 +18874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180248Z" creationid="Elisabetta Manuele" creationdate="20180402T180248Z">
         <seg>Arrotonda a al b decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SECOND(time)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095308Z" creationid="Elisabetta Manuele" creationdate="20180403T095308Z">
+        <seg>SECOND(time)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27190,6 +27278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WEEK(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095336Z" creationid="Elisabetta Manuele" creationdate="20180403T095336Z">
+        <seg>WEEK(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WEND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210149Z" creationid="Marco Marega" creationdate="20180328T210149Z">
@@ -27866,6 +27962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195037Z" creationid="Marco Marega" creationdate="20171125T195037Z">
         <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YEAR(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095449Z" creationid="Elisabetta Manuele" creationdate="20180403T095449Z">
+        <seg>YEAR(date)</seg>
       </tuv>
     </tu>
     <tu>
