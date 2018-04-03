@@ -4934,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The suffix &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;;default_schema=true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to the URL, which is necessary for write access using the graphical user interface of L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt;, is permanently included.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171336Z" creationid="Elisabetta Manuele" creationdate="20180403T171336Z">
+        <seg>&lt;f0&gt;Il suffisso &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;;default_schema=true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in coda all'URL, necessario per l'accesso in scrittura tramite l'interfaccia grafica di L&lt;/f3&gt;&lt;f4&gt;ibreOffice&lt;/f4&gt;&lt;f5&gt;, è incluso in modo permanente.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The table for the search content may be the same one that already contains the filter values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T184754Z" creationid="MicrosoftSucks" creationdate="20180316T184754Z">
@@ -14294,6 +14302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you actually need to work on the server, you will want to consider if the database needs to be password-protected for security reasons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171357Z" creationid="Elisabetta Manuele" creationdate="20180403T171357Z">
+        <seg>Se avete effettivamente necessità di operare sul server, è consigliabile prendere in considerazione un'eventuale protezione del database tramite password per motivi di sicurezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are working not just with a form but with subforms and ancillary forms, you must be careful that this insertable navigation bar does not disappear as you switch forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T225124Z" creationid="Marco Marega" creationdate="20171205T225124Z">
@@ -17898,6 +17914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145155Z" creationid="manuel" creationdate="20180224T145155Z">
         <seg>Adesso quando fate clic su l'icona &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Esegui&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, La ricerca esegue direttamente il comandi SQL.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you can connect to the server using L&lt;f0&gt;ibreOffice.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171420Z" creationid="Elisabetta Manuele" creationdate="20180403T171420Z">
+        <seg>A questo punto è possibile connettersi al server tramite L&lt;f0&gt;ibreOffice.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29678,6 +29702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With this access data, the server can be loaded on its own computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171436Z" creationid="Elisabetta Manuele" creationdate="20180403T171436Z">
+        <seg>Con questi dati di accesso, il server può essere caricato sul computer in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With two columns, you can have 16*16=256 possible values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213505Z" creationid="Marco Marega" creationdate="20180219T213505Z">
@@ -30390,6 +30422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jdbc:hsqldb:hsql://localhost/union;default_schema=true&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171211Z" creationid="Elisabetta Manuele" creationdate="20180403T171211Z">
+        <seg>jdbc:hsqldb:hsql://localhost/union;default_schema=true&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>licensing of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114148Z" creationid="Marina Latini" creationdate="20171213T114148Z">
@@ -30466,6 +30506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201348Z" creationid="MicrosoftSucks" creationdate="20180327T201348Z">
         <seg>o ancora meglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171147Z" creationid="Elisabetta Manuele" creationdate="20180403T171147Z">
+        <seg>password</seg>
       </tuv>
     </tu>
     <tu>
