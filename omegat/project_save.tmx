@@ -5246,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;F&lt;/f1&gt;or instance, text entries are not taken up with double quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161609Z" creationid="Alessia Mazzarini" creationdate="20180403T161609Z">
+        <seg>&lt;f1&gt;A&lt;/f1&gt;d esempio, le voci di testo non vengono inserite tra virgolette doppie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;However,&lt;/f1&gt; a time field &lt;f2&gt;that&lt;/f2&gt; is a mixture of text and numbers cannot interact with the search results – unless the query is broadened, so that a single search term is subdivided across all the &lt;f3&gt;spaces between the text and numbers&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204930Z" creationid="MicrosoftSucks" creationdate="20180327T204930Z">
@@ -22078,6 +22086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Function Wizard does not always &lt;f0&gt;work&lt;/f0&gt; perfectly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161517Z" creationid="Alessia Mazzarini" creationdate="20180403T161517Z">
+        <seg>La creazione guidata non &lt;f0&gt;funziona&lt;/f0&gt; sempre alla perfezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GUI displays a certain value visibly, which is saved with the data.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214231Z" creationid="Marco Marega" creationdate="20180204T214231Z">
@@ -25570,6 +25586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220558Z" creationid="Marco Marega" creationdate="20171229T220558Z">
         <seg>Dev'essere un modo per poter semplificare questo aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There the Wizard calculates the result of the function directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161436Z" creationid="Alessia Mazzarini" creationdate="20180403T161436Z">
+        <seg>Il risultato della funzione viene calcolato direttamente all'interno della creazione guidata.</seg>
       </tuv>
     </tu>
     <tu>
