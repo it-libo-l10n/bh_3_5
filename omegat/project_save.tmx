@@ -6822,6 +6822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively CASE WHEN can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100741Z" creationid="Elisabetta Manuele" creationdate="20180403T100741Z">
+        <seg>In alternativa è possibile utilizzare CASE WHEN </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively CURRENT_TIMESTAMP can be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095230Z" creationid="Elisabetta Manuele" creationdate="20180403T095230Z">
@@ -8070,6 +8078,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CASE WHEN works better with the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100757Z" creationid="Elisabetta Manuele" creationdate="20180403T100757Z">
+        <seg>che si adatta meglio all'interfaccia grafica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CASEWHEN(exp,v1,v2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100640Z" creationid="Elisabetta Manuele" creationdate="20180403T100640Z">
+        <seg>CASEWHEN(exp,v1,v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CAST(term AS type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100850Z" creationid="Elisabetta Manuele" creationdate="20180403T100850Z">
+        <seg>CAST(term AS type)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CEILING(d)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174956Z" creationid="Elisabetta Manuele" creationdate="20180402T174956Z">
@@ -8118,10 +8150,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COALESCE(expr1,expr2,expr3,...)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100911Z" creationid="Elisabetta Manuele" creationdate="20180403T100911Z">
+        <seg>COALESCE(expr1,expr2,expr3,...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CONCAT(str1,str2)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180827Z" creationid="Elisabetta Manuele" creationdate="20180402T180827Z">
         <seg>CONCAT(str1,str2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CONVERT(term,type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100815Z" creationid="Elisabetta Manuele" creationdate="20180403T100815Z">
+        <seg>CONVERT(term,type)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8762,6 +8810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175136Z" creationid="Elisabetta Manuele" creationdate="20180402T175136Z">
         <seg>Converte i radianti in gradi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts term into another data type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100832Z" creationid="Elisabetta Manuele" creationdate="20180403T100832Z">
+        <seg>Converte il termine in un altro tipo di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,6 +13086,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If exp is true, v1 is returned, otherwise v2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100656Z" creationid="Elisabetta Manuele" creationdate="20180403T100656Z">
+        <seg>Se exp è True, viene restituito v1, altrimenti v2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If expr1 is not NULL, returns expr1, otherwise expr2 is checked, then expr3 and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100929Z" creationid="Elisabetta Manuele" creationdate="20180403T100929Z">
+        <seg>Se expr1 non è NULL, restituisce expr1, altrimenti viene selezionata expr2, poi expr3, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
@@ -13650,6 +13722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163123Z" creationid="Marco Marega" creationdate="20171230T163123Z">
         <seg>Se questo periodo residuo diventa negativo, il supporto deve essere restituito immediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If v1 is equal to v2, NULL is returned, otherwise v1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100948Z" creationid="Elisabetta Manuele" creationdate="20180403T100948Z">
+        <seg>Se v1 è uguale a v2, viene restituito NULL, altrimenti v1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16682,6 +16762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095157Z" creationid="Elisabetta Manuele" creationdate="20180403T095157Z">
         <seg>NOW()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NULLIF(v1,v2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100934Z" creationid="Elisabetta Manuele" creationdate="20180403T100934Z">
+        <seg>NULLIF(v1,v2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20234,6 +20322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214818Z" creationid="Marco Marega" creationdate="20180227T214818Z">
         <seg>Supponete di voler eliminare una determinata via dalla tabella &lt;f0&gt;Street&lt;/f0&gt; della Figura &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, nella quale questo campo è collegato alla tabella &lt;f3&gt;Adress&lt;/f3&gt; come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synonym for CONVERT().</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100902Z" creationid="Elisabetta Manuele" creationdate="20180403T100902Z">
+        <seg>Sinonimo di CONVERT().</seg>
       </tuv>
     </tu>
     <tu>
