@@ -12710,6 +12710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, in practice this is often lacking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103155Z" creationid="Elisabetta Manuele" creationdate="20180403T103155Z">
+        <seg>Tuttavia, nella pratica, questo spesso non avviene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it is not apparent during normal usage that the record is no longer needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160149Z" creationid="steevie" creationdate="20180206T080303Z">
@@ -14798,6 +14806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the case of sudden PC crashes, it can happen that open databases (internal HSQLDB databases) can no longer be opened in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103240Z" creationid="Elisabetta Manuele" creationdate="20180403T103240Z">
+        <seg>Nel caso di improvvisi arresti anomali del PC, può accadere che database attivi (database HSQLDB interni) non possano più essere aperti in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the conditions only the field &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; is considered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175329Z" creationid="MicrosoftSucks" creationdate="20180301T175329Z">
@@ -15418,6 +15434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141827Z" creationid="Marco Marega" creationdate="20180303T141827Z">
         <seg>Invece, il nome del campo &lt;f2&gt;Title&lt;/f2&gt; viene già suggerito come unico nome di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, when you attempt to open the database, you are asked for a filter corresponding to the format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103539Z" creationid="Elisabetta Manuele" creationdate="20180403T103539Z">
+        <seg>Anzi, quando tentate di aprire il database, viene richiesto un filtro corrispondente al formato.</seg>
       </tuv>
     </tu>
     <tu>
