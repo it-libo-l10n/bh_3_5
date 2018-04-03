@@ -4294,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NaN&lt;/f0&gt; (Perhaps "not a number"?)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T154012Z" creationid="Alessia Mazzarini" creationdate="20180403T154012Z">
+        <seg>&lt;f0&gt;NaN&lt;/f0&gt; (Forse "not a number"?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Navigation bar&lt;/f0&gt;: The appearance of the Navigation Bar at the &lt;f1&gt;bottom&lt;/f1&gt; of the screen can be switched on or off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211151Z" creationid="Marco Marega" creationdate="20171014T211151Z">
@@ -10130,6 +10138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211615Z" creationid="Marina Latini" creationdate="20171205T162312Z">
         <seg>Inserimento dati usando la GUI di Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error message for an empty field that was defined as a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153947Z" creationid="Alessia Mazzarini" creationdate="20180403T153947Z">
+        <seg>Messaggio di errore in un campo definito come numero ma vuoto.</seg>
       </tuv>
     </tu>
     <tu>
