@@ -10414,6 +10414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: My computer has the IP 192.168.0.20 and is known on the network by the name &lt;f0&gt;lin_serv&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171552Z" creationid="Elisabetta Manuele" creationdate="20180403T171552Z">
+        <seg>Per esempio, l'indirizzo IP del computer in uso è 192.168.0.20, visibile in rete con identificativo &lt;f0&gt;lin_serv&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: The &lt;f0&gt;Name&lt;/f0&gt; and &lt;f1&gt;Address&lt;/f1&gt; tables are to be linked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212933Z" creationid="Marco Marega" creationdate="20180227T212820Z">
@@ -17862,6 +17870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now suppose there is another computer to be entered for connection to the database:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171958Z" creationid="Elisabetta Manuele" creationdate="20180403T171958Z">
+        <seg>Ora supponiamo di dover introdurre un altro computer da connettere al database:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now the &lt;f0&gt;content.xml&lt;/f0&gt; file must be extracted from the &lt;s1/&gt;*.odb archive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165347Z" creationid="Elisabetta Manuele" creationdate="20180403T165347Z">
@@ -18130,6 +18146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112043Z" creationid="Marina Latini" creationdate="20171213T112043Z">
         <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On a network with other computers, you must give either the host name or the IP address to the server, which &lt;f0&gt;in this case &lt;/f0&gt;is running on my computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171517Z" creationid="Elisabetta Manuele" creationdate="20180403T171517Z">
+        <seg>In una rete con altri computer, è necessario assegnare il nome host o l'indirizzo IP al server, che &lt;f0&gt;in questo caso&lt;/f0&gt; è in esecuzione sul computer in uso.</seg>
       </tuv>
     </tu>
     <tu>
