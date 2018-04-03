@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively as an extension COALESCE() can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100250Z" creationid="Elisabetta Manuele" creationdate="20180403T100250Z">
+        <seg>In alternativa come estensione si può usare COALESCE().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively it might be possible to create it, at least partially, using mail merge.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193905Z" creationid="Elisabetta Manuele" creationdate="20180308T193905Z">
@@ -10006,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exp and value must have the same data type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100634Z" creationid="Elisabetta Manuele" creationdate="20180403T100634Z">
+        <seg>I tipi di dati di valore e di exp devono essere tra loro compatibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explorer &lt;f0&gt;o&lt;/f0&gt;n/off</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T191144Z" creationid="Elisabetta Manuele" creationdate="20180306T191144Z">
@@ -12694,6 +12710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IFNULL(exp,value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100211Z" creationid="Elisabetta Manuele" creationdate="20180403T100211Z">
+        <seg>IFNULL(exp,value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IGNORECASE</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102423Z" creationid="Elisabetta Manuele" creationdate="20180402T102423Z">
@@ -12994,6 +13018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T161357Z" creationid="Alessia Mazzarini" creationdate="20180324T152700Z">
         <seg>Nel caso in cui si includano sia aree di raggruppamento che elementi grafici, ciò può comportare dimensioni imprevedibili in alcune &lt;/f0&gt;&lt;f1&gt;parti.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If exp is NULL, value is returned, otherwise exp.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100225Z" creationid="Elisabetta Manuele" creationdate="20180403T100225Z">
+        <seg>Se exp è NULL, viene restituito il valore, altrimenti viene restituito exp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25834,6 +25866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151752Z" creationid="Marco Marega" creationdate="20180127T151752Z">
         <seg>Perciò questa è una relazione 1:1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is used in macro coding to transfer a primary key in one table to become a foreign key for another table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100152Z" creationid="Elisabetta Manuele" creationdate="20180403T100152Z">
+        <seg>Viene utilizzato nella codifica macro per trasferire una chiave primaria di una tabella e convertirla in chiave esterna di un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
