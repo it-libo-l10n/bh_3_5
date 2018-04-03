@@ -6950,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An application is to be found in the example database in the &lt;f1&gt;Maintenance&lt;/f1&gt; module—&lt;f2&gt;t&lt;/f2&gt;he &lt;f3&gt;Table_purge&lt;/f3&gt; procedure for the control of dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101942Z" creationid="Elisabetta Manuele" creationdate="20180403T101942Z">
+        <seg>Un'applicazione si trova nel database di esempio del modulo di &lt;f1&gt;Manutenzione&lt;/f1&gt;, &lt;f2&gt;l&lt;/f2&gt;a procedura &lt;f3&gt;Table_purge&lt;/f3&gt; per il controllo delle finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An array (a collection of data accessible via an index number) is established and filled with the field names of the listboxes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215705Z" creationid="Marco Marega" creationdate="20180327T215705Z">
@@ -15272,8 +15280,8 @@
       <tuv lang="EN">
         <seg>Information tables for HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102456Z" creationid="Marina Latini" creationdate="20171207T102456Z">
-        <seg>Tabelle delle informazioni per HSQLDB</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101744Z" creationid="Marina Latini" creationdate="20171207T102456Z">
+        <seg>Tabelle informative per HSQLDB</seg>
       </tuv>
     </tu>
     <tu>
@@ -15282,6 +15290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T182151Z" creationid="Alessia Mazzarini" creationdate="20180316T175621Z">
         <seg>Inizialmente il navigatore mostra, oltre alle sezioni visibili del documento (Intestazione pagina, &lt;s0/&gt;Gruppi, Dettagli, e Piè di pagina), la possibilità di includere funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inside a database, information on all table properties and their connections to one another are stored in the &lt;f0&gt;INFORMATION_SCHEMA&lt;/f0&gt; area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101820Z" creationid="Elisabetta Manuele" creationdate="20180403T101820Z">
+        <seg>All'interno di un database, le informazioni relative a tutte le proprietà delle tabelle e alle loro connessioni sono memorizzate nell'area &lt;f0&gt;INFORMATION_SCHEMA&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17010,6 +17026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203054Z" creationid="Marco Marega" creationdate="20171016T203054Z">
         <seg>I campi non abilitati non possono essere usati e sono in grigetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-printing special characters and spaces are removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101704Z" creationid="Elisabetta Manuele" creationdate="20180403T101704Z">
+        <seg>Vengono eliminati i caratteri speciali e gli spazi non stampabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19398,6 +19422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUBSTRING(&lt;string expression&gt; FROM &lt;numeric expression&gt; [FOR &lt;numeric expression&gt;])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101612Z" creationid="Elisabetta Manuele" creationdate="20180403T101612Z">
+        <seg>SUBSTRING(&lt;string expression&gt; FROM &lt;numeric expression&gt; [FOR &lt;numeric expression&gt;])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUBSTRING(s,start[,len])</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182622Z" creationid="Elisabetta Manuele" creationdate="20180402T182622Z">
@@ -20498,6 +20530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101532Z" creationid="Elisabetta Manuele" creationdate="20180402T101532Z">
         <seg>TINYINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TRIM([{LEADING | TRAILING | BOTH}] FROM &lt;string expression&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101652Z" creationid="Elisabetta Manuele" creationdate="20180403T101652Z">
+        <seg>TRIM([{LEADING | TRAILING | BOTH}] FROM &lt;string expression&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25774,6 +25814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This information allows Base macros to be created that require very few arguments for their procedures.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101840Z" creationid="Elisabetta Manuele" creationdate="20180403T101840Z">
+        <seg>Queste informazioni consentono di creare macro di Base che richiedono pochissimi argomenti per le loro procedure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This information is useful above all for macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T074910Z" creationid="steevie" creationdate="20180206T074910Z">
@@ -28354,6 +28402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204736Z" creationid="Marco Marega" creationdate="20171015T204736Z">
         <seg>Campo con valore Si o No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yields part of a text string from the position specified in FROM, optionally up to the length given in FOR.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101636Z" creationid="Elisabetta Manuele" creationdate="20180403T101636Z">
+        <seg>Riporta parte di una stringa di testo dalla posizione specificata in FROM, facoltativamente fino alla lunghezza indicata in FOR.</seg>
       </tuv>
     </tu>
     <tu>
