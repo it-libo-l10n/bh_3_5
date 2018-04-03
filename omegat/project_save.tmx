@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3890,6 +3890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162151Z" creationid="Manuel Frassinetti" creationdate="20171202T162151Z">
         <seg>&lt;f0&gt;Se un collegamento è assente, può essere creato a questo punto col trascinamento del mouse da "&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito"."Lettore_ID"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; a "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Lettore"."ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If an external database is edited with a version of HSQLDB 2.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, it can no longer be converted into an internal database under LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164322Z" creationid="Elisabetta Manuele" creationdate="20180403T164322Z">
+        <seg>&lt;f0&gt;Se un database esterno viene modificato con una versione 2.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; di HSQLDB non è più possibile convertirlo in un database interno in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9594,6 +9602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164014Z" creationid="Elisabetta Manuele" creationdate="20180403T164014Z">
         <seg>NomeDatabase.data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Databasename.log</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164049Z" creationid="Elisabetta Manuele" creationdate="20180403T164049Z">
+        <seg>NomeDatabase.log</seg>
       </tuv>
     </tu>
     <tu>
@@ -24494,6 +24510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next step is to give the default user, if nothing in the HSQLDB configuration is to be changed:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164132Z" creationid="Elisabetta Manuele" creationdate="20180403T164132Z">
+        <seg>Il passaggio successivo consiste nell'assegnare l'utente predefinito, in assenza di modifiche nella configurazione HSQLDB:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The number of hits must be obtained in a different way.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200152Z" creationid="Marco Marega" creationdate="20180327T200152Z">
@@ -26622,6 +26646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates the connection and the database becomes accessible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164200Z" creationid="Elisabetta Manuele" creationdate="20180403T164200Z">
+        <seg>In tal modo si stabilisce la connessione e il database diventa accessibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This data usually comes from another table in the database, and not from the table to which the form is bound.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212502Z" creationid="Marco Marega" creationdate="20171029T212502Z">
@@ -26930,6 +26962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162417Z" creationid="Elisabetta Manuele" creationdate="20180403T162417Z">
         <seg>Questo perché L&lt;f2&gt;ibreOffice&lt;/f2&gt; &lt;f3&gt;3.x &lt;/f3&gt;distingue tra HSQLDB interno ed esterno con una certa difficoltà e genera avvisi di incompatibilità tra le versioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is because of additional functions which are not present in version 1.8.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164422Z" creationid="Elisabetta Manuele" creationdate="20180403T164422Z">
+        <seg>La ragione è che vengono richieste funzioni supplementari assenti nella versione 1.8.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
