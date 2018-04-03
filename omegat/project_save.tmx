@@ -8894,6 +8894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a copy of your database for the steps that follow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103720Z" creationid="Elisabetta Manuele" creationdate="20180403T103720Z">
+        <seg>Create una copia del database per i passaggi successivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creati&lt;f0&gt;ng&lt;/f0&gt; &lt;f1&gt;f&lt;/f1&gt;orms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184352Z" creationid="Marco Marega" creationdate="20171013T184352Z">
@@ -17854,6 +17862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only when the file is closed is the whole database written back into the file and repacked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103624Z" creationid="Elisabetta Manuele" creationdate="20180403T103624Z">
+        <seg>Solo quando il file è chiuso l'intero database viene riscritto nel file e nuovamente compresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only when you click on the &lt;f0&gt;T&lt;/f0&gt;ables folder is the database actually ac&lt;f1&gt;c&lt;/f1&gt;essed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182157Z" creationid="Elisabetta Manuele" creationdate="20180306T182157Z">
@@ -24134,6 +24150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The problem here is that part of the data in an open database is contained in working memory and is only temporarily copied to intermediate storage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103608Z" creationid="Elisabetta Manuele" creationdate="20180403T103608Z">
+        <seg>Il problema in questo caso è dovuto al fatto che una parte dei dati di un database aperto è contenuta nella memoria di lavoro e viene copiata solo temporaneamente in una memoria intermedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The problem is that in large databases, the subquery retrieves a correspondingly large amount of data with which each single displayable record must be compared.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163046Z" creationid="steevie" creationdate="20180226T165332Z">
@@ -27250,6 +27274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T152710Z" creationid="steevie" creationdate="20180205T152710Z">
         <seg>Per liberare questo spazio su disco, i record di dati del database devono essere riscritti (tabelle, didascalie, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get access again to your data, you may find the following procedure helpful:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103657Z" creationid="Elisabetta Manuele" creationdate="20180403T103657Z">
+        <seg>Per ottenere nuovamente l'accesso ai dati, potreste trovare utile la seguente procedura:</seg>
       </tuv>
     </tu>
     <tu>
