@@ -27678,6 +27678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This terminates the invocation in the case of version 1.8.&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; while the script file of the database is being read in.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164745Z" creationid="Elisabetta Manuele" creationdate="20180403T164745Z">
+        <seg>Questo causa la terminazione della chiamata, se si tratta della versione 1.8.&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, durante la lettura del file di script del database.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This text must be deleted if any other entry is to be made successfully.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202904Z" creationid="Marco Marega" creationdate="20171026T202904Z">
