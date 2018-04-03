@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8910,6 +8910,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DAYOFWEEK(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094547Z" creationid="Elisabetta Manuele" creationdate="20180403T094547Z">
+        <seg>DAYOFWEEK(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAYOFYEAR(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094617Z" creationid="Elisabetta Manuele" creationdate="20180403T094611Z">
+        <seg>DAYOFYEAR(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DECIMAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102024Z" creationid="Elisabetta Manuele" creationdate="20180402T102024Z">
@@ -11746,6 +11762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181304Z" creationid="Elisabetta Manuele" creationdate="20180402T181304Z">
         <seg>HEXTORAW(s1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOUR(time)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094753Z" creationid="Elisabetta Manuele" creationdate="20180403T094753Z">
+        <seg>HOUR(time)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18574,6 +18598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the day of the year (1-366).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094643Z" creationid="Elisabetta Manuele" creationdate="20180403T094613Z">
+        <seg>Riporta il giorno dell'anno (compreso tra 1 e 366).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the first count characters from the beginning of the text s.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181711Z" creationid="Elisabetta Manuele" creationdate="20180402T181711Z">
@@ -18586,6 +18618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181813Z" creationid="Elisabetta Manuele" creationdate="20180402T181813Z">
         <seg>Restituisce la prima corrispondenza della ricerca dei termini nel testo s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the hour (0-23).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094806Z" creationid="Elisabetta Manuele" creationdate="20180403T094806Z">
+        <seg>Riporta l'orario (tra 0 e 23).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18706,6 +18746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182639Z" creationid="Elisabetta Manuele" creationdate="20180402T182639Z">
         <seg>Restituisce un numero di caratteri (len) del testo s a partire dal carattere in posizione 'start' (1=sinistra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the weekday as a number (1 represents Sunday).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094604Z" creationid="Elisabetta Manuele" creationdate="20180403T094604Z">
+        <seg>Riporta il giorno della settimana come numero (1 rappresenta la domenica).</seg>
       </tuv>
     </tu>
     <tu>
