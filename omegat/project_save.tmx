@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;lose t&lt;/f1&gt;he archiving program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104347Z" creationid="Elisabetta Manuele" creationdate="20180403T104347Z">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;hiudete i&lt;/f1&gt;l programma di archiviazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;reating tables&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150719Z" creationid="Marco Marega" creationdate="20180203T150719Z">
@@ -8898,6 +8906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103720Z" creationid="Elisabetta Manuele" creationdate="20180403T103720Z">
         <seg>Create una copia del database per i passaggi successivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new empty database file and open this file with the archiving program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104205Z" creationid="Elisabetta Manuele" creationdate="20180403T104205Z">
+        <seg>Create un nuovo file di database vuoto e apritelo con il programma di archiviazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15854,6 +15870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be necessary to look at the &lt;f0&gt;script&lt;/f0&gt; file and test it for contradictions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104058Z" creationid="Elisabetta Manuele" creationdate="20180403T104058Z">
+        <seg>Si può rendere necessario esaminare il file di &lt;f0&gt;script&lt;/f0&gt; e verificarne l'assenza di contraddizioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It means that the user does not need to delete all these titles before deleting the CD from the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223452Z" creationid="Marco Marega" creationdate="20180228T223452Z">
@@ -18790,6 +18814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace the files &lt;f0&gt;data&lt;/f0&gt; and &lt;f1&gt;script&lt;/f1&gt; in the new database file with the files unpacked in st&lt;f2&gt;ep 4&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104314Z" creationid="Elisabetta Manuele" creationdate="20180403T104314Z">
+        <seg>Sostituite i &lt;f0&gt;dati&lt;/f0&gt; e lo &lt;f1&gt;script&lt;/f1&gt; dei file nel nuovo file del database con i file decompressi al pu&lt;f2&gt;nto 4&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replaces all existing occurrences of replace in the text string s by the text s2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182214Z" creationid="Elisabetta Manuele" creationdate="20180402T182214Z">
@@ -21650,6 +21682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154027Z" creationid="Marco Marega" creationdate="20180127T154027Z">
         <seg>Perciò la tabella &lt;f1&gt;Subtitle&lt;/f1&gt; sta in una relazione &lt;f2&gt; n:1 &lt;/f2&gt;con la tabella &lt;f3&gt;Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;script&lt;/f1&gt; file contains above all the description of the table structure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104150Z" creationid="Elisabetta Manuele" creationdate="20180403T104150Z">
+        <seg>Il file &lt;f1&gt;script&lt;/f1&gt; contiene soprattutto la descrizione relativa alla struttura della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26962,6 +27002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T152444Z" creationid="Marco Marega" creationdate="20171231T152444Z">
         <seg>Questo ordinamento funziona senza commettere errori solamente se, quando il formulario è stato creato, gli elementi sono stati posizionati usando la griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This step can, however, be left for the testing stage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104115Z" creationid="Elisabetta Manuele" creationdate="20180403T104115Z">
+        <seg>Questo passaggio può tuttavia essere rinviato alla fase di test.</seg>
       </tuv>
     </tu>
     <tu>
