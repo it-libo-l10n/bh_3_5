@@ -5046,6 +5046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;This&lt;/f0&gt; assumes that the primary key field has the name ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T173032Z" creationid="Elisabetta Manuele" creationdate="20180403T173032Z">
+        <seg>&lt;f0&gt;Ciò&lt;/f0&gt; presuppone che il campo chiave primaria abbia l'ID del nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This&lt;/f0&gt; now relates to the value which the listbox provides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182552Z" creationid="MicrosoftSucks" creationdate="20180316T182536Z">
@@ -8762,6 +8770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090548Z" creationid="Marina Latini" creationdate="20171003T090548Z">
         <seg>Capitolo 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 2 Creating a Database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T173058Z" creationid="Elisabetta Manuele" creationdate="20180403T173058Z">
+        <seg>Creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
