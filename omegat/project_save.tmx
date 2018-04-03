@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;EXTRACT ({YEAR | MONTH | DAY | HOUR | MINUTE | SECOND} FROM &lt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;d&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;at&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;e or time&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;)&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101337Z" creationid="Elisabetta Manuele" creationdate="20180403T101337Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;EXTRACT ({YEAR | MONTH | DAY | HOUR | MINUTE | SECOND} FROM &lt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;d&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;at&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;e or time&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;)&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; LBound&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;aList&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;())&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;TO&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;UBound&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;(&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;aList&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;())&lt;/f26&gt;&lt;/f25&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202438Z" creationid="Marco Marega" creationdate="20180327T202438Z">
@@ -8078,10 +8086,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CASE WHEN expr1 THEN v1[WHEN expr2 THEN v2] [ELSE v4] END</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101111Z" creationid="Elisabetta Manuele" creationdate="20180403T101111Z">
+        <seg>CASE WHEN expr1 THEN v1[WHEN expr2 THEN v2] [ELSE v4] END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CASE WHEN works better with the GUI.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100757Z" creationid="Elisabetta Manuele" creationdate="20180403T100757Z">
         <seg>che si adatta meglio all'interfaccia grafica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CASE v1 WHEN v2 THEN v3 [ELSE v4] END</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101001Z" creationid="Elisabetta Manuele" creationdate="20180403T101001Z">
+        <seg>CASE v1 WHEN v2 THEN v3 [ELSE v4] (END)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13102,6 +13126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If expr1 is true, &lt;s0/&gt;v1 is returned [optionally further conditions can be set].</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101204Z" creationid="Elisabetta Manuele" creationdate="20180403T101204Z">
+        <seg>Se expr1 è True, viene restituito &lt;s0/&gt;v1 [è possibile impostare altre condizioni].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If female is selected in the act&lt;f0&gt;ive form&lt;/f0&gt;, male is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211931Z" creationid="Marco Marega" creationdate="20171126T211931Z">
@@ -13730,6 +13762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100948Z" creationid="Elisabetta Manuele" creationdate="20180403T100948Z">
         <seg>Se v1 è uguale a v2, viene restituito NULL, altrimenti v1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If v1 is equal to v2, v3 is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101018Z" creationid="Elisabetta Manuele" creationdate="20180403T101018Z">
+        <seg>Se v1 è uguale a v2, viene restituito v3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17906,6 +17946,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140527Z" creationid="Marco Marega" creationdate="20180203T140527Z">
         <seg>Altrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise v4 is returned or NULL if there is no ELSE condition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101225Z" creationid="Elisabetta Manuele" creationdate="20180403T101225Z">
+        <seg>Altrimenti viene restituito v4 o NULL, se non esiste nessuna condizione ELSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise v4 is returned or NULL, if there is no ELSE clause.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101033Z" creationid="Elisabetta Manuele" creationdate="20180403T101033Z">
+        <seg>Altrimenti viene restituito v4 o NULL, se non esiste nessuna condizione ELSE.</seg>
       </tuv>
     </tu>
     <tu>
