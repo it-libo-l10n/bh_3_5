@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6670,6 +6670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Afterwards the database folder is put back into the *.odb package and the database can once more be opened in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162812Z" creationid="Elisabetta Manuele" creationdate="20180403T162751Z">
+        <seg>Dopo aver nuovamente inserito la cartella del database nel pacchetto *.odb il database può essere riaperto in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the first record in the query is used for the preview.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180435Z" creationid="Elisabetta Manuele" creationdate="20180307T180435Z">
@@ -8880,8 +8888,8 @@
       <tuv lang="EN">
         <seg>Connecting a database to an external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102800Z" creationid="Marina Latini" creationdate="20171207T102800Z">
-        <seg>Collegamento di un database a un HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162831Z" creationid="Marina Latini" creationdate="20171207T102800Z">
+        <seg>Connettere un database a un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
@@ -14246,6 +14254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, as in the following description, the initial access to the database is from the outside, no server function is necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162909Z" creationid="Elisabetta Manuele" creationdate="20180403T162909Z">
+        <seg>Se l'accesso iniziale al database è stabilito dall'esterno, come viene descritto qui di seguito, non è necessaria alcuna funzione server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for example, wares costing more than $150.00 are to be included in a special offer and the price reduced by 10%, this can be carried out as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T221849Z" creationid="Marco Marega" creationdate="20180303T221849Z">
@@ -15786,6 +15802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205848Z" creationid="Marco Marega" creationdate="20171015T205848Z">
         <seg>Interazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Internal HSQLDB is indistinguishable from the external variant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162851Z" creationid="Elisabetta Manuele" creationdate="20180403T162851Z">
+        <seg>L'HSQLDB interno non è distinguibile dalla variante esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24670,6 +24694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The properties file in this case has an entry &lt;f2&gt;that&lt;/f2&gt; leads to the above error in L&lt;f3&gt;ibre&lt;/f3&gt;O&lt;f4&gt;ffice&lt;/f4&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162614Z" creationid="Elisabetta Manuele" creationdate="20180403T162614Z">
+        <seg>Il file delle proprietà in questo caso contiene una voce &lt;f2&gt;che&lt;/f2&gt; causa il suddetto errore in L&lt;f3&gt;ibre&lt;/f3&gt;O&lt;f4&gt;ffice&lt;/f4&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The properties of a link can be edited so that the deletion of a record from the &lt;f0&gt;Street&lt;/f0&gt; table will simultaneously&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;set to&lt;/f3&gt;&lt;/f2&gt; NULL the corresponding entries in the &lt;f4&gt;Ad&lt;/f4&gt;&lt;f5&gt;dress&lt;/f5&gt; table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213645Z" creationid="Marco Marega" creationdate="20180228T213645Z">
@@ -27066,6 +27098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111240Z" creationid="Marina Latini" creationdate="20171207T111240Z">
         <seg>Questo è il vostro primo supporto per l'utilizzo di &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This line should be changed to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162653Z" creationid="Elisabetta Manuele" creationdate="20180403T162653Z">
+        <seg>La riga dovrebbe venire modificata in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29566,6 +29606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You just need the archive program which is supplied with L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163053Z" creationid="Elisabetta Manuele" creationdate="20180403T163053Z">
+        <seg>È sufficiente il programma di archiviazione fornito con L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a3&gt;), version 3.0 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171002T105548Z" creationid="ldaghino" creationdate="20171002T105548Z">
@@ -29658,6 +29706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204822Z" creationid="Marco Marega" creationdate="20171109T204822Z">
         <seg>Dovete notare che queste immagini, per impostazione predefinita, non sono collegate all'interno del documento *.odb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will find it on the path under &lt;f2&gt;/program/classes/hsqldb.jar&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163115Z" creationid="Elisabetta Manuele" creationdate="20180403T163115Z">
+        <seg>contenuto nel percorso &lt;f2&gt;/program/classes/hsqldb.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30050,6 +30106,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174228Z" creationid="Elisabetta Manuele" creationdate="20180402T174228Z">
         <seg>Variabile, adatto alle immagini più grandi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>version=1.8.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162709Z" creationid="Elisabetta Manuele" creationdate="20180403T162709Z">
+        <seg>versione=1.8.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>version=1.8.1 on line 11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162632Z" creationid="Elisabetta Manuele" creationdate="20180403T162632Z">
+        <seg>versione=1.8.1 alla riga 11</seg>
       </tuv>
     </tu>
     <tu>
