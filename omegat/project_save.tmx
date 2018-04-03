@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>% (divide the preceding number by 100), &lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153156Z" creationid="Alessia Mazzarini" creationdate="20180403T153156Z">
+        <seg>% (divide il numero precedente per 100), &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'str1'||'str2'||'str3' or 'str1'+'str2'+'str3'</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180857Z" creationid="Elisabetta Manuele" creationdate="20180402T180857Z">
@@ -158,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* (Multiplication), &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153119Z" creationid="Alessia Mazzarini" creationdate="20180403T153119Z">
+        <seg>* (Multiplicazione), &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101225Z" creationid="Elisabetta Manuele" creationdate="20180402T101225Z">
         <seg>+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/ (Division), &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153134Z" creationid="Alessia Mazzarini" creationdate="20180403T153134Z">
+        <seg>/ (Divisione), &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21280,8 +21304,8 @@
       <tuv lang="EN">
         <seg>Text entry must always be in double quotes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152654Z" creationid="Alessia Mazzarini" creationdate="20180403T152654Z">
-        <seg>Il testo va sempre inserito tra Text entry must always be in double quotes.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152934Z" creationid="Alessia Mazzarini" creationdate="20180403T152654Z">
+        <seg>La voce di testo va sempre racchiusa tra virgolette doppie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,6 +23314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215234Z" creationid="Marco Marega" creationdate="20180327T215234Z">
         <seg>La macro seguente tramite una casella di riepilogo può controllare quali caselle di riepilogo devono essere salvate e quali devono essere lette nuovamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following operators are allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153105Z" creationid="Alessia Mazzarini" creationdate="20180403T153105Z">
+        <seg>Sono consentiti i seguenti operatori.</seg>
       </tuv>
     </tu>
     <tu>
