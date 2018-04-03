@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4082,6 +4082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170251Z" creationid="Marina Latini" creationdate="20171207T170251Z">
         <seg>&lt;f0&gt;Mailing list internazionali&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;It is important, if data in the database are to be written using the GUI, that next to the database name the words &lt;/f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;;default_schema=true" &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;are &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;written.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163849Z" creationid="Elisabetta Manuele" creationdate="20180403T163849Z">
+        <seg>&lt;f0&gt;Se i dati nel database devono essere inseriti tramite l'interfaccia grafica, è importante che la stringa &lt;/f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;;default_schema=true" &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;venga &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;accodata al nome del database.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15278,6 +15286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the following example it is in the home folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163647Z" creationid="Elisabetta Manuele" creationdate="20180403T163647Z">
+        <seg>Nell'esempio seguente si trova nella cartella home.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the form navigator this is the top-level concept, to which all the forms are subsidiary.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210928Z" creationid="Marco Marega" creationdate="20180325T210928Z">
@@ -22846,6 +22862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The connection to the external database uses JDBC.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163546Z" creationid="Elisabetta Manuele" creationdate="20180403T163546Z">
+        <seg>La connessione al database esterno richiede il supporto di JDBC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The container, in which all forms are stored, is named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;drawpage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211106Z" creationid="Marco Marega" creationdate="20180325T210753Z">
@@ -23042,6 +23066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103920Z" creationid="Elisabetta Manuele" creationdate="20180403T103920Z">
         <seg>Il file di database deve essere decompresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database file should be stored in a particular directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163620Z" creationid="Elisabetta Manuele" creationdate="20180403T163620Z">
+        <seg>Il file di database deve essere memorizzato in una particolare cartella, </seg>
       </tuv>
     </tu>
     <tu>
@@ -24942,6 +24974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rest of the directory path and the name of the database are not given here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163704Z" creationid="Elisabetta Manuele" creationdate="20180403T163704Z">
+        <seg>Il restante percorso della cartella e il nome del database sono stati omessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result may be that no foreign key Postcode_ID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;corresponding to&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; this postcode&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;exists&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; any longer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160130Z" creationid="steevie" creationdate="20180206T080142Z">
@@ -26562,6 +26602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203719Z" creationid="Alessia Mazzarini" creationdate="20180315T202409Z">
         <seg>Questa finestra di dialogo corrisponde a quella che appare nella creazione formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This directory can be freely chosen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163628Z" creationid="Elisabetta Manuele" creationdate="20180403T163628Z">
+        <seg>che può essere scelta dall'utente.</seg>
       </tuv>
     </tu>
     <tu>
