@@ -15926,6 +15926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may happen that the Report Builder itself chooses this variant, if a calculation has been requested, but for some reason it cannot correctly interpret the data source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T145910Z" creationid="Alessia Mazzarini" creationdate="20180403T145910Z">
+        <seg>Potrebbe accadere che il Report Builder stesso scelga questa variante, nel caso in cui venga richiesto un calcolo ma per qualche ragione questo non possa interpretare correttamente la sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It means that the user does not need to delete all these titles before deleting the CD from the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T223452Z" creationid="Marco Marega" creationdate="20180228T223452Z">
