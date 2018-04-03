@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the same way an external database which has once been edited with a version of the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;second&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; series cannot afterwards be edited with version 1.8.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, which is compatible with LibreOffice.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164859Z" creationid="Elisabetta Manuele" creationdate="20180403T164859Z">
+        <seg>&lt;f0&gt;Analogamente un database esterno aggiornato con una versione della &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;seconda&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; serie, non può essere successivamente modificato con la versione 1.8.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, compatibile con LibreOffice.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In this example, t&lt;/f0&gt;he form to be accessed is named &lt;f1&gt;Display&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210958Z" creationid="Marco Marega" creationdate="20180325T210958Z">
@@ -8616,8 +8624,8 @@
       <tuv lang="EN">
         <seg>Changing the database connection to external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102844Z" creationid="Marina Latini" creationdate="20171207T102844Z">
-        <seg>Modifica della connessione al database a HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164953Z" creationid="Marina Latini" creationdate="20171207T102844Z">
+        <seg>Modificare una connessione del database a un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
