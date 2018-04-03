@@ -3062,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt; small part of its documentation &lt;f1&gt;is &lt;/f1&gt;at&lt;a2&gt; &lt;/a2&gt;&lt;a3&gt;&lt;f4&gt;h&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;ttp://wiki.pentaho.com/display/Reporting/9.+Report+Designer+Formula+Expressions&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152003Z" creationid="Alessia Mazzarini" creationdate="20180403T152003Z">
+        <seg>&lt;f0&gt;Una&lt;/f0&gt; piccola parte di documentazione &lt;f1&gt;si trova&lt;/f1&gt;su&lt;a2&gt; &lt;/a2&gt;&lt;a3&gt;&lt;f4&gt;h&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;ttp://wiki.pentaho.com/display/Reporting/9.+Report+Designer+Formula+Expressions&lt;/a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;llowing certain SQL commands to be called up more easily than with the separate SQL editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T202259Z" creationid="Marco Marega" creationdate="20180315T202259Z">
@@ -5782,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A further source is the Specifications for the OpenFormula Standard:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152314Z" creationid="Alessia Mazzarini" creationdate="20180403T152314Z">
+        <seg>Un'ulteriore fonte è rappresentata dalle specifiche per lo standard OpenFormula:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A graphical control by default has no Tab stop.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171118T204736Z" creationid="Marco Marega" creationdate="20171118T204736Z">
@@ -7706,6 +7722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215511Z" creationid="Marco Marega" creationdate="20180227T215511Z">
         <seg>I collegamenti elementari vengono impostati usando &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;Relazioni&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basic principles:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152327Z" creationid="Alessia Mazzarini" creationdate="20180403T152327Z">
+        <seg>Principi fondamentali:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11666,6 +11690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T110135Z" creationid="Marina Latini" creationdate="20171206T110135Z">
         <seg>Inserimento di formule per un comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas start with an equals sign.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152415Z" creationid="Alessia Mazzarini" creationdate="20180403T152415Z">
+        <seg>Le formule iniziano con un segno di uguale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18778,6 +18810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223106Z" creationid="Marco Marega" creationdate="20180112T223106Z">
         <seg>Ridurre l'inserimento ripetuto dello stesso contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References to data fields are placed in square brackets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152453Z" creationid="Alessia Mazzarini" creationdate="20180403T152453Z">
+        <seg>I riferimenti ai campi di dati si inseriscono tra parentesi quadre.</seg>
       </tuv>
     </tu>
     <tu>
