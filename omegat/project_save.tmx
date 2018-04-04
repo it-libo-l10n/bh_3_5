@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123427Z" creationid="Marco Marega" creationdate="20180404T123427Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211225Z" creationid="Marco Marega" creationdate="20180325T211225Z">
@@ -18038,6 +18046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now the query is put together within a loop and subsequently applied to the table defined at the beginning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123718Z" creationid="Marco Marega" creationdate="20180404T123718Z">
+        <seg>La ricerca viene quindi inserita all'interno di un ciclo e conseguentemente applicata alla tabella definita all'inizio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now we get the correct current age in years.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210149Z" creationid="MicrosoftSucks" creationdate="20180327T210149Z">
@@ -20234,6 +20250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162816Z" creationid="steevie" creationdate="20180205T162816Z">
         <seg>SELECT * FROM "INFORMATION_SCHEMA"."SYSTEM_PRIMARYKEYS"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT * FROM "Searchtable" WHERE "Nr." IN ( SELECT "Nr." FROM "Searchtmp" ) OR "Nr." = CASE WHEN ( SELECT COUNT( "Nr." ) FROM "Searchtmp" ) &gt; 0 THEN '0' ELSE "Nr." END</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123439Z" creationid="Marco Marega" creationdate="20180404T123439Z">
+        <seg>SELECT * FROM "Searchtable" WHERE "Nr." IN ( SELECT "Nr." FROM "Searchtmp" ) OR "Nr." = CASE WHEN ( SELECT COUNT( "Nr." ) FROM "Searchtmp" ) &gt; 0 THEN '0' ELSE "Nr." END</seg>
       </tuv>
     </tu>
     <tu>
