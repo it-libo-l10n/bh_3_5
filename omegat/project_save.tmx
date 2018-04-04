@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;All elements of the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Searchtable&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; are included, including the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124357Z" creationid="Marco Marega" creationdate="20180404T124357Z">
+        <seg>&lt;f0&gt;Sono compresi tutti gli elementi di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Searchtable&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, anche la chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All records from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Example&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; table are displayed, including the primary key.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213310Z" creationid="MicrosoftSucks" creationdate="20180218T213310Z">
