@@ -4990,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The query is constructed &lt;/f0&gt;&lt;f1&gt;such &lt;/f1&gt;&lt;f2&gt;that the results end up in the Searchtmp table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123913Z" creationid="Marco Marega" creationdate="20180404T123913Z">
+        <seg>&lt;f0&gt;La ricerca è strutturata &lt;/f0&gt;&lt;f1&gt;in modo &lt;/f1&gt;&lt;f2&gt;che il risultato finisca nella tabella Searchtmp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T152045Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
@@ -6914,6 +6922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T204601Z" creationid="Marco Marega" creationdate="20171016T204601Z">
         <seg>Allineamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All case combinations are allowed for, since the content of the field in the query is converted to lower case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123829Z" creationid="Marco Marega" creationdate="20180404T123829Z">
+        <seg>Sono ammesse tutte le combinazioni di maiuscolo/minuscolo, dato che il contenuto del campo presente nella ricerca viene convertito in minuscolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16398,6 +16414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is assumed that the primary key is the first field in the table (&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;arContent(0)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123940Z" creationid="Marco Marega" creationdate="20180404T123940Z">
+        <seg>Si presume che la chiave primaria sia il primo campo della tabella (&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;arContent(0)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is bound to a &lt;f0&gt;Table&lt;/f0&gt; named &lt;f1&gt;Loans&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212128Z" creationid="Marco Marega" creationdate="20171029T212128Z">
@@ -23666,6 +23690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222916Z" creationid="MicrosoftSucks" creationdate="20180316T222916Z">
         <seg>La differenza tra filtraggio e &lt;f0&gt;r&lt;/f0&gt;icerca sta nella tecnica di interrogazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The display form must be reloaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124029Z" creationid="Marco Marega" creationdate="20180404T124029Z">
+        <seg>Il formulario di visualizzazione deve essere ricaricato.</seg>
       </tuv>
     </tu>
     <tu>
