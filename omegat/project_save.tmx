@@ -1926,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;+ &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;""" WHERE "&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123148Z" creationid="Marco Marega" creationdate="20180404T123148Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;+ &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;""" WHERE "&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A Base file is a compressed folder &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; contains information for the different work areas of Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T212140Z" creationid="osvaldo" creationdate="20180103T212140Z">
@@ -2310,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inK&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;TO&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;(&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;inI&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;-&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;1&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;)&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123149Z" creationid="Marco Marega" creationdate="20180404T123149Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inK&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;TO&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;(&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;inI&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;-&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;1&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;)&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;For both options, the GUI currently does not allow the possibility &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Set default&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, as the GUI default settings are different from those of the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152104Z" creationid="steevie" creationdate="20180209T152104Z">
@@ -2362,6 +2378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202444Z" creationid="Marco Marega" creationdate="20180327T202444Z">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inK&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inI&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;1&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;THEN&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123152Z" creationid="Marco Marega" creationdate="20180404T123152Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inK&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inI&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;1&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;THEN&lt;/f20&gt;&lt;/f19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement.executeQuery&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stSql&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123158Z" creationid="Marco Marega" creationdate="20180404T123158Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement.executeQuery&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stSql&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement.executeUpdate&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;stSql&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;)&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202723Z" creationid="Marco Marega" creationdate="20180327T202723Z">
@@ -3102,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"DELETE FROM ""Searchtmp"""&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123422Z" creationid="Marco Marega" creationdate="20180404T123422Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"DELETE FROM ""Searchtmp"""&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"DROP TABLE ""Searchtmp"" IF EXISTS"&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202652Z" creationid="Marco Marega" creationdate="20180327T202652Z">
@@ -3110,10 +3150,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;arContent&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)+&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;""" INTO ""Searchtmp"" FROM """ &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;stTable</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123146Z" creationid="Marco Marega" creationdate="20180404T123146Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;arContent&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)+&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;""" INTO ""Searchtmp"" FROM """ &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;stTable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT ""COLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_COLUMNS"" WHERE ""TABLE_NAME"" = '"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;stTable&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;"' ORDER BY ""ORDINAL_POSITION"""&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202552Z" creationid="Marco Marega" creationdate="20180327T202552Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT ""COLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_COLUMNS"" WHERE ""TABLE_NAME"" = '"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;stTable&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;"' ORDER BY ""ORDINAL_POSITION"""&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;" OR "&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123154Z" creationid="Marco Marega" creationdate="20180404T123154Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;" OR "&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stSql&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;"LCase("""&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;arContent&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;inK&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;)+&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;""") LIKE '%"&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;stContent&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;+&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;"%'"&lt;/f28&gt;&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123151Z" creationid="Marco Marega" creationdate="20180404T123151Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stSql&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;"LCase("""&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;arContent&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;inK&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;)+&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;""") LIKE '%"&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;stContent&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;+&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;"%'"&lt;/f28&gt;&lt;/f27&gt;</seg>
       </tuv>
     </tu>
     <tu>
