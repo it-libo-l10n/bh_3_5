@@ -6198,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A sample query is shown:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124320Z" creationid="Marco Marega" creationdate="20180404T124320Z">
+        <seg>Una ricerca i esempio è la seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A selection in the second listbox would then all too often result in an empty filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203924Z" creationid="Marco Marega" creationdate="20180326T203924Z">
@@ -7522,6 +7530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213020Z" creationid="Marco Marega" creationdate="20180219T213020Z">
         <seg>Dato che in pratica c'è il bisogno di inserire dei campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As far as possible, the query should be constructed so that it can subsequently be edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124259Z" creationid="Marco Marega" creationdate="20180404T124259Z">
+        <seg>Per quanto possibile, la ricerca dovrebbe essere strutturata in modo da poter essere conseguentemente modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16826,6 +16842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201048Z" creationid="Marco Marega" creationdate="20171210T201048Z">
         <seg>La sua realizzazione viene illustrata nell'esempio seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its data source is a query, in this example Searchquery.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124110Z" creationid="Marco Marega" creationdate="20180404T124110Z">
+        <seg>La sua sorgente dati è una ricerca, in questo esempio è Searchquery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27138,6 +27162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215558Z" creationid="Marco Marega" creationdate="20180227T215558Z">
         <seg>Questo crea una linee di collegamento tra la chiave primaria in una tabella e la chiave esterna in un'altra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This creates a table that is to be evaluated by the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124201Z" creationid="Marco Marega" creationdate="20180404T124201Z">
+        <seg>Ciò crea una tabella che dev'essere presa in considerazione dalla ricerca.</seg>
       </tuv>
     </tu>
     <tu>
