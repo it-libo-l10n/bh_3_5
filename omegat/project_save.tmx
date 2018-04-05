@@ -17510,6 +17510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mathemati&lt;f0&gt;cal&lt;/f0&gt; &lt;f1&gt;f&lt;/f1&gt;un&lt;f2&gt;c&lt;/f2&gt;tion&lt;f3&gt;s&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201955Z" creationid="Alessia Mazzarini" creationdate="20180405T201955Z">
+        <seg>Funzioni matemati&lt;f0&gt;che&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum value, by default set to 1 second before 24:00.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210250Z" creationid="Marco Marega" creationdate="20171026T210250Z">
@@ -19926,6 +19934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the absolute (non-negative) value of a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T202023Z" creationid="Alessia Mazzarini" creationdate="20180405T202023Z">
+        <seg>Restituisce il valore assoluto (non-negativo) di un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of a number, removing a minus sign where necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174524Z" creationid="Elisabetta Manuele" creationdate="20180402T174524Z">
@@ -20350,10 +20366,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rounding functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201801Z" creationid="Alessia Mazzarini" creationdate="20180405T201801Z">
+        <seg>Funzioni di arrotondamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rounds a to b decimal places.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180248Z" creationid="Elisabetta Manuele" creationdate="20180402T180248Z">
         <seg>Arrotonda a al b decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds down to the previous integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201909Z" creationid="Alessia Mazzarini" creationdate="20180405T201909Z">
+        <seg>Arrotonda verso il basso al numero intero precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30346,6 +30378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201635Z" creationid="Alessia Mazzarini" creationdate="20180405T201635Z">
         <seg>Restituisce TRUE (vero) quando una delle sue condizioni è vera (TRUE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yields TRUE when only one of the linked values is TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201733Z" creationid="Alessia Mazzarini" creationdate="20180405T201733Z">
+        <seg>Restituisce TRUE (vero) quando uno dei valori collegati è vero (TRUE).</seg>
       </tuv>
     </tu>
     <tu>
