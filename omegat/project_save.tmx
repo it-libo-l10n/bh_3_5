@@ -7446,6 +7446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text is set to zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204850Z" creationid="Alessia Mazzarini" creationdate="20180405T204850Z">
+        <seg>Qualsiasi testo è impostato come zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice &lt;f0&gt;Base &lt;/f0&gt;will find this &lt;f1&gt;book&lt;/f1&gt; valuable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103201Z" creationid="Marina Latini" creationdate="20171207T103201Z">
@@ -8746,6 +8754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204551Z" creationid="Alessia Mazzarini" creationdate="20180405T204551Z">
         <seg>Calcola la funzione esponenziale (Base 'e').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the logarithm of a number (Base '10').&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204640Z" creationid="Alessia Mazzarini" creationdate="20180405T204640Z">
+        <seg>Calcola il logaritmo di un numero (Base '10').&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20246,6 +20262,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the maximum of a series of numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204745Z" creationid="Alessia Mazzarini" creationdate="20180405T204745Z">
+        <seg>Restituisce il massimo di una serie di numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the maximum value in a row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204813Z" creationid="Alessia Mazzarini" creationdate="20180405T204813Z">
+        <seg>Restituisce il valore massimo in una serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the minute (0-59).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095101Z" creationid="Elisabetta Manuele" creationdate="20180403T095101Z">
@@ -20338,6 +20370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180518Z" creationid="Elisabetta Manuele" creationdate="20180402T180518Z">
         <seg>Restituisce il seno di un angolo in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the smallest of a series of values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204931Z" creationid="Alessia Mazzarini" creationdate="20180405T204931Z">
+        <seg>Restituisce il più piccolo di una serie di valori.</seg>
       </tuv>
     </tu>
     <tu>
