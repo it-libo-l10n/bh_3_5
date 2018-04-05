@@ -7502,6 +7502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Argument is the angle in radians whose cosine is to be calculated.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204355Z" creationid="Alessia Mazzarini" creationdate="20180405T204355Z">
+        <seg>L'argumento è l'angolo in radianti il cui coseno deve essere calculato.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Title&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; is the same as &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;"Title"&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;, all records are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213720Z" creationid="MicrosoftSucks" creationdate="20180218T213720Z">
@@ -8730,6 +8738,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203400Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
         <seg>Calcola l'inversa del coseno iperbolico – argumento &gt;= 1.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the exponential function (Base 'e').</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204551Z" creationid="Alessia Mazzarini" creationdate="20180405T204551Z">
+        <seg>Calcola la funzione esponenziale (Base 'e').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the natural logarithm of a number.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204620Z" creationid="Alessia Mazzarini" creationdate="20180405T204620Z">
+        <seg>Calcola il logaritmo naturale di un numero.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20434,6 +20458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201801Z" creationid="Alessia Mazzarini" creationdate="20180405T201801Z">
         <seg>Funzioni di arrotondamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds a positive number up or a negative number down to the next even integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204525Z" creationid="Alessia Mazzarini" creationdate="20180405T204525Z">
+        <seg>Arrotonda un numero positivo verso l'alto o un numero negativo verso il basso al successivo intero pari.</seg>
       </tuv>
     </tu>
     <tu>
