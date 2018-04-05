@@ -9238,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts an American date entry in text form (quoted) into a date value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T180127Z" creationid="Alessia Mazzarini" creationdate="20180405T180127Z">
+        <seg>Converte una data americana sotto forma di testo (tra virgolette) in un valore data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts degrees to radians.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180131Z" creationid="Elisabetta Manuele" creationdate="20180402T180131Z">
@@ -22674,6 +22682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135344Z" creationid="Marco Marega" creationdate="20180203T135344Z">
         <seg>Il concatenamento con gli indirizzi (Address) è necessario nel caso di una biblioteca pubblica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The American variant that is produced can then be reformatted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T180205Z" creationid="Alessia Mazzarini" creationdate="20180405T180205Z">
+        <seg>La versione americana prodotta potrà in seguito essere riformattata.</seg>
       </tuv>
     </tu>
     <tu>
