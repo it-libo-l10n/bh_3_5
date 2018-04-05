@@ -9238,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a text entry for a time into a time value for calculations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183145Z" creationid="Alessia Mazzarini" creationdate="20180405T183145Z">
+        <seg>Converte una voce di testo per un orario in un valore di tempo per i calcoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts an American date entry in text form (quoted) into a date value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T180127Z" creationid="Alessia Mazzarini" creationdate="20180405T180127Z">
@@ -9954,6 +9962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T102246Z" creationid="Marina Latini" creationdate="20171207T102246Z">
         <seg>Data/ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Day number 1 is Sunday.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183344Z" creationid="Alessia Mazzarini" creationdate="20180405T183344Z">
+        <seg>Il giorno numero 1 è la domenica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19974,6 +19990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the day of the week as a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183321Z" creationid="Alessia Mazzarini" creationdate="20180405T183321Z">
+        <seg>Restituisce, sotto forma di numero, il giorno della settimana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the day of the year (1-366).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094643Z" creationid="Elisabetta Manuele" creationdate="20180403T094613Z">
@@ -20088,8 +20112,8 @@
       <tuv lang="EN">
         <seg>Returns the minutes of a date in the internal numeric format&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T181845Z" creationid="Alessia Mazzarini" creationdate="20180405T181845Z">
-        <seg>Restituisce i minuti di una data nel fromato numerico interno&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183231Z" creationid="Alessia Mazzarini" creationdate="20180405T181845Z">
+        <seg>Restituisce, nel formato numerico interno, i minuti di una data&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20152,8 +20176,8 @@
       <tuv lang="EN">
         <seg>Returns the seconds of a date in the internal numeric format&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182708Z" creationid="Alessia Mazzarini" creationdate="20180405T182708Z">
-        <seg>Restituisce i secondi di una data nel fromato numerico interno&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183200Z" creationid="Alessia Mazzarini" creationdate="20180405T182708Z">
+        <seg>Restituisce i secondi di una data nel formato numerico interno&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20248,8 +20272,8 @@
       <tuv lang="EN">
         <seg>Returns the year part of a date entry.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095526Z" creationid="Elisabetta Manuele" creationdate="20180403T095526Z">
-        <seg>Riporta la parte dell'anno di una voce data.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183401Z" creationid="Elisabetta Manuele" creationdate="20180403T095526Z">
+        <seg>Riporta la parte dell'anno di una voce di data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21186,6 +21210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211203Z" creationid="Marco Marega" creationdate="20171026T211203Z">
         <seg>Il simbolo va posto prima o dopo il numero?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183257Z" creationid="Alessia Mazzarini" creationdate="20180405T183257Z">
+        <seg>Mostra la data corrente.</seg>
       </tuv>
     </tu>
     <tu>
