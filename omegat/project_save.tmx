@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(since LO 3.5)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183854Z" creationid="Alessia Mazzarini" creationdate="20180405T183854Z">
+        <seg>(da LO 3.5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>*</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101200Z" creationid="Elisabetta Manuele" creationdate="20180402T101200Z">
@@ -10006,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the logical value as FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183753Z" creationid="Alessia Mazzarini" creationdate="20180405T183753Z">
+        <seg>Definisce il valore logico come FALSO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deletes the table "Table name".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213334Z" creationid="Marco Marega" creationdate="20180227T213334Z">
@@ -13618,6 +13634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205620Z" creationid="Marco Marega" creationdate="20171014T205620Z">
         <seg>Se dovete creare un comando SQL, potetre richiamare lo strumento Query Design usando il pulsante con tre puntini che si trova alla destra del campo Contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a condition is TRUE, then this value, else another value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183841Z" creationid="Alessia Mazzarini" creationdate="20180405T183841Z">
+        <seg>Se una condizione è TRUE (vera), allora questo valore, altrimenti un altro valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20290,6 +20314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101453Z" creationid="Elisabetta Manuele" creationdate="20180403T101453Z">
         <seg>Riporta l'anno, il mese, il giorno, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reverses the logical value of an argument.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183931Z" creationid="Alessia Mazzarini" creationdate="20180405T183931Z">
+        <seg>Inverte il valore logico di un argomento.</seg>
       </tuv>
     </tu>
     <tu>
