@@ -10022,6 +10022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the logical value as TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201701Z" creationid="Alessia Mazzarini" creationdate="20180405T201701Z">
+        <seg>Definisce il valore logico come TRUE (vero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deletes the table "Table name".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213334Z" creationid="Marco Marega" creationdate="20180227T213334Z">
@@ -30330,6 +30338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183633Z" creationid="Alessia Mazzarini" creationdate="20180405T183633Z">
         <seg>Restituisce TRUE (vero) quando tutti i suoi argomenti sono veri (TRUE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yields TRUE when one of its conditions is TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201635Z" creationid="Alessia Mazzarini" creationdate="20180405T201635Z">
+        <seg>Restituisce TRUE (vero) quando una delle sue condizioni è vera (TRUE).</seg>
       </tuv>
     </tu>
     <tu>
