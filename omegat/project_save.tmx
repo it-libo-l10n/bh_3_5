@@ -12510,6 +12510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HOUR([DateTimeField]) calculates the hours in the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T181502Z" creationid="Alessia Mazzarini" creationdate="20180405T181502Z">
+        <seg>HOUR([DateTimeField]) calcola l'ora nel campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HOUR(time)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094753Z" creationid="Elisabetta Manuele" creationdate="20180403T094753Z">
@@ -19978,6 +19986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094806Z" creationid="Elisabetta Manuele" creationdate="20180403T094806Z">
         <seg>Riporta l'orario (tra 0 e 23).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the hours of a given time in 24-hour format.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T181446Z" creationid="Alessia Mazzarini" creationdate="20180405T181446Z">
+        <seg>Restituisce l'ora in formato 24 ore di un determinato momento.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
