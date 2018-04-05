@@ -20286,6 +20286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SECOND(NOW()) shows the seconds part of the time the command is executed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182947Z" creationid="Alessia Mazzarini" creationdate="20180405T182947Z">
+        <seg>SECOND(NOW()) mostra i secondi dell'orario in cui il comando viene eseguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SECOND(time)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095308Z" creationid="Elisabetta Manuele" creationdate="20180403T095308Z">
@@ -21178,6 +21186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211203Z" creationid="Marco Marega" creationdate="20171026T211203Z">
         <seg>Il simbolo va posto prima o dopo il numero?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182847Z" creationid="Alessia Mazzarini" creationdate="20180405T182847Z">
+        <seg>Mostra l'orario corrente.</seg>
       </tuv>
     </tu>
     <tu>
