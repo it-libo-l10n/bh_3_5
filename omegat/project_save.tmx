@@ -8694,6 +8694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the areacosine (inverse hyperbolic cosine) – argument &gt;= 1.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203400Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
+        <seg>Calcola l'inversa del coseno iperbolico – argumento &gt;= 1.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
