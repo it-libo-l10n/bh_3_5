@@ -8774,6 +8774,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the sine of a number.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205408Z" creationid="Alessia Mazzarini" creationdate="20180405T205408Z">
+        <seg>Calcola il seno di un numero.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the square root of a number.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205429Z" creationid="Alessia Mazzarini" creationdate="20180405T205429Z">
+        <seg>Calcola la radice quadrata di un numero.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
@@ -19678,6 +19694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Raises the base to the power of the exponent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205349Z" creationid="Alessia Mazzarini" creationdate="20180405T205349Z">
+        <seg>Eleva la base a potenza dell'esponente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Range</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101458Z" creationid="Elisabetta Manuele" creationdate="20180402T101458Z">
@@ -22130,6 +22154,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T172946Z" creationid="Marina Latini" creationdate="20171205T172946Z">
         <seg>Riepilogare i dati con le ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sums a list of numeric values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205443Z" creationid="Alessia Mazzarini" creationdate="20180405T205443Z">
+        <seg>Somma una lista di valori numerici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sums a list of numeric values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205506Z" creationid="Alessia Mazzarini" creationdate="20180405T205506Z">
+        <seg>Somma una lista di valori numerici.</seg>
       </tuv>
     </tu>
     <tu>
