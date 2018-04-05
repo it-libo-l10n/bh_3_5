@@ -20070,6 +20070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the minutes of a date in the internal numeric format&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T181845Z" creationid="Alessia Mazzarini" creationdate="20180405T181845Z">
+        <seg>Restituisce i minuti di una data nel fromato numerico interno&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the month (1-12).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095132Z" creationid="Elisabetta Manuele" creationdate="20180403T095132Z">
