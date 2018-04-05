@@ -8694,6 +8694,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the arcsine of a number – argument between -1 and 1.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203702Z" creationid="Alessia Mazzarini" creationdate="20180405T203702Z">
+        <seg>Calcola l'arcoseno di un numero – argumento tra -1 and 1.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the arctangent of a number.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203746Z" creationid="Alessia Mazzarini" creationdate="20180405T203746Z">
+        <seg>Calcola l'arcotangente di un numero.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the arctangent of an x-coordinate and a y-coordinate.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203853Z" creationid="Alessia Mazzarini" creationdate="20180405T203853Z">
+        <seg>Calcola l'arcotangente di una coordinata x e di una coordinata y.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the areacosine (inverse hyperbolic cosine) – argument &gt;= 1.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203400Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
