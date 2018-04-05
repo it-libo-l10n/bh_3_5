@@ -8790,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the variance, starting from a sample.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205758Z" creationid="Alessia Mazzarini" creationdate="20180405T205758Z">
+        <seg>Calcola la varianza, a partire da un esempio.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
@@ -22454,6 +22462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text &lt;f0&gt;a&lt;/f0&gt;nd Yes/No fields are allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205632Z" creationid="Alessia Mazzarini" creationdate="20180405T205632Z">
+        <seg>Testo&lt;f0&gt;e&lt;/f0&gt;campi Si/No ammessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203728Z" creationid="Marco Marega" creationdate="20171015T203728Z">
@@ -29402,6 +29418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214026Z" creationid="Marco Marega" creationdate="20171226T214026Z">
         <seg>Sfortunatamente quest'ordine di visualizzazione non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately this function (still) ends with an error message.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205727Z" creationid="Alessia Mazzarini" creationdate="20180405T205727Z">
+        <seg>Questa funzione restituisce ancora un messaggio di errore.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
