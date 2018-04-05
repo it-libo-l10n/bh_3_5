@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(occurs twice in the LO 3.3.4 Formula Wizard)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204113Z" creationid="Alessia Mazzarini" creationdate="20180405T204113Z">
+        <seg>(compare due volte nella creazione guidata Formule di LO 3.3.4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(since LO 3.5)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183854Z" creationid="Alessia Mazzarini" creationdate="20180405T183854Z">
@@ -12542,6 +12550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives the average of the entered values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204043Z" creationid="Alessia Mazzarini" creationdate="20180405T204043Z">
+        <seg>Restituisce la media dei valori immessi..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greater than</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150052Z" creationid="Marco Marega" creationdate="20180303T150052Z">
@@ -22322,6 +22338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155416Z" creationid="manuel" creationdate="20180301T155416Z">
         <seg>Il testo è mostrato come testo, interi come interi, decimali come decimali e così via.&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text is treated as zero.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204143Z" creationid="Alessia Mazzarini" creationdate="20180405T204143Z">
+        <seg>Il testo viene riconosciuto come zero.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
