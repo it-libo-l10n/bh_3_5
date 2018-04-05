@@ -17262,6 +17262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MINUTE([Timefield]) calculates the minutes part of the time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182501Z" creationid="Alessia Mazzarini" creationdate="20180405T182501Z">
+        <seg>MINUTE([Timefield]) calcola i minuti di un orario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MINUTE(time)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095049Z" creationid="Elisabetta Manuele" creationdate="20180403T095049Z">
@@ -19926,6 +19934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the current date and time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182612Z" creationid="Alessia Mazzarini" creationdate="20180405T182612Z">
+        <seg>Restituisce la data e l'orario attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the current date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182907Z" creationid="Elisabetta Manuele" creationdate="20180402T182907Z">
@@ -20086,6 +20102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the month for an entered date as a number.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182553Z" creationid="Alessia Mazzarini" creationdate="20180405T182553Z">
+        <seg>Restituisce, sotto forma di numero, il mese di una data inserita.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the name of the database to which this connection belongs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095912Z" creationid="Elisabetta Manuele" creationdate="20180403T095912Z">
@@ -20122,6 +20146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175736Z" creationid="Elisabetta Manuele" creationdate="20180402T175736Z">
         <seg>Restituisce il resto come un numero intero, nella divisione di 2 numeri interi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the seconds of a date in the internal numeric format&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182708Z" creationid="Alessia Mazzarini" creationdate="20180405T182708Z">
+        <seg>Restituisce i secondi di una data nel fromato numerico interno&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
