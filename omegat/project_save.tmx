@@ -21494,6 +21494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows if two text strings are exactly equal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T210038Z" creationid="Alessia Mazzarini" creationdate="20180405T210038Z">
+        <seg>Mostra se due stringhe di testo sono identiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the current date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183257Z" creationid="Alessia Mazzarini" creationdate="20180405T183257Z">
@@ -22490,6 +22498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203714Z" creationid="Marco Marega" creationdate="20171015T203714Z">
         <seg>Campo di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text fun&lt;f0&gt;c&lt;/f0&gt;tion&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T210011Z" creationid="Alessia Mazzarini" creationdate="20180405T210011Z">
+        <seg>Fun&lt;f0&gt;z&lt;/f0&gt;ion&lt;f1&gt;i&lt;/f1&gt; di testo</seg>
       </tuv>
     </tu>
     <tu>
