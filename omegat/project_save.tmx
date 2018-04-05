@@ -12598,6 +12598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives the value of the number '&lt;f0&gt;π'.&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205222Z" creationid="Alessia Mazzarini" creationdate="20180405T205222Z">
+        <seg>Restituisce il valore del numero '&lt;f0&gt;π'.&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greater than</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150052Z" creationid="Marco Marega" creationdate="20180303T150052Z">
@@ -20278,6 +20286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the minimum value in a row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205001Z" creationid="Alessia Mazzarini" creationdate="20180405T205001Z">
+        <seg>Restituisce il più piccolo valore di una serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the minute (0-59).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095101Z" creationid="Elisabetta Manuele" creationdate="20180403T095101Z">
@@ -20346,6 +20362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175736Z" creationid="Elisabetta Manuele" creationdate="20180402T175736Z">
         <seg>Restituisce il resto come un numero intero, nella divisione di 2 numeri interi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the remainder for a division when you enter the dividend and divisor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205125Z" creationid="Alessia Mazzarini" creationdate="20180405T205125Z">
+        <seg>Restituisce il resto di una divisione una volta inseriti dividendo e divisore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20506,6 +20530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204525Z" creationid="Alessia Mazzarini" creationdate="20180405T204525Z">
         <seg>Arrotonda un numero positivo verso l'alto o un numero negativo verso il basso al successivo intero pari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds a positive number up or a negative number down to the next odd integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205159Z" creationid="Alessia Mazzarini" creationdate="20180405T205159Z">
+        <seg>Arrotonda un numero positivo verso l'alto o un numero negativo verso il basso al successivo intero dispari.</seg>
       </tuv>
     </tu>
     <tu>
