@@ -10136,8 +10136,8 @@
       <tuv lang="EN">
         <seg>Defines the logical value as FALSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183753Z" creationid="Alessia Mazzarini" creationdate="20180405T183753Z">
-        <seg>Definisce il valore logico come FALSO.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173600Z" creationid="Alessia Mazzarini" creationdate="20180405T183753Z">
+        <seg>Definisce il valore logico come FALSE (falso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30632,8 +30632,8 @@
       <tuv lang="EN">
         <seg>Yields TRUE when all its arguments are TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183633Z" creationid="Alessia Mazzarini" creationdate="20180405T183633Z">
-        <seg>Restituisce TRUE (vero) quando tutti i suoi argomenti sono veri (TRUE).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173542Z" creationid="Alessia Mazzarini" creationdate="20180405T183633Z">
+        <seg>Restituisce TRUE (vero) quando tutti i suoi argomenti sono TRUE (vero).</seg>
       </tuv>
     </tu>
     <tu>
