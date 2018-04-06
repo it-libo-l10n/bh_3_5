@@ -15822,6 +15822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;R&lt;/f0&gt;eport &lt;f1&gt;N&lt;/f1&gt;avigator the function is displayed under &lt;f2&gt;Reader_Name&lt;/f2&gt; group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T210928Z" creationid="Alessia Mazzarini" creationdate="20180406T210928Z">
+        <seg>Nel &lt;f0&gt;N&lt;/f0&gt;avigatore &lt;f1&gt;R&lt;/f1&gt;apporti la funzione viene visualizzata sotto il gruppo &lt;f2&gt;Reader_Name&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Address table the primary key of the postcode occurs as a foreign key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180207T155520Z" creationid="steevie" creationdate="20180206T075935Z">
@@ -15858,6 +15866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115920Z" creationid="Elisabetta Manuele" creationdate="20180310T115920Z">
         <seg>Nel nostro caso viene creata una nuova tabella </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, a function of this sort was used to calculate the fines in the &lt;f1&gt;Reader_Name_Footer&lt;/f1&gt; area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T210800Z" creationid="Alessia Mazzarini" creationdate="20180406T210800Z">
+        <seg>Nell'esempio seguente, una funzione di questo tipo è stata usata per calcolare le multe nell'area &lt;f1&gt;Reader_Name_Footer&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
