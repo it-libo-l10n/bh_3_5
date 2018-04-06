@@ -20262,6 +20262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires a date in text as described in this date format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205241Z" creationid="Alessia Mazzarini" creationdate="20180406T205241Z">
+        <seg>Richiede una data sotto forma di testo come rappresentato da questo formato data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resetting autovalues</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095412Z" creationid="Marina Latini" creationdate="20171207T095412Z">
