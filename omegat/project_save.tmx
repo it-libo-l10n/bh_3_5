@@ -9398,6 +9398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts text to lower case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200503Z" creationid="Alessia Mazzarini" creationdate="20180406T200503Z">
+        <seg>Converte il testo in minuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts to hexadecimals, reverse of HEXTORAW().</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182031Z" creationid="Elisabetta Manuele" creationdate="20180402T182031Z">
@@ -12618,6 +12626,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174007Z" creationid="Alessia Mazzarini" creationdate="20180405T204043Z">
         <seg>Restituisce la media dei valori immessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gives the number of characters in a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200549Z" creationid="Alessia Mazzarini" creationdate="20180406T200222Z">
+        <seg>Restituisce il numero di caratteri in una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gives the offset of a text string within another string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200538Z" creationid="Alessia Mazzarini" creationdate="20180406T195948Z">
+        <seg>Restituisce la posizione di una stringa di testo all'interno di un'altra stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26250,6 +26274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122124Z" creationid="Elisabetta Manuele" creationdate="20180308T122124Z">
         <seg>La sorgente dati relativa alla stampa delle etichette non viene rilevata automaticamente, solo il database viene preselezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified number of characters of a text string are reproduced starting from the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200106Z" creationid="Alessia Mazzarini" creationdate="20180406T200106Z">
+        <seg>Il numero specificato di caratteri di una stringa di testo viene riprodotto a partire da sinistra.</seg>
       </tuv>
     </tu>
     <tu>
