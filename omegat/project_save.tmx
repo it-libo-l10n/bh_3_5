@@ -1238,14 +1238,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f0&gt;&lt;f2&gt;(DAY | MONTH | YEAR)&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T162243Z" creationid="Alessia Mazzarini" creationdate="20180403T162243Z">
-        <seg>&lt;/f0&gt;&lt;f2&gt;(GIORNO | MESE| ANNO)&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Andrew Pitonyak&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085145Z" creationid="Marina Latini" creationdate="20171003T085145Z">
@@ -9618,6 +9610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182940Z" creationid="Elisabetta Manuele" creationdate="20180402T182940Z">
         <seg>DATEDIFF(string, datetime1, datetime2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAY([Date field])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T172840Z" creationid="Alessia Mazzarini" creationdate="20180406T172840Z">
+        <seg>DAY([Campo data])</seg>
       </tuv>
     </tu>
     <tu>
