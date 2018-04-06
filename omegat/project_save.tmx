@@ -5416,8 +5416,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can use u&lt;/f0&gt;ser-defined functions to return specific intermediate results for a group of records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T210447Z" creationid="Alessia Mazzarini" creationdate="20180406T210447Z">
-        <seg>&lt;f0&gt;È possibile usare funzioni p&lt;/f0&gt;ersonalizzate per restituire risultati intermedi specifici per un gruppo di record.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T211259Z" creationid="Alessia Mazzarini" creationdate="20180406T210447Z">
+        <seg>&lt;f0&gt;È possibile usare funzioni p&lt;/f0&gt;ersonalizzate per restituire risultati intermedi specifici per un gruppo di record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8570,6 +8570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184242Z" creationid="Alessia Mazzarini" creationdate="20180321T084055Z">
         <seg>Il valore predefinito di questa opzione, è impostato su &lt;f0&gt;No&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By right-clicking on this function, &lt;f3&gt;you can define &lt;/f3&gt;additional functions by name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T211147Z" creationid="Alessia Mazzarini" creationdate="20180406T211040Z">
+        <seg>Facendo clic con il pulsante destro del mouse su questa funzione, &lt;f3&gt;è possibile definire &lt;/f3&gt;funzioni aggiuntive per nome.</seg>
       </tuv>
     </tu>
     <tu>
