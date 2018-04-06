@@ -12688,8 +12688,8 @@
       <tuv lang="EN">
         <seg>HOUR([DateTimeField]) calculates the hours in the field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T181502Z" creationid="Alessia Mazzarini" creationdate="20180405T181502Z">
-        <seg>HOUR([DateTimeField]) calcola l'ora nel campo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173113Z" creationid="Alessia Mazzarini" creationdate="20180405T181502Z">
+        <seg>HOUR([Campo Data Orario]) calcola l'ora nel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17456,8 +17456,8 @@
       <tuv lang="EN">
         <seg>MINUTE([Timefield]) calculates the minutes part of the time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T182501Z" creationid="Alessia Mazzarini" creationdate="20180405T182501Z">
-        <seg>MINUTE([Timefield]) calcola i minuti di un orario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173215Z" creationid="Alessia Mazzarini" creationdate="20180405T182501Z">
+        <seg>MINUTE([Campoorario]) calcola la parte minuti dell'orario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17482,6 +17482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175353Z" creationid="Elisabetta Manuele" creationdate="20180402T175353Z">
         <seg>MOD(a,b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MONTH([Datefield])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173236Z" creationid="Alessia Mazzarini" creationdate="20180406T173236Z">
+        <seg>MONTH([Campodata])</seg>
       </tuv>
     </tu>
     <tu>
@@ -20232,8 +20240,8 @@
       <tuv lang="EN">
         <seg>Returns the hours of a given time in 24-hour format.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T181446Z" creationid="Alessia Mazzarini" creationdate="20180405T181446Z">
-        <seg>Restituisce l'ora in formato 24 ore di un determinato momento.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T172950Z" creationid="Alessia Mazzarini" creationdate="20180405T181446Z">
+        <seg>Restituisce l'ora in formato 24 ore per un determinato orario.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
