@@ -26294,6 +26294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The properties of the function &lt;f0&gt;SummeGebuehrLeser_Name&lt;/f0&gt; are shown above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T211534Z" creationid="Alessia Mazzarini" creationdate="20180406T211534Z">
+        <seg>Le proprietà della funzione &lt;f0&gt;SummeGebuehrLeser_Name&lt;/f0&gt; vengono mostrate qui sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The properties of the subform must now be set up to give it the right data source, in order to reproduce the data for the correct reader.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215620Z" creationid="Marco Marega" creationdate="20171216T211020Z">
