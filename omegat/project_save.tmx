@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>- arguments between -1 and 1.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T202440Z" creationid="Alessia Mazzarini" creationdate="20180405T202440Z">
-        <seg>- argumenti tra -1 e 1.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173818Z" creationid="Alessia Mazzarini" creationdate="20180405T202440Z">
+        <seg>- argomenti tra -1 e 1.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8712,8 +8712,8 @@
       <tuv lang="EN">
         <seg>Calculates the arcsine of a number – argument between -1 and 1.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203702Z" creationid="Alessia Mazzarini" creationdate="20180405T203702Z">
-        <seg>Calcola l'arcoseno di un numero – argumento tra -1 and 1.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173924Z" creationid="Alessia Mazzarini" creationdate="20180405T203702Z">
+        <seg>Calcola l'arcoseno di un numero – argomento tra -1 e 1.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,8 +8736,8 @@
       <tuv lang="EN">
         <seg>Calculates the areacosine (inverse hyperbolic cosine) – argument &gt;= 1.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T203400Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
-        <seg>Calcola l'inversa del coseno iperbolico – argumento &gt;= 1.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173930Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
+        <seg>Calcola l'arcoseno iperbolico (l'inversa del coseno iperbolico) – argomento &gt;= 1.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13784,8 +13784,8 @@
       <tuv lang="EN">
         <seg>If a condition is TRUE, then this value, else another value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183841Z" creationid="Alessia Mazzarini" creationdate="20180405T183841Z">
-        <seg>Se una condizione è TRUE (vera), allora questo valore, altrimenti un altro valore.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173616Z" creationid="Alessia Mazzarini" creationdate="20180405T183841Z">
+        <seg>Se una condizione è TRUE (vero), allora questo valore, altrimenti un altro valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30640,16 +30640,16 @@
       <tuv lang="EN">
         <seg>Yields TRUE when one of its conditions is TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201635Z" creationid="Alessia Mazzarini" creationdate="20180405T201635Z">
-        <seg>Restituisce TRUE (vero) quando una delle sue condizioni è vera (TRUE).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173653Z" creationid="Alessia Mazzarini" creationdate="20180405T201635Z">
+        <seg>Restituisce TRUE (vero) quando una delle sue condizioni è TRUE (vero).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Yields TRUE when only one of the linked values is TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T201733Z" creationid="Alessia Mazzarini" creationdate="20180405T201733Z">
-        <seg>Restituisce TRUE (vero) quando uno dei valori collegati è vero (TRUE).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173723Z" creationid="Alessia Mazzarini" creationdate="20180405T201733Z">
+        <seg>Restituisce TRUE (vero) quando solo uno dei valori collegati è TRUE (vero).</seg>
       </tuv>
     </tu>
     <tu>
