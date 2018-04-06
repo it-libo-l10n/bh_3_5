@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;CHOOSE(2;"Apple";"Pear";"Banana")&lt;/f1&gt; returns &lt;f2&gt;Pear&lt;/f2&gt;.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202817Z" creationid="Alessia Mazzarini" creationdate="20180406T202817Z">
+        <seg>&lt;f1&gt;CHOOSE(2;"Apple";"Pear";"Banana")&lt;/f1&gt; restituisce &lt;f2&gt;Pear&lt;/f2&gt;.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;F&lt;/f1&gt;or instance, text entries are not taken up with double quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161609Z" creationid="Alessia Mazzarini" creationdate="20180403T161609Z">
@@ -9378,6 +9386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201912Z" creationid="Alessia Mazzarini" creationdate="20180406T201912Z">
         <seg>Converte un numero decimale Unicode in un carattere Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a given text into one that conforms to a valid URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202350Z" creationid="Alessia Mazzarini" creationdate="20180406T202350Z">
+        <seg>Converte un dato testo in un testo che sia conforme a un URL valido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,6 +14302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no particular standard is specified, ISO-8859-1 is followed..</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202452Z" creationid="Alessia Mazzarini" creationdate="20180406T202431Z">
+        <seg>Se non viene specificato uno standard in particolare, si segue ISO-8859-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If now you select a different record in the data source browser and then choose &lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ata as Fields&lt;/f7&gt;, the previously inserted data are replaced by the new data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185827Z" creationid="Elisabetta Manuele" creationdate="20180306T185827Z">
@@ -16338,6 +16362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170348Z" creationid="Marina Latini" creationdate="20171207T170348Z">
         <seg>Informazioni relative all'accesso facilitato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202505Z" creationid="Alessia Mazzarini" creationdate="20180406T202505Z">
+        <seg>Funzioni di informazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -24622,6 +24654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first argument is an index, followed by a list of values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202848Z" creationid="Alessia Mazzarini" creationdate="20180406T202647Z">
+        <seg>Il primo argomento è un indice seguito da un elenco di valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first column contains the view seen by a person who has the form open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200657Z" creationid="Marco Marega" creationdate="20180327T200657Z">
@@ -26746,6 +26786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212930Z" creationid="Marco Marega" creationdate="20180227T212828Z">
         <seg>Il valore di questo dovrebbe essere collegato al campo &lt;f4&gt;ID&lt;/f4&gt; della tabella &lt;f5&gt;Adress&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value represented by the index is returned.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202732Z" creationid="Alessia Mazzarini" creationdate="20180406T202732Z">
+        <seg>Restituisce il valore rappresentato dall'indice.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
