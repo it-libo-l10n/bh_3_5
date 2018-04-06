@@ -5494,6 +5494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;COUNT([time];[number])&lt;/f1&gt; returns &lt;f2&gt;2&lt;/f2&gt;, if both fields contain a value (non-NULL) or else 1 or 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203321Z" creationid="Alessia Mazzarini" creationdate="20180406T203214Z">
+        <seg>&lt;f1&gt;COUNT([orario];[numero])&lt;/f1&gt; restituisce &lt;f2&gt;2&lt;/f2&gt;, nel caso in cui entrambi i campi contengano un valore (non-NULL), altrimenti 1 o 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;F&lt;/f1&gt;or instance, text entries are not taken up with double quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161609Z" creationid="Alessia Mazzarini" creationdate="20180403T161609Z">
@@ -5754,6 +5762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222539Z" creationid="Marco Marega" creationdate="20180224T222539Z">
         <seg>&lt;f4&gt;BEFORE "Name"&lt;/f4&gt;: prima del campo "Name".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;CHOOSE([age_level_field];"Milk";"Cola";"Beer")&lt;/f4&gt; returns a possible drink &lt;f5&gt;for the given '&lt;/f5&gt;&lt;f6&gt;age_level_field'&lt;/f6&gt;&lt;f7&gt; .&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203124Z" creationid="Alessia Mazzarini" creationdate="20180406T203124Z">
+        <seg>&lt;f4&gt;CHOOSE([campo_fascia_età];"Milk";"Cola";"Beer")&lt;/f4&gt; restituisce una possibile bevanda &lt;f5&gt;per il '&lt;/f5&gt;&lt;f6&gt;campo_fascia_età'&lt;/f6&gt;&lt;f7&gt; dato.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18890,6 +18906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T170524Z" creationid="steevie" creationdate="20180226T170303Z">
         <seg>Solo i confronti con la relazione &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;IN&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;permettono di raffrontare un singolo valore con un insieme di valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only fields containing a number or a date are counted.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203149Z" creationid="Alessia Mazzarini" creationdate="20180406T203149Z">
+        <seg>Vengono contati solo i campi che contengono un numero o una data.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
