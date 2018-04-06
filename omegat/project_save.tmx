@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'Ä' becomes 196.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202231Z" creationid="Alessia Mazzarini" creationdate="20180406T202231Z">
+        <seg>'Ä' diventa 196.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" ) )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200207Z" creationid="Marco Marega" creationdate="20180327T200207Z">
@@ -6750,6 +6758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally you can specify which of several occurrences of the target string are to be replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201424Z" creationid="Alessia Mazzarini" creationdate="20180406T201424Z">
+        <seg>Inoltre, è possibile specificare quale delle diverse occorrenze della stringa di destinazione deve essere sostituita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additionally, in the case of primary keys, the field cannot be NULL under any circumstances.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141726Z" creationid="Marco Marega" creationdate="20180218T141442Z">
@@ -9326,6 +9342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conversion of numbers or times into text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201736Z" creationid="Alessia Mazzarini" creationdate="20180406T201736Z">
+        <seg>Converte numeri o orari in testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converting &lt;f0&gt;d&lt;/f0&gt;ata from one database to another</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T121549Z" creationid="Elisabetta Manuele" creationdate="20180310T121549Z">
@@ -9338,6 +9362,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162135Z" creationid="Marina Latini" creationdate="20171206T162135Z">
         <seg>Converire dati da un database a un altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a Unicode character into a Unicode decimal number.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202226Z" creationid="Alessia Mazzarini" creationdate="20180406T202226Z">
+        <seg>Converte un carattere Unicode in un numero decimale Unicode.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a Unicode decimal number into a Unicode character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201912Z" creationid="Alessia Mazzarini" creationdate="20180406T201912Z">
+        <seg>Converte un numero decimale Unicode in un carattere Unicode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,6 +11818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T211711Z" creationid="Marco Marega" creationdate="20171210T211711Z">
         <seg>A ciascun campo della tabella è stato assegnato automaticamente un appropriato campo di controllo del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, 196 becomes 'Ä' ('Ä' has the hexadecimal value 00C4, which is 196 in decimals without leading zeros).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202130Z" creationid="Alessia Mazzarini" creationdate="20180406T202130Z">
+        <seg>Per esempio, 196 diventa 'Ä' ('Ä' ha il valore esadecimale 00C4, ovvero 196 in decimali senza gli zeri iniziali).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19910,6 +19958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removes leading spaces and terminal spaces, and reduces multiple spaces to a single space.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201838Z" creationid="Alessia Mazzarini" creationdate="20180406T201838Z">
+        <seg>Rimuove spazi iniziali o finali e riduce spaziature multiple in un singolo spazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removing distracting elements from forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094631Z" creationid="Marina Latini" creationdate="20171207T094631Z">
@@ -19970,6 +20026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182214Z" creationid="Elisabetta Manuele" creationdate="20180402T182214Z">
         <seg>Sostituisce nella stringa di testo s tutte le occorrenze di replace con il testo s2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces specific parts of a given text string by new text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201331Z" creationid="Alessia Mazzarini" creationdate="20180406T201331Z">
+        <seg>Sostituisce delle parti specifiche di una data stringa di testo con del nuovo testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20082,6 +20146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180224Z" creationid="Elisabetta Manuele" creationdate="20180402T180224Z">
         <seg>Restituisce un numero casuale maggiore o uguale a 0,0 e inferiore a 1,0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a text string in upper case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202251Z" creationid="Alessia Mazzarini" creationdate="20180406T202251Z">
+        <seg>Restituisce una stringa di testo in maiuscolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20530,6 +20602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182639Z" creationid="Elisabetta Manuele" creationdate="20180402T182639Z">
         <seg>Restituisce un numero di caratteri (len) del testo s a partire dal carattere in posizione 'start' (1=sinistra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the text, or an empty text string if the value is not text (for example a number).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201537Z" creationid="Alessia Mazzarini" creationdate="20180406T201537Z">
+        <seg>Restituisce il testo o una stringa di testo vuota nel caso in cui il valore non sia testo (ma per esempio un numero).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26314,6 +26394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200106Z" creationid="Alessia Mazzarini" creationdate="20180406T200106Z">
         <seg>Il numero specificato di caratteri di una stringa di testo viene riprodotto a partire da sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified number of characters of a text string are reproduced starting from the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201233Z" creationid="Alessia Mazzarini" creationdate="20180406T201233Z">
+        <seg>l numero specificato di caratteri di una stringa di testo viene riprodotto a partire da destra.</seg>
       </tuv>
     </tu>
     <tu>
