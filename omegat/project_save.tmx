@@ -5534,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;ISNUMBER(1)&lt;/f1&gt; yields &lt;f2&gt;TRUE&lt;/f2&gt;, &lt;f3&gt;ISNUMBER("1")&lt;/f3&gt;&lt;f4&gt; yields &lt;/f4&gt;&lt;f5&gt;FALSE&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204449Z" creationid="Alessia Mazzarini" creationdate="20180406T204449Z">
+        <seg>&lt;f1&gt;ISNUMBER(1)&lt;/f1&gt; restituisce &lt;f2&gt;TRUE&lt;/f2&gt;, &lt;f3&gt;ISNUMBER("1")&lt;/f3&gt;&lt;f4&gt; restituisce &lt;/f4&gt;&lt;f5&gt;FALSE&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;If c&lt;/f1&gt;olumn 3 is set to show Column 1 * Column 2, it would actually show 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174506Z" creationid="Elisabetta Manuele" creationdate="20180402T174506Z">
@@ -22710,6 +22718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tests if a number is an odd number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204539Z" creationid="Alessia Mazzarini" creationdate="20180406T204539Z">
+        <seg>Verifica se il numero è dispari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tests if a number is even.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204012Z" creationid="Alessia Mazzarini" creationdate="20180406T204012Z">
@@ -22718,10 +22734,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tests if something is a field reference.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204616Z" creationid="Alessia Mazzarini" creationdate="20180406T204616Z">
+        <seg>Verifica se qualcosa è un riferimento di campo.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests if something is numeric.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204426Z" creationid="Alessia Mazzarini" creationdate="20180406T204426Z">
+        <seg>Verifica se qualcosa è numerico.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests if the expression is an error of type NA.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204346Z" creationid="Alessia Mazzarini" creationdate="20180406T204346Z">
+        <seg>Verifica che l'espressione sia un errore di tipo NA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tests if the field is NULL (empty).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203831Z" creationid="Alessia Mazzarini" creationdate="20180406T203831Z">
         <seg>Verifica se il campo è NULL (vuoto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests if the value is not text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204408Z" creationid="Alessia Mazzarini" creationdate="20180406T204408Z">
+        <seg>Verifica che il testo non sia testo.</seg>
       </tuv>
     </tu>
     <tu>
