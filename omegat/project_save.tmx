@@ -7440,8 +7440,8 @@
       <tuv lang="EN">
         <seg>Any text is set to zero.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204850Z" creationid="Alessia Mazzarini" creationdate="20180405T204850Z">
-        <seg>Qualsiasi testo è impostato come zero.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174220Z" creationid="Alessia Mazzarini" creationdate="20180405T204850Z">
+        <seg>Qualsiasi testo è impostato a zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7504,8 +7504,8 @@
       <tuv lang="EN">
         <seg>Argument is the angle in radians whose cosine is to be calculated.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204355Z" creationid="Alessia Mazzarini" creationdate="20180405T204355Z">
-        <seg>L'argumento è l'angolo in radianti il cui coseno deve essere calculato.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174111Z" creationid="Alessia Mazzarini" creationdate="20180405T204355Z">
+        <seg>L'argomento è l'angolo in radianti il cui coseno deve essere calcolato.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12616,8 +12616,8 @@
       <tuv lang="EN">
         <seg>Gives the average of the entered values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204043Z" creationid="Alessia Mazzarini" creationdate="20180405T204043Z">
-        <seg>Restituisce la media dei valori immessi..</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174007Z" creationid="Alessia Mazzarini" creationdate="20180405T204043Z">
+        <seg>Restituisce la media dei valori immessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20320,16 +20320,16 @@
       <tuv lang="EN">
         <seg>Returns the maximum value in a row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204813Z" creationid="Alessia Mazzarini" creationdate="20180405T204813Z">
-        <seg>Restituisce il valore massimo in una serie.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174207Z" creationid="Alessia Mazzarini" creationdate="20180405T204813Z">
+        <seg>Restituisce il valore massimo in una riga.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Returns the minimum value in a row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205001Z" creationid="Alessia Mazzarini" creationdate="20180405T205001Z">
-        <seg>Restituisce il più piccolo valore di una serie.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174235Z" creationid="Alessia Mazzarini" creationdate="20180405T205001Z">
+        <seg>Restituisce il più piccolo valore in una riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22528,8 +22528,8 @@
       <tuv lang="EN">
         <seg>Text is treated as zero.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T204143Z" creationid="Alessia Mazzarini" creationdate="20180405T204143Z">
-        <seg>Il testo viene riconosciuto come zero.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174057Z" creationid="Alessia Mazzarini" creationdate="20180405T204143Z">
+        <seg>Il testo viene trattato come zero.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
