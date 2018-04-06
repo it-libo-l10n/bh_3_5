@@ -9182,6 +9182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks if the named column has changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203620Z" creationid="Alessia Mazzarini" creationdate="20180406T203620Z">
+        <seg>Verifica se la colonna nominata è stata modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing between several different possibilities, also for transfer into the database of values other than those displayed</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204450Z" creationid="Marco Marega" creationdate="20171015T204450Z">
@@ -9506,6 +9514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171643Z" creationid="Marina Latini" creationdate="20171205T171643Z">
         <seg>Sottoricerche correlate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counts the empty fields in a region.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203439Z" creationid="Alessia Mazzarini" creationdate="20180406T203439Z">
+        <seg>Conta i campi vuoti in una regione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10746,6 +10762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153947Z" creationid="Alessia Mazzarini" creationdate="20180403T153947Z">
         <seg>Messaggio di errore in un campo definito come numero ma vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even NULL is counted, along with boolean fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203416Z" creationid="Alessia Mazzarini" creationdate="20180406T203416Z">
+        <seg>Viene contato anche NULL, assieme ai campi booleani.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16338,6 +16362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111251Z" creationid="Elisabetta Manuele" creationdate="20180308T111251Z">
         <seg>Nelle versioni comprese tra la 3.4.x e la 3.5.2, a causa di una modifica apportata alle impostazioni di base della creazione guidata etichette, si sono verificati errori di visualizzazione quando la larghezza delle etichette coincideva con quella della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Includes also fields containing text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203336Z" creationid="Alessia Mazzarini" creationdate="20180406T203336Z">
+        <seg>Include anche i campi che contengono testo.</seg>
       </tuv>
     </tu>
     <tu>
