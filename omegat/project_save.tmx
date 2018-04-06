@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Author, as read from the &lt;/f0&gt;&lt;f1&gt;Tools → Options → LibreOffice → User data&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205741Z" creationid="Alessia Mazzarini" creationdate="20180406T205741Z">
+        <seg>&lt;f0&gt;Autore, come appare in  &lt;/f0&gt;&lt;f1&gt;Strumenti → Opzioni → LibreOffice → Dati utente&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic size&lt;/f0&gt;: The image is fitted to the control and in some cases may be distorted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173525Z" creationid="Alessia Mazzarini" creationdate="20180327T173305Z">
@@ -20814,6 +20822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the title of the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205847Z" creationid="Alessia Mazzarini" creationdate="20180406T205847Z">
+        <seg>Restituisce il titolo del rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the total years, months or days between two date values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T162502Z" creationid="Alessia Mazzarini" creationdate="20180403T162441Z">
@@ -28558,6 +28574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is not therefore the actual author but the current user of the d&lt;/f2&gt;&lt;f3&gt;atabase.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205827Z" creationid="Alessia Mazzarini" creationdate="20180406T205827Z">
+        <seg>Non si tratta quindi del vero autore ma dell'utente attivo del d&lt;/f2&gt;&lt;f3&gt;atabase.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is only meaningful for Web forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201014Z" creationid="Marco Marega" creationdate="20171015T201014Z">
@@ -30098,6 +30122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165413Z" creationid="Marina Latini" creationdate="20171207T165413Z">
         <seg>Guide utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User-defined &lt;f0&gt;f&lt;/f0&gt;unctions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205916Z" creationid="Alessia Mazzarini" creationdate="20180406T205916Z">
+        <seg>Funzioni &lt;f0&gt;p&lt;/f0&gt;ersonalizzate</seg>
       </tuv>
     </tu>
     <tu>
