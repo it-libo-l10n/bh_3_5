@@ -5526,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;ISLOGICAL(TRUE())&lt;/f1&gt; or &lt;f2&gt;ISLOGICAL(FALSE())&lt;/f2&gt; yield &lt;f3&gt;TRUE&lt;/f3&gt;, Text values such as &lt;f4&gt;ISLOGICAL("TRUE")&lt;/f4&gt;&lt;f5&gt; yield &lt;/f5&gt;&lt;f6&gt;FALSE&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204308Z" creationid="Alessia Mazzarini" creationdate="20180406T204308Z">
+        <seg>&lt;f1&gt;ISLOGICAL(TRUE())&lt;/f1&gt; o &lt;f2&gt;ISLOGICAL(FALSE())&lt;/f2&gt; restituiscono &lt;f3&gt;TRUE&lt;/f3&gt;, Valori di testo come &lt;f4&gt;ISLOGICAL("TRUE")&lt;/f4&gt;&lt;f5&gt; restituiscono &lt;/f5&gt;&lt;f6&gt;FALSE&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;If c&lt;/f1&gt;olumn 3 is set to show Column 1 * Column 2, it would actually show 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174506Z" creationid="Elisabetta Manuele" creationdate="20180402T174506Z">
@@ -22702,10 +22710,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tests if a number is even.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204012Z" creationid="Alessia Mazzarini" creationdate="20180406T204012Z">
+        <seg>Verifica se il numero è pari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tests if the field is NULL (empty).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203831Z" creationid="Alessia Mazzarini" creationdate="20180406T203831Z">
         <seg>Verifica se il campo è NULL (vuoto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests if this is a Yes/No value.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204038Z" creationid="Alessia Mazzarini" creationdate="20180406T204038Z">
+        <seg>Verifica se si tratta di un valore Sì/No.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
