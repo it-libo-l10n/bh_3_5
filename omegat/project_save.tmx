@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(since&lt;/f0&gt;&lt;f1&gt; LO 3.5)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204814Z" creationid="Alessia Mazzarini" creationdate="20180406T204814Z">
+        <seg>(a partire da&lt;/f0&gt;&lt;f1&gt; LO 3.5)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>*</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101200Z" creationid="Elisabetta Manuele" creationdate="20180402T101200Z">
@@ -3618,6 +3626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113215Z" creationid="Marina Latini" creationdate="20171213T113215Z">
         <seg>&lt;f0&gt;Control+clic&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; e/o &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;clic con il pulsante secondario del mouse&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; in base all'impostazione del computer&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Converts CSV text into an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204808Z" creationid="Alessia Mazzarini" creationdate="20180406T204808Z">
+        <seg>&lt;f0&gt;Converte un testo CSV text in una matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,6 +9486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts an array into CSV text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204828Z" creationid="Alessia Mazzarini" creationdate="20180406T204828Z">
+        <seg>Converte una matrice in testo CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts degrees to radians.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180131Z" creationid="Elisabetta Manuele" creationdate="20180402T180131Z">
@@ -9490,6 +9514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100832Z" creationid="Elisabetta Manuele" creationdate="20180403T100832Z">
         <seg>Converte il termine in un altro tipo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts text into a date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204901Z" creationid="Alessia Mazzarini" creationdate="20180406T204901Z">
+        <seg>Converte un testo in una data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20254,6 +20286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns NULL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204842Z" creationid="Alessia Mazzarini" creationdate="20180406T204842Z">
+        <seg>Restituisce NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns TRUE if the entry has an error other than NA.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203949Z" creationid="Alessia Mazzarini" creationdate="20180406T203905Z">
@@ -20458,6 +20498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T094643Z" creationid="Elisabetta Manuele" creationdate="20180403T094613Z">
         <seg>Riporta il giorno dell'anno (compreso tra 1 e 366).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the error code &lt;f0&gt;NA&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204723Z" creationid="Alessia Mazzarini" creationdate="20180406T204723Z">
+        <seg>Restituisce il codice di errore &lt;f0&gt;NA&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22746,6 +22794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204426Z" creationid="Alessia Mazzarini" creationdate="20180406T204426Z">
         <seg>Verifica se qualcosa è numerico.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests if the content of the field is text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204707Z" creationid="Alessia Mazzarini" creationdate="20180406T204707Z">
+        <seg>Verifica se il contenuto del campo è testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30006,6 +30062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User defined</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204746Z" creationid="Alessia Mazzarini" creationdate="20180406T204746Z">
+        <seg>Personalizzato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User guides</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165413Z" creationid="Marina Latini" creationdate="20171207T165413Z">
@@ -30050,6 +30114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193607Z" creationid="Elisabetta Manuele" creationdate="20180308T193607Z">
         <seg>Gli utenti privi dell'&lt;f0&gt;autorizzazione&lt;/f0&gt; per la correzione dei dati o per l'aggiunta di nuove voci possono ricevere un set di dati in uso ad altri e sostituire agevolmente il proprio file *.odb per ottenere una visualizzazione aggiornata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uses the SimpleDateFormat.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204916Z" creationid="Alessia Mazzarini" creationdate="20180406T204916Z">
+        <seg>Usa il SimpleDateFormat.</seg>
       </tuv>
     </tu>
     <tu>
