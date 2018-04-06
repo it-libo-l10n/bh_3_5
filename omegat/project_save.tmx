@@ -13486,6 +13486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However no information about the column is provided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203652Z" creationid="Alessia Mazzarini" creationdate="20180406T203652Z">
+        <seg>Non viene fornita però alcuna informazione sulla colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However no query can be created without at least one table, so a &lt;f5&gt;selection&lt;/f5&gt; must be made at the beginning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T110043Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
@@ -17422,6 +17430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like ISERR, except that NA also returns TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203939Z" creationid="Alessia Mazzarini" creationdate="20180406T203939Z">
+        <seg>Come ISERR, tranne il fatto che anche NA restituisce TRUE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like Integer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T174126Z" creationid="Elisabetta Manuele" creationdate="20180402T174126Z">
@@ -20222,6 +20238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns TRUE if the entry has an error other than NA.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203949Z" creationid="Alessia Mazzarini" creationdate="20180406T203905Z">
+        <seg>Restituisce TRUE (vero) se la voce ha un errore diverso da NA.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns a 4-character code, corresponding to the sound of s – matches the function DIFFERENCE().</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182438Z" creationid="Elisabetta Manuele" creationdate="20180402T182438Z">
@@ -22674,6 +22698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095507Z" creationid="Marina Latini" creationdate="20171207T095507Z">
         <seg>Testare le tabelle per voci non necessarie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests if the field is NULL (empty).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203831Z" creationid="Alessia Mazzarini" creationdate="20180406T203831Z">
+        <seg>Verifica se il campo è NULL (vuoto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30834,6 +30866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T213315Z" creationid="Marco Marega" creationdate="20171126T213315Z">
         <seg>Il testo va a capo se il pulsante è troppo piccolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Works with regions (&lt;f0&gt;s&lt;/f0&gt;ince LO 3.5).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203751Z" creationid="Alessia Mazzarini" creationdate="20180406T203751Z">
+        <seg>Funziona con le regioni (&lt;f0&gt;a&lt;/f0&gt; partire da LO 3.5).</seg>
       </tuv>
     </tu>
     <tu>
