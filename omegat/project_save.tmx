@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can use u&lt;/f0&gt;ser-defined functions to return specific intermediate results for a group of records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T210447Z" creationid="Alessia Mazzarini" creationdate="20180406T210447Z">
+        <seg>&lt;f0&gt;È possibile usare funzioni p&lt;/f0&gt;ersonalizzate per restituire risultati intermedi specifici per un gruppo di record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You must draw t&lt;/f0&gt;he place for the chart &lt;f1&gt;using&lt;/f1&gt; the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T134822Z" creationid="Alessia Mazzarini" creationdate="20180328T134822Z">
