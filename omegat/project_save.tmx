@@ -25294,6 +25294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula adds the field &lt;f1&gt;Charge&lt;/f1&gt; to the value already stored in the function itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T211714Z" creationid="Alessia Mazzarini" creationdate="20180406T211714Z">
+        <seg>La formula aggiunge il campo &lt;f1&gt;Charge&lt;/f1&gt; al valore già immagazzinato nella funzione stessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The function fails for date fields.&lt;br23/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162454Z" creationid="manuel" creationdate="20180301T162454Z">
