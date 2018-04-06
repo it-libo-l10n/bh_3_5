@@ -12262,6 +12262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formats the value into the given output format.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200916Z" creationid="Alessia Mazzarini" creationdate="20180406T200916Z">
+        <seg>Formatta il valore secondo il formato di output dato.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatted &lt;f0&gt;f&lt;/f0&gt;ield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211225Z" creationid="Marco Marega" creationdate="20171026T211225Z">
@@ -19926,6 +19934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeats text a specified number of times.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201214Z" creationid="Alessia Mazzarini" creationdate="20180406T201214Z">
+        <seg>Ripete un testo il numero di volte specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeats the text string s count times.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182119Z" creationid="Elisabetta Manuele" creationdate="20180402T182119Z">
@@ -19938,6 +19954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104314Z" creationid="Elisabetta Manuele" creationdate="20180403T104314Z">
         <seg>Sostituite i &lt;f0&gt;dati&lt;/f0&gt; e lo &lt;f1&gt;script&lt;/f1&gt; dei file nel nuovo file del database con i file decompressi al pu&lt;f2&gt;nto 4&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces a substring by a different substring.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201103Z" creationid="Alessia Mazzarini" creationdate="20180406T201103Z">
+        <seg>Sostituisce una sottostringa con un'altra sottostringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26278,6 +26302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified number of characters of a text string are reproduced starting from a specified character position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201000Z" creationid="Alessia Mazzarini" creationdate="20180406T201000Z">
+        <seg>Il numero specificato di caratteri di una stringa di testo viene riprodotto a partire da una posizione specifica del carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified number of characters of a text string are reproduced starting from the left.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200106Z" creationid="Alessia Mazzarini" creationdate="20180406T200106Z">
@@ -26298,6 +26330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T222448Z" creationid="Marco Marega" creationdate="20171205T222448Z">
         <seg>La &lt;f0&gt;Barra di navigazione &lt;/f0&gt;standard del &lt;f1&gt;Formulario &lt;/f1&gt;mette a disposizione i &lt;f2&gt;pulsanti mostrati nella Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;30&lt;/t4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The starting position and the length of the substring to be replaced must be given.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201150Z" creationid="Alessia Mazzarini" creationdate="20180406T201150Z">
+        <seg>È necessario specificare la posizione di partenza e la lunghezza della sottostringa da sostituire.</seg>
       </tuv>
     </tu>
     <tu>
