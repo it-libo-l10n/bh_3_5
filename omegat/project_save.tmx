@@ -10478,6 +10478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Document information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205428Z" creationid="Alessia Mazzarini" creationdate="20180406T205428Z">
+        <seg>Informazioni sul documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165408Z" creationid="Marina Latini" creationdate="20171207T165408Z">
@@ -10906,6 +10914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171552Z" creationid="Elisabetta Manuele" creationdate="20180403T171552Z">
         <seg>Per esempio, l'indirizzo IP del computer in uso è 192.168.0.20, visibile in rete con identificativo &lt;f0&gt;lin_serv&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: PARSEDATE("9.10.2012";"dd.MM.yyyy") yields the internally usable number for the date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205409Z" creationid="Alessia Mazzarini" creationdate="20180406T205409Z">
+        <seg>Esempio: PARSEDATE("9.10.2012";"dd.MM.yyyy") restituisce il numero utilizzabile internamente per la data.</seg>
       </tuv>
     </tu>
     <tu>
