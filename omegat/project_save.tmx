@@ -8784,8 +8784,8 @@
       <tuv lang="EN">
         <seg>Calculates the variance, starting from a sample.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205758Z" creationid="Alessia Mazzarini" creationdate="20180405T205758Z">
-        <seg>Calcola la varianza, a partire da un esempio.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174422Z" creationid="Alessia Mazzarini" creationdate="20180405T205758Z">
+        <seg>Calcola la varianza, a partire da un campione.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19712,8 +19712,8 @@
       <tuv lang="EN">
         <seg>Raises the base to the power of the exponent.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205349Z" creationid="Alessia Mazzarini" creationdate="20180405T205349Z">
-        <seg>Eleva la base a potenza dell'esponente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T174324Z" creationid="Alessia Mazzarini" creationdate="20180405T205349Z">
+        <seg>Eleva la base alla potenza dell'esponente.</seg>
       </tuv>
     </tu>
     <tu>
