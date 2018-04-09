@@ -26878,6 +26878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sum of the marks is divided by the sum of the records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183617Z" creationid="Alessia Mazzarini" creationdate="20180409T183617Z">
+        <seg>La somma dei voti viene divisa per la somma dei record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The symbol is displayed but not stored in the table that underlies the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211125Z" creationid="Marco Marega" creationdate="20171026T211125Z">
@@ -31960,8 +31968,8 @@
       <tuv lang="EN">
         <seg>refers to the &lt;f0&gt;Class&lt;/f0&gt; group&lt;f1&gt;.&lt;/f1&gt; The content of the &lt;f2&gt;Marks&lt;/f2&gt; field is summed and the sum for all the records is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T180027Z" creationid="Alessia Mazzarini" creationdate="20180409T180027Z">
-        <seg>Si riferisce al gruppo &lt;f0&gt;Class&lt;/f0&gt; &lt;f1&gt;.&lt;/f1&gt; Il contenuto del campo &lt;f2&gt;Marks&lt;/f2&gt; si somma e viene restituita la somma di tutti i record di dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183533Z" creationid="Alessia Mazzarini" creationdate="20180409T180027Z">
+        <seg>Si riferisce al gruppo &lt;f0&gt;Class&lt;/f0&gt; (classe)&lt;f1&gt;.&lt;/f1&gt; Il contenuto del campo &lt;f2&gt;Marks&lt;/f2&gt; (voti) si somma e viene restituita la somma di tutti i record di dati.</seg>
       </tuv>
     </tu>
     <tu>
