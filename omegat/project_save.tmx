@@ -19670,6 +19670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-calculation in functions that refer to other functions must be excluded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174911Z" creationid="Alessia Mazzarini" creationdate="20180409T174911Z">
+        <seg>Il pre-calcolo va escluso nelle funzioni che si riferiscono ad altre funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070621Z" creationid="ldaghino" creationdate="20171003T070621Z">
