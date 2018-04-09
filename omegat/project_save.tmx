@@ -25494,6 +25494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The initial value is the value of the &lt;f2&gt;Charge&lt;/f2&gt; field on the first traverse of the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T173614Z" creationid="Alessia Mazzarini" creationdate="20180409T173614Z">
+        <seg>Il valore iniziale è il valore del campo &lt;f2&gt;Charge&lt;/f2&gt; nella prima del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The insertion of this toolbar can cause a brief rightward shift of the form as it builds up on the screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T211823Z" creationid="Marco Marega" creationdate="20171205T211823Z">
