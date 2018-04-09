@@ -25536,8 +25536,8 @@
       <tuv lang="EN">
         <seg>The initial value is the value of the &lt;f2&gt;Charge&lt;/f2&gt; field on the first traverse of the group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T173614Z" creationid="Alessia Mazzarini" creationdate="20180409T173614Z">
-        <seg>Il valore iniziale è il valore del campo &lt;f2&gt;Charge&lt;/f2&gt; nella prima del gruppo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183019Z" creationid="Alessia Mazzarini" creationdate="20180409T173614Z">
+        <seg>Il valore iniziale è il valore del campo &lt;f2&gt;Charge&lt;/f2&gt; quando il gruppo è attraversato per la prima volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29288,8 +29288,8 @@
       <tuv lang="EN">
         <seg>This value is stored in the function under the function name and &lt;f3&gt;is &lt;/f3&gt;reused in the formula, until the loop is ended and the group footer is written.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T173914Z" creationid="Alessia Mazzarini" creationdate="20180409T173914Z">
-        <seg>Questo valore è memorizzato nella funzione sotto il nome funzione e &lt;f3&gt;viene &lt;/f3&gt;riutilizzato nella formula, fino a che non si conclude il ciclo e il piè di pagina del gruppo non viene scritto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183129Z" creationid="Alessia Mazzarini" creationdate="20180409T173914Z">
+        <seg>Questo valore è memorizzato nella funzione sotto il nome della funzione e &lt;f3&gt;viene &lt;/f3&gt;riutilizzato nella formula, fino a che non si conclude il ciclo e il piè di pagina del gruppo viene scritto.</seg>
       </tuv>
     </tu>
     <tu>
