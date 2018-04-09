@@ -29334,6 +29334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will then yield the average marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183753Z" creationid="Alessia Mazzarini" creationdate="20180409T183753Z">
+        <seg>Ciò restituisce la media dei voti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This window allows multiple tables (and also views and queries) to be combined.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091724Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
@@ -29626,6 +29634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210416Z" creationid="Marco Marega" creationdate="20171014T210416Z">
         <seg>Per ottenere un aiuto, fate clic sul pulsante alla destra del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get the correct number, 1 must be added as shown with &lt;f3&gt;[ClassNumber]&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183701Z" creationid="Alessia Mazzarini" creationdate="20180409T183701Z">
+        <seg>Per ottenere il numero esatto, è necessario aggiungere 1, come mostrato con &lt;f3&gt;[ClassNumber]&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
