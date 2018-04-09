@@ -15822,6 +15822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case you must ensure that the functions used have already been created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174413Z" creationid="Alessia Mazzarini" creationdate="20180409T174413Z">
+        <seg>In tal caso, assicuratevi che le funzioni usate siano già state create.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that case, you must give the corresponding fields in the &lt;f5&gt;Filter&lt;/f5&gt;&lt;f6&gt;Example&lt;/f6&gt; table the type appropriate for &lt;f7&gt;the &lt;/f7&gt;foreign keys, usually &lt;f8&gt;INTEGER&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T212842Z" creationid="MicrosoftSucks" creationdate="20180218T212842Z">
