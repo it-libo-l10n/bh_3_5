@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Deep traversing&lt;/f0&gt; seems to have no function for now, unless charts are being treated here as subreports.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174035Z" creationid="Alessia Mazzarini" creationdate="20180409T174035Z">
+        <seg>&lt;f0&gt;Deep traversing&lt;/f0&gt; non sembra avere alcuna funzione per ora, a meno che i grafici non vengano considerati qui come sottorapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Default values: The term "Default value" in the GUI does not mean what the database user &lt;/f0&gt;&lt;f1&gt;generally understands as a default value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214057Z" creationid="Marco Marega" creationdate="20180204T214057Z">
@@ -13958,6 +13966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;f0&gt;Pre evaluation&lt;/f0&gt; is activated for the function, the result can also be placed in the &lt;f1&gt;group header&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174206Z" creationid="Alessia Mazzarini" creationdate="20180409T174206Z">
+        <seg>Se viene attivata la &lt;f0&gt;Pre valutazione&lt;/f0&gt; per la funzione, il risultato può venir messo anche nell'&lt;f1&gt;intestazione del gruppo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;f0&gt;Print repeated values&lt;/f0&gt; is deactivated, display of the field is inhibited when a field with the same content is loaded directly before.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T073301Z" creationid="Alessia Mazzarini" creationdate="20180324T160648Z">
@@ -19442,6 +19458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140527Z" creationid="Marco Marega" creationdate="20180203T140527Z">
         <seg>Altrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise the group header contains only the corresponding value of the first field of the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174252Z" creationid="Alessia Mazzarini" creationdate="20180409T174252Z">
+        <seg>In caso contrario, l'intestazione del gruppo conterrà solo il valore corrispondente del primo campo del gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30202,6 +30226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105855Z" creationid="Marina Latini" creationdate="20171206T105855Z">
         <seg>Funzioni pesonalizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User-defined functions can also reference other user-defined functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174328Z" creationid="Alessia Mazzarini" creationdate="20180409T174328Z">
+        <seg>Le funzioni personalizzate possono anche fare riferimento ad altre funzioni personalizzate.</seg>
       </tuv>
     </tu>
     <tu>
