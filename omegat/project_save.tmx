@@ -30318,6 +30318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Data field&lt;/f3&gt; you can enter formulas &lt;f4&gt;t&lt;/f4&gt;h&lt;f5&gt;at&lt;/f5&gt; affect only one field in the Details area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T163601Z" creationid="Alessia Mazzarini" creationdate="20180411T163601Z">
+        <seg>Using &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Data field&lt;/f3&gt; si può inserire delle formule &lt;f4&gt;t&lt;/f4&gt;h&lt;f5&gt;at&lt;/f5&gt; affect only one field in the Details area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;LibreOffice Base &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Databases &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;New&lt;/f12&gt;&lt;f13&gt;, &lt;/f13&gt;a database can be registered for subsequent use by other LibreOffice components.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181002Z" creationid="Elisabetta Manuele" creationdate="20180306T181002Z">
