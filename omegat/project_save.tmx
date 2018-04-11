@@ -27342,6 +27342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then the line does actually appear after the 10th place, when formulated as above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T172111Z" creationid="Alessia Mazzarini" creationdate="20180411T172111Z">
+        <seg>In questo caso, se formulata come sopra, la riga appare in effetti dopo la decima posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then the query begins to be read out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205729Z" creationid="Marco Marega" creationdate="20180328T205729Z">
