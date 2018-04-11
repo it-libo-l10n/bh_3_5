@@ -9262,6 +9262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;C&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;onditional formatting&lt;/f6&gt; and enter:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173006Z" creationid="Alessia Mazzarini" creationdate="20180411T173006Z">
+        <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ormattazione condizionale&lt;/f6&gt; e inserite:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing between several different possibilities, also for transfer into the database of values other than those displayed</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T204450Z" creationid="Marco Marega" creationdate="20171015T204450Z">
@@ -9400,8 +9408,8 @@
       <tuv lang="EN">
         <seg>Conditional formatting can be used, for example, to format a calender so that weekends are shown differently.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T172457Z" creationid="Alessia Mazzarini" creationdate="20180411T172457Z">
-        <seg>La formattazione condizionata Conditional formatting can be used, for example, to format a calender so that weekends are shown differently.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T172637Z" creationid="Alessia Mazzarini" creationdate="20180411T172457Z">
+        <seg>Si può usare la formattazione condizionata per esempio per formattare un calendario in modo da visualizzare i fine settimana in maniera differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31882,6 +31890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180103Z" creationid="Elisabetta Manuele" creationdate="20180402T180103Z">
         <seg>a&lt;f0&gt;b&lt;/f0&gt; , POWER(2,3) = 8, poiché 2&lt;f1&gt;3&lt;/f1&gt; = 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and the corresponding formatting for Sundays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173122Z" creationid="Alessia Mazzarini" creationdate="20180411T173122Z">
+        <seg>e la corrispondente formattazione per le domeniche.</seg>
       </tuv>
     </tu>
     <tu>
