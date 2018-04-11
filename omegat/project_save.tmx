@@ -9366,6 +9366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conditional &lt;f0&gt;p&lt;/f0&gt;rint</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T163920Z" creationid="Alessia Mazzarini" creationdate="20180411T163920Z">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;tampa condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conditional formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154606Z" creationid="Marina Latini" creationdate="20171206T154606Z">
@@ -30320,8 +30328,8 @@
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Data field&lt;/f3&gt; you can enter formulas &lt;f4&gt;t&lt;/f4&gt;h&lt;f5&gt;at&lt;/f5&gt; affect only one field in the Details area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T163601Z" creationid="Alessia Mazzarini" creationdate="20180411T163601Z">
-        <seg>Using &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Data field&lt;/f3&gt; si può inserire delle formule &lt;f4&gt;t&lt;/f4&gt;h&lt;f5&gt;at&lt;/f5&gt; affect only one field in the Details area.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T163734Z" creationid="Alessia Mazzarini" creationdate="20180411T163601Z">
+        <seg>Scegliendo &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Campo di dati&lt;/f3&gt; si può inserire delle formule &lt;f4&gt;c&lt;/f4&gt;h&lt;f5&gt;e&lt;/f5&gt; avranno effetto solo su un campo nell'area Dettaglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32074,6 +32082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170712Z" creationid="Elisabetta Manuele" creationdate="20180403T170712Z">
         <seg>server.urlid.1 &lt;s0/&gt;union-url</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sets the allowable values to "Yes" or "No" instead of TRUE and FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T163848Z" creationid="Alessia Mazzarini" creationdate="20180411T163848Z">
+        <seg>imposta "Yes" o "No" come i valori permessi invece di TRUE e FALSE.</seg>
       </tuv>
     </tu>
     <tu>
