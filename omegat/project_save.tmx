@@ -12534,6 +12534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formulas &lt;f1&gt;t&lt;/f1&gt;h&lt;f2&gt;at&lt;/f2&gt; are written in this field influence the content of a field or the display of an entire region.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164315Z" creationid="Alessia Mazzarini" creationdate="20180411T164315Z">
+        <seg>Le formule &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; inserite in questo campo influenzano il contenuto di un campo o la visualizzazionedi una intera regione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formulas start with an equals sign.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152415Z" creationid="Alessia Mazzarini" creationdate="20180403T152415Z">
@@ -13426,6 +13434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180525Z" creationid="Elisabetta Manuele" creationdate="20180307T180525Z">
         <seg>A questo punto è solo questione di scegliere il campo da cui estrarre il genere del destinatario </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here, too, you can make use of the Function Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164400Z" creationid="Alessia Mazzarini" creationdate="20180411T164400Z">
+        <seg>Anche in questo caso, potete usare la Creazione guidata Funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31794,6 +31810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194755Z" creationid="Marco Marega" creationdate="20171125T194755Z">
         <seg>c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>causes the content of the named field to be displayed only if it is true.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164523Z" creationid="Alessia Mazzarini" creationdate="20180411T164523Z">
+        <seg>fa sì che il contenuto del campo nome viene mostrato solo se è vero.</seg>
       </tuv>
     </tu>
     <tu>
