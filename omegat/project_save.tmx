@@ -23432,8 +23432,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Counter &lt;/f0&gt;counts only the records that will occur either in the group or in the report as a whole.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T145358Z" creationid="Alessia Mazzarini" creationdate="20180403T145358Z">
-        <seg>Il &lt;f0&gt;Contatore&lt;/f0&gt;counta solo i record di dati che appaiono o nel gruppo o nell'intero rapporto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T190158Z" creationid="Alessia Mazzarini" creationdate="20180403T145358Z">
+        <seg>Il &lt;f0&gt;Contatore&lt;/f0&gt;conta solo i record di dati che appaiono o nel gruppo o nell'intero rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31608,8 +31608,8 @@
       <tuv lang="EN">
         <seg>You can select in advance the&lt;f0&gt; Sum, Minimum, a&lt;/f0&gt;&lt;f1&gt;nd&lt;/f1&gt;&lt;f2&gt; Maximum&lt;/f2&gt; f&lt;f3&gt;unctions&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082035Z" creationid="Alessia Mazzarini" creationdate="20180403T082035Z">
-        <seg>Potete selzionare in anticipo la&lt;f0&gt; funzione &lt;/f0&gt;&lt;f1&gt;Accumulo, Minimo &lt;/f1&gt;&lt;f2&gt;e&lt;/f2&gt; M&lt;f3&gt;assimo&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185928Z" creationid="Alessia Mazzarini" creationdate="20180403T082035Z">
+        <seg>Potete selezionare in anticipo la&lt;f0&gt; funzione &lt;/f0&gt;&lt;f1&gt;Accumulo, Minimo &lt;/f1&gt;&lt;f2&gt;e&lt;/f2&gt; M&lt;f3&gt;assimo&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
