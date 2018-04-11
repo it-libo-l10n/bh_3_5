@@ -5462,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;[Fi&lt;/f0&gt;&lt;f1&gt;eld name]&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T190603Z" creationid="Alessia Mazzarini" creationdate="20180411T190603Z">
+        <seg>&lt;f0&gt;[No&lt;/f0&gt;&lt;f1&gt;me campo]&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;becomes, when displayed with the command &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;msgbox stSql&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205558Z" creationid="Marco Marega" creationdate="20180328T205558Z">
