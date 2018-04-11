@@ -28496,8 +28496,8 @@
       <tuv lang="EN">
         <seg>This example is n&lt;f1&gt;o&lt;/f1&gt;t translated, because the report is nt part of the example database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150620Z" creationid="Alessia Mazzarini" creationdate="20180328T150620Z">
-        <seg>Questo esempio n&lt;f1&gt;o&lt;/f1&gt;n è stato tradotto, poichè il rapporto non fa parte del database degli esempi.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185637Z" creationid="Alessia Mazzarini" creationdate="20180328T150620Z">
+        <seg>Questo esempio n&lt;f1&gt;o&lt;/f1&gt;n è stato tradotto, poiché il rapporto non fa parte del database degli esempi.</seg>
       </tuv>
     </tu>
     <tu>
