@@ -23960,8 +23960,8 @@
       <tuv lang="EN">
         <seg>The Query Editor is used to create a suitable SQL command, as you would do for a listbox in a form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T142326Z" creationid="Alessia Mazzarini" creationdate="20180328T141827Z">
-        <seg>L'editor di query serve per creare un comando SQL adatto, come quando si crea una casella di riepilogo in un formulario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185255Z" creationid="Alessia Mazzarini" creationdate="20180328T141827Z">
+        <seg>L'editor di interrogazioni serve per creare un comando SQL adatto, come quando si crea una casella di riepilogo in un formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24384,8 +24384,8 @@
       <tuv lang="EN">
         <seg>The chart &lt;f0&gt;on the next page&lt;/f0&gt;, from the membership database of a society (German: Mitgliederstatistik), has been prepared from a query that needs to be entered in direct SQL mode, as the graphical user interface does not understand it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150112Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
-        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database dei membri di una società (tedesco: Mitgliederstatistik), è stato preparato partendo da una interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185349Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
+        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database di membri di una società (tedesco: Mitgliederstatistik), è stato preparato partendo da una interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
       </tuv>
     </tu>
     <tu>
