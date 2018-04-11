@@ -17054,6 +17054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is safer to bind the conditional display to a &lt;f0&gt;group foote&lt;/f0&gt;r rather than to the graphic, if this is not otherwise needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T171820Z" creationid="Alessia Mazzarini" creationdate="20180411T171820Z">
+        <seg>È più sicuro legare la visualizzazione condizionale a un &lt;f0&gt;piè di pagina di grupp&lt;/f0&gt;o piuttosto che al grafico, a meno che questo non sia necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is significantly faster to create and is also easier to format subsequently, as there are fewer options to consider and columns can easily be dragged to the required width &lt;f2&gt;afterward&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T181831Z" creationid="Alessia Mazzarini" creationdate="20180315T213653Z">
@@ -25706,6 +25714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215547Z" creationid="Marco Marega" creationdate="20180126T215547Z">
         <seg>La biblioteca potrebbe contenere più di un libro di un autore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line is positioned in the &lt;f1&gt;group foote&lt;/f1&gt;&lt;f2&gt;r&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T171943Z" creationid="Alessia Mazzarini" creationdate="20180411T171943Z">
+        <seg>La riga viene inserita nel &lt;f1&gt;piè di pagina di grupp&lt;/f1&gt;&lt;f2&gt;o&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
