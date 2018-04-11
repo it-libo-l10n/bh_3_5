@@ -13488,8 +13488,8 @@
       <tuv lang="EN">
         <seg>Here, in a Media &lt;f0&gt;Top 10&lt;/f0&gt; list example, the chart shows the frequency with which particular media are borrowed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T141227Z" creationid="Alessia Mazzarini" creationdate="20180328T141212Z">
-        <seg>Nell'esempio qui riportato, la lista dei &lt;f0&gt;Top 10&lt;/f0&gt; media, il grafico mostra la frequenza con la quale un particolare media viene preso in prestito.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185136Z" creationid="Alessia Mazzarini" creationdate="20180328T141212Z">
+        <seg>Nell'esempio qui riportato, la lista dei media &lt;f0&gt;Top 10&lt;/f0&gt;, il grafico mostra la frequenza con la quale un particolare media viene preso in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15512,8 +15512,8 @@
       <tuv lang="EN">
         <seg>In addition, &lt;f5&gt;you can set &lt;/f5&gt;a maximum number of records for the preview, which will give an impression of how the chart will finally look.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T140136Z" creationid="Alessia Mazzarini" creationdate="20180328T140136Z">
-        <seg>Inoltre, &lt;f5&gt;potete impostare &lt;/f5&gt;un numbero massimo di record di dati per l'anteprima, che vi darà un'idea di come apparirà il grafico.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185059Z" creationid="Alessia Mazzarini" creationdate="20180328T140136Z">
+        <seg>Inoltre, &lt;f5&gt;potete impostare &lt;/f5&gt;un numero massimo di record di dati per l'anteprima, che vi darà un'idea di come apparirà il grafico.</seg>
       </tuv>
     </tu>
     <tu>
