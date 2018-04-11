@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The Report Builder is a plug-in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173951Z" creationid="Alessia Mazzarini" creationdate="20180411T173951Z">
+        <seg>&lt;f0&gt;Il Report Builder è un plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The array is run through from its lower bound (&lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Lbound()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;) to its upper bound (&lt;/f5&gt;&lt;f6&gt;'&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Ubound()&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt;) in a single loop.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215924Z" creationid="Marco Marega" creationdate="20180327T215924Z">
@@ -22226,6 +22234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145054Z" creationid="Manuel Frassinetti" creationdate="20171202T145054Z">
         <seg>Finora i campi Supporto_ID e Lettore_ID sono visibili solo come campi numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So for example the content ‘Holiday’ would lead to a different format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173920Z" creationid="Alessia Mazzarini" creationdate="20180411T173920Z">
+        <seg>Ad esempio, il contenuto ‘Vacanze’ potrebbe generare un formato differente.</seg>
       </tuv>
     </tu>
     <tu>
