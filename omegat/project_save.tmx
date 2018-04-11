@@ -11750,6 +11750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally there might be a query about the content of the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173746Z" creationid="Alessia Mazzarini" creationdate="20180411T173746Z">
+        <seg>Per ultimo, ci potrebbe essere una interrogazione sul contenuto del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally this command changes only the name of a table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213258Z" creationid="Marco Marega" creationdate="20180227T213258Z">
@@ -15986,6 +15994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T210800Z" creationid="Alessia Mazzarini" creationdate="20180406T210800Z">
         <seg>Nell'esempio seguente, una funzione di questo tipo è stata usata per calcolare le multe nell'area &lt;f1&gt;Reader_Name_Footer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, first Sunday is tested for, then Saturday.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173639Z" creationid="Alessia Mazzarini" creationdate="20180411T173639Z">
+        <seg>Nell'esempio precedente, si esamina prima Domenica, e dopo Sabato.</seg>
       </tuv>
     </tu>
     <tu>
