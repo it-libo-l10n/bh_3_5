@@ -25374,6 +25374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The general properties of group headers, group footers, and fields include a C&lt;f0&gt;onditional Print Expression&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164157Z" creationid="Alessia Mazzarini" creationdate="20180411T164157Z">
+        <seg>Le proprietà generali delle intestazioni e piè di pagina di gruppo e dei campi includono la voce Espressione di stampa c&lt;f0&gt;ondizionale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The graphic selected here is only shown inside the control, while the form is being edited.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T191605Z" creationid="Marco Marega" creationdate="20171125T191605Z">
