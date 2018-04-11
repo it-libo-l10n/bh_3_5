@@ -7686,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As is usual in Calc, &lt;s0/&gt;several conditions can be formulated and are evaluated sequentially.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173452Z" creationid="Alessia Mazzarini" creationdate="20180411T173452Z">
+        <seg>Come succede in Calc, &lt;s0/&gt;si possono formulare diverse condizioni che verranno valutate in sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As long as &lt;f4&gt;Analyze SQL command&lt;/f4&gt; is set to &lt;f5&gt;Yes&lt;/f5&gt;, the report can be subjected to sorting, grouping, and filtering.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T211811Z" creationid="Alessia Mazzarini" creationdate="20180315T211659Z">
@@ -15106,6 +15114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T193157Z" creationid="Marco Marega" creationdate="20171210T193157Z">
         <seg>Se utilizzate l'icona Seleziona (Fig&lt;f0&gt;ura&lt;/f0&gt; &lt;t1&gt;24&lt;/t1&gt;) per selezionare un'ampia area o numerosi elementi di un formulario, potete apportare le seguenti modifiche (vedete la Fig&lt;f2&gt;ura&lt;/f2&gt; &lt;t3&gt;31&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use ‘Expression is’ in conditional formatting, you can enter a formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173306Z" creationid="Alessia Mazzarini" creationdate="20180411T173306Z">
+        <seg>Selezionando ‘L'espressione è’ nella formattazione condizionata, è possibile inserire una formula.</seg>
       </tuv>
     </tu>
     <tu>
