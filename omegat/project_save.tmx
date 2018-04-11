@@ -17950,6 +17950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many forms of conditional display are not fully determined by the specified properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T165207Z" creationid="Alessia Mazzarini" creationdate="20180411T165207Z">
+        <seg>Molti forme di visualizzazione condizionale non vengono completamente determinate dalle proprietà specificate </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many functions do have Calc equivalents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161309Z" creationid="Alessia Mazzarini" creationdate="20180403T161309Z">
