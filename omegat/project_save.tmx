@@ -16686,6 +16686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead the graphic will continue to appear in the &lt;f0&gt;Detail&lt;/f0&gt;&lt;f1&gt;s &lt;/f1&gt;section after each subsequent record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T165941Z" creationid="Alessia Mazzarini" creationdate="20180411T165941Z">
+        <seg>Il grafico continuerà ad apparire nella sezione &lt;f0&gt;Dettagio&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;dopo ogni record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead we will use the built-in form control (&lt;f1&gt;Figure&lt;/f1&gt; &lt;t2&gt;29&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T211324Z" creationid="Marco Marega" creationdate="20171215T211324Z">
