@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oDataSource.isConnected&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;())&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Then&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165209Z" creationid="Elisabetta Manuele" creationdate="20180412T165209Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oDataSource.isConnected&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;())&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Then&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ISNULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;) &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;THEN&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111216Z" creationid="Elisabetta Manuele" creationdate="20180412T111216Z">
@@ -3494,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDataSource.ActiveConnection&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165224Z" creationid="Elisabetta Manuele" creationdate="20180412T165224Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDataSource.ActiveConnection&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDataSource.GetConnection&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163539Z" creationid="Elisabetta Manuele" creationdate="20180412T163539Z">
@@ -3514,6 +3530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150025Z" creationid="Elisabetta Manuele" creationdate="20180412T150025Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDataSource.connect&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent.Parent.CurrentController&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165149Z" creationid="Elisabetta Manuele" creationdate="20180412T165149Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent.Parent.CurrentController&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11734,6 +11758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End IF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165217Z" creationid="Elisabetta Manuele" creationdate="20180412T165217Z">
+        <seg>END IF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End Sub</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T204700Z" creationid="Marco Marega" creationdate="20180315T204700Z">
@@ -14246,6 +14278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here the database is known so a username and a password are not necessary, as these are already switched off in the basic HSQLDB configuration for internal version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165244Z" creationid="Elisabetta Manuele" creationdate="20180412T165244Z">
+        <seg>In questo caso il database è noto, quindi nome utente e password non sono necessari in quanto già disattivati nella configurazione di base dell'HSQLDB per la versione interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here the database name and file begin identically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170955Z" creationid="Elisabetta Manuele" creationdate="20180403T170955Z">
@@ -15370,6 +15410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181933Z" creationid="Elisabetta Manuele" creationdate="20180307T181933Z">
         <seg>Se per il testo dell'etichetta viene selezionata la casella Indirizzo, tutte le etichette avranno lo stesso contenuto, ricavato dalle impostazioni di LibreOffice per l'utente del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If however a form within the same Base file is accessing the database, you only need:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165139Z" creationid="Elisabetta Manuele" creationdate="20180412T165139Z">
+        <seg>Se invece un formulario all'interno dello stesso file di Base sta accedendo al database, è sufficiente:</seg>
       </tuv>
     </tu>
     <tu>
