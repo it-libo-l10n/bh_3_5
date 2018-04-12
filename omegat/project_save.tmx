@@ -9398,6 +9398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calling the &lt;f0&gt;subroutine&lt;/f0&gt; for text storage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152958Z" creationid="Elisabetta Manuele" creationdate="20180412T152958Z">
+        <seg>Richiamo della &lt;f0&gt;subroutine&lt;/f0&gt; per la memorizzazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be invoked using &lt;f0&gt;F1&lt;/f0&gt; when the focus is on the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192105Z" creationid="Marco Marega" creationdate="20171017T192105Z">
@@ -16746,6 +16754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T220741Z" creationid="Marco Marega" creationdate="20171226T220741Z">
         <seg>Nel primo formulario secondario del formulario secondario, non vengono visualizzati dati già esistenti; viene usato solo per la creazioni di nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the first table the foreign key for the second table is called &lt;/f14&gt;&lt;f15&gt;Town_ID&lt;/f15&gt;&lt;f16&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152908Z" creationid="Elisabetta Manuele" creationdate="20180412T152908Z">
+        <seg>Nella prima tabella la chiave esterna per la seconda tabella si chiama &lt;/f14&gt;&lt;f15&gt;Town_ID&lt;/f15&gt;&lt;f16&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25494,6 +25510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The field for the second table is the second element in the combobox, that is position &lt;/f16&gt;&lt;f17&gt;2&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152937Z" creationid="Elisabetta Manuele" creationdate="20180412T152937Z">
+        <seg>Il campo della seconda tabella è il secondo elemento della casella combinata, cioè la posizione &lt;/f16&gt;&lt;f17&gt;2&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The field must already be a primary key field to accept the property &lt;f0&gt;IDENTITY&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223855Z" creationid="Marco Marega" creationdate="20180224T223855Z">
@@ -30586,6 +30610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145410Z" creationid="Marina Latini" creationdate="20171213T145410Z">
         <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To store the entry, we use the &lt;f0&gt;subroutine&lt;/f0&gt; TextChoiceValueSave.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153212Z" creationid="Elisabetta Manuele" creationdate="20180412T153212Z">
+        <seg>Per memorizzare la voce si usa la &lt;f0&gt;subroutine&lt;/f0&gt; TextChoiceValueSave.</seg>
       </tuv>
     </tu>
     <tu>
