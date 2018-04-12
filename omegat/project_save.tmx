@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2330,6 +2330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180104T173854Z" creationid="osvaldo" creationdate="20180104T173854Z">
         <seg>&lt;f0&gt;&lt;f1&gt;I dettagli degli elementi da prendere in prestito sono  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inseriti e  &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;mostrati nell'area al centro del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;IF&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T103753Z" creationid="Elisabetta Manuele" creationdate="20180412T103753Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;IF&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
