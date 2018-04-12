@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stTag&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;String&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154723Z" creationid="Elisabetta Manuele" creationdate="20180412T154723Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stTag&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;String&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; oData &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AS&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104239Z" creationid="Elisabetta Manuele" creationdate="20180412T104239Z">
@@ -2418,6 +2426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111753Z" creationid="Elisabetta Manuele" creationdate="20180412T111753Z">
         <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SUB&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SUB&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154923Z" creationid="Elisabetta Manuele" creationdate="20180412T154923Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SUB&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;OBJECT&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154703Z" creationid="Elisabetta Manuele" creationdate="20180412T154703Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;OBJECT&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Simple forms show &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;just &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;one table as in the upper part of the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Loan&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;form&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221833Z" creationid="osvaldo" creationdate="20180103T221755Z">
@@ -3094,6 +3118,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Trim&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForm&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)) ).open&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154846Z" creationid="Elisabetta Manuele" creationdate="20180412T154846Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Trim&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForm&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)) ).open&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Trim&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForm&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;1&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)) ).close&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154907Z" creationid="Elisabetta Manuele" creationdate="20180412T154907Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Trim&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForm&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;1&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)) ).close&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tools &gt; Options&lt;/f1&gt;&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113015Z" creationid="Marina Latini" creationdate="20171213T113015Z">
@@ -3162,6 +3202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103512Z" creationid="manuel" creationdate="20180302T103512Z">
         <seg>&lt;f0&gt;&lt;f1&gt;[AS] "mostra_nome":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; I campi possono ricevere una differente assegnazione (alias) all'interno della ricerca.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;aForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;() =&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Split&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stTag&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;","&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154758Z" creationid="Elisabetta Manuele" creationdate="20180412T154758Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;aForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;() =&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Split&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stTag&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;","&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154137Z" creationid="Elisabetta Manuele" creationdate="20180412T154137Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oEvent.Source.Model.Tag&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent.Source.Model.Tag&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154737Z" creationid="Elisabetta Manuele" creationdate="20180412T154737Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent.Source.Model.Tag&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172617Z" creationid="Manuel Frassinetti" creationdate="20180116T172617Z">
         <seg>&lt;f0&gt;Se durante l'inserimento grafico usate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Vista struttura sì/no&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; passare a vista struttura no, vedrete il comando SQL per ciò che è apparso in precedenza in &lt;/f7&gt;&lt;f8&gt;Vista&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;struttura&lt;/f10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If instead, the other form is only to be opened when the current one is closed, for example where a main form exists and all other forms are controlled from it using buttons, the following macro should be bound to the form with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Customize &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Events &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Document closed&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;:&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155053Z" creationid="Elisabetta Manuele" creationdate="20180412T155053Z">
+        <seg>&lt;f0&gt;Se invece l'altro formulario deve essere aperto solo alla chiusura di quello in uso, ad esempio quando è presente un formulario principale e tutti gli altri sono controllati da questo tramite pulsanti, la macro seguente deve essere associata al formulario tramite menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Strumenti &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Personalizza &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Eventi &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Documento chiuso&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;:&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24962,6 +25026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T120657Z" creationid="Elisabetta Manuele" creationdate="20180310T120657Z">
         <seg>Selezione dei campi appropriati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The array is declared and filled with the form names, first the form to be opened and secondly the current form, which will be closed after the other has been opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154820Z" creationid="Elisabetta Manuele" creationdate="20180412T154820Z">
+        <seg>La matrice viene dichiarata e compilata con i nomi dei formulari, prima con quello da aprire, poi con quello in uso, che verrà chiuso all'apertura dell'altro.</seg>
       </tuv>
     </tu>
     <tu>
