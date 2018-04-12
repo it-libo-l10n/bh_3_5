@@ -3190,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;( &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Trim&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms2&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)) ).&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getByName&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;( &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;Trim&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForms2&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;(&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)) ).close&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155959Z" creationid="Elisabetta Manuele" creationdate="20180412T155959Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;( &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Trim&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms2&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)) ).&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getByName&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;( &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;Trim&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForms2&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;(&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)) ).close&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"Mainform"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;).open&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155115Z" creationid="Elisabetta Manuele" creationdate="20180412T155115Z">
@@ -3218,6 +3226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155733Z" creationid="Elisabetta Manuele" creationdate="20180412T155733Z">
         <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Trim&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)) ).open&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Trim&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms2&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)) ).close&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155923Z" creationid="Elisabetta Manuele" creationdate="20180412T155923Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Trim&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms2&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)) ).close&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
