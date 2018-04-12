@@ -2424,8 +2424,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; oData &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AS&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104239Z" creationid="Elisabetta Manuele" creationdate="20180412T104239Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFieldList1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171051Z" creationid="Elisabetta Manuele" creationdate="20180412T104239Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; oData &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AS&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; oDataSource &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AS&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171112Z" creationid="Elisabetta Manuele" creationdate="20180412T171112Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; oDataSource &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AS&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3106,6 +3114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155234Z" creationid="Elisabetta Manuele" creationdate="20180412T155234Z">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form_with_folders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS OBJECT&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Write_data_out_of_cache&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170953Z" creationid="Elisabetta Manuele" creationdate="20180412T170953Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Write_data_out_of_cache&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18654,6 +18670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It might be useful to do this, perhaps after a specific elapsed time or when an on-screen button is pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170856Z" creationid="Elisabetta Manuele" creationdate="20180412T170856Z">
+        <seg>Può risultare utile, ad esempio, al termine di un determinato periodo di tempo o quando si preme un pulsante sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It must be only one record, since sub-queries as shown above can only transmit one value.&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190649Z" creationid="MicrosoftSucks" creationdate="20180316T190649Z">
@@ -21570,6 +21594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170010Z" creationid="Elisabetta Manuele" creationdate="20180412T170010Z">
         <seg>REM Questo metodo non comprende:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Writes the data out of the table directly to disk while Base is running.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171033Z" creationid="Elisabetta Manuele" creationdate="20180412T171033Z">
+        <seg>REM Scrive i dati dalla tabella direttamente su disco mentre Base è in esecuzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29786,6 +29818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161117Z" creationid="Alessia Mazzarini" creationdate="20180403T161117Z">
         <seg>Questo pulsante apre la Creazione guidata funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This cache-clearing is handled by the following &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;subroutine&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;:&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170947Z" creationid="Elisabetta Manuele" creationdate="20180412T170947Z">
+        <seg>Questa operazione di pulizia della cache viene gestita dalla seguente &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;subroutine&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;:&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
