@@ -17920,8 +17920,8 @@
       <tuv lang="EN">
         <seg>In this first combobox the field &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Street&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; is displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152306Z" creationid="Elisabetta Manuele" creationdate="20180412T152306Z">
-        <seg>In questa prima casella combinata viene visualizzato il campo &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Via&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T173500Z" creationid="Elisabetta Manuele" creationdate="20180412T152306Z">
+        <seg>In questa prima casella combinata viene visualizzato il campo &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Street&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -27024,8 +27024,8 @@
       <tuv lang="EN">
         <seg>The form that contains the fields is &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filter &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Form &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Address&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152127Z" creationid="Elisabetta Manuele" creationdate="20180412T152127Z">
-        <seg>Il formulario contenente i campi è &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filtro &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Formulario &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Indirizzo&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T173426Z" creationid="Elisabetta Manuele" creationdate="20180412T152127Z">
+        <seg>Il formulario contenente i campi è &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filter &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Form &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Address&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28832,8 +28832,8 @@
       <tuv lang="EN">
         <seg>The table, which will contain the entries from the combobox, is also called &lt;/f9&gt;&lt;f10&gt;St&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;reet&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152433Z" creationid="Elisabetta Manuele" creationdate="20180412T152332Z">
-        <seg>Anche la tabella che conterrà le voci della casella combinata si chiama &lt;/f9&gt;&lt;f10&gt;Vi&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;a&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T173530Z" creationid="Elisabetta Manuele" creationdate="20180412T152332Z">
+        <seg>Anche la tabella che conterrà le voci della casella combinata si chiama &lt;/f9&gt;&lt;f10&gt;St&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;reet&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
