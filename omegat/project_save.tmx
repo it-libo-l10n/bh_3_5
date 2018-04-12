@@ -25734,6 +25734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first table has the name &lt;/f10&gt;&lt;f11&gt;Postcode&lt;/f11&gt;&lt;f12&gt;, the second table the name &lt;/f12&gt;&lt;f13&gt;Town&lt;/f13&gt;&lt;f14&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152841Z" creationid="Elisabetta Manuele" creationdate="20180412T152841Z">
+        <seg>La prima tabella è denominata &lt;/f10&gt;&lt;f11&gt;Postcode&lt;/f11&gt;&lt;f12&gt;, la seconda &lt;/f12&gt;&lt;f13&gt;Town&lt;/f13&gt;&lt;f14&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following &lt;f0&gt;subroutine&lt;/f0&gt; reads the fields in a table, creates a query internally, and finally writes a list of primary key numbers of records in the table that are retrieved by this search term.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203608Z" creationid="Marco Marega" creationdate="20180328T203608Z">
@@ -26138,6 +26146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201934Z" creationid="Marco Marega" creationdate="20171210T201837Z">
         <seg>Il titolo del formulario è stato creato usando un campo di testo fisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The hidden foreign key field is called &lt;/f2&gt;&lt;f3&gt;numPlcTownID&lt;/f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152632Z" creationid="Elisabetta Manuele" creationdate="20180412T152632Z">
+        <seg>Il campo chiave esterna nascosto si chiama &lt;/f2&gt;&lt;f3&gt;numPlcTownID&lt;/f3&gt;&lt;f4&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -29342,6 +29358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is called &lt;/f0&gt;&lt;f1&gt;comPlcTown&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152606Z" creationid="Elisabetta Manuele" creationdate="20180412T152606Z">
+        <seg>chiamata &lt;/f0&gt;&lt;f1&gt;comPlcTown&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is called the Mail Merge document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181401Z" creationid="Elisabetta Manuele" creationdate="20180307T181401Z">
@@ -29906,6 +29930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T143315Z" creationid="Marco Marega" creationdate="20180303T143315Z">
         <seg>Questo modulo di ricerca è più adatto per le persone che, per esperienza, sanno esattamente come ottenere un determinato risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This second combobox contains the &lt;/f4&gt;&lt;f5&gt;Postcode&lt;/f5&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;Town&lt;/f7&gt;&lt;f8&gt;, separated by a space (&lt;/f8&gt;&lt;f9&gt;" "&lt;/f9&gt;&lt;f10&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152736Z" creationid="Elisabetta Manuele" creationdate="20180412T152736Z">
+        <seg>Questa seconda casella combinata contiene il &lt;/f4&gt;&lt;f5&gt;Codice postale&lt;/f5&gt;&lt;f6&gt; e la &lt;/f6&gt;&lt;f7&gt;Città&lt;/f7&gt;&lt;f8&gt; separati da uno spazio (&lt;/f8&gt;&lt;f9&gt;" "&lt;/f9&gt;&lt;f10&gt;).</seg>
       </tuv>
     </tu>
     <tu>
