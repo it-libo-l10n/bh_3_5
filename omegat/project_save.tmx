@@ -3502,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ThisComponent.Parent.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162452Z" creationid="Elisabetta Manuele" creationdate="20180412T162452Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ThisComponent.Parent.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oDoc &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; thisComponent&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202427Z" creationid="Marco Marega" creationdate="20180327T202427Z">
@@ -11120,8 +11128,8 @@
       <tuv lang="EN">
         <seg>Database tasks expanded using macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094916Z" creationid="Marina Latini" creationdate="20171207T094916Z">
-        <seg>Attività del database estesi usando le macro</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162424Z" creationid="Marina Latini" creationdate="20171207T094916Z">
+        <seg>Ampliare le attività del database tramite macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -19072,8 +19080,8 @@
       <tuv lang="EN">
         <seg>Making a connection to a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094950Z" creationid="Marina Latini" creationdate="20171207T094950Z">
-        <seg>Effettuare un collegamento a un database</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162443Z" creationid="Marina Latini" creationdate="20171207T094950Z">
+        <seg>Stabilire una connessione a un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -31162,6 +31170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181400Z" creationid="Alessia Mazzarini" creationdate="20180316T181400Z">
         <seg>Continuando con il precedente esempio, per ottenere un risultato utile, il contenuto della visualizzazione dovrà essere riprodotto attraverso un raggruppamento adeguato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prevent constant toggling, the menu bar reappears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162354Z" creationid="Elisabetta Manuele" creationdate="20180412T162354Z">
+        <seg>Per evitare una commutazione continua, viene nuovamente visualizzata la barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
