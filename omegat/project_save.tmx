@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;updateNull()&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is used to fill the field with the database-specific expression for an empty field, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NULL&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111724Z" creationid="Elisabetta Manuele" creationdate="20180412T111724Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;updateNull()&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è usato per popolare il campo con l'espressione specifica del database per un campo vuoto, cioè &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NULL&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;The field “Searchterm” is empty, the &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Title&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; field must be empty also.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224354Z" creationid="MicrosoftSucks" creationdate="20180316T224354Z">
@@ -1698,6 +1706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180235Z" creationid="Manuel Frassinetti" creationdate="20171206T180235Z">
         <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Nel&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; grafico &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;della prossima sezione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;, Rientro_Data &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;ne è un esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f6&gt;'&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;updateInt&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt; places an integer (see under numerical type definitions) in this field.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111520Z" creationid="Elisabetta Manuele" creationdate="20180412T111520Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;'&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;updateInt&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt; inserisce un numero intero (cfr. in seguito le definizioni dei tipi numerici) in questo campo.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T103753Z" creationid="Elisabetta Manuele" creationdate="20180412T103753Z">
         <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;IF&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SUB&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111753Z" creationid="Elisabetta Manuele" creationdate="20180412T111753Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SUB&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3138,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211202Z" creationid="Marco Marega" creationdate="20180325T211202Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDrawpage&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc.drawpage&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateInt&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111555Z" creationid="Elisabetta Manuele" creationdate="20180412T111555Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateInt&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateNull&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111731Z" creationid="Elisabetta Manuele" creationdate="20180412T111731Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateNull&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,6 +4354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172617Z" creationid="Manuel Frassinetti" creationdate="20180116T172617Z">
         <seg>&lt;f0&gt;Se durante l'inserimento grafico usate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Vista struttura sì/no&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; passare a vista struttura no, vedrete il comando SQL per ciò che è apparso in precedenza in &lt;/f7&gt;&lt;f8&gt;Vista&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;struttura&lt;/f10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If no primary key is to be entered, because there was no entry in the combobox or that entry was deleted, the content of the invisible field must also be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111633Z" creationid="Elisabetta Manuele" creationdate="20180412T111633Z">
+        <seg>&lt;f0&gt;Se non deve essere inserita alcuna chiave primaria a causa dell'assenza di una voce nella casella combinata o della sua eliminazione, anche il contenuto del campo invisibile deve essere cancellato.</seg>
       </tuv>
     </tu>
     <tu>
