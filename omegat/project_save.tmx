@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Form_Reader_Output_Save&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153219Z" creationid="Elisabetta Manuele" creationdate="20180412T153219Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Form_Reader_Output_Save&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Search&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;stTable&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202507Z" creationid="Marco Marega" creationdate="20180327T202507Z">
@@ -20654,6 +20662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM TextChoiceValueSave(NameForm AS STRING, NameSubForm AS STRING, NameSubSubForm AS STRING, NameField AS STRING, NameIDField AS STRING, NameTableField1(from Table 1) AS STRING, NameTableField2(from table 1 or table 2) AS STRING, FieldSeparator AS STRING,NameTable1 AS STRING, OPTIONAL NameTable2 AS STRING, OPTIONAL NameIDFromTable2InTable1 AS STRING, OPTIONAL Position of the field from Table2 in the Combobox AS INTEGER [1 or 2] )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153400Z" creationid="Elisabetta Manuele" creationdate="20180412T153400Z">
+        <seg>REM TextChoiceValueSave(NameForm AS STRING, NameSubForm AS STRING, NameSubSubForm AS STRING, NameField AS STRING, NameIDField AS STRING, NameTableField1(from Table 1) AS STRING, NameTableField2(from table 1 or table 2) AS STRING, FieldSeparator AS STRING,NameTable1 AS STRING, OPTIONAL NameTable2 AS STRING, OPTIONAL NameIDFromTable2InTable1 AS STRING, OPTIONAL Position of the campo from Table2 in the Combobox AS INTEGER [1 or 2] )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM TextDisplay(NameForm AS STRING, NameSubForm AS STRING, NameSubSubForm AS STRING, NameField AS STRING, NameIDField AS STRING, NameTableField1(from Table 1) AS STRING, NameTableField2(from Table 1 or from Table 2) AS STRING, FieldSeparator AS STRING, NameTable1 AS STRING, OPTIONAL NameTable2 AS STRING, OPTIONAL NameIDFromTable2InTable1 AS STRING, OPTIONAL Field Position from the table2 in the Combobox AS INTEGER [1 or 2] )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150821Z" creationid="Elisabetta Manuele" creationdate="20180412T150821Z">
@@ -25018,6 +25034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T230414Z" creationid="Marco Marega" creationdate="20171102T230414Z">
         <seg>La casella combinata mostra il nome e non è necessario inserire del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The comment is similar to the one in the previous &lt;f0&gt;subroutine&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153428Z" creationid="Elisabetta Manuele" creationdate="20180412T153428Z">
+        <seg>Il commento è simile a quello della &lt;f0&gt;subroutine&lt;/f0&gt; precedente.</seg>
       </tuv>
     </tu>
     <tu>
