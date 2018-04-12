@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextDisplay&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comStr"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numStrID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Street"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;""&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;""&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Street"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;)&lt;/f40&gt;&lt;/f39&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150939Z" creationid="Elisabetta Manuele" creationdate="20180412T150939Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextDisplay&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comStr"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numStrID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Street"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;""&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;""&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Street"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;)&lt;/f40&gt;&lt;/f39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Loan &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;form has been extended to show additional information:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221934Z" creationid="osvaldo" creationdate="20180103T221934Z">
