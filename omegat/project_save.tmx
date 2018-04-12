@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;EXIT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;FOR&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170654Z" creationid="Elisabetta Manuele" creationdate="20180412T170654Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;USCIRE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;FOR&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;EXTRACT ({YEAR | MONTH | DAY | HOUR | MINUTE | SECOND} FROM &lt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;d&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;at&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;e or time&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;)&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101337Z" creationid="Elisabetta Manuele" creationdate="20180403T101337Z">
@@ -2534,10 +2542,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;k&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;TO&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;4&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170610Z" creationid="Elisabetta Manuele" creationdate="20180412T170610Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;k&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;TO&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;4&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;FUNCTION&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ColumnSize&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Tablename&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Fieldname&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;AS&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;STRING&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;)&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;AS&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;INTEGER&lt;/f33&gt;&lt;/f32&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145935Z" creationid="Elisabetta Manuele" creationdate="20180412T145935Z">
         <seg>&lt;f0&gt;&lt;f1&gt;FUNCTION&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ColumnSize&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Tablename&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Fieldname&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;AS&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;STRING&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;)&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;AS&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;INTEGER&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;FileCopy&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sUrl_start&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sUrl_end&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170737Z" creationid="Elisabetta Manuele" creationdate="20180412T170737Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;FileCopy&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sUrl_start&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sUrl_end&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,6 +2718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;FileDateTime&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oPath.Backup&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &amp; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"/"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;k&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;"_"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &amp;&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; sTitle&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) &lt;= &lt;s28/&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;f30&gt;FileDateTime&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;(&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;oPath.Backup&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt; &amp; &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"/"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt; &amp; &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;k&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;+&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;1&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt; &amp; &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;"_"&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; &amp; &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;sTitle&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt;) &lt;/f56&gt;&lt;/f55&gt;&lt;f57&gt;&lt;f58&gt;THEN&lt;/f58&gt;&lt;/f57&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170640Z" creationid="Elisabetta Manuele" creationdate="20180412T170640Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;FileDateTime&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oPath.Backup&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &amp; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"/"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;k&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;"_"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &amp;&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; sTitle&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) &lt;= &lt;s28/&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;f30&gt;FileDateTime&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;(&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;oPath.Backup&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt; &amp; &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"/"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt; &amp; &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;k&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;+&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;1&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt; &amp; &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;"_"&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt; &amp; &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;sTitle&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt;) &lt;/f56&gt;&lt;/f55&gt;&lt;f57&gt;&lt;f58&gt;THEN&lt;/f58&gt;&lt;/f57&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;FileExists&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oPath.Backup&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"/"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp;&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; i&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &amp; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;"_"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &amp; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;sTitle&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;) &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;THEN&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170518Z" creationid="Elisabetta Manuele" creationdate="20180412T170518Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;FileExists&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oPath.Backup&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"/"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp;&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; i&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &amp; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;"_"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &amp; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;sTitle&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;) &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;THEN&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDataSource.IsPasswordRequired&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163525Z" creationid="Elisabetta Manuele" creationdate="20180412T163525Z">
@@ -2714,6 +2754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155859Z" creationid="Elisabetta Manuele" creationdate="20180412T155859Z">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms2&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;5 &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;THEN&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170557Z" creationid="Elisabetta Manuele" creationdate="20180412T170557Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;5 &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;THEN&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,6 +3454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;You can also do a backup while &lt;s2/&gt;Base is running, provided that the data can be written back out of the cache into the file before the Databasebackup &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; is carried out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170837Z" creationid="Elisabetta Manuele" creationdate="20180412T170837Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;È anche possibile creare un backup durante l'esecuzione di &lt;s2/&gt;Base, a condizione che i dati possano essere riscritti dalla cache nel file prima di completare la &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Databasebackup. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;[AS] "display_name":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; The fields can be given a different designation (alias) within the query.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103512Z" creationid="manuel" creationdate="20180302T103512Z">
@@ -3482,6 +3538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150244Z" creationid="Elisabetta Manuele" creationdate="20180412T150244Z">
         <seg>&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getInt&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;k&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170646Z" creationid="Elisabetta Manuele" creationdate="20180412T170646Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;k&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,6 +4074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170428Z" creationid="Elisabetta Manuele" creationdate="20180412T170428Z">
         <seg>&lt;f0&gt;&lt;f1&gt;sTitle&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDoc.Title&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;sUrl_end&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oPath.Backup&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &amp; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"/"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &amp; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;i&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"_"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;sTitle&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170730Z" creationid="Elisabetta Manuele" creationdate="20180412T170730Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sUrl_end&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oPath.Backup&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &amp; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"/"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &amp; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;i&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"_"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;sTitle&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11794,6 +11866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211435Z" creationid="Marco Marega" creationdate="20180325T211435Z">
         <seg>END SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EXIT FOR</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170717Z" creationid="Elisabetta Manuele" creationdate="20180412T170717Z">
+        <seg>EXIT FOR</seg>
       </tuv>
     </tu>
     <tu>
