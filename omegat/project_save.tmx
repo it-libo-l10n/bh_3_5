@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;...getByName("Directory").getByName("Form")&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161545Z" creationid="Elisabetta Manuele" creationdate="20180412T161545Z">
+        <seg>&lt;f0&gt;...getByName("Cartella").getByName("Form")&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Update &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cascade&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; means that the key number is simply carried over.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160524Z" creationid="steevie" creationdate="20180207T160442Z">
@@ -13358,6 +13366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Form documents that lie in a directory are entered into the Additional Information field as directory/form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161513Z" creationid="Elisabetta Manuele" creationdate="20180412T161513Z">
+        <seg>I documenti del formulario che si trovano in una cartella vengono inseriti nel campo Additional Information (Informazioni supplementari) come cartella di formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Form properties</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162948Z" creationid="Marina Latini" creationdate="20171205T162948Z">
@@ -21312,8 +21328,8 @@
       <tuv lang="EN">
         <seg>Removing distracting elements from forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094631Z" creationid="Marina Latini" creationdate="20171207T094631Z">
-        <seg>Rimuove gli elementi di distrazione dai formulari</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161603Z" creationid="Marina Latini" creationdate="20171207T094631Z">
+        <seg>Rimozione degli elementi di distrazione dai formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -28958,6 +28974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are more likely to irritate the normal user, as the form is not being edited while data is input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161937Z" creationid="Elisabetta Manuele" creationdate="20180412T161937Z">
+        <seg>Hanno maggiori probabilità di irritare l'utente comune, in quanto il formulario non viene modificato durante l'immissione dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are not selectable here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161820Z" creationid="Manuel Frassinetti" creationdate="20171218T161820Z">
@@ -30262,6 +30286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This must be converted to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161530Z" creationid="Elisabetta Manuele" creationdate="20180412T161530Z">
+        <seg>Questo deve essere convertito in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This not only allows the actual data to be viewed during input, but also the previously entered data, without the need to use the Navigation bar to scroll through the records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200425Z" creationid="Marco Marega" creationdate="20171125T200050Z">
@@ -31162,6 +31194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162641Z" creationid="Marina Latini" creationdate="20171205T162641Z">
         <seg>Barre degli strumenti per la progettazione del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars have no function in forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161617Z" creationid="Elisabetta Manuele" creationdate="20180412T161617Z">
+        <seg>Le barre degli strumenti non dispongono di alcuna funzione nei formulari.</seg>
       </tuv>
     </tu>
     <tu>
