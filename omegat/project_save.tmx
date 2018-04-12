@@ -5374,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The first combobox, in which the street is entered, is called &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;comStr&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, the hidden foreign key field in the table underlying the form is called &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;numStrID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152235Z" creationid="Elisabetta Manuele" creationdate="20180412T152235Z">
+        <seg>&lt;f0&gt;La prima casella combinata in cui viene inserita la via si chiama &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;comStr&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, il campo chiave esterna nascosto, contenuto nella tabella sottostante il formulario, si chiama &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;numStrID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The following code snippet calls the reload method on the second form, causing it to refresh&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204650Z" creationid="Marco Marega" creationdate="20180325T204650Z">
@@ -25974,6 +25982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The form that contains the fields is &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filter &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Form &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Address&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152127Z" creationid="Elisabetta Manuele" creationdate="20180412T152127Z">
+        <seg>Il formulario contenente i campi è &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Filtro &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Formulario &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Indirizzo&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The form would still work if these fields were present; they are omitted to avoid a confusing duplication of field contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T222354Z" creationid="MicrosoftSucks" creationdate="20180316T222354Z">
@@ -31298,6 +31314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210558Z" creationid="Marco Marega" creationdate="20171126T210558Z">
         <seg>Abbiamo a che fare con la scelta del genere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are therefore dealing with the subform of a subform.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152145Z" creationid="Elisabetta Manuele" creationdate="20180412T152145Z">
+        <seg>Si tratta quindi del formulario secondario di un formulario secondario.&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
