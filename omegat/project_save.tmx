@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextDisplay&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comPlcTown"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numPlcTownID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Postcode"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"Town"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;" "&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Postcode"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"Town"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;"Town_ID"&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;, &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;2&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;)&lt;/f52&gt;&lt;/f51&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151021Z" creationid="Elisabetta Manuele" creationdate="20180412T151021Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextDisplay&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comPlcTown"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numPlcTownID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Postcode"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"Town"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;" "&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Postcode"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"Town"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;"Town_ID"&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;, &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;2&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;)&lt;/f52&gt;&lt;/f51&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;TextDisplay&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comStr"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numStrID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Street"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;""&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;""&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Street"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;)&lt;/f40&gt;&lt;/f39&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150939Z" creationid="Elisabetta Manuele" creationdate="20180412T150939Z">
@@ -5290,6 +5298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162827Z" creationid="Manuel Frassinetti" creationdate="20171218T162827Z">
         <seg>&lt;f0&gt;L'opzione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;naturale&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; specifica che i campi collegati nelle tabelle sono considerati uguali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TextDisplay&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;f5&gt; is called.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151630Z" creationid="Elisabetta Manuele" creationdate="20180412T151630Z">
+        <seg>&lt;f0&gt;Viene richiamata la &lt;/f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;f5&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TextDisplay&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,6 +7882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215705Z" creationid="Marco Marega" creationdate="20180327T215705Z">
         <seg>Viene creata una matrice (una raccolta di dati accessibile tramite un indice numerico) riempita con i nomi dei campi delle caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An empty parameter is represented by a pair of double quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151100Z" creationid="Elisabetta Manuele" creationdate="20180412T151100Z">
+        <seg>Un parametro vuoto è rappresentato da una coppia di virgolette doppie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24958,6 +24982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The comment lines show the list of parameters that need to be provided for the &lt;f0&gt;subroutine&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151047Z" creationid="Elisabetta Manuele" creationdate="20180412T151047Z">
+        <seg>Le righe di commento riportano l'elenco dei parametri necessari per la &lt;f0&gt;subroutine&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The condition changes the search term and the field content to lower case.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203245Z" creationid="MicrosoftSucks" creationdate="20180327T203245Z">
@@ -26282,6 +26314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224649Z" creationid="MicrosoftSucks" creationdate="20180316T224649Z">
         <seg>La seconda possibilita' puo' essere &lt;f0&gt;eliminata&lt;/f0&gt; se la condizione di filtro e':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last three parameters are optional as they are covered where necessary by default values in the &lt;f1&gt;subroutine&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151128Z" creationid="Elisabetta Manuele" creationdate="20180412T151128Z">
+        <seg>Gli ultimi tre parametri sono opzionali in quanto inclusi, ove necessario, nei valori predefiniti della &lt;f1&gt;subroutine&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
