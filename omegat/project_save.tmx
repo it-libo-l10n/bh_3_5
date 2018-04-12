@@ -2550,6 +2550,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UBound&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;aForms&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;()) &gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154400Z" creationid="Elisabetta Manuele" creationdate="20180412T154400Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UBound&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;aForms&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;()) &gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UBound&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;aForms&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;()) &gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154430Z" creationid="Elisabetta Manuele" creationdate="20180412T154430Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UBound&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;aForms&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;()) &gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202444Z" creationid="Marco Marega" creationdate="20180327T202444Z">
@@ -3310,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateInt&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154516Z" creationid="Elisabetta Manuele" creationdate="20180412T154516Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateInt&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateInt&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111555Z" creationid="Elisabetta Manuele" creationdate="20180412T111555Z">
@@ -3322,6 +3346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111731Z" creationid="Elisabetta Manuele" creationdate="20180412T111731Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oField.BoundField.updateNull&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;= &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oForm.getByName&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;aForms&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;(&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;0&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;))&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154509Z" creationid="Elisabetta Manuele" creationdate="20180412T154509Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oField&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;= &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oForm.getByName&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;aForms&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;(&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;0&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;))&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3490,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211225Z" creationid="Marco Marega" creationdate="20180325T211225Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDrawpage.forms.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;"Display"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForms&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;2&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;))&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154413Z" creationid="Elisabetta Manuele" creationdate="20180412T154413Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForms&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;2&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;))&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForms&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;))&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154452Z" creationid="Elisabetta Manuele" creationdate="20180412T154452Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;aForms&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;3&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;))&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6682,6 +6730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220202Z" creationid="Marco Marega" creationdate="20171229T220202Z">
         <seg>Sarebbe auspicabile un ultimo miglioramento: allo stato attuale la data del prestito dev'essere selezionata ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A form is to be opened when a particular event occurs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154551Z" creationid="Elisabetta Manuele" creationdate="20180412T154551Z">
+        <seg>Un formulario deve essere aperto quando si verifica un evento particolare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13350,6 +13406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further information can also be entered here, and subsequently separated out by using the &lt;f0&gt;Split()&lt;/f0&gt; function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154643Z" creationid="Elisabetta Manuele" creationdate="20180412T154643Z">
+        <seg>Qui è possibile inserire ulteriori informazioni e successivamente separarle mediante la funzione &lt;f0&gt;Split()&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Further settings for the search can make things easier through specific combinations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T141938Z" creationid="Marco Marega" creationdate="20180303T141938Z">
@@ -16886,6 +16950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the form control properties, on the line "Additional information" (tag), enter the name of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154617Z" creationid="Elisabetta Manuele" creationdate="20180412T154617Z">
+        <seg>Nelle proprietà di controllo del formulario, alla riga "Informazioni supplementari" (tag), inserite il nome del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the form navigator this is the top-level concept, to which all the forms are subsidiary.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210928Z" creationid="Marco Marega" creationdate="20180325T210928Z">
@@ -19064,8 +19136,8 @@
       <tuv lang="EN">
         <seg>Navigation from one form to another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T094601Z" creationid="Marina Latini" creationdate="20171207T094601Z">
-        <seg>Navigazione da un formulario all'altro</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154538Z" creationid="Marina Latini" creationdate="20171207T094601Z">
+        <seg>Navigazione tra formulari</seg>
       </tuv>
     </tu>
     <tu>
