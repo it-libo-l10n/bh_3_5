@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;IsNull&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104821Z" creationid="Elisabetta Manuele" creationdate="20180412T104821Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;IsNull&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202444Z" creationid="Marco Marega" creationdate="20180327T202444Z">
@@ -2982,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.getInt&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104841Z" creationid="Elisabetta Manuele" creationdate="20180412T104841Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.getInt&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oConnection &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oDataSource.GetConnection&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202544Z" creationid="Marco Marega" creationdate="20180327T202544Z">
@@ -3166,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSQL_Statement.executeQuery&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;)&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104753Z" creationid="Elisabetta Manuele" creationdate="20180412T104753Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSQL_Statement.executeQuery&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;)&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oConnection.createStatement&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202549Z" creationid="Marco Marega" creationdate="20180327T202549Z">
@@ -3246,10 +3270,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"UPDATE """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTable1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;""" SET """&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;NameTab12ID&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"""='"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;inID2&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt; + &lt;/f38&gt;&lt;f39&gt;&lt;f40&gt;"' WHERE """&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;+&lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt; &lt;/f44&gt;&lt;f45&gt;&lt;f46&gt;NameTableField1&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt; &lt;/f47&gt;&lt;f48&gt;&lt;f49&gt;+&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt; &lt;/f50&gt;&lt;f51&gt;&lt;f52&gt;""" = '"&lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;&lt;f55&gt;+&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt; &lt;/f56&gt;&lt;f57&gt;&lt;f58&gt;stContent&lt;/f58&gt;&lt;/f57&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;&lt;f61&gt;+&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt; &lt;/f62&gt;&lt;f63&gt;&lt;f64&gt;"'"&lt;/f64&gt;&lt;/f63&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104959Z" creationid="Elisabetta Manuele" creationdate="20180412T104959Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"UPDATE """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTable1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;""" SET """&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;NameTab12ID&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"""='"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;inID2&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt; + &lt;/f38&gt;&lt;f39&gt;&lt;f40&gt;"' WHERE """&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;+&lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt; &lt;/f44&gt;&lt;f45&gt;&lt;f46&gt;NameTableField1&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt; &lt;/f47&gt;&lt;f48&gt;&lt;f49&gt;+&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt; &lt;/f50&gt;&lt;f51&gt;&lt;f52&gt;""" = '"&lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;&lt;f55&gt;+&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt; &lt;/f56&gt;&lt;f57&gt;&lt;f58&gt;stContent&lt;/f58&gt;&lt;/f57&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;&lt;f61&gt;+&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt; &lt;/f62&gt;&lt;f63&gt;&lt;f64&gt;"'"&lt;/f64&gt;&lt;/f63&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;" OR "&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123154Z" creationid="Marco Marega" creationdate="20180404T123154Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;" OR "&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"CALL IDENTITY()"&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104740Z" creationid="Elisabetta Manuele" creationdate="20180412T104740Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"CALL IDENTITY()"&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7562,6 +7602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203754Z" creationid="MicrosoftSucks" creationdate="20180327T203754Z">
         <seg>E dal momento che il titolo dovrebbe essere un campo che non puo' essere &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;NULL&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;, in casi del genere vengono visualizzati tutti i record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And the corresponding ID directly read out:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104707Z" creationid="Elisabetta Manuele" creationdate="20180412T104707Z">
+        <seg>E l'ID corrispondente viene letto direttamente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,6 +26522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215058Z" creationid="Marco Marega" creationdate="20180126T215058Z">
         <seg>La chiave primaria della tabella &lt;f0&gt;Media&lt;/f0&gt; nella tabella &lt;f1&gt;Subtitle&lt;/f1&gt; viene memorizzata come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary key for the first table must finally be read again so that it can be transferred to the form's underlying table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104909Z" creationid="Elisabetta Manuele" creationdate="20180412T104909Z">
+        <seg>La chiave primaria della prima tabella deve essere letta di nuovo per poter essere trasferita alla tabella sottostante al formulario.</seg>
       </tuv>
     </tu>
     <tu>
