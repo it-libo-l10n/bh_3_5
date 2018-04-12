@@ -3054,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getInt&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111247Z" creationid="Elisabetta Manuele" creationdate="20180412T111247Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getInt&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;inID1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.getInt&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104841Z" creationid="Elisabetta Manuele" creationdate="20180412T104841Z">
@@ -4762,6 +4770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T192806Z" creationid="Marco Marega" creationdate="20171017T192806Z">
         <seg>&lt;f0&gt;Mai&lt;/f0&gt; impedisce modifiche usando la rotella del mouse; &lt;f1&gt;Se selezionato&lt;/f1&gt; permette queste modifiche se il campo è selezionato e il mouse si trova sopra al campo; &lt;f2&gt;Sempre&lt;/f2&gt; significa anche se il mouse non è sopra al campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Next the primary key value that has resulted from all these loops is transferred to the invisible field in the main table and the underlying database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111333Z" creationid="Elisabetta Manuele" creationdate="20180412T111333Z">
+        <seg>&lt;f0&gt;Successivamente il valore della chiave primaria risultante da tutti questi cicli viene riportato nel campo invisibile della tabella principale e del database sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27398,6 +27414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table field linked to the form field is reached by using &lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;BoundField&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111434Z" creationid="Elisabetta Manuele" creationdate="20180412T111434Z">
+        <seg>Il campo della tabella collegato al campo del formulario è accessibile tramite &lt;/f0&gt;&lt;f1&gt;'&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;BoundField&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table is created complete with field names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194145Z" creationid="Elisabetta Manuele" creationdate="20180308T194145Z">
@@ -27578,6 +27602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152810Z" creationid="Marco Marega" creationdate="20171230T152810Z">
         <seg>Il valore del campo data viene memorizzato nella tabella &lt;f0&gt;Filter&lt;/f0&gt; e trasferito &lt;f1&gt;per mezzo&lt;/f1&gt; dei collegamenti dal formulario secondario ai suo formulari secondari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value of the primary key field must be determined, so that it can be transferred to the main part of the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111312Z" creationid="Elisabetta Manuele" creationdate="20180412T111312Z">
+        <seg>Si deve stabilire il valore del campo chiave primaria per poterlo trasferire alla parte principale del formulario.</seg>
       </tuv>
     </tu>
     <tu>
