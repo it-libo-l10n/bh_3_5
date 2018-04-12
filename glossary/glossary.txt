@@ -12,3 +12,4 @@ listboxes	caselle di riepilogo
 listbox	casella di riepilogo
 multi-user	multiutente
 OBJECT	OBJECT
+IF	IF
