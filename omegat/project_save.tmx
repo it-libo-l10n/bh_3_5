@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Form_Reader_Input_Load&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150612Z" creationid="Elisabetta Manuele" creationdate="20180412T150612Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Form_Reader_Input_Load&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Search&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;stTable&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202507Z" creationid="Marco Marega" creationdate="20180327T202507Z">
@@ -20574,6 +20582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM TextDisplay(NameForm AS STRING, NameSubForm AS STRING, NameSubSubForm AS STRING, NameField AS STRING, NameIDField AS STRING, NameTableField1(from Table 1) AS STRING, NameTableField2(from Table 1 or from Table 2) AS STRING, FieldSeparator AS STRING, NameTable1 AS STRING, OPTIONAL NameTable2 AS STRING, OPTIONAL NameIDFromTable2InTable1 AS STRING, OPTIONAL Field Position from the table2 in the Combobox AS INTEGER [1 or 2] )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150821Z" creationid="Elisabetta Manuele" creationdate="20180412T150821Z">
+        <seg>REM TextDisplay(NameForm AS STRING, NameSubForm AS STRING, NameSubSubForm AS STRING, NameField AS STRING, NameIDField AS STRING, NameTableField1(from Table 1) AS STRING, NameTableField2(from Table 1 or from Table 2) AS STRING, FieldSeparator AS STRING, NameTable1 AS STRING, OPTIONAL NameTable2 AS STRING, OPTIONAL NameIDFromTable2InTable1 AS STRING, OPTIONAL Field Position from the table2 in the Combobox AS INTEGER [1 or 2] )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REPEAT(s,count)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182106Z" creationid="Elisabetta Manuele" creationdate="20180402T182106Z">
@@ -24118,6 +24134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;subroutine&lt;/f0&gt; for creating the combobox is called each time a record is changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150412Z" creationid="Elisabetta Manuele" creationdate="20180412T150412Z">
+        <seg>La &lt;f0&gt;subroutine&lt;/f0&gt; per la creazione della casella combinata viene richiamata ad ogni modifica di un record. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;u&lt;/f0&gt;ser &lt;f1&gt;i&lt;/f1&gt;nterface of the Report Builder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T180420Z" creationid="Alessia Mazzarini" creationdate="20180314T185342Z">
@@ -25674,6 +25698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193905Z" creationid="Marco Marega" creationdate="20171125T193905Z">
         <seg>Il contenuto che segue è riportato dall'Aiuto di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following example shows this for the &lt;f1/&gt;&lt;f2&gt;sample&lt;/f2&gt;&lt;f3/&gt; database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150602Z" creationid="Elisabetta Manuele" creationdate="20180412T150602Z">
+        <seg>L'esempio seguente illustra questa procedura per il database &lt;f1/&gt;&lt;f2&gt;campione&lt;/f2&gt;&lt;f3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
