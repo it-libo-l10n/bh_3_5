@@ -14654,6 +14654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, depending on the &lt;f0&gt;Libre&lt;/f0&gt;Office version, menu bars in text form can only be temporarily removed and then reappear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162012Z" creationid="Elisabetta Manuele" creationdate="20180412T162012Z">
+        <seg>Tuttavia, in base alla versione di &lt;f0&gt;Libre&lt;/f0&gt;Office, le barre dei menu nei formulari di testo possono essere rimosse solo temporaneamente, per poi ricomparire in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, fields already created cannot be moved by this method either.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143635Z" creationid="Marco Marega" creationdate="20180218T143635Z">
@@ -28914,6 +28922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165615Z" creationid="Elisabetta Manuele" creationdate="20180403T165615Z">
         <seg>Queste righe vanno sostituite da una connessione a un database esterno, in questo caso denominato &lt;f0&gt;Union&lt;/f0&gt;, nella cartella &lt;f1&gt;hsqldb_data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These macros allow toolbars to be removed and subsequently reinstated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161951Z" creationid="Elisabetta Manuele" creationdate="20180412T161951Z">
+        <seg>Queste macro consentono di rimuovere le barre degli strumenti e di ripristinarle successivamente.</seg>
       </tuv>
     </tu>
     <tu>
