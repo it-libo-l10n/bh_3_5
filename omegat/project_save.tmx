@@ -2878,6 +2878,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextChoiceValueSave&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comPlcTown"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numPlcTownID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Postcode"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"Town"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;" "&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Postcode"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"Town"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;"Town_ID"&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;, &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;2&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;)&lt;/f52&gt;&lt;/f51&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153638Z" creationid="Elisabetta Manuele" creationdate="20180412T153638Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextChoiceValueSave&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comPlcTown"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numPlcTownID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Postcode"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"Town"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;" "&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Postcode"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"Town"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;"Town_ID"&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;, &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;2&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;)&lt;/f52&gt;&lt;/f51&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextChoiceValueSave&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comStr"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numStrID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Street"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;""&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;""&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Street"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;""&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;""&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;)&lt;/f48&gt;&lt;/f47&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153554Z" creationid="Elisabetta Manuele" creationdate="20180412T153554Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TextChoiceValueSave&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comStr"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numStrID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Street"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;""&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;""&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Street"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;""&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;""&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;)&lt;/f48&gt;&lt;/f47&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;TextDisplay&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"Filter"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;"Form"&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;"Address"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;"comPlcTown"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;"numPlcTownID"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;, &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;"Postcode"&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;"Town"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;" "&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;, &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;"Postcode"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;, &lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;"Town"&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;, &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;"Town_ID"&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;, &lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;2&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;)&lt;/f52&gt;&lt;/f51&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151021Z" creationid="Elisabetta Manuele" creationdate="20180412T151021Z">
@@ -3666,6 +3682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T170337Z" creationid="Manuel Frassinetti" creationdate="20171206T165417Z">
         <seg>&lt;f0&gt;Un&lt;/f0&gt;campo addizionale è aggiunto, configurato per essere invisibile, solo per ordinare (in ogni caso, l'editor lo registrerà solo temporaneamente se nessun altro alias è stato definito per questo) &lt;f1&gt;[aggiungete un altro campo &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;data prestito&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; prima di &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;Prestito&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;Lettore_ID&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;"&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;oppure aggiungete un altro campo &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;"&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Prestito&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;.&lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;"&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;Lettore_ID&lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;subito dopo &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;"&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;data prestito&lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;"&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;]&lt;/f39&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;s far as the user is concerned, &lt;f1&gt;the change &lt;/f1&gt;takes place only to the text inside the combobox to which the form has no further connection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153743Z" creationid="Elisabetta Manuele" creationdate="20180412T153743Z">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;er quanto riguarda l'utente, &lt;f1&gt;la modifica &lt;/f1&gt;viene apportata solo al testo della casella combinata, a cui il formulario non è più connesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28006,6 +28030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The variables being passed are also the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153439Z" creationid="Elisabetta Manuele" creationdate="20180412T153439Z">
+        <seg>Anche le variabili passate sono le stesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The variant shown below replaces the &lt;f7&gt;S&lt;/f7&gt;ave button and reads the listboxes again, so that a chosen filter from one listbox can restrict the choices available in the other listbox.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213022Z" creationid="Marco Marega" creationdate="20180325T213022Z">
@@ -30602,6 +30634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210320Z" creationid="Marco Marega" creationdate="20180325T210320Z">
         <seg>Per ricordare in seguito a noi stessi il &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;tipo delle variabili, inizieremo i loro nomi con la preposizione &lt;/f5&gt;&lt;f6&gt;"o"&lt;/f6&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To safely store the value, the form must be informed about changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153658Z" creationid="Elisabetta Manuele" creationdate="20180412T153658Z">
+        <seg>Per memorizzare il valore in modo sicuro, il formulario deve essere tenuto aggiornato sulle modifiche.</seg>
       </tuv>
     </tu>
     <tu>
