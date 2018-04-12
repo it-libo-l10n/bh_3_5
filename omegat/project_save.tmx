@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;RecordAction_produce&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oEvent&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;OBJECT&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153921Z" creationid="Elisabetta Manuele" creationdate="20180412T153921Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;RecordAction_produce&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oEvent&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;OBJECT&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Search&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;stTable&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202507Z" creationid="Marco Marega" creationdate="20180327T202507Z">
@@ -17670,6 +17678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is necessary so that the save operation takes place in all cases where the listbox content changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153957Z" creationid="Elisabetta Manuele" creationdate="20180412T153957Z">
+        <seg>È necessario che il salvataggio avvenga a ogni modifica del contenuto all'interno della casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is noteworthy that, to print labels 7.00 cm wide, you need a page width a little bigger than &lt;s3/&gt;3*7.00 cm = 21.00 cm.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T112123Z" creationid="Elisabetta Manuele" creationdate="20180308T112123Z">
@@ -20782,6 +20798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather it is the numeric field containing the foreign key that is the link to the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153800Z" creationid="Elisabetta Manuele" creationdate="20180412T153800Z">
+        <seg>Piuttosto è il campo numerico contenente la chiave esterna a rappresentare il collegamento al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Read the license: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145438Z" creationid="Marina Latini" creationdate="20171213T143721Z">
@@ -22906,6 +22930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150342Z" creationid="Alessia Mazzarini" creationdate="20180328T150053Z">
         <seg>In questo modo il grafico contiene solo i dati relativi al genere corretto, il campo &lt;f0&gt;Genere&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(tedesco: Geschlecht) nel rapporto è&lt;/f3&gt; collegato al &lt;f4&gt;Genere &lt;/f4&gt;&lt;f5&gt;nel grafico&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the foreign key is simply assigned the value -1, which an autovalue field cannot legally have.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153822Z" creationid="Elisabetta Manuele" creationdate="20180412T153822Z">
+        <seg>Quindi alla chiave esterna viene semplicemente assegnato il valore -1, che un campo valore automatico non può di norma assumere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29174,6 +29206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ensures a change in the field content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153844Z" creationid="Elisabetta Manuele" creationdate="20180412T153844Z">
+        <seg>Questo garantisce un cambiamento nel contenuto del campo, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This ensures that at least a test of the functions is possible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T214415Z" creationid="steevie" creationdate="20180226T165441Z">
@@ -29210,6 +29250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185637Z" creationid="Alessia Mazzarini" creationdate="20180328T150620Z">
         <seg>Questo esempio n&lt;f1&gt;o&lt;/f1&gt;n è stato tradotto, poiché il rapporto non fa parte del database degli esempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This field content is then copied over by the normal operation of the listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153900Z" creationid="Elisabetta Manuele" creationdate="20180412T153900Z">
+        <seg>poi copiato dalla normale operatività della casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29754,6 +29802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211606Z" creationid="Marco Marega" creationdate="20180325T211606Z">
         <seg>Ora questa macro può essere selezionata ed eseguita quando viene salvato un altro formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This macro should be bound to the following event for the listbox: 'On focus'.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153941Z" creationid="Elisabetta Manuele" creationdate="20180412T153941Z">
+        <seg>La macro deve essere associata al seguente evento relativamente alla casella di riepilogo: 'On focus'. </seg>
       </tuv>
     </tu>
     <tu>
@@ -32122,6 +32178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T133140Z" creationid="Marco Marega" creationdate="20171014T133140Z">
         <seg>Senza queste barre degli strumenti non è possibile creare un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without this macro there will be no change in the table, that Base can recognise, since the combobox is not linked to the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154025Z" creationid="Elisabetta Manuele" creationdate="20180412T154025Z">
+        <seg>Senza questa macro non si avranno modifiche della tabella, che Base può riconoscere in quanto la casella combinata non è collegata al formulario.</seg>
       </tuv>
     </tu>
     <tu>
