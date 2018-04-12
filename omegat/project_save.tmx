@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;A&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;FUNCTION&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; is chosen here to provide return values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145727Z" creationid="Elisabetta Manuele" creationdate="20180412T145727Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;In&lt;/f3&gt;&lt;f4&gt; questo caso viene selezionata una &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;FUNZIONE&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; per indicare i valori restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;When every person in a swimming class can swim, EVERY returns TRUE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102128Z" creationid="manuel" creationdate="20180302T102128Z">
