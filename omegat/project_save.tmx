@@ -2670,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If the form documents are sorted within the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;file into directories, the macro for changing the form needs to be more extensive:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155218Z" creationid="Elisabetta Manuele" creationdate="20180412T155218Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se i documenti del formulario sono ordinati in cartelle all'interno del file &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, la macro per la modifica del formulario deve essere più complessa:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If you have to edit data, do so in a form &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;so&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; you &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;can&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; see the effects of editing data.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172207Z" creationid="Manuel Frassinetti" creationdate="20171204T172207Z">
@@ -2886,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Mainform_open&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155101Z" creationid="Elisabetta Manuele" creationdate="20180412T155101Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Mainform_open&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;RecordAction_produce&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oEvent&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;OBJECT&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153921Z" creationid="Elisabetta Manuele" creationdate="20180412T153921Z">
@@ -2914,6 +2930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154703Z" creationid="Elisabetta Manuele" creationdate="20180412T154703Z">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;OBJECT&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form_with_folders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS OBJECT&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155234Z" creationid="Elisabetta Manuele" creationdate="20180412T155234Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form_with_folders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS OBJECT&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T192042Z" creationid="osvaldo" creationdate="20171012T192042Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Questo capitolo introduce due esempi di database ed il manuale è costruito su questi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"Mainform"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;).open&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155115Z" creationid="Elisabetta Manuele" creationdate="20180412T155115Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ThisDatabaseDocument.FormDocuments.getByName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"Mainform"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;).open&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20898,6 +20930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150821Z" creationid="Elisabetta Manuele" creationdate="20180412T150821Z">
         <seg>REM TextDisplay(NameForm AS STRING, NameSubForm AS STRING, NameSubSubForm AS STRING, NameField AS STRING, NameIDField AS STRING, NameTableField1(from Table 1) AS STRING, NameTableField2(from Table 1 or from Table 2) AS STRING, FieldSeparator AS STRING, NameTable1 AS STRING, OPTIONAL NameTable2 AS STRING, OPTIONAL NameIDFromTable2InTable1 AS STRING, OPTIONAL Field Position from the table2 in the Combobox AS INTEGER [1 or 2] )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM The form to be opened is given first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155257Z" creationid="Elisabetta Manuele" creationdate="20180412T155257Z">
+        <seg>REM Prima viene indicato il modulo da aprire.</seg>
       </tuv>
     </tu>
     <tu>
