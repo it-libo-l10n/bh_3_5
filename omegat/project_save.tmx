@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f7&gt;&lt;f8&gt;A&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;SUB&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; has no return value that can be passed on and processed elsewhere.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145826Z" creationid="Elisabetta Manuele" creationdate="20180412T145809Z">
+        <seg>&lt;/f7&gt;&lt;f8&gt;Una&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;SUB&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; non ha alcun valore restituito da poter essere trasferito ed elaborato altrove.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;Macro operator&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;br14/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211428Z" creationid="Marco Marega" creationdate="20180315T211308Z">
@@ -2414,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;FUNCTION&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ColumnSize&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Tablename&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Fieldname&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;AS&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;STRING&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;)&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;AS&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;INTEGER&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145935Z" creationid="Elisabetta Manuele" creationdate="20180412T145935Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;FUNCTION&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ColumnSize&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Tablename&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;AS&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Fieldname&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;AS&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;STRING&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;)&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;AS&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;INTEGER&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;For both options, the GUI currently does not allow the possibility &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Set default&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, as the GUI default settings are different from those of the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T152104Z" creationid="steevie" creationdate="20180209T152104Z">
@@ -2602,6 +2618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T160918Z" creationid="Manuel Frassinetti" creationdate="20171216T160918Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Se desiderate inserire numeri con posizioni decimali attraverso l'interfaccia grafica utente, dovete assicurarvi che sia usato il punto decimale piuttosto che la virgola per separare le posizioni decimali all'interno dell'istruzione SQL finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDataSource.isConnected&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Then&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150018Z" creationid="Elisabetta Manuele" creationdate="20180412T150018Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDataSource.isConnected&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Then&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3138,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202542Z" creationid="Marco Marega" creationdate="20180327T202542Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDataSource &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ThisComponent.Parent.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource.connect&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150025Z" creationid="Elisabetta Manuele" creationdate="20180412T150025Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource.connect&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ThisComponent.Parent.CurrentController&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145944Z" creationid="Elisabetta Manuele" creationdate="20180412T145944Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ThisComponent.Parent.CurrentController&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
