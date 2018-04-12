@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In addition, there are the usual suspects for files that suddenly refuse to open, such as hard drive failure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165552Z" creationid="Elisabetta Manuele" creationdate="20180412T165552Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Inoltre tra le cause di una mancata apertura improvvisa di un file si annoverano i soliti sospetti, ad esempio un guasto del disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
@@ -2834,6 +2842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210133Z" creationid="Marco Marega" creationdate="20180328T210133Z">
         <seg>&lt;f0&gt;&lt;f1&gt;InI&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;0&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;It can sometimes happen, especially when a database is being created, that the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; file is unexpectedly truncated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165402Z" creationid="Elisabetta Manuele" creationdate="20180412T165402Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;A volte può accadere, specialmente durante la creazione di un database, che il file &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; venga troncato in modo imprevisto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3334,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;When the database is in use, it can be damaged by operating system failure, if this occurs just as the Base file is being terminated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165450Z" creationid="Elisabetta Manuele" creationdate="20180412T165450Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando il database è in uso, può essere danneggiato da un errore del sistema operativo, se si verifica proprio mentre il file di Base viene terminato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When using Design View Mode, a field is only visible if the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Visible&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; row contains a check mark for the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145736Z" creationid="Manuel Frassinetti" creationdate="20171214T180713Z">
@@ -3494,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oDataSource.activeConnection&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165311Z" creationid="Elisabetta Manuele" creationdate="20180412T165311Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oDataSource.activeConnection&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDataSource.ActiveConnection&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150103Z" creationid="Elisabetta Manuele" creationdate="20180412T150103Z">
@@ -3522,6 +3554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202542Z" creationid="Marco Marega" creationdate="20180327T202542Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDataSource &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ThisComponent.Parent.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Thiscomponent.Drawpage.Forms&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165306Z" creationid="Elisabetta Manuele" creationdate="20180412T165306Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Thiscomponent.Drawpage.Forms&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13166,6 +13206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For forms outside Base, the connection is made through the first form:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165300Z" creationid="Elisabetta Manuele" creationdate="20180412T165300Z">
+        <seg>Nel caso di formulari esterni a Base, la connessione viene stabilita tramite il primo formulario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For further information, see the description in the &lt;f0&gt;&lt;f1&gt;LibreOffice &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Calc Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T140355Z" creationid="Alessia Mazzarini" creationdate="20180328T140355Z">
@@ -13658,6 +13706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085722Z" creationid="Marina Latini" creationdate="20171003T085722Z">
         <seg>Assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frequent saving after editing is therefore useful, especially when using the Reports module.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165424Z" creationid="Elisabetta Manuele" creationdate="20180412T165424Z">
+        <seg>È quindi opportuno effettuare frequenti salvataggi dopo la modifica, soprattutto se si usa il modulo Report.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30378,6 +30434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193748Z" creationid="Marco Marega" creationdate="20171125T193748Z">
         <seg>Questo è ciò che vede l'utente del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is when the content of the database is being &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;written&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; into the file.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165528Z" creationid="Elisabetta Manuele" creationdate="20180412T165528Z">
+        <seg>Ciò avviene durante la &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;scrittura&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; del contenuto del database nel file.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
