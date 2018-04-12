@@ -5254,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The following function gives the number of characters in the respective table column, so that entries &lt;/f0&gt;&lt;f1&gt;that&lt;/f1&gt;&lt;f2&gt; are too long do not just get truncated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145552Z" creationid="Elisabetta Manuele" creationdate="20180412T145552Z">
+        <seg>&lt;f0&gt;La funzione seguente riporta il numero di caratteri contenuti nella relativa colonna della tabella &lt;/f0&gt;&lt;f1&gt;per&lt;/f1&gt;&lt;f2&gt; evitare il troncamento delle voci troppo lunghe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The following subroutine assumes that the “Additional information” property for each listbox contains a comma&lt;/f0&gt;&lt;f1&gt;-&lt;/f1&gt;&lt;f2&gt;separated list of all listbox names with no spaces.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215408Z" creationid="Marco Marega" creationdate="20180327T215408Z">
