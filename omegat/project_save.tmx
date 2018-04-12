@@ -2734,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; oData.isConnected&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;() )&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; oData&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;connect&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;()&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171143Z" creationid="Elisabetta Manuele" creationdate="20180412T171143Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; oData.isConnected&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;() )&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; oData&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;connect&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;()&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;FileExists&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oPath.Backup&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &amp; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"/"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &amp;&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; i&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &amp; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;"_"&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &amp; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;sTitle&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;) &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;THEN&lt;/f33&gt;&lt;/f32&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170518Z" creationid="Elisabetta Manuele" creationdate="20180412T170518Z">
@@ -33930,6 +33938,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150313Z" creationid="Marco Marega" creationdate="20180303T150313Z">
         <seg>non simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oData &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ThisDatabaseDocument&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CurrentController&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171119Z" creationid="Elisabetta Manuele" creationdate="20180412T171119Z">
+        <seg>oData &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ThisDatabaseDocument&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CurrentController&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oDataSource &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oData.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171149Z" creationid="Elisabetta Manuele" creationdate="20180412T171149Z">
+        <seg>oDataSource &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oData.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oDataSource&lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;flush&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T171155Z" creationid="Elisabetta Manuele" creationdate="20180412T171155Z">
+        <seg>oDataSource&lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;flush&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
