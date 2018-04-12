@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement.executeUpdate&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stSql&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T105011Z" creationid="Elisabetta Manuele" creationdate="20180412T105011Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement.executeUpdate&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stSql&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;sTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oEvent.Source.Model.Tag&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202422Z" creationid="Marco Marega" creationdate="20180327T202422Z">
@@ -16242,6 +16250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103240Z" creationid="Elisabetta Manuele" creationdate="20180403T103240Z">
         <seg>Nel caso di improvvisi arresti anomali del PC, può accadere che database attivi (database HSQLDB interni) non possano più essere aperti in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the case where both the fields underlying the combobox are in the same table (for example Surname and Firstname in the Name table), a different query is needed:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T105345Z" creationid="Elisabetta Manuele" creationdate="20180412T105345Z">
+        <seg>Nel caso in cui entrambi i campi sottostanti la casella combinata si trovino nella stessa tabella (ad esempio Cognome e Nome nella tabella Nome), è necessaria una query diversa:</seg>
       </tuv>
     </tu>
     <tu>
