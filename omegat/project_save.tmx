@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; oData &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AS&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104239Z" creationid="Elisabetta Manuele" creationdate="20180412T104239Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFieldList1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; OBJECT&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Da&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ta as Fields&lt;/f2&gt;&lt;f3&gt;, as described i&lt;/f3&gt;n the previous section, is used to create mail merge fields in a &lt;s4/&gt;Writer document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T185243Z" creationid="Elisabetta Manuele" creationdate="20180306T185730Z">
@@ -5066,6 +5074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T162316Z" creationid="Manuel Frassinetti" creationdate="20171218T162316Z">
         <seg>&lt;f0&gt;L'impostazione più importante è l'opzione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;congiungi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The primary key for the second value is temporarily stored in the variable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;inID2&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and then written as a foreign key into the table corresponding to the first value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104404Z" creationid="Elisabetta Manuele" creationdate="20180412T104404Z">
+        <seg>&lt;f0&gt;La chiave primaria del secondo valore viene memorizzata temporaneamente nella variabile &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;inID2&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e quindi scritta come chiave esterna nella tabella corrispondente al primo valore.</seg>
       </tuv>
     </tu>
     <tu>
