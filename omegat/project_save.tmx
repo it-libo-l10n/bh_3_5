@@ -13030,6 +13030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Function to measure the length of the combobox entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111809Z" creationid="Elisabetta Manuele" creationdate="20180412T111809Z">
+        <seg>Funzione per misurare la lunghezza dell'elemento casella combinata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions are used for calculations such as sums.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T182656Z" creationid="Alessia Mazzarini" creationdate="20180316T181037Z">
