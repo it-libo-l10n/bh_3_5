@@ -2670,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDataSource.IsPasswordRequired&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163525Z" creationid="Elisabetta Manuele" creationdate="20180412T163525Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDataSource.IsPasswordRequired&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForms1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) =&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;THEN&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155708Z" creationid="Elisabetta Manuele" creationdate="20180412T155708Z">
@@ -3474,6 +3482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150103Z" creationid="Elisabetta Manuele" creationdate="20180412T150103Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDataSource.ActiveConnection&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDataSource.GetConnection&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163539Z" creationid="Elisabetta Manuele" creationdate="20180412T163539Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDataSource.GetConnection&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14118,6 +14134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here it would be possible to provide a username and a password, if one were necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163600Z" creationid="Elisabetta Manuele" creationdate="20180412T163600Z">
+        <seg>A questo punto sarebbe possibile indicare un nome utente e una password, se necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here many label brands are incorporated so that most other settings in the tab &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Format&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; are not necessary.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184559Z" creationid="Elisabetta Manuele" creationdate="20180307T184559Z">
@@ -16918,6 +16942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case the brackets would contain ("Username","Password").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163629Z" creationid="Elisabetta Manuele" creationdate="20180412T163629Z">
+        <seg>In tal caso le parentesi conterrebbero ("Username", "Password").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that case you must ensure that the functions used have already been created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174413Z" creationid="Alessia Mazzarini" creationdate="20180409T174413Z">
@@ -17770,6 +17802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T075143Z" creationid="steevie" creationdate="20180206T075143Z">
         <seg>Invece di dover fornire informazioni dettagliate alla creazione di nuove tabelle o database, esistono procedure per recuperare queste informazioni direttamente dal database e sono quindi sempre applicabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of including the username and a password in clear text, the dialog for password protection is called up:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T164842Z" creationid="Elisabetta Manuele" creationdate="20180412T164842Z">
+        <seg>Invece di inserire nome utente e password in chiaro, viene richiamata la finestra di dialogo per la protezione tramite password:</seg>
       </tuv>
     </tu>
     <tu>
