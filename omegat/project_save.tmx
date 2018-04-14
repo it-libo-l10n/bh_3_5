@@ -25414,6 +25414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Combobox &lt;f0&gt;control&lt;/f0&gt; treats form fields for combined entry and choice of values (comboboxes) as listboxes with an entry option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134049Z" creationid="Marco Marega" creationdate="20180414T134049Z">
+        <seg>Il campo di controllo &lt;f0&gt;Casella combinata&lt;/f0&gt; permette nei campi del formulario la combinazione di inserimento e scelta di valori (caselle combinate), come le caselle di riepilogo con l'aggiunta della possibilità di inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Events category controls actions, which can be bound to some macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T210829Z" creationid="Marco Marega" creationdate="20171015T210829Z">
@@ -30682,6 +30690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173331Z" creationid="Manuel Frassinetti" creationdate="20171204T173331Z">
         <seg>Ciò è necessario in modo che il database sappia da quale tabella provengono i campi selezionati in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is no longer necessary in LibreOffice as the 'visible' property is now contained in the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T133552Z" creationid="Marco Marega" creationdate="20180414T133552Z">
+        <seg>In LibreOffice ciò non è più necessario, dato che ora la proprietà 'visibile' è presente nella GUI.</seg>
       </tuv>
     </tu>
     <tu>
