@@ -16030,6 +16030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a new value is entered into the combobox (and this after all is the purpose for which this macro was constructed), the corresponding primary key must be entered into the form's underlying table as a Foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200553Z" creationid="Marco Marega" creationdate="20180414T200553Z">
+        <seg>Se nella casella combinata viene inserito un nuovo valore (e dopotutto questo è il motivo per il quale è stata realizzata questa macro), la chiave primaria corrispondente deve essere inserita, come chiave esterna, nella tabella sottostante al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a person moves home, the address gets changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T080005Z" creationid="steevie" creationdate="20180206T080005Z">
@@ -32662,6 +32670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To store a new value requires a further &lt;f1&gt;subroutine&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200326Z" creationid="Marco Marega" creationdate="20180414T200326Z">
+        <seg>Per memorizzare un nuovo valore è necessaria un'ulteriore &lt;f1&gt;subroutine&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To store the entry, we use the &lt;f0&gt;subroutine&lt;/f0&gt; TextChoiceValueSave.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153212Z" creationid="Elisabetta Manuele" creationdate="20180412T153212Z">
@@ -32746,6 +32762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161617Z" creationid="Elisabetta Manuele" creationdate="20180412T161617Z">
         <seg>Le barre degli strumenti non dispongono di alcuna funzione nei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transfering a foreign key value from a combobox to a numeric field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200405Z" creationid="Marco Marega" creationdate="20180414T200405Z">
+        <seg>Trasferire il valore di una chiave esterna da una casella combinata a un campo numerico</seg>
       </tuv>
     </tu>
     <tu>
