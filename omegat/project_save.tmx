@@ -12526,6 +12526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields can now be declared as invisible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134756Z" creationid="Marco Marega" creationdate="20180414T134756Z">
+        <seg>Ora i campi possono essere dichiarati come invisibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fields such as house numbers, which were declared as text fields, are formatted as text after insertion into Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194638Z" creationid="Elisabetta Manuele" creationdate="20180308T194638Z">
@@ -16050,6 +16058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
         <seg>Se il contenuto prosegue su ulteriori linee, quando l'elenco viene aperto comparirà una barra di scorrimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the content of the combobox is changed, it is saved and the new primary key is transferred into the corresponding numeric field to be stored in the main table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135052Z" creationid="Marco Marega" creationdate="20180414T135052Z">
+        <seg>Se il contenuto della casella combinata viene modificato, questo viene salvato e la nuova chiave primaria viene trasferita nel campo numerico corrispondente per essere memorizzata nella tabella principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27422,6 +27438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The keys from these fields are read in when the form is loaded and the combobox is set to show the corresponding content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134918Z" creationid="Marco Marega" creationdate="20180414T134918Z">
+        <seg>Le chiavi di questi campi vengono lette al caricamento del formulario e la casella di riepilogo viene impostata in modo che visualizzi il contenuto corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The label can be changed from its default value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212301Z" creationid="Marco Marega" creationdate="20171126T212301Z">
@@ -30706,6 +30730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T173331Z" creationid="Manuel Frassinetti" creationdate="20171204T173331Z">
         <seg>Ciò è necessario in modo che il database sappia da quale tabella provengono i campi selezionati in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is no longer necessary in LibreOffice and O&lt;f4&gt;pen&lt;/f4&gt;O&lt;f5&gt;ffice.&lt;/f5&gt;o&lt;f6&gt;rg&lt;/f6&gt; 3.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134707Z" creationid="Marco Marega" creationdate="20180414T134707Z">
+        <seg>Ciò non è più necessario in LibreOffice e O&lt;f4&gt;pen&lt;/f4&gt;O&lt;f5&gt;ffice.&lt;/f5&gt;o&lt;f6&gt;rg&lt;/f6&gt; 3.3.</seg>
       </tuv>
     </tu>
     <tu>
