@@ -5142,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If a record is found in the Searchtmp table, it means that the result of the first query is greater than 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132414Z" creationid="Marco Marega" creationdate="20180414T132414Z">
+        <seg>&lt;f0&gt;Se un record viene trovato nella tabella Searchtmp, significa che il risultato della prima ricerca è maggiore di 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If an external database is edited with a version of HSQLDB 2.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, it can no longer be converted into an internal database under LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164322Z" creationid="Elisabetta Manuele" creationdate="20180403T164322Z">
@@ -17926,6 +17934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Nr." = '-1' &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;(here we need a number which cannot occur as a primary key, so &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;'-1'&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;is a good value&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132551Z" creationid="Marco Marega" creationdate="20180414T132551Z">
+        <seg>In questo caso: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Nr." = '-1' &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;(qui abbiamo bisogno di un numero che non possa esistere come chiave primaria, quindi &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;'-1'&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; è un buon valore&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this field each value may occur only once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141342Z" creationid="Marco Marega" creationdate="20180218T141342Z">
@@ -20362,6 +20378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181916Z" creationid="Elisabetta Manuele" creationdate="20180402T181916Z">
         <seg>OCTET_LENGTH(str)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OR "Nr." = CASE WHEN ( SELECT COUNT( "Nr." ) FROM "Searchtmp" ) &gt; 0 THEN '-1' ELSE "Nr." END</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132328Z" creationid="Marco Marega" creationdate="20180414T132328Z">
+        <seg>OR "Nr." = CASE WHEN ( SELECT COUNT( "Nr." ) FROM "Searchtmp" ) &gt; 0 THEN '-1' ELSE "Nr." END</seg>
       </tuv>
     </tu>
     <tu>
@@ -30706,6 +30730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T195811Z" creationid="Marco Marega" creationdate="20171125T195811Z">
         <seg>Questo è un campo di controllo onnicomprensivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the purpose of the second half of the condition:&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132320Z" creationid="Marco Marega" creationdate="20180414T132320Z">
+        <seg>Questo è lo scopo della seconda metà della condizione:&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
