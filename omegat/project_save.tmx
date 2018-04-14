@@ -2166,6 +2166,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Field1Length&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201231Z" creationid="Marco Marega" creationdate="20180414T201231Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Field1Length&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Field2Length&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201310Z" creationid="Marco Marega" creationdate="20180414T201310Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Field2Length&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;a_stPart&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;STRING&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201226Z" creationid="Marco Marega" creationdate="20180414T201226Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;a_stPart&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;STRING&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;arContent&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;STRING&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202522Z" creationid="Marco Marega" creationdate="20180327T202522Z">
@@ -2178,6 +2202,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202523Z" creationid="Marco Marega" creationdate="20180327T202523Z">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inI&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inID1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201229Z" creationid="Marco Marega" creationdate="20180414T201229Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inID1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inID2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201230Z" creationid="Marco Marega" creationdate="20180414T201230Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inID2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;INTEGER&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stContentField2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201225Z" creationid="Marco Marega" creationdate="20180414T201225Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stContentField2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stFieldValue&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202635Z" creationid="Marco Marega" creationdate="20180327T202635Z">
@@ -2434,6 +2482,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154126Z" creationid="Elisabetta Manuele" creationdate="20180412T154126Z">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stTag&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;String&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stmsgbox1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201227Z" creationid="Marco Marega" creationdate="20180414T201227Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stmsgbox1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stmsgbox2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201228Z" creationid="Marco Marega" creationdate="20180414T201228Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;stmsgbox2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;AS&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;STRING&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19606,6 +19670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just setting a limit on the size of the combobox is not safe here, as we need to include the possibility of entering two fields together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201633Z" creationid="Marco Marega" creationdate="20180414T201427Z">
+        <seg>In questo punto non è sicuro semplicemente inserire un limite alla lunghezza nella casella combinata, in quanto dobbiamo prevedere la possibilità di inserire contemporaneamente due campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194247Z" creationid="Marco Marega" creationdate="20171125T194247Z">
@@ -27238,6 +27310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The field &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oField&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; contains the foreign key and &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oFieldList&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; shows the corresponding text.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201219Z" creationid="Marco Marega" creationdate="20180414T201219Z">
+        <seg>Il campo &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oField&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; contiene la chiave esterna e &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oFieldList&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; mostra il testo corrispondente.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The field content and the number of hits is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205251Z" creationid="Marco Marega" creationdate="20180326T205251Z">
@@ -28426,6 +28506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181830Z" creationid="Elisabetta Manuele" creationdate="20180402T181830Z">
         <seg>La corrispondenza viene indicata come un numero offset: (1=sinistra, 0= non trovato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The maximum length allowed for an entry is determined using the function Columnsize, described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201434Z" creationid="Marco Marega" creationdate="20180414T201420Z">
+        <seg>La lunghezza massima per i dati inseriti è determinata usando la funzione Columnsize, descritta di seguito.</seg>
       </tuv>
     </tu>
     <tu>
