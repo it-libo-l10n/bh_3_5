@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;""ID""&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; therefore means that the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field (with a single set of quotation marks for the SQL relationship) is accessed in the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151812Z" creationid="Marco Marega" creationdate="20180414T151812Z">
+        <seg>Perciò &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;""ID""&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; significa che nella ricerca viene fatto accesso al campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; (con un solo insieme di virgolette nella relazione SQL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Names for constants and enumerations, however, are case sensitive the first time that they are seen by the macro compiler, so it is best to always write those using the proper case.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T210607Z" creationid="Marco Marega" creationdate="20180315T210607Z">
@@ -9136,8 +9144,8 @@
       <tuv lang="EN">
         <seg>As double quotes are normally interpreted by Basic as indicating text, they disappear when the code is transferred.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151209Z" creationid="Marco Marega" creationdate="20180414T151209Z">
-        <seg>As double quotes are normally interpreted by Basic as indicating text, they disappear when the code is transferred.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151527Z" creationid="Marco Marega" creationdate="20180414T151209Z">
+        <seg>Dato che normalmente le virgolette doppie sono interpretate da Basic come delimitatori di testo, queste scompaiono quando il codice viene trasferito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21226,6 +21234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144141Z" creationid="Marco Marega" creationdate="20180303T144141Z">
         <seg>Saranno visualizzati solo quei record che hanno lo stesso contenuto del campo selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only when a second set of double quotes is used are terms passed on in simple quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151635Z" creationid="Marco Marega" creationdate="20180414T151635Z">
+        <seg>Solo se è presente un secondo insieme di virgolette doppie i termini sono passati in virgolette semplici.</seg>
       </tuv>
     </tu>
     <tu>
