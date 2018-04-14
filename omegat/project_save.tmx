@@ -4990,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For larger amounts of data, value matching by using the &lt;/f0&gt;&lt;f1&gt;IN&lt;/f1&gt;&lt;f2&gt; operator quickly slows down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T131839Z" creationid="Marco Marega" creationdate="20180414T131839Z">
+        <seg>&lt;f0&gt;Con grandi quantità di dati, il confronto dei valori usando l'operatore &lt;/f0&gt;&lt;f1&gt;IN&lt;/f1&gt;&lt;f2&gt; in breve tempo rallenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ID&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; table, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Count&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; function is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175625Z" creationid="Manuel Frassinetti" creationdate="20171209T175625Z">
@@ -29306,6 +29314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T165647Z" creationid="Alessia Mazzarini" creationdate="20180327T075553Z">
         <seg>Per questo motivo è essenziale che l'immagine sia disponibile nel percorso di ricerca, ciò è vero anche nel caso in cui venga presentata l'opzione di incorporare l'immagine piuttosto che inserire un collegamento e il primo campo &lt;f0&gt;Mantieni com&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e c&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ollegamento&lt;/f3&gt; possa essere impostato (letteralmente chiuso) a una funzionalità corrispondente pianificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore it is not a good idea to use an empty search field simply to transfer all primary key fields from &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Searchtable&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; into the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Searchtmp&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; table and then view the data in the same way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132121Z" creationid="Marco Marega" creationdate="20180414T132121Z">
+        <seg>Perciò non è una buona idea quella di usare un campo di ricerca vuoto, semplicemente per trasferire tutte le chiavi primarie dalla tabella &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Searchtable&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; alla tabella &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Searchtmp&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; per poi visualizzare i dati allo stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
