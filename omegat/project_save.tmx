@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Position = 2" serves here as a sign that the second part of the content stands for Field 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202528Z" creationid="Marco Marega" creationdate="20180414T202528Z">
+        <seg>In questo punto "Position = 2" serve per segnalare che la seconda parte del contenuto indica il Campo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202254Z" creationid="Marco Marega" creationdate="20180327T202254Z">
@@ -3818,6 +3826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202424Z" creationid="Marco Marega" creationdate="20180327T202424Z">
         <seg>&lt;f0&gt;&lt;f1&gt;aList&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Split&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sTag&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;","&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;a_stPart&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Split&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stContent&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;FieldSeparator&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;,&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;2&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202128Z" creationid="Marco Marega" creationdate="20180414T202128Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;a_stPart&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Split&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stContent&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;FieldSeparator&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;,&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;2&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12298,6 +12314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205318Z" creationid="Marco Marega" creationdate="20171229T205318Z">
         <seg>Anche la cancellazione è impossibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on which entry corresponds to field 1 and which to field 2, the content of the combobox is now allocated to the individual variables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202259Z" creationid="Marco Marega" creationdate="20180414T202259Z">
+        <seg>A seconda di quale dato inserito corrisponde al campo 1 e quale al campo 2, il contenuto della casella combinata viene allocato nelle singole variabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28370,6 +28394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224649Z" creationid="MicrosoftSucks" creationdate="20180316T224649Z">
         <seg>La seconda possibilita' puo' essere &lt;f0&gt;eliminata&lt;/f0&gt; se la condizione di filtro e':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last parameter signifies that the maximum number of parts is 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202212Z" creationid="Marco Marega" creationdate="20180414T202212Z">
+        <seg>L'ultimo parametro significa che il numero massimo di parti è di 2.</seg>
       </tuv>
     </tu>
     <tu>
