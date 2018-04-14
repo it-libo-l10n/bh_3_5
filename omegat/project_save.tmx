@@ -28070,6 +28070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most general is that the combobox must be provided with a query that refers to two table fields from different tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T150157Z" creationid="Marco Marega" creationdate="20180414T150157Z">
+        <seg>La più generica è che la casella combinata debba essere riempita con una ricerca che fa riferimento a due campi da tabelle differenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important information, as far as the data is concerned, are in the subfolder &lt;f0&gt;database&lt;/f0&gt; in the file&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;data&lt;/f2&gt; and &lt;f3&gt;script&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104033Z" creationid="Elisabetta Manuele" creationdate="20180403T104033Z">
@@ -31546,6 +31554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225453Z" creationid="Marco Marega" creationdate="20180224T225453Z">
         <seg>Ciò richiedere che i contenuti delle tabelle vengano cancellati e che sia impostato un nuovo valore per il campo, come ad esempio "1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This requires the testing of various combinations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145919Z" creationid="Marco Marega" creationdate="20180414T145919Z">
+        <seg>Ciò richiede la verifica di varie combinazioni.</seg>
       </tuv>
     </tu>
     <tu>
