@@ -9966,6 +9966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But the construction of this query will produce only one result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195442Z" creationid="Marco Marega" creationdate="20180414T195442Z">
+        <seg>Ma la costruzione di questa ricerca produrrà un solo risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But the first condition is still not fulfilled.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224955Z" creationid="MicrosoftSucks" creationdate="20180316T224955Z">
@@ -15190,6 +15198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, as in GUI queries, several fields and records can be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195415Z" creationid="Marco Marega" creationdate="20180414T195415Z">
+        <seg>Qui, come nelle ricerche della GUI, possono essere creati diversi campi e record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here, dependent on the choice in the Tri-state field, up to three possibilities are available: &lt;f0&gt;Not selected&lt;/f0&gt; | &lt;f1&gt;Selected&lt;/f1&gt; | &lt;f2&gt;Not defined&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T204901Z" creationid="Marco Marega" creationdate="20171109T203444Z">
@@ -19082,6 +19098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210148Z" creationid="Marco Marega" creationdate="20180202T210148Z">
         <seg>Fa da collegamento tra le tabelle Media e Reader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is the record which provides the content which the combobox is to display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195558Z" creationid="Marco Marega" creationdate="20180414T195558Z">
+        <seg>E' il record che fornisce il contenuto da visualizzare nella casella combinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26638,6 +26662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content is a text string (&lt;/f3&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;getString()&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;'&lt;/f7&gt;&lt;f8&gt;), so here we see &lt;/f8&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result.getString(1)&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;'&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195634Z" creationid="Marco Marega" creationdate="20180414T195634Z">
+        <seg>Il contenuto è una stringa di testo (&lt;/f3&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;getString()&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;'&lt;/f7&gt;&lt;f8&gt;), perciò qui troviamo &lt;/f8&gt;&lt;f9&gt;'&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result.getString(1)&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;'&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of tables of the type &lt;f0&gt;TEMPORARY&lt;/f0&gt; or &lt;f1&gt;TEMP&lt;/f1&gt; is erased by default when you have finished working with a particular record (&lt;f2&gt;ON COMMIT DELETE ROWS&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222330Z" creationid="Marco Marega" creationdate="20180222T222330Z">
@@ -31802,6 +31834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145919Z" creationid="Marco Marega" creationdate="20180414T145919Z">
         <seg>Ciò richiede la verifica di varie combinazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This result will be found in the first column &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(1)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; of the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195522Z" creationid="Marco Marega" creationdate="20180414T195522Z">
+        <seg>Questo risultato si troverà nella prima colonna &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(1)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; della ricerca.</seg>
       </tuv>
     </tu>
     <tu>
