@@ -13734,6 +13734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose, in addition to the comboboxes in the form, the key field values which are to be transferred to the underlying table are stored in separate numeric fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134351Z" creationid="Marco Marega" creationdate="20180414T134351Z">
+        <seg>A questo scopo, in aggiunta alle caselle combinate del formulario, i valori dei campi chiave, che devono essere trasferiti alla tabella sottostante, vengono memorizzati in campi numerici distinti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason &lt;f1&gt;No&lt;/f1&gt; (German: Nein) has been chosen for &lt;f2&gt;Analyze SQL command&lt;/f2&gt;, a choice that excludes any filtering and sorting with the internal tools of the Report Builder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150108Z" creationid="Alessia Mazzarini" creationdate="20180328T144417Z">
