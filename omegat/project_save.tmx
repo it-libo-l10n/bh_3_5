@@ -18438,6 +18438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used for listboxes which refer to two different tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135546Z" creationid="Marco Marega" creationdate="20180414T135546Z">
+        <seg>Può essere usata anche perle caselle di riepilogo che fanno riferimento a due diverse tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be edited just as in Base.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182328Z" creationid="Elisabetta Manuele" creationdate="20180306T182328Z">
@@ -29834,6 +29842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205011Z" creationid="MicrosoftSucks" creationdate="20180218T205011Z">
         <seg>Questo &lt;f0&gt;capitolo&lt;/f0&gt; descrive alcune soluzioni a problemi che si manifestano per molti utenti di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This &lt;f0&gt;subroutine&lt;/f0&gt; is to show text in the combobox according to the value of the invisible foreign key fields from the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135501Z" creationid="Marco Marega" creationdate="20180414T135501Z">
+        <seg>Questa &lt;f0&gt;subroutine&lt;/f0&gt; serve a visualizzare nella casella combinata il testo corrispondente al valore del campo invisibile contenente la chiave esterna del formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
