@@ -29934,6 +29934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; uses arguments to cover the possibility that the field is contained in a subform of a subform, that is two levels down from the actual form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T144632Z" creationid="Marco Marega" creationdate="20180414T144632Z">
+        <seg>Questa &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; utilizza dei parametri per far fronte all'eventualità che il campo sia contenuto in un sottoformulario di un sottoformulario, che si trova due livelli più in basso rispetto al formulario attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This &lt;f0&gt;chapter&lt;/f0&gt; describes some solutions for problems that arise for many datsbase users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T205011Z" creationid="MicrosoftSucks" creationdate="20180218T205011Z">
