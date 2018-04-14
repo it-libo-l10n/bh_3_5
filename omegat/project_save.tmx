@@ -7310,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1/&gt;But these variables must also be masked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152309Z" creationid="Marco Marega" creationdate="20180414T152309Z">
+        <seg>&lt;s1/&gt;Ma anche queste variabili devono essere contrassegnate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;For larger libraries, general systems for libraries are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222809Z" creationid="Marco Marega" creationdate="20180128T222809Z">
@@ -29970,6 +29978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214405Z" creationid="Marco Marega" creationdate="20171226T214405Z">
         <seg>A questi, quando sono stati creati, sono stati assegnati dei nomi diversi, in modo che non possa sorgere confusione in nessun livello della struttura ad albero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are not text; they are simply concatenated with the preceding text by using + .</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152205Z" creationid="Marco Marega" creationdate="20180414T152205Z">
+        <seg>Questi non sono testi; ma vengono semplicemente concatenati ai testi che li precedono usando il + .</seg>
       </tuv>
     </tu>
     <tu>
