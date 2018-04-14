@@ -24750,6 +24750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text display in comboboxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135241Z" creationid="Marco Marega" creationdate="20180414T135241Z">
+        <seg>Visualizzazione di testo nelle caselle combinate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T203728Z" creationid="Marco Marega" creationdate="20171015T203728Z">
@@ -27994,6 +28002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T172709Z" creationid="Alessia Mazzarini" creationdate="20180327T172709Z">
         <seg>Tutto ciò non ha conseguenze sull'immagine originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The original of this module is in the example database, as expanded with macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135148Z" creationid="Marco Marega" creationdate="20180414T135148Z">
+        <seg>L'originale di questo modulo si trova nel database di esempio, nella versione estesa con le macro.</seg>
       </tuv>
     </tu>
     <tu>
