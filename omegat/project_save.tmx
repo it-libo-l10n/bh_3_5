@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>... and if the second table does not exist, the following SQL code is created:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152714Z" creationid="Marco Marega" creationdate="20180414T152714Z">
+        <seg>... e se la seconda tabella non esiste, viene generato il seguente codice SQL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/ (Division), &lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153348Z" creationid="Alessia Mazzarini" creationdate="20180403T153134Z">
@@ -1514,6 +1522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165835Z" creationid="Marina Latini" creationdate="20171207T165835Z">
         <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f21&gt;&lt;/f20&gt;&lt;f23&gt;&lt;f24&gt;""" WHERE ""ID""='" &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;+ &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;inID &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;+ &lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;"'"&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152826Z" creationid="Marco Marega" creationdate="20180414T152826Z">
+        <seg>&lt;/f21&gt;&lt;/f20&gt;&lt;f23&gt;&lt;f24&gt;""" WHERE ""ID""='" &lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;+ &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;inID &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;+ &lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;"'"&lt;/f32&gt;&lt;/f31&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4390,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """ &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+ &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameTableField1 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+ &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;""" FROM """ &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;+ &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;NameTable1 &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152825Z" creationid="Marco Marega" creationdate="20180414T152825Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """ &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+ &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameTableField1 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+ &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;""" FROM """ &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;+ &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;NameTable1 &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """ &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+ &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameTableField1 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+ &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"""||'" &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;+ &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Fieldseparator &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"'||""" &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;+ &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;NameTableField2 &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;+ &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;""" FROM """ &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;+ &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;NameTable1 &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;+ &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;""" WHERE ""ID""='" &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;+ &lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;inID &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;+ &lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;"'"&lt;/f47&gt;&lt;/f46&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152718Z" creationid="Marco Marega" creationdate="20180414T152718Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """ &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+ &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameTableField1 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+ &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"""||'" &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;+ &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Fieldseparator &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"'||""" &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;+ &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;NameTableField2 &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;+ &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;""" FROM """ &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;+ &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;NameTable1 &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;+ &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;""" WHERE ""ID""='" &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;+ &lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;inID &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;+ &lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;"'"&lt;/f47&gt;&lt;/f46&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """ &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+ &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameTableField2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+ &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"""||'" &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;+ &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Fieldseparator &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"'||""" &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;+ &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;NameTableField1 &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;+ &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;""" FROM """ &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;+ &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;NameTable1 &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;+ &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;""" WHERE ""ID""='" &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;+ &lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;inID &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;+ &lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;"'"&lt;/f47&gt;&lt;/f46&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152721Z" creationid="Marco Marega" creationdate="20180414T152721Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """ &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+ &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameTableField2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+ &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"""||'" &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;+ &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Fieldseparator &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;"'||""" &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;+ &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;NameTableField1 &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;+ &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;""" FROM """ &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;+ &lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;NameTable1 &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;+ &lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;""" WHERE ""ID""='" &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;+ &lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;inID &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;+ &lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;"'"&lt;/f47&gt;&lt;/f46&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"SELECT """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;arContent&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)+&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;""" INTO ""Searchtmp"" FROM """ &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;+ &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;stTable</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123146Z" creationid="Marco Marega" creationdate="20180404T123146Z">
@@ -6426,6 +6466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123913Z" creationid="Marco Marega" creationdate="20180404T123913Z">
         <seg>&lt;f0&gt;La ricerca è strutturata &lt;/f0&gt;&lt;f1&gt;in modo &lt;/f1&gt;&lt;f2&gt;che il risultato finisca nella tabella Searchtmp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The query stored in the variable &lt;/f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;f2&gt; is now run and the result of the query is stored in the variable &lt;/f2&gt;&lt;f3&gt;oQuery_result&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152938Z" creationid="Marco Marega" creationdate="20180414T152938Z">
+        <seg>&lt;f0&gt;Ora viene eseguita la ricerca memorizzata nella variabile &lt;/f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;f2&gt;  ed il risultato viene memorizzato nella variabile &lt;/f2&gt;&lt;f3&gt;oQuery_result&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15630,6 +15678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IF&lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Position&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;2&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152717Z" creationid="Marco Marega" creationdate="20180414T152717Z">
+        <seg>IF&lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Position&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;2&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IFNULL( "Field_1" || ' - ' || "Count", 'empty - ' || "Count" ) AS "Display",</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200158Z" creationid="Marco Marega" creationdate="20180327T200158Z">
@@ -15930,6 +15986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205048Z" creationid="Marco Marega" creationdate="20180328T205048Z">
         <seg>Se è stato inserito un termine di ricerca, i nomi delle colonne vengono letti dalla tabella ricercata, in modo che la ricerca abbia accesso ai campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a second table field does not exist there can be only one table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152810Z" creationid="Marco Marega" creationdate="20180414T152810Z">
+        <seg>Se non esiste il campo di una seconda tabella, può esserci solo una tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31986,6 +32050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T154721Z" creationid="Marco Marega" creationdate="20171230T154721Z">
         <seg>Questo sarebbe un requisito ideale per accelerare ancor di più il lavoro della libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This yields the following query:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152823Z" creationid="Marco Marega" creationdate="20180414T152823Z">
+        <seg>Questo produce la seguente ricerca:</seg>
       </tuv>
     </tu>
     <tu>
