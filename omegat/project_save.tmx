@@ -2630,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;IsEmpty&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oField.getCurrentValue&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;())&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145343Z" creationid="Marco Marega" creationdate="20180414T145343Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;IsEmpty&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oField.getCurrentValue&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;())&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ISNULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;) &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;THEN&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111216Z" creationid="Elisabetta Manuele" creationdate="20180412T111216Z">
@@ -3662,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oField.getCurrentValue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145344Z" creationid="Marco Marega" creationdate="20180414T145344Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oField.getCurrentValue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oAuthentication&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;createUnoService&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"com.sun.star.sdb.InteractionHandler"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T164859Z" creationid="Elisabetta Manuele" creationdate="20180412T164859Z">
@@ -3690,6 +3706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150103Z" creationid="Elisabetta Manuele" creationdate="20180412T150103Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDataSource.ActiveConnection&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDataSource.ActiveConnection&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145351Z" creationid="Marco Marega" creationdate="20180414T145351Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oConnection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDataSource.ActiveConnection&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
