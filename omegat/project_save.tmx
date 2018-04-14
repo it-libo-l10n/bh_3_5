@@ -24918,6 +24918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; operator is compatible with multiple values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T131502Z" creationid="Marco Marega" creationdate="20180414T131502Z">
+        <seg>L'operatore &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; è compatibile con valori multipli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;/f12&gt;&lt;f13&gt;Data&lt;/f13&gt;&lt;f14&gt; tab of the Form Properties dialog looks a little different from t&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;he one&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; you see when forms are built directly in an &lt;/f17&gt;&lt;f18&gt;ODB&lt;/f18&gt;&lt;f19&gt; database file:&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192653Z" creationid="Elisabetta Manuele" creationdate="20180308T192609Z">
@@ -28610,6 +28618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165632Z" creationid="Elisabetta Manuele" creationdate="20180412T165632Z">
         <seg>Lo stato dei dati non cambia finché il file &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; rimane aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sub-query can also yield several records.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T131652Z" creationid="Marco Marega" creationdate="20180414T131652Z">
+        <seg>La sub-query può restituire numerosi record.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
