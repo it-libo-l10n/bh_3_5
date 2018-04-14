@@ -13,3 +13,4 @@ listbox	casella di riepilogo
 multi-user	multiutente
 OBJECT	OBJECT
 IF	IF
+combobox	casella combinata
