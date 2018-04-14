@@ -18118,6 +18118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead an empty search field creates an empty &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Searchtmp&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; table, so that no records are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132251Z" creationid="Marco Marega" creationdate="20180414T132251Z">
+        <seg>Piuttosto un campo di ricerca vuoto crea una tabella &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Searchtmp&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; vuota, cosicché non ci siano record disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead of a detailed &lt;f0&gt;list of all the fields of a table&lt;/f0&gt;, &lt;f1&gt;i&lt;/f1&gt;t&lt;f2&gt;s&lt;/f2&gt; total content can be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T112329Z" creationid="manuel" creationdate="20180302T111419Z">
