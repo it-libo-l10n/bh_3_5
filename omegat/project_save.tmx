@@ -6238,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The code is further complicated by the fact that, as well as requiring duplicate quotation marks, some of the included table fields are entered as variables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152112Z" creationid="Marco Marega" creationdate="20180414T152112Z">
+        <seg>&lt;f0&gt;Il codice è ulteriormente complicato dal fatto che, oltre che richiedere la duplicazione delle virgolette, alcuni campi delle tabelle sono inseriti come variabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The combobox is read in again using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Refresh()&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145012Z" creationid="Marco Marega" creationdate="20180414T145012Z">
@@ -7674,6 +7682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190235Z" creationid="MicrosoftSucks" creationdate="20180316T190235Z">
         <seg>Un nuovo test visualizza tutti i media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A partial simplification for this &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; is that all primary keys in this database carry the name ID.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151927Z" creationid="Marco Marega" creationdate="20180414T151927Z">
+        <seg>Una parziale semplificazione per questa &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; è data dal fatto che tutte le chiavi primarie presenti in questo database hanno il nome ID.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
