@@ -6166,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The primary key is saved in this example under the name &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nr.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; The macro reads precisely this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T131214Z" creationid="Marco Marega" creationdate="20180414T131214Z">
+        <seg>&lt;f0&gt;In questo esempio la chiave primaria è salvata sotto il nome &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nr.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; La macro legge proprio questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The query is constructed &lt;/f0&gt;&lt;f1&gt;such &lt;/f1&gt;&lt;f2&gt;that the results end up in the Searchtmp table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123913Z" creationid="Marco Marega" creationdate="20180404T123913Z">
@@ -29194,6 +29202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T211520Z" creationid="Marco Marega" creationdate="20171014T211520Z">
         <seg>C'è anche la possibilità, nel caso abbiate un formulario secondario, di visualizzare sempre la barra di navigazione nel formulario principale, cosicché l'attivazione di questa barra ha effetto solo sul formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is an initial check to see if the content of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Nr.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field appears in the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Searchtmp &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;table&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T131437Z" creationid="Marco Marega" creationdate="20180414T131437Z">
+        <seg>C'è un controllo iniziale per verificare se il contenuto del campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Nr.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; appare nella tabella &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Searchtmp&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
