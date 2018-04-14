@@ -14254,6 +14254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fortunately when we create the macro, the coloring of the code shows if any double quotes have been omitted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152549Z" creationid="Marco Marega" creationdate="20180414T152549Z">
+        <seg>Fortunatamente quando creiamo la macro, la colorazione del codice evidenzia se qualcuna delle virgolette doppie è stata omessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Framing: No frame | 3D-Look | Flat.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191453Z" creationid="Marco Marega" creationdate="20171017T190955Z">
@@ -25278,6 +25286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That is why these variables are shown above with three sets of quotation marks: &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;"""+NameTable1+"""."""+NameTableField1+"""&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; finallly translates into the familiar query language &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"Table1"."Field1"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152450Z" creationid="Marco Marega" creationdate="20180414T152450Z">
+        <seg>Per questo motivo queste variabili sopra sono mostrate racchiuse da tre insiemi di virgolette: &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;"""+NameTable1+"""."""+NameTableField1+"""&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; che alla fine vengono tradotte nel linguaggio familiare delle query &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;"Table1"."Field1"&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That may seem practical for a limited search.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T194953Z" creationid="Marco Marega" creationdate="20180326T210015Z">
@@ -28794,6 +28810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201622Z" creationid="Marco Marega" creationdate="20171210T201622Z">
         <seg>Il metodo veloce &lt;f0&gt;con &lt;/f0&gt;l'uso&lt;f1&gt; della&lt;/f1&gt; Procedura guidata &lt;f2&gt;è&lt;/f2&gt; descritto nel &lt;f3&gt;Capitolo 8,&lt;/f3&gt; Introduzione a Base, &lt;f4&gt;della &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Guida Introduttiva a LibreOffice&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The quotation marks change their color immediately if they are not recognised by the macro as string delimiters.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152636Z" creationid="Marco Marega" creationdate="20180414T152636Z">
+        <seg>Le virgolette cambiano immediatamente il loro colore se non vengono riconosciute dalla macro come delimitatori di stringhe.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
