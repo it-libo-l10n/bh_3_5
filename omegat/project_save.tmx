@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The position of the field in the corresponding form is determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T144215Z" creationid="Marco Marega" creationdate="20180414T144215Z">
+        <seg>&lt;f0&gt;La posizione del campo nel formulario corrispondente è determinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The primary key for the second value is temporarily stored in the variable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;inID2&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and then written as a foreign key into the table corresponding to the first value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104404Z" creationid="Elisabetta Manuele" creationdate="20180412T104404Z">
@@ -8338,6 +8346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T180253Z" creationid="Manuel Frassinetti" creationdate="20171209T180253Z">
         <seg>Tutti i campi con un contenuto diverso da NULL sono conteggiati.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All forms are held on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Drawpage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; of the current document &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;thisComponent&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T144412Z" creationid="Marco Marega" creationdate="20180414T144412Z">
+        <seg>Tutti i formulari sono contenuti nell'elemento &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Drawpage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; del documento attivo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;thisComponent&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
