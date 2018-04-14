@@ -2782,6 +2782,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NameTab12ID&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; NameTab12ID &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140329Z" creationid="Marco Marega" creationdate="20180414T140329Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NameTab12ID&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; NameTab12ID &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NameTable2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; NameTable2 &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140327Z" creationid="Marco Marega" creationdate="20180414T140327Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NameTable2&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; NameTable2 &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Position&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; Position &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;2&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140347Z" creationid="Marco Marega" creationdate="20180414T140347Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Position&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; Position &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;2&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IFNULL(expression, value)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; requires the &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;expression&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; has the same field type as the &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;value&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T173911Z" creationid="MicrosoftSucks" creationdate="20180301T173911Z">
@@ -6010,6 +6034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203612Z" creationid="MicrosoftSucks" creationdate="20180327T203612Z">
         <seg>&lt;f0&gt;La funzione &lt;/f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;FNULL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; deve comparire solo una volta, in modo che quando &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Searchterm &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;e' &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;NULL&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LOWER("Title") LIKE LOWER("Title")&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; venga incluso nella query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;f2&gt; condition here is only one line, so it does &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;not&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; require an &lt;/f5&gt;&lt;f6&gt;END IF&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140450Z" creationid="Marco Marega" creationdate="20180414T140450Z">
+        <seg>&lt;f0&gt;In questo caso la condizione &lt;/f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;f2&gt; è su di una sola riga, perciò &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;non&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; richiede un &lt;/f5&gt;&lt;f6&gt;END IF&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31898,6 +31930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181400Z" creationid="Alessia Mazzarini" creationdate="20180316T181400Z">
         <seg>Continuando con il precedente esempio, per ottenere un risultato utile, il contenuto della visualizzazione dovrà essere riprodotto attraverso un raggruppamento adeguato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prevent a runtime error, default values must be predefined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140325Z" creationid="Marco Marega" creationdate="20180414T140325Z">
+        <seg>Per prevenire un errore in fase di esecuzione, devono essere previsti dei valori predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
