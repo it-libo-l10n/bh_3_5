@@ -29582,6 +29582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These fields, prior to O&lt;f1&gt;pen&lt;/f1&gt;O&lt;f2&gt;ffice.&lt;/f2&gt;o&lt;f3&gt;rg&lt;/f3&gt; 3.3, had to have the ‘invisible’ switch set, as the function was not accessible from form design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134643Z" creationid="Marco Marega" creationdate="20180414T134643Z">
+        <seg>Prima di O&lt;f1&gt;pen&lt;/f1&gt;O&lt;f2&gt;ffice.&lt;/f2&gt;o&lt;f3&gt;rg&lt;/f3&gt; 3.3, questi campi dovevano essere impostati come ‘invisibili’, dato che la funzione non era accessibile tramite la finestra di progettazione del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These functions can lead to problems if a field is empty (NULL).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082200Z" creationid="Alessia Mazzarini" creationdate="20180403T082200Z">
