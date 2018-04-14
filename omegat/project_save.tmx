@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;TextDisplay&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;NameForm &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;AS&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt; NameSubform &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;AS &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;STRING&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;,&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; NameSubSubform &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;AS &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;STRING&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;,&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt; NameField &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;AS &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;STRING&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;,&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt; NameIDField &lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;AS &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;STRING&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;,&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt; NameTableField1 &lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;AS &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;STRING&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt;,&lt;/f56&gt;&lt;/f55&gt;&lt;f57&gt;&lt;f58&gt; NameTableField2 &lt;/f58&gt;&lt;/f57&gt;&lt;f59&gt;&lt;f60&gt;AS &lt;/f60&gt;&lt;/f59&gt;&lt;f61&gt;&lt;f62&gt;STRING&lt;/f62&gt;&lt;/f61&gt;&lt;f63&gt;&lt;f64&gt;,&lt;/f64&gt;&lt;/f63&gt;&lt;f65&gt;&lt;f66&gt; Fieldseparator &lt;/f66&gt;&lt;/f65&gt;&lt;f67&gt;&lt;f68&gt;AS &lt;/f68&gt;&lt;/f67&gt;&lt;f69&gt;&lt;f70&gt;STRING&lt;/f70&gt;&lt;/f69&gt;&lt;f71&gt;&lt;f72&gt;,&lt;/f72&gt;&lt;/f71&gt;&lt;f73&gt;&lt;f74&gt; NameTable1 &lt;/f74&gt;&lt;/f73&gt;&lt;f75&gt;&lt;f76&gt;AS &lt;/f76&gt;&lt;/f75&gt;&lt;t77/&gt;&lt;f78&gt;&lt;f79&gt;STRING&lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;,&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt; &lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;OPTIONAL&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt; NameTable2 &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;AS &lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt;STRING&lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;,&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt; &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;OPTIONAL&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; NameTab12ID &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;AS &lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt;STRING&lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;,&lt;/f105&gt;&lt;/f104&gt;&lt;f106&gt;&lt;f107&gt; &lt;/f107&gt;&lt;/f106&gt;&lt;f108&gt;&lt;f109&gt;OPTIONAL&lt;/f109&gt;&lt;/f108&gt;&lt;f110&gt;&lt;f111&gt; Position &lt;/f111&gt;&lt;/f110&gt;&lt;f112&gt;&lt;f113&gt;AS &lt;/f113&gt;&lt;/f112&gt;&lt;f114&gt;&lt;f115&gt;INTEGER&lt;/f115&gt;&lt;/f114&gt;&lt;f116&gt;&lt;f117&gt; )&lt;/f117&gt;&lt;/f116&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135820Z" creationid="Marco Marega" creationdate="20180414T135820Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;TextDisplay&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;NameForm &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;AS&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;STRING&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt; NameSubform &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;AS &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;STRING&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;,&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; NameSubSubform &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;AS &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;STRING&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;,&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt; NameField &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;AS &lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;STRING&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;,&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt; NameIDField &lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;AS &lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;STRING&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;,&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt; NameTableField1 &lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt;&lt;f52&gt;AS &lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt;&lt;f54&gt;STRING&lt;/f54&gt;&lt;/f53&gt;&lt;f55&gt;&lt;f56&gt;,&lt;/f56&gt;&lt;/f55&gt;&lt;f57&gt;&lt;f58&gt; NameTableField2 &lt;/f58&gt;&lt;/f57&gt;&lt;f59&gt;&lt;f60&gt;AS &lt;/f60&gt;&lt;/f59&gt;&lt;f61&gt;&lt;f62&gt;STRING&lt;/f62&gt;&lt;/f61&gt;&lt;f63&gt;&lt;f64&gt;,&lt;/f64&gt;&lt;/f63&gt;&lt;f65&gt;&lt;f66&gt; Fieldseparator &lt;/f66&gt;&lt;/f65&gt;&lt;f67&gt;&lt;f68&gt;AS &lt;/f68&gt;&lt;/f67&gt;&lt;f69&gt;&lt;f70&gt;STRING&lt;/f70&gt;&lt;/f69&gt;&lt;f71&gt;&lt;f72&gt;,&lt;/f72&gt;&lt;/f71&gt;&lt;f73&gt;&lt;f74&gt; NameTable1 &lt;/f74&gt;&lt;/f73&gt;&lt;f75&gt;&lt;f76&gt;AS &lt;/f76&gt;&lt;/f75&gt;&lt;t77/&gt;&lt;f78&gt;&lt;f79&gt;STRING&lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;,&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt; &lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;OPTIONAL&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt; NameTable2 &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;AS &lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt;STRING&lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;,&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt; &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;OPTIONAL&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; NameTab12ID &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;AS &lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt;STRING&lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;,&lt;/f105&gt;&lt;/f104&gt;&lt;f106&gt;&lt;f107&gt; &lt;/f107&gt;&lt;/f106&gt;&lt;f108&gt;&lt;f109&gt;OPTIONAL&lt;/f109&gt;&lt;/f108&gt;&lt;f110&gt;&lt;f111&gt; Position &lt;/f111&gt;&lt;/f110&gt;&lt;f112&gt;&lt;f113&gt;AS &lt;/f113&gt;&lt;/f112&gt;&lt;f114&gt;&lt;f115&gt;INTEGER&lt;/f115&gt;&lt;/f114&gt;&lt;f116&gt;&lt;f117&gt; )&lt;/f117&gt;&lt;/f116&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Update&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204659Z" creationid="Marco Marega" creationdate="20180325T204659Z">
@@ -17366,6 +17374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case the postcode might be read from a table that contains only a foreign key for the town.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135748Z" creationid="Marco Marega" creationdate="20180414T135748Z">
+        <seg>In tal caso il codice postale potrebbe essere letto da una tabella che per la città contiene solo una chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that case you must ensure that the functions used have already been created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174413Z" creationid="Alessia Mazzarini" creationdate="20180409T174413Z">
@@ -27646,6 +27662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The listbox should show postcode and town together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135816Z" creationid="Marco Marega" creationdate="20180414T135816Z">
+        <seg>La casella di riepilogo dovrebbe visualizzare assieme il codice postale e la città.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The listboxes are in the "Filter" form and have the names "List_1" and "List_2".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T202638Z" creationid="Marco Marega" creationdate="20180326T202638Z">
@@ -30998,6 +31022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This macro should be bound to the following form events: 'When loading' &lt;s0/&gt;and 'After record change'.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140031Z" creationid="Marco Marega" creationdate="20180414T140031Z">
+        <seg>Questa macro dovrebbe essere assegnata ai seguenti eventi del formulario: 'Durante il caricamento' &lt;s0/&gt;e 'Dopo la modifica del record'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This main form is linked to the subform in such a way that the value of the &lt;f0&gt;Integer&lt;/f0&gt; field in the &lt;f1&gt;Filter&lt;/f1&gt; table is the same as the value of the &lt;f2&gt;Reader_ID&lt;/f2&gt; field in the Loan Table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173648Z" creationid="Marco Marega" creationdate="20171226T173648Z">
@@ -31090,6 +31122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174225Z" creationid="Manuel Frassinetti" creationdate="20180116T174225Z">
         <seg>Questo metodo ha lo svantaggio che &lt;/f17&gt;&lt;f18&gt;potete lavorare con le ricerche solo in modo SQL.&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This might happen if, for example, the postcode in a postal address is stored separately from the town.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135652Z" creationid="Marco Marega" creationdate="20180414T135652Z">
+        <seg>Questo può accadere se, ad esempio, il codice postale di un indirizzo è memorizzato separatamente dalla città.</seg>
       </tuv>
     </tu>
     <tu>
