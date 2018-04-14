@@ -7598,6 +7598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A table with a single record can be directly created by using comboboxes and invisible numeric fields and the corresponding primary key entered into another table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T133339Z" creationid="Marco Marega" creationdate="20180414T133339Z">
+        <seg>Una tabella con un singolo record può essere creata direttamente usando delle caselle combinate e campi numerici nascosti le cui chiavi primarie corrispondenti vengono inserite in un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A temporary change in order can be carried out during data entry by using the same method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224315Z" creationid="Marco Marega" creationdate="20171214T224315Z">
@@ -17178,6 +17186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T221040Z" creationid="Marco Marega" creationdate="20171226T221040Z">
         <seg>In pratica questo si traduce in un campo di controllo tabella vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In previous versions of L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; or O&lt;f2&gt;pen&lt;/f2&gt;O&lt;f3&gt;ffice.&lt;/f3&gt;o&lt;f4&gt;rg,&lt;/f4&gt; it was necessary to make the numeric fields invisible by using a macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T133434Z" creationid="Marco Marega" creationdate="20180414T133434Z">
+        <seg>Nelle versioni precedenti di L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; o O&lt;f2&gt;pen&lt;/f2&gt;O&lt;f3&gt;ffice.&lt;/f3&gt;o&lt;f4&gt;rg,&lt;/f4&gt; era necessario rendere invisibili i campi numerici usando una macro.</seg>
       </tuv>
     </tu>
     <tu>
