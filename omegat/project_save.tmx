@@ -8342,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After this, the value of the foreign key is read.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145223Z" creationid="Marco Marega" creationdate="20180414T145223Z">
+        <seg>Dopodiché viene letto il valore della chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After this, the variables are declared.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140534Z" creationid="Marco Marega" creationdate="20180414T140534Z">
@@ -18950,6 +18958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It might be that the content of the field has been changed by the entry of new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145100Z" creationid="Marco Marega" creationdate="20180414T145100Z">
+        <seg>Potrebbe essere che il contenuto del campo sia cambiato con l'inserimento di nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It might be useful to do this, perhaps after a specific elapsed time or when an on-screen button is pressed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170856Z" creationid="Elisabetta Manuele" creationdate="20180412T170856Z">
@@ -20970,6 +20986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193812Z" creationid="Elisabetta Manuele" creationdate="20180308T193812Z">
         <seg>Soltanto i formulari possono essere generati esternamente, non le query o i report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if a value is entered here will a connection be made to the data source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145341Z" creationid="Marco Marega" creationdate="20180414T145341Z">
+        <seg>Solo se qui viene inserito un valore verrà stabilito un collegamento con la sorgente dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31330,6 +31354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T161530Z" creationid="Elisabetta Manuele" creationdate="20180412T161530Z">
         <seg>Questo deve essere convertito in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This must be made possible.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145133Z" creationid="Marco Marega" creationdate="20180414T145133Z">
+        <seg>Questo deve essere reso possibile.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
