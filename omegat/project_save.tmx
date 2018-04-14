@@ -25942,6 +25942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The SQL statement is formulated according to the fields used in the combobox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145851Z" creationid="Marco Marega" creationdate="20180414T145851Z">
+        <seg>Il comando SQL è formulato in base ai campi usati nella casella combinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The SQL statement is the same as in the first example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134735Z" creationid="Marco Marega" creationdate="20180228T134735Z">
