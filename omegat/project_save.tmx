@@ -6718,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When written out in the form required by Basic, this SQL command is pretty incomprehensible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151152Z" creationid="Marco Marega" creationdate="20180414T151152Z">
+        <seg>&lt;f0&gt;Quando scritto nella forma richiesta da Basic, questo comando SQL è alquanto incomprensibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;With this refinement of the filtering (what happens if the title is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NULL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;?) we get a result more in line with expectations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T224923Z" creationid="MicrosoftSucks" creationdate="20180316T224923Z">
@@ -9122,6 +9130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213020Z" creationid="Marco Marega" creationdate="20180219T213020Z">
         <seg>Dato che in pratica c'è il bisogno di inserire dei campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As double quotes are normally interpreted by Basic as indicating text, they disappear when the code is transferred.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151209Z" creationid="Marco Marega" creationdate="20180414T151209Z">
+        <seg>As double quotes are normally interpreted by Basic as indicating text, they disappear when the code is transferred.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12186,6 +12202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T175139Z" creationid="Elisabetta Manuele" creationdate="20180402T175139Z">
         <seg>EXP(d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each field and each table name must be written into the SQL input with two sets of double quotes as shown above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151401Z" creationid="Marco Marega" creationdate="20180414T151205Z">
+        <seg>Tutti i nomi dei campi e delle tabelle devono essere scritti nel comando SQL racchiusi da due insiemi di virgolette doppie, come mostrato sopra.</seg>
       </tuv>
     </tu>
     <tu>
