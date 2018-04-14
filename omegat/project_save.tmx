@@ -26998,6 +26998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following parameters are optional and need not be given when the &lt;f0&gt;subroutine&lt;/f0&gt; is called.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140239Z" creationid="Marco Marega" creationdate="20180414T140239Z">
+        <seg>I seguenti parametri sono opzionali e non è necessario passarli alla &lt;f0&gt;subroutine&lt;/f0&gt; quando viene richiamata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following points are also important.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205218Z" creationid="Marco Marega" creationdate="20171229T205218Z">
