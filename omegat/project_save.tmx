@@ -27942,6 +27942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following code covers any further cases of excessively long text that might arise.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091503Z" creationid="Marco Marega" creationdate="20180415T091503Z">
+        <seg>Il codice seguente gestisce tutti gli altri casi di testo eccessivamente lungo che possono sorgere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following content is taken from LibreOffice Help:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193905Z" creationid="Marco Marega" creationdate="20171125T193905Z">
@@ -30282,6 +30290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161852Z" creationid="Manuel Frassinetti" creationdate="20171218T161708Z">
         <seg>La finestra fornisce informazioni sul modo in cui questo tipo di relazione funziona in pratica.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window will therefore have the title "Invalid entry" and the number '64' provides a box containing the Information symbol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091353Z" creationid="Marco Marega" creationdate="20180415T091353Z">
+        <seg>Perciò la finestra avrà come titolo "Invalid entry" ed il numero '64' richiama una finesta contenente il simbolo per delle Informazioni.</seg>
       </tuv>
     </tu>
     <tu>
