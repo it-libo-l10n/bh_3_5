@@ -13384,8 +13384,8 @@
       <tuv lang="EN">
         <seg>Fields are linked together in the same way as for a main form with a subform.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T144940Z" creationid="Alessia Mazzarini" creationdate="20180328T144940Z">
-        <seg>I campi sono collegati tra loro come succede tra un formulario principale e un sottoformulario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T182949Z" creationid="Alessia Mazzarini" creationdate="20180328T144940Z">
+        <seg>I campi sono collegati tra loro come succede tra un formulario principale e un formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27200,8 +27200,8 @@
       <tuv lang="EN">
         <seg>The chart &lt;f0&gt;on the next page&lt;/f0&gt;, from the membership database of a society (German: Mitgliederstatistik), has been prepared from a query that needs to be entered in direct SQL mode, as the graphical user interface does not understand it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185349Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
-        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database di membri di una società (tedesco: Mitgliederstatistik), è stato preparato partendo da una interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T182914Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
+        <seg>Il grafico &lt;f0&gt;nella pagina successiva&lt;/f0&gt;, tratto da un database di membri di una società (tedesco: Mitgliederstatistik), è stato preparato partendo da un'interrogazione inserita direttamente in modalità SQL, poiché l'interfaccia grafica utenti non la può interpretare.</seg>
       </tuv>
     </tu>
     <tu>
