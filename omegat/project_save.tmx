@@ -10664,8 +10664,8 @@
       <tuv lang="EN">
         <seg>By default, this option is set to &lt;f0&gt;No&lt;/f0&gt; .</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T184242Z" creationid="Alessia Mazzarini" creationdate="20180321T084055Z">
-        <seg>Il valore predefinito di questa opzione, è impostato su &lt;f0&gt;No&lt;/f0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T174817Z" creationid="Alessia Mazzarini" creationdate="20180321T084055Z">
+        <seg>Il valore predefinito di questa opzione, è impostato su &lt;f0&gt;No&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25592,8 +25592,8 @@
       <tuv lang="EN">
         <seg>T&lt;f0&gt;o&lt;/f0&gt; add fields, us&lt;f1&gt;e&lt;/f1&gt; the &lt;f2&gt;Add field&lt;/f2&gt; function, as with forms.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T085123Z" creationid="Alessia Mazzarini" creationdate="20180321T085123Z">
-        <seg>P&lt;f0&gt;er&lt;/f0&gt; aggiungere dei campi, usat&lt;f1&gt;e&lt;/f1&gt; la funzione&lt;f2&gt;Aggiungi campo&lt;/f2&gt;, come per i formulari.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T174930Z" creationid="Alessia Mazzarini" creationdate="20180321T085123Z">
+        <seg>P&lt;f0&gt;er&lt;/f0&gt; aggiungere dei campi, usat&lt;f1&gt;e&lt;/f1&gt; la funzione &lt;f2&gt;Aggiungi campo&lt;/f2&gt;, come per i formulari.</seg>
       </tuv>
     </tu>
     <tu>
