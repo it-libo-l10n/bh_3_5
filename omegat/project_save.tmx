@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;IsNull&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;oQuery_result&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;) &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092921Z" creationid="Marco Marega" creationdate="20180415T092921Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;IsNull&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;oQuery_result&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;) &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;IsNull&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;oAbfrageergebnis&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;THEN&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T105618Z" creationid="Elisabetta Manuele" creationdate="20180412T105618Z">
@@ -4538,6 +4546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202557Z" creationid="Marco Marega" creationdate="20180327T202557Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oQuery_Result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSQL_Statement.executeQuery&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stSql&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;= &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oSQL_Statement.executeQuery&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;)&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092920Z" creationid="Marco Marega" creationdate="20180415T092920Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;= &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oSQL_Statement.executeQuery&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;)&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16592,8 +16608,8 @@
       <tuv lang="EN">
         <seg>If a second table field exists,</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T150447Z" creationid="Marco Marega" creationdate="20180414T150447Z">
-        <seg>Se esiste un secondo campo da una tabella,</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T093032Z" creationid="Marco Marega" creationdate="20180414T150447Z">
+        <seg>Se esiste un campo da una seconda tabella,</seg>
       </tuv>
     </tu>
     <tu>
@@ -28426,6 +28442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T162454Z" creationid="manuel" creationdate="20180301T162454Z">
         <seg>La funzione va errore per i campi data.&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The function uses the automatically generated primary key fields (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;IDENTITY&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092918Z" creationid="Marco Marega" creationdate="20180415T092918Z">
+        <seg>La funzione usa i campi con generazione automatica della chiave primaria (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;IDENTITY&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
