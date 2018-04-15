@@ -21048,8 +21048,8 @@
       <tuv lang="EN">
         <seg>Neither can a report present different data elements than those that are available in the underlying data source, as a form can do using list boxes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175704Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
-        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente di dati sottostante, al contrario dei formulari che possono invece farlo con caselle di riepilogo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T170837Z" creationid="Alessia Mazzarini" creationdate="20180311T185007Z">
+        <seg>Allo stesso modo, un rapporto non può presentare dei dati differenti rispetto a quelli disponibili nella sorgente di dati sottostante, al contrario dei formulari che possono invece farlo usando caselle di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33752,8 +33752,8 @@
       <tuv lang="EN">
         <seg>Unlike a form, a report cannot include subreports and thus incorporate additional data sources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175514Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
-        <seg>A differenza di un formulario, un rapporto non può includere dei sottorapporti e quindi incorporare sorgenti di dati addizionali.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T170800Z" creationid="Alessia Mazzarini" creationdate="20180311T183545Z">
+        <seg>A differenza di un formulario, un rapporto non può includere dei rapporti secondari e quindi incorporare sorgenti di dati addizionali.</seg>
       </tuv>
     </tu>
     <tu>
