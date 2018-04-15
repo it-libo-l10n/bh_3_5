@@ -28456,8 +28456,8 @@
       <tuv lang="EN">
         <seg>The functionality of completed reports is not affected even if they were created under another version, in which the problem does not occur.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193947Z" creationid="Alessia Mazzarini" creationdate="20180314T184955Z">
-        <seg>La funzionalità dei rapporti non viene influenzata, anche se questi sono stati creati all'interno di una versione differente, dove il problema non si presenta.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T171329Z" creationid="Alessia Mazzarini" creationdate="20180314T184955Z">
+        <seg>La funzionalità dei rapporti completati non viene influenzata, anche se questi sono stati creati all'interno di una versione differente, dove il problema non si presenta.</seg>
       </tuv>
     </tu>
     <tu>
