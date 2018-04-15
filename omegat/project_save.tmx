@@ -5488,8 +5488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Depending on the version of LibreOffice that you are using, the Report Builder can sometimes crash &lt;/f0&gt;&lt;f1&gt;during editing.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180314T193838Z" creationid="Alessia Mazzarini" creationdate="20180314T184619Z">
-        <seg>&lt;f0&gt;A seconda della versione di LibreOffice che si utilizza, il Report Builder potrebbe qualche volta arrestarsi in maniera anomala &lt;/f0&gt;&lt;f1&gt;durante le modifiche.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T171247Z" creationid="Alessia Mazzarini" creationdate="20180314T184619Z">
+        <seg>&lt;f0&gt;A seconda della versione di LibreOffice usata, il Report Builder potrebbe qualche volta arrestarsi in maniera anomala &lt;/f0&gt;&lt;f1&gt;durante le modifiche.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32448,8 +32448,8 @@
       <tuv lang="EN">
         <seg>This means that queries in direct SQL mode should be avoided under these conditions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T180104Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
-        <seg>Questo vuol dire che le interrogazioni in modalità SQL diretta andrebbero evitate in tali circostanze.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T171013Z" creationid="Alessia Mazzarini" creationdate="20180314T182606Z">
+        <seg>Questo vuol dire che, in tali circostanze, le interrogazioni in modalità SQL diretta andrebbero evitate.</seg>
       </tuv>
     </tu>
     <tu>
