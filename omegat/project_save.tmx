@@ -13998,6 +13998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For comboboxes that represent a single field, this is normally handled by suitably configuring the form control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090302Z" creationid="Marco Marega" creationdate="20180415T090302Z">
+        <seg>Per le caselle combinate questi rappresentano un unico campo, che normalmente è adeguatamente gestito configurando il campo di controllo nel formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For controls, the names are taken directly from the names of the fields in the underlying table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215133Z" creationid="Marco Marega" creationdate="20171210T215133Z">
@@ -19266,6 +19274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225328Z" creationid="Marco Marega" creationdate="20180224T225328Z">
         <seg>Può essere usato, ad esempio, quanto un database viene usato inizialmente con dei dati di prova e successivamente riempito con dati reali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can happen that with two separable contents, the installed size of the combobox (text length) does not fit the table fields to be saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090147Z" creationid="Marco Marega" creationdate="20180415T090147Z">
+        <seg>Può capitare che con due elementi separabili, la dimensione impostata della casella combinata (lunghezza del testo) non sia in grado di contenere i campi da salvare.</seg>
       </tuv>
     </tu>
     <tu>
