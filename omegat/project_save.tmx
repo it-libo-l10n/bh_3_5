@@ -2958,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inID2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;-1&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092512Z" creationid="Marco Marega" creationdate="20180415T092512Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inID2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;-1&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;inK&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inI&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;1&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;THEN&lt;/f20&gt;&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123152Z" creationid="Marco Marega" creationdate="20180404T123152Z">
@@ -3966,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getInt&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092507Z" creationid="Marco Marega" creationdate="20180415T092507Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inID2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getInt&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;inID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oField.getCurrentValue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145344Z" creationid="Marco Marega" creationdate="20180414T145344Z">
@@ -4534,6 +4550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSQL_Statement&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.executeQuery&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;stSql&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092502Z" creationid="Marco Marega" creationdate="20180415T092502Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSQL_Statement&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.executeQuery&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;stSql&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSQL_Statement.executeQuery&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;)&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104753Z" creationid="Elisabetta Manuele" creationdate="20180412T104753Z">
@@ -4778,6 +4802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104632Z" creationid="Elisabetta Manuele" creationdate="20180412T104632Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"INSERT INTO """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTable1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;""" ("""&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;NameTableField1&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;""","""&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;NameTab12ID&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt; &lt;/f38&gt;&lt;f39&gt;&lt;f40&gt;+&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;""") VALUES ('"&lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt; &lt;/f44&gt;&lt;f45&gt;&lt;f46&gt;+&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt; &lt;/f47&gt;&lt;f48&gt;&lt;f49&gt;stContent&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt; &lt;/f50&gt;&lt;f51&gt;&lt;f52&gt;+&lt;/f52&gt;&lt;/f51&gt;&lt;f53&gt; &lt;/f53&gt;&lt;f54&gt;&lt;f55&gt;"','"&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt; &lt;/f56&gt;&lt;f57&gt;&lt;f58&gt;+&lt;/f58&gt;&lt;/f57&gt;&lt;f59&gt; &lt;/f59&gt;&lt;f60&gt;&lt;f61&gt;inID2&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt; &lt;/f62&gt;&lt;f63&gt;&lt;f64&gt;+&lt;/f64&gt;&lt;/f63&gt;&lt;f65&gt; &lt;/f65&gt;&lt;f66&gt;&lt;f67&gt;"') "&lt;/f67&gt;&lt;/f66&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"INSERT INTO """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTable2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;""" ("""&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+ &lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;NameTableField2&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;+&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;""") VALUES ('"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;+&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;stContentField2&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;f39&gt;+&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;&lt;f42&gt;"') "&lt;/f42&gt;&lt;/f41&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092515Z" creationid="Marco Marega" creationdate="20180415T092515Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"INSERT INTO """&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTable2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;""" ("""&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+ &lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;NameTableField2&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;+&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;""") VALUES ('"&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;+&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;stContentField2&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;f39&gt;+&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;&lt;f42&gt;"') "&lt;/f42&gt;&lt;/f41&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5874,6 +5906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163530Z" creationid="Elisabetta Manuele" creationdate="20180403T163530Z">
         <seg>&lt;f0&gt;Se i&lt;/f0&gt;l driver del database non si trova nel percorso Java-Runtime, &lt;f1&gt;deve&lt;/f1&gt;essere inserito come percorso classe nel menu &lt;f2&gt;Strumenti &lt;/f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;f4&gt; Opzioni &lt;/f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;f6&gt; Java&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If the content within the combobox is not present in the corresponding table, it is inserted there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092635Z" creationid="Marco Marega" creationdate="20180415T092635Z">
+        <seg>&lt;f0&gt;Se il contenuto all'interno della casella combinata non è presente nella tabella, allora viene inserito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16770,6 +16810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183542Z" creationid="Elisabetta Manuele" creationdate="20180306T183542Z">
         <seg>Se non viene selezionata, non sarà assegnata una riga separata per le intestazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is present, the existing primary key is read in the same way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092836Z" creationid="Marco Marega" creationdate="20180415T092836Z">
+        <seg>Allo stesso modo, se è presente, viene letta la chiave primaria esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29402,6 +29450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T221938Z" creationid="Marco Marega" creationdate="20180128T221938Z">
         <seg>La chiave primaria di questa tabella di collegamento è la chiave esterna, formata dalle tabelle &lt;f1&gt;Author&lt;/f1&gt; e &lt;f2&gt;Media&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary key value which results is then read.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092709Z" creationid="Marco Marega" creationdate="20180415T092709Z">
+        <seg>Poi viene letto il valore della chiave primaria che ne risulta.</seg>
       </tuv>
     </tu>
     <tu>
