@@ -2782,6 +2782,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Field1Length&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;0&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;AND&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Len&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;(&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;stContent&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;)&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;Field1Length&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;)&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;AND&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt; &lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;(&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;Field2Length&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;&gt; &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;0&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;&lt;f48&gt;AND&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt; &lt;/f49&gt;&lt;f50&gt;&lt;f51&gt;Len&lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;(&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt;stContentField2&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;)&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt; &lt;/f58&gt;&lt;f59&gt;&lt;f60&gt;&gt;&lt;/f60&gt;&lt;/f59&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;&lt;f63&gt;Field2Length&lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;) &lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt;THEN&lt;/f67&gt;&lt;/f66&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090706Z" creationid="Marco Marega" creationdate="20180415T090706Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Field1Length&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;0&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;AND&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Len&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;(&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;stContent&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;)&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;Field1Length&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;)&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt; &lt;/f33&gt;&lt;f34&gt;&lt;f35&gt;AND&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt; &lt;/f36&gt;&lt;f37&gt;&lt;f38&gt;(&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;Field2Length&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt; &lt;/f41&gt;&lt;f42&gt;&lt;f43&gt;&gt; &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;0&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;&lt;f48&gt;AND&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt; &lt;/f49&gt;&lt;f50&gt;&lt;f51&gt;Len&lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;(&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt;stContentField2&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;)&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt; &lt;/f58&gt;&lt;f59&gt;&lt;f60&gt;&gt;&lt;/f60&gt;&lt;/f59&gt;&lt;f61&gt; &lt;/f61&gt;&lt;f62&gt;&lt;f63&gt;Field2Length&lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;) &lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt;THEN&lt;/f67&gt;&lt;/f66&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(Field1Length&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;AND&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Len(stContent)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Field1Length&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;)&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;OR&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;(Field2Length&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;0&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;f39&gt;AND&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;&lt;f42&gt;Len(stContentField2)&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt; &lt;/f43&gt;&lt;f44&gt;&lt;f45&gt;&gt;&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;&lt;f48&gt;Field2Length&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;)&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;&lt;f53&gt;THEN&lt;/f53&gt;&lt;/f52&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090448Z" creationid="Marco Marega" creationdate="20180415T090448Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(Field1Length&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;AND&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Len(stContent)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Field1Length&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;)&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;OR&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;(Field2Length&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;0&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt; &lt;/f37&gt;&lt;f38&gt;&lt;f39&gt;AND&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;&lt;f42&gt;Len(stContentField2)&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt; &lt;/f43&gt;&lt;f44&gt;&lt;f45&gt;&gt;&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;&lt;f48&gt;Field2Length&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;)&lt;/f50&gt;&lt;/f49&gt;&lt;f51&gt; &lt;/f51&gt;&lt;f52&gt;&lt;f53&gt;THEN&lt;/f53&gt;&lt;/f52&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ISNULL&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;oQuery_result&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;) &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;THEN&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111216Z" creationid="Elisabetta Manuele" creationdate="20180412T111216Z">
@@ -3926,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;msgbox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"The entered text is too long."&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;CHR&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;13&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;)&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;+&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;stmsgbox1&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;+&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;stmsgbox2&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;+&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;"Please shorten it."&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;,&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;64&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;,&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;"Invalid entry"&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;)&lt;/f46&gt;&lt;/f45&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090711Z" creationid="Marco Marega" creationdate="20180415T090711Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;msgbox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;"The entered text is too long."&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;+&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;CHR&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;(&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;13&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;)&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;+&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;stmsgbox1&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;+&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; &lt;/f28&gt;&lt;f29&gt;&lt;f30&gt;stmsgbox2&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;+&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt; &lt;/f34&gt;&lt;f35&gt;&lt;f36&gt;"Please shorten it."&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;,&lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;64&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;,&lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;"Invalid entry"&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt;)&lt;/f46&gt;&lt;/f45&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oAuthentication&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;createUnoService&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"com.sun.star.sdb.InteractionHandler"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T164859Z" creationid="Elisabetta Manuele" creationdate="20180412T164859Z">
@@ -4842,6 +4866,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155510Z" creationid="Elisabetta Manuele" creationdate="20180412T155510Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oEvent.Source.Model.Tag&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Tag è inserito nelle informazioni aggiuntive&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stmsgbox1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"The field "&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTableField1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; "&lt;/f17&gt;&lt;f18&gt;&lt;f19&gt; must not exceed "&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Field1Length&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"characters in length."&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;CHR&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;(&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;13&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;)&lt;/f43&gt;&lt;/f42&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090609Z" creationid="Marco Marega" creationdate="20180415T090609Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stmsgbox1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"The field "&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTableField1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; "&lt;/f17&gt;&lt;f18&gt;&lt;f19&gt; must not exceed "&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Field1Length&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"characters in length."&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;CHR&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;(&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;13&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;)&lt;/f43&gt;&lt;/f42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stmsgbox2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"The field "&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTableField2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;" must not exceed "&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Field2Length&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"characters in length."&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;CHR&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;(&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;13&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;)&lt;/f43&gt;&lt;/f42&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090612Z" creationid="Marco Marega" creationdate="20180415T090612Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stmsgbox2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"The field "&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;NameTableField2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;" must not exceed "&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;+&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Field2Length&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;+&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;&lt;f31&gt;"characters in length."&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt; &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;+&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;CHR&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;(&lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;13&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt;)&lt;/f43&gt;&lt;/f42&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5794,6 +5834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213448Z" creationid="MicrosoftSucks" creationdate="20180218T213448Z">
         <seg>&lt;f0&gt;Se il campo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter_1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; non e' &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NULL&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, vengono visualizzati i record per i quali &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Title&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; e' uguale a &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Filter_1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If the field length of the first or second part is too big, a default string is stored in one of the variables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090544Z" creationid="Marco Marega" creationdate="20180415T090544Z">
+        <seg>&lt;f0&gt;Se la lunghezza della prima o della seconda parte del campo è troppo lunga, in una delle variabili viene memorizzata una stringa predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15198,6 +15246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here by contrast, we need some way of catching such errors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090355Z" creationid="Marco Marega" creationdate="20180415T090355Z">
+        <seg>Al contrario, qui abbiamo la necessità di un modo per intercettare simili errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here further tables or queries can subsequently be added and made visible in the graphical user interface.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161520Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
@@ -16458,6 +16514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141218Z" creationid="Marco Marega" creationdate="20180218T141218Z">
         <seg>Se un indice viene creato per un solo campo, l'univocità si applica a quel campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If both field contents are too long, both texts are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090704Z" creationid="Marco Marega" creationdate="20180415T090704Z">
+        <seg>Se i contenuti di entrambi i campi sono troppo lunghi, vengono visualizzati ambedue i testi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26950,6 +27014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The character &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;CHR(13)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is used to put in a line break .&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090607Z" creationid="Marco Marega" creationdate="20180415T090607Z">
+        <seg>Il carattere &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;CHR(13)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è utilizzato per inserire un'interruzione di linea.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The chart &lt;f0&gt;on the next page&lt;/f0&gt;, from the membership database of a society (German: Mitgliederstatistik), has been prepared from a query that needs to be entered in direct SQL mode, as the graphical user interface does not understand it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185349Z" creationid="Alessia Mazzarini" creationdate="20180328T144215Z">
@@ -27450,6 +27522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124029Z" creationid="Marco Marega" creationdate="20180404T124029Z">
         <seg>Il formulario di visualizzazione deve essere ricaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The display uses the &lt;f0&gt;msgbox()&lt;/f0&gt; function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090734Z" creationid="Marco Marega" creationdate="20180415T090734Z">
+        <seg>La visualizzazione usa la funzione &lt;f0&gt;msgbox()&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28754,6 +28834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201434Z" creationid="Marco Marega" creationdate="20180414T201420Z">
         <seg>La lunghezza massima per i dati inseriti è determinata usando la funzione Columnsize, descritta di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The maximum permissible length of the relevant field is checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090446Z" creationid="Marco Marega" creationdate="20180415T090446Z">
+        <seg>Viene controllata la lunghezza massima permessa per i campi interessati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31442,6 +31530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185637Z" creationid="Alessia Mazzarini" creationdate="20180328T150620Z">
         <seg>Questo esempio n&lt;f1&gt;o&lt;/f1&gt;n è stato tradotto, poiché il rapporto non fa parte del database degli esempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This expects as its first argument a text string, then optionally a number (which determines the type of message box displayed), and finally an optional text string as a title for the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091240Z" creationid="Marco Marega" creationdate="20180415T091240Z">
+        <seg>Questa aspetta di ricevere una stringa di testo come primo argomento, poi un numero opzionale (che determina il tipo di finestra di messaggio da visualizzare) ed infine un testo opzionale per il titolo della finestra.</seg>
       </tuv>
     </tu>
     <tu>
