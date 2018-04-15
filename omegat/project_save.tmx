@@ -5184,8 +5184,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic size&lt;/f0&gt;: The image is fitted to the control and in some cases may be distorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T173525Z" creationid="Alessia Mazzarini" creationdate="20180327T173305Z">
-        <seg>&lt;f0&gt;Adatta alla dimensioni&lt;/f0&gt;: L'immagine viene adattata al campo di controllo e in alcuni casi potrebbe risultare distorta.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T182539Z" creationid="Alessia Mazzarini" creationdate="20180327T173305Z">
+        <seg>&lt;f0&gt;Adatta alla dimensioni&lt;/f0&gt;: l'immagine viene adattata al campo di controllo e in alcuni casi potrebbe risultare distorta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,8 +8016,8 @@
       <tuv lang="EN">
         <seg>A chart can therefore be seen as a kind of subreport, but also as a free-standing component of the report.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T134515Z" creationid="Alessia Mazzarini" creationdate="20180328T134515Z">
-        <seg>Un rapporto può quindi essere visto come una specie di sottorapporto, ma anche come una componente autonoma del rapporto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T182622Z" creationid="Alessia Mazzarini" creationdate="20180328T134515Z">
+        <seg>Un rapporto può quindi essere visto come una specie di rapporto secondario, ma anche come una componente autonoma del rapporto.</seg>
       </tuv>
     </tu>
     <tu>
