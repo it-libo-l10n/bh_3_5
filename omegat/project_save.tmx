@@ -15974,6 +15974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However this value could also indicate a successful query returning a primary key value of 0; therefore the variable is preset to -1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T092229Z" creationid="Marco Marega" creationdate="20180415T092229Z">
+        <seg>Però questo valore può indicare anche una ricerca fruttuosa che restituisce una chiave primaria che ha valore 0; perciò la variabile viene predefinita con il valore -1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However this will prevent the form accessing the underlying data using a filter or a sort.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210103Z" creationid="Marco Marega" creationdate="20171014T210103Z">
@@ -16442,6 +16450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180302T133641Z" creationid="Marco Marega" creationdate="20180302T133641Z">
         <seg>Se è già stata effettuata una precedente operazione di ordinamento veloce, la prima riga conterrà già il nome di campo corrispondente e il tipo di ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a query yields no results, Basic assigns these integer variable a value of 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091947Z" creationid="Marco Marega" creationdate="20180415T091947Z">
+        <seg>Se una ricerca non genera risultati, Basic assegna il valore 0 a queste variabili ti tipo intero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30298,6 +30314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153439Z" creationid="Elisabetta Manuele" creationdate="20180412T153439Z">
         <seg>Anche le variabili passate sono le stesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The variables inID1 and inID2 store the content of the primary key fields of the two tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091838Z" creationid="Marco Marega" creationdate="20180415T091838Z">
+        <seg>Le variabili inID1 e inID2 memorizzano il contenuto della chiave primaria delle due tabelle.</seg>
       </tuv>
     </tu>
     <tu>
