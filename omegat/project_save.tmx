@@ -6168,8 +6168,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;eft-click on &lt;f1&gt;Report&lt;/f1&gt; and the properties of the report are once more accessible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T175253Z" creationid="Alessia Mazzarini" creationdate="20180316T175021Z">
-        <seg>&lt;f0&gt;F&lt;/f0&gt;ate clic con il pulsante sinistro sul &lt;f1&gt;rapporto&lt;/f1&gt; e le proprietà del rapporto torneranno di nuovo visibili.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T172540Z" creationid="Alessia Mazzarini" creationdate="20180316T175021Z">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ate clic con il pulsante sinistro su &lt;f1&gt;Rapporto&lt;/f1&gt; e le proprietà del rapporto torneranno di nuovo visibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31080,8 +31080,8 @@
       <tuv lang="EN">
         <seg>They are useful for quick adjustment of fields in a single area of the Report Builder, but in principle everything can be done by direct editing of field properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T220219Z" creationid="Alessia Mazzarini" creationdate="20180315T220102Z">
-        <seg>I pulsanti sono utili per ritoccare velocemente i campi in un'unica area del Report Builder, ma in linea di principio tutto ciò può essere fatto modificando direttamente le proprietà del campo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T172253Z" creationid="Alessia Mazzarini" creationdate="20180315T220102Z">
+        <seg>I pulsanti sono utili per ritoccare velocemente i campi in un'unica area del Report Builder, ma in linea di principio tutto ciò può essere fatto direttamente modificando le proprietà del campo.</seg>
       </tuv>
     </tu>
     <tu>
