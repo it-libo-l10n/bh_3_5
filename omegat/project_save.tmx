@@ -21400,8 +21400,8 @@
       <tuv lang="EN">
         <seg>Now we consider the simplest case: The second table field does not exist and the entry is not yet present in the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T110348Z" creationid="Elisabetta Manuele" creationdate="20180412T110348Z">
-        <seg>Ora consideriamo il caso più semplice: il secondo campo della tabella non esiste e la voce non è ancora presente nella tabella.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T093121Z" creationid="Elisabetta Manuele" creationdate="20180412T110348Z">
+        <seg>Ora consideriamo il caso più semplice: il campo dalla seconda tabella non esiste e la voce non è ancora presente nella tabella.</seg>
       </tuv>
     </tu>
     <tu>
