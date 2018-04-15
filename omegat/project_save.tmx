@@ -8456,8 +8456,8 @@
       <tuv lang="EN">
         <seg>A view has been chosen for the basis of this report, &lt;f6&gt;so &lt;/f6&gt;no filter will be applied; &lt;f7&gt;i&lt;/f7&gt;t has already been included in the query underlying the view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T212730Z" creationid="Alessia Mazzarini" creationdate="20180315T212657Z">
-        <seg>Una visualizzazione è stata scelta per la base di questo rapporto, &lt;f6&gt;di conseguenza &lt;/f6&gt;non verrà applicato alcun filtro; &lt;f7&gt;i&lt;/f7&gt;l filtro è già stato incluso nell'interrogazione sottostante.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T171754Z" creationid="Alessia Mazzarini" creationdate="20180315T212657Z">
+        <seg>Una vista è stata scelta per la base di questo rapporto, &lt;f6&gt;di conseguenza &lt;/f6&gt;non verrà applicato alcun filtro; &lt;f7&gt;i&lt;/f7&gt;l filtro è già stato incluso nell'interrogazione sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15696,8 +15696,8 @@
       <tuv lang="EN">
         <seg>Here you can set the content of the report; in the example it is the &lt;f0&gt;View&lt;/f0&gt;_&lt;f1&gt;Report_Recall &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;t&lt;/f3&gt;&lt;/f2&gt;able.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T211100Z" creationid="Alessia Mazzarini" creationdate="20180315T205431Z">
-        <seg>Qui potete impostare il contenuto del rapporto; l'esempio riporta la tabella &lt;f0&gt;View&lt;/f0&gt;_&lt;f1&gt;Report_Recall &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T171704Z" creationid="Alessia Mazzarini" creationdate="20180315T205431Z">
+        <seg>Qui potete impostare il contenuto del rapporto; nell'esempio si tratta della tabella &lt;f0&gt;View&lt;/f0&gt;_&lt;f1&gt;Report_Recall&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
