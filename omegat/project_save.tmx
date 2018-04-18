@@ -25520,8 +25520,8 @@
       <tuv lang="EN">
         <seg>Sums a list of numeric values</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205443Z" creationid="Alessia Mazzarini" creationdate="20180405T205443Z">
-        <seg>Somma una lista di valori numerici</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T172101Z" creationid="Alessia Mazzarini" creationdate="20180405T205443Z">
+        <seg>Somma una lista di valori numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30024,8 +30024,8 @@
       <tuv lang="EN">
         <seg>The specified number of characters of a text string are reproduced starting from the left.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T200106Z" creationid="Alessia Mazzarini" creationdate="20180406T200106Z">
-        <seg>Il numero specificato di caratteri di una stringa di testo viene riprodotto a partire da sinistra.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T172243Z" creationid="Alessia Mazzarini" creationdate="20180406T200106Z">
+        <seg>Restituisce il numero specificato di caratteri di una stringa di testo a partire da sinistra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33728,8 +33728,8 @@
       <tuv lang="EN">
         <seg>Unfortunately this function (still) ends with an error message.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T205727Z" creationid="Alessia Mazzarini" creationdate="20180405T205727Z">
-        <seg>Questa funzione restituisce ancora un messaggio di errore.&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T172134Z" creationid="Alessia Mazzarini" creationdate="20180405T205727Z">
+        <seg>Questa funzione restituisce (ancora) un messaggio di errore.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
