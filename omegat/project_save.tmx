@@ -10944,8 +10944,8 @@
       <tuv lang="EN">
         <seg>Calculates the areacosine (inverse hyperbolic cosine) – argument &gt;= 1.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173930Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
-        <seg>Calcola l'arcoseno iperbolico (l'inversa del coseno iperbolico) – argomento &gt;= 1.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T171823Z" creationid="Alessia Mazzarini" creationdate="20180405T203400Z">
+        <seg>Calcola l'arcocoseno iperbolico (l'inversa del coseno iperbolico) – argomento &gt;= 1.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23832,8 +23832,8 @@
       <tuv lang="EN">
         <seg>Returns the year part of a date entry.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T183401Z" creationid="Elisabetta Manuele" creationdate="20180403T095526Z">
-        <seg>Riporta la parte dell'anno di una voce di data.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T171650Z" creationid="Elisabetta Manuele" creationdate="20180403T095526Z">
+        <seg>Riporta la parte anno di una voce di data.</seg>
       </tuv>
     </tu>
     <tu>
