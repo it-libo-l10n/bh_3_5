@@ -6368,8 +6368,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NaN&lt;/f0&gt; (Perhaps "not a number"?)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T154012Z" creationid="Alessia Mazzarini" creationdate="20180403T154012Z">
-        <seg>&lt;f0&gt;NaN&lt;/f0&gt; (Forse "not a number"?)</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170719Z" creationid="Alessia Mazzarini" creationdate="20180403T154012Z">
+        <seg>&lt;f0&gt;NaN&lt;/f0&gt; (Forse "non un numero"?)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9152,8 +9152,8 @@
       <tuv lang="EN">
         <seg>All formula input applies only to the current record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T160516Z" creationid="Alessia Mazzarini" creationdate="20180403T160516Z">
-        <seg>Tutte le formule immesse sono valide solo per il record di dati corrente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170805Z" creationid="Alessia Mazzarini" creationdate="20180403T160516Z">
+        <seg>Tutte gli input delle formule sono validi solo per il record di dati attivo.</seg>
       </tuv>
     </tu>
     <tu>
