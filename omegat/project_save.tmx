@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp; (concatenate text),</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153543Z" creationid="Alessia Mazzarini" creationdate="20180403T153543Z">
-        <seg>&amp; (concatenazione del testo),</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170531Z" creationid="Alessia Mazzarini" creationdate="20180403T153543Z">
+        <seg>&amp; (concatena il testo),</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160524Z" creationid="steevie" creationdate="20180207T160442Z">
         <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cascata&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; significa che il valore della chiave viene semplicemente aggiornato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Text entry&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170355Z" creationid="Alessia Mazzarini" creationdate="20180418T170355Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;"&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Voce di testo&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13072,8 +13080,8 @@
       <tuv lang="EN">
         <seg>Error message for an empty field that was defined as a number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153947Z" creationid="Alessia Mazzarini" creationdate="20180403T153947Z">
-        <seg>Messaggio di errore in un campo definito come numero ma vuoto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170658Z" creationid="Alessia Mazzarini" creationdate="20180403T153947Z">
+        <seg>Messaggio di errore per un campo definito come numero ma vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35448,8 +35456,8 @@
       <tuv lang="EN">
         <seg>^ (Raise to the power of the following number), &lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153343Z" creationid="Alessia Mazzarini" creationdate="20180403T153343Z">
-        <seg>^ (eleva a potenza il numero successivo), &lt;br4/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170511Z" creationid="Alessia Mazzarini" creationdate="20180403T153343Z">
+        <seg>^ (eleva alla potenza del numero successivo), &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
