@@ -16262,6 +16262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IF([numericfield];[numericfield];0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T164838Z" creationid="Alessia Mazzarini" creationdate="20180418T164838Z">
+        <seg>IF([camponumerico];[camponumerico];0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IF&lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;IsEmpty&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oField.getCurrentValue&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;())&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200015Z" creationid="Marco Marega" creationdate="20180414T200015Z">
@@ -25456,8 +25464,8 @@
       <tuv lang="EN">
         <seg>Such fields can be reformatted to display a value of 0 by using the following formula in the Data area of the view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T164232Z" creationid="Alessia Mazzarini" creationdate="20180403T083017Z">
-        <seg>I campi di questo tipo possono essere formattati in modo da visualizzare un valore 0. Per ottenere ciò, si usa la seguente formula nella visualizzazione dell'area Dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T164526Z" creationid="Alessia Mazzarini" creationdate="20180403T083017Z">
+        <seg>I campi di questo tipo possono essere formattati in modo da visualizzare il valore 0. A questo scopo, si può usare la seguente formula nella visualizzazione dell'area Dati.</seg>
       </tuv>
     </tu>
     <tu>
