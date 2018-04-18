@@ -30976,8 +30976,8 @@
       <tuv lang="EN">
         <seg>These functions can lead to problems if a field is empty (NULL).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T082200Z" creationid="Alessia Mazzarini" creationdate="20180403T082200Z">
-        <seg>Queste funzioni possono creare problemi nel caso in cui un campo rimanga vuoto (NULL).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T162532Z" creationid="Alessia Mazzarini" creationdate="20180403T082200Z">
+        <seg>Queste funzioni possono creare problemi nel caso in cui un campo sia vuoto (NULL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35112,8 +35112,8 @@
       <tuv lang="EN">
         <seg>You can select in advance the&lt;f0&gt; Sum, Minimum, a&lt;/f0&gt;&lt;f1&gt;nd&lt;/f1&gt;&lt;f2&gt; Maximum&lt;/f2&gt; f&lt;f3&gt;unctions&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185928Z" creationid="Alessia Mazzarini" creationdate="20180403T082035Z">
-        <seg>Potete selezionare in anticipo la&lt;f0&gt; funzione &lt;/f0&gt;&lt;f1&gt;Accumulo, Minimo &lt;/f1&gt;&lt;f2&gt;e&lt;/f2&gt; M&lt;f3&gt;assimo&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T162441Z" creationid="Alessia Mazzarini" creationdate="20180403T082035Z">
+        <seg>Potete selezionare in anticipo le funzioni&lt;f0&gt; Accumulo, Minimo e &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Massimo&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
