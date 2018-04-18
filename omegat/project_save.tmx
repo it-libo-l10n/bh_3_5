@@ -23160,8 +23160,8 @@
       <tuv lang="EN">
         <seg>Replaces a substring by a different substring.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201103Z" creationid="Alessia Mazzarini" creationdate="20180406T201103Z">
-        <seg>Sostituisce una sottostringa con un'altra sottostringa.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T172514Z" creationid="Alessia Mazzarini" creationdate="20180406T201103Z">
+        <seg>Sostituisce sottostringa con un'altra sottostringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30016,8 +30016,8 @@
       <tuv lang="EN">
         <seg>The specified number of characters of a text string are reproduced starting from a specified character position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201000Z" creationid="Alessia Mazzarini" creationdate="20180406T201000Z">
-        <seg>Il numero specificato di caratteri di una stringa di testo viene riprodotto a partire da una posizione specifica del carattere.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T172342Z" creationid="Alessia Mazzarini" creationdate="20180406T201000Z">
+        <seg>Restituisce il numero specificato di caratteri di una stringa di testo a partire da una posizione specifica del carattere.</seg>
       </tuv>
     </tu>
     <tu>
