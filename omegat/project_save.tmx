@@ -18872,8 +18872,8 @@
       <tuv lang="EN">
         <seg>In the properties dialog, the Data tab shows by default only the database field from which the data for this report field will be read.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180402T101836Z" creationid="Alessia Mazzarini" creationdate="20180402T101836Z">
-        <seg>Nella finestra di dialogo Proprietà, la linguetta Dati mostra, per impostazione predefinita, solo i campi database da cui verranno letti i dati per questo campo del rapporto.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T164404Z" creationid="Alessia Mazzarini" creationdate="20180402T101836Z">
+        <seg>Nella finestra di dialogo Proprietà, la linguetta Dati mostra, per impostazione predefinita, solo il campo database da cui verranno letti i dati per questo campo del rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25456,8 +25456,8 @@
       <tuv lang="EN">
         <seg>Such fields can be reformatted to display a value of 0 by using the following formula in the Data area of the view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083017Z" creationid="Alessia Mazzarini" creationdate="20180403T083017Z">
-        <seg>Tali campi possono essere formattati in modo da presentare un valore 0 usando la seguente formula nella visualizzazione dell'area Dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T164232Z" creationid="Alessia Mazzarini" creationdate="20180403T083017Z">
+        <seg>I campi di questo tipo possono essere formattati in modo da visualizzare un valore 0. Per ottenere ciò, si usa la seguente formula nella visualizzazione dell'area Dati.</seg>
       </tuv>
     </tu>
     <tu>
