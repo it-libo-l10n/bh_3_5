@@ -20720,8 +20720,8 @@
       <tuv lang="EN">
         <seg>Many forms of conditional display are not fully determined by the specified properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T165207Z" creationid="Alessia Mazzarini" creationdate="20180411T165207Z">
-        <seg>Molti forme di visualizzazione condizionale non vengono completamente determinate dalle proprietà specificate </seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T175254Z" creationid="Alessia Mazzarini" creationdate="20180411T165207Z">
+        <seg>Molte forme di visualizzazione condizionale non vengono completamente determinate dalle proprietà specificate </seg>
       </tuv>
     </tu>
     <tu>
@@ -35552,8 +35552,8 @@
       <tuv lang="EN">
         <seg>causes the content of the named field to be displayed only if it is true.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164523Z" creationid="Alessia Mazzarini" creationdate="20180411T164523Z">
-        <seg>fa sì che il contenuto del campo nome viene mostrato solo se è vero.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T175224Z" creationid="Alessia Mazzarini" creationdate="20180411T164523Z">
+        <seg>mostra il contenuto del campo nome solo nel caso in cui sia true (vero).</seg>
       </tuv>
     </tu>
     <tu>
