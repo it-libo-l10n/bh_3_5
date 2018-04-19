@@ -7496,8 +7496,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;CHOOSE(2;"Apple";"Pear";"Banana")&lt;/f1&gt; returns &lt;f2&gt;Pear&lt;/f2&gt;.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202817Z" creationid="Alessia Mazzarini" creationdate="20180406T202817Z">
-        <seg>&lt;f1&gt;CHOOSE(2;"Apple";"Pear";"Banana")&lt;/f1&gt; restituisce &lt;f2&gt;Pear&lt;/f2&gt;.&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T171407Z" creationid="Alessia Mazzarini" creationdate="20180406T202817Z">
+        <seg>&lt;f1&gt;CHOOSE(2;"Mela";"Pera";"Banana")&lt;/f1&gt; restituisce &lt;f2&gt;Pera&lt;/f2&gt;.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7792,8 +7792,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;CHOOSE([age_level_field];"Milk";"Cola";"Beer")&lt;/f4&gt; returns a possible drink &lt;f5&gt;for the given '&lt;/f5&gt;&lt;f6&gt;age_level_field'&lt;/f6&gt;&lt;f7&gt; .&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203124Z" creationid="Alessia Mazzarini" creationdate="20180406T203124Z">
-        <seg>&lt;f4&gt;CHOOSE([campo_fascia_età];"Milk";"Cola";"Beer")&lt;/f4&gt; restituisce una possibile bevanda &lt;f5&gt;per il '&lt;/f5&gt;&lt;f6&gt;campo_fascia_età'&lt;/f6&gt;&lt;f7&gt; dato.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T171423Z" creationid="Alessia Mazzarini" creationdate="20180406T203124Z">
+        <seg>&lt;f4&gt;CHOOSE([campo_fascia_età];"Latte";"Cola";"Birra")&lt;/f4&gt; restituisce una possibile bevanda &lt;f5&gt;per il '&lt;/f5&gt;&lt;f6&gt;campo_fascia_età'&lt;/f6&gt;&lt;f7&gt; dato.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
