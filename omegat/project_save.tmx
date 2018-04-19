@@ -7808,8 +7808,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;CHOOSE([age_level_field];"Milk";"Cola";"Beer")&lt;/f4&gt; returns a possible drink &lt;f5&gt;for the given '&lt;/f5&gt;&lt;f6&gt;age_level_field'&lt;/f6&gt;&lt;f7&gt; .&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T171423Z" creationid="Alessia Mazzarini" creationdate="20180406T203124Z">
-        <seg>&lt;f4&gt;CHOOSE([campo_fascia_età];"Latte";"Cola";"Birra")&lt;/f4&gt; restituisce una possibile bevanda &lt;f5&gt;per il '&lt;/f5&gt;&lt;f6&gt;campo_fascia_età'&lt;/f6&gt;&lt;f7&gt; dato.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T180242Z" creationid="Alessia Mazzarini" creationdate="20180406T203124Z">
+        <seg>&lt;f4&gt;CHOOSE([campo_fascia_età];"Latte";"Cola";"Birra")&lt;/f4&gt; restituisce una bevanda appropriata &lt;f5&gt;per il '&lt;/f5&gt;&lt;f6&gt;campo_fascia_età'&lt;/f6&gt;&lt;f7&gt; dato.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15288,8 +15288,8 @@
       <tuv lang="EN">
         <seg>HOUR([DateTimeField]) calculates the hours in the field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173113Z" creationid="Alessia Mazzarini" creationdate="20180405T181502Z">
-        <seg>HOUR([Campo Data Orario]) calcola l'ora nel campo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T180101Z" creationid="Alessia Mazzarini" creationdate="20180405T181502Z">
+        <seg>HOUR([CampoDataOrario]) calcola l'ora nel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20552,8 +20552,8 @@
       <tuv lang="EN">
         <seg>MINUTE([Timefield]) calculates the minutes part of the time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173215Z" creationid="Alessia Mazzarini" creationdate="20180405T182501Z">
-        <seg>MINUTE([Campoorario]) calcola la parte minuti dell'orario.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T180107Z" creationid="Alessia Mazzarini" creationdate="20180405T182501Z">
+        <seg>MINUTE([CampoOrario]) calcola la parte minuti dell'orario.</seg>
       </tuv>
     </tu>
     <tu>
