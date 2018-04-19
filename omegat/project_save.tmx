@@ -35454,6 +35454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[SumMarksClass] / ([ClassNumber]+1)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173049Z" creationid="Alessia Mazzarini" creationdate="20180419T173049Z">
+        <seg>[SommaVotiClasse] / ([NumeroClasse]+1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[WHERE SQL-Expression]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145555Z" creationid="manuel" creationdate="20180224T145555Z">
@@ -35760,8 +35768,8 @@
       <tuv lang="EN">
         <seg>refers to the &lt;f0&gt;Class&lt;/f0&gt; group&lt;f1&gt;.&lt;/f1&gt; The content of the &lt;f2&gt;Marks&lt;/f2&gt; field is summed and the sum for all the records is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183533Z" creationid="Alessia Mazzarini" creationdate="20180409T180027Z">
-        <seg>Si riferisce al gruppo &lt;f0&gt;Class&lt;/f0&gt; (classe)&lt;f1&gt;.&lt;/f1&gt; Il contenuto del campo &lt;f2&gt;Marks&lt;/f2&gt; (voti) si somma e viene restituita la somma di tutti i record di dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172913Z" creationid="Alessia Mazzarini" creationdate="20180409T180027Z">
+        <seg>si riferisce al gruppo &lt;f0&gt;Class&lt;/f0&gt; (classe)&lt;f1&gt;.&lt;/f1&gt; Il contenuto del campo &lt;f2&gt;Marks&lt;/f2&gt; (voti) si somma e viene restituita la somma di tutti i record di dati.</seg>
       </tuv>
     </tu>
     <tu>
