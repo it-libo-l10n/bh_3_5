@@ -16712,8 +16712,8 @@
       <tuv lang="EN">
         <seg>If additional uncorrectable errors occur (formulas not implemented, too long text shown as an empty field, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;and so on&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;), it is sometimes necessary to delete parts of the report or simply create it afresh.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T174503Z" creationid="Alessia Mazzarini" creationdate="20180411T174503Z">
-        <seg>Se si verificano ulteriori errori non correggibili (formule non eseguite, testo troppo lungo che appare come campo vuoto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e così via&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;), alcune volte è necessario eliminare delle parti del rapporto o semplicemente crearlo da capo.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T182045Z" creationid="Alessia Mazzarini" creationdate="20180411T174503Z">
+        <seg>In caso di ulteriori errori non correggibili (formule non implementate, testo troppo lungo che appare come campo vuoto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e così via&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;), potrebbe essere necessario eliminare delle parti del rapporto o semplicemente crearlo da capo.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
