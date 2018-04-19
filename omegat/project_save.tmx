@@ -5184,8 +5184,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Author, as read from the &lt;/f0&gt;&lt;f1&gt;Tools → Options → LibreOffice → User data&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205741Z" creationid="Alessia Mazzarini" creationdate="20180406T205741Z">
-        <seg>&lt;f0&gt;Autore, come appare in  &lt;/f0&gt;&lt;f1&gt;Strumenti → Opzioni → LibreOffice → Dati utente&lt;/f1&gt;&lt;f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172400Z" creationid="Alessia Mazzarini" creationdate="20180406T205741Z">
+        <seg>&lt;f0&gt;Autore, come appare in &lt;/f0&gt;&lt;f1&gt;Strumenti → Opzioni → LibreOffice → Dati utente&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7376,8 +7376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can use u&lt;/f0&gt;ser-defined functions to return specific intermediate results for a group of records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T211259Z" creationid="Alessia Mazzarini" creationdate="20180406T210447Z">
-        <seg>&lt;f0&gt;È possibile usare funzioni p&lt;/f0&gt;ersonalizzate per restituire risultati intermedi specifici per un gruppo di record di dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172442Z" creationid="Alessia Mazzarini" creationdate="20180406T210447Z">
+        <seg>&lt;f0&gt;Potete usare funzioni p&lt;/f0&gt;ersonalizzate per restituire risultati intermedi specifici per un gruppo di record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13200,8 +13200,8 @@
       <tuv lang="EN">
         <seg>Example: PARSEDATE("9.10.2012";"dd.MM.yyyy") yields the internally usable number for the date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205409Z" creationid="Alessia Mazzarini" creationdate="20180406T205409Z">
-        <seg>Esempio: PARSEDATE("9.10.2012";"dd.MM.yyyy") restituisce il numero utilizzabile internamente per la data.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172333Z" creationid="Alessia Mazzarini" creationdate="20180406T205409Z">
+        <seg>Esempio: PARSEDATE("9.10.2012";"gg.MM.aaaa") restituisce il numero utilizzabile internamente per la data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23272,8 +23272,8 @@
       <tuv lang="EN">
         <seg>Requires a date in text as described in this date format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T205241Z" creationid="Alessia Mazzarini" creationdate="20180406T205241Z">
-        <seg>Richiede una data sotto forma di testo come rappresentato da questo formato data.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172309Z" creationid="Alessia Mazzarini" creationdate="20180406T205241Z">
+        <seg>Richiede una data sotto forma di testo, come rappresentato da questo formato data.</seg>
       </tuv>
     </tu>
     <tu>
