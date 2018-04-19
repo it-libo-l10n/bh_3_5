@@ -14838,6 +14838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formula entry for a &lt;f0&gt;f&lt;/f0&gt;ield</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173505Z" creationid="Alessia Mazzarini" creationdate="20180419T173505Z">
+        <seg>Inserimento di formule in un &lt;f0&gt;c&lt;/f0&gt;ampo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formula entry for a field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T110135Z" creationid="Marina Latini" creationdate="20171206T110135Z">
@@ -16290,6 +16298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100015Z" creationid="Elisabetta Manuele" creationdate="20180403T100015Z">
         <seg>IDENTITY()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IF([boolean_field];&lt;f0&gt;"&lt;/f0&gt;Yes&lt;f1&gt;"&lt;/f1&gt;;&lt;f2&gt;"&lt;/f2&gt;&lt;f3&gt;No&lt;/f3&gt;&lt;f4&gt;"&lt;/f4&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173706Z" creationid="Alessia Mazzarini" creationdate="20180419T173706Z">
+        <seg>IF([campo_booleano];&lt;f0&gt;"&lt;/f0&gt;Sì&lt;f1&gt;"&lt;/f1&gt;;&lt;f2&gt;"&lt;/f2&gt;&lt;f3&gt;No&lt;/f3&gt;&lt;f4&gt;"&lt;/f4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35856,8 +35872,8 @@
       <tuv lang="EN">
         <seg>sets the allowable values to "Yes" or "No" instead of TRUE and FALSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T163848Z" creationid="Alessia Mazzarini" creationdate="20180411T163848Z">
-        <seg>imposta "Yes" o "No" come i valori permessi invece di TRUE e FALSE.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173741Z" creationid="Alessia Mazzarini" creationdate="20180411T163848Z">
+        <seg>imposta "Sì" o "No" come i valori permessi invece di TRUE e FALSE.</seg>
       </tuv>
     </tu>
     <tu>
