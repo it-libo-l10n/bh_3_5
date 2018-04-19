@@ -19360,8 +19360,8 @@
       <tuv lang="EN">
         <seg>Instead the graphic will continue to appear in the &lt;f0&gt;Detail&lt;/f0&gt;&lt;f1&gt;s &lt;/f1&gt;section after each subsequent record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T165941Z" creationid="Alessia Mazzarini" creationdate="20180411T165941Z">
-        <seg>Il grafico continuerà ad apparire nella sezione &lt;f0&gt;Dettagio&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;dopo ogni record di dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T180742Z" creationid="Alessia Mazzarini" creationdate="20180411T165941Z">
+        <seg>Il grafico continuerà invece ad apparire nella sezione &lt;f0&gt;Dettaglio&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;dopo ogni record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31568,8 +31568,8 @@
       <tuv lang="EN">
         <seg>This command does not work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T165755Z" creationid="Alessia Mazzarini" creationdate="20180411T165755Z">
-        <seg>Questo comando non funzionerà.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T180631Z" creationid="Alessia Mazzarini" creationdate="20180411T165755Z">
+        <seg>Questo comando non funziona.</seg>
       </tuv>
     </tu>
     <tu>
