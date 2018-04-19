@@ -14856,8 +14856,8 @@
       <tuv lang="EN">
         <seg>Formulas &lt;f1&gt;t&lt;/f1&gt;h&lt;f2&gt;at&lt;/f2&gt; are written in this field influence the content of a field or the display of an entire region.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164315Z" creationid="Alessia Mazzarini" creationdate="20180411T164315Z">
-        <seg>Le formule &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; inserite in questo campo influenzano il contenuto di un campo o la visualizzazionedi una intera regione.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173827Z" creationid="Alessia Mazzarini" creationdate="20180411T164315Z">
+        <seg>Le formule &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; inserite in questo campo influenzano il contenuto di un campo o la visualizzazione di un'intera regione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15840,8 +15840,8 @@
       <tuv lang="EN">
         <seg>Here, too, you can make use of the Function Wizard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T164400Z" creationid="Alessia Mazzarini" creationdate="20180411T164400Z">
-        <seg>Anche in questo caso, potete usare la Creazione guidata Funzione.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173917Z" creationid="Alessia Mazzarini" creationdate="20180411T164400Z">
+        <seg>Anche in questo caso, potete sfruttare la Creazione guidata funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35386,6 +35386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214440Z" creationid="Marco Marega" creationdate="20180222T214440Z">
         <seg>[CONSTRAINT "Nome"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Fieldname]=&lt;f0&gt;"&lt;/f0&gt;true&lt;f1&gt;"&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T174010Z" creationid="Alessia Mazzarini" creationdate="20180419T174010Z">
+        <seg>[Nomecampo]=&lt;f0&gt;"&lt;/f0&gt;true&lt;f1&gt;"&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
