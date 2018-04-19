@@ -32960,8 +32960,8 @@
       <tuv lang="EN">
         <seg>This will then yield the average marks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183753Z" creationid="Alessia Mazzarini" creationdate="20180409T183753Z">
-        <seg>Ciò restituisce la media dei voti.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173317Z" creationid="Alessia Mazzarini" creationdate="20180409T183753Z">
+        <seg>In questo modo si ottiene la media dei voti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33280,8 +33280,8 @@
       <tuv lang="EN">
         <seg>To get the correct number, 1 must be added as shown with &lt;f3&gt;[ClassNumber]&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183701Z" creationid="Alessia Mazzarini" creationdate="20180409T183701Z">
-        <seg>Per ottenere il numero esatto, è necessario aggiungere 1, come mostrato con &lt;f3&gt;[ClassNumber]&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173210Z" creationid="Alessia Mazzarini" creationdate="20180409T183701Z">
+        <seg>Per ottenere il numero esatto, è necessario aggiungere 1, come mostrato con &lt;f3&gt;[NumeroClasse]&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35768,8 +35768,8 @@
       <tuv lang="EN">
         <seg>refers to the &lt;f0&gt;Class&lt;/f0&gt; group&lt;f1&gt;.&lt;/f1&gt; The content of the &lt;f2&gt;Marks&lt;/f2&gt; field is summed and the sum for all the records is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172913Z" creationid="Alessia Mazzarini" creationdate="20180409T180027Z">
-        <seg>si riferisce al gruppo &lt;f0&gt;Class&lt;/f0&gt; (classe)&lt;f1&gt;.&lt;/f1&gt; Il contenuto del campo &lt;f2&gt;Marks&lt;/f2&gt; (voti) si somma e viene restituita la somma di tutti i record di dati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173157Z" creationid="Alessia Mazzarini" creationdate="20180409T180027Z">
+        <seg>si riferisce al gruppo &lt;f0&gt;Classe&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt; Il contenuto del campo &lt;f2&gt;Voti&lt;/f2&gt; si somma e viene restituita la somma di tutti i record di dati.</seg>
       </tuv>
     </tu>
     <tu>
