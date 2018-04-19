@@ -13960,8 +13960,8 @@
       <tuv lang="EN">
         <seg>Finally there might be a query about the content of the field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173746Z" creationid="Alessia Mazzarini" creationdate="20180411T173746Z">
-        <seg>Per ultimo, ci potrebbe essere una interrogazione sul contenuto del campo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181801Z" creationid="Alessia Mazzarini" creationdate="20180411T173746Z">
+        <seg>Per ultimo, ci potrebbe essere un'interrogazione sul contenuto del campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17648,8 +17648,8 @@
       <tuv lang="EN">
         <seg>If you use ‘Expression is’ in conditional formatting, you can enter a formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173306Z" creationid="Alessia Mazzarini" creationdate="20180411T173306Z">
-        <seg>Selezionando ‘L'espressione è’ nella formattazione condizionata, è possibile inserire una formula.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181730Z" creationid="Alessia Mazzarini" creationdate="20180411T173306Z">
+        <seg>Selezionando ‘L'espressione è’ nella formattazione condizionale, è possibile inserire una formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34250,6 +34250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095336Z" creationid="Elisabetta Manuele" creationdate="20180403T095336Z">
         <seg>WEEK(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WEEKDAY([Date])=1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181554Z" creationid="Alessia Mazzarini" creationdate="20180419T181554Z">
+        <seg>WEEKDAY([Data])=1</seg>
       </tuv>
     </tu>
     <tu>
