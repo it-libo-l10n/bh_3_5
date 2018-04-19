@@ -23990,6 +23990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "FirstName"||' '||"LastName"||CHAR(13)||"Street"||' '||"No"||CHAR13||"Postcode"||' '||"Town" FROM "FirstName"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T175828Z" creationid="Alessia Mazzarini" creationdate="20180419T175828Z">
+        <seg>SELECT "Nome"||' '||"Cognome"||CHAR(13)||"Via"||' '||"No"||CHAR13||"Codice postale"||' '||"Città" FROM "Nome"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
