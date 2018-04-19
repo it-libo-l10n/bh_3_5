@@ -5480,8 +5480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Deep traversing&lt;/f0&gt; seems to have no function for now, unless charts are being treated here as subreports.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174035Z" creationid="Alessia Mazzarini" creationdate="20180409T174035Z">
-        <seg>&lt;f0&gt;Deep traversing&lt;/f0&gt; non sembra avere alcuna funzione per ora, a meno che i grafici non vengano considerati qui come sottorapporti.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172642Z" creationid="Alessia Mazzarini" creationdate="20180409T174035Z">
+        <seg>&lt;f0&gt;Deep traversing&lt;/f0&gt; non sembra avere alcuna funzione per ora, a meno che i grafici non vengano considerati qui come rapporti secondari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16432,8 +16432,8 @@
       <tuv lang="EN">
         <seg>If &lt;f0&gt;Pre evaluation&lt;/f0&gt; is activated for the function, the result can also be placed in the &lt;f1&gt;group header&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174206Z" creationid="Alessia Mazzarini" creationdate="20180409T174206Z">
-        <seg>Se viene attivata la &lt;f0&gt;Pre valutazione&lt;/f0&gt; per la funzione, il risultato può venir messo anche nell'&lt;f1&gt;intestazione del gruppo&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172706Z" creationid="Alessia Mazzarini" creationdate="20180409T174206Z">
+        <seg>Se viene attivata la &lt;f0&gt;Pre-valutazione&lt;/f0&gt; per la funzione, il risultato può venir messo anche nell'&lt;f1&gt;intestazione del gruppo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
