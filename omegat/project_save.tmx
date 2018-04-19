@@ -5424,8 +5424,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Converts CSV text into an array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204808Z" creationid="Alessia Mazzarini" creationdate="20180406T204808Z">
-        <seg>&lt;f0&gt;Converte un testo CSV text in una matrice.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172152Z" creationid="Alessia Mazzarini" creationdate="20180406T204808Z">
+        <seg>&lt;f0&gt;Converte un testo CSV in una matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,8 +7544,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;ISLOGICAL(TRUE())&lt;/f1&gt; or &lt;f2&gt;ISLOGICAL(FALSE())&lt;/f2&gt; yield &lt;f3&gt;TRUE&lt;/f3&gt;, Text values such as &lt;f4&gt;ISLOGICAL("TRUE")&lt;/f4&gt;&lt;f5&gt; yield &lt;/f5&gt;&lt;f6&gt;FALSE&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204308Z" creationid="Alessia Mazzarini" creationdate="20180406T204308Z">
-        <seg>&lt;f1&gt;ISLOGICAL(TRUE())&lt;/f1&gt; o &lt;f2&gt;ISLOGICAL(FALSE())&lt;/f2&gt; restituiscono &lt;f3&gt;TRUE&lt;/f3&gt;, Valori di testo come &lt;f4&gt;ISLOGICAL("TRUE")&lt;/f4&gt;&lt;f5&gt; restituiscono &lt;/f5&gt;&lt;f6&gt;FALSE&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T171922Z" creationid="Alessia Mazzarini" creationdate="20180406T204308Z">
+        <seg>&lt;f1&gt;ISLOGICAL(TRUE())&lt;/f1&gt; o &lt;f2&gt;ISLOGICAL(FALSE())&lt;/f2&gt; restituiscono &lt;f3&gt;TRUE&lt;/f3&gt;, valori di testo come &lt;f4&gt;ISLOGICAL("TRUE")&lt;/f4&gt;&lt;f5&gt; restituiscono &lt;/f5&gt;&lt;f6&gt;FALSE&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7554,6 +7554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204449Z" creationid="Alessia Mazzarini" creationdate="20180406T204449Z">
         <seg>&lt;f1&gt;ISNUMBER(1)&lt;/f1&gt; restituisce &lt;f2&gt;TRUE&lt;/f2&gt;, &lt;f3&gt;ISNUMBER("1")&lt;/f3&gt;&lt;f4&gt; restituisce &lt;/f4&gt;&lt;f5&gt;FALSE&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;ISREF([Fieldname])&lt;/f1&gt; yields &lt;f2&gt;TRUE&lt;/f2&gt;, &lt;f3&gt;ISREF(1)&lt;/f3&gt; yields &lt;f4&gt;FALSE&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T172051Z" creationid="Alessia Mazzarini" creationdate="20180419T172051Z">
+        <seg>&lt;f1&gt;ISREF([Nomecampo])&lt;/f1&gt; restituisce &lt;f2&gt;TRUE&lt;/f2&gt;, &lt;f3&gt;ISREF(1)&lt;/f3&gt; restituisce &lt;f4&gt;FALSE&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25864,8 +25872,8 @@
       <tuv lang="EN">
         <seg>Tests if the value is not text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T204408Z" creationid="Alessia Mazzarini" creationdate="20180406T204408Z">
-        <seg>Verifica che il testo non sia testo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T171951Z" creationid="Alessia Mazzarini" creationdate="20180406T204408Z">
+        <seg>Verifica che il valore non sia testo.</seg>
       </tuv>
     </tu>
     <tu>
