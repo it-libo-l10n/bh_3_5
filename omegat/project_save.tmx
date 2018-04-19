@@ -10472,8 +10472,8 @@
       <tuv lang="EN">
         <seg>But in that case the content that would previously have appeared in the &lt;f3&gt;Details&lt;/f3&gt; section must be stored in the &lt;f4&gt;gro&lt;/f4&gt;&lt;f5&gt;up header&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T172411Z" creationid="Alessia Mazzarini" creationdate="20180411T172411Z">
-        <seg>In questo caso però, il contenuto che sarebbe apparso precedentemente nella sezione &lt;f3&gt;Dettaglio&lt;/f3&gt; deve essere contenuto nell'intestazione di &lt;f4&gt;grup&lt;/f4&gt;&lt;f5&gt;po&lt;/f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181304Z" creationid="Alessia Mazzarini" creationdate="20180411T172411Z">
+        <seg>In questo caso però, il contenuto che sarebbe apparso precedentemente nella sezione &lt;f3&gt;Dettaglio&lt;/f3&gt; deve essere inserito nell'intestazione di &lt;f4&gt;grup&lt;/f4&gt;&lt;f5&gt;po&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,8 +11512,8 @@
       <tuv lang="EN">
         <seg>Conditional &lt;f0&gt;f&lt;/f0&gt;ormatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T172506Z" creationid="Alessia Mazzarini" creationdate="20180411T172434Z">
-        <seg>&lt;f0&gt;F&lt;/f0&gt;ormattazione condizionata</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181422Z" creationid="Alessia Mazzarini" creationdate="20180411T172434Z">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ormattazione condizionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -11536,8 +11536,8 @@
       <tuv lang="EN">
         <seg>Conditional formatting can be used, for example, to format a calender so that weekends are shown differently.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T172637Z" creationid="Alessia Mazzarini" creationdate="20180411T172457Z">
-        <seg>Si può usare la formattazione condizionata per esempio per formattare un calendario in modo da visualizzare i fine settimana in maniera differente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181538Z" creationid="Alessia Mazzarini" creationdate="20180411T172457Z">
+        <seg>Si può usare la formattazione condizionale per formattare, per esempio, un calendario in modo da visualizzare i fine settimana in maniera differente.</seg>
       </tuv>
     </tu>
     <tu>
