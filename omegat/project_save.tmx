@@ -23104,8 +23104,8 @@
       <tuv lang="EN">
         <seg>Removes leading spaces and terminal spaces, and reduces multiple spaces to a single space.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201838Z" creationid="Alessia Mazzarini" creationdate="20180406T201838Z">
-        <seg>Rimuove spazi iniziali o finali e riduce spaziature multiple in un singolo spazio.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T170835Z" creationid="Alessia Mazzarini" creationdate="20180406T201838Z">
+        <seg>Rimuove spazi iniziali o finali e riduce spaziature multiple a un singolo spazio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30032,8 +30032,8 @@
       <tuv lang="EN">
         <seg>The specified number of characters of a text string are reproduced starting from the right.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T201233Z" creationid="Alessia Mazzarini" creationdate="20180406T201233Z">
-        <seg>l numero specificato di caratteri di una stringa di testo viene riprodotto a partire da destra.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T170708Z" creationid="Alessia Mazzarini" creationdate="20180406T201233Z">
+        <seg>Il numero specificato di caratteri di una stringa di testo viene riprodotto a partire da destra.</seg>
       </tuv>
     </tu>
     <tu>
