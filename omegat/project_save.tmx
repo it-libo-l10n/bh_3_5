@@ -11392,8 +11392,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;C&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;onditional formatting&lt;/f6&gt; and enter:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173006Z" creationid="Alessia Mazzarini" creationdate="20180411T173006Z">
-        <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ormattazione condizionale&lt;/f6&gt; e inserite:</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180420T143059Z" creationid="Alessia Mazzarini" creationdate="20180411T173006Z">
+        <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ormattazione condizionata&lt;/f6&gt; e inserite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,8 +11512,8 @@
       <tuv lang="EN">
         <seg>Conditional &lt;f0&gt;f&lt;/f0&gt;ormatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181422Z" creationid="Alessia Mazzarini" creationdate="20180411T172434Z">
-        <seg>&lt;f0&gt;F&lt;/f0&gt;ormattazione condizionale</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180420T143049Z" creationid="Alessia Mazzarini" creationdate="20180411T172434Z">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ormattazione condizionata</seg>
       </tuv>
     </tu>
     <tu>
@@ -11536,8 +11536,8 @@
       <tuv lang="EN">
         <seg>Conditional formatting can be used, for example, to format a calender so that weekends are shown differently.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181538Z" creationid="Alessia Mazzarini" creationdate="20180411T172457Z">
-        <seg>Si può usare la formattazione condizionale per formattare, per esempio, un calendario in modo da visualizzare i fine settimana in maniera differente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180420T143037Z" creationid="Alessia Mazzarini" creationdate="20180411T172457Z">
+        <seg>Si può usare la formattazione condizionata per formattare, per esempio, un calendario in modo da visualizzare i fine settimana in maniera differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17648,8 +17648,8 @@
       <tuv lang="EN">
         <seg>If you use ‘Expression is’ in conditional formatting, you can enter a formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181730Z" creationid="Alessia Mazzarini" creationdate="20180411T173306Z">
-        <seg>Selezionando ‘L'espressione è’ nella formattazione condizionale, è possibile inserire una formula.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180420T143030Z" creationid="Alessia Mazzarini" creationdate="20180411T173306Z">
+        <seg>Selezionando ‘L'espressione è’ nella formattazione condizionata, è possibile inserire una formula.</seg>
       </tuv>
     </tu>
     <tu>
