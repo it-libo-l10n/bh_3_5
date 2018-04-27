@@ -5006,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;CROSS JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; requires the table to be supplied with an alias, but the addition of the term &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ON&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is not always necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T062200Z" creationid="manuel" creationdate="20180427T062200Z">
+        <seg>&lt;f0&gt;Un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;CROSS JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; richiede che la tabella sia fonita con un alias, ma l'aggiunta del termine &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ON&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; non è sempre necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A &lt;/f0&gt;&lt;f1&gt;Form&lt;/f1&gt;&lt;f2&gt; in Base is a structure &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;invisible to the user&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T183935Z" creationid="Marco Marega" creationdate="20171013T183935Z">
@@ -9234,6 +9242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175438Z" creationid="MicrosoftSucks" creationdate="20180301T175438Z">
         <seg>Quindi sono visualizzati tutti i campi anche se &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Titolo&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;e'&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;NULL&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All records from the first table are paired with all records from the second table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T062339Z" creationid="manuel" creationdate="20180427T062339Z">
+        <seg>Tutti i record della prima tabella sono associati a tutti i record della seconda tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33122,6 +33138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T161847Z" creationid="steevie" creationdate="20180209T153402Z">
         <seg>Così, nell'esempio seguente, la chiave primaria dell'autore diventa la chiave esterna nella tabella rel_Media_Author; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;r&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;el_Media_Author inoltre contiene una chiave esterna da Media, così la loro disposizione sottostante mostra una relazione n:m con tre form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus the above query yields all possible pairings of records from the first table with those of the second table except for pairings between records for the same player.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T062434Z" creationid="manuel" creationdate="20180427T062434Z">
+        <seg>Pertanto la ricerca sopra riportata restituisce tutti i possibili accoppiamenti di record dalla prima tabella con quelli della seconda tabella, ad eccezione degli accoppiamenti tra record per lo stesso giocatore.</seg>
       </tuv>
     </tu>
     <tu>
