@@ -24086,6 +24086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Name", SUM("Input"-"Output") AS "Balance" FROM "Table1" GROUP BY "Name";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T064547Z" creationid="manuel" creationdate="20180427T064547Z">
+        <seg>SELECT "Nome", SUM("Inserimento"-"Risultato") AS "Saldo" FROM "Tabella1" GROUP BY "Nome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Surname", "Firstname" FROM "Author" WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162039Z" creationid="steevie" creationdate="20180216T162039Z">
