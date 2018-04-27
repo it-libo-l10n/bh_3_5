@@ -17174,6 +17174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the conditions are formulated exactly as in the case of a simple JOIN, you get the same result:&lt;/f21&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063226Z" creationid="manuel" creationdate="20180427T063226Z">
+        <seg>Se le condizioni sono formulate esattamente come nel caso di un semplice JOIN, ottieni lo stesso risultato:&lt;/f21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the content extends over more lines, a scrollbar appears when the list drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215703Z" creationid="Marco Marega" creationdate="20171029T215703Z">
@@ -18682,6 +18690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103800Z" creationid="Elisabetta Manuele" creationdate="20180403T103800Z">
         <seg>Nel caso di file *.odb, si tratta di un formato compresso, cioè un archivio Zip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the case of a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;CROSS JOIN&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; the condition must not include a link between the tables specified &lt;/f11&gt;&lt;f12&gt;in the&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;ON&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;term.&lt;/f17&gt;&lt;f18&gt; Instead, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;WHERE&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; conditions can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063142Z" creationid="manuel" creationdate="20180427T063142Z">
+        <seg>Nel caso di un &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;CROSS JOIN&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; la condizione non deve includere un collegamento tra le tabelle specificate &lt;/f11&gt;&lt;f12&gt;nel termine&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;ON&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;.&lt;/f17&gt;&lt;f18&gt; Invece, le condizioni  &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;WHERE&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; possono essere inserite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35730,6 +35746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101510Z" creationid="Elisabetta Manuele" creationdate="20180403T101510Z">
         <seg>da una data o da un valore di data/ora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gives the same result as</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063257Z" creationid="manuel" creationdate="20180427T063257Z">
+        <seg>restituisce lo stesso risultato di</seg>
       </tuv>
     </tu>
     <tu>
