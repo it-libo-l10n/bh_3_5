@@ -5862,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is added, all "Names" from "Table1" are displayed even if they have no "Class".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T055128Z" creationid="manuel" creationdate="20180427T055128Z">
+        <seg>&lt;f0&gt;Se è aggiunta &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SINISTRA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, tutti "Nomi" dalla "Tabella1" sono mostrati anche se non hanno una "Classe".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If a field in the query has an alias, it can be referred to – for example in sorting – by this alias without a table name being given.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T181212Z" creationid="Manuel Frassinetti" creationdate="20171204T181212Z">
@@ -17754,6 +17762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222423Z" creationid="Marco Marega" creationdate="20180303T222423Z">
         <seg>Se, nel caso di un prestito, il record relativo a quel supporto deve essere eliminato quando l'articolo viene restituito, ciò può essere fatto usando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, on the contrary, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;RIGHT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is added, all Classes are displayed even if they have no names in them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T055256Z" creationid="manuel" creationdate="20180427T055256Z">
+        <seg>Se, al contrario, è aggiunta &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;DESTRA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, tutte le classi sono mostrate anche se non contegono nomi.</seg>
       </tuv>
     </tu>
     <tu>
