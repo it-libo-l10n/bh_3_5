@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stMessage&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;STRING&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170414Z" creationid="Elisabetta Manuele" creationdate="20180427T170414Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stMessage&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;STRING&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stTag&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;AS&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;STRING&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155412Z" creationid="Elisabetta Manuele" creationdate="20180412T155358Z">
@@ -3470,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Database_compaction&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170357Z" creationid="Elisabetta Manuele" creationdate="20180427T170357Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Database_compaction&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;OBJECT&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154703Z" creationid="Elisabetta Manuele" creationdate="20180412T154703Z">
@@ -4178,6 +4194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T145944Z" creationid="Elisabetta Manuele" creationdate="20180412T145944Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;ThisComponent.Parent.CurrentController&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ThisComponent.Parent.CurrentController&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170509Z" creationid="Elisabetta Manuele" creationdate="20180427T170509Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ThisComponent.Parent.CurrentController&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31118,6 +31142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore this function is commented out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170349Z" creationid="Elisabetta Manuele" creationdate="20180427T170349Z">
+        <seg>Questa funzione viene pertanto commentata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore this macro closes the form from which it is called.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170138Z" creationid="Elisabetta Manuele" creationdate="20180427T170138Z">
@@ -34010,6 +34042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143013Z" creationid="Marco Marega" creationdate="20180218T143013Z">
         <seg>Sfortunatamente ciò non funziona poichè la data di reso inizialmente non ha un valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately you cannot close the document itself without causing a recovery when it is opened again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170333Z" creationid="Elisabetta Manuele" creationdate="20180427T170333Z">
+        <seg>Purtroppo non è possibile chiudere il documento senza causarne un ripristino alla sua successiva apertura.</seg>
       </tuv>
     </tu>
     <tu>
