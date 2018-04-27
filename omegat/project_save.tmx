@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;REM This &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;subroutine&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; sets the automatically incrementing primary key field mit the preset name of "ID" to the lowest possible value.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173323Z" creationid="Elisabetta Manuele" creationdate="20180427T173323Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;REM Questa &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;subroutine&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; imposta sul valore più basso possibile il campo chiave primaria ad incremento automatico con il nome predefinito "ID".&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Preserve&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;arContent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;inI&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210143Z" creationid="Marco Marega" creationdate="20180328T210143Z">
@@ -3538,6 +3546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155234Z" creationid="Elisabetta Manuele" creationdate="20180412T155234Z">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;From_form_to_form_with_folders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS OBJECT&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Table_index_down&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS STRING&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173211Z" creationid="Elisabetta Manuele" creationdate="20180427T173211Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Table_index_down&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS STRING&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17518,6 +17534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the primary key field is not called ID, the macro must be edited accordingly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173153Z" creationid="Elisabetta Manuele" creationdate="20180427T173153Z">
+        <seg>Se il campo chiave primaria non è denominato ID, la macro deve essere modificata di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the primary key is an automatically incrementing field, one of the visible fields will contain the text &lt;f0&gt;AutoValue&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211904Z" creationid="Marco Marega" creationdate="20180301T211904Z">
@@ -28474,6 +28498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152841Z" creationid="Elisabetta Manuele" creationdate="20180412T152841Z">
         <seg>La prima tabella è denominata &lt;/f10&gt;&lt;f11&gt;Postcode&lt;/f11&gt;&lt;f12&gt;, la seconda &lt;/f12&gt;&lt;f13&gt;Town&lt;/f13&gt;&lt;f14&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;subroutine&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; reads the currently highest value of the "ID" field in a table and sets the next initial key value 1 higher than this maximum.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173136Z" creationid="Elisabetta Manuele" creationdate="20180427T173136Z">
+        <seg>La seguente &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;subroutine&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; legge il valore attualmente più alto del campo "ID" presente in una tabella e imposta il successivo valore iniziale della chiave incrementandolo di un valore immediatamente superiore a tale massimo.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
