@@ -16510,6 +16510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a class has no names, it is also not displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T054543Z" creationid="manuel" creationdate="20180427T054543Z">
+        <seg>Se una classe non ha nomi, non verrà mostrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a condition is TRUE, then this value, else another value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T173616Z" creationid="Alessia Mazzarini" creationdate="20180405T183841Z">
