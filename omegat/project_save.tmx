@@ -6526,6 +6526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Records with the same name are summed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T064835Z" creationid="manuel" creationdate="20180427T064835Z">
+        <seg>&lt;f0&gt;I record di dati con lo stesso nome sono sommati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Relationships between table&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223855Z" creationid="Marco Marega" creationdate="20180112T223855Z">
