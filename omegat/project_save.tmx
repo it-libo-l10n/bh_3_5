@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Each row of &lt;/f7&gt;&lt;f8&gt;the&lt;/f8&gt;&lt;f9&gt; query result contains a value from the “Name” table and the calculated balance for that specific value.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065956Z" creationid="manuel" creationdate="20180427T065956Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Per ogni riga &lt;/f7&gt;&lt;f8&gt;della&lt;/f8&gt;&lt;f9&gt; ricerca il risultato contiene un valore dal “Nome” della tabella e il saldo calcolato per quelo specifico valore.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Name")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; shows the first name alphabetically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T160310Z" creationid="manuel" creationdate="20180301T155155Z">
