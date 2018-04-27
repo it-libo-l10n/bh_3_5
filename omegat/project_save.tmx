@@ -21902,6 +21902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once compaction is carried out, the tables are no longer accessible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T165900Z" creationid="Elisabetta Manuele" creationdate="20180427T165900Z">
+        <seg>Una volta effettuata la compressione le tabelle non sono più accessibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the form is finished, the test phase begins.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T182235Z" creationid="MicrosoftSucks" creationdate="20180316T182235Z">
@@ -28198,6 +28206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file must be reopened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170233Z" creationid="Elisabetta Manuele" creationdate="20180427T165914Z">
+        <seg>È necessario riaprire il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filter is active, as shown by the filter icon with a green check mark.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144330Z" creationid="Marco Marega" creationdate="20180303T144330Z">
@@ -31098,6 +31114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140135Z" creationid="Marco Marega" creationdate="20180203T140135Z">
         <seg>Perciò è necessaria tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore this macro closes the form from which it is called.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170138Z" creationid="Elisabetta Manuele" creationdate="20180427T170138Z">
+        <seg>Quindi questa macro chiude il formulario da cui è richiamata.</seg>
       </tuv>
     </tu>
     <tu>
