@@ -15678,6 +15678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here too the relationships between tables are usually defined if they are not linked together with JOIN.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063525Z" creationid="manuel" creationdate="20180427T063525Z">
+        <seg>Anche in questo caso le relazioni tra le tabelle vengono generalmente definite se non sono collegate insieme a JOIN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here too there are &lt;f1&gt;optional &lt;/f1&gt;variables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200911Z" creationid="Marco Marega" creationdate="20180414T200911Z">
@@ -24102,6 +24110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1" AS "Table1" CROSS JOIN "Table2" AS "Table2" WHERE "Table1"."ClassID" = "Table2"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063414Z" creationid="manuel" creationdate="20180427T063414Z">
+        <seg>SELECT "Tabella1"."Nome", "Tabella2"."Classe" FROM "Tabella1" AS "Tabella1" CROSS JOIN "Tabella2" AS "Tabella2" WHERE "Tabella1"."ClasseID" = "Tabella2"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1" JOIN "Table2" ON "Table1"."ClassID" = "Table2"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120023Z" creationid="manuel" creationdate="20180302T120023Z">
@@ -27878,6 +27894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The division is based upon the values of the field or fields contained in the GROUP BY term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063642Z" creationid="manuel" creationdate="20180427T063642Z">
+        <seg>La divisione si basa sui valori del campo o dei campi contenuti nel termine GROUP BY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The entry in string determines the units in which the difference is returned: ms=millisecond, ss=second, mi=minute, hh=hour, dd=day, mm=month, yy = year.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183015Z" creationid="Elisabetta Manuele" creationdate="20180402T183015Z">
@@ -30186,6 +30210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T222448Z" creationid="Marco Marega" creationdate="20171205T222448Z">
         <seg>La &lt;f0&gt;Barra di navigazione &lt;/f0&gt;standard del &lt;f1&gt;Formulario &lt;/f1&gt;mette a disposizione i &lt;f2&gt;pulsanti mostrati nella Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;30&lt;/t4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard introduction for conditions to request a more accurate filtering of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063450Z" creationid="manuel" creationdate="20180427T063450Z">
+        <seg>L'introduzione standard per le condizioni per richiedere un filtraggio più accurato dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34030,6 +34062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this when you want to divide the query data into groups before applying the functions to each one of the groups separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063612Z" creationid="manuel" creationdate="20180427T063612Z">
+        <seg>Utilizzare questo quando si desidera dividere i dati della query in gruppi prima di applicare le funzioni a ciascuno dei gruppi separatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used for information to be read by macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T191816Z" creationid="Marco Marega" creationdate="20171017T191816Z">
@@ -35522,6 +35562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145615Z" creationid="manuel" creationdate="20180224T145615Z">
         <seg>[GROUP BY espressione-SQL [, ...]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[GROUP BY SQL-Expression [, …]]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063550Z" creationid="manuel" creationdate="20180427T063550Z">
+        <seg>[GROUP BY espressione-SQL [, …]]</seg>
       </tuv>
     </tu>
     <tu>
