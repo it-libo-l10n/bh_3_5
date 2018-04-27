@@ -8846,6 +8846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Addition of &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OUTER&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; need not be shown here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T055400Z" creationid="manuel" creationdate="20180427T055400Z">
+        <seg>L'aggiunta di &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ESTERNO&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; non ha bisogno di essere mostrato qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional fields could also be included in the table above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T182347Z" creationid="Alessia Mazzarini" creationdate="20180316T182347Z">
