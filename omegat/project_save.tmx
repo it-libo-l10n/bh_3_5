@@ -19032,8 +19032,8 @@
       <tuv lang="EN">
         <seg>In the query result, the sum of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Input – Output&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is given for each person.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065535Z" creationid="manuel" creationdate="20180427T065535Z">
-        <seg>Nel risultato della ricerca, la somma di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Input – Output&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è restituito per ogni persona.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065634Z" creationid="manuel" creationdate="20180427T065535Z">
+        <seg>Nel risultato della ricerca, la somma di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;dato – uscita&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è restituito per ogni persona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24104,8 +24104,8 @@
       <tuv lang="EN">
         <seg>SELECT "Name", SUM("Input"-"Output") AS "Balance" FROM "Table1" GROUP BY "Name";</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T064547Z" creationid="manuel" creationdate="20180427T064547Z">
-        <seg>SELECT "Nome", SUM("Inserimento"-"Risultato") AS "Saldo" FROM "Tabella1" GROUP BY "Nome";</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065616Z" creationid="manuel" creationdate="20180427T064547Z">
+        <seg>SELECT "Nome", SUM("dato"-"uscita") AS "saldo" FROM "Tabella1" GROUP BY "Nome";</seg>
       </tuv>
     </tu>
     <tu>
@@ -32002,6 +32002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T120654Z" creationid="Manuel Frassinetti" creationdate="20171216T120654Z">
         <seg>Questo campo non ha alcuna funzione associata ad esso e non è incluso nella dichiarazione di raggruppamento.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This field is to be called &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Balance&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065703Z" creationid="manuel" creationdate="20180427T065703Z">
+        <seg>Questo campo è chiamato &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;saldo&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
