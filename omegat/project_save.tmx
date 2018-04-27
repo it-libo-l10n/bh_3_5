@@ -24046,6 +24046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1" LEFT JOIN "Table2" ON "Table1"."ClassID" = "Table2"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T054946Z" creationid="manuel" creationdate="20180427T054946Z">
+        <seg>SELECT "Tabella1"."Nome", "Tabella2"."Classe" FROM "Tabella1" LEFT JOIN "Tabella2" ON "Tabella1"."ClasseID" = "Tabella2"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Table1"."Name", "Table2"."Class" FROM "Table1", "Table2" WHERE "Table1"."ClassID" = "Table2"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115919Z" creationid="manuel" creationdate="20180302T115919Z">
@@ -27042,6 +27050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122140Z" creationid="Elisabetta Manuele" creationdate="20180308T122140Z">
         <seg>La query vera e propria deve essere specificata dall'utente, perché in questo caso non si tratta di una tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The addition of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;INNER&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; does not alter this.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T054721Z" creationid="manuel" creationdate="20180427T054721Z">
+        <seg>L'aggiunta di un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;INTERNO&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; non altera nulla.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
