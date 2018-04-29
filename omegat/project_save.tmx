@@ -3326,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If the dialog is to be used to carry out several changes, this is indicated by the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Edit multiple records&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174222Z" creationid="Elisabetta Manuele" creationdate="20180429T174222Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se è necessario avvalersi della finestra di dialogo per apportare diverse modifiche, ciò viene indicato dalla casella di controllo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Modifica più record&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If the form documents are sorted within the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;file into directories, the macro for changing the form needs to be more extensive:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155218Z" creationid="Elisabetta Manuele" creationdate="20180412T155218Z">
@@ -3474,6 +3482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065638Z" creationid="osvaldo" creationdate="20180104T173453Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Nuove informazioni&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; del prestatario&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; possono essere immesse direttamente nei campi della tabella del formulario.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Often entries slip into a table which with hindsight can be changed in the form, and so are no longer needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173917Z" creationid="Elisabetta Manuele" creationdate="20180429T173917Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Spesso le voci vengono inserite in una tabella che a posteriori può essere modificata nel formulario, perciò non sono più necessarie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,6 +15814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here again a suitable SQL command is useful, coupled with a delete instruction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174008Z" creationid="Elisabetta Manuele" creationdate="20180429T174008Z">
+        <seg>Anche in questo caso è utile un comando SQL adatto, abbinato a un'istruzione di eliminazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here again we need to make retrospective improvements, so that the required SQL code can be created quite quickly using the built-in query editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T211349Z" creationid="Marco Marega" creationdate="20171213T211321Z">
@@ -20130,6 +20154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225148Z" creationid="Marco Marega" creationdate="20180224T225148Z">
         <seg>Determina il valore successivo di un campo con la funzione Valore automatico attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does no harm simply to delete such orphaned entries, but they are quite hard to find using the graphical user interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173953Z" creationid="Elisabetta Manuele" creationdate="20180429T173953Z">
+        <seg>La semplice eliminazione di queste voci orfane non è un problema, ma è piuttosto difficile individuarle tramite interfaccia grafica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32298,6 +32330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T180631Z" creationid="Alessia Mazzarini" creationdate="20180411T165755Z">
         <seg>Questo comando non funziona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command for affected tables is included in the dialog under &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Delete all superfluous entries&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174130Z" creationid="Elisabetta Manuele" creationdate="20180429T174130Z">
+        <seg>Questo comando per le tabelle interessate è incluso nella casella &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Elimina tutte le voci superflue&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;, contenuta all'interno della finestra di dialogo.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
