@@ -4902,6 +4902,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_statement.executeQuery&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ALTER TABLE """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""" ALTER COLUMN ""ID"" RESTART WITH "&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;inSequence_Value&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171326Z" creationid="Elisabetta Manuele" creationdate="20180429T171326Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_statement.executeQuery&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ALTER TABLE """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""" ALTER COLUMN ""ID"" RESTART WITH "&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;inSequence_Value&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_statement&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oConnection.createStatement&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171247Z" creationid="Elisabetta Manuele" creationdate="20180429T171247Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSQL_Statement &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oConnection.createStatement&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oSubForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oForm.getByName&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NameSubform&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T144800Z" creationid="Marco Marega" creationdate="20180414T144800Z">
@@ -15166,6 +15182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forms can use macros to do this kind of thing, but to do it for several tables, you would need identically constructed forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171440Z" creationid="Elisabetta Manuele" creationdate="20180429T171440Z">
+        <seg>I formulari si possono avvalere di macro per questo genere di operazioni, ma la ripetizione di queste istruzioni per varie tabelle richiede formulari con identica struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forms for a database can be varied to suit the user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193515Z" creationid="Elisabetta Manuele" creationdate="20180308T193515Z">
@@ -19678,6 +19702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Input errors in fields are often only noticed later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171351Z" creationid="Elisabetta Manuele" creationdate="20180429T171351Z">
+        <seg>Gli errori di inserimento nei campi vengono sovente rilevati solo in un secondo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inside a database, information on all table properties and their connections to one another are stored in the &lt;f0&gt;INFORMATION_SCHEMA&lt;/f0&gt; area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101820Z" creationid="Elisabetta Manuele" creationdate="20180403T101820Z">
@@ -20082,6 +20114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123940Z" creationid="Marco Marega" creationdate="20180404T123940Z">
         <seg>Si presume che la chiave primaria sia il primo campo della tabella (&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;arContent(0)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is awkward to have to do this in normal table view, especially when several records must be edited, as each record requires an individual entry to be made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171420Z" creationid="Elisabetta Manuele" creationdate="20180429T171420Z">
+        <seg>Un compito arduo in una normale vista tabella, specialmente se si devono modificare più record, dato che ogni record richiede l'inserimento di una singola voce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22078,6 +22118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often it is necessary to modify identical entries in several records at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171404Z" creationid="Elisabetta Manuele" creationdate="20180429T171404Z">
+        <seg>Spesso è necessario modificare voci identiche in più record contemporaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often something is altered in a form and this alteration is required to appear in a second form on the same page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204510Z" creationid="Marco Marega" creationdate="20180325T204510Z">
@@ -23238,6 +23286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM A new command is prepared for the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171155Z" creationid="Elisabetta Manuele" creationdate="20180429T171155Z">
+        <seg>REM Viene predisposto un nuovo comando per il database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM If a form is in a folder, use "/" to define the relationship</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155317Z" creationid="Elisabetta Manuele" creationdate="20180412T155317Z">
@@ -23298,6 +23354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170010Z" creationid="Elisabetta Manuele" creationdate="20180412T170010Z">
         <seg>REM Questo metodo non comprende:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM This statement has no return value, as no record is being read</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171228Z" creationid="Elisabetta Manuele" creationdate="20180429T171228Z">
+        <seg>REM L'istruzione non ha alcun valore restituito, in quanto non viene letto alcun record.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27186,6 +27250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194511Z" creationid="Marco Marega" creationdate="20171017T194511Z">
         <seg>Se l'utente non inserisce un valore, l'interfaccia grafica ne richiederà l'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ID will start afresh from inCount+1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171208Z" creationid="Elisabetta Manuele" creationdate="20180429T171208Z">
+        <seg>ID inizierà di nuovo da inCount+1.</seg>
       </tuv>
     </tu>
     <tu>
