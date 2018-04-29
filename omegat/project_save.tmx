@@ -5374,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oEvent.Source.Model.Tag&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T175715Z" creationid="Elisabetta Manuele" creationdate="20180429T175715Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oEvent.Source.Model.Tag&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oEvent.Source.Model.Tag&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Tag is entered in the additional information&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155510Z" creationid="Elisabetta Manuele" creationdate="20180412T155510Z">
@@ -31222,6 +31230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two arrays declared above must be able to interpret queries that refer to two table fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T175618Z" creationid="Elisabetta Manuele" creationdate="20180429T175618Z">
+        <seg>Le due matrici sopra riportate devono essere in grado di interpretare le query che si riferiscono a due campi della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two databases are addressed in the following way:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171008Z" creationid="Elisabetta Manuele" creationdate="20180403T171008Z">
@@ -31754,6 +31770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140135Z" creationid="Marco Marega" creationdate="20180203T140135Z">
         <seg>Perciò è necessaria tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore they are defined for two different contents by using &lt;/f8&gt;&lt;f9&gt;0 to 1 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;for the &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;second dimension.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T175707Z" creationid="Elisabetta Manuele" creationdate="20180429T175707Z">
+        <seg>Pertanto sono definite in base a due contenuti diversi, utilizzando da &lt;/f8&gt;&lt;f9&gt;0 a 1 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;per la &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;seconda dimensione.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
