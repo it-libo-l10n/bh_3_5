@@ -142,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' Query is launched and the return value stored in the variable oQuery_result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170851Z" creationid="Elisabetta Manuele" creationdate="20180429T170851Z">
+        <seg>' La query viene avviata e il valore restituito viene memorizzato nella variabile oQuery_result.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>' The database is being compacted and shut down</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170738Z" creationid="Elisabetta Manuele" creationdate="20180427T170738Z">
         <seg>' Il database è in corso di compressione e arresto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>' The highest value in "ID" is determined</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170614Z" creationid="Elisabetta Manuele" creationdate="20180429T170614Z">
+        <seg>' Viene determinato il valore massimo di "ID"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4738,6 +4754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T104753Z" creationid="Elisabetta Manuele" creationdate="20180412T104753Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; = &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSQL_Statement.executeQuery&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;stSql&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;)&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oSQL_Statement.executeQuery&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170622Z" creationid="Elisabetta Manuele" creationdate="20180429T170622Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oSQL_Statement.executeQuery&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)</seg>
       </tuv>
     </tu>
     <tu>
