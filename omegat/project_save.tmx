@@ -34486,6 +34486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two-dimensional arrays are necessary to store several records from one query when the query itself refers to more than one field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T175603Z" creationid="Elisabetta Manuele" creationdate="20180429T175603Z">
+        <seg>Le matrici bidimensionali sono necessarie per memorizzare più record di una query quando questa si riferisce a più di un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101432Z" creationid="Elisabetta Manuele" creationdate="20180402T101432Z">
