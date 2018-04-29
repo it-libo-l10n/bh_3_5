@@ -4248,8 +4248,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = 0</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180836Z" creationid="Elisabetta Manuele" creationdate="20180429T180836Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180850Z" creationid="Elisabetta Manuele" creationdate="20180429T180836Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = 0</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stAuxiltable&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(5)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180921Z" creationid="Elisabetta Manuele" creationdate="20180429T180921Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stAuxiltable&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(5)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stConten&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;t &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Trim&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;a_stPart&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;))&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202540Z" creationid="Marco Marega" creationdate="20180414T202540Z">
@@ -5162,6 +5170,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195648Z" creationid="Marco Marega" creationdate="20180414T195648Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stFieldValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getString&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab1Tab2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180907Z" creationid="Elisabetta Manuele" creationdate="20180429T180841Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab1Tab2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab2Tab1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180915Z" creationid="Elisabetta Manuele" creationdate="20180429T180915Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab2Tab1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10886,6 +10910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the reading of the arrays begins, some default values must be set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180938Z" creationid="Elisabetta Manuele" creationdate="20180429T180938Z">
+        <seg>Prima che inizi la lettura delle matrici, è necessario impostare alcuni valori predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before we create a list box in the main form, we must switch off the wizards.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T174740Z" creationid="Marco Marega" creationdate="20171226T173816Z">
@@ -15138,6 +15170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193132Z" creationid="Marco Marega" creationdate="20171212T193132Z">
         <seg>Per l'istruzione SQL, vedete il &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the display of Postcode and town the query is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T181054Z" creationid="Elisabetta Manuele" creationdate="20180429T181054Z">
+        <seg>La query per la visualizzazione di Postcode e della città è la seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32022,6 +32062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the index for the array in which the values from the auxiliary table will be written, the default primary key if we do not need the foreign key for a second table, and the default auxiliary table, linked to the main table, for postcode and town, the Postcode table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T181010Z" creationid="Elisabetta Manuele" creationdate="20180429T181010Z">
+        <seg>In particolare, l'indice della matrice in cui saranno scritti i valori della tabella ausiliaria, la chiave primaria predefinita, se non è necessaria la chiave esterna per una seconda tabella, e la tabella ausiliaria predefinita, collegata a quella principale per codice postale e città, la tabella Postcode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These code snippets come from queries to mailing lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205148Z" creationid="MicrosoftSucks" creationdate="20180327T205148Z">
@@ -35762,6 +35810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T202544Z" creationid="Marco Marega" creationdate="20171026T202544Z">
         <seg>Se questo valore è 0, l'inserimento non consentito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When two fields are linked for display in a listbox, they can, as described above, come from two different tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T181039Z" creationid="Elisabetta Manuele" creationdate="20180429T181039Z">
+        <seg>Quando due campi sono collegati per essere visualizzati in una casella di riepilogo, possono, come descritto sopra, essere ricavati da due diverse tabelle. </seg>
       </tuv>
     </tu>
     <tu>
