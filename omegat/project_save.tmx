@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0: Form, 1: Subform, 2: SubSubform, 3: Combobox or table control, 4: Foreign key field in a form, empty for a table control, 5: Table name of auxiliary table, 6: Table field1 of auxiliary table, 7: Table field2 of auxiliary table, or 8: Table name of auxiliary table for table field2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174452Z" creationid="Elisabetta Manuele" creationdate="20180429T174452Z">
+        <seg>0: Form, 1: Subform, 2: SubSubform, 3: Combobox or table control, 4: Foreign key field in a form, empty for a table control, 5: Table name of auxiliary table, 6: Table field1 of auxiliary table, 7: Table field2 of auxiliary table, or 8: Table name of auxiliary table for table field2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101047Z" creationid="Elisabetta Manuele" creationdate="20180402T101047Z">
@@ -3674,6 +3682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173211Z" creationid="Elisabetta Manuele" creationdate="20180427T173211Z">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Table_index_down&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS STRING&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Table_purge&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS OBJECT&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174335Z" creationid="Elisabetta Manuele" creationdate="20180429T174335Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Table_purge&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oEvent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;AS OBJECT&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7230,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The entries in this area are listed at the beginning of the macro as comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174520Z" creationid="Elisabetta Manuele" creationdate="20180429T174520Z">
+        <seg>&lt;f0&gt;Le voci di quest'area sono elencate all'inizio della macro come commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The first combobox, in which the street is entered, is called &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;comStr&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, the hidden foreign key field in the table underlying the form is called &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;numStrID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152235Z" creationid="Elisabetta Manuele" creationdate="20180412T152235Z">
@@ -7330,6 +7354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T205416Z" creationid="Marco Marega" creationdate="20180325T205416Z">
         <seg>&lt;f0&gt;Il nome della macro è &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Update&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The macro should be launched by entering into the &lt;/f0&gt;&lt;f1&gt;Additional information&lt;/f1&gt;&lt;f2&gt; section for the relevant buttons:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174428Z" creationid="Elisabetta Manuele" creationdate="20180429T174428Z">
+        <seg>&lt;f0&gt;La macro deve essere avviata inserendo nella sezione &lt;/f0&gt;&lt;f1&gt;Additional information (Informazioni aggiuntive)&lt;/f1&gt;&lt;f2&gt; i relativi pulsanti:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22494,6 +22526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only excerpts are explained below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174320Z" creationid="Elisabetta Manuele" creationdate="20180429T174320Z">
+        <seg>Di seguito vengono spiegati solo alcuni estratti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only fields containing a number or a date are counted.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T203149Z" creationid="Alessia Mazzarini" creationdate="20180406T203149Z">
@@ -29726,6 +29766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro code for this dialog can be seen in full in the example database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174303Z" creationid="Elisabetta Manuele" creationdate="20180429T174303Z">
+        <seg>Il codice macro di questa finestra di dialogo può essere interamente visualizzato nel database di esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro creates listboxes quite quickly by this action; they are filled with only one value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205627Z" creationid="Marco Marega" creationdate="20180326T205627Z">
@@ -31362,6 +31410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210131Z" creationid="Marco Marega" creationdate="20180328T210131Z">
         <seg>Poi la matrice viene ridimensionata di nuovo e un ulteriore valore può essere memorizzato.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then the dialog will not simply terminate when the OK button is clicked.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174248Z" creationid="Elisabetta Manuele" creationdate="20180429T174248Z">
+        <seg>In questo modo la finestra di dialogo non si chiuderà semplicemente selezionando il pulsante OK.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
