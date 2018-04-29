@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dialogs are saved along &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;with&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; the modules for macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171623Z" creationid="Elisabetta Manuele" creationdate="20180429T171623Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Le finestre di dialogo vengono salvate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;insieme&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ai moduli delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Field1Length&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;0&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;AND&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Len&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;(&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;stContent&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;) &gt;&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; Fi&lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;eld1Length&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;)&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt; &lt;/f30&gt;&lt;f31&gt;&lt;f32&gt;THEN&lt;/f32&gt;&lt;/f31&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091509Z" creationid="Marco Marega" creationdate="20180415T091509Z">
@@ -3698,6 +3706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162118Z" creationid="Elisabetta Manuele" creationdate="20180412T162118Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Toolbar_restore&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;he appearance of &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; controls is determined by the settings for the graphical user interface.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T172946Z" creationid="Elisabetta Manuele" creationdate="20180429T172946Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;'aspetto dei controlli di &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;dialogo&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; è determinato dalle impostazioni dell'interfaccia grafica utente.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog can be supplied at the beginning with the necessary data for appropriate tables and can be called up by several different forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171510Z" creationid="Elisabetta Manuele" creationdate="20180429T171510Z">
+        <seg>Una finestra di dialogo può essere inizialmente provvista dei dati necessari per le tabelle appropriate e può essere richiamata da vari formulari diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A downgrade creates problems and may cause loss of data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135210Z" creationid="Marco Marega" creationdate="20180218T135210Z">
@@ -13002,6 +13026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095219Z" creationid="Marina Latini" creationdate="20171207T095219Z">
         <seg>Finestre di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dialogs can do the job.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171453Z" creationid="Elisabetta Manuele" creationdate="20180429T171453Z">
+        <seg>Le finestre di dialogo possono rappresentare la soluzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22510,6 +22542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the table control of forms is absent as a special entry possibility.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171707Z" creationid="Elisabetta Manuele" creationdate="20180429T171707Z">
+        <seg>Manca solo il controllo tabellare dei formulari come possibilità di inserimento speciale.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the write access for the &lt;f0&gt;Media&lt;/f0&gt; and &lt;f1&gt;&lt;f2&gt;L&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;oan date&lt;/f3&gt; columns need to be changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210258Z" creationid="Marco Marega" creationdate="20171229T210258Z">
@@ -31158,6 +31198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Their creation is similar to that of a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171636Z" creationid="Elisabetta Manuele" creationdate="20180429T171636Z">
+        <seg>La loro creazione è simile a quella di un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Their relationships to each other in relation to the query may also be shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111445Z" creationid="Manuel Frassinetti" creationdate="20171129T111445Z">
@@ -34866,6 +34914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T205202Z" creationid="Marco Marega" creationdate="20171016T205202Z">
         <seg>Allineamento verticale: Standard | In alto | Al centro | In basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Very similar control fields are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171649Z" creationid="Elisabetta Manuele" creationdate="20180429T171649Z">
+        <seg>Sono disponibili campi di controllo molto simili.</seg>
       </tuv>
     </tu>
     <tu>
