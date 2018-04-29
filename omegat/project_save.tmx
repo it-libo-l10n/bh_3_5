@@ -2622,6 +2622,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTable2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174704Z" creationid="Elisabetta Manuele" creationdate="20180429T174704Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTable2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174657Z" creationid="Elisabetta Manuele" creationdate="20180429T174657Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;AS INTEGER&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T155143Z" creationid="Elisabetta Manuele" creationdate="20180429T155143Z">
@@ -5530,6 +5546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T210638Z" creationid="Marco Marega" creationdate="20171014T210638Z">
         <seg>&lt;f0&gt;Modifica dati&lt;/f0&gt;: Dev'essere permessa la modifica dei dati?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Among the variables defined at the beginning are two arrays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174725Z" creationid="Elisabetta Manuele" creationdate="20180429T174725Z">
+        <seg>&lt;f0&gt;Tra le variabili definite all'inizio compaiono due matrici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29766,6 +29790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro can edit listboxes, which have two entries, separated by &lt;/f0&gt;&lt;f1&gt;"&gt;"&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174605Z" creationid="Elisabetta Manuele" creationdate="20180429T174605Z">
+        <seg>La macro può modificare le caselle di riepilogo contenenti due voci separate da &lt;/f0&gt;&lt;f1&gt;"&gt;"&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro code for this dialog can be seen in full in the example database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174303Z" creationid="Elisabetta Manuele" creationdate="20180429T174303Z">
@@ -30034,6 +30066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T145612Z" creationid="Alessia Mazzarini" creationdate="20180403T145612Z">
         <seg>La numerazione verrà applicata solo ai record di dati all'interno del gruppo o dell'intero rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The numbers bound to them are transferred and the relevant entry is read from an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174535Z" creationid="Elisabetta Manuele" creationdate="20180429T174535Z">
+        <seg>I numeri ad esse associati vengono trasmessi e la voce corrispondente viene letta da una matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31906,6 +31946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222832Z" creationid="Marco Marega" creationdate="20180128T222832Z">
         <seg>Questi sistemi forniscono sia delle abbreviazioni che le descrizioni complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These two entries can also come from different tables and be brought together using a query, as for instance in the Postcode table, which has only the foreign key field Town_ID&lt;/f2&gt;&lt;f3&gt; for the town, requiring the Town table to display the names of towns.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174647Z" creationid="Elisabetta Manuele" creationdate="20180429T174647Z">
+        <seg>Queste due voci possono anche provenire da tabelle diverse ed essere raggruppate mediante una query, come ad esempio nella tabella Postcode, contenente solo il campo chiave esterna Town_ID&lt;/f2&gt;&lt;f3&gt; per la città, che richiede alla tabella Town di visualizzare i nomi delle città.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35658,6 +35706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T210416Z" creationid="Marco Marega" creationdate="20171229T210416Z">
         <seg>Mentre per la data del prestito (&lt;f0&gt;&lt;f1&gt;Lo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;an date&lt;/f2&gt;) è necessario solamente scegliere &lt;f3&gt;Sola &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;lettura&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;questo non è sufficiente per le caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While normal arrays can be created by the &lt;/f0&gt;&lt;f1&gt;Split()&lt;/f1&gt;&lt;f2&gt; command during execution of the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, two-dimensional arrays m&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;u&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;st be defined in advance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174846Z" creationid="Elisabetta Manuele" creationdate="20180429T174846Z">
+        <seg>Mentre le normali matrici si possono creare con il comando &lt;/f0&gt;&lt;f1&gt;Split()&lt;/f1&gt;&lt;f2&gt; durante l'esecuzione della &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, quelle bidimensionali d&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;e&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;vono essere definite in anticipo. </seg>
       </tuv>
     </tu>
     <tu>
