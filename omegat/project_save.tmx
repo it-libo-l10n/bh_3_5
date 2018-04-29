@@ -8718,6 +8718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A second SQL command then removes the now surplus media types which no longer have any link to the &lt;/f9&gt;&lt;/f8&gt;&lt;t10/&gt;&lt;f11&gt;&lt;f12&gt;Media table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173719Z" creationid="Elisabetta Manuele" creationdate="20180429T173719Z">
+        <seg>Un secondo comando SQL elimina quindi i tipi di supporto ormai superflui e privi di collegamenti alla &lt;/f9&gt;&lt;/f8&gt;&lt;t10/&gt;&lt;f11&gt;&lt;f12&gt;tabella Media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A selection in the second listbox would then all too often result in an empty filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203924Z" creationid="Marco Marega" creationdate="20180326T203924Z">
@@ -23070,6 +23078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Precisely this method is applied using this dialog's Replace &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;W&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;ith box – only the SQL command is first adapted to the Media &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;T&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ype table using a macro that can also edit other tables.&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173851Z" creationid="Elisabetta Manuele" creationdate="20180429T173851Z">
+        <seg>Questo metodo in particolare viene applicato tramite la finestra di dialogo Sostituisci &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;c&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;on: solo il comando SQL viene prima adattato alla tabella &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;T&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ipo di supporto, grazie a una macro in grado di modificare anche altre tabelle.&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070621Z" creationid="ldaghino" creationdate="20171003T070621Z">
@@ -35866,6 +35882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T214008Z" creationid="Marco Marega" creationdate="20180301T214008Z">
         <seg>Potete utilizzare anche il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change all the records in the Media table with a single entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173642Z" creationid="Elisabetta Manuele" creationdate="20180429T173642Z">
+        <seg>È possibile modificare tutti i record nella tabella Media utilizzando una sola voce.</seg>
       </tuv>
     </tu>
     <tu>
