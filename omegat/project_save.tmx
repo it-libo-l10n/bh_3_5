@@ -18054,6 +18054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you know SQL, you can do it much better using a SQL command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173615Z" creationid="Elisabetta Manuele" creationdate="20180429T173615Z">
+        <seg>Con SQL si possono ottenere risultati migliori mediante un semplice comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you must use a query of this type in your database, you can carry out the sort by first creating a view from the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T092649Z" creationid="Alessia Mazzarini" creationdate="20180314T184131Z">
@@ -21922,6 +21930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230217Z" creationid="Marco Marega" creationdate="20180224T230217Z">
         <seg>Ora, se durante la fase di restituzione dovesse verificarsi questo errore, otterreste un messaggio di errore &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now it turns out, after the database has been in use for a long time, that more active contemporaries foresaw similar additional media types for printed works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173426Z" creationid="Elisabetta Manuele" creationdate="20180429T173426Z">
+        <seg>A questo punto, dopo un uso prolungato del database, emerge che i contemporanei più attivi prevedevano simili tipi di supporto supplementari per le opere stampate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31022,6 +31038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The task of differentiating them has become excessive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173441Z" creationid="Elisabetta Manuele" creationdate="20180429T173441Z">
+        <seg>Il compito di differenziarli è diventato eccessivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The technical names for common controls are shown in &lt;f1&gt;Figure &lt;/f1&gt;&lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113455Z" creationid="Marina Latini" creationdate="20171213T113455Z">
@@ -35062,6 +35086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We therefore wish to reduce them, preferably to a single term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173455Z" creationid="Elisabetta Manuele" creationdate="20180429T173455Z">
+        <seg>Per questo motivo desideriamo ridurli, preferibilmente a un unico termine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We want to read given names from the Reader table, and also to make them available for new readers, so that new records do not need to be created for a given name that already exists in the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171102T231848Z" creationid="Marco Marega" creationdate="20171102T223930Z">
@@ -35650,6 +35682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193722Z" creationid="Marco Marega" creationdate="20171212T193722Z">
         <seg>Così facendo, è possibile attraversare il formulario molto più velocemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without macros, the records in &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;the&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; media table would have to be found (using a filter) and individually altered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173537Z" creationid="Elisabetta Manuele" creationdate="20180429T173537Z">
+        <seg>Senza macro, sarebbe necessario trovare i record &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;nella&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; tabella dei supporti (tramite un filtro) e modificarli singolarmente. </seg>
       </tuv>
     </tu>
     <tu>
