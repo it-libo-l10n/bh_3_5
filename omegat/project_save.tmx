@@ -3822,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The dialog shown above serves in the example database to edit tables which are not used directly as the basis of a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173014Z" creationid="Elisabetta Manuele" creationdate="20180429T173014Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La finestra di dialogo riportata in alto ha la funzione, nel database di esempio, di modificare le tabelle non utilizzate direttamente come base per un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The filter is hard-&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;cod&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed in this case.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161424Z" creationid="steevie" creationdate="20180216T161424Z">
@@ -4050,6 +4058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144956Z" creationid="Manuel Frassinetti" creationdate="20171202T144956Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Quando volete ordinare in modo discendente  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;usando SQL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, utilizzate &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;DESC&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; invece di  &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ASC&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;While alterations in this case are easy to carry out without macros, it is quite difficult to change the media type of many media at once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173225Z" creationid="Elisabetta Manuele" creationdate="20180429T173225Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Mentre le modifiche, in questo caso, sono di facile esecuzione senza macro, è abbastanza difficile modificare il formato di molti supporti contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19342,6 +19358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the macro version, the field contents can be expanded by ne&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;w&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; content but an alteration of existing content is not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173123Z" creationid="Elisabetta Manuele" creationdate="20180429T173123Z">
+        <seg>Nella versione macro, i contenuti dei campi possono essere ampliati con altri nuo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;vi&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, ma non è possibile modificare quelli esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main form we have the text field for the form title and the list box for finding the reader.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T213855Z" creationid="Marco Marega" creationdate="20171226T213855Z">
@@ -19458,6 +19482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225137Z" creationid="Marco Marega" creationdate="20171214T225137Z">
         <seg>Nel campo di controllo tabella in alto, in certi casi lo stesso supporto può apparire più di una sola volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the version without macros, alterations are carried out using a separate table control.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173141Z" creationid="Elisabetta Manuele" creationdate="20180429T173141Z">
+        <seg>Nella versione senza macro le modifiche vengono apportate mediante un controllo tabellare separato.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25766,6 +25798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, the media type is accessible only through a listbox (in the macro version it becomes a combobox).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173039Z" creationid="Elisabetta Manuele" creationdate="20180429T173039Z">
+        <seg>Così, ad esempio, il tipo di supporto è accessibile solo tramite una casella di riepilogo (che nella versione macro diventa una casella combinata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, the view underlying the report has a field named Address, containing the complete address of the recipient with street and town.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T180311Z" creationid="Alessia Mazzarini" creationdate="20180322T082159Z">
@@ -26146,6 +26186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T220514Z" creationid="Marco Marega" creationdate="20180303T220514Z">
         <seg>Immaginate che tutti gli studenti di una classe debbano essere fatti avanzare di un anno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suppose the following types are available: "Book, bound", "Book, hard-cover", "Paperback" &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nd "Ringfile".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173314Z" creationid="Elisabetta Manuele" creationdate="20180429T173314Z">
+        <seg>Supponiamo che siano disponibili i seguenti formati: "Libro, rilegato", "Libro, copertina rigida", "Tascabile" &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; "Raccoglitore ad anelli". </seg>
       </tuv>
     </tu>
     <tu>
