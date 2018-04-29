@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' First data field is read</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170953Z" creationid="Elisabetta Manuele" creationdate="20180429T170953Z">
+        <seg>' Viene letto il primo campo dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>' If the highest value is not a value, meaning the table is empty, the highest value is set to -1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171055Z" creationid="Elisabetta Manuele" creationdate="20180429T171055Z">
+        <seg>' Se il valore più elevato non è un valore, cioè la tabella è vuota, il valore più alto è impostato su -1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>' Query is launched and the return value stored in the variable oQuery_result</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170851Z" creationid="Elisabetta Manuele" creationdate="20180429T170851Z">
@@ -162,6 +178,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170614Z" creationid="Elisabetta Manuele" creationdate="20180429T170614Z">
         <seg>' Viene determinato il valore massimo di "ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>' The highrst value is increased by 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171134Z" creationid="Elisabetta Manuele" creationdate="20180429T171134Z">
+        <seg>' Il valore massimo viene incrementato di 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>' next record, in this case none as only one record exists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171019Z" creationid="Elisabetta Manuele" creationdate="20180429T171019Z">
+        <seg>' record successivo, in questo caso nessuno, in quanto esiste un solo record</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;THEN&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170914Z" creationid="Elisabetta Manuele" creationdate="20180429T170914Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SE NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;THEN&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF NOT&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;oDataSource.isConnected&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;())&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Then&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165209Z" creationid="Elisabetta Manuele" creationdate="20180412T165209Z">
@@ -3186,6 +3226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170557Z" creationid="Elisabetta Manuele" creationdate="20180412T170557Z">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;5 &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;THEN&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171035Z" creationid="Elisabetta Manuele" creationdate="20180429T171035Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.next&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170927Z" creationid="Elisabetta Manuele" creationdate="20180429T170927Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.next&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;What is&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; visible&lt;/f2&gt;&lt;f3&gt; to the user is the set of &lt;/f3&gt;&lt;f4&gt;Controls&lt;/f4&gt;&lt;f5&gt;, which serve for the entry or display of text, numbers, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171013T184211Z" creationid="Marco Marega" creationdate="20171013T184211Z">
@@ -4086,6 +4142,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171102Z" creationid="Elisabetta Manuele" creationdate="20180429T171102Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.getInt&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170934Z" creationid="Elisabetta Manuele" creationdate="20180429T170934Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.getInt&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;inI&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;inI&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210147Z" creationid="Marco Marega" creationdate="20180328T210147Z">
@@ -4154,6 +4226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145344Z" creationid="Marco Marega" creationdate="20180414T145344Z">
         <seg>&lt;f0&gt;&lt;f1&gt;inID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oField.getCurrentValue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inSequence_Value&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;+1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171112Z" creationid="Elisabetta Manuele" creationdate="20180429T171112Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inSequence_Value&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;+1</seg>
       </tuv>
     </tu>
     <tu>
