@@ -5366,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT ""FKTABLE_NAME"", ""FKCOLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_CROSSREFERENCE"" WHERE ""PKTABLE_NAME"" = '"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(5) + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"'"&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180349Z" creationid="Elisabetta Manuele" creationdate="20180429T180349Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SCELTA ""FKTABLE_NAME"", ""FKCOLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_CROSSREFERENCE"" WHERE ""PKTABLE_NAME"" = '"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(5) + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"'"&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT MAX(""ID"") FROM """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;+&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;+&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;""""&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T155357Z" creationid="Elisabetta Manuele" creationdate="20180429T155357Z">
@@ -6530,6 +6538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181349Z" creationid="Manuel Frassinetti" creationdate="20171130T181349Z">
         <seg>&lt;f0&gt;Nel test precedente, un'attenzione particolare dovrebbe essere rivolta alla prima colonna del risultato della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In the database, the INFORMATION_SCHEMA area contains all information about the tables of the database, including information about foreign keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180417Z" creationid="Elisabetta Manuele" creationdate="20180429T180417Z">
+        <seg>&lt;f0&gt;L'area INFORMATION_SCHEMA del database contiene tutte le informazioni sulle relative tabelle, incluse quelle sulle chiavi esterne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,6 +13870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FKTABLE_NAME gives the table that uses this primary key as a foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180511Z" creationid="Elisabetta Manuele" creationdate="20180429T180511Z">
+        <seg>FKTABLE_NAME indica la tabella che utilizza questa chiave primaria come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FLOAT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102143Z" creationid="Elisabetta Manuele" creationdate="20180402T102143Z">
@@ -20858,6 +20882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201633Z" creationid="Marco Marega" creationdate="20180414T201427Z">
         <seg>In questo punto non è sicuro semplicemente inserire un limite alla lunghezza nella casella combinata, in quanto dobbiamo prevedere la possibilità di inserire contemporaneamente due campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KTABLE_NAME" gives the table that provides its primary key for the connection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180459Z" creationid="Elisabetta Manuele" creationdate="20180429T180459Z">
+        <seg>KTABLE_NAME" indica la tabella che fornisce la chiave primaria per il collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31254,6 +31286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tables that contain this information can be &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;accessed using "INFORMATION_SCHEMA"."SYSTEM_CROSSREFERENCE".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180445Z" creationid="Elisabetta Manuele" creationdate="20180429T180445Z">
+        <seg>Le tabelle che contengono queste informazioni sono &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;accessibili tramite "INFORMATION_SCHEMA"."SYSTEM_CROSSREFERENCE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The task of differentiating them has become excessive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173441Z" creationid="Elisabetta Manuele" creationdate="20180429T173441Z">
@@ -32474,6 +32514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124108Z" creationid="Elisabetta Manuele" creationdate="20180308T124108Z">
         <seg>Ciò è possibile tramite una subquery correlata (vd. il capitolo sulle query del presente manuale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done using the following query.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180341Z" creationid="Elisabetta Manuele" creationdate="20180429T180341Z">
+        <seg>A questo scopo è possibile ricorrere alla seguente query.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
