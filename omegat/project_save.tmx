@@ -4246,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = 0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180836Z" creationid="Elisabetta Manuele" creationdate="20180429T180836Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;-1&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171102Z" creationid="Elisabetta Manuele" creationdate="20180429T171102Z">
@@ -7566,6 +7574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The table that provides its primary key for use as a foreign key is in the previously created array at position 6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180656Z" creationid="Elisabetta Manuele" creationdate="20180429T180656Z">
+        <seg>&lt;f0&gt;La tabella che fornisce la sua chiave primaria per l'uso come chiave esterna si trova nella matrice precedentemente creata alla posizione 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The tables which are to be jointly searched are usually in a list separated by commas.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T114907Z" creationid="manuel" creationdate="20180302T114907Z">
@@ -9002,6 +9018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194256Z" creationid="Marco Marega" creationdate="20171125T194256Z">
         <seg>Un testo costante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A the count begins with 0, the value is read from the array using &lt;/f0&gt;&lt;f1&gt;aTable(5)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180814Z" creationid="Elisabetta Manuele" creationdate="20180429T180814Z">
+        <seg>Il conteggio inizia con 0, il valore viene letto dalla matrice mediante &lt;/f0&gt;&lt;f1&gt;aTable(5)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14490,6 +14514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225641Z" creationid="Marco Marega" creationdate="20171214T225641Z">
         <seg>Il filtro con l'uso di una ricerca è descritto nel &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finally FKCOLUMN_NAME gives the name of the foreign key field.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180629Z" creationid="Elisabetta Manuele" creationdate="20180429T180629Z">
+        <seg>Infine FKCOLUMN_NAME indica il nome del campo chiave esterna.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
