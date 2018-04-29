@@ -6438,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If values are to be removed from a table, it is first necessary to check that they do not exist as foreign keys in some other table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180127Z" creationid="Elisabetta Manuele" creationdate="20180429T180127Z">
+        <seg>&lt;f0&gt;Se si devono rimuovere valori da una tabella, è necessario prima verificare che non siano presenti come chiavi esterne in un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If we now switch back to SQL View, we see that all fields are now shown in double quotes: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Table _name"."Field_name"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172433Z" creationid="Manuel Frassinetti" creationdate="20171204T172934Z">
@@ -16742,6 +16750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, in the given example database, there is a Town table which is used for both the place of publication of media and the town for addresses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180209Z" creationid="Elisabetta Manuele" creationdate="20180429T180209Z">
+        <seg>Tuttavia nel database dell'esempio in questione esiste una tabella Town utilizzata sia per il luogo di pubblicazione dei supporti che per la città da cui attingere gli indirizzi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it is not apparent during normal usage that the record is no longer needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160149Z" creationid="steevie" creationdate="20180206T080303Z">
@@ -18990,6 +19006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In simple table structures a given table will have only one foreign key connection to another table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180149Z" creationid="Elisabetta Manuele" creationdate="20180429T180149Z">
+        <seg>Nelle strutture semplici tabellari una determinata tabella dispone di un solo collegamento chiave esterna a un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some cases, depending on the type of modification, the table must be empty in order for the change to occur.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224637Z" creationid="Marco Marega" creationdate="20180224T224637Z">
@@ -20714,6 +20738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215602Z" creationid="Marco Marega" creationdate="20171215T205147Z">
         <seg>Sarebbe bello se, selezionando un utente in una sezione del formulario, in un'altra parte venissero visualizzati i supporti in prestito a quell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be nicer though if they could be provided universally for all cases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180326Z" creationid="Elisabetta Manuele" creationdate="20180429T180326Z">
+        <seg>Sarebbe tuttavia preferibile se tali procedure fossero applicabili a tutti i casi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32022,6 +32054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These tables and foreign key names can naturally also be entered using the Additional &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;nformation field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180311Z" creationid="Elisabetta Manuele" creationdate="20180429T180311Z">
+        <seg>Queste tabelle e i nomi delle chiavi esterne possono naturalmente essere inseriti anche tramite il campo Additional &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;nformation (Informazioni aggiuntive).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These two entries can also come from different tables and be brought together using a query, as for instance in the Postcode table, which has only the foreign key field Town_ID&lt;/f2&gt;&lt;f3&gt; for the town, requiring the Town table to display the names of towns.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174647Z" creationid="Elisabetta Manuele" creationdate="20180429T174647Z">
@@ -34026,6 +34066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180427T062434Z" creationid="manuel" creationdate="20180427T062434Z">
         <seg>Pertanto la ricerca sopra riportata restituisce tutti i possibili accoppiamenti di record dalla prima tabella con quelli della seconda tabella, ad eccezione degli accoppiamenti tra record per lo stesso giocatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus the primary key of the Town table is entered twice into different tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180220Z" creationid="Elisabetta Manuele" creationdate="20180429T180220Z">
+        <seg>Perciò la chiave primaria della tabella Town viene inserita due volte in tabelle diverse.</seg>
       </tuv>
     </tu>
     <tu>
