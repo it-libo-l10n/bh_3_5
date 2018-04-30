@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' Read the field value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182605Z" creationid="Elisabetta Manuele" creationdate="20180430T182605Z">
+        <seg>' Leggere il valore del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>' The database is being compacted and shut down</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170738Z" creationid="Elisabetta Manuele" creationdate="20180427T170738Z">
@@ -5430,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stInhalt1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList1.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;() &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Read value from Listbox1 ...&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182513Z" creationid="Elisabetta Manuele" creationdate="20180430T182513Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stInhalt1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList1.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;() &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Leggere il valore da Listbox1 ...&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stMessage&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"The database is being compacted."&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CHR&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;13&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"The form will now close."&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170855Z" creationid="Elisabetta Manuele" creationdate="20180427T170855Z">
@@ -5714,6 +5730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155510Z" creationid="Elisabetta Manuele" creationdate="20180412T155510Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stTag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oEvent.Source.Model.Tag&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Tag è inserito nelle informazioni aggiuntive&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stText&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlText.Text&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182552Z" creationid="Elisabetta Manuele" creationdate="20180430T182552Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stText&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlText.Text&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18478,6 +18502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the text field is not empty, the entry in the text field is handled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182645Z" creationid="Elisabetta Manuele" creationdate="20180430T182645Z">
+        <seg>Se il campo di testo non è vuoto, viene gestita la voce nel campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the user's entry does not match the mask, the entry is rejected on leaving the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194154Z" creationid="Marco Marega" creationdate="20171125T194154Z">
@@ -22374,6 +22406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neither the listbox for a replacement value nor the checkbox for deleting all orphaned records are considered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182711Z" creationid="Elisabetta Manuele" creationdate="20180430T182711Z">
+        <seg>Non vengono considerati né la casella di riepilogo per un valore di sostituzione, né la casella di controllo per l'eliminazione di tutti i record orfani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New database using the internal HSQL engine</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
@@ -24154,6 +24194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170031Z" creationid="Elisabetta Manuele" creationdate="20180412T170031Z">
         <seg>REM - inserimento di dati in un database già aperto, in quanto vengono scritti nel file *.odb solo dopo la chiusura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM ... and determine the corresponding ID-value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182532Z" creationid="Elisabetta Manuele" creationdate="20180430T182532Z">
+        <seg>REM ... e determinare il corrispondente valore ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -28170,6 +28218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170522Z" creationid="manuel" creationdate="20180430T170522Z">
         <seg>La formula HAVING si applica ai &lt;/f9&gt;&lt;f10&gt;valori selezionati calcolati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ID value of the first listbox is stored in the variable "inLB1".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182545Z" creationid="Elisabetta Manuele" creationdate="20180430T182545Z">
+        <seg>Il valore ID della prima casella di riepilogo è memorizzato nella variabile "inLB1".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33938,6 +33994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224538Z" creationid="Marco Marega" creationdate="20180224T224538Z">
         <seg>Ciò è in contrasto con il valore predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is made clear by the fact that text entry sets these other fields to be inactive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182729Z" creationid="Elisabetta Manuele" creationdate="20180430T182729Z">
+        <seg>Ciò è evidenziato dal fatto che l'inserimento di testo rende inattivi questi altri campi.</seg>
       </tuv>
     </tu>
     <tu>
