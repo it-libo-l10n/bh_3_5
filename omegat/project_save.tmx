@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;The difference is that the WHERE formula applies to the values of &lt;/f7&gt;&lt;f8&gt;selected&lt;/f8&gt;&lt;f9&gt; fields in the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170352Z" creationid="manuel" creationdate="20180430T170352Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;La differenza è che la formula WHERE si applica ai valori dei campi &lt;/f7&gt;&lt;f8&gt;selezionati&lt;/f8&gt;&lt;f9&gt; nella ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;MIN("Name")&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; shows the first name alphabetically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T160310Z" creationid="manuel" creationdate="20180301T155155Z">
@@ -7250,6 +7258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163627Z" creationid="Manuel Frassinetti" creationdate="20171216T163627Z">
         <seg>&lt;f0&gt;I campi "&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito"."ID"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e "&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Prestito"."Supporto_ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; sono stati rimossi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HAVING&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; formula closely resembles the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;WHERE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170311Z" creationid="manuel" creationdate="20180430T170311Z">
+        <seg>&lt;f0&gt;La formula &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HAVING&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ricorda molto da vicino la formula &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;WHERE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27650,6 +27666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194511Z" creationid="Marco Marega" creationdate="20171017T194511Z">
         <seg>Se l'utente non inserisce un valore, l'interfaccia grafica ne richiederà l'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HAVING formula applies to &lt;/f9&gt;&lt;f10&gt;selected calculated values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170522Z" creationid="manuel" creationdate="20180430T170522Z">
+        <seg>La formula HAVING si applica ai &lt;/f9&gt;&lt;f10&gt;valori selezionati calcolati.</seg>
       </tuv>
     </tu>
     <tu>
