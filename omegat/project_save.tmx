@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;f11&gt;Specifically,&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;t&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;he WHERE formula can not use an aggregate function as part of a search condition; the HAVING formula does.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170917Z" creationid="manuel" creationdate="20180430T170917Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;In particolare,&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;la&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; formula WHERE non può utilizzare una funzione aggregata come parte di una condizione di ricerca; cosa che la formula HAVING fa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;MAX("Name")&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; shows the last name a&lt;/f14&gt;&lt;f15&gt;l&lt;/f15&gt;&lt;f16&gt;phabetically.&lt;br17/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T160249Z" creationid="manuel" creationdate="20180301T160249Z">
@@ -3850,6 +3858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170848Z" creationid="manuel" creationdate="20180301T170848Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Il tipo di campo Booleano è Sì/No[BOOLEAN].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The HAVING formula serves two purposes as shown in the two examples below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T171023Z" creationid="manuel" creationdate="20180430T171023Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La formula HAVING ha due scopi, come mostrato nei due esempi seguenti.</seg>
       </tuv>
     </tu>
     <tu>
