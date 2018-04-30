@@ -4198,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;aForeignTables&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oQuery_result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;2&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174135Z" creationid="Elisabetta Manuele" creationdate="20180430T174135Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;aForeignTables&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oQuery_result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;2&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;aForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;() =&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Split&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stTag&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;","&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154758Z" creationid="Elisabetta Manuele" creationdate="20180412T154758Z">
@@ -6614,6 +6622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In cases where a call to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;subroutine&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; includes the name of a second table, the following loop is run.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174344Z" creationid="Elisabetta Manuele" creationdate="20180430T174344Z">
+        <seg>&lt;f0&gt;Nel caso in cui una chiamata alla &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;subroutine&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; includa il nome di una seconda tabella, viene eseguito il loop successivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In principle L&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ibre&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;O&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; provides for the possibility of adding horizontal and vertical lines.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091716Z" creationid="Alessia Mazzarini" creationdate="20180322T091716Z">
@@ -7066,6 +7082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174005Z" creationid="Elisabetta Manuele" creationdate="20180430T174005Z">
         <seg>&lt;f0&gt;Lettura del primo campo con il nome della tabella contenente la chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Reading the second field with the name of the foreign key field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174201Z" creationid="Elisabetta Manuele" creationdate="20180430T174201Z">
+        <seg>&lt;f0&gt;Lettura del secondo campo con il nome del campo chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19078,6 +19102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our case this does not occur, as the Town table has no foreign key from the Postcode table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174436Z" creationid="Elisabetta Manuele" creationdate="20180430T174436Z">
+        <seg>Nel nostro caso ciò non avviene, poiché la tabella Town non dispone di una chiave esterna ricavata dalla tabella Postcode. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In our case this is the &lt;f1&gt;Street &lt;/f1&gt;table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213836Z" creationid="Marco Marega" creationdate="20180228T213836Z">
@@ -23066,6 +23098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103624Z" creationid="Elisabetta Manuele" creationdate="20180403T103624Z">
         <seg>Solo quando il file è chiuso l'intero database viene riscritto nel file e nuovamente compresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only when the name of the second table occurs as the foreign key table for the first table is the default entry changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174406Z" creationid="Elisabetta Manuele" creationdate="20180430T174406Z">
+        <seg>Solo quando il nome della seconda tabella viene visualizzato come tabella chiavi esterne per la prima tabella, viene modificata la voce predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30970,6 +31010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174126Z" creationid="Elisabetta Manuele" creationdate="20180430T174126Z">
         <seg>Il risultato della tabella Postcode &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;è&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; la tabella Address.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result for the Postcode table is the field Postcode&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;ID in the Address&lt;/f2&gt;&lt;f3&gt; table.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174304Z" creationid="Elisabetta Manuele" creationdate="20180430T174304Z">
+        <seg>Il risultato della tabella Postcode è il campo Postcode&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;ID della tabella Address&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
