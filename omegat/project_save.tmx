@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;7&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180606Z" creationid="Elisabetta Manuele" creationdate="20180430T180606Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;7&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;FUNCTION&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150321Z" creationid="Elisabetta Manuele" creationdate="20180412T150321Z">
@@ -5534,10 +5542,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"""."""&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;6&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;"""||' &gt; '||"""&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;8&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;"""."""&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;aTable&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;(&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;7&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;) + &lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;""" FROM """&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt; + &lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;aTable&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt;&lt;f59&gt;(&lt;/f59&gt;&lt;/f58&gt;&lt;f60&gt;&lt;f61&gt;5&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt;&lt;f63&gt;) + &lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;""", """&lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt; + &lt;/f67&gt;&lt;/f66&gt;&lt;f68&gt;&lt;f69&gt;aTable&lt;/f69&gt;&lt;/f68&gt;&lt;f70&gt;&lt;f71&gt;(&lt;/f71&gt;&lt;/f70&gt;&lt;f72&gt;&lt;f73&gt;8&lt;/f73&gt;&lt;/f72&gt;&lt;f74&gt;&lt;f75&gt;) + &lt;/f75&gt;&lt;/f74&gt;&lt;f76&gt;&lt;f77&gt;""" WHERE """&lt;/f77&gt;&lt;/f76&gt;&lt;f78&gt;&lt;f79&gt; + &lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;aTable&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt;(&lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;8&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt;) + &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;"""."""&lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt; + &lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;stForeignIDTab2Tab1&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt; + &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;""" = """&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; + &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;aTable&lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt;(&lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;5&lt;/f105&gt;&lt;/f104&gt;&lt;f106&gt;&lt;f107&gt;) + &lt;/f107&gt;&lt;/f106&gt;&lt;f108&gt;&lt;f109&gt;"""."""&lt;/f109&gt;&lt;/f108&gt;&lt;f110&gt;&lt;f111&gt; + &lt;/f111&gt;&lt;/f110&gt;&lt;f112&gt;&lt;f113&gt;stForeignIDTab1Tab2&lt;/f113&gt;&lt;/f112&gt;&lt;f114&gt;&lt;f115&gt; + &lt;/f115&gt;&lt;/f114&gt;&lt;f116&gt;&lt;f117&gt;""" ORDER BY """&lt;/f117&gt;&lt;/f116&gt;&lt;f118&gt;&lt;f119&gt; + &lt;/f119&gt;&lt;/f118&gt;&lt;f120&gt;&lt;f121&gt;aTable&lt;/f121&gt;&lt;/f120&gt;&lt;f122&gt;&lt;f123&gt;(&lt;/f123&gt;&lt;/f122&gt;&lt;f124&gt;&lt;f125&gt;6&lt;/f125&gt;&lt;/f124&gt;&lt;f126&gt;&lt;f127&gt;) + &lt;/f127&gt;&lt;/f126&gt;&lt;f128&gt;&lt;f129&gt;""""&lt;/f129&gt;&lt;/f128&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180840Z" creationid="Elisabetta Manuele" creationdate="20180430T180840Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"""."""&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;6&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;"""||' &gt; '||"""&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;8&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;"""."""&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;aTable&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;(&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;7&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;) + &lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;""" FROM """&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt; + &lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;aTable&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt;&lt;f59&gt;(&lt;/f59&gt;&lt;/f58&gt;&lt;f60&gt;&lt;f61&gt;5&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt;&lt;f63&gt;) + &lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;""", """&lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt; + &lt;/f67&gt;&lt;/f66&gt;&lt;f68&gt;&lt;f69&gt;aTable&lt;/f69&gt;&lt;/f68&gt;&lt;f70&gt;&lt;f71&gt;(&lt;/f71&gt;&lt;/f70&gt;&lt;f72&gt;&lt;f73&gt;8&lt;/f73&gt;&lt;/f72&gt;&lt;f74&gt;&lt;f75&gt;) + &lt;/f75&gt;&lt;/f74&gt;&lt;f76&gt;&lt;f77&gt;""" WHERE """&lt;/f77&gt;&lt;/f76&gt;&lt;f78&gt;&lt;f79&gt; + &lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;aTable&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt;(&lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;8&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt;) + &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;"""."""&lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt; + &lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;stForeignIDTab2Tab1&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt; + &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;""" = """&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; + &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;aTable&lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt;(&lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;5&lt;/f105&gt;&lt;/f104&gt;&lt;f106&gt;&lt;f107&gt;) + &lt;/f107&gt;&lt;/f106&gt;&lt;f108&gt;&lt;f109&gt;"""."""&lt;/f109&gt;&lt;/f108&gt;&lt;f110&gt;&lt;f111&gt; + &lt;/f111&gt;&lt;/f110&gt;&lt;f112&gt;&lt;f113&gt;stForeignIDTab1Tab2&lt;/f113&gt;&lt;/f112&gt;&lt;f114&gt;&lt;f115&gt; + &lt;/f115&gt;&lt;/f114&gt;&lt;f116&gt;&lt;f117&gt;""" ORDER BY """&lt;/f117&gt;&lt;/f116&gt;&lt;f118&gt;&lt;f119&gt; + &lt;/f119&gt;&lt;/f118&gt;&lt;f120&gt;&lt;f121&gt;aTable&lt;/f121&gt;&lt;/f120&gt;&lt;f122&gt;&lt;f123&gt;(&lt;/f123&gt;&lt;/f122&gt;&lt;f124&gt;&lt;f125&gt;6&lt;/f125&gt;&lt;/f124&gt;&lt;f126&gt;&lt;f127&gt;) + &lt;/f127&gt;&lt;/f126&gt;&lt;f128&gt;&lt;f129&gt;""""&lt;/f129&gt;&lt;/f128&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;""" FROM """&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;5&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;""" ORDER BY """&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;6&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""""&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180557Z" creationid="Elisabetta Manuele" creationdate="20180430T180557Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;""" FROM """&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;5&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;""" ORDER BY """&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;6&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""""&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"""||' &gt; '||"""&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;7&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;""" FROM """&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;5&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""" ORDER BY """&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;aTable&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;(&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;6&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;) + &lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;""""&lt;/f53&gt;&lt;/f52&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180712Z" creationid="Elisabetta Manuele" creationdate="20180430T180712Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"""||' &gt; '||"""&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;7&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;""" FROM """&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;5&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""" ORDER BY """&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;aTable&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;(&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;6&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;) + &lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;""""&lt;/f53&gt;&lt;/f52&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6450,6 +6474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120056Z" creationid="manuel" creationdate="20180302T120056Z">
         <seg>&lt;f0&gt;Qui vengono visualizzati i nomi e le classi corrispondenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Here we have the first evaluation to determine the foreign keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181139Z" creationid="Elisabetta Manuele" creationdate="20180430T181139Z">
+        <seg>&lt;f0&gt;A questo punto disponiamo della prima valutazione per determinare le chiavi esterne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30246,10 +30278,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The listbox is based on two table fields from two tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180732Z" creationid="Elisabetta Manuele" creationdate="20180430T180732Z">
+        <seg>La casella di riepilogo si basa su due campi tabella ricavati da due tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The listbox receives its content from a query relating to thi&lt;/f3&gt;&lt;f4&gt;s &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;VIEW.&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200448Z" creationid="Marco Marega" creationdate="20180327T200448Z">
         <seg>La casella di riepilogo riceve i suoi contenuti da una ricerca collegata a &lt;/f3&gt;&lt;f4&gt;questa &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Vista.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The listbox relates to two table fields but only one table, as the argument array ends at Tablefield2 of the auxiliary table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180643Z" creationid="Elisabetta Manuele" creationdate="20180430T180643Z">
+        <seg>La casella di riepilogo è correlata a due campi tabella ma a una sola tabella, poiché la matrice di argomenti termina in Tablefield2 della tabella ausiliaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34114,6 +34162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211249Z" creationid="Marco Marega" creationdate="20171216T211249Z">
         <seg>Questo previene la visualizzazione dei supporti che sono già stati restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query corresponds to the example with the postcode and the town.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180746Z" creationid="Elisabetta Manuele" creationdate="20180430T180746Z">
+        <seg>Questa query corrisponde all'esempio con il codice postale e la città.</seg>
       </tuv>
     </tu>
     <tu>
