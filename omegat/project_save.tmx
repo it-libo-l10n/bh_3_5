@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Case&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182101Z" creationid="Elisabetta Manuele" creationdate="20180430T182101Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Case&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Chapter&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; 1 &lt;s3/&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T185013Z" creationid="osvaldo" creationdate="20171012T185013Z">
@@ -3794,6 +3802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170953Z" creationid="Elisabetta Manuele" creationdate="20180412T170953Z">
         <seg>&lt;f0&gt;&lt;f1&gt;SUB&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Write_data_out_of_cache&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Select&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Case&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDlg.Execute&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182050Z" creationid="Elisabetta Manuele" creationdate="20180430T182050Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Select&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Case&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDlg.Execute&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The listbox is supplied with the contents of the query, which have been stored in the array aContent() .</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181858Z" creationid="Elisabetta Manuele" creationdate="20180430T181858Z">
+        <seg>&lt;f0&gt;La casella di riepilogo riceve il contenuto della query, memorizzato nella matrice aContent() </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The listbox relates to &lt;/f0&gt;&lt;f1&gt;only one table and one field, as the argument array ends at Tablefield1 of the auxiliary table.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180534Z" creationid="Elisabetta Manuele" creationdate="20180430T180534Z">
@@ -9834,6 +9858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205904Z" creationid="Marco Marega" creationdate="20180326T205904Z">
         <seg>In seguito all'attivazione della seconda casella di riepilogo, in entrambe le caselle di riepilogo sono disponibili solo i campi vuoti e un valore visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After all fields with the desired content have been filled, the dialog is launched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182031Z" creationid="Elisabetta Manuele" creationdate="20180430T182031Z">
+        <seg>Dopo aver completato tutti i campi con il contenuto desiderato viene avviata la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19226,6 +19258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180104T172519Z" creationid="osvaldo" creationdate="20180103T215930Z">
         <seg>Nell'uso quotidiano, Base all'inizio &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;si apre &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;con la visualizzazione seguente.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In dialogs it is not possible for two fields to use the same name as this would create problems when evaluating the dialog.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181822Z" creationid="Elisabetta Manuele" creationdate="20180430T181822Z">
+        <seg>Nelle finestre di dialogo non è possibile assegnare lo stesso nome a due campi, in quanto sorgerebbero problemi durante la valutazione della finestra.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30354,6 +30394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153447Z" creationid="Marco Marega" creationdate="20180127T153447Z">
         <seg>Se necessario la lista dei campi può essere estesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The listbox contains only the content to be displayed as a field, so only the position &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is filled.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181943Z" creationid="Elisabetta Manuele" creationdate="20180430T181943Z">
+        <seg>e riporta solo il contenuto da visualizzare come campo, quindi viene compilata solo la posizione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
