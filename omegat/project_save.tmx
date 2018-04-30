@@ -6614,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If, when the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;subroutine&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is called, a second table name exists, the same query is launched for this table:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T175248Z" creationid="Elisabetta Manuele" creationdate="20180430T175248Z">
+        <seg>&lt;f0&gt;Se al richiamo della &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;subroutine&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è presente un secondo nome di tabella, per quest'ultima viene avviata la stessa query:&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to the&lt;/f0&gt; properties already listed on page &lt;bf1&gt;70&lt;/bf1&gt;, the following features are available:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T210722Z" creationid="Marco Marega" creationdate="20171026T210722Z">
@@ -31946,6 +31954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181145Z" creationid="Alessia Mazzarini" creationdate="20180411T172111Z">
         <seg>Di conseguenza, se formulata come sopra, la riga appare effettivamente dopo la decima posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then the loop ends.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174857Z" creationid="Elisabetta Manuele" creationdate="20180430T174857Z">
+        <seg>Poi il loop si conclude.</seg>
       </tuv>
     </tu>
     <tu>
