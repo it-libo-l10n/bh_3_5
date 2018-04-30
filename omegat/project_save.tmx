@@ -198,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'Case 1 means the "OK" button has been clicked</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182200Z" creationid="Elisabetta Manuele" creationdate="20180430T182200Z">
+        <seg>'Case 1 significa che è stato selezionato il pulsante "OK"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'Here the form name for the new form comes first, then the one for the old form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155611Z" creationid="Elisabetta Manuele" creationdate="20180412T155611Z">
         <seg>'Qui viene indicato prima il nome del nuovo formulario, poi compare il nome di quello precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'If it was the "Cancel" button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182249Z" creationid="Elisabetta Manuele" creationdate="20180430T182249Z">
+        <seg>'Nel caso fosse stato selezionato il pulsante "Annulla"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Case&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182214Z" creationid="Elisabetta Manuele" creationdate="20180430T182214Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Case&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Case&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182101Z" creationid="Elisabetta Manuele" creationdate="20180430T182101Z">
@@ -2834,6 +2858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150051Z" creationid="Elisabetta Manuele" creationdate="20180412T150051Z">
         <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;If&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Select&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182312Z" creationid="Elisabetta Manuele" creationdate="20180430T182312Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;(End)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Select&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,6 +3602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T201555Z" creationid="MicrosoftSucks" creationdate="20180327T201555Z">
         <seg>&lt;f0&gt;&lt;f1&gt;LIKE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, usato insieme a &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;%&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, significa che vengono visualizzati tutti i record che contengono il termine da ricercare in qualunque posizione al loro interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;LOOP&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;WHILE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inRepetition&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182319Z" creationid="Elisabetta Manuele" creationdate="20180430T182319Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;LOOP&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;WHILE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inRepetition&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,6 +4514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T145344Z" creationid="Marco Marega" creationdate="20180414T145344Z">
         <seg>&lt;f0&gt;&lt;f1&gt;inID&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oField.getCurrentValue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;()&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inRepetition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182255Z" creationid="Elisabetta Manuele" creationdate="20180430T182255Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inRepetition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16862,6 +16910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, in brief, is the content after the "OK" button is clicked:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182402Z" creationid="Elisabetta Manuele" creationdate="20180430T182402Z">
+        <seg>Ecco, in breve, il contenuto dopo aver selezionato il pulsante "OK":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here, it is just a matter of choosing which field the gender of the recipient should be taken from.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180525Z" creationid="Elisabetta Manuele" creationdate="20180307T180525Z">
@@ -29166,6 +29222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog runs repeatedly as long as the value of "inRepetition" is 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182336Z" creationid="Elisabetta Manuele" creationdate="20180430T182336Z">
+        <seg>La finestra di dialogo viene eseguita ripetutamente finché il valore di "inRepetition" è pari a 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dictionaries are available from the LibreOffice website at: &lt;/f7&gt;&lt;a8&gt;&lt;f9&gt;www.libreoffice.org&lt;/f9&gt;&lt;/a8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142620Z" creationid="Marina Latini" creationdate="20171213T142620Z">
@@ -33954,6 +34018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220007Z" creationid="Marco Marega" creationdate="20180126T220007Z">
         <seg>Nella Figura &lt;t0&gt;3&lt;/t0&gt; questa è rappresentata dalla tabella &lt;f1&gt;rel_Media_Author&lt;/f1&gt; table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is set by the corresponding checkbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182348Z" creationid="Elisabetta Manuele" creationdate="20180430T182348Z">
+        <seg>Questo viene impostato dalla casella di controllo corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
