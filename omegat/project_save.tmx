@@ -4086,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;When fields are processed using a particular function (for example &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;COUNT, SUM&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; …), all fields that are not processed with a function but should be displayed are grouped together using &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;GROUP BY&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T165606Z" creationid="manuel" creationdate="20180430T165606Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando i campi vengono modificati usando una particolare funzione (per esempio &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;COUNT, SUM&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; …), tutti i campi che non sono modificati con una funzione ma dovrebbero essere mostrati raggruppati insieme usando &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;GROUP BY&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When the database is in use, it can be damaged by operating system failure, if this occurs just as the Base file is being terminated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165450Z" creationid="Elisabetta Manuele" creationdate="20180412T165450Z">
