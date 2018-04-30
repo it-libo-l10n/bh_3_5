@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList2.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;() &lt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183116Z" creationid="Elisabetta Manuele" creationdate="20180430T183116Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList2.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;() &lt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;END&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;FUNCTION&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150321Z" creationid="Elisabetta Manuele" creationdate="20180412T150321Z">
@@ -15838,6 +15846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For two entries in different tables, two UPDATE-commands must be launched, which are created here simultaneously and forwarded, separated by a semicolon.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183108Z" creationid="Elisabetta Manuele" creationdate="20180430T183108Z">
+        <seg>Per due voci contenute in tabelle diverse, è necessario eseguire due comandi UPDATE, qui creati contemporaneamente e inoltrati, separati da un punto e virgola.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Form 1 is the form based on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T192034Z" creationid="MicrosoftSucks" creationdate="20180316T192034Z">
@@ -18514,6 +18530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155027Z" creationid="steevie" creationdate="20180205T155027Z">
         <seg>Se le tabelle vengono svuotate, in vista del normale uso o prima di passare il database ad altri, la chiave primaria continua &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ad&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; incrementare dal suo valore corrente invece che ripartire da zero.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the text field is empty and the listbox 2 contains a value, the value from listbox 1 must be replaced by the value in listbox 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183152Z" creationid="Elisabetta Manuele" creationdate="20180430T183152Z">
+        <seg>Se il campo di testo è vuoto e la casella di riepilogo 2 contiene un valore, il valore della casella di riepilogo 1 deve essere sostituito da quello della casella di riepilogo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31594,6 +31618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T204813Z" creationid="Marco Marega" creationdate="20171229T204813Z">
         <seg>Il secondo formulario secondario richiede più impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The separator is &lt;/f0&gt;&lt;f1&gt;&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183047Z" creationid="Elisabetta Manuele" creationdate="20180430T183047Z">
+        <seg>Il separatore è &lt;/f0&gt;&lt;f1&gt;&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
