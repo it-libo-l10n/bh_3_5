@@ -3270,10 +3270,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;8&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174521Z" creationid="Elisabetta Manuele" creationdate="20180430T174521Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;8&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;a_stPart&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202541Z" creationid="Marco Marega" creationdate="20180414T202541Z">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;a_stPart&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;8&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTable&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;inCount&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;0&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;THEN&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174534Z" creationid="Elisabetta Manuele" creationdate="20180430T174534Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;8&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTable&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;inCount&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;0&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;THEN&lt;/f25&gt;&lt;/f24&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,6 +4342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174602Z" creationid="Elisabetta Manuele" creationdate="20180430T174602Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;inCount&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.getInt&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170934Z" creationid="Elisabetta Manuele" creationdate="20180429T170934Z">
@@ -5166,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stAuxiltable&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;8&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174552Z" creationid="Elisabetta Manuele" creationdate="20180430T174552Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stAuxiltable&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;8&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stConten&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;t &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Trim&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;a_stPart&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;))&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T202540Z" creationid="Marco Marega" creationdate="20180414T202540Z">
@@ -5258,6 +5290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180915Z" creationid="Elisabetta Manuele" creationdate="20180429T180915Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab2Tab1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab2Tab1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inCount&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174543Z" creationid="Elisabetta Manuele" creationdate="20180430T174543Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab2Tab1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;inCount&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10482,6 +10522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124259Z" creationid="Marco Marega" creationdate="20180404T124259Z">
         <seg>Per quanto possibile, la ricerca dovrebbe essere strutturata in modo da poter essere conseguentemente modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As further values may need to be read in, the index is incremented to redimension the arrays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174806Z" creationid="Elisabetta Manuele" creationdate="20180430T174806Z">
+        <seg>Poiché potrebbe rendersi necessaria la lettura di altri valori, l'indice viene incrementato per ridimensionare le matrici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28818,6 +28866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T204902Z" creationid="Marco Marega" creationdate="20180325T204902Z">
         <seg>Il termine predefinito per identificare una macro è &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SUB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default entry for the auxiliary table therefore remains Postcode; finally the combination of postcode and town is a basis for the Address table, which contains a foreign key from the Postcode table.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174505Z" creationid="Elisabetta Manuele" creationdate="20180430T174505Z">
+        <seg>La voce predefinita per la tabella ausiliaria continua quindi ad essere Postcode; infine, la combinazione di codice postale e città costituisce la base della tabella Address, contenente una chiave esterna ricavata dalla tabella Postcode.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
