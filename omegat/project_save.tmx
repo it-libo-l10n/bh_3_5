@@ -11118,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the dialog is launched, first of all the content of the listboxes is determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180133Z" creationid="Elisabetta Manuele" creationdate="20180430T180133Z">
+        <seg>Prima dell'avvio della finestra di dialogo viene determinato innanzitutto il contenuto delle caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before the reading of the arrays begins, some default values must be set.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180938Z" creationid="Elisabetta Manuele" creationdate="20180429T180938Z">
@@ -11882,6 +11890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194656Z" creationid="Marco Marega" creationdate="20171125T194656Z">
         <seg>Le lettere maiuscole non vengono convertite in minuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Care must be taken if the listboxes represent two table fields and perhaps even are related to two different tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180426Z" creationid="Elisabetta Manuele" creationdate="20180430T180426Z">
+        <seg>Occorre assicurarsi che le caselle di riepilogo rappresentino due campi tabella e che siano eventualmente correlate a due tabelle diverse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12922,6 +12938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170328Z" creationid="Elisabetta Manuele" creationdate="20180412T170328Z">
         <seg>DIM &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;sUrl_start&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; AS STRING&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180023Z" creationid="Elisabetta Manuele" creationdate="20180430T180023Z">
+        <seg>DO</seg>
       </tuv>
     </tu>
     <tu>
@@ -31282,6 +31306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172809Z" creationid="steevie" creationdate="20180226T172809Z">
         <seg>Il server &lt;s1/&gt;considera le viste come interrogazioni locali complete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The setting for repetition takes place using the corresponding checkbox&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180015Z" creationid="Elisabetta Manuele" creationdate="20180430T180015Z">
+        <seg>L'impostazione per la ripetizione viene effettuata tramite la casella di controllo corrispondente.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
