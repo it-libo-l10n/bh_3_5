@@ -2734,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;DialogLibraries.LoadLibrary&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"Standard"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181607Z" creationid="Elisabetta Manuele" creationdate="20180430T181607Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;DialogLibraries.LoadLibrary&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"Standard"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dialogs are saved along &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;with&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; the modules for macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171623Z" creationid="Elisabetta Manuele" creationdate="20180429T171623Z">
@@ -4550,6 +4558,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCtlList1.addItems&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aContent&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(),&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181716Z" creationid="Elisabetta Manuele" creationdate="20180430T181716Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCtlList1.addItems&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aContent&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(),&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCtlList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDlg.GetControl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"ListBox1"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181709Z" creationid="Elisabetta Manuele" creationdate="20180430T181709Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCtlList1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oDlg.GetControl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"ListBox1"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oCtlView &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;=&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; oDocCrl.GetControl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFieldList&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195830Z" creationid="Marco Marega" creationdate="20180414T195830Z">
@@ -4634,6 +4658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T163503Z" creationid="Elisabetta Manuele" creationdate="20180412T162452Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDataSource&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ThisComponent.Parent.DataSource&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDlg&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CreateUnoDialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;DialogLibraries.Standard.Dialog_Table_purge&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181617Z" creationid="Elisabetta Manuele" creationdate="20180430T181617Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDlg&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CreateUnoDialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;DialogLibraries.Standard.Dialog_Table_purge&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222454Z" creationid="Marco Marega" creationdate="20180224T222454Z">
         <seg>&lt;f0&gt;ALTER TABLE "Address"&lt;/f0&gt;: Modifica la tabella denominata "Address".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Access to the fields of the dialog is accomplished by using &lt;/f0&gt;&lt;f1&gt;GetControl&lt;/f1&gt;&lt;f2&gt; with the appropriate name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181758Z" creationid="Elisabetta Manuele" creationdate="20180430T181758Z">
+        <seg>&lt;f0&gt;L'accesso ai campi della finestra di dialogo è consentito grazie a &lt;/f0&gt;&lt;f1&gt;GetControl&lt;/f1&gt;&lt;f2&gt; con il nome appropriato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16758,6 +16798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, for example, is the listbox which is to be supplied with the results of the above query:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181700Z" creationid="Elisabetta Manuele" creationdate="20180430T181700Z">
+        <seg>Di seguito, ad esempio, è riportata la casella di riepilogo da compilare con i risultati della query precedente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here, for example, the numeric field &lt;f0&gt;Extension&lt;/f0&gt; can be changed so that no decimal places are shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214235Z" creationid="Marco Marega" creationdate="20171213T214235Z">
@@ -22234,6 +22282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
         <seg>Nuovo database che utilizza il motore HSQL interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next come the settings for the fields of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181635Z" creationid="Elisabetta Manuele" creationdate="20180430T181635Z">
+        <seg>Seguono le impostazioni per i campi della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33314,6 +33370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T203719Z" creationid="Alessia Mazzarini" creationdate="20180315T202409Z">
         <seg>Questa finestra di dialogo corrisponde a quella che appare nella creazione formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is created first in memory, using the following lines, before it is actually drawn on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181541Z" creationid="Elisabetta Manuele" creationdate="20180430T181541Z">
+        <seg>La finestra di dialogo viene creata dapprima nella memoria, con le seguenti righe, prima di essere effettivamente visualizzata sullo schermo.</seg>
       </tuv>
     </tu>
     <tu>
