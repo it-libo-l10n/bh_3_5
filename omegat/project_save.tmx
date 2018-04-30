@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;aForeignTables&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oQuery_result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;1&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173943Z" creationid="Elisabetta Manuele" creationdate="20180430T173943Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;aForeignTables&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oQuery_result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;1&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;aForm&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;() =&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Split&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;stTag&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;,&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;","&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154758Z" creationid="Elisabetta Manuele" creationdate="20180412T154758Z">
@@ -7050,6 +7058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T091546Z" creationid="Alessia Mazzarini" creationdate="20180321T091035Z">
         <seg>L'&lt;f0&gt;intestazione Reader_Name&lt;/f0&gt;&lt;f1&gt; rappresenta l'intestazione dei dati raggruppati e ordinati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Reading the first field with the name of the table which contains the foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174005Z" creationid="Elisabetta Manuele" creationdate="20180430T174005Z">
+        <seg>&lt;f0&gt;Lettura del primo campo con il nome della tabella contenente la chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19022,6 +19038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to preserve the existing contents, they are backed up using (Preserve).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173936Z" creationid="Elisabetta Manuele" creationdate="20180430T173936Z">
+        <seg>Per preservarne il contenuto viene eseguito il backup tramite Preserve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases it can happen that precisely those records are displayed that you wished to exclude.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164339Z" creationid="Manuel Frassinetti" creationdate="20171130T180834Z">
@@ -30938,6 +30962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163704Z" creationid="Elisabetta Manuele" creationdate="20180403T163704Z">
         <seg>Il restante percorso della cartella e il nome del database sono stati omessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result for the Postcode table &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;i&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;s the Address table.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174126Z" creationid="Elisabetta Manuele" creationdate="20180430T174126Z">
+        <seg>Il risultato della tabella Postcode &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;è&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; la tabella Address.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
