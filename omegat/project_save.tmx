@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stText&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182743Z" creationid="Elisabetta Manuele" creationdate="20180430T182743Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stText&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; isMissing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;NameTab12ID&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; NameTab12ID &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;=&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T140329Z" creationid="Marco Marega" creationdate="20180414T140329Z">
@@ -6786,6 +6794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115719Z" creationid="manuel" creationdate="20180302T115719Z">
         <seg>&lt;f0&gt;Se le tabelle sono vincolate tramite un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;JOIN&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; anziché una virgola, la loro relazione viene definita dal termine che inizia con &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ON&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; che si verifica direttamente dopo la seconda tabella.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If the text field is not empty, the new value is written in place of the old one using the previously read ID field in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182955Z" creationid="Elisabetta Manuele" creationdate="20180430T182955Z">
+        <seg>&lt;f0&gt;Se il campo di testo non è vuoto, il nuovo valore viene scritto al posto di quello precedente tramite il campo ID letto inizialmente nella tabella. </seg>
       </tuv>
     </tu>
     <tu>
@@ -32506,6 +32522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175835Z" creationid="Elisabetta Manuele" creationdate="20180307T175835Z">
         <seg>Manca la formula introduttiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is the possibility of two entries, as is also the case in the listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183017Z" creationid="Elisabetta Manuele" creationdate="20180430T183017Z">
+        <seg>Come nel caso della casella di riepilogo, è possibile inserire due voci.</seg>
       </tuv>
     </tu>
     <tu>
