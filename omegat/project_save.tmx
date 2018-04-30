@@ -6774,6 +6774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;It runs identically except that the loop tests whether perhaps the first table name occurs as a foreign key table name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T175402Z" creationid="Elisabetta Manuele" creationdate="20180430T175402Z">
+        <seg>&lt;f0&gt;Viene eseguito in modo identico, con la sola differenza che il loop verifica se eventualmente il nome della prima tabella coincide con il nome di una tabella chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Item status changed&lt;/f0&gt;: This could be the change of the displayed content of a list box through the use of the drop-down button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213954Z" creationid="Marco Marega" creationdate="20171101T213954Z">
