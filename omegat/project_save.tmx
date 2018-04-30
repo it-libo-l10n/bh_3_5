@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180440Z" creationid="Elisabetta Manuele" creationdate="20180430T180440Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;UBound&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;8&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174521Z" creationid="Elisabetta Manuele" creationdate="20180430T174521Z">
@@ -5526,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;""" FROM """&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;5&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;""" ORDER BY """&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;6&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""""&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180557Z" creationid="Elisabetta Manuele" creationdate="20180430T180557Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;6&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;""" FROM """&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;5&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;""" ORDER BY """&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;6&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""""&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT ""FKTABLE_NAME"", ""FKCOLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_CROSSREFERENCE"" WHERE ""PKTABLE_NAME"" = '"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(5) + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"'"&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180349Z" creationid="Elisabetta Manuele" creationdate="20180429T180349Z">
@@ -7626,6 +7642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
         <seg>&lt;f0&gt;Le condizioni di relazione devono essere aperte per la modifica per visualizzare tutti i record desiderati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The listbox relates to &lt;/f0&gt;&lt;f1&gt;only one table and one field, as the argument array ends at Tablefield1 of the auxiliary table.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180534Z" creationid="Elisabetta Manuele" creationdate="20180430T180534Z">
+        <seg>&lt;f0&gt;La casella di riepilogo è correlata a &lt;/f0&gt;&lt;f1&gt;una sola tabella e a un solo campo, poiché la matrice di argomenti termina in Tablefield1 della tabella ausiliaria.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
