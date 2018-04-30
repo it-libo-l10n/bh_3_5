@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2952,8 +2952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;THEN&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170914Z" creationid="Elisabetta Manuele" creationdate="20180429T170914Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;SE NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;THEN&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173459Z" creationid="Elisabetta Manuele" creationdate="20180429T170914Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF NOT ISNULL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;THEN&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4986,6 +4986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T170622Z" creationid="Elisabetta Manuele" creationdate="20180429T170622Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oSQL_Statement.executeQuery&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oSQL_Statement.executeQuery&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173442Z" creationid="Elisabetta Manuele" creationdate="20180430T173442Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oQuery_result&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oSQL_Statement.executeQuery&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;stSql&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7622,6 +7630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The table for the first field (Postcode), is linked to the second table by a foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173251Z" creationid="Elisabetta Manuele" creationdate="20180430T173251Z">
+        <seg>&lt;f0&gt;La tabella del primo campo (Postcode), è collegata alla seconda mediante una chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The table for the search content may be the same one that already contains the filter values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T184754Z" creationid="MicrosoftSucks" creationdate="20180316T184754Z">
@@ -9810,6 +9826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175305Z" creationid="Manuel Frassinetti" creationdate="20171216T175305Z">
         <seg>Tutti gli altri record di dati sono esclusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All primary keys are by default called ID in the example database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173329Z" creationid="Elisabetta Manuele" creationdate="20180430T173329Z">
+        <seg>Tutte le chiavi primarie per impostazione predefinita sono denominate ID nel database di esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19734,6 +19758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same way the macro must access each table with which the content of the listbox is connected by a foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173417Z" creationid="Elisabetta Manuele" creationdate="20180430T173417Z">
+        <seg>Allo stesso modo la macro deve avere possibilità di accesso ad ogni tabella alla quale il contenuto della casella di riepilogo è collegato tramite chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the same way you can create entries for the masculine gender and for missing entries for the two remaining types of salutation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123845Z" creationid="Elisabetta Manuele" creationdate="20180308T123845Z">
@@ -22894,6 +22926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the information from these two tables and the Postcode and Town fields is passed to the macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173313Z" creationid="Elisabetta Manuele" creationdate="20180430T173313Z">
+        <seg>Solo le informazioni ricavate da queste due tabelle e dai campi Postcode e Town (Codice postale e Città) vengono trasferite alla macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the main form still has the name of &lt;f1&gt;MainForm&lt;/f1&gt; given to it by the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T143218Z" creationid="Marco Marega" creationdate="20171231T143218Z">
@@ -24914,6 +24954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065616Z" creationid="manuel" creationdate="20180427T064547Z">
         <seg>SELECT "Nome", SUM("dato"-"uscita") AS "saldo" FROM "Tabella1" GROUP BY "Nome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Postcode"."Postcode" || ' &gt; ' || "Town"."Town" FROM "Postcode", "Town" WHERE "Postcode"."Town_ID" = "Town"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173228Z" creationid="Elisabetta Manuele" creationdate="20180430T173228Z">
+        <seg>SELECT "Postcode"."Postcode" || ' &gt; ' || "Town"."Town" FROM "Postcode", "Town" WHERE "Postcode"."Town_ID" = "Town"."ID"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29378,6 +29426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T160342Z" creationid="Alessia Mazzarini" creationdate="20180323T192928Z">
         <seg>Il piè di pagina è impostato in modo da essere seguito, dopo questa area, da un'interruzione di pagina aggiuntiva .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The foreign key of Town in Postcode&lt;/f0&gt;&lt;f1&gt; must therefore be determined using the macro.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173354Z" creationid="Elisabetta Manuele" creationdate="20180430T173354Z">
+        <seg>La chiave esterna di Town, in Postcode&lt;/f0&gt;&lt;f1&gt;, deve quindi essere determinata mediante la macro.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
