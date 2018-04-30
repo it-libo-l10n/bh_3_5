@@ -3574,6 +3574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ReDim Preserve&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; aForeignTable&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;inCount&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;0&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;to&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;1&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173523Z" creationid="Elisabetta Manuele" creationdate="20180430T173523Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ReDim Preserve&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; aForeignTable&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;inCount&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;0&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;to&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;1&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Preserve&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;arContent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;inI&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210143Z" creationid="Marco Marega" creationdate="20180328T210143Z">
@@ -4090,6 +4098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210141Z" creationid="Marco Marega" creationdate="20180328T210141Z">
         <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.next&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;next&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173514Z" creationid="Elisabetta Manuele" creationdate="20180430T173514Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oQuery_result.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;next&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28106,6 +28122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154820Z" creationid="Elisabetta Manuele" creationdate="20180412T154820Z">
         <seg>La matrice viene dichiarata e compilata con i nomi dei formulari, prima con quello da aprire, poi con quello in uso, che verrà chiuso all'apertura dell'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The array must be freshly dimensioned each time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173909Z" creationid="Elisabetta Manuele" creationdate="20180430T173909Z">
+        <seg>Ogni volta la matrice deve essere nuovamente quotata.</seg>
       </tuv>
     </tu>
     <tu>
