@@ -15390,6 +15390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For stForeignIDTab1Tab2 evaluation of the previous query yields a different value, namely the value of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;To&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;wn&lt;/f3&gt;&lt;f4&gt;_&lt;/f4&gt;&lt;f5&gt;ID&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181315Z" creationid="Elisabetta Manuele" creationdate="20180430T181315Z">
+        <seg>Nel caso di stForeignIDTab1Tab2 la valutazione della query precedente produce un valore diverso, ovvero il valore di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;To&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;wn&lt;/f3&gt;&lt;f4&gt;_&lt;/f4&gt;&lt;f5&gt;ID&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For such purposes, the data to be searched for are better collected by using a query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173327Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
@@ -20214,6 +20222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way the previous query construction yields exactly the content already formulated for postcode and town – only enhanced by sorting.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181417Z" creationid="Elisabetta Manuele" creationdate="20180430T181417Z">
+        <seg>In questo modo la compilazione della query precedente produce esattamente il contenuto già formulato per il codice postale e la città, migliorato solo grazie all'ordinamento.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way you can work on all the fields, one after another, without having to save in between.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214628Z" creationid="Marco Marega" creationdate="20171213T214628Z">
@@ -22578,6 +22594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T210149Z" creationid="MicrosoftSucks" creationdate="20180327T210149Z">
         <seg>Ora otteniamo l'eta' in anni corretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now we must make contact with the listboxes, to supply them with the content returned by the queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181436Z" creationid="Elisabetta Manuele" creationdate="20180430T181436Z">
+        <seg>Ora è necessario creare un contatto con le caselle di riepilogo, per dotarle del contenuto restituito dalle query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31966,6 +31990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The variables stForeignIDTab2Tab1 and stForeignIDTab1Tab2 start with the value ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181205Z" creationid="Elisabetta Manuele" creationdate="20180430T181205Z">
+        <seg>Le variabili stForeignIDTab2Tab1 e stForeignIDTab1Tab2 iniziano con l'ID del valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The variant shown below replaces the &lt;f7&gt;S&lt;/f7&gt;ave button and reads the listboxes again, so that a chosen filter from one listbox can restrict the choices available in the other listbox.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T213022Z" creationid="Marco Marega" creationdate="20180325T213022Z">
@@ -32554,6 +32586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165615Z" creationid="Elisabetta Manuele" creationdate="20180403T165615Z">
         <seg>Queste righe vanno sostituite da una connessione a un database esterno, in questo caso denominato &lt;f0&gt;Union&lt;/f0&gt;, nella cartella &lt;f1&gt;hsqldb_data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These listboxes do not yet exist, since the dialog itself has not yet been created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181501Z" creationid="Elisabetta Manuele" creationdate="20180430T181501Z">
+        <seg>Queste caselle di riepilogo non esistono ancora poiché la finestra di dialogo non è stata ancora creata.</seg>
       </tuv>
     </tu>
     <tu>
