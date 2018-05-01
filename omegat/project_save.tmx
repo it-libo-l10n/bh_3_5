@@ -10838,6 +10838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As long as the month of the birth date is greater than the current month, the year difference function will subtract one year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T144152Z" creationid="MicrosoftSucks" creationdate="20180501T144152Z">
+        <seg>Finche' il mese della data di nascita e' maggiore del mese corrente, la funzione che calcola la differenza fra gli anni sottrae un anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142348Z" creationid="Marina Latini" creationdate="20171213T142348Z">
