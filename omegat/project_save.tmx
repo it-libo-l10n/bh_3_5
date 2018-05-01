@@ -17518,6 +17518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, they do not tell you definitely how many records are present in the database or are actually available to be queried.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T154355Z" creationid="MicrosoftSucks" creationdate="20180501T154355Z">
+        <seg>Tuttavia i numeri non indicano con precisione quanti record sono presenti nel database o sono effettivamente disponibili ad essere interrogati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, this field contains only 0 or 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170935Z" creationid="manuel" creationdate="20180301T170935Z">
