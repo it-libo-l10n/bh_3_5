@@ -17174,6 +17174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However balances are usually calculated on a daily basis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150735Z" creationid="MicrosoftSucks" creationdate="20180501T150735Z">
+        <seg>Pero' il saldo di solito e' calcolato su base quotidiana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However direct entry into tables should be carried out with caution in very complex relational databases, as the tables are linked together with foreign keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182400Z" creationid="Elisabetta Manuele" creationdate="20180306T182400Z">
@@ -26734,6 +26742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So we need a date query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150819Z" creationid="MicrosoftSucks" creationdate="20180501T150819Z">
+        <seg>Percio' abbiamo bisogno di una query temporale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So you haven't to scroll to long through the list to find somebody.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T212126Z" creationid="Marco Marega" creationdate="20171101T212126Z">
@@ -31458,6 +31474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
         <seg>La query costruita dalla procedura guidata è così strutturata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query depends on the automatically created primary key "ID" to calculate the state of the account.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150650Z" creationid="MicrosoftSucks" creationdate="20180501T150650Z">
+        <seg>La query dipende dalla chiave primaria "ID" creata automaticamente per calcolare lo stato del conto.</seg>
       </tuv>
     </tu>
     <tu>
