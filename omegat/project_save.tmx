@@ -7694,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The code above &lt;/f0&gt;&lt;f1&gt;achieves this goal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T143921Z" creationid="MicrosoftSucks" creationdate="20180501T143921Z">
+        <seg>&lt;f0&gt;Il codice precedente &lt;/f0&gt;&lt;f1&gt;ottiene questo obiettivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The code is further complicated by the fact that, as well as requiring duplicate quotation marks, some of the included table fields are entered as variables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152112Z" creationid="Marco Marega" creationdate="20180414T152112Z">
@@ -15542,6 +15550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For persons born after &lt;f0&gt;28 &lt;/f0&gt;Februa&lt;f1&gt;ry&lt;/f1&gt;, there will be an error of one day.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T143715Z" creationid="MicrosoftSucks" creationdate="20180501T143715Z">
+        <seg>Per le persone nate dopo il &lt;f0&gt;28 &lt;/f0&gt;Febbra&lt;f1&gt;io&lt;/f1&gt;, si verifichera' l'errore di un giorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For recall notices, you would probably want the group to be arranged so that a separate page is printed for each person who is to receive a recall letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T084338Z" creationid="Alessia Mazzarini" creationdate="20180321T084338Z">
@@ -22658,6 +22674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180945Z" creationid="Elisabetta Manuele" creationdate="20180307T180945Z">
         <seg>Normalmente il documento è inizialmente un abbozzo approssimativo, modificabile ulteriormente in un secondo tempo all'interno di Writer. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a serious problem in everyday use, but should we not strive for accuracy?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T143825Z" creationid="MicrosoftSucks" creationdate="20180501T143825Z">
+        <seg>Niente di male nell'uso quotidiano, ma il nostro obiettivo non e' l'accuratezza?</seg>
       </tuv>
     </tu>
     <tu>
