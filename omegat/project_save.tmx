@@ -28678,6 +28678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The age is now given accurately even in leap years and the query still remains editable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T145129Z" creationid="MicrosoftSucks" creationdate="20180501T145129Z">
+        <seg>L'eta' viene specificata correttamente anche per gli anni bisestili e inoltre la query resta modificabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The aim is to deliver, in response to free language search terms, a resulting list of records that may only partially contain these actual terms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T183007Z" creationid="MicrosoftSucks" creationdate="20180316T183007Z">
@@ -36930,6 +36938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171436Z" creationid="Elisabetta Manuele" creationdate="20180403T171436Z">
         <seg>Con questi dati di accesso, il server può essere caricato sul computer in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this formulation, the GUI no longer reacts with an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T145014Z" creationid="MicrosoftSucks" creationdate="20180501T145014Z">
+        <seg>Con questo codice, la GUI non reagisce piu' con un messaggio di errore.</seg>
       </tuv>
     </tu>
     <tu>
