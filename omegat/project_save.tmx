@@ -33758,6 +33758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an editable query in which, in addition to the entry fields (Date, Amount, Acct_ID), the account name, the relevant balance, and the total balance appear together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T152145Z" creationid="MicrosoftSucks" creationdate="20180501T152145Z">
+        <seg>Questa procedura crea una query modificabile nella quale, oltre ai campi di introduzione dati (Data, Ammontare, ID_Conto), compaiono anche il nome del conto, il saldo relativo ed il saldo totale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This creates the connection and the database becomes accessible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164200Z" creationid="Elisabetta Manuele" creationdate="20180403T164200Z">
