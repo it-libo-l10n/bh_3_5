@@ -270,10 +270,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>( SELECT SUM( "Amount" ) FROM "Cash" WHERE "Date" &lt;= "a"."Date" ) AS "Total_balance"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151847Z" creationid="MicrosoftSucks" creationdate="20180501T151847Z">
+        <seg>( SELECT SUM( "Ammontare" ) FROM "Contante" WHERE "Data" &lt;= "a"."Data" ) AS "Saldo_Totale"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( SELECT SUM( "Amount" ) FROM "Cash" WHERE "Date" &lt;= "a"."Date" AND "Acct_ID" = "a"."Acct_ID" ) AS "Balance",</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151535Z" creationid="MicrosoftSucks" creationdate="20180501T151535Z">
-        <seg>( SELECT SUM( "Ammontare" ) FROM "Denaro" WHERE "Date" &lt;= "a"."Date" AND "Acct_ID" = "a"."Acct_ID" ) AS "Balance",</seg>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151802Z" creationid="MicrosoftSucks" creationdate="20180501T151535Z">
+        <seg>( SELECT SUM( "Ammontare" ) FROM "Contante" WHERE "Data" &lt;= "a"."Data" AND "ID_Conto" = "a"."ID_Conto" ) AS "Saldo",</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,6 +14502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FROM "Cash" AS "a" ORDER BY "Date", "ID" ASC</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151907Z" creationid="MicrosoftSucks" creationdate="20180501T151907Z">
+        <seg>FROM "Contante" AS "a" ORDER BY "Data", "ID" ASC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FROM "Table_list"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145523Z" creationid="manuel" creationdate="20180224T145523Z">
@@ -25576,8 +25592,8 @@
       <tuv lang="EN">
         <seg>SELECT "ID", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "ID" &lt;= "a"."ID" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "ID" ASC</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150440Z" creationid="MicrosoftSucks" creationdate="20180501T150440Z">
-        <seg>SELECT "ID", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Denaro" WHERE "ID" &lt;= "a"."ID" ) AS "Saldo" FROM "Denaro" AS "a" ORDER BY "ID" ASC</seg>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151620Z" creationid="MicrosoftSucks" creationdate="20180501T150440Z">
+        <seg>SELECT "ID", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Contante" WHERE "ID" &lt;= "a"."ID" ) AS "Saldo" FROM "Contante" AS "a" ORDER BY "ID" ASC</seg>
       </tuv>
     </tu>
     <tu>
@@ -25592,8 +25608,8 @@
       <tuv lang="EN">
         <seg>SELECT "ID", "Date", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "Date" &lt;= "a"."Date" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "Date", "ID" ASC</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150953Z" creationid="MicrosoftSucks" creationdate="20180501T150953Z">
-        <seg>SELECT "ID", "Data", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Denaro" WHERE "Data" &lt;= "a"."Data" ) AS "Saldo" FROM "Denaro" AS "a" ORDER BY "Data", "ID" ASC</seg>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151656Z" creationid="MicrosoftSucks" creationdate="20180501T150953Z">
+        <seg>SELECT "ID", "Data", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Contante" WHERE "Data" &lt;= "a"."Data" ) AS "Saldo" FROM "Contante" AS "a" ORDER BY "Data", "ID" ASC</seg>
       </tuv>
     </tu>
     <tu>
