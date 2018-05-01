@@ -11582,6 +11582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But the query needs to be editable, so here &lt;/f5&gt;&lt;f6&gt;i&lt;/f6&gt;&lt;f7&gt;s how to trick the GUI:&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T144913Z" creationid="MicrosoftSucks" creationdate="20180501T144913Z">
+        <seg>Ma la query deve essere modificabile, percio' ecco &lt;/f5&gt;&lt;f6&gt;c&lt;/f6&gt;&lt;f7&gt;ome ingannare la GUI:&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But this 0 is reserved for the displayed value, in the above example the &lt;f3&gt;Surname&lt;/f3&gt;, while the 1 refers to the &lt;f4&gt;ID &lt;/f4&gt;field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210836Z" creationid="Marco Marega" creationdate="20171101T210836Z">
@@ -23314,6 +23322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221124Z" creationid="Marco Marega" creationdate="20180126T221124Z">
         <seg>Relazioni uno a uno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only &lt;/f1&gt;&lt;f2&gt;'Direct &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SQL-Command'&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; will handle this query successfully and that would prevent our query from being edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T144712Z" creationid="MicrosoftSucks" creationdate="20180501T144712Z">
+        <seg>Soltanto il comando &lt;/f1&gt;&lt;f2&gt;'Comando-SQL &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Diretto'&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; eseguira' correttamente questa query e cio' impedira' alla nostra query di essere modificata.</seg>
       </tuv>
     </tu>
     <tu>
