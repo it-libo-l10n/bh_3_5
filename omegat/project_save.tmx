@@ -11110,6 +11110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the same time the query remains editable because the "Balance" field is created through a correlating sub-query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150244Z" creationid="MicrosoftSucks" creationdate="20180501T150244Z">
+        <seg>Contemporaneamente la query resta modificabile perche' il campo "Saldo" e' creato attraverso una sottoquery correlata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time you can choose the Sort order.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140656Z" creationid="Marco Marega" creationdate="20180218T140656Z">
@@ -34602,6 +34610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211249Z" creationid="Marco Marega" creationdate="20171216T211249Z">
         <seg>Questo previene la visualizzazione dei supporti che sono già stati restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query causes for each new record a direct calculation of the current account balance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150006Z" creationid="MicrosoftSucks" creationdate="20180501T150006Z">
+        <seg>Questa query esegue il calcolo diretto del saldo corrente per ogni nuovo record.</seg>
       </tuv>
     </tu>
     <tu>
