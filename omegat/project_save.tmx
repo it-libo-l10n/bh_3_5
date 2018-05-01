@@ -10430,6 +10430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alterations to a previous record are initially detectable only in that record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T152700Z" creationid="MicrosoftSucks" creationdate="20180501T152700Z">
+        <seg>Modifiche ad un record introdotto in precedenza sono inizialmente rilevabili solo nel record stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively CASE WHEN can be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100741Z" creationid="Elisabetta Manuele" creationdate="20180403T100741Z">
@@ -11194,6 +11202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165612Z" creationid="Marina Latini" creationdate="20171206T165612Z">
         <seg>Aggiornamento automatico dei formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically incrementing fields are fine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T152846Z" creationid="MicrosoftSucks" creationdate="20180501T152846Z">
+        <seg>L'incremento automatico dei campi va bene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31562,6 +31578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211659Z" creationid="Marco Marega" creationdate="20171101T211641Z">
         <seg>La query è la più semplice possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query must be updated if later calculations dependent on it are to be carried out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T152800Z" creationid="MicrosoftSucks" creationdate="20180501T152800Z">
+        <seg>La query deve essere aggiornata se si vogliono eseguire ulteriori calcoli dipendenti da essa.</seg>
       </tuv>
     </tu>
     <tu>
