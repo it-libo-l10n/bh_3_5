@@ -14182,6 +14182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equally one year will be subtracted when the two months are the same, but the day of the month for the birth date is greater than the day in the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T144338Z" creationid="MicrosoftSucks" creationdate="20180501T144338Z">
+        <seg>Allo stesso modo viene sottratto un anno quando i due mesi sono gli stessi, ma il giorno della data di nascita e' maggiore del giorno della data corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error message for an empty field that was defined as a number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180418T170658Z" creationid="Alessia Mazzarini" creationdate="20180403T153947Z">
@@ -35738,6 +35746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214026Z" creationid="Marco Marega" creationdate="20171226T214026Z">
         <seg>Sfortunatamente quest'ordine di visualizzazione non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately this formula is not comprehensible to the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T144423Z" creationid="MicrosoftSucks" creationdate="20180501T144423Z">
+        <seg>Sfortunatamente questa formula e' incomprensibile nella GUI.</seg>
       </tuv>
     </tu>
     <tu>
