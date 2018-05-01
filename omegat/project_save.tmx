@@ -25566,6 +25566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Date", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "Date" &lt;= "a"."Date" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "Date", "ID" ASC</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150953Z" creationid="MicrosoftSucks" creationdate="20180501T150953Z">
+        <seg>SELECT "ID", "Data", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Denaro" WHERE "Data" &lt;= "a"."Data" ) AS "Saldo" FROM "Denaro" AS "a" ORDER BY "Data", "ID" ASC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
@@ -29554,6 +29562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T201237Z" creationid="Marco Marega" creationdate="20171210T201237Z">
         <seg>L'esempio di un formulario semplice per i prestiti della libreria viene qui illustrato usando diverse varianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The expenditure now appears sorted and summed by date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151112Z" creationid="MicrosoftSucks" creationdate="20180501T151112Z">
+        <seg>Le spese compaiono ora ordinate per data e con relativi totali.</seg>
       </tuv>
     </tu>
     <tu>
