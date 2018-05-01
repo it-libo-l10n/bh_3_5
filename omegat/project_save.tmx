@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9410,6 +9410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T153206Z" creationid="Marco Marega" creationdate="20171231T153206Z">
         <seg>Un formulario secondario subordinato a questo con un campo di controllo tabella non verrà compreso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A subtle objection might now arise: "What about leap years?".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T143444Z" creationid="MicrosoftSucks" creationdate="20180501T143444Z">
+        <seg>A questo punto sorge una sottile obiezione: "E gli anni bisestili?".</seg>
       </tuv>
     </tu>
     <tu>
