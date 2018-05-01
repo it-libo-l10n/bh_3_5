@@ -24646,6 +24646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Records are often deleted and many users try in vain to determine which numbers are no longer present in order to make the running number match up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T154610Z" creationid="MicrosoftSucks" creationdate="20180501T154610Z">
+        <seg>I record sono spesso eliminati e molti utenti tentano invano di determinare quali numeri non sono piu' presenti in modo da allineare il numero progressivo al numero di record effettivamente presenti nel database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Records with a return date should not appear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225341Z" creationid="Marco Marega" creationdate="20171214T225341Z">
