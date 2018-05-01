@@ -25550,6 +25550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "ID" &lt;= "a"."ID" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "ID" ASC</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150440Z" creationid="MicrosoftSucks" creationdate="20180501T150440Z">
+        <seg>SELECT "ID", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Denaro" WHERE "ID" &lt;= "a"."ID" ) AS "Saldo" FROM "Denaro" AS "a" ORDER BY "ID" ASC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
