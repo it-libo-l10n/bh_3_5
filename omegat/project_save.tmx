@@ -10950,6 +10950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the correlating subqueries are partially based on previous entries ("Date" &lt;= "a"."Date") only new entries will go through smoothly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T152557Z" creationid="MicrosoftSucks" creationdate="20180501T152557Z">
+        <seg>Dal momento che le sottoquery correlate sono parzialmente basate su dati introdotti in precedenza ("Data" &lt;= "a"."Data") solo dati nuovi saranno introdotti senza problemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the data &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in a spreadsheet &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;is laid out in a table view, plainly visible and able to be edited or added to, many users ask why they should use a database instead of a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190931Z" creationid="osvaldo" creationdate="20171012T190853Z">
