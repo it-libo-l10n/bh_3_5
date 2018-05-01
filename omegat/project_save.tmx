@@ -8222,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;W&lt;/f0&gt;e want most of these details to be immediately visible in the database, &lt;f1&gt;s&lt;/f1&gt;o our example assumes that income and expenditure will be stored as signed values in one field called Amount.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T145649Z" creationid="MicrosoftSucks" creationdate="20180501T145649Z">
+        <seg>&lt;f0&gt;V&lt;/f0&gt;ogliamo che la maggior parte di questi dettagli siano immediatamente visibili nel database, &lt;f1&gt;p&lt;/f1&gt;ercio' nel nostro esempio memorizzeremo entrate e uscite come valori con segno in un campo chiamato Ammontare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When a field is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associated with a function, &lt;/f3&gt;&lt;f4&gt;the number of rows in the query output is determined by the search conditions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181031Z" creationid="Manuel Frassinetti" creationdate="20171214T181031Z">
@@ -19654,6 +19662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In principle, the whole thing can be expanded to cover separate fields and a relevant summation for each.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T145846Z" creationid="MicrosoftSucks" creationdate="20180501T145846Z">
+        <seg>In linea di principio l'intera procedura puo' essere estesa a coprire campi separati con appropriati totali per ciascuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In principle, this other field must also match the primary key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202220Z" creationid="Marco Marega" creationdate="20180327T202220Z">
@@ -20698,6 +20714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215746Z" creationid="Marco Marega" creationdate="20171217T214901Z">
         <seg>Al posto del testo “&lt;f0&gt;Loaned Media of the chosen Reader&lt;/f0&gt;” (Supporti in prestito all'utente selezionato), sarebbe preferibile avere il nome dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of using a household book, a database on a PC can simplify the tiresome business of adding up expenses for food, clothing, transport and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T145337Z" creationid="MicrosoftSucks" creationdate="20180501T145337Z">
+        <seg>Invece di usare un registro cartaceo, un database su di un PC puo' semplificare il tedioso compito di registrare le spese per vitto, abbigliamento, trasporto e cosi' via.</seg>
       </tuv>
     </tu>
     <tu>
