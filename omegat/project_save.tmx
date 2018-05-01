@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>( SELECT "Acct" FROM "Acct" WHERE "ID" = "a"."Acct_ID" ) AS "Acct_name",</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151450Z" creationid="MicrosoftSucks" creationdate="20180501T151450Z">
+        <seg>( SELECT "Conto" FROM "Conto" WHERE "ID" = "a"."ID_Conto" ) AS "Nome_Conto",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" ) )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200207Z" creationid="Marco Marega" creationdate="20180327T200207Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200205Z" creationid="Marco Marega" creationdate="20180327T200205Z">
         <seg>( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table" WHERE "ID" IN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>( SELECT SUM( "Amount" ) FROM "Cash" WHERE "Date" &lt;= "a"."Date" AND "Acct_ID" = "a"."Acct_ID" ) AS "Balance",</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151535Z" creationid="MicrosoftSucks" creationdate="20180501T151535Z">
+        <seg>( SELECT SUM( "Ammontare" ) FROM "Denaro" WHERE "Date" &lt;= "a"."Date" AND "Acct_ID" = "a"."Acct_ID" ) AS "Balance",</seg>
       </tuv>
     </tu>
     <tu>
@@ -25566,6 +25582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Date", "Amount", "Acct_ID",</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151357Z" creationid="MicrosoftSucks" creationdate="20180501T151309Z">
+        <seg>SELECT "ID", "Data", "Ammontare", "ID_Conto",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Date", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "Date" &lt;= "a"."Date" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "Date", "ID" ASC</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T150953Z" creationid="MicrosoftSucks" creationdate="20180501T150953Z">
@@ -32730,6 +32754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T220558Z" creationid="Marco Marega" creationdate="20171229T220558Z">
         <seg>Dev'essere un modo per poter semplificare questo aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There still remains the question of the category, since we want corresponding balances for the individual categories of expenditure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151250Z" creationid="MicrosoftSucks" creationdate="20180501T151250Z">
+        <seg>Resta da chiarire la questione della categoria, dal momento che vogliamo i saldi corrispondenti a ciascuna categoria di spesa.</seg>
       </tuv>
     </tu>
     <tu>
