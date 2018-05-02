@@ -20406,6 +20406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the query, all key fields are searched which collectively have the property UNIQUE or were defined as foreign keys with the UNIQUE property using an index.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T094926Z" creationid="Elisabetta Manuele" creationdate="20180502T094926Z">
+        <seg>Nella query vengono cercati tutti i campi chiave che possiedono la proprietà comune UNIQUE o che sono stati definiti come chiavi esterne con la proprietà UNIQUE tramite un indice.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the report itself, the age distributions of male and female members are listed in tabular form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T145348Z" creationid="Alessia Mazzarini" creationdate="20180328T145348Z">
@@ -26872,8 +26880,8 @@
       <tuv lang="EN">
         <seg>So in the table rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author a medium cannot &lt;s5/&gt;have the same author twice because the primary key is constructed from Media&lt;/f4&gt;&lt;f6&gt;_&lt;/f6&gt;&lt;f7&gt;ID and Author&lt;/f7&gt;&lt;f8&gt;_&lt;/f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T094416Z" creationid="Elisabetta Manuele" creationdate="20180502T093017Z">
-        <seg>Quindi nella tabella rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author non è possibile che lo &lt;s5/&gt;stesso autore compaia due volte in un supporto, poiché la chiave primaria è stata creata a partire da Media&lt;/f4&gt;&lt;f6&gt;_&lt;/f6&gt;&lt;f7&gt;ID e Author&lt;/f7&gt;&lt;f8&gt;_ ID.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T094437Z" creationid="Elisabetta Manuele" creationdate="20180502T093017Z">
+        <seg>Quindi nella tabella rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author non è possibile che lo &lt;s5/&gt;stesso autore compaia due volte in un supporto, poiché la chiave primaria è stata creata a partire da Media&lt;/f4&gt;&lt;f6&gt;_&lt;/f6&gt;&lt;f7&gt;ID e Author&lt;/f7&gt;&lt;f8&gt;_&lt;/f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
     </tu>
     <tu>
