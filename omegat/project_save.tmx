@@ -26872,8 +26872,8 @@
       <tuv lang="EN">
         <seg>So in the table rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author a medium cannot &lt;s5/&gt;have the same author twice because the primary key is constructed from Media&lt;/f4&gt;&lt;f6&gt;_&lt;/f6&gt;&lt;f7&gt;ID and Author&lt;/f7&gt;&lt;f8&gt;_&lt;/f8&gt;&lt;f9&gt;ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T093017Z" creationid="Elisabetta Manuele" creationdate="20180502T093017Z">
-        <seg>Quindi nella tabella rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author non è possibile che lo &lt;s5/&gt;stesso autore compaia due volte in un supporto, poiché la chiave primaria è stata creata a partire da Media_ID e Author_ID.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T094416Z" creationid="Elisabetta Manuele" creationdate="20180502T093017Z">
+        <seg>Quindi nella tabella rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author non è possibile che lo &lt;s5/&gt;stesso autore compaia due volte in un supporto, poiché la chiave primaria è stata creata a partire da Media&lt;/f4&gt;&lt;f6&gt;_&lt;/f6&gt;&lt;f7&gt;ID e Author&lt;/f7&gt;&lt;f8&gt;_ ID.</seg>
       </tuv>
     </tu>
     <tu>
