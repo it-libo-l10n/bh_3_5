@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'... and remove from storage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110403Z" creationid="Elisabetta Manuele" creationdate="20180502T110403Z">
+        <seg>'... ed eliminare dall'archivio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'Case 1 means the "OK" button has been clicked</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182200Z" creationid="Elisabetta Manuele" creationdate="20180430T182200Z">
@@ -216,8 +224,8 @@
       <tuv lang="EN">
         <seg>'End dialog ...</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110314Z" creationid="Elisabetta Manuele" creationdate="20180502T110314Z">
-        <seg>'Termine finestra di dialogo ...</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110338Z" creationid="Elisabetta Manuele" creationdate="20180502T110314Z">
+        <seg>'Terminare finestra di dialogo ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDlg.Dispose&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110320Z" creationid="Elisabetta Manuele" creationdate="20180502T110320Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDlg.Dispose&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oDlg.endExecute&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110113Z" creationid="Elisabetta Manuele" creationdate="20180502T110113Z">
@@ -6578,6 +6594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T171247Z" creationid="Alessia Mazzarini" creationdate="20180314T184619Z">
         <seg>&lt;f0&gt;A seconda della versione di LibreOffice usata, il Report Builder potrebbe qualche volta arrestarsi in maniera anomala &lt;/f0&gt;&lt;f1&gt;durante le modifiche.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Dialogs are terminated with the endExecute() command and completely removed from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;memory&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; with Dispose().&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110523Z" creationid="Elisabetta Manuele" creationdate="20180502T110523Z">
+        <seg>&lt;f0&gt;Le finestre di dialogo vengono terminate con il comando endExecute() e completamente eliminate dalla &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;memoria&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; con il comando Dispose().&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
