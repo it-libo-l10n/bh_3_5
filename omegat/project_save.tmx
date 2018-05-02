@@ -30496,8 +30496,8 @@
       <tuv lang="EN">
         <seg>The following &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;subroutine&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; reads the currently highest value of the "ID" field in a table and sets the next initial key value 1 higher than this maximum.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173136Z" creationid="Elisabetta Manuele" creationdate="20180427T173136Z">
-        <seg>La seguente &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;subroutine&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; legge il valore attualmente più alto del campo "ID" presente in una tabella e imposta il successivo valore iniziale della chiave incrementandolo di un valore immediatamente superiore a tale massimo.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T151843Z" creationid="Elisabetta Manuele" creationdate="20180427T173136Z">
+        <seg>La seguente &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;subroutine&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; legge il valore attualmente più elevato del campo "ID" presente in una tabella e imposta il successivo valore iniziale della chiave incrementandolo di un valore immediatamente superiore a tale massimo.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
