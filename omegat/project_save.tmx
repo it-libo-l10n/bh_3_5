@@ -19128,8 +19128,8 @@
       <tuv lang="EN">
         <seg>If there are several fields, apart from the foreign key field, which together form a 'UNIQUE' index, they are combined here for a SQL grouping.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100450Z" creationid="Elisabetta Manuele" creationdate="20180502T100450Z">
-        <seg>Se sono presenti più campi, oltre al campo chiave esterna, che insieme formano un indice 'UNIQUE', in questo caso vengono aggregati per un raggruppamento SQL.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T170737Z" creationid="Elisabetta Manuele" creationdate="20180502T100450Z">
+        <seg>Se, oltre al campo chiave esterna, sono presenti più campi che insieme formano un indice 'UNIQUE', in questo caso vengono aggregati per un raggruppamento SQL.</seg>
       </tuv>
     </tu>
     <tu>
