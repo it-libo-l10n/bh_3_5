@@ -3446,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100221Z" creationid="Elisabetta Manuele" creationdate="20180502T100221Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inUnique&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100053Z" creationid="Elisabetta Manuele" creationdate="20180502T100053Z">
@@ -5506,6 +5514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195648Z" creationid="Marco Marega" creationdate="20180414T195648Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stFieldValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oQuery_result.getString&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stFieldgroup&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Join&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aColumns&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(), &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"""|| &lt;s14/&gt;||"""&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100231Z" creationid="Elisabetta Manuele" creationdate="20180502T100231Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stFieldgroup&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Join&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aColumns&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(), &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"""|| &lt;s14/&gt;||"""&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;)&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18874,6 +18890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151628Z" creationid="Marco Marega" creationdate="20180127T151509Z">
         <seg>Se ci sono più utenti con lo stesso indirizzo, questa struttura richiede che l'indirizzo venga inserito di nuovo, in quanto la chiave primaria della tabella &lt;f0&gt;Reader&lt;/f0&gt; viene inserita direttamente come chiave primaria nella tabella &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are several fields, apart from the foreign key field, which together form a 'UNIQUE' index, they are combined here for a SQL grouping.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100450Z" creationid="Elisabetta Manuele" creationdate="20180502T100450Z">
+        <seg>Se sono presenti più campi, oltre al campo chiave esterna, che insieme formano un indice 'UNIQUE', in questo caso vengono aggregati per un raggruppamento SQL.</seg>
       </tuv>
     </tu>
     <tu>
