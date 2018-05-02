@@ -5526,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stFieldname&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;""&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100713Z" creationid="Elisabetta Manuele" creationdate="20180502T100713Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stFieldname&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;""&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stForeignIDTab1Tab2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180907Z" creationid="Elisabetta Manuele" creationdate="20180429T180841Z">
@@ -24066,6 +24074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214932Z" creationid="Marco Marega" creationdate="20171226T214932Z">
         <seg>Altrimenti trovare il giusto campo di controllo in breve tempo potrebbe diventare problematico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise only "aColumns(0)" appears as "stFieldgroup".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100523Z" creationid="Elisabetta Manuele" creationdate="20180502T100523Z">
+        <seg>Diversamente solo "aColumns(0)" compare come "stFieldgroup".</seg>
       </tuv>
     </tu>
     <tu>
