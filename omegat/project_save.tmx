@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stInhalt2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList2.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092232Z" creationid="Elisabetta Manuele" creationdate="20180502T092232Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stInhalt2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList2.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stMessage&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"The database is being compacted."&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CHR&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;13&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"The form will now close."&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170855Z" creationid="Elisabetta Manuele" creationdate="20180427T170855Z">
@@ -16910,6 +16918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here too, things develop differently depending on whether one or two fields are contained in the listbox, and also on whether one or two tables are the basis of the listbox content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092509Z" creationid="Elisabetta Manuele" creationdate="20180502T092509Z">
+        <seg>Anche in questo caso gli scenari si delineano in modo diverso a seconda che uno o due campi siano contenuti nella casella di riepilogo e che una o due tabelle siano alla base del contenuto della casella di riepilogo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
@@ -24430,10 +24446,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Determine ID for the value of the listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092321Z" creationid="Elisabetta Manuele" creationdate="20180502T092321Z">
+        <seg>REM Determinare l'ID per il valore della casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM If a form is in a folder, use "/" to define the relationship</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155317Z" creationid="Elisabetta Manuele" creationdate="20180412T155317Z">
         <seg>REM Se un formulario si trova in una cartella, inserite "/" per definire la relazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Read value from listbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092255Z" creationid="Elisabetta Manuele" creationdate="20180502T092255Z">
+        <seg>REM Leggere il valore dalla casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28470,6 +28502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The ID &lt;s0/&gt;value of the second listbox is stored in the variable inLB2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092428Z" creationid="Elisabetta Manuele" creationdate="20180502T092428Z">
+        <seg>Il &lt;s0/&gt;valore ID della seconda casella di riepilogo è memorizzato nella variabile inLB2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The ID value of the first listbox is stored in the variable "inLB1".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182545Z" creationid="Elisabetta Manuele" creationdate="20180430T182545Z">
@@ -31722,6 +31762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171218T161903Z" creationid="Manuel Frassinetti" creationdate="20171218T161903Z">
         <seg>I campi rilevanti delle due tabelle vengono letti dalle definizioni della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The replacement process depends on which table is defined as the table which supplies the foreign key for the main table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092603Z" creationid="Elisabetta Manuele" creationdate="20180502T092603Z">
+        <seg>Il processo di sostituzione dipende dalla tabella definita come quella contenente la chiave esterna per la tabella principale.</seg>
       </tuv>
     </tu>
     <tu>
