@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34658,6 +34658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T161836Z" creationid="steevie" creationdate="20180216T161836Z">
         <seg>Questo significa molto più che aggiornare i dati; l'intero documento col formulario dev'essere chiuso e poi riaperto.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that all records in the tables for which the records in the listboxes are foreign keys must be checked and, if necessary, written with an altered foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092217Z" creationid="Elisabetta Manuele" creationdate="20180502T092217Z">
+        <seg>Ciò significa dover verificare tutti i record delle tabelle per cui i record delle caselle di riepilogo sono chiavi esterne ed eventualmente compilarli con una chiave esterna modificata.</seg>
       </tuv>
     </tu>
     <tu>
