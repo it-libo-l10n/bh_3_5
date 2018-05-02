@@ -16190,6 +16190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose, the current record is determined at the beginning of the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;subroutine&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; so that after the form has been refreshed, the current record can be reinstated.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110106Z" creationid="Elisabetta Manuele" creationdate="20180502T110106Z">
+        <seg>A questo scopo, il record in uso viene determinato all'inizio della &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;subroutine&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in modo da poter essere ripristinato dopo l'aggiornamento del formulario.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason &lt;f1&gt;No&lt;/f1&gt; (German: Nein) has been chosen for &lt;f2&gt;Analyze SQL command&lt;/f2&gt;, a choice that excludes any filtering and sorting with the internal tools of the Report Builder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150108Z" creationid="Alessia Mazzarini" creationdate="20180328T144417Z">
@@ -20162,6 +20170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102421Z" creationid="Elisabetta Manuele" creationdate="20180502T102421Z">
         <seg>In alcuni casi, lo stesso metodo deve essere applicato a una seconda tabella che ha prodotto i dati per le caselle di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases, the whole form needs to be reread.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T103232Z" creationid="Elisabetta Manuele" creationdate="20180502T103232Z">
+        <seg>In alcuni casi, l'intero formulario deve essere riletto.</seg>
       </tuv>
     </tu>
     <tu>
