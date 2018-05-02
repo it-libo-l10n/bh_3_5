@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;' &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;"NON_UNIQUE" = False &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; gives the names of columns that are UNIQUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095656Z" creationid="Elisabetta Manuele" creationdate="20180502T095656Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;' &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;"NON_UNIQUE" = False &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;'&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; indica i nomi delle colonne con proprietà UNIQUE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;+ &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;""" WHERE "&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123148Z" creationid="Marco Marega" creationdate="20180404T123148Z">
@@ -17366,6 +17374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However not all column names are needed but only those which form an index with the foreign key field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095716Z" creationid="Elisabetta Manuele" creationdate="20180502T095716Z">
+        <seg>Tuttavia non tutti i nomi delle colonne sono necessari, ma solo quelli che costituiscono un indice con il campo chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However only the values of 1 (for On) or 0 (for Off) can be transferred to the underlying data field &lt;f0&gt;(c&lt;/f0&gt;heck boxes act as fields for the choice of Yes and No&lt;f1&gt;)&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205717Z" creationid="Marco Marega" creationdate="20171109T205717Z">
@@ -18378,6 +18394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202452Z" creationid="Alessia Mazzarini" creationdate="20180406T202431Z">
         <seg>Se non viene specificato uno standard in particolare, si segue ISO-8859-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If now the foreign key is present in the set, the key value can only be replaced if other fields are used to define the corresponding index as UNIQUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095832Z" creationid="Elisabetta Manuele" creationdate="20180502T095832Z">
+        <seg>Se ora la chiave esterna è presente nel set, il valore della chiave può essere sostituito solo se vengono utilizzati altri campi per definire l'indice corrispondente come UNIQUE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34402,6 +34426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180209T153112Z" creationid="steevie" creationdate="20180209T153112Z">
         <seg>Questo è ovviamente più semplice quando una tabella è collegata solamente ad un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is handled by the Subselect with the same table names (which contain the foreign key) and the names of the foreign key fields.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095748Z" creationid="Elisabetta Manuele" creationdate="20180502T095748Z">
+        <seg>Questo viene gestito da Subselect con gli stessi nomi di tabella (contenenti la chiave esterna) e i nomi dei campi chiave esterna.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
