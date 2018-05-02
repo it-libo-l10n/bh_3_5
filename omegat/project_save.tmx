@@ -32928,8 +32928,8 @@
       <tuv lang="EN">
         <seg>The update is carried out for as long as different connections to other tables occur; that is, as long as the current table is the source of a foreign key in another table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102229Z" creationid="Elisabetta Manuele" creationdate="20180502T102229Z">
-        <seg>L'aggiornamento viene eseguito finché compaiono collegamenti diversi ad altre tabelle, ovvero finché la tabella in uso continua a essere l'origine di una chiave esterna in un'altra tabella. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T171238Z" creationid="Elisabetta Manuele" creationdate="20180502T102229Z">
+        <seg>L'aggiornamento viene eseguito finché compaiono collegamenti diversi ad altre tabelle, ovvero finché la tabella in uso continua a essere la sorgente di una chiave esterna in un'altra tabella. </seg>
       </tuv>
     </tu>
     <tu>
