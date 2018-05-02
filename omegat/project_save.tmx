@@ -5806,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"DELETE FROM """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;""" WHERE ""ID""='"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;inLB1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;"'"&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102352Z" creationid="Elisabetta Manuele" creationdate="20180502T102352Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"DELETE FROM """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;""" WHERE ""ID""='"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;inLB1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;"'"&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) + &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"""."""&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;aTable&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;6&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;) + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;"""||' &gt; '||"""&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; + &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;aTable&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;(&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;8&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;"""."""&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;aTable&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt;(&lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;7&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;) + &lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;""" FROM """&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt; + &lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;aTable&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt;&lt;f59&gt;(&lt;/f59&gt;&lt;/f58&gt;&lt;f60&gt;&lt;f61&gt;5&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt;&lt;f63&gt;) + &lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;""", """&lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt; + &lt;/f67&gt;&lt;/f66&gt;&lt;f68&gt;&lt;f69&gt;aTable&lt;/f69&gt;&lt;/f68&gt;&lt;f70&gt;&lt;f71&gt;(&lt;/f71&gt;&lt;/f70&gt;&lt;f72&gt;&lt;f73&gt;8&lt;/f73&gt;&lt;/f72&gt;&lt;f74&gt;&lt;f75&gt;) + &lt;/f75&gt;&lt;/f74&gt;&lt;f76&gt;&lt;f77&gt;""" WHERE """&lt;/f77&gt;&lt;/f76&gt;&lt;f78&gt;&lt;f79&gt; + &lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;aTable&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt;(&lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;8&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt;) + &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;"""."""&lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt; + &lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;stForeignIDTab2Tab1&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt; + &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;""" = """&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; + &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;aTable&lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt;(&lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;5&lt;/f105&gt;&lt;/f104&gt;&lt;f106&gt;&lt;f107&gt;) + &lt;/f107&gt;&lt;/f106&gt;&lt;f108&gt;&lt;f109&gt;"""."""&lt;/f109&gt;&lt;/f108&gt;&lt;f110&gt;&lt;f111&gt; + &lt;/f111&gt;&lt;/f110&gt;&lt;f112&gt;&lt;f113&gt;stForeignIDTab1Tab2&lt;/f113&gt;&lt;/f112&gt;&lt;f114&gt;&lt;f115&gt; + &lt;/f115&gt;&lt;/f114&gt;&lt;f116&gt;&lt;f117&gt;""" ORDER BY """&lt;/f117&gt;&lt;/f116&gt;&lt;f118&gt;&lt;f119&gt; + &lt;/f119&gt;&lt;/f118&gt;&lt;f120&gt;&lt;f121&gt;aTable&lt;/f121&gt;&lt;/f120&gt;&lt;f122&gt;&lt;f123&gt;(&lt;/f123&gt;&lt;/f122&gt;&lt;f124&gt;&lt;f125&gt;6&lt;/f125&gt;&lt;/f124&gt;&lt;f126&gt;&lt;f127&gt;) + &lt;/f127&gt;&lt;/f126&gt;&lt;f128&gt;&lt;f129&gt;""""&lt;/f129&gt;&lt;/f128&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T180840Z" creationid="Elisabetta Manuele" creationdate="20180430T180840Z">
@@ -10298,6 +10306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162812Z" creationid="Elisabetta Manuele" creationdate="20180403T162751Z">
         <seg>Dopo aver nuovamente inserito la cartella del database nel pacchetto *.odb il database può essere riaperto in L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Afterwards the old value can be deleted from listbox 1, as it no longer has any connection to other tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102318Z" creationid="Elisabetta Manuele" creationdate="20180502T102318Z">
+        <seg>In seguito il valore precedente può essere eliminato da listbox 1, in quanto non presenta più collegamenti ad altre tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18902,6 +18918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the text field is empty and listbox 2 also contains nothing, we check if the relevant checkbox indicates that all surplus entries are to be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102506Z" creationid="Elisabetta Manuele" creationdate="20180502T102506Z">
+        <seg>Se il campo di testo è vuoto, come pure listbox 2, è necessario verificare che la casella di controllo corrispondente indichi tutte le voci in eccesso da eliminare, cioè quelle non associate ad altre tabelle tramite una chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the text field is empty and the listbox 2 contains a value, the value from listbox 1 must be replaced by the value in listbox 2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183152Z" creationid="Elisabetta Manuele" creationdate="20180430T183152Z">
@@ -19886,6 +19910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our example, the first table is the Postcode table and the second is the Town table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102439Z" creationid="Elisabetta Manuele" creationdate="20180502T102439Z">
+        <seg>Nel nostro esempio, la prima tabella è Postcode e la seconda è Town.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In particular, if sorting within the report is required, always use a query that makes provision for sorting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T175955Z" creationid="Alessia Mazzarini" creationdate="20180311T190349Z">
@@ -20026,6 +20058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224637Z" creationid="Marco Marega" creationdate="20180224T224637Z">
         <seg>In alcuni casi, a seconda del tipo di modifica, la tabella deve essere vuota affinché il cambiamento abbia luogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases, the same method must now be carried out for a second table that has supplied data for the listboxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102421Z" creationid="Elisabetta Manuele" creationdate="20180502T102421Z">
+        <seg>In alcuni casi, lo stesso metodo deve essere applicato a una seconda tabella che ha prodotto i dati per le caselle di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34770,6 +34810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172710Z" creationid="Manuel Frassinetti" creationdate="20180116T172710Z">
         <seg>Questo è il modo migliore per i principianti di imparare il linguaggio di interrogazione standard per i database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the case twice over for the Town table: in the Media table and in the Postcode table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102249Z" creationid="Elisabetta Manuele" creationdate="20180502T102249Z">
+        <seg>Questo si verifica due volte per la tabella Town: nella tabella Media e nella Postcode.</seg>
       </tuv>
     </tu>
     <tu>
