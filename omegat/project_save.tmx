@@ -3406,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTables&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;i&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) = &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;stFieldname&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;THEN&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095911Z" creationid="Elisabetta Manuele" creationdate="20180502T095911Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aForeignTables&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;i&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) = &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;stFieldname&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;THEN&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;5&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTable2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;inCount&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;0&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;THEN&lt;/f25&gt;&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T175552Z" creationid="Elisabetta Manuele" creationdate="20180430T175552Z">
@@ -3434,6 +3442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171035Z" creationid="Elisabetta Manuele" creationdate="20180429T171035Z">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inUnique&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100053Z" creationid="Elisabetta Manuele" creationdate="20180502T100053Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inUnique&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210143Z" creationid="Marco Marega" creationdate="20180328T210143Z">
         <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Preserve&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;arContent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;inI&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;)&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Preserve&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aColumns&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;inCount&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095928Z" creationid="Elisabetta Manuele" creationdate="20180502T095928Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ReDim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Preserve&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aColumns&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;inCount&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4366,6 +4390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;aColumns&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oQuery_result.getString&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095936Z" creationid="Elisabetta Manuele" creationdate="20180502T095936Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;aColumns&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;) = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oQuery_result.getString&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;aForeignTables&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;,&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;) = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oQuery_result.getString&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;1&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173943Z" creationid="Elisabetta Manuele" creationdate="20180430T173943Z">
@@ -4602,6 +4634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171112Z" creationid="Elisabetta Manuele" creationdate="20180429T171112Z">
         <seg>&lt;f0&gt;&lt;f1&gt;inSequence_Value&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;inUnique&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095917Z" creationid="Elisabetta Manuele" creationdate="20180502T095917Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;inUnique&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;1&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5778,6 +5818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T170701Z" creationid="Elisabetta Manuele" creationdate="20180427T170701Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SHUTDOWN COMPACT"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"UPDATE """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForeignTables&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;i&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;0&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;) + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""" AS ""a"" SET """&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForeignTables&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;(&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;i&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;,&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;1&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;) + &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;"""='"&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;inLB2&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;"' WHERE """&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt; + &lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;aForeignTables&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;(&lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;i&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt;,&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;1&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt;&lt;f59&gt;) + &lt;/f59&gt;&lt;/f58&gt;&lt;f60&gt;&lt;f61&gt;"""='"&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt;&lt;f63&gt; + &lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;inLB1&lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt; + &lt;/f67&gt;&lt;/f66&gt;&lt;f68&gt;&lt;f69&gt;"' AND ( SELECT COUNT(*) FROM """&lt;/f69&gt;&lt;/f68&gt;&lt;f70&gt;&lt;f71&gt; + &lt;/f71&gt;&lt;/f70&gt;&lt;f72&gt;&lt;f73&gt;aForeignTables&lt;/f73&gt;&lt;/f72&gt;&lt;f74&gt;&lt;f75&gt;(&lt;/f75&gt;&lt;/f74&gt;&lt;f76&gt;&lt;f77&gt;i&lt;/f77&gt;&lt;/f76&gt;&lt;f78&gt;&lt;f79&gt;,&lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;0&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt;) + &lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;""" WHERE """&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt; + &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;aForeignTables&lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt;(i,&lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;1&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt;) + &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;"""='"&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; + &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;inLB2&lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt; + &lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;"' )"&lt;/f105&gt;&lt;/f104&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100156Z" creationid="Elisabetta Manuele" creationdate="20180502T100156Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"UPDATE """&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aForeignTables&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;i&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;0&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;) + &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""" AS ""a"" SET """&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForeignTables&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;(&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;i&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;,&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;1&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;) + &lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;"""='"&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt; + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;inLB2&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;&lt;f43&gt; + &lt;/f43&gt;&lt;/f42&gt;&lt;f44&gt;&lt;f45&gt;"' WHERE """&lt;/f45&gt;&lt;/f44&gt;&lt;f46&gt;&lt;f47&gt; + &lt;/f47&gt;&lt;/f46&gt;&lt;f48&gt;&lt;f49&gt;aForeignTables&lt;/f49&gt;&lt;/f48&gt;&lt;f50&gt;&lt;f51&gt;(&lt;/f51&gt;&lt;/f50&gt;&lt;f52&gt;&lt;f53&gt;i&lt;/f53&gt;&lt;/f52&gt;&lt;f54&gt;&lt;f55&gt;,&lt;/f55&gt;&lt;/f54&gt;&lt;f56&gt;&lt;f57&gt;1&lt;/f57&gt;&lt;/f56&gt;&lt;f58&gt;&lt;f59&gt;) + &lt;/f59&gt;&lt;/f58&gt;&lt;f60&gt;&lt;f61&gt;"""='"&lt;/f61&gt;&lt;/f60&gt;&lt;f62&gt;&lt;f63&gt; + &lt;/f63&gt;&lt;/f62&gt;&lt;f64&gt;&lt;f65&gt;inLB1&lt;/f65&gt;&lt;/f64&gt;&lt;f66&gt;&lt;f67&gt; + &lt;/f67&gt;&lt;/f66&gt;&lt;f68&gt;&lt;f69&gt;"' AND ( SELECT COUNT(*) FROM """&lt;/f69&gt;&lt;/f68&gt;&lt;f70&gt;&lt;f71&gt; + &lt;/f71&gt;&lt;/f70&gt;&lt;f72&gt;&lt;f73&gt;aForeignTables&lt;/f73&gt;&lt;/f72&gt;&lt;f74&gt;&lt;f75&gt;(&lt;/f75&gt;&lt;/f74&gt;&lt;f76&gt;&lt;f77&gt;i&lt;/f77&gt;&lt;/f76&gt;&lt;f78&gt;&lt;f79&gt;,&lt;/f79&gt;&lt;/f78&gt;&lt;f80&gt;&lt;f81&gt;0&lt;/f81&gt;&lt;/f80&gt;&lt;f82&gt;&lt;f83&gt;) + &lt;/f83&gt;&lt;/f82&gt;&lt;f84&gt;&lt;f85&gt;""" WHERE """&lt;/f85&gt;&lt;/f84&gt;&lt;f86&gt;&lt;f87&gt; + &lt;/f87&gt;&lt;/f86&gt;&lt;f88&gt;&lt;f89&gt;aForeignTables&lt;/f89&gt;&lt;/f88&gt;&lt;f90&gt;&lt;f91&gt;(i,&lt;/f91&gt;&lt;/f90&gt;&lt;f92&gt;&lt;f93&gt;1&lt;/f93&gt;&lt;/f92&gt;&lt;f94&gt;&lt;f95&gt;) + &lt;/f95&gt;&lt;/f94&gt;&lt;f96&gt;&lt;f97&gt;"""='"&lt;/f97&gt;&lt;/f96&gt;&lt;f98&gt;&lt;f99&gt; + &lt;/f99&gt;&lt;/f98&gt;&lt;f100&gt;&lt;f101&gt;inLB2&lt;/f101&gt;&lt;/f100&gt;&lt;f102&gt;&lt;f103&gt; + &lt;/f103&gt;&lt;/f102&gt;&lt;f104&gt;&lt;f105&gt;"' )"&lt;/f105&gt;&lt;/f104&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All column names, apart from the known column names for foreign key fields as Index with the UNIQUE property, are stored in the array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100009Z" creationid="Elisabetta Manuele" creationdate="20180502T100009Z">
+        <seg>Tutti i nomi delle colonne, a eccezione di quelli noti per i campi chiave esterna come Indice con proprietà UNIQUE, sono memorizzati nella matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All data elements are entered independently, which can lead to multiple entry of the same data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222629Z" creationid="Marco Marega" creationdate="20180112T222629Z">
@@ -11010,6 +11066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211958Z" creationid="Marco Marega" creationdate="20171101T211958Z">
         <seg>Dato che il campo collegato è il Campo 1, questa formula SQL funziona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the column name of the foreign key field also belongs to the group, it can be used to determine whether uniqueness is to be checked during data modification.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100039Z" creationid="Elisabetta Manuele" creationdate="20180502T100039Z">
+        <seg>Poiché anche il nome della colonna corrispondente al campo della chiave esterna appartiene al gruppo, è possibile utilizzarlo per determinare se l'univocità debba essere verificata durante la modifica dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37746,6 +37810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211733Z" creationid="Marco Marega" creationdate="20180219T211733Z">
         <seg>Dovete assicurarvi che le date seguano le convenzioni Americane (yyyy-mm-dd), che gli orari abbiano il formato hh:mm:ss, e che le combinazioni dei valori di date e orari abbiano il formato yyyy-mm-dd hh:mm:ss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must take care when carrying out replacements that the uniqueness of the index combination is not compromised.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T095857Z" creationid="Elisabetta Manuele" creationdate="20180502T095857Z">
+        <seg>Quando si eseguono sostituzioni è necessario prestare attenzione a non compromettere l'unicità della combinazione dell'indice.</seg>
       </tuv>
     </tu>
     <tu>
