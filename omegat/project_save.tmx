@@ -5944,8 +5944,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT ""FKTABLE_NAME"", ""FKCOLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_CROSSREFERENCE"" WHERE ""PKTABLE_NAME"" = '"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(5) + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"'"&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180349Z" creationid="Elisabetta Manuele" creationdate="20180429T180349Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SCELTA ""FKTABLE_NAME"", ""FKCOLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_CROSSREFERENCE"" WHERE ""PKTABLE_NAME"" = '"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(5) + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"'"&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T164552Z" creationid="Elisabetta Manuele" creationdate="20180429T180349Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"SELECT ""FKTABLE_NAME"", ""FKCOLUMN_NAME"" FROM ""INFORMATION_SCHEMA"".""SYSTEM_CROSSREFERENCE"" WHERE ""PKTABLE_NAME"" = '"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(5) + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"'"&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33584,8 +33584,8 @@
       <tuv lang="EN">
         <seg>These are the index for the array in which the values from the auxiliary table will be written, the default primary key if we do not need the foreign key for a second table, and the default auxiliary table, linked to the main table, for postcode and town, the Postcode table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T181010Z" creationid="Elisabetta Manuele" creationdate="20180429T181010Z">
-        <seg>In particolare, l'indice della matrice in cui saranno scritti i valori della tabella ausiliaria, la chiave primaria predefinita, se non è necessaria la chiave esterna per una seconda tabella, e la tabella ausiliaria predefinita, collegata a quella principale per codice postale e città, la tabella Postcode.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T164758Z" creationid="Elisabetta Manuele" creationdate="20180429T181010Z">
+        <seg>In particolare, l'indice della matrice in cui saranno scritti i valori della tabella ausiliaria, la chiave primaria predefinita, se non è necessaria la chiave esterna per una seconda tabella, e la tabella ausiliaria predefinita collegata a quella principale per codice postale e città, la tabella Postcode.</seg>
       </tuv>
     </tu>
     <tu>
