@@ -3800,8 +3800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;REM This &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;subroutine&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; sets the automatically incrementing primary key field mit the preset name of "ID" to the lowest possible value.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T173323Z" creationid="Elisabetta Manuele" creationdate="20180427T173323Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;REM Questa &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;subroutine&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; imposta sul valore più basso possibile il campo chiave primaria ad incremento automatico con il nome predefinito "ID".&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T152520Z" creationid="Elisabetta Manuele" creationdate="20180427T173323Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;REM Questa &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;subroutine&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; imposta sul valore minimo possibile il campo chiave primaria ad incremento automatico con il nome predefinito "ID".&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
