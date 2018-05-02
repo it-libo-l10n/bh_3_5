@@ -33152,8 +33152,8 @@
       <tuv lang="EN">
         <seg>Then the dialog will not simply terminate when the OK button is clicked.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174248Z" creationid="Elisabetta Manuele" creationdate="20180429T174248Z">
-        <seg>In questo modo la finestra di dialogo non si chiuderà semplicemente selezionando il pulsante OK.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T154653Z" creationid="Elisabetta Manuele" creationdate="20180429T174248Z">
+        <seg>In questo modo la finestra di dialogo non si chiude con un semplice clic sul pulsante OK.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
