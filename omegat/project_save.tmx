@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlCheck1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;State&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102615Z" creationid="Elisabetta Manuele" creationdate="20180502T102615Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlCheck1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Stato&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; = &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;1&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;ELSEIF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCtlList2.getSelectedItem&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;() &lt;&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183116Z" creationid="Elisabetta Manuele" creationdate="20180430T183116Z">
@@ -2938,6 +2946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170455Z" creationid="Elisabetta Manuele" creationdate="20180412T170455Z">
         <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;TO&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; 6&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LBound&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;TO&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UBound&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForeignTables2&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;())&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102722Z" creationid="Elisabetta Manuele" creationdate="20180502T102722Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LBound&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;TO&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UBound&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForeignTables2&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;())&lt;/f27&gt;&lt;/f26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5442,6 +5458,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174552Z" creationid="Elisabetta Manuele" creationdate="20180430T174552Z">
         <seg>&lt;f0&gt;&lt;f1&gt;stAuxiltable&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;aTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;8&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stCondition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = ""&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102621Z" creationid="Elisabetta Manuele" creationdate="20180502T102621Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stCondition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = ""&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stCondition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stCondition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"""ID"" NOT IN (SELECT """&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;i&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;""" FROM """&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;aForeignTables2&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;(&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;i&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;,&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;0&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""") AND "&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102747Z" creationid="Elisabetta Manuele" creationdate="20180502T102747Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stCondition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stCondition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"""ID"" NOT IN (SELECT """&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables2&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;i&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;""" FROM """&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;aForeignTables2&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;(&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;i&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;,&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;0&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""") AND "&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;stCondition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stCondition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"""ID"" NOT IN (SELECT """&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;i&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;""" FROM """&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;aForeignTables&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;(&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;i&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;,&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;0&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""") AND "&lt;/f41&gt;&lt;/f40&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102709Z" creationid="Elisabetta Manuele" creationdate="20180502T102709Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;stCondition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stCondition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; + &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"""ID"" NOT IN (SELECT """&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; + &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;i&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;1&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;) + &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;""" FROM """&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; + &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;aForeignTables&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;(&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;i&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;,&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;0&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;) + &lt;/f39&gt;&lt;/f38&gt;&lt;f40&gt;&lt;f41&gt;""") AND "&lt;/f41&gt;&lt;/f40&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,6 +8066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
         <seg>&lt;f0&gt;Le condizioni di relazione devono essere aperte per la modifica per visualizzare tutti i record desiderati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The last AND must be removed, since otherwise the delete instruction would end &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;w&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ith AND.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102900Z" creationid="Elisabetta Manuele" creationdate="20180502T102900Z">
+        <seg>&lt;f0&gt;L'ultimo AND deve essere eliminato, altrimenti l'istruzione di cancellazione terminerebbe &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;c&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;on AND.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17822,6 +17870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IF &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;stAuxilTable&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; = &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;aTable&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;5&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;) &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;THEN&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102629Z" creationid="Elisabetta Manuele" creationdate="20180502T102629Z">
+        <seg>SE &lt;/f0&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;stAuxilTable&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; = &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;aTable&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;(&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;5&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;) &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;THEN&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IF([boolean_field];&lt;f0&gt;"&lt;/f0&gt;Yes&lt;f1&gt;"&lt;/f1&gt;;&lt;f2&gt;"&lt;/f2&gt;&lt;f3&gt;No&lt;/f3&gt;&lt;f4&gt;"&lt;/f4&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173706Z" creationid="Alessia Mazzarini" creationdate="20180419T173706Z">
@@ -18920,8 +18976,8 @@
       <tuv lang="EN">
         <seg>If the text field is empty and listbox 2 also contains nothing, we check if the relevant checkbox indicates that all surplus entries are to be deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102506Z" creationid="Elisabetta Manuele" creationdate="20180502T102506Z">
-        <seg>Se il campo di testo è vuoto, come pure listbox 2, è necessario verificare che la casella di controllo corrispondente indichi tutte le voci in eccesso da eliminare, cioè quelle non associate ad altre tabelle tramite una chiave esterna.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102552Z" creationid="Elisabetta Manuele" creationdate="20180502T102506Z">
+        <seg>Se il campo di testo è vuoto, come pure listbox 2, è necessario verificare che la casella di controllo corrispondente indichi tutte le voci in eccesso da eliminare, </seg>
       </tuv>
     </tu>
     <tu>
@@ -35082,6 +35138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T183200Z" creationid="Elisabetta Manuele" creationdate="20180306T180434Z">
         <seg>Ciò significa che l'impiego di Base non è necessariamente connesso alla registrazione dei database secondo la configurazione di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means the entries which are not bound to other tables by a foreign key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T102607Z" creationid="Elisabetta Manuele" creationdate="20180502T102607Z">
+        <seg>cioè quelle non associate ad altre tabelle tramite una chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
