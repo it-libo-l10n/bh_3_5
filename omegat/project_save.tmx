@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LBound&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;TO&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UBound&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForeignTables&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;())&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092656Z" creationid="Elisabetta Manuele" creationdate="20180502T092656Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LBound&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aForeignTables&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;TO&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UBound&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aForeignTables&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;())&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;FOR&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LBound&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;aTable&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;TO&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UBound&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;(&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;aTable&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;())&lt;/f27&gt;&lt;/f26&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T175749Z" creationid="Elisabetta Manuele" creationdate="20180429T175749Z">
@@ -3418,6 +3426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171035Z" creationid="Elisabetta Manuele" creationdate="20180429T171035Z">
         <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;inCount&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;""&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;THEN&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stAuxilTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092646Z" creationid="Elisabetta Manuele" creationdate="20180502T092646Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;IF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stAuxilTable&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; = &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;aTable&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;5&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;) &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;THEN&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,6 +7458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T201308Z" creationid="Marco Marega" creationdate="20171015T201308Z">
         <seg>&lt;f0&gt;Ricaricamento&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;: questo accade quando il contenuto di un formulario viene aggiornato, ad esempio usando un pulsante sulla Barra di navigazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Replacing the old ID value by the new ID value becomes problematic in n:m-relationships, as in such cases, the same value can be assigned twice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092738Z" creationid="Elisabetta Manuele" creationdate="20180502T092738Z">
+        <seg>&lt;f0&gt;La sostituzione del precedente valore ID con il nuovo può risultare problematica nelle relazioni n:m, poiché in questi casi lo stesso valore può essere assegnato due volte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15802,6 +15826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T140919Z" creationid="Marco Marega" creationdate="20171231T140919Z">
         <seg>Per il formulario di inserimento dei supporti, le caselle di riepilogo di solito devono essere riempite gradualmente nel corso del processo di inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the obove example, this is the Postcode table, as the Postcode_ID is the foreign key which is forwarded through Listbox 1 and Listbox 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092633Z" creationid="Elisabetta Manuele" creationdate="20180502T092633Z">
+        <seg>Nell'esempio sopra riportato si tratta della tabella Postcode, poiché Postcode_ID è la chiave esterna inoltrata attraverso Listbox 1 e Listbox 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26838,6 +26870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So in the table rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author a medium cannot &lt;s5/&gt;have the same author twice because the primary key is constructed from Media&lt;/f4&gt;&lt;f6&gt;_&lt;/f6&gt;&lt;f7&gt;ID and Author&lt;/f7&gt;&lt;f8&gt;_&lt;/f8&gt;&lt;f9&gt;ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T093017Z" creationid="Elisabetta Manuele" creationdate="20180502T093017Z">
+        <seg>Quindi nella tabella rel&lt;/f0&gt;&lt;f1&gt;_&lt;/f1&gt;&lt;f2&gt;Media&lt;/f2&gt;&lt;f3&gt;_&lt;/f3&gt;&lt;f4&gt;Author non è possibile che lo &lt;s5/&gt;stesso autore compaia due volte in un supporto, poiché la chiave primaria è stata creata a partire da Media_ID e Author_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So that the chart only contains data for the correct gender, the &lt;f0&gt;Gender&lt;/f0&gt; fi&lt;f1&gt;eld&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(German: Geschlecht) in the report i&lt;/f3&gt;s linked to the &lt;f4&gt;Gender &lt;/f4&gt;&lt;f5&gt;in the chart&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150342Z" creationid="Alessia Mazzarini" creationdate="20180328T150053Z">
@@ -27890,6 +27930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T214007Z" creationid="MicrosoftSucks" creationdate="20180218T214007Z">
         <seg>Questo significa che i campi senza voce titolo non verranno mai visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That might be what you want, but it must be prevented when the foreign key forms part of the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092756Z" creationid="Elisabetta Manuele" creationdate="20180502T092756Z">
+        <seg>Questo potrebbe corrispondere alle vostre esigenze, ma deve essere evitato quando la chiave esterna fa parte della chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
