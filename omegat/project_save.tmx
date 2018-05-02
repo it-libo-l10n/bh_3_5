@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4256,8 +4256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;This is simply a SQL command (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;SHUTDOWN COMPACT&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;), which should be carried out now and again, especially after a lot of data has been deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T165752Z" creationid="Elisabetta Manuele" creationdate="20180427T165752Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Si tratta semplicemente di un comando SQL (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;SHUTDOWN COMPACT&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;) che si deve eseguire periodicamente, soprattutto dopo aver cancellato molti dati.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T150958Z" creationid="Elisabetta Manuele" creationdate="20180427T165752Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Si tratta semplicemente di un comando SQL (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;SHUTDOWN COMPACT&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;) da eseguire periodicamente, soprattutto dopo aver cancellato molti dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29968,8 +29968,8 @@
       <tuv lang="EN">
         <seg>The database stores new data, but still reserves the space for the deleted data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T165815Z" creationid="Elisabetta Manuele" creationdate="20180427T165815Z">
-        <seg>Il database memorizza i nuovi dati, ma riserva comunque lo spazio per i dati eliminati.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T151509Z" creationid="Elisabetta Manuele" creationdate="20180427T165815Z">
+        <seg>Il database memorizza i nuovi dati, ma riserva comunque spazio per i dati eliminati.</seg>
       </tuv>
     </tu>
     <tu>
