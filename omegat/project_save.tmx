@@ -37752,8 +37752,8 @@
       <tuv lang="EN">
         <seg>Without macros, the records in &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;the&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; media table would have to be found (using a filter) and individually altered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173537Z" creationid="Elisabetta Manuele" creationdate="20180429T173537Z">
-        <seg>Senza macro, sarebbe necessario trovare i record &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;nella&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; tabella dei supporti (tramite un filtro) e modificarli singolarmente. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T153806Z" creationid="Elisabetta Manuele" creationdate="20180429T173537Z">
+        <seg>Senza macro, sarebbe necessario individuare i record &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;nella&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; tabella dei supporti (tramite un filtro) e modificarli singolarmente. </seg>
       </tuv>
     </tu>
     <tu>
