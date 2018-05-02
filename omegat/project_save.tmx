@@ -21584,8 +21584,8 @@
       <tuv lang="EN">
         <seg>It is awkward to have to do this in normal table view, especially when several records must be edited, as each record requires an individual entry to be made.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171420Z" creationid="Elisabetta Manuele" creationdate="20180429T171420Z">
-        <seg>Un compito arduo in una normale vista tabella, specialmente se si devono modificare più record, dato che ogni record richiede l'inserimento di una singola voce.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T152908Z" creationid="Elisabetta Manuele" creationdate="20180429T171420Z">
+        <seg>Un compito arduo in una normale vista tabella, specialmente se si devono modificare diversi record, dato che ogni record richiede l'inserimento di una singola voce.</seg>
       </tuv>
     </tu>
     <tu>
