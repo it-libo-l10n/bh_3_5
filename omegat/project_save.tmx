@@ -29774,6 +29774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The conditions are only linked with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AND&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T063112Z" creationid="manuel" creationdate="20180507T063112Z">
+        <seg>Le condizioni sono collegate con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AND&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The connection between an author and, for example, books that author has written, is obvious.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215453Z" creationid="Marco Marega" creationdate="20180126T215453Z">
