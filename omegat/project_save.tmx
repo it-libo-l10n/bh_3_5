@@ -24518,6 +24518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>People whose balance is 0 or less are not listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061133Z" creationid="manuel" creationdate="20180507T061133Z">
+        <seg>Le persone il cui saldo è 0 o negativo non sono mostrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>People whose run-time&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;s have all be greater than 40 minutes are not listed.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060504Z" creationid="manuel" creationdate="20180507T060504Z">
@@ -32162,6 +32170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163812Z" creationid="Manuel Frassinetti" creationdate="20171216T162736Z">
         <seg>La ricerca ora restituisce per ogni supporto ancora in prestito le ammende che sono maturate, in base agli avvisi di richiamo emessi e al campo di moltiplicazione aggiuntivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query results for the second one lists the names of people who have a total greater output than input and their balance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061100Z" creationid="manuel" creationdate="20180507T061100Z">
+        <seg>I risultati della ricerca per il secondo elenca i nomi delle persone che hanno uscite maggiori rispetto alle entrate e al loro saldo.</seg>
       </tuv>
     </tu>
     <tu>
