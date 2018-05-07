@@ -26286,6 +26286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Name" FROM "Table_name" WHERE "Name" BETWEEN 'A' AND 'E';</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080155Z" creationid="manuel" creationdate="20180507T080155Z">
+        <seg>SELECT "Nome" FROM "Tabella_nome" WHERE "Nome" BETWEEN 'A' AND 'E';</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Name", "Runtime" FROM "Table1" GROUP BY "Name", "Runtime" HAVING MIN("Runtime") &lt; '00:40:00';</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061556Z" creationid="manuel" creationdate="20180507T061556Z">
