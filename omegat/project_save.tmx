@@ -6102,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A value can be single or several values joined by two vertical lines&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;||&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T071815Z" creationid="manuel" creationdate="20180507T071815Z">
+        <seg>&lt;f0&gt;Un valore può essere singolo o più valori uniti da due linee verticali&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;||&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; small part of its documentation &lt;f1&gt;is &lt;/f1&gt;at&lt;a2&gt; &lt;/a2&gt;&lt;a3&gt;&lt;f4&gt;h&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;ttp://wiki.pentaho.com/display/Reporting/9.+Report+Designer+Formula+Expressions&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T152003Z" creationid="Alessia Mazzarini" creationdate="20180403T152003Z">
@@ -23066,6 +23074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214807Z" creationid="Marco Marega" creationdate="20171226T214807Z">
         <seg>Ovviamente, quando si creano strutture di formulari più grandi, è più sensato avere dei nomi significativi per i formulari e per i loro campi di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Naturally this applies to field contents as well.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T071858Z" creationid="manuel" creationdate="20180507T071858Z">
+        <seg>Naturalmente questo vale anche per i contenuti del campo.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
