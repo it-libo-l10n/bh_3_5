@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MINUS&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EXCEPT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; lead to the same result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145250Z" creationid="manuel" creationdate="20180507T145250Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MINUS&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EXCEPT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; portano allo stesso risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Names for constants and enumerations, however, are case sensitive the first time that they are seen by the macro compiler, so it is best to always write those using the proper case.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T210607Z" creationid="Marco Marega" creationdate="20180315T210607Z">
@@ -18350,6 +18358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INTERSECT [DISTINCT] Query_result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145329Z" creationid="manuel" creationdate="20180507T145329Z">
+        <seg>INTERSECT [DISTINCT] Risultato_ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INTERSECT [DISTINCT] } Query statement]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145907Z" creationid="manuel" creationdate="20180224T145907Z">
@@ -26502,6 +26518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "First_name" FROM "Table1" INTERSECT SELECT "First_name" FROM "Table2";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145401Z" creationid="manuel" creationdate="20180507T145401Z">
+        <seg>SELECT "Primo_nome" FROM "Tabella1" INTERSECT SELECT "Primo_nome" FROM "Tabella2";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "First_name" FROM "Table1" UNION DISTINCT SELECT "First_name" FROM "Table2";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T112300Z" creationid="manuel" creationdate="20180507T112300Z">
@@ -28050,6 +28074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215319Z" creationid="Marco Marega" creationdate="20171216T215257Z">
         <seg>Le funzioni di ordinamento e di filtro vengono fornite al formulario principale dall'aggiunta di una barra di navigazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorting is alphabetic.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145315Z" creationid="manuel" creationdate="20180507T145315Z">
+        <seg>L'ordinamento è alfabetico.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35010,6 +35042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T163628Z" creationid="Elisabetta Manuele" creationdate="20180403T163628Z">
         <seg>che può essere scelta dall'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This displays the first names that occur in both tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145443Z" creationid="manuel" creationdate="20180507T145443Z">
+        <seg>Questo mostra i primi nome che sono presenti in entrambe le tabelle.</seg>
       </tuv>
     </tu>
     <tu>
