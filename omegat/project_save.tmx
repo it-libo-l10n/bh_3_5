@@ -12318,6 +12318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the first names are sorted alphabetically in ascending order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T140333Z" creationid="manuel" creationdate="20180507T140333Z">
+        <seg>Per predefinizione i primi nomi sono ordinati alfabeticamente in ordine crescente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default there is a new group for each value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T080457Z" creationid="Alessia Mazzarini" creationdate="20180321T082525Z">
