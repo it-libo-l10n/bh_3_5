@@ -18590,6 +18590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a query involves two tables, each field name must be preceded by the name of the table:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161538Z" creationid="manuel" creationdate="20180507T161538Z">
+        <seg>Se una ricerca coinvolge due tabelle, ogni nome di campo deve essre preceduto dal nome della tabella:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a query yields no results, Basic assigns these integer variable a value of 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091947Z" creationid="Marco Marega" creationdate="20180415T091947Z">
@@ -26722,6 +26730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202009Z" creationid="Marco Marega" creationdate="20180327T202009Z">
         <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Table1"."First_name", "Table1"."Surname" AS "Name", "Table2"."Class" FROM "Table1", "Table2" WHERE "Table1"."Class_ID" = "Table2"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161759Z" creationid="manuel" creationdate="20180507T161759Z">
+        <seg>SELECT "Tabella1"."Primo_nome", "Tabella1"."Cognome" AS "Nome", "Tabella2"."Classe" FROM "Tabella1", "Tabella2" WHERE "Tabella1"."ClasseID" = "Tabella2"."ID"</seg>
       </tuv>
     </tu>
     <tu>
