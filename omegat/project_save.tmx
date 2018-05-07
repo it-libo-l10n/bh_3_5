@@ -10302,6 +10302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Addition, subtraction, multiplication, division and concatenation of expressions are allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101009Z" creationid="manuel" creationdate="20180507T101009Z">
+        <seg>Sono consentiti addizione, sottrazione, moltiplicazione, divisione e concatenazione di espressioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional fields could also be included in the table above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T182347Z" creationid="Alessia Mazzarini" creationdate="20180316T182347Z">
@@ -11034,6 +11042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151100Z" creationid="Elisabetta Manuele" creationdate="20180412T151100Z">
         <seg>Un parametro vuoto è rappresentato da una coppia di virgolette doppie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of concatenation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101032Z" creationid="manuel" creationdate="20180507T101032Z">
+        <seg>Un esempio di concatenazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33346,6 +33362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215458Z" creationid="Marco Marega" creationdate="20180303T215458Z">
         <seg>I valori inseriti possono anche essere il risultato di una ricerca(&lt;Formula-di-selezione&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The values may have a preceding sign.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100939Z" creationid="manuel" creationdate="20180507T100939Z">
+        <seg>I valori possono avere un segno precedente.</seg>
       </tuv>
     </tu>
     <tu>
