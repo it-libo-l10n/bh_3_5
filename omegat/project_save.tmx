@@ -21190,6 +21190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way records are displayed by the query with a field containing "Surname, First_name".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101340Z" creationid="manuel" creationdate="20180507T101340Z">
+        <seg>In questo modo i record di dati vengono visualizzati dalla ricerca con un campo contenente "Cognome, Nome".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way the Readers table is provided with the corresponding foreign key from the Gender table by using the option button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211745Z" creationid="Marco Marega" creationdate="20171126T211745Z">
@@ -26414,6 +26422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Surname"||', '||"First_name" FROM "Table"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101301Z" creationid="manuel" creationdate="20180507T101301Z">
+        <seg>SELECT "Cognome"||', '||"Primo_nome" FROM "Tabella"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202253Z" creationid="Marco Marega" creationdate="20180327T202253Z">
@@ -29954,6 +29970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151047Z" creationid="Elisabetta Manuele" creationdate="20180412T151047Z">
         <seg>Le righe di commento riportano l'elenco dei parametri necessari per la &lt;f0&gt;subroutine&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The concatenation operator can be qualified by the following expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101416Z" creationid="manuel" creationdate="20180507T101416Z">
+        <seg>L'operatore di concatenazione può essere qualificato dalle seguenti espressioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39354,6 +39378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214611Z" creationid="Marco Marega" creationdate="20180222T214611Z">
         <seg>{CASCADE | SET DEFAULT | SET NULL}] |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| ( Condition )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101426Z" creationid="manuel" creationdate="20180507T101426Z">
+        <seg>| ( Condizione )</seg>
       </tuv>
     </tu>
     <tu>
