@@ -19814,6 +19814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In SQL, field names should be placed in double quotes, as they may not be correctly recogni&lt;/f2&gt;&lt;f4&gt;z&lt;/f4&gt;&lt;f5&gt;ed otherwise.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110449Z" creationid="manuel" creationdate="20180507T110449Z">
+        <seg>In SQL, i nomi dei campi devono essere inseriti tra virgolette, in quanto potrebbero non essere riconosciuti correttamente &lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;altrimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Step 4, the addresses are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T175736Z" creationid="Elisabetta Manuele" creationdate="20180307T175736Z">
