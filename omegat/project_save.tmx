@@ -16518,6 +16518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this to work, all fields in both queries must match in type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111252Z" creationid="manuel" creationdate="20180507T111252Z">
+        <seg>Affinché questo funzioni, tutti i campi di entrambe le ricerche devono corrispondere nel tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this you use the symbol "*".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T112351Z" creationid="manuel" creationdate="20180302T112351Z">
@@ -35646,6 +35654,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This linkage of several queries functions only in direct SQL command mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111357Z" creationid="manuel" creationdate="20180507T111357Z">
+        <seg>Questo collegamento di più ricerche funziona solo in modo comando SQL diretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This links queries so that the content of the second query is written under the first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111308Z" creationid="manuel" creationdate="20180507T111216Z">
+        <seg>Questo collega le ricerche in modo che il contenuto della seconda ricerca sia scritto sotto il primo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This macro begins to overwrite the oldest version after five copies have been made.&lt;/f25&gt;&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165854Z" creationid="Elisabetta Manuele" creationdate="20180412T165854Z">
@@ -36946,6 +36970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182724Z" creationid="Elisabetta Manuele" creationdate="20180402T182724Z">
         <seg>UCASE(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UNION [ALL | DISTINCT] Query_result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111152Z" creationid="manuel" creationdate="20180507T111152Z">
+        <seg>UNION [ALL | DISTINCT] Risultato_ricerca</seg>
       </tuv>
     </tu>
     <tu>
