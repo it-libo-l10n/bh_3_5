@@ -8494,6 +8494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;This query di&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;plays all names that begin with an underscore.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100645Z" creationid="manuel" creationdate="20180507T100645Z">
+        <seg>&lt;f0&gt;Questa ricerca &lt;/f0&gt;&lt;f1&gt;mostra&lt;/f1&gt;&lt;f2&gt; tutti i nomi che iniziano con un trattino basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This site provides support for LibreOffice, among other programs:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
@@ -9338,6 +9346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T191449Z" creationid="MicrosoftSucks" creationdate="20180316T191449Z">
         <seg>&lt;s20/&gt;Il tutto naturalmente dovrebbe anche essere mostrato nel corretto ordinamento.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3/&gt;'&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;\&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;' is defined here as the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ESCAPE &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;character.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100723Z" creationid="manuel" creationdate="20180507T100723Z">
+        <seg>&lt;s3/&gt;'&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;\&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;' è definito in questo caso come carattere &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ESCAPE &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26334,6 +26350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Name" FROM "Table_name" WHERE "Name" LIKE '\_%' ESCAPE '\'</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100541Z" creationid="manuel" creationdate="20180507T100541Z">
+        <seg>SELECT "Nome" FROM "Tabella_nome" WHERE "Nome" LIKE '\_%' ESCAPE '\'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Name", "Runtime" FROM "Table1" GROUP BY "Name", "Runtime" HAVING MIN("Runtime") &lt; '00:40:00';</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061556Z" creationid="manuel" creationdate="20180507T061556Z">
@@ -38582,6 +38606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[+ | -] { Expression [{ + | - | * | / | || } Expression]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100808Z" creationid="manuel" creationdate="20180507T100808Z">
+        <seg>[+ | -] { Espressione [{ + | - | * | / | || } Espressione]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[Addresses.MailMergeQuery.Gender] != "w" OR NOT [Addresses.MailMergeQuery.Surname]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123754Z" creationid="Elisabetta Manuele" creationdate="20180308T123754Z">
@@ -38714,6 +38746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061754Z" creationid="manuel" creationdate="20180507T061754Z">
         <seg>[Espressione SQL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[SQL Expression]: &lt;f0&gt;v&lt;/f0&gt;alues</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100750Z" creationid="manuel" creationdate="20180507T100750Z">
+        <seg>[Espressione SQL]: &lt;f0&gt;valore&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
