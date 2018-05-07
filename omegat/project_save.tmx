@@ -7638,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Parentheses around the condition, with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NOT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; outside them shows only those records that do not fulfill the condition in parentheses completely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T063742Z" creationid="manuel" creationdate="20180507T063742Z">
+        <seg>&lt;f0&gt;Le parentesi attorno alla condizione, con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;NOT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; al di fuori di esse mostrano solo quei record di dati che non soddisfano completamente la condizione tra parentesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164450Z" creationid="Marina Latini" creationdate="20171207T164450Z">
