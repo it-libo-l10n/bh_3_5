@@ -26342,6 +26342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT * FROM "Table_name" WHERE NOT ("Return_date" IS NULL AND "ReaderID" = 2);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T063606Z" creationid="manuel" creationdate="20180507T063606Z">
+        <seg>SELECT * FROM "Tabella_nome" WHERE NOT ("Data_rientro" IS NULL AND "LettoreID" = 2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT * FROM ″INFORMATION_SCHEMA″.″SYSTEM_ALIASES″</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102029Z" creationid="Elisabetta Manuele" creationdate="20180403T102029Z">
@@ -28546,6 +28554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T192653Z" creationid="Elisabetta Manuele" creationdate="20180308T192609Z">
         <seg>La scheda &lt;/f12&gt;&lt;f13&gt;Dati&lt;/f13&gt;&lt;f14&gt; della finestra di dialogo Proprietà del formulario appare leggermente diversa d&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;a quella&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; relativa ai formulari creati direttamente in un file di database &lt;/f17&gt;&lt;f18&gt;ODB&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; refers only to the first condition.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T063513Z" creationid="manuel" creationdate="20180507T063513Z">
+        <seg>La condizione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; si riferisce solo alla prima condizione.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
