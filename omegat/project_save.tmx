@@ -11718,6 +11718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At present this only works in direct SQL command mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145629Z" creationid="manuel" creationdate="20180507T145629Z">
+        <seg>Al momento questo lavora nel modo comando SQL diretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time the Add fields dialog is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T080716Z" creationid="Alessia Mazzarini" creationdate="20180314T191731Z">
@@ -28078,6 +28086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorting is again alphabetic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145526Z" creationid="manuel" creationdate="20180507T145526Z">
+        <seg>L'ordinamento è ancora alfabetico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorting is alphabetic.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145315Z" creationid="manuel" creationdate="20180507T145315Z">
@@ -39090,6 +39106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145932Z" creationid="manuel" creationdate="20180224T145932Z">
         <seg>[ORDER BY espressione-di-ordinamento [, ...]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[ORDER BY Ordering-Expression [, …]]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145657Z" creationid="manuel" creationdate="20180507T145657Z">
+        <seg>[ORDER BY Espressione-ordinamento [, …]]</seg>
       </tuv>
     </tu>
     <tu>
