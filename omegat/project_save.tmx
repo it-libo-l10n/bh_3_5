@@ -8566,6 +8566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To search for '&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;' or '&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;_&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;' itself, the characters must immediately follow another character defined as &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ESCAPE&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100254Z" creationid="manuel" creationdate="20180507T100254Z">
+        <seg>&lt;f0&gt;Per cercare '&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;' o '&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;_&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;' stesso, i caratteri devono immediatamente seguire un altro carattere definito come &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ESCAPE&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Type of list contents&lt;/f0&gt;: Valuelist | Table | Query | SQL | SQL [Native] | Tablefields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205222Z" creationid="Marco Marega" creationdate="20171101T205138Z">
