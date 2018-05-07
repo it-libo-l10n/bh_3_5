@@ -31782,6 +31782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The names from Table1 are displayed for which first names are given in Table2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073355Z" creationid="manuel" creationdate="20180507T073205Z">
+        <seg>Vengono visualizzati i nomi di Tabella1 per i quali i primi nomi sono riportati in Tabella2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The names of the labels have the suffix &lt;f1&gt;Label&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T215311Z" creationid="Marco Marega" creationdate="20171210T215311Z">
@@ -39202,6 +39210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072959Z" creationid="manuel" creationdate="20180507T072959Z">
         <seg>| EXISTS(risultato_ricerca)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| Value BETWEEN Value AND Value</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073430Z" creationid="manuel" creationdate="20180507T073430Z">
+        <seg>| Valore BETWEEN Valore AND Valore</seg>
       </tuv>
     </tu>
     <tu>
