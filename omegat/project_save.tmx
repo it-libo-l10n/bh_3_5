@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;'_'&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; replaces exactly one character.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T084624Z" creationid="manuel" creationdate="20180507T084624Z">
+        <seg>&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;'_'&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; sostituisce esattamente un carattere.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;Macro operator&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;br14/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211428Z" creationid="Marco Marega" creationdate="20180315T211308Z">
