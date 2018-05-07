@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;DISTINCT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is the default in this context.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T140151Z" creationid="manuel" creationdate="20180507T140151Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;DISTINCT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; è predefinito in questo contesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LIMIT 10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; shows only 10 records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T151332Z" creationid="manuel" creationdate="20180224T151332Z">
@@ -8546,6 +8554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100645Z" creationid="manuel" creationdate="20180507T100645Z">
         <seg>&lt;f0&gt;Questa ricerca &lt;/f0&gt;&lt;f1&gt;mostra&lt;/f1&gt;&lt;f2&gt; tutti i nomi che iniziano con un trattino basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This query yields all first names from table1 and Table2; the additional term &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; means that no duplicate first names will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T140125Z" creationid="manuel" creationdate="20180507T140125Z">
+        <seg>&lt;f0&gt;Questa ricerca restituisce tutti i primi nomi dalla tabella1 e dalla tabella2; il termine addizionale &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; signfica che verranno mostrati nomi univoci.</seg>
       </tuv>
     </tu>
     <tu>
