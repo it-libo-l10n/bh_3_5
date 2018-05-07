@@ -11280,8 +11280,8 @@
       <tuv lang="EN">
         <seg>As a record can only have one value in each field, &lt;s0/&gt;only a query which yields precisely one value can be displayed in full.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102430Z" creationid="manuel" creationdate="20180507T102430Z">
-        <seg>Come un record può avere solo un valore in ogni campo, &lt;s0/&gt;only a query which yields precisely one value can be displayed in full.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102521Z" creationid="manuel" creationdate="20180507T102430Z">
+        <seg>Come un record di dati può avere solo un valore in ogni campo, &lt;s0/&gt;solo una ricerca che restituisce esattamente un valore può essere visualizzata completamente.</seg>
       </tuv>
     </tu>
     <tu>
