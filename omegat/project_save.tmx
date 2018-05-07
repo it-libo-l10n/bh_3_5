@@ -19718,6 +19718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want a descending sort you must specify &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;DESC&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; explicitly.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T160839Z" creationid="manuel" creationdate="20180507T160839Z">
+        <seg>Se volete un ordinamento decrescente dovete specificarlo esplicitamente &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;DESC&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want a table of this type to contain data available for a whole session (from opening a database to closing it), choose &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222607Z" creationid="Marco Marega" creationdate="20180222T222607Z">
