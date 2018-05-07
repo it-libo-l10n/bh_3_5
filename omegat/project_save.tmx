@@ -6560,8 +6560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Combined with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ALL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; it signifies that all values of the group must correspond to the one expression.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103342Z" creationid="manuel" creationdate="20180507T103342Z">
-        <seg>&lt;f0&gt;Combinato con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ALL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; it signifies that all values of the group must correspond to the one expression.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103450Z" creationid="manuel" creationdate="20180507T103342Z">
+        <seg>&lt;f0&gt;Combinato con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ALL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; significa che tutti i valori del gruppo devono corrispondere a una sola espressione.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38878,6 +38878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[SQL Expression]: Expression</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103512Z" creationid="manuel" creationdate="20180507T103512Z">
+        <seg>[Espressione SQL]: Espressione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[SQL Expression]: conditions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T065322Z" creationid="manuel" creationdate="20180507T065322Z">
@@ -39406,6 +39414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{ 'Text' | Integer | Floating-point number</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103558Z" creationid="manuel" creationdate="20180507T103558Z">
+        <seg>{ 'Testo'| Intero | Numero in virgola mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{ &lt;Select-Formulation&gt; | "Table_name".* | * } [, ...]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145439Z" creationid="manuel" creationdate="20180224T145439Z">
@@ -39522,6 +39538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073430Z" creationid="manuel" creationdate="20180507T073430Z">
         <seg>| Valore BETWEEN Valore AND Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| ["Table".]"Field" | TRUE | FALSE | NULL }</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103639Z" creationid="manuel" creationdate="20180507T103639Z">
+        <seg>| ["Tabella".]"Campo" | TRUE | FALSE | NULL }</seg>
       </tuv>
     </tu>
     <tu>
