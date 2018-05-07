@@ -23878,6 +23878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often there is a condition that compares an expression with a whole group of values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102908Z" creationid="manuel" creationdate="20180507T102908Z">
+        <seg>Spesso esiste una condizione che confronta un'espressione con un intero gruppo di valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Old records can be changed, but no new records can be added.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205251Z" creationid="Marco Marega" creationdate="20171229T205251Z">
@@ -39482,6 +39490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073430Z" creationid="manuel" creationdate="20180507T073430Z">
         <seg>| Valore BETWEEN Valore AND Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| {ANY|ALL} (Queryresult which yields &lt;f0&gt;exactly one answer from &lt;/f0&gt;a whole column)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102836Z" creationid="manuel" creationdate="20180507T102836Z">
+        <seg>| {ANY|ALL} (Risultato della ricerca che produce &lt;f0&gt;esattamente una risposta da &lt;/f0&gt;una intera colonna)</seg>
       </tuv>
     </tu>
     <tu>
