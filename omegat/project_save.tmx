@@ -26558,6 +26558,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "First_name", "Surname" AS "Name" FROM "Table1" ORDER BY "Name";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161142Z" creationid="manuel" creationdate="20180507T161125Z">
+        <seg>SELECT "Primo_nome", "Cognome" AS "Nome" FROM "Tabella1" ORDER BY "Nome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "First_name", "Surname" AS "Name" FROM "Table1" ORDER BY "Surname";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T160940Z" creationid="manuel" creationdate="20180507T160940Z">
+        <seg>SELECT "Primo_nome", "Cognome" AS "Nome" FROM "Tabella1" ORDER BY "Cognome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "First_name", "Surname" AS "Name" FROM "Table1" ORDER BY 2;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161045Z" creationid="manuel" creationdate="20180507T161045Z">
+        <seg>SELECT "Primo_nome", "Cognome" AS "Nome" FROM "Tabella1" ORDER BY 2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "ID" &lt;= "a"."ID" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "ID" ASC</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151620Z" creationid="MicrosoftSucks" creationdate="20180501T150440Z">
@@ -39338,6 +39362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T115932Z" creationid="manuel" creationdate="20180302T115932Z">
         <seg>è equivalente a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is identical to</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T160952Z" creationid="manuel" creationdate="20180507T160952Z">
+        <seg>è identico a </seg>
       </tuv>
     </tu>
     <tu>
