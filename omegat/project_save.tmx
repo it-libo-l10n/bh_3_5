@@ -8294,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The records read from the table are those for which a “Return_date” has been entered and the "ReaderID" is 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T062712Z" creationid="manuel" creationdate="20180507T062712Z">
+        <seg>&lt;f0&gt;I record di dati letti dalla tabella sono quelli per i quali è stato inserito una "data_rientro" e il "LettoreID" è 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T152045Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
@@ -20114,6 +20122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200401Z" creationid="Marco Marega" creationdate="20180327T200401Z">
         <seg>Nella pratica è comune l'uso di una &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Vista&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; per le sub-query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice this means that all media loaned to a specific person and returned can be retrieved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T062814Z" creationid="manuel" creationdate="20180507T062814Z">
+        <seg>In pratica ciò significa che tutti i supporti prestati a una persona specifica e restituiti possono essere recuperati.</seg>
       </tuv>
     </tu>
     <tu>
