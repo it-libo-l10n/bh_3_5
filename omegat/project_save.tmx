@@ -29894,6 +29894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The condition is fulfilled if the value is included in the value list or the query result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080907Z" creationid="manuel" creationdate="20180507T080907Z">
+        <seg>La condizione è soddisfatta se il valore è incluso nella lista valori o nel risultato della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The conditions are only linked with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AND&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T063112Z" creationid="manuel" creationdate="20180507T063112Z">
@@ -31426,6 +31434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194039Z" creationid="Marco Marega" creationdate="20171125T194039Z">
         <seg>La lunghezza della maschera di digitazione determina quanti caratteri si possono inserire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The letter E itself occurs just &lt;f1&gt;before&lt;/f1&gt; the names that begin with E.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080650Z" creationid="manuel" creationdate="20180507T080650Z">
+        <seg>La stessa lettera E si trova solo &lt;f1&gt;prima di&lt;/f1&gt; i nomi che iniziano con E.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35734,6 +35750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This requires either a list of values or a query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080829Z" creationid="manuel" creationdate="20180507T080829Z">
+        <seg>Ciò richiede un elenco di valori o una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This requires the contents of the tables to be deleted and a new value such as "1" to be set for the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225453Z" creationid="Marco Marega" creationdate="20180224T225453Z">
@@ -39234,6 +39258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072335Z" creationid="manuel" creationdate="20180507T072335Z">
         <seg>| &lt;f0&gt;valore&lt;/f0&gt; IS [NOT] NULL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| &lt;f0&gt;v&lt;/f0&gt;alue [NOT] IN ( {&lt;f1&gt;v&lt;/f1&gt;alue [, ...] | Query result } )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080724Z" creationid="manuel" creationdate="20180507T080724Z">
+        <seg>| &lt;f0&gt;valore&lt;/f0&gt; [NOT] IN ( {&lt;f1&gt;valore&lt;/f1&gt; [, ...] | risultato ricerca } )</seg>
       </tuv>
     </tu>
     <tu>
