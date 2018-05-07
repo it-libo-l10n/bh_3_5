@@ -36678,6 +36678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To search for the content of text fields, place the content in quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T105742Z" creationid="manuel" creationdate="20180507T105742Z">
+        <seg>Per cercare il contenuto dei campi di testo, inserite il contenuto tra virgolette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To show these in a query, the Reader table must be included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150146Z" creationid="Manuel Frassinetti" creationdate="20171202T150146Z">
