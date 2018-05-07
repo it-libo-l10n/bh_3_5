@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;'%'&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; stands for any number of characters (including 0), &lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T084548Z" creationid="manuel" creationdate="20180507T084548Z">
+        <seg>&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;'%'&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; indica qualsiasi numero di caratteri (incluso 0), &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f5&gt;SELECT "Name" FROM "Table"&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205559Z" creationid="Marco Marega" creationdate="20180328T205559Z">
@@ -7994,6 +8002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170311Z" creationid="manuel" creationdate="20180430T170311Z">
         <seg>&lt;f0&gt;La formula &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HAVING&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ricorda molto da vicino la formula &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;WHERE&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LIKE&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; operator is one that is needed in many simple search functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T084421Z" creationid="manuel" creationdate="20180507T084421Z">
+        <seg>&lt;f0&gt;L'operatore &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LIKE&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è necessario in molte semplici funzioni di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33242,6 +33258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152810Z" creationid="Marco Marega" creationdate="20171230T152810Z">
         <seg>Il valore del campo data viene memorizzato nella tabella &lt;f0&gt;Filter&lt;/f0&gt; e trasferito &lt;f1&gt;per mezzo&lt;/f1&gt; dei collegamenti dal formulario secondario ai suo formulari secondari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value is entered using the following pattern:&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T084517Z" creationid="manuel" creationdate="20180507T084517Z">
+        <seg>Il valore viene inserito utilizzando il seguente modello:&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
