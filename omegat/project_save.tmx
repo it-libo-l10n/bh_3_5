@@ -11278,6 +11278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a record can only have one value in each field, &lt;s0/&gt;only a query which yields precisely one value can be displayed in full.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102430Z" creationid="manuel" creationdate="20180507T102430Z">
+        <seg>Come un record può avere solo un valore in ogni campo, &lt;s0/&gt;only a query which yields precisely one value can be displayed in full.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a search criterion, the Return_&lt;f0&gt;D&lt;/f0&gt;ate is set to “IS &lt;f1&gt;EMPTY&lt;/f1&gt;”, as in the previous example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T174239Z" creationid="Manuel Frassinetti" creationdate="20171214T173940Z">
@@ -30966,6 +30974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following queries are also referred to as sub-queries (subselects).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102251Z" creationid="manuel" creationdate="20180507T102251Z">
+        <seg>Le seguenti ricerche vengono anche definite sottoricerche (sottoselezioni).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following query calculates how many media have been loaned out, depending on the Reader_ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175022Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
@@ -39450,6 +39466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T101551Z" creationid="manuel" creationdate="20180507T101551Z">
         <seg>| Funzione ( [Parametero] [,...] )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| Query result which yields exactly one answer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102438Z" creationid="manuel" creationdate="20180507T102349Z">
+        <seg>| Risultato della ricerca che produce esattamente una risposta</seg>
       </tuv>
     </tu>
     <tu>
