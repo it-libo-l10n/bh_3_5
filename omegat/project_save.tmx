@@ -15150,6 +15150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields stand for the values that occur in those fields in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110026Z" creationid="manuel" creationdate="20180507T110026Z">
+        <seg>I campi rappresentano i valori che si verificano in quei campi nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fields such as house numbers, which were declared as text fields, are formatted as text after insertion into Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194638Z" creationid="Elisabetta Manuele" creationdate="20180308T194638Z">
@@ -21546,6 +21554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095948Z" creationid="Marina Latini" creationdate="20171207T095948Z">
         <seg>Numeri interi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integers are written without &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;quotes, as are floating-point numbers.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T105904Z" creationid="manuel" creationdate="20180507T105904Z">
+        <seg>I numeri interi sono scritti senza virgolette &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;, come i numeri a virgola mobile.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37442,6 +37458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203457Z" creationid="Marco Marega" creationdate="20171016T203457Z">
         <seg>Abitualmente &lt;f0&gt;&lt;f1&gt;Si&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;; i campi invisibili possono essere utilizzati come archivio temporaneo, ad esempio per creare delle combinazioni di campi con delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually fields are compared either with each other or with specific values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110051Z" creationid="manuel" creationdate="20180507T110051Z">
+        <seg>Di solito i campi vengono confrontati l'uno con l'altro o con valori specifici.</seg>
       </tuv>
     </tu>
     <tu>
