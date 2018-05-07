@@ -4222,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The query results for the first one lists the names of people whose run-time has been less than 40 minutes at least one time and the minimum run-time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060417Z" creationid="manuel" creationdate="20180507T060417Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I risultati della ricerca per il primo elencano i nomi di persone il cui tempo di esecuzione è stato inferiore a 40 minuti almeno una volta e il tempo di esecuzione minimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The range of persons shown can be filtered on last name to limit the detail shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222126Z" creationid="osvaldo" creationdate="20180103T222126Z">
@@ -21074,6 +21082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111251Z" creationid="Elisabetta Manuele" creationdate="20180308T111251Z">
         <seg>Nelle versioni comprese tra la 3.4.x e la 3.5.2, a causa di una modifica apportata alle impostazioni di base della creazione guidata etichette, si sono verificati errori di visualizzazione quando la larghezza delle etichette coincideva con quella della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; the second example, the search condition requires that an individual's balance must be positive.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060212Z" creationid="manuel" creationdate="20180507T060212Z">
+        <seg>Nel&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; secondo esempio, la condizione di ricerca richiede che il saldo di un individuo sia positivo.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
