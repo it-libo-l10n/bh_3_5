@@ -11182,6 +11182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As E is set as the upper limit, names beginning with E are not included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080449Z" creationid="manuel" creationdate="20180507T080449Z">
+        <seg>Dato che E è impostato come limite superiore, i nomi che iniziano con E non sono inclusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As LCASE(s)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T182803Z" creationid="Elisabetta Manuele" creationdate="20180402T182803Z">
@@ -35650,6 +35658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201938Z" creationid="Marco Marega" creationdate="20180327T201938Z">
         <seg>Questa ricerca presenta come seconda colonna il termine stesso del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query yields all names beginning with A, B, C &lt;f0&gt;or&lt;/f0&gt; D (and also with the corresponding lower-case letters).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080330Z" creationid="manuel" creationdate="20180507T080330Z">
+        <seg>Questa ricerca restituisce tutti i nomi che iniziano con A, B, C &lt;f0&gt;o&lt;/f0&gt; D (e anche con le corrispondenti lettere minuscole).</seg>
       </tuv>
     </tu>
     <tu>
