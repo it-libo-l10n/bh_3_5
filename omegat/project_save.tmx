@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;NULL&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; means no content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110755Z" creationid="manuel" creationdate="20180507T110755Z">
+        <seg>&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;NULL&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; significa nessun contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;Macro reserved expression&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;&lt;br19/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211324Z" creationid="Marco Marega" creationdate="20180315T211324Z">
@@ -1978,6 +1986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T101601Z" creationid="manuel" creationdate="20180302T101601Z">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Studenti &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;contiene i nomi degli studenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;TRUE&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;FALSE&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; usually derive from Yes/No fields.&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110728Z" creationid="manuel" creationdate="20180507T110728Z">
+        <seg>&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;VERO&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; e &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;FALSO&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; normalmente derivano dai campi Sì/No.&lt;br13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18946,6 +18962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231636Z" creationid="Marco Marega" creationdate="20180226T231636Z">
         <seg>Se sono specificati più campi, questa condizione si applica alla combinazione anzichè ai singoli campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If several tables are contained in the query, the table name must be given in addition to the field name, separated from the latter by a period.&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110624Z" creationid="manuel" creationdate="20180507T110624Z">
+        <seg>Se nella ricerca sono contenute più tabelle, è necessario fornire il nome della tabella oltre al nome del campo, separato da quest'ultimo da un punto.&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37466,6 +37490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203457Z" creationid="Marco Marega" creationdate="20171016T203457Z">
         <seg>Abitualmente &lt;f0&gt;&lt;f1&gt;Si&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;; i campi invisibili possono essere utilizzati come archivio temporaneo, ad esempio per creare delle combinazioni di campi con delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually SQL assumes that text without double quotes is without special characters, that is a single word without spaces and in upper case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110522Z" creationid="manuel" creationdate="20180507T110522Z">
+        <seg>Solitamente SQL presuppone che il testo senza virgolette sia privo di caratteri speciali, ovvero una singola parola senza spazi e in maiuscolo.</seg>
       </tuv>
     </tu>
     <tu>
