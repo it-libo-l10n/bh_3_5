@@ -23374,6 +23374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that a comma and a space are inserted between "Surname" and "First_name".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072041Z" creationid="manuel" creationdate="20180507T072041Z">
+        <seg>Nota che una virgola e uno spazio sono inseriti tra "Cognome" e "Nome".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that changing the background color affects the labels as well.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T194125Z" creationid="Marco Marega" creationdate="20171210T194125Z">
@@ -26250,6 +26258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T173228Z" creationid="Elisabetta Manuele" creationdate="20180430T173228Z">
         <seg>SELECT "Postcode"."Postcode" || ' &gt; ' || "Town"."Town" FROM "Postcode", "Town" WHERE "Postcode"."Town_ID" = "Town"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Surname" || ', ' || "First_name" AS "Name" FROM "Table_name"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T071930Z" creationid="manuel" creationdate="20180507T071930Z">
+        <seg>SELECT "Cognome" || ', ' || "Primo_nome" AS "Nome" FROM "Tabella_nome"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29858,6 +29874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222330Z" creationid="Marco Marega" creationdate="20180222T222330Z">
         <seg>Il contenuto delle tabella del tipo &lt;f0&gt;TEMPORARY&lt;/f0&gt; o &lt;f1&gt;TEMP&lt;/f1&gt; in modo predefinito viene cancellato quando avete finito di lavorare con un determinato record (&lt;f2&gt;ON COMMIT DELETE ROWS&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the fields "Surname" and "First_name" are displayed together in a field called "Name".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072009Z" creationid="manuel" creationdate="20180507T072009Z">
+        <seg>Il contenuto dei campi "Cognome" e "Primo nome" vengono visualizzati insieme in un campo chiamato "Nome".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33842,6 +33866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143829Z" creationid="Marco Marega" creationdate="20180218T143829Z">
         <seg>Conseguentemente queste proprietà non possono essere modificate usando la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These signs correspond to the well-known mathematical operators: &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072150Z" creationid="manuel" creationdate="20180507T072150Z">
+        <seg>Questi segni corrispondono ai noti operatori matematici: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39098,6 +39130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214611Z" creationid="Marco Marega" creationdate="20180222T214611Z">
         <seg>{CASCADE | SET DEFAULT | SET NULL}] |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| &lt;f0&gt;v&lt;/f0&gt;alue { = | &lt; | &lt;= | &gt; | &gt;= | &lt;&gt; | != } &lt;f1&gt;v&lt;/f1&gt;alue</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072123Z" creationid="manuel" creationdate="20180507T072123Z">
+        <seg>| &lt;f0&gt;&lt;/f0&gt;valore { = | &lt; | &lt;= | &gt; | &gt;= | &lt;&gt; | != } &lt;f1&gt;valore&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
