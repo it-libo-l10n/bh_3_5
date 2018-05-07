@@ -7934,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Shows all first names from table1 except for the first names contained in Table 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145158Z" creationid="manuel" creationdate="20180507T145158Z">
+        <seg>&lt;f0&gt;Mostra tutti i primi nomi dalla Tabella1 eccetto per i primi nomi contenuti nella Tabella2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Since the form has now been made accessible and the point at which it can be accessed is saved in the variable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;oForm&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, it is now reloaded &lt;/f3&gt;&lt;f4&gt;(refreshed)&lt;/f4&gt;&lt;f5&gt; with the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;reload()&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; command.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T211422Z" creationid="Marco Marega" creationdate="20180325T211422Z">
@@ -21190,6 +21198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case the default is to sort by primary key.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T144927Z" creationid="manuel" creationdate="20180507T144927Z">
+        <seg>In questo caso l'impostazione predefinita è ordinare per chiave primaria.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case the field &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Return_&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;ate&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; has been added as a displayed field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115704Z" creationid="Manuel Frassinetti" creationdate="20171216T115704Z">
@@ -22802,6 +22818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101222Z" creationid="Elisabetta Manuele" creationdate="20180402T101222Z">
         <seg>Lettere minuscole, a=0 b=1 ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MINUS [DISTINCT] | EXCEPT [DISTINCT] Query_result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T144949Z" creationid="manuel" creationdate="20180507T144949Z">
+        <seg>MINUS [DISTINCT] | EXCEPT [DISTINCT] Risultato_ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -26466,6 +26490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T175828Z" creationid="Alessia Mazzarini" creationdate="20180419T175828Z">
         <seg>SELECT "Nome"||' '||"Cognome"||CHAR(13)||"Via"||' '||"No"||CHAR13||"Codice postale"||' '||"Città" FROM "Nome"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "First_name" FROM "Table1" EXCEPT SELECT "First_name" FROM "Table2";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145040Z" creationid="manuel" creationdate="20180507T145040Z">
+        <seg>SELECT "Prima_nome" FROM "Tabella1" EXCEPT SELECT "Primo_nome" FROM "Tabella2";</seg>
       </tuv>
     </tu>
     <tu>
