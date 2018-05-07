@@ -19190,6 +19190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the values are letters, an alphabetic sort is used in which lower-case letters have the same value as the corresponding upper-case ones.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073817Z" creationid="manuel" creationdate="20180507T073817Z">
+        <seg>Se i valori sono lettere, viene utilizzato un ordinamento alfabetico in cui le lettere minuscole hanno lo stesso valore delle lettere maiuscole corrispondenti.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are further filters, this query can be extended:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202251Z" creationid="Marco Marega" creationdate="20180327T202251Z">
