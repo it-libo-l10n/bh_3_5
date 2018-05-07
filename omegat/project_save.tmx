@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;= ANY&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; yields the same result as &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;IN&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103329Z" creationid="manuel" creationdate="20180507T103329Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;= ANY&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; mostra lo stesso risultato di &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;IN&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Searchterm&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; has the field type &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;VARCHAR&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T185258Z" creationid="MicrosoftSucks" creationdate="20180316T185258Z">
@@ -6546,6 +6554,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134212Z" creationid="Marco Marega" creationdate="20180228T134212Z">
         <seg>&lt;f0&gt;Il tipo di colonna non trova corrispondenza in statement&lt;/f0&gt;— Dato che viene visualizzato anche il comando SQL, il riferimento è chiaramente alle colonne &lt;f1&gt;Adress.str_ID&lt;/f1&gt; e &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Combined with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ALL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; it signifies that all values of the group must correspond to the one expression.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103342Z" creationid="manuel" creationdate="20180507T103342Z">
+        <seg>&lt;f0&gt;Combinato con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ALL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; it signifies that all values of the group must correspond to the one expression.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Combined with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ANY&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; this signifies that the expression must occur at least once in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103357Z" creationid="manuel" creationdate="20180507T103201Z">
+        <seg>&lt;f0&gt;Combinato con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ANY&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ciò significa che l'espressione deve verificarsi almeno una volta nel gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34506,6 +34530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T132809Z" creationid="Marco Marega" creationdate="20171014T132809Z">
         <seg>Questa funzione richiama la finestra di modifica dei Formulari e appare il Formulario in vista struttura (Figura&lt;f0&gt;&lt;/f0&gt; &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can also be specified using the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;IN&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; condition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103249Z" creationid="manuel" creationdate="20180507T103249Z">
+        <seg>Questo può anche essere specificato usando la condizione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;IN&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
