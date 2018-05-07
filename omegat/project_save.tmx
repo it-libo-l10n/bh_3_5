@@ -24518,6 +24518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>People whose run-time&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;s have all be greater than 40 minutes are not listed.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060504Z" creationid="manuel" creationdate="20180507T060504Z">
+        <seg>Le persone il cui tempo di esecuzione&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; è stato superiore ai 40 minuti non vengono mostrate.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor in a field, and one click on the icon causes the filter to take over the content of this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144058Z" creationid="Marco Marega" creationdate="20180303T144058Z">
