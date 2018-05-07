@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;In the first one, the search condition requires that the &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;minimum &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;run-time be less than 40 minutes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060017Z" creationid="manuel" creationdate="20180507T060017Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Nel primo, la condzione di ricerca richiede che il tempo di esecuzione &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;minimo &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;sia inferiore a 40 minuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;The date for returning &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ch&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; borrowed item is compared with the current date &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;and the remaining loan duration shown&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180107T170536Z" creationid="osvaldo" creationdate="20180107T170536Z">
