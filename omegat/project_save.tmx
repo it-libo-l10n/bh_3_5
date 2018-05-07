@@ -8238,6 +8238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The expression can be a field name, a column number (beginning with 1 from the left), an alias (formulated with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AS for example&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;)&lt;/f3&gt;&lt;f4&gt; or a composite value expression (see [SQL Expression]: values).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T155801Z" creationid="manuel" creationdate="20180507T155801Z">
+        <seg>&lt;f0&gt;L'espressione può essere un nome di campo, un numero di colonna (che inizia con 1 da sinistra), un alias (formulato con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AS per esempio&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;)&lt;/f3&gt;&lt;f4&gt; o un'espressione di valore composito (vedete [Espressione SQL]: valori).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The first combobox, in which the street is entered, is called &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;comStr&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, the hidden foreign key field in the table underlying the form is called &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;numStrID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152235Z" creationid="Elisabetta Manuele" creationdate="20180412T152235Z">
@@ -33130,6 +33138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T161227Z" creationid="Alessia Mazzarini" creationdate="20180324T151757Z">
         <seg>La dimensione del rapporto non è in relazione con quella della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sort order is usually ascending (&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;ASC&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T155840Z" creationid="manuel" creationdate="20180507T155840Z">
+        <seg>L'ordinamento è solitamente crescente (&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;ASC&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
