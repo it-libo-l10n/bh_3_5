@@ -8078,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The corresponding field has no content, because nothing has been written to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072405Z" creationid="manuel" creationdate="20180507T072405Z">
+        <seg>&lt;f0&gt;Il campo corrispondente non ha contenuto, perché non è stato scritto nulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The creation of charts works at present only in Versions 3.3.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and 3.4.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;x&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T150736Z" creationid="Alessia Mazzarini" creationdate="20180328T150736Z">
@@ -39102,6 +39110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{ Equal to | Less than | Less than or equal to | Greater than | Greater than or equal to | Not equal to | Not equal to }</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072228Z" creationid="manuel" creationdate="20180507T072228Z">
+        <seg>{ Uguale a | Meno di | Minore o uguale a | Maggiore di | Maggiore o uguale a | Non uguale a | Non uguale a}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{ Expression | COUNT(*) |</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154305Z" creationid="manuel" creationdate="20180301T154305Z">
@@ -39130,6 +39146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214611Z" creationid="Marco Marega" creationdate="20180222T214611Z">
         <seg>{CASCADE | SET DEFAULT | SET NULL}] |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| &lt;f0&gt;v&lt;/f0&gt;alue IS [NOT] NULL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072335Z" creationid="manuel" creationdate="20180507T072335Z">
+        <seg>| &lt;f0&gt;valore&lt;/f0&gt; IS [NOT] NULL</seg>
       </tuv>
     </tu>
     <tu>
