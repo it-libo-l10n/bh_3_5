@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SELECT "Name", SUM("Input"-"Output") AS "Balance" FROM "Table1" GROUP BY "Name" &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;HAVING &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SUM("Input"-"Output") &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt; 0&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;;&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061702Z" creationid="manuel" creationdate="20180507T061702Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SELECT "Nome", SUM("Entrate"-"Uscite") AS "Saldo" FROM "Tabella1" GROUP BY "Nome" &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;HAVING &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SUM("Entrate"-"Uscite") &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt; 0&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;;&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SELECT ALL&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is the default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T174746Z" creationid="manuel" creationdate="20180224T174746Z">
@@ -6674,6 +6682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T212525Z" creationid="Marco Marega" creationdate="20171014T212525Z">
         <seg>Gli&lt;f0&gt;Eventi&lt;/f0&gt; possono attivare delle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Example&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061506Z" creationid="manuel" creationdate="20180507T061506Z">
+        <seg>&lt;f0&gt;Esempi&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26170,6 +26186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
         <seg>SELECT "ID", "Numero", "Prezzo" FROM "Magazzino", "Spedizione" WHERE "Spedizione"."magazzinoID" = "Magazzino"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Name", "Runtime" FROM "Table1" GROUP BY "Name", "Runtime" HAVING MIN("Runtime") &lt; '00:40:00';</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061556Z" creationid="manuel" creationdate="20180507T061556Z">
+        <seg>SELECT "Nome", "Tempoesecuzione" FROM "Tabella1" GROUP BY "Nome", "Tempoesecuzione" HAVING MIN("Esecuzione") &lt; '00:40:00';</seg>
       </tuv>
     </tu>
     <tu>
