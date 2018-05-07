@@ -21456,8 +21456,8 @@
       <tuv lang="EN">
         <seg>Instead of a detailed &lt;f0&gt;list of all the fields of a table&lt;/f0&gt;, &lt;f1&gt;i&lt;/f1&gt;t&lt;f2&gt;s&lt;/f2&gt; total content can be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T112329Z" creationid="manuel" creationdate="20180302T111419Z">
-        <seg>Invece di un elenco &lt;f0&gt; dettagliato di tutti i campi di una tabella&lt;/f0&gt;, è possibile visualizzare il suo contenuto totale&lt;/f2&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111102Z" creationid="manuel" creationdate="20180302T111419Z">
+        <seg>Invece di un elenco &lt;f0&gt; dettagliato di tutti i campi di una tabella&lt;/f0&gt;, è possibile visualizzare il suo contenuto totale&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21914,6 +21914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153957Z" creationid="Elisabetta Manuele" creationdate="20180412T153957Z">
         <seg>È necessario che il salvataggio avvenga a ogni modifica del contenuto all'interno della casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not the same thing as 0 but rather corresponds to “empty”.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111001Z" creationid="manuel" creationdate="20180507T111001Z">
+        <seg>Non è la stessa cosa di 0 ma piuttosto corrisponde a "vuoto".&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
