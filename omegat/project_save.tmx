@@ -19078,6 +19078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If such an alias is set, all the table names in the query must be altered accordingly:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161919Z" creationid="manuel" creationdate="20180507T161919Z">
+        <seg>Se viene impostato un alias, tutti i nomi delle tabelle nella query devono essere modificati di conseguenza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If that does not open it, your database is past saving.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T103844Z" creationid="Elisabetta Manuele" creationdate="20180403T103844Z">
@@ -33474,6 +33482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T221550Z" creationid="Marco Marega" creationdate="20171217T221550Z">
         <seg>Alla tabella viene assegnata una chiave primaria con il valore 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table name can also be given an alias, but this will not be reproduced in table view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161850Z" creationid="manuel" creationdate="20180507T161850Z">
+        <seg>Al nome della tabella può anche essere assegnato un alias, ma questo non verrà riprodotto nella vista tabella.</seg>
       </tuv>
     </tu>
     <tu>
