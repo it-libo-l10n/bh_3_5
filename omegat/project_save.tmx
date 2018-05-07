@@ -6366,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Basically values serve as arguments for various expressions, dependent on the source format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T104334Z" creationid="manuel" creationdate="20180507T104334Z">
+        <seg>&lt;f0&gt;Fondamentalmente i valori servono come argomenti per varie espressioni, a seconda del formato sorgente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Because the query is grouped by the entries of the field Class, EVERY will return a value for &lt;/f0&gt;&lt;f1&gt;the field, &lt;/f1&gt;&lt;f2&gt;Swimmer, for each class.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102026Z" creationid="manuel" creationdate="20180302T102026Z">
