@@ -26398,6 +26398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQL expressions are combined according to the following scheme:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061934Z" creationid="manuel" creationdate="20180507T061934Z">
+        <seg>Le espressioni SQL sono combinate secondo lo schema seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQL standard function, &lt;f0&gt;s&lt;/f0&gt;ynonym for USER().</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T100000Z" creationid="Elisabetta Manuele" creationdate="20180403T100000Z">
@@ -38398,6 +38406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[NOT] condition [{ OR | AND } condition]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061953Z" creationid="manuel" creationdate="20180507T061953Z">
+        <seg>[NOT] condizione [{ OR | AND } condizione]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[ON COMMIT {DELETE | PRESERVE} ROWS]:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222138Z" creationid="Marco Marega" creationdate="20180222T222138Z">
@@ -38426,6 +38442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145932Z" creationid="manuel" creationdate="20180224T145932Z">
         <seg>[ORDER BY espressione-di-ordinamento [, ...]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[SQL Expression]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061754Z" creationid="manuel" creationdate="20180507T061754Z">
+        <seg>[Espressione SQL]</seg>
       </tuv>
     </tu>
     <tu>
