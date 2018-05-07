@@ -26438,6 +26438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "First_name" FROM "Table1" UNION DISTINCT SELECT "First_name" FROM "Table2";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T112300Z" creationid="manuel" creationdate="20180507T112300Z">
+        <seg>SELECT "Primo_nome" FROM "Tabella1" UNION DISTINCT SELECT "Primo_nome" FROM "Tabella2";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "ID" &lt;= "a"."ID" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "ID" ASC</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151620Z" creationid="MicrosoftSucks" creationdate="20180501T150440Z">
