@@ -14358,6 +14358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&lt;f0&gt;x&lt;/f0&gt;ample:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073021Z" creationid="manuel" creationdate="20180507T073021Z">
+        <seg>Esempio&lt;f0&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>EAN13 barcodes can be created using &lt;f0&gt;ean13.ttf&lt;/f0&gt; as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101038Z" creationid="Elisabetta Manuele" creationdate="20180402T101038Z">
@@ -17738,6 +17746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T205717Z" creationid="Marco Marega" creationdate="20171109T205717Z">
         <seg>In ogni caso, solo i valori 1 (per On) e 0 (per Off) possono essere trasferiti al campo di dati sottostante &lt;f0&gt;(le&lt;/f0&gt; caselle di controllo agiscono come campi per la scelta tra un Si o un No&lt;f1&gt;)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However the default set-up in Base is that empty fields in the database are set to &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NULL&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072926Z" creationid="manuel" creationdate="20180507T072926Z">
+        <seg>Tuttavia, l'impostazione predefinita in Base è che i campi vuoti nel database sono impostati su  &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NULL&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26246,6 +26262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Name" FROM "Table1" WHERE EXISTS (SELECT "First_name" FROM "Table2" WHERE "Table2"."First_name" = "Table1"."Name")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073128Z" creationid="manuel" creationdate="20180507T073101Z">
+        <seg>SELECT "Nome" FROM "Tabella1" WHERE EXISTS (SELECT "Primo_nome" FROM "Tabella2" WHERE "Tabella2"."Primo_nome" = "Tabella1"."Nome")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Name", "Runtime" FROM "Table1" GROUP BY "Name", "Runtime" HAVING MIN("Runtime") &lt; '00:40:00';</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061556Z" creationid="manuel" creationdate="20180507T061556Z">
@@ -34358,6 +34382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This cannot be determined unambiguo&lt;/f0&gt;&lt;f1&gt;u&lt;/f1&gt;&lt;f2&gt;sly in the GUI, since a visually empty text field does not mean that the field is completely without content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072844Z" creationid="manuel" creationdate="20180507T072844Z">
+        <seg>Questo non può essere determinato in modo univoco&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; nella GUI, dal momento che un campo di testo visivamente vuoto non significa che il campo sia completamente senza contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This causes a field to receive the focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200346Z" creationid="Marco Marega" creationdate="20171017T200346Z">
@@ -39162,6 +39194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072123Z" creationid="manuel" creationdate="20180507T072123Z">
         <seg>| &lt;f0&gt;&lt;/f0&gt;valore { = | &lt; | &lt;= | &gt; | &gt;= | &lt;&gt; | != } &lt;f1&gt;valore&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>| EXISTS(Query_result)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072959Z" creationid="manuel" creationdate="20180507T072959Z">
+        <seg>| EXISTS(risultato_ricerca)</seg>
       </tuv>
     </tu>
     <tu>
