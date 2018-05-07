@@ -35878,6 +35878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This would cover all records, except for those for "ReaderID" number 2, which have not yet been returned.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T065300Z" creationid="manuel" creationdate="20180507T065300Z">
+        <seg>Ciò coprirà tutti i record di dati, ad eccezione di quelli per "LettoreID" numero 2, che non sono ancora stati restituiti.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This yields the following query:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152823Z" creationid="Marco Marega" creationdate="20180414T152823Z">
@@ -38510,6 +38518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[SQL Expression]: conditions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T065322Z" creationid="manuel" creationdate="20180507T065322Z">
+        <seg>[Espressione SQL]: condizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[SumMarksClass] / ([ClassNumber]+1)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T173049Z" creationid="Alessia Mazzarini" creationdate="20180419T173049Z">
@@ -39050,6 +39066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215209Z" creationid="Marco Marega" creationdate="20180303T215209Z">
         <seg>{ VALUES(&lt;f0&gt;"Valore campo"&lt;/f0&gt; [,...]) | &lt;Formula-di-selezione&gt;};</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{ value [|| &lt;f0&gt;v&lt;/f0&gt;alue]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T065352Z" creationid="manuel" creationdate="20180507T065352Z">
+        <seg>{ valore [|| &lt;f0&gt;&lt;/f0&gt;valore]</seg>
       </tuv>
     </tu>
     <tu>
