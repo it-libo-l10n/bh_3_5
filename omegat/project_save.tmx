@@ -21511,6 +21511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this query the "Media" table is accessed using an alias.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T164456Z" creationid="manuel" creationdate="20180508T164456Z">
+        <seg>In questa ricerca si accede alla tabella "Media" usando un alias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this query the primary key fields are counted (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT COUNT( "ID" ) AS "Count"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201628Z" creationid="Marco Marega" creationdate="20180327T201628Z">
@@ -33143,6 +33151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query cannot be edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T164522Z" creationid="manuel" creationdate="20180508T164522Z">
+        <seg>La ricerca non è modificabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query ceases to be editable, if it consists of more than one table and the tables are accessed via an alias.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163307Z" creationid="manuel" creationdate="20180508T163307Z">
@@ -36593,8 +36609,8 @@
       <tuv lang="EN">
         <seg>This query is editable as both primary keys are included and can be accessed in the tables without using an alias.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163836Z" creationid="manuel" creationdate="20180508T163836Z">
-        <seg>Questa query è modificabile poiché entrambe le chiavi primarie sono incluse e sono accessibili nelle tabelle senza utilizzare un alias.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T164531Z" creationid="manuel" creationdate="20180508T163836Z">
+        <seg>Questa ricerca è modificabile poiché entrambe le chiavi primarie sono incluse e sono accessibili nelle tabelle senza utilizzare un alias.</seg>
       </tuv>
     </tu>
     <tu>
