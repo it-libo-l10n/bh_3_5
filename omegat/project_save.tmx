@@ -19839,6 +19839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish a form to display additional Information that would otherwise not be visible, there are various query possibilities.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152313Z" creationid="manuel" creationdate="20180508T152313Z">
+        <seg>Se si desidera che un modulo visualizzi informazioni aggiuntive che altrimenti non sarebbero visibili, esistono varie possibilità di interrogazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish the new database to have different relationships from the original one, you can arrange this by using appropriate queries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T122008Z" creationid="Elisabetta Manuele" creationdate="20180310T122008Z">
@@ -30919,6 +30927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The disadvantage of this method is that changes in the records may affect the query result, but unfortunately these changes are not automatically displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152513Z" creationid="manuel" creationdate="20180508T152513Z">
+        <seg>Lo svantaggio di questo metodo è che le modifiche nei record possono influire sul risultato della ricerca, ma sfortunatamente queste modifiche non vengono visualizzate automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The display form must be reloaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124029Z" creationid="Marco Marega" creationdate="20180404T124029Z">
@@ -33387,6 +33403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173525Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
         <seg>La ricerca semplice per il campo Titolo dalla tabella Supporto mostra le voci di test per questa tabella, 9 record in tutto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest is to retrieve this information with independent queries and insert the results into the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152344Z" creationid="manuel" creationdate="20180508T152344Z">
+        <seg>Il più semplice è recuperare queste informazioni con ricerche indipendenti e inserire i risultati nel modulo.</seg>
       </tuv>
     </tu>
     <tu>
