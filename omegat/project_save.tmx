@@ -6734,6 +6734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Design t&lt;/f0&gt;&lt;f1&gt;h&lt;/f1&gt;&lt;f2&gt;e form to show one record of the query at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160507Z" creationid="manuel" creationdate="20180508T160507Z">
+        <seg>&lt;f0&gt;Progettate &lt;/f0&gt;&lt;f1&gt;il&lt;/f1&gt;&lt;f2&gt; formulario per mostrare un record di dati della ricerca alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Dialogs are terminated with the endExecute() command and completely removed from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;memory&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; with Dispose().&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110523Z" creationid="Elisabetta Manuele" creationdate="20180502T110523Z">
@@ -20137,8 +20145,8 @@
       <tuv lang="EN">
         <seg>In addition only the information relevant to the corresponding Receipt_ID needs to be filtered through the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160149Z" creationid="manuel" creationdate="20180508T160149Z">
-        <seg>Inoltre, solo le informazioni relative al Receipt_ID corrispondente devono essere filtrate attraverso il modulo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160532Z" creationid="manuel" creationdate="20180508T160149Z">
+        <seg>Inoltre, solo le informazioni relative al Receipt_ID corrispondente devono essere filtrate attraverso il formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26723,6 +26731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153647Z" creationid="manuel" creationdate="20180508T153522Z">
         <seg>SELECT "Checkout"."Receipt_ID", "Checkout"."Totale", "Magazzino"."Oggetto", "Magazzino"."Prezzo_unitario&lt;f0&gt;&lt;/f0&gt;", "Checkout"."Totale"*"Magazzino"."Prezzo_unitario" AS "Prezzo_Totale&lt;f1&gt;&lt;/f1&gt;" FROM "Checkout", "Oggetto" WHERE "Magazzino"."ID" = "Checkout"."Oggetto&lt;f2&gt;_&lt;/f2&gt;ID";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Checkout"."Receipt_ID", SUM("Checkout"."Total"*"Stock"."Unit_price") AS "Sum" FROM "Checkout", "Stock" WHERE "Stock"."ID" = "Checkout"."Item&lt;f0&gt;_&lt;/f0&gt;ID" GROUP BY "Checkout"."Receipt_ID";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160322Z" creationid="manuel" creationdate="20180508T160322Z">
+        <seg>SELECT "Checkout"."Receipt_ID", SUM("Checkout"."Totale"*"Magazzino"."Prezzo_unitario") AS "Sum" FROM "Checkout", "Magazzino" WHERE "Magazzino"."ID" = "Checkout"."Oggetto&lt;f0&gt;_&lt;/f0&gt;ID" GROUP BY "Checkout"."Receipt_ID";</seg>
       </tuv>
     </tu>
     <tu>
