@@ -9478,6 +9478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s3/&gt;Since the query is grouped by Receipt_ID, the form shows information about one customer at a time.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160622Z" creationid="manuel" creationdate="20180508T160622Z">
+        <seg>&lt;s3/&gt;Poiché la ricerca è raggruppata per Receipt_ID, il formulario mostra le informazioni su un cliente alla volta.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s30/&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;f31&gt;&lt;f32&gt;EVERY&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt; returns &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;1&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt; only if every entry for the field is &lt;/f38&gt;&lt;/f37&gt;&lt;f39&gt;&lt;f40&gt;1&lt;/f40&gt;&lt;/f39&gt;&lt;f41&gt;&lt;f42&gt;, and returns &lt;/f42&gt;&lt;/f41&gt;&lt;f43&gt;&lt;f44&gt;FALSE&lt;/f44&gt;&lt;/f43&gt;&lt;f45&gt;&lt;f46&gt; if at least one entry is &lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;&lt;f48&gt;0&lt;/f48&gt;&lt;/f47&gt;&lt;f49&gt;&lt;f50&gt;.&lt;/f50&gt;&lt;/f49&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T170605Z" creationid="manuel" creationdate="20180301T170605Z">
@@ -21187,6 +21195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150943Z" creationid="manuel" creationdate="20180508T150943Z">
         <seg>Nel modulo di prestito è presente una casella di riepilogo che mostra solo i media non ancora concessi in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the loaning of media, it makes no sense to display for a reader items that have already been &lt;f0&gt;returned&lt;/f0&gt; some time ago.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160850Z" creationid="manuel" creationdate="20180508T160850Z">
+        <seg>Nel prestito di media, non ha senso visualizzare per un lettore elementi che sono già stati &lt;f0&gt;restituiti&lt;/f0&gt; qualche tempo fa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35071,6 +35087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This also applies to a query that links several tables together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160725Z" creationid="manuel" creationdate="20180508T160725Z">
+        <seg>Questo vale anche per una ricerca che collega più tabelle insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This also shows that new entries are possible.&lt;/f23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104714Z" creationid="Manuel Frassinetti" creationdate="20171202T104714Z">
@@ -37267,6 +37291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T184700Z" creationid="Alessia Mazzarini" creationdate="20180327T171253Z">
         <seg>Per caricare un campo di dati i&lt;f2&gt;mmagini, specificate il &lt;/f2&gt;campo nella scheda &lt;f3&gt;Dati&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make entries into a query, the primary key for the table underlying the query must be present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160658Z" creationid="manuel" creationdate="20180508T160658Z">
+        <seg>Per creare voci in una ricerca, è necessario che sia presente la chiave primaria per la tabella sottostante alla query.</seg>
       </tuv>
     </tu>
     <tu>
