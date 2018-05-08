@@ -982,14 +982,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>24</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153152Z" creationid="manuel" creationdate="20180508T153152Z">
-        <seg>2424</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>240</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095323Z" creationid="Marina Latini" creationdate="20171207T095323Z">
@@ -17327,6 +17319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here a query can help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153359Z" creationid="manuel" creationdate="20180508T153359Z">
+        <seg>Qui una ricerca può aiutare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here again a suitable SQL command is useful, coupled with a delete instruction.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T174008Z" creationid="Elisabetta Manuele" creationdate="20180429T174008Z">
@@ -21291,6 +21291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123845Z" creationid="Elisabetta Manuele" creationdate="20180308T123845Z">
         <seg>Con la stessa procedura potete creare voci per il genere maschile e per quelle mancanti nelle due formule introduttive rimanenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the same way, it is impossible to use a list box next to the item to show at least the unit price.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153332Z" creationid="manuel" creationdate="20180508T153332Z">
+        <seg>Allo stesso modo, è impossibile utilizzare una casella di riepilogo accanto all'elemento per mostrare almeno il prezzo unitario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38339,6 +38347,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150843Z" creationid="manuel" creationdate="20180508T150843Z">
         <seg>Ciò che viene effettivamente visualizzato è "Cognome, nome - ID: valore ID".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is hidden behind the numbers cannot be made visible by using a list box, as the foreign key is input directly using the barcode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153308Z" creationid="manuel" creationdate="20180508T153308Z">
+        <seg>Ciò che è nascosto dietro i numeri non può essere reso visibile utilizzando una casella di riepilogo, poiché la chiave esterna viene immessa direttamente utilizzando il codice a barre.</seg>
       </tuv>
     </tu>
     <tu>
