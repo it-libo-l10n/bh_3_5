@@ -12014,6 +12014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because of this, the abbreviated form should be used only in exceptional circumstances.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142811Z" creationid="manuel" creationdate="20180508T142811Z">
+        <seg>Per questo motivo, la forma abbreviata deve essere utilizzata solo in circostanze eccezionali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because titles can have multiple subtitles or sometimes none at all, the subtitles are stored in a separate table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214801Z" creationid="Marco Marega" creationdate="20180126T214801Z">
@@ -22806,6 +22814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List box fields show a value that does not correspond to the content of the underlying table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142841Z" creationid="manuel" creationdate="20180508T142841Z">
+        <seg>I campi della casella di riepilogo mostrano un valore che non corrisponde al contenuto della tabella sottostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List boxes cannot be added to a query; they are only usable in forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172746Z" creationid="Manuel Frassinetti" creationdate="20171204T172746Z">
@@ -26798,6 +26814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "a"."First_name", "a"."Surname" AS "Name", "b"."Class" FROM "Table1" "a", "Table2" "b" WHERE "a"."Class_ID" = "b"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142717Z" creationid="manuel" creationdate="20180508T142717Z">
+        <seg>SELECT "a"."Primo_nome", "a"."Cognome" AS "Nome", "b"."Classe" FROM "Tabella1" "a", "Tabella2" "b" WHERE "a"."Classe_ID" = "b"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "a"."First_name", "a"."Surname" AS "Name", "b"."Class" FROM "Table1" AS "a", "Table2" AS "b" WHERE "a"."Class_ID" = "b"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142552Z" creationid="manuel" creationdate="20180508T142552Z">
@@ -30034,6 +30058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211504Z" creationid="Marco Marega" creationdate="20171216T211504Z">
         <seg>L'ordine ascendente mostra in cima i supporti in prestito da un periodo più lungo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The assignment of an alias for a table can be carried out more briefly without using the term AS:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142624Z" creationid="manuel" creationdate="20180508T142624Z">
+        <seg>L'assegnazione di un alias per una tabella può essere eseguita più brevemente senza utilizzare il termine AS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34518,6 +34550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are used to display the value assigned by a user to a foreign key rather than the key itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142908Z" creationid="manuel" creationdate="20180508T142908Z">
+        <seg>Vengono utilizzati per visualizzare il valore assegnato da un utente a una chiave esterna anziché alla chiave stessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are useful for quick adjustment of fields in a single area of the Report Builder, but in principle everything can be done by direct editing of field properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180415T172253Z" creationid="Alessia Mazzarini" creationdate="20180315T220102Z">
@@ -35442,6 +35482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T200842Z" creationid="Marco Marega" creationdate="20171017T200842Z">
         <seg>Questo accade, ad esempio, quando si inizia un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This however makes the code less readable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142743Z" creationid="manuel" creationdate="20180508T142743Z">
+        <seg>Ciò tuttavia rende il codice meno leggibile.</seg>
       </tuv>
     </tu>
     <tu>
