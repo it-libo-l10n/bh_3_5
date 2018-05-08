@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153152Z" creationid="manuel" creationdate="20180508T153152Z">
+        <seg>2424</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>240</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095323Z" creationid="Marina Latini" creationdate="20171207T095323Z">
@@ -10582,6 +10590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After all, the items are identified only by reading in a barcode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153108Z" creationid="manuel" creationdate="20180508T153108Z">
+        <seg>Dopo tutto, gli oggetti sono identificati solo leggendo un codice a barre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After changing the code, &lt;f0&gt;content.xml&lt;/f0&gt; must be put back into the *.odb archive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165835Z" creationid="Elisabetta Manuele" creationdate="20180403T165835Z">
@@ -11922,6 +11938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155405Z" creationid="steevie" creationdate="20180205T154558Z">
         <seg>Una bella sfortuna se la chiave primaria è stata impostata come auto-incrementale, come si fa di solito!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Barcode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153145Z" creationid="manuel" creationdate="20180508T153145Z">
+        <seg>Codici a barre</seg>
       </tuv>
     </tu>
     <tu>
@@ -37423,6 +37447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153137Z" creationid="manuel" creationdate="20180508T153137Z">
+        <seg>Totale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Transfering a foreign key value from a combobox to a numeric field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200405Z" creationid="Marco Marega" creationdate="20180414T200405Z">
@@ -38875,6 +38907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215157Z" creationid="Marco Marega" creationdate="20180204T215157Z">
         <seg>Senza una chiave primaria, il database non può &lt;s0/&gt;accedere alle tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without a query, the form shows only:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153133Z" creationid="manuel" creationdate="20180508T153133Z">
+        <seg>Senza una riceca, il modulo mostra solo:</seg>
       </tuv>
     </tu>
     <tu>
