@@ -12214,6 +12214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But imagine how it would look if a salutation read Mr "Müller II"!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150526Z" creationid="manuel" creationdate="20180508T150526Z">
+        <seg>Ma immaginate come sarebbe se un saluto leggesse il signor "Müller II"!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But in that case the content that would previously have appeared in the &lt;f3&gt;Details&lt;/f3&gt; section must be stored in the &lt;f4&gt;gro&lt;/f4&gt;&lt;f5&gt;up header&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180419T181304Z" creationid="Alessia Mazzarini" creationdate="20180411T172411Z">
@@ -26811,6 +26819,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143921Z" creationid="manuel" creationdate="20180508T143921Z">
         <seg>SELECT "Cognome"||', '||"Primo_nome", "ID" FROM "Tabella1" ORDER BY "Cognome"||', '||"Primo_nome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Surname"||', '||"First_name"||' - ID:'||"ID", "ID" FROM "Table1" ORDER BY "Surname"||', '||"First_name"||"ID";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150615Z" creationid="manuel" creationdate="20180508T150615Z">
+        <seg>SELECT "Cognome"||', '||"Primo_nome"||' - ID:'||"ID", "ID" FROM "Tabella1" ORDER BY "Cognome"||', '||"Primo_nome"||"ID";</seg>
       </tuv>
     </tu>
     <tu>
