@@ -12216,8 +12216,8 @@
       <tuv lang="EN">
         <seg>But imagine how it would look if a salutation read Mr "Müller II"!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150526Z" creationid="manuel" creationdate="20180508T150526Z">
-        <seg>Ma immaginate come sarebbe se un saluto leggesse il signor "Müller II"!</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150708Z" creationid="manuel" creationdate="20180508T150526Z">
+        <seg>Ma immaginate come sarebbe se un saluto leggesse signor "Müller II"!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17311,6 +17311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here all records are distinguishable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150651Z" creationid="manuel" creationdate="20180508T150651Z">
+        <seg>Qui tutti i record sono distinguibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here all tables and queries in the selected database are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T123052Z" creationid="Elisabetta Manuele" creationdate="20180308T123052Z">
@@ -21107,6 +21115,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214206Z" creationid="Marco Marega" creationdate="20180227T214206Z">
         <seg>Nelle tabelle collegate, tutte le chiavi esterne saranno impostate a NULL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the loan form, there is a list box which only shows the media that have not yet been loaned out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150943Z" creationid="manuel" creationdate="20180508T150943Z">
+        <seg>Nel modulo di prestito è presente una casella di riepilogo che mostra solo i media non ancora concessi in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38203,6 +38219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085814Z" creationid="Marina Latini" creationdate="20171003T085814Z">
         <seg>Termini utilizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is actually displayed is "Surname, First name – ID:ID value".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150843Z" creationid="manuel" creationdate="20180508T150843Z">
+        <seg>Ciò che viene effettivamente visualizzato è "Cognome, nome - ID: valore ID".</seg>
       </tuv>
     </tu>
     <tu>
