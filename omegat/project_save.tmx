@@ -23895,6 +23895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now at least after the information has been entered, we know how much needs to be paid for 3 * Item'17'.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T155108Z" creationid="manuel" creationdate="20180508T155108Z">
+        <seg>Ora, almeno dopo aver inserito le informazioni, sappiamo quanto deve essere pagato per 3 * Oggetto'17 '.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now fields from the Reader table can be entered into the tabular area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162446Z" creationid="Manuel Frassinetti" creationdate="20171202T162446Z">
