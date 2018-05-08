@@ -20135,6 +20135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition only the information relevant to the corresponding Receipt_ID needs to be filtered through the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160149Z" creationid="manuel" creationdate="20180508T160149Z">
+        <seg>Inoltre, solo le informazioni relative al Receipt_ID corrispondente devono essere filtrate attraverso il modulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition the field names are formatted as table headers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T201146Z" creationid="Elisabetta Manuele" creationdate="20180308T201146Z">
@@ -38371,6 +38379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153308Z" creationid="manuel" creationdate="20180508T153308Z">
         <seg>Ciò che è nascosto dietro i numeri non può essere reso visibile utilizzando una casella di riepilogo, poiché la chiave esterna viene immessa direttamente utilizzando il codice a barre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is still lacking is what the customer needs to pay overall.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160214Z" creationid="manuel" creationdate="20180508T160214Z">
+        <seg>Ciò che manca ancora è ciò che il cliente deve pagare in generale.</seg>
       </tuv>
     </tu>
     <tu>
