@@ -15198,6 +15198,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Family members appear together, one under another; however different families with the same surname would be interleaved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T144433Z" creationid="manuel" creationdate="20180508T144332Z">
+        <seg>I membri di una famiglia appaiono insieme, uno sotto l'altro; tuttavia diverse famiglie con lo stesso cognome sarebbero interfogliate.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070308Z" creationid="ldaghino" creationdate="20171003T070308Z">
@@ -36954,6 +36963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131148Z" creationid="Marina Latini" creationdate="20171207T111258Z">
         <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f4&gt;F1&lt;/f4&gt; oppure selezionate &lt;f5&gt;Guida di LibreOffice&lt;/f5&gt; dal menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To distinguish them, we would need to group them differently within the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T144411Z" creationid="manuel" creationdate="20180508T144411Z">
+        <seg>Per distinguerli, dovremmo raggrupparli in modo diverso all'interno della tabella.</seg>
       </tuv>
     </tu>
     <tu>
