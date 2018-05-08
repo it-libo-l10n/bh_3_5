@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' || "ID", "ID" FROM "Media" WHERE "ID" NOT IN (SELECT "Media_ID" FROM &lt;s0/&gt;"Loan" WHERE "Return_Date" IS &lt;s1/&gt;NULL) ORDER BY &lt;s2/&gt;"Title" || ' - Nr.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T151809Z" creationid="manuel" creationdate="20180508T151809Z">
+        <seg>' || "ID", "ID" FROM "Media" WHERE "ID" NOT IN (SELECT "Media_ID" FROM &lt;s0/&gt;"Prestito" WHERE "Data_rientro" IS &lt;s1/&gt;NULL) ORDER BY &lt;s2/&gt;"Titolo" || ' - Nr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'... and remove from storage</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T110403Z" creationid="Elisabetta Manuele" creationdate="20180502T110403Z">
@@ -25243,6 +25251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214037Z" creationid="Marco Marega" creationdate="20180227T214037Z">
         <seg>Le Ricerche non sono coinvolte in quanto non sono memorizzate all'interno di HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries as a basis for additional information in &lt;f0&gt;f&lt;/f0&gt;orms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T151910Z" creationid="manuel" creationdate="20180508T151910Z">
+        <seg>Ricerche come base per ulteriori informazioni nei &lt;f0&gt;formulari&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
