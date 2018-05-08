@@ -22063,6 +22063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is created using the following SQL formula:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T151006Z" creationid="manuel" creationdate="20180508T151006Z">
+        <seg>Viene creato utilizzando la seguente formula SQL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is found in the form properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162211Z" creationid="steevie" creationdate="20180216T161451Z">
@@ -26907,6 +26915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180427T060605Z" creationid="manuel" creationdate="20180427T060605Z">
         <seg>SELECT "Tabella1"."Giocatore1", "Tabella2"."Giocatore2" FROM "Tabella1" AS "Tabella1" CROSS JOIN "Tabella2" AS "Tabella1" WHERE "Tabella1"."Gicatore1" &lt;&gt; "Tabella2"."Giocatore2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Title" || ' - Nr.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T151052Z" creationid="manuel" creationdate="20180508T151052Z">
+        <seg>SELECT "Titolo" || ' - Nr.</seg>
       </tuv>
     </tu>
     <tu>
