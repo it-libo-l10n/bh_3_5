@@ -9646,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A different sort order to that in which the fields are displayed would only be confusing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143553Z" creationid="manuel" creationdate="20180508T143553Z">
+        <seg>Un ordine di ordinamento diverso da quello in cui sono visualizzati i campi non farebbe che confondere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A downgrade creates problems and may cause loss of data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135210Z" creationid="Marco Marega" creationdate="20180218T135210Z">
