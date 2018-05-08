@@ -27111,6 +27111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "m"."ID", "m"."Title", "Category"."Category", "Category"."ID" AS "&lt;f0&gt;K&lt;/f0&gt;at&lt;f1&gt;_&lt;/f1&gt;ID" FROM "Media" AS "m", "Category" WHERE "m"."Category_ID" = "Category"."ID";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T164207Z" creationid="manuel" creationdate="20180508T164207Z">
+        <seg>SELECT "m"."ID", "m"."Titolo", "Categoria"."Categoria", "Categoria"."ID" AS "&lt;f0&gt;K&lt;/f0&gt;at&lt;f1&gt;_&lt;/f1&gt;ID" FROM "Media" AS "m", "Categoria" WHERE "m"."Categoria_ID" = "Categoria"."ID";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT * FROM "INFORMATION_SCHEMA"."SYSTEM_PRIMARYKEYS"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162816Z" creationid="steevie" creationdate="20180205T162816Z">
