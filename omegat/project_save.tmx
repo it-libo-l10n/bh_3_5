@@ -22343,6 +22343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It makes no difference in that case whether or not the primary key is present in the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163331Z" creationid="manuel" creationdate="20180508T163331Z">
+        <seg>In questo caso, non fa alcuna differenza se la chiave primaria è presente o meno nella ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It makes no sense, in a loan table for a library, to have a user number for which the user no longer exists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215600Z" creationid="Marco Marega" creationdate="20180222T215600Z">
@@ -33119,6 +33127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query ceases to be editable, if it consists of more than one table and the tables are accessed via an alias.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163307Z" creationid="manuel" creationdate="20180508T163307Z">
+        <seg>La ricerca non è più modificabile se è composta da più di una tabella e le tabelle sono accessibili tramite un alias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query constructed by the Wizard looks like this:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211646Z" creationid="Marco Marega" creationdate="20171101T211632Z">
@@ -33139,6 +33155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200615Z" creationid="Marco Marega" creationdate="20180327T200615Z">
         <seg>La ricerca nel dettaglio: La ricerca presenta due colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query is suitable for data entry since the primary key is included in the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163223Z" creationid="manuel" creationdate="20180508T163223Z">
+        <seg>La ricerca è adatta per l'immissione dei dati poiché la chiave primaria è inclusa nella ricerca.</seg>
       </tuv>
     </tu>
     <tu>
