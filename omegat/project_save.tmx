@@ -26790,6 +26790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Surname"||', '||"First_name", "ID" FROM "Table1" ORDER BY "Surname"||', '||"First_name";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143921Z" creationid="manuel" creationdate="20180508T143921Z">
+        <seg>SELECT "Cognome"||', '||"Primo_nome", "ID" FROM "Tabella1" ORDER BY "Cognome"||', '||"Primo_nome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Table"."ID" FROM "Filter", "Table" WHERE</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202253Z" creationid="Marco Marega" creationdate="20180327T202253Z">
@@ -36210,6 +36218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200425Z" creationid="Marco Marega" creationdate="20171125T200050Z">
         <seg>Questo permette non solo di visualizzare i dati correnti durante il loro inserimento, ma anche quelli precedentemente inseriti, senza bisogno di usare la barra di navigazione per scorrere tra i record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This now leads to a sorting that corresponds better to normal custom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143947Z" creationid="manuel" creationdate="20180508T143947Z">
+        <seg>Questo ora porta a una classificazione che corrisponde meglio alla normale abitudine.</seg>
       </tuv>
     </tu>
     <tu>
