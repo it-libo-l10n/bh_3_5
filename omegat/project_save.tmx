@@ -34199,6 +34199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is one final problem: if two people have the same surname &lt;f0&gt;and&lt;/f0&gt; first name, they will still not be distinguishable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T144750Z" creationid="manuel" creationdate="20180508T144750Z">
+        <seg>C'è un ultimo problema: se due persone hanno lo stesso cognome &lt;f0&gt;e&lt;/f0&gt; nome di battesimo, non saranno ancora distinguibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is the possibility of two entries, as is also the case in the listbox.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T183017Z" creationid="Elisabetta Manuele" creationdate="20180430T183017Z">
