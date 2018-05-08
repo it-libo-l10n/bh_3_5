@@ -17391,6 +17391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here is an example from the sphere of stock control for a simple checkout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152703Z" creationid="manuel" creationdate="20180508T152703Z">
+        <seg>Ecco un esempio dalla sfera del controllo delle scorte per un semplice controllo in uscita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here is an example of the extensive possibilities available for posing questions to the database and specifying the type of result required:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180224T145404Z" creationid="manuel" creationdate="20180224T145404Z">
@@ -30415,6 +30423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The checkout table contains totals and foreign keys for stock items, and a receipt number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152751Z" creationid="manuel" creationdate="20180508T152751Z">
+        <seg>La tabella di pagamento contiene totali e chiavi esterne per articoli in magazzino e un numero di ricevuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The chosen link between the table for the subform and the table for the main form is now specified in terms of fields from the tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T213556Z" creationid="Marco Marega" creationdate="20171216T213556Z">
@@ -33387,6 +33403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T181826Z" creationid="Elisabetta Manuele" creationdate="20180307T181826Z">
         <seg>Le impostazioni della finestra di dialogo verranno salvate nelle impostazioni personali dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shopper has very little information if there is no additional query result printed on the receipt.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152825Z" creationid="manuel" creationdate="20180508T152825Z">
+        <seg>L'acquirente ha pochissime informazioni se non vi sono ulteriori risultati di ricerche stampati sulla ricevuta.</seg>
       </tuv>
     </tu>
     <tu>
