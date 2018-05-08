@@ -24054,6 +24054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course it is not yet optimal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143115Z" creationid="manuel" creationdate="20180508T143115Z">
+        <seg>Ovviamente non è ancora ottimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of course it would be still simpler if someone who understands databases were to put the whole salutation right into the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T124049Z" creationid="Elisabetta Manuele" creationdate="20180308T124049Z">
@@ -26602,6 +26610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T112300Z" creationid="manuel" creationdate="20180507T112300Z">
         <seg>SELECT "Primo_nome" FROM "Tabella1" UNION DISTINCT SELECT "Primo_nome" FROM "Tabella2";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "First_name", "ID" FROM "Table1";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142952Z" creationid="manuel" creationdate="20180508T142952Z">
+        <seg>SELECT "Primo_nome", "ID" FROM "Tabella1";</seg>
       </tuv>
     </tu>
     <tu>
@@ -31198,6 +31214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first names appear unsorted and, in the case of identical first names, it is impossible to determine which person is intended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143222Z" creationid="manuel" creationdate="20180508T143222Z">
+        <seg>I nomi di battesimo appaiono non ordinati e, nel caso di nomi identici, è impossibile determinare quale persona è destinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first table has the name &lt;/f10&gt;&lt;f11&gt;Postcode&lt;/f11&gt;&lt;f12&gt;, the second table the name &lt;/f12&gt;&lt;f13&gt;Town&lt;/f13&gt;&lt;f14&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T152841Z" creationid="Elisabetta Manuele" creationdate="20180412T152841Z">
@@ -33782,6 +33806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The value that is finally saved in the form must not occur in the first position of the list box field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142928Z" creationid="manuel" creationdate="20180508T142928Z">
+        <seg>Il valore che viene infine salvato nel modulo non deve verificarsi nella prima posizione del campo della casella di riepilogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The values entered can also be the result of a query (&lt;Select-Formula&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215458Z" creationid="Marco Marega" creationdate="20180303T215458Z">
@@ -36234,6 +36266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201938Z" creationid="Marco Marega" creationdate="20180327T201938Z">
         <seg>Questa ricerca presenta come seconda colonna il termine stesso del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query would show all first names and the primary key "ID" values that the form’s underlying table provides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143045Z" creationid="manuel" creationdate="20180508T143045Z">
+        <seg>Questa ricerca mostrerebbe tutti i nomi di battesimo e i valori di "ID" della chiave primaria forniti dalla tabella sottostante del modulo.</seg>
       </tuv>
     </tu>
     <tu>
