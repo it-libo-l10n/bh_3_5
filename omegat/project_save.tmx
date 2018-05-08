@@ -26703,6 +26703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Checkout"."Receipt_ID", "Checkout"."Total", "Stock"."Item", "Stock"."Unit_&lt;f0&gt;P&lt;/f0&gt;rice", "Checkout"."Total"*"Stock"."Unit_price" AS "Total_&lt;f1&gt;P&lt;/f1&gt;rice" FROM "Checkout", "Item" WHERE "Stock"."ID" = "Checkout"."Item&lt;f2&gt;_&lt;/f2&gt;ID";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153647Z" creationid="manuel" creationdate="20180508T153522Z">
+        <seg>SELECT "Checkout"."Receipt_ID", "Checkout"."Totale", "Magazzino"."Oggetto", "Magazzino"."Prezzo_unitario&lt;f0&gt;&lt;/f0&gt;", "Checkout"."Totale"*"Magazzino"."Prezzo_unitario" AS "Prezzo_Totale&lt;f1&gt;&lt;/f1&gt;" FROM "Checkout", "Oggetto" WHERE "Magazzino"."ID" = "Checkout"."Oggetto&lt;f2&gt;_&lt;/f2&gt;ID";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Class", EVERY("Swimmer") FROM "Table1" GROUP BY "Class";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173821Z" creationid="manuel" creationdate="20180301T173821Z">
