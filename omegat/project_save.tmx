@@ -26798,6 +26798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "a"."First_name", "a"."Surname" AS "Name", "b"."Class" FROM "Table1" AS "a", "Table2" AS "b" WHERE "a"."Class_ID" = "b"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142552Z" creationid="manuel" creationdate="20180508T142552Z">
+        <seg>SELECT "a"."Primo_nome", "a"."Cognome" AS "Nome", "b"."Classe" FROM "Tabella1" AS "a", "Tabella2" AS "b" WHERE "a"."Classe_ID" = "b"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT * FROM "INFORMATION_SCHEMA"."SYSTEM_PRIMARYKEYS"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T162816Z" creationid="steevie" creationdate="20180205T162816Z">
