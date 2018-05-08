@@ -12262,6 +12262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But the sort follows the usual logic of starting with the first letter of the string, so it sorts by first name and only then by surname.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143508Z" creationid="manuel" creationdate="20180508T143508Z">
+        <seg>Ma l'ordinamento segue la solita logica di iniziare con la prima lettera della stringa, quindi ordina per nome e solo dopo per cognome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But this 0 is reserved for the displayed value, in the above example the &lt;f3&gt;Surname&lt;/f3&gt;, while the 1 refers to the &lt;f4&gt;ID &lt;/f4&gt;field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T210836Z" creationid="Marco Marega" creationdate="20171101T210836Z">
@@ -23854,6 +23862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now the first name and the surname both appear, separated by a space.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143349Z" creationid="manuel" creationdate="20180508T143349Z">
+        <seg>Ora appaiono sia il nome che il cognome, separati da uno spazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now the names are visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164445Z" creationid="Manuel Frassinetti" creationdate="20171202T164445Z">
@@ -26650,6 +26666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161045Z" creationid="manuel" creationdate="20180507T161045Z">
         <seg>SELECT "Primo_nome", "Cognome" AS "Nome" FROM "Tabella1" ORDER BY 2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "First_name"||' '||"Surname", "ID" FROM "Table1" ORDER BY "First_name"||' '||"Surname";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143321Z" creationid="manuel" creationdate="20180508T143321Z">
+        <seg>SELECT "Primo_nome"||' '||"Cognome", "ID" FROM "Tabella1" ORDER BY "Primo_nome"||' '||"Cognome";</seg>
       </tuv>
     </tu>
     <tu>
@@ -32330,6 +32354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181310Z" creationid="Elisabetta Manuele" creationdate="20180306T181310Z">
         <seg>Il nome funge da alias, utilizzabile anche per le query (ricerche) inviate al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names become distinguishable and are also sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143413Z" creationid="manuel" creationdate="20180508T143413Z">
+        <seg>I nomi diventano distinguibili e sono anche ordinati.</seg>
       </tuv>
     </tu>
     <tu>
