@@ -26919,6 +26919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Media"."ID", "Media"."Title", "Category"."Category", "Category"."ID" AS "&lt;f0&gt;K&lt;/f0&gt;at&lt;f1&gt;_&lt;/f1&gt;ID" FROM "Media", "Category" WHERE "Media"."Category_ID" = "Category"."ID";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163803Z" creationid="manuel" creationdate="20180508T163803Z">
+        <seg>SELECT "Media"."ID", "Media"."Titolo", "Categoria"."Categoria", "Categoria"."ID" AS "&lt;f0&gt;K&lt;/f0&gt;at&lt;f1&gt;_&lt;/f1&gt;ID" FROM "Media", "Categoria" WHERE "Media"."Categoria_ID" = "Categoria"."ID";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Name" FROM "Table1" WHERE EXISTS (SELECT "First_name" FROM "Table2" WHERE "Table2"."First_name" = "Table1"."Name")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T073128Z" creationid="manuel" creationdate="20180507T073101Z">
@@ -36571,6 +36579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202002Z" creationid="Marco Marega" creationdate="20180327T202002Z">
         <seg>A sua volta questa ricerca si basa su di un'ulteriore sub-query:&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query is editable as both primary keys are included and can be accessed in the tables without using an alias.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163836Z" creationid="manuel" creationdate="20180508T163836Z">
+        <seg>Questa query è modificabile poiché entrambe le chiavi primarie sono incluse e sono accessibili nelle tabelle senza utilizzare un alias.</seg>
       </tuv>
     </tu>
     <tu>
