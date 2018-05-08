@@ -17631,6 +17631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here too the query must filter using the appropriate form structure (reader in the main form, query in the sub-form), so that only media that are actually on loan are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T162628Z" creationid="manuel" creationdate="20180508T162628Z">
+        <seg>Anche qui la ricerca deve filtrare utilizzando la struttura del modulo appropriata (lettore nel formulario principale, ricerca nel sottoformulario), in modo che vengano visualizzati solo i media effettivamente in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here too the relationships between tables are usually defined if they are not linked together with JOIN.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063525Z" creationid="manuel" creationdate="20180427T063525Z">
@@ -21523,6 +21531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150309Z" creationid="Marco Marega" creationdate="20180127T150309Z">
         <seg>In questa tabella solamente i campi che sono strettamente necessari sono stati pianificati in anticipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this way a form can show within a table control field everything that a particular reader has borrowed over time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T162525Z" creationid="manuel" creationdate="20180508T162525Z">
+        <seg>In questo modo un modulo può mostrare all'interno di un campo di controllo della tabella tutto ciò che un particolare lettore ha preso in prestito nel tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26883,6 +26899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
         <seg>SELECT "ID", "Numero", "Prezzo" FROM "Magazzino", "Spedizione" WHERE "Spedizione"."magazzinoID" = "Magazzino"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "ID", "Reader&lt;f0&gt;_&lt;/f0&gt;ID", "Media&lt;f1&gt;_&lt;/f1&gt;ID", "Loan_date" FROM "Loan" WHERE "Return_&lt;f2&gt;D&lt;/f2&gt;ate" IS NULL;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T162450Z" creationid="manuel" creationdate="20180508T162450Z">
+        <seg>SELECT "ID", "Lettore&lt;f0&gt;_&lt;/f0&gt;ID", "Media&lt;f1&gt;_&lt;/f1&gt;ID", "Data_prestito" FROM "Prestito" WHERE "Data_rientro&lt;f2&gt;&lt;/f2&gt;" IS NULL;</seg>
       </tuv>
     </tu>
     <tu>
