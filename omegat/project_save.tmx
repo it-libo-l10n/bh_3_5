@@ -9862,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A query is only editable in that case if it contains only one table in the main query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T090731Z" creationid="manuel" creationdate="20180511T090731Z">
+        <seg>Una ricerca è modificabile solo in quel caso se contiene solo una tabella nella query principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A query needs to calculate a person's actual age from a birth date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205434Z" creationid="MicrosoftSucks" creationdate="20180327T205434Z">
@@ -19953,8 +19961,8 @@
       <tuv lang="EN">
         <seg>If, however, &lt;f0&gt;a correlated subquery (see page &lt;/f0&gt;&lt;s1/&gt;&lt;bf2&gt;145&lt;/bf2&gt;&lt;f3&gt;) is&lt;/f3&gt; used, you need to use a table alias.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T172045Z" creationid="steevie" creationdate="20180226T165405Z">
-        <seg>Se, tuttavia, &lt;f0&gt; una sottoricerca correlata (vedete pagina &lt;/f0&gt;&lt;s1/&gt;&lt;bf2&gt;145&lt;/bf2&gt;&lt;f3&gt;) è&lt;/f3&gt; usata, è necessario utilizzare un alias di tabella.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T090752Z" creationid="steevie" creationdate="20180226T165405Z">
+        <seg>Se, tuttavia, &lt;f0&gt; una sottoricerca correlata (vedete pagina &lt;/f0&gt;&lt;s1/&gt;&lt;bf2&gt;145&lt;/bf2&gt;&lt;f3&gt;) è&lt;/f3&gt; usata, è necessario utilizzare un alias per la tabella.</seg>
       </tuv>
     </tu>
     <tu>
