@@ -24143,6 +24143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now when you run the query, an entry field appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T100919Z" creationid="manuel" creationdate="20180511T100919Z">
+        <seg>Ora quando eseguite la ricerca, appare un campo di immissione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now you can connect to the server using L&lt;f0&gt;ibreOffice.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T171420Z" creationid="Elisabetta Manuele" creationdate="20180403T171420Z">
@@ -26963,6 +26971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180511T091134Z" creationid="manuel" creationdate="20180511T091134Z">
         <seg>SELECT "ID", "LettoreID", "Media_ID", "Data_prestito" FROM "Prestiti" WHERE "Data_rientro&lt;f0&gt;&lt;/f0&gt;" IS NULL AND "Lettore_ID"=2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "ID", "Reader_ID", "Media_ID", "Loan_date" FROM "Loans" WHERE "Return_&lt;f0&gt;D&lt;/f0&gt;ate" IS NULL AND "Reader_ID" = :Readernumber;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T100812Z" creationid="manuel" creationdate="20180511T100812Z">
+        <seg>SELECT "ID", "Lettore_ID", "Media_ID", "Data_prestito" FROM "Prestiti" WHERE "Data_rientro&lt;f0&gt;&lt;/f0&gt;" IS NULL AND "Lettore_ID" = :Numerolettore;</seg>
       </tuv>
     </tu>
     <tu>
