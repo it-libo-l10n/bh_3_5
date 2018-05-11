@@ -11758,6 +11758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At least the receipt number can be included by using a query parameter:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105952Z" creationid="manuel" creationdate="20180511T105952Z">
+        <seg>Almeno il numero di ricevuta può essere incluso utilizzando un parametro di ricerca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At present the frame properties (Line thickness, line color) cannot be changed but you can change the font formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T212411Z" creationid="Marco Marega" creationdate="20171126T212411Z">
@@ -23655,6 +23663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Naturally it lacks the individual calculations of Total * Unit_price, but also the presence of the receipt number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105904Z" creationid="manuel" creationdate="20180511T105904Z">
+        <seg>Naturalmente mancano i singoli calcoli di Totale * Prezzo_unitario, ma anche la presenza del numero di ricevuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Naturally it makes sense, when creating larger form structures to have meaningful names for forms and their controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T214807Z" creationid="Marco Marega" creationdate="20171226T214807Z">
@@ -24795,6 +24811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171707Z" creationid="Elisabetta Manuele" creationdate="20180429T171707Z">
         <seg>Manca solo il controllo tabellare dei formulari come possibilità di inserimento speciale.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the total sum is given.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105930Z" creationid="manuel" creationdate="20180511T105930Z">
+        <seg>Viene indicata solo la somma totale.</seg>
       </tuv>
     </tu>
     <tu>
