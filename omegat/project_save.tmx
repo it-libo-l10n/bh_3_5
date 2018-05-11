@@ -26959,6 +26959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "ReaderID", "Media_ID", "Loan_date" FROM "Loans" WHERE "Return_&lt;f0&gt;D&lt;/f0&gt;ate" IS NULL AND "Reader_ID"=2;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T091134Z" creationid="manuel" creationdate="20180511T091134Z">
+        <seg>SELECT "ID", "LettoreID", "Media_ID", "Data_prestito" FROM "Prestiti" WHERE "Data_rientro&lt;f0&gt;&lt;/f0&gt;" IS NULL AND "Lettore_ID"=2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Media"."ID", "Media"."Title", "Category"."Category", "Category"."ID" AS "&lt;f0&gt;K&lt;/f0&gt;at&lt;f1&gt;_&lt;/f1&gt;ID" FROM "Media", "Category" WHERE "Media"."Category_ID" = "Category"."ID";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163803Z" creationid="manuel" creationdate="20180508T163803Z">
@@ -36675,6 +36683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201938Z" creationid="Marco Marega" creationdate="20180327T201938Z">
         <seg>Questa ricerca presenta come seconda colonna il termine stesso del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query shows only the media on loan to the reader with the number 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T091206Z" creationid="manuel" creationdate="20180511T091206Z">
+        <seg>Questa ricerca mostra solo i media in prestito al lettore con il numero 2.</seg>
       </tuv>
     </tu>
     <tu>
