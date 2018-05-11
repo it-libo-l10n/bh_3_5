@@ -28711,6 +28711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subqueries built into fields can always only return one record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103520Z" creationid="manuel" creationdate="20180511T103520Z">
+        <seg>Le sottoricerche incorporate nei campi possono sempre restituire solo un record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such a condition will not apply retrospectively to existing records, but it will apply to all subsequent changes and newly entered records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225830Z" creationid="Marco Marega" creationdate="20180224T225552Z">
@@ -31299,6 +31307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T201219Z" creationid="Marco Marega" creationdate="20180414T201219Z">
         <seg>Il campo &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oField&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; contiene la chiave esterna e &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;oFieldList&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; mostra il testo corrispondente.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field can also return only one value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103545Z" creationid="manuel" creationdate="20180511T103545Z">
+        <seg>Il campo può anche restituire solo un valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37915,6 +37931,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180301T175533Z" creationid="MicrosoftSucks" creationdate="20180301T175533Z">
         <seg>Purtroppo &lt;f0&gt;non potete svolgere questa operazione &lt;/f0&gt;attraverso la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately controlling list box settings in this personali&lt;f0&gt;z&lt;/f0&gt;ed way by using parameters is not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103425Z" creationid="manuel" creationdate="20180511T103425Z">
+        <seg>Sfortunatamente non è possibile controllare le impostazioni della casella di riepilogo in questo modo personalizzato&lt;f0&gt;&lt;/f0&gt; utilizzando i parametri.</seg>
       </tuv>
     </tu>
     <tu>
