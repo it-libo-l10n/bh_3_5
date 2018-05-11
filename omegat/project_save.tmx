@@ -22463,6 +22463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It prompts you to enter a reader number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T100959Z" creationid="manuel" creationdate="20180511T100959Z">
+        <seg>Vi richchieder un numero del lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides a table, which can then be provided with controls for individual columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200054Z" creationid="Marco Marega" creationdate="20171125T200008Z">
@@ -38619,6 +38627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070701Z" creationid="ldaghino" creationdate="20171003T070701Z">
         <seg>Contenuto del manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever value you enter here, the media currently on loan to that reader will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T101226Z" creationid="manuel" creationdate="20180511T101226Z">
+        <seg>Qualunque sia il valore che inserite qui, verranno visualizzati i media attualmente in prestito a quel lettore.</seg>
       </tuv>
     </tu>
     <tu>
