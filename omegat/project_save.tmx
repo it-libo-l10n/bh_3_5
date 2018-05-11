@@ -28271,6 +28271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So for example, we could prevent library media from being loaned to individuals who are currently banned from borrowing media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103150Z" creationid="manuel" creationdate="20180511T103150Z">
+        <seg>Quindi, ad esempio, potremmo impedire che i supporti di libreria vengano prestati a persone che attualmente sono sospese dal prendere in prestito media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So how do I get a result if I type "anhalter" instead of "Anhalter"?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T202138Z" creationid="MicrosoftSucks" creationdate="20180327T202138Z">
