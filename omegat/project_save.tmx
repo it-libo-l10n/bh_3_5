@@ -36287,6 +36287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is still not comparable with the supermarket checkout form described in “&lt;bf0&gt;Queries as a basis for additional information in forms&lt;/bf0&gt;“.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105822Z" creationid="manuel" creationdate="20180511T105822Z">
+        <seg>Questo non è ancora paragonabile al formulario di uscita del supermercato descritto in “&lt;bf0&gt;Ricerche come base per ulteriori informazioni nei formulari&lt;/bf0&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is sufficient for the display of the correct values in the combobox.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T200239Z" creationid="Marco Marega" creationdate="20180414T200239Z">
