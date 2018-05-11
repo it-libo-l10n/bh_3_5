@@ -33865,8 +33865,8 @@
       <tuv lang="EN">
         <seg>The subquery yields precisely one value, namely the total balance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T165414Z" creationid="steevie" creationdate="20180226T165414Z">
-        <seg>The subquery yields precisely one value, namely the total balance.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105013Z" creationid="steevie" creationdate="20180226T165414Z">
+        <seg>La sottoricerca produce esattamente un valore, cioè il saldo totale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35251,6 +35251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T122255Z" creationid="Elisabetta Manuele" creationdate="20180310T122255Z">
         <seg>Ciò consente un'immediata perce&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;z&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ione dei problemi relativi alla formattazione e alla creazione delle chiavi primarie.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This allows the balance at the till to be read after each entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105059Z" creationid="manuel" creationdate="20180511T105059Z">
+        <seg>Ciò consente di leggere il saldo alla cassa dopo ogni voce.</seg>
       </tuv>
     </tu>
     <tu>
