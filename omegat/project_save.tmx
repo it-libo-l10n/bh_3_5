@@ -9864,8 +9864,8 @@
       <tuv lang="EN">
         <seg>A query is only editable in that case if it contains only one table in the main query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T090731Z" creationid="manuel" creationdate="20180511T090731Z">
-        <seg>Una ricerca è modificabile solo in quel caso se contiene solo una tabella nella query principale.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T090827Z" creationid="manuel" creationdate="20180511T090731Z">
+        <seg>Una ricerca è modificabile solo nel caso che contenga solo una tabella nella ricerca principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19831,6 +19831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you often use the same basic query but with different values each time, queries with parameters can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T090912Z" creationid="manuel" creationdate="20180511T090912Z">
+        <seg>Se si utilizza spesso la stessa ricerca di base ma ogni volta con valori diversi, è possibile utilizzare ricerca con parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you tab into a table control, the cursor will move one field to the right for each additional tab; at the end of the line, it will move back to the first field of the next record in the table control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223757Z" creationid="Marco Marega" creationdate="20171214T223757Z">
@@ -20627,6 +20635,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175718Z" creationid="Manuel Frassinetti" creationdate="20171209T175718Z">
         <seg>In linea di principio non fa differenza quale campo di una tabella è scelto per questo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In principle queries with parameters function just like queries for a subform:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T091016Z" creationid="manuel" creationdate="20180511T091016Z">
+        <seg>In linea di principio le ricerche con parametri funzionano esattamente come le ricerche per un sottoformulario:</seg>
       </tuv>
     </tu>
     <tu>
