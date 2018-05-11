@@ -18055,6 +18055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However it sometimes happens that queries using parameters in subforms are not updated, if data is changed or newly entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103002Z" creationid="manuel" creationdate="20180511T103002Z">
+        <seg>Tuttavia a volte capita che le ricerche che utilizzano i parametri nei sottoformulari non vengano aggiornate, se i dati vengono modificati o inseriti di recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However its data source can be another table or a query (or a SQL command).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210111Z" creationid="Marco Marega" creationdate="20171215T210003Z">
@@ -24347,6 +24355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171404Z" creationid="Elisabetta Manuele" creationdate="20180429T171404Z">
         <seg>Spesso è necessario modificare voci identiche in più record contemporaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often it would be nice to alter the contents of list boxes using settings in the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103048Z" creationid="manuel" creationdate="20180511T103048Z">
+        <seg>Spesso sarebbe bello modificare il contenuto delle caselle di elenco usando le impostazioni nel formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38891,6 +38907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145751Z" creationid="Manuel Frassinetti" creationdate="20171214T180843Z">
         <seg>Quando si usa il modo SQL, un campo è visibile solo quando questi  &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;segue&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;la parola, &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;SELECT.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using forms, the parameter can be passed from the main form to a subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T102908Z" creationid="manuel" creationdate="20180511T102908Z">
+        <seg>Quando si utilizzano i formulari, è possibile passare il parametro dal formulario principale a un sottoformulario.</seg>
       </tuv>
     </tu>
     <tu>
