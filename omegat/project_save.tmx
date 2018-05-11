@@ -26975,6 +26975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Income", "Expenditure", ( SELECT SUM( "Income" ) - SUM( "Expenditure" ) FROM "Checkout") AS "Balance" FROM "Checkout";</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T104844Z" creationid="manuel" creationdate="20180511T104844Z">
+        <seg>SELECT "ID", "Entrata", "Spesa", ( SELECT SUM( "Entrata" ) - SUM( "Spesa" ) FROM "Uscita") AS "Saldo" FROM "Uscita";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
@@ -36675,6 +36683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211249Z" creationid="Marco Marega" creationdate="20171216T211249Z">
         <seg>Questo previene la visualizzazione dei supporti che sono già stati restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query allows data entry (primary key included).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T104915Z" creationid="manuel" creationdate="20180511T104915Z">
+        <seg>Questa ricerca consente l'immissione di dati (chiave primaria inclusa).</seg>
       </tuv>
     </tu>
     <tu>
