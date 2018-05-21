@@ -9878,6 +9878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A query is required to set a lock against all readers who have received a third overdue notice for a medium.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151416Z" creationid="manuel" creationdate="20180521T151416Z">
+        <seg>È richiesta una riceca per impostare un blocco su tutti i lettori che hanno ricevuto una terza notifica in ritardo per un media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A query needs to calculate a person's actual age from a birth date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205434Z" creationid="MicrosoftSucks" creationdate="20180327T205434Z">
@@ -15258,6 +15266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204948Z" creationid="Marco Marega" creationdate="20180326T204948Z">
         <seg>FROM ( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table_Filter_result" GROUP BY "Field_1" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FROM (SELECT COUNT( "Date" ) AS "&lt;f0&gt;Total_Count&lt;/f0&gt;", "Loan_ID" &lt;s1/&gt;FROM "Recalls" GROUP BY "Loan_ID") AS "a", "Loan"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151633Z" creationid="manuel" creationdate="20180521T151633Z">
+        <seg>FROM (SELECT COUNT( "Data" ) AS "&lt;f0&gt;Totale_Conteggio&lt;/f0&gt;", "Prestito_ID" &lt;s1/&gt;FROM "Richiami" GROUP BY "Prestito_ID") AS "a", "Prestito"</seg>
       </tuv>
     </tu>
     <tu>
@@ -27091,6 +27107,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180511T100812Z" creationid="manuel" creationdate="20180511T100812Z">
         <seg>SELECT "ID", "Lettore_ID", "Media_ID", "Data_prestito" FROM "Prestiti" WHERE "Data_rientro&lt;f0&gt;&lt;/f0&gt;" IS NULL AND "Lettore_ID" = :Numerolettore;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Loan"."Reader_ID", '3rd Overdue – the reader is blacklisted' AS "Lock"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151523Z" creationid="manuel" creationdate="20180521T151523Z">
+        <seg>SELECT "Prestito"."Lettore_ID", '3zo Richiamo – il lettore è nella lista nera' AS "Bloccato"</seg>
       </tuv>
     </tu>
     <tu>
