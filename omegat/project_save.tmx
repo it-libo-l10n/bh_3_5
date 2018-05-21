@@ -16407,6 +16407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For subforms such parameters can be included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150442Z" creationid="manuel" creationdate="20180521T150442Z">
+        <seg>Per i sottoformulari, tali parametri possono essere inclusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For such purposes, the data to be searched for are better collected by using a query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173327Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
@@ -28751,6 +28759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subforms based on queries are not automatically updated on the basis of their parameters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150704Z" creationid="manuel" creationdate="20180521T150704Z">
+        <seg>I formulari basati su ricerche non vengono automaticamente aggiornate sulla base dei loro parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subqueries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
@@ -33895,6 +33911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The subform then receives, instead of a field name, the corresponding parameter name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150518Z" creationid="manuel" creationdate="20180521T150518Z">
+        <seg>Il sottoformulario riceve, invece del nome di un campo, il nome del parametro corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The subform’s properties are unchanged from the version shown above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173728Z" creationid="Marco Marega" creationdate="20171226T173728Z">
@@ -36499,6 +36523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162653Z" creationid="Elisabetta Manuele" creationdate="20180403T162653Z">
         <seg>La riga dovrebbe venire modificata in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This link can only be entered in the properties of the subform, and not when using the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150612Z" creationid="manuel" creationdate="20180521T150612Z">
+        <seg>Questo collegamento può essere inserito solo nelle proprietà del sottoformulario e non quando si utilizza la procedura guidata.</seg>
       </tuv>
     </tu>
     <tu>
