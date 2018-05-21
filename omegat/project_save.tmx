@@ -8158,6 +8158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;outer query&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; relates in this case only to the conditional formula from the inner query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T172502Z" creationid="manuel" creationdate="20180521T172502Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ricerca esterna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; si riferisce solo alla formula condizionale dalla ricerca interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;FNULL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; function must occur only once, so that when the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Searchterm &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;is &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;NULL&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LOWER("Title") LIKE LOWER("Title")&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; is queried.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203612Z" creationid="MicrosoftSucks" creationdate="20180327T203612Z">
@@ -32363,6 +32371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T183019Z" creationid="Alessia Mazzarini" creationdate="20180409T173614Z">
         <seg>Il valore iniziale è il valore del campo &lt;f2&gt;Charge&lt;/f2&gt; quando il gruppo è attraversato per la prima volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The inner query is given an alias so that it can be linked to the &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Reader_ID&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; from the outer query.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T172323Z" creationid="manuel" creationdate="20180521T172323Z">
+        <seg>Alla ricerca interna viene fornito un alias in modo che possa essere collegato a &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Lettore_ID&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; dalla ricerca esterna.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
