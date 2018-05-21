@@ -26999,6 +26999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Income", "Expenditure", ( SELECT SUM( "Income" ) - SUM( "Expenditure" ) FROM "Checkout" WHERE "Receipt_ID" = :Receipt_&lt;f0&gt;N&lt;/f0&gt;umber) AS "Balance" FROM "Checkout" WHERE "Receipt_ID" = :Receipt_&lt;f1&gt;N&lt;/f1&gt;umber;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T145425Z" creationid="manuel" creationdate="20180521T145425Z">
+        <seg>SELECT "ID", "Entrata", "Spesa", ( SELECT SUM( "Entrata" ) - SUM( "Spesa" ) FROM "Uscita" WHERE "Ricevuta_ID" = :Ricevuta_&lt;f0&gt;Numero&lt;/f0&gt;) AS "Saldo" FROM "Uscita" WHERE "Ricevuta_ID" = :Ricevuta_&lt;f1&gt;Numerp&lt;/f1&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Income", "Expenditure", ( SELECT SUM( "Income" ) - SUM( "Expenditure" ) FROM "Checkout") AS "Balance" FROM "Checkout";</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180511T104844Z" creationid="manuel" creationdate="20180511T104844Z">
