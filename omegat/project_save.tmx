@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"a" however yields only the relationship to the current values in this record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151142Z" creationid="manuel" creationdate="20180521T151142Z">
+        <seg>"a" tuttavia fornisce solo la relazione con i valori correnti in questo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># Hsqldb Server cfg file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170408Z" creationid="Elisabetta Manuele" creationdate="20180403T170408Z">
@@ -21639,6 +21647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way the current value of ID from the outer query can be evaluated within the subquery.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151226Z" creationid="manuel" creationdate="20180521T151226Z">
+        <seg>In questo modo il valore corrente dell'ID dalla ricerca esterna può essere valutato all'interno della sottoricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way the previous query construction yields exactly the content already formulated for postcode and town – only enhanced by sorting.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T181417Z" creationid="Elisabetta Manuele" creationdate="20180430T181417Z">
@@ -30007,6 +30023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Checkout table is the same as Table "a".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151115Z" creationid="manuel" creationdate="20180521T151115Z">
+        <seg>La tabella Uscita è uguale alla tabella "a".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Combobox &lt;f0&gt;control&lt;/f0&gt; treats form fields for combined entry and choice of values (comboboxes) as listboxes with an entry option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T134049Z" creationid="Marco Marega" creationdate="20180414T134049Z">
@@ -37331,6 +37355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180220Z" creationid="Elisabetta Manuele" creationdate="20180429T180220Z">
         <seg>Perciò la chiave primaria della tabella Town viene inserita due volte in tabelle diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, depending on the ID, the previous balance at the corresponding time is determined, if you start from the fact that the ID, which is an autovalue, increments by itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151301Z" creationid="manuel" creationdate="20180521T151301Z">
+        <seg>Pertanto, a seconda dell'ID, viene determinato il saldo precedente all'ora corrispondente, se si parte dal fatto che l'ID, che è un'autovalutazione, aumenta di per sé.</seg>
       </tuv>
     </tu>
     <tu>
