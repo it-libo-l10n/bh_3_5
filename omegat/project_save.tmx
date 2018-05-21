@@ -38711,6 +38711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WHERE "a"."Loan_ID" = "Loan"."ID" AND "a"."&lt;f0&gt;Total_Count&lt;/f0&gt;" &gt; 2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151707Z" creationid="manuel" creationdate="20180521T151707Z">
+        <seg>WHERE "a"."Prestito_ID" = "Prestito"."ID" AND "a"."&lt;f0&gt;Totale_Conteggio&lt;/f0&gt;" &gt; 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We are dealing with the choice of gender.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T210558Z" creationid="Marco Marega" creationdate="20171126T210558Z">
