@@ -20167,6 +20167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a query with parameters, the parameter must be the same in both query statements if it is to be recogni&lt;f0&gt;z&lt;/f0&gt;ed as a parameter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150252Z" creationid="manuel" creationdate="20180521T150252Z">
+        <seg>In una ricerca con parametri, il parametro deve essere lo stesso in entrambe le istruzioni della ricerca se deve essere riconosciuto &lt;f0&gt;&lt;/f0&gt;come parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a query, individual pieces of information and all the fields that belong can be provided in the following way:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102013Z" creationid="Elisabetta Manuele" creationdate="20180403T102013Z">
