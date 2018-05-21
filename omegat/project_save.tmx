@@ -22271,6 +22271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is more appropriate to pass on the parameter directly from the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150734Z" creationid="manuel" creationdate="20180521T150734Z">
+        <seg>È più appropriato passare il parametro direttamente dal modulo principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is necessary so that the save operation takes place in all cases where the listbox content changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T153957Z" creationid="Elisabetta Manuele" creationdate="20180412T153957Z">
@@ -27011,6 +27019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151656Z" creationid="MicrosoftSucks" creationdate="20180501T150953Z">
         <seg>SELECT "ID", "Data", "Ammontare", ( SELECT SUM( "Ammontare" ) FROM "Contante" WHERE "Data" &lt;= "a"."Data" ) AS "Saldo" FROM "Contante" AS "a" ORDER BY "Data", "ID" ASC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "ID", "Income", "Expenditure", ( SELECT SUM( "Income" ) - SUM( "Expenditure" ) FROM "Checkout" WHERE "ID" &lt;= "a"."ID" ) AS "Balance" FROM "Checkout" AS "a" ORDER BY "ID" ASC</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150936Z" creationid="manuel" creationdate="20180521T150936Z">
+        <seg>SELECT "ID", "Entrata", "Spesa", ( SELECT SUM( "Entrata" ) - SUM( "Spesa" ) FROM "Uscita" WHERE "ID" &lt;= "a"."ID" ) AS "Saldo" FROM "Uscita" AS "a" ORDER BY "ID" ASC</seg>
       </tuv>
     </tu>
     <tu>
@@ -38403,6 +38419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T160152Z" creationid="Marco Marega" creationdate="20171230T160152Z">
         <seg>Usando un filtro, collegato alla tabella Filter, i nomi possono essere selezionati usando la loro iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a still more refined query, an editable query allows one to even carry the running balance for the till:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150824Z" creationid="manuel" creationdate="20180521T150824Z">
+        <seg>Utilizzando una ricerca ancora più raffinata, una ricerca modificabile consente di portare addirittura il saldo in esecuzione per la cassa:</seg>
       </tuv>
     </tu>
     <tu>
