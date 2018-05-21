@@ -6950,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;First let us examine the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;inner query&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, to which the outer query relates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T152018Z" creationid="manuel" creationdate="20180521T152018Z">
+        <seg>&lt;f0&gt;Prima esaminiamo la &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ricerca interna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, a cui si riferisce la ricerca esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;First the contents of the listboxes are transferred to the underlying form using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;commit()&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T203038Z" creationid="Marco Marega" creationdate="20180326T203038Z">
@@ -21603,6 +21611,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T164456Z" creationid="manuel" creationdate="20180508T164456Z">
         <seg>In questa ricerca si accede alla tabella "Media" usando un alias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this query the number of date entries, grouped by the foreign key &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Loan_ID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T152116Z" creationid="manuel" creationdate="20180521T152116Z">
+        <seg>In questa query viene determinato il numero di voci della data, raggruppate dalla chiave esterna &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Prestito_ID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
