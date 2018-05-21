@@ -36807,6 +36807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This must not be made dependent on the &lt;/f6&gt;&lt;f7&gt;R&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;eader_ID, a&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;s that would cause not only three overdue notices for a single medium but also three media with one overdue notice each to be counted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T153008Z" creationid="manuel" creationdate="20180521T153008Z">
+        <seg>Questo non deve essere reso dipendente da &lt;/f6&gt;&lt;f7&gt;Lettore_ID&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;, come&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in quanto ciò causerebbe non solo tre notifiche scadute per un singolo media ma anche tre media con una notifica in ritardo ciascuno essere contato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This not only allows the actual data to be viewed during input, but also the previously entered data, without the need to use the Navigation bar to scroll through the records.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T200425Z" creationid="Marco Marega" creationdate="20171125T200050Z">
