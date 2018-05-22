@@ -22607,6 +22607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It shows only a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Reader_ID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and the text for the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Lock&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field when the "&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Loan"."ID"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; and "&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;a"."Loan_ID" are&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; equal&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; and "&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;a"."&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Total_Count&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;"&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; &gt; 2&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt; .&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T060653Z" creationid="manuel" creationdate="20180522T060653Z">
+        <seg>Mostra solo un &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Lettore_ID&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e il testo per il campo &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Blocco&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; quando "&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Prestito"."ID"&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; e "&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;a"."Prestito_ID" sono&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; uguali&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; e "&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;a"."&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Totale_Conteggio&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;"&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; &gt; 2&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt; .&lt;/f27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It takes over two functions: saving the record in the main form and updating the table in the subform.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175513Z" creationid="Marco Marega" creationdate="20171226T175513Z">
