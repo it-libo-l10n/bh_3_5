@@ -8166,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;outer query&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; used the results of the &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;inner query&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; to produce the final results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T065603Z" creationid="manuel" creationdate="20180522T065603Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ricerca esterna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; utilizza i risultati della &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;ricerca interna&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; per produrre i risultati finali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;Design View Mode&lt;/f1&gt;&lt;f2&gt; cannot find the field contained in the inner query "&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Loan_ID"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, which governs the relationship between the inner and outer queries.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180522T064147Z" creationid="manuel" creationdate="20180522T064147Z">
