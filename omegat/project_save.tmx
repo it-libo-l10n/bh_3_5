@@ -8166,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;Design View Mode&lt;/f1&gt;&lt;f2&gt; cannot find the field contained in the inner query "&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Loan_ID"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, which governs the relationship between the inner and outer queries.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T064147Z" creationid="manuel" creationdate="20180522T064147Z">
+        <seg>&lt;f0&gt;Il &lt;/f0&gt;&lt;f1&gt;modo vista struttura&lt;/f1&gt;&lt;f2&gt; non può trovare il campo contenuto in una ricerca interna "&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Prestito_ID"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, che governa la relazione tra le ricerche interne ed esterne.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;FNULL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; function must occur only once, so that when the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Searchterm &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;is &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;NULL&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LOWER("Title") LIKE LOWER("Title")&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; is queried.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T203612Z" creationid="MicrosoftSucks" creationdate="20180327T203612Z">
