@@ -19919,6 +19919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you then open the query for editing in SQL view and try to switch from there into the &lt;f0&gt;Design&lt;/f0&gt; &lt;f1&gt;V&lt;/f1&gt;iew, you get the error message:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T063419Z" creationid="manuel" creationdate="20180522T063419Z">
+        <seg>Se aprite la ricerca per la modifica in visualizzazione SQL e tentate di passare da lì alla &lt;f0&gt;vista&lt;/f0&gt; &lt;f1&gt;struttura&lt;/f1&gt;, otterrete il seguente messaggio di errore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you try to open the query for editing again you get the following warning:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180522T063040Z" creationid="manuel" creationdate="20180522T063040Z">
