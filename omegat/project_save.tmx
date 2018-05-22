@@ -8848,8 +8848,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When the query is run &lt;/f0&gt;&lt;f1&gt;in SQL Mode&lt;/f1&gt;&lt;f2&gt;, the corresponding content &lt;/f2&gt;&lt;f3&gt;from the subquery &lt;/f3&gt;&lt;f4&gt;is reproduced without error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20180226T165428Z" creationid="steevie" creationdate="20180226T165428Z">
-        <seg>&lt;f0&gt;When the query is run &lt;/f0&gt;&lt;f1&gt;in SQL Mode&lt;/f1&gt;&lt;f2&gt;, the corresponding content &lt;/f2&gt;&lt;f3&gt;from the subquery &lt;/f3&gt;&lt;f4&gt;is reproduced without error.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T064923Z" creationid="steevie" creationdate="20180226T165428Z">
+        <seg>&lt;f0&gt;Quando la ricerca è in esecuzione &lt;/f0&gt;&lt;f1&gt;in modo SQL&lt;/f1&gt;&lt;f2&gt;, il contenuto corrispondente &lt;/f2&gt;&lt;f3&gt;dalla sottoricerca &lt;/f3&gt;&lt;f4&gt;viene riprodotto senza errori.</seg>
       </tuv>
     </tu>
     <tu>
