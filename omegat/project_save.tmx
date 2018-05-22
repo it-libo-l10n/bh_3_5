@@ -20703,6 +20703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In principle all fields in the inner query are available to the outer one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T060323Z" creationid="manuel" creationdate="20180522T060323Z">
+        <seg>In linea di principio tutti i campi nella ricerca interna sono disponibili per quella esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In principle it makes no difference which field of a table is chosen for this.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175718Z" creationid="Manuel Frassinetti" creationdate="20171209T175718Z">
