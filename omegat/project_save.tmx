@@ -20015,6 +20015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to further limit the final results, use&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; the sort and filter functions of the graphical user interface.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T110107Z" creationid="manuel" creationdate="20180522T110107Z">
+        <seg>Se vuoi limitare ulteriormente i risultati finali, usa&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;  le funzioni di ordinamento e filtro dell'interfaccia grafica utente.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish a form to display additional Information that would otherwise not be visible, there are various query possibilities.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152313Z" creationid="manuel" creationdate="20180508T152313Z">
@@ -35051,6 +35059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170546Z" creationid="Marina Latini" creationdate="20171207T170546Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are a list of the "&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Loan_ID" &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;values that should be locked and why.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T105948Z" creationid="manuel" creationdate="20180522T105948Z">
+        <seg>Questi sono un elenco di valori di "&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Prestito_ID" &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;che dovrebbero essere bloccati e perché.</seg>
       </tuv>
     </tu>
     <tu>
