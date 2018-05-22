@@ -28407,6 +28407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So for example the sum "a"."&lt;f0&gt;&lt;f1&gt;Total_Count&lt;/f1&gt;&lt;/f0&gt;" can be merged into the outer query to give the actual fines total.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T061951Z" creationid="manuel" creationdate="20180522T061951Z">
+        <seg>Quindi per esempio la somma "a"."&lt;f0&gt;&lt;f1&gt;Totale_Conteggio&lt;/f1&gt;&lt;/f0&gt;" può essere unita alla ricerca esterna per dare il totale delle ammende effettive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So for example, &lt;f0&gt;it is&lt;/f0&gt; &lt;f1&gt;possible to insert a line break at the beginning, so that the labels will not be printed directly on the top edge but the content can be printed as completely and clearly visible.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184409Z" creationid="Elisabetta Manuele" creationdate="20180307T184409Z">
