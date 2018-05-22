@@ -35007,6 +35007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore you &lt;/f4&gt;&lt;f5&gt;do&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;not&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;have to &lt;/f9&gt;&lt;f10&gt;use&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;direct SQL mode&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; in this case.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T065237Z" creationid="manuel" creationdate="20180522T065237Z">
+        <seg>Perciò &lt;/f4&gt;&lt;f5&gt;non&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;dovete&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt; usare &lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;il modo SQL diretto&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; in questo caso.&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore you cannot have a second field with the name &lt;f0&gt;ID&lt;/f0&gt; as a foreign key in the Address table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145627Z" creationid="Marco Marega" creationdate="20180218T134933Z">
