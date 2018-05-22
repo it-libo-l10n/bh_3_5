@@ -18111,6 +18111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However it can happen, in the &lt;f0&gt;Q&lt;/f0&gt;uery &lt;f1&gt;Design dialog&lt;/f1&gt;, that the &lt;f2&gt;Design View Mode&lt;/f2&gt; no longer works after such a construction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T062942Z" creationid="manuel" creationdate="20180522T062942Z">
+        <seg>Tuttavia può accadere, nella finestra di dialogo della &lt;f0&gt;ricerca&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, che il &lt;f2&gt;modo vista struttura&lt;/f2&gt; non funzioni più dopo una tale costruzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However it sometimes happens that queries using parameters in subforms are not updated, if data is changed or newly entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103002Z" creationid="manuel" creationdate="20180511T103002Z">
@@ -19907,6 +19915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T223757Z" creationid="Marco Marega" creationdate="20171214T223757Z">
         <seg>Se usate il tasto tab in un campo di controllo tabella, il cursore si sposterà di un campo a destra ogni volta che premete il tasto tab; alla fine della riga, si posizionerà di nuovo nel primo campo del record successivo nel campo di controllo tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you try to open the query for editing again you get the following warning:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T063040Z" creationid="manuel" creationdate="20180522T063040Z">
+        <seg>Se provate ad aprire nuovamente la ricerca per la modifica, ricevete il seguente avviso:</seg>
       </tuv>
     </tu>
     <tu>
