@@ -20015,6 +20015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you create a View from it, you can see that you are actually working with a subquery (Select &lt;/f0&gt;&lt;f1&gt;used within another Select&lt;/f1&gt;&lt;f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T080326Z" creationid="manuel" creationdate="20180524T080326Z">
+        <seg>Se create una vista da essa, potete vedere che state effettivamente lavorando con una sottoricerca (selezione &lt;/f0&gt;&lt;f1&gt;usata con un altra selezione&lt;/f1&gt;&lt;f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you export them again, the single quote is removed, so that the data remain as they were.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115554Z" creationid="Elisabetta Manuele" creationdate="20180310T115554Z">
