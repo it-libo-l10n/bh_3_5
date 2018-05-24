@@ -20337,8 +20337,8 @@
       <tuv lang="EN">
         <seg>If you wish a form to display additional Information that would otherwise not be visible, there are various query possibilities.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152313Z" creationid="manuel" creationdate="20180508T152313Z">
-        <seg>Se si desidera che un modulo visualizzi informazioni aggiuntive che altrimenti non sarebbero visibili, esistono varie possibilità di interrogazione.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152818Z" creationid="manuel" creationdate="20180508T152313Z">
+        <seg>Se si desidera che un formulario visualizzi informazioni aggiuntive che altrimenti non sarebbero visibili, esistono varie possibilità di interrogazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21681,8 +21681,8 @@
       <tuv lang="EN">
         <seg>In the loan form, there is a list box which only shows the media that have not yet been loaned out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150943Z" creationid="manuel" creationdate="20180508T150943Z">
-        <seg>Nel modulo di prestito è presente una casella di riepilogo che mostra solo i media non ancora concessi in prestito.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152754Z" creationid="manuel" creationdate="20180508T150943Z">
+        <seg>Nel formulario di prestito è presente una casella di riepilogo che mostra solo i media non ancora concessi in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34345,8 +34345,8 @@
       <tuv lang="EN">
         <seg>The simplest is to retrieve this information with independent queries and insert the results into the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152344Z" creationid="manuel" creationdate="20180508T152344Z">
-        <seg>Il più semplice è recuperare queste informazioni con ricerche indipendenti e inserire i risultati nel modulo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152907Z" creationid="manuel" creationdate="20180508T152344Z">
+        <seg>Il più semplice è recuperare queste informazioni con ricerche indipendenti e inserire i risultati nel formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40049,8 +40049,8 @@
       <tuv lang="EN">
         <seg>Without a query, the form shows only:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153133Z" creationid="manuel" creationdate="20180508T153133Z">
-        <seg>Senza una riceca, il modulo mostra solo:</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152923Z" creationid="manuel" creationdate="20180508T153133Z">
+        <seg>Senza una ricerca, il formulario mostra solo:</seg>
       </tuv>
     </tu>
     <tu>
