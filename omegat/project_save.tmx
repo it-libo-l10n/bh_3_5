@@ -9352,8 +9352,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;To s&lt;/f1&gt;&lt;f2&gt;elect &lt;/f2&gt;&lt;f3&gt;a table, click its name and then click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Add&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T092440Z" creationid="Manuel Frassinetti" creationdate="20171127T092440Z">
-        <seg>&lt;f1&gt;Per &lt;/f1&gt;&lt;f2&gt;selezionare &lt;/f2&gt;&lt;f3&gt;una tabella, fare clic sul nome e poi clic sul pulsante &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Aggiungi&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T101012Z" creationid="Manuel Frassinetti" creationdate="20171127T092440Z">
+        <seg>&lt;f1&gt;Per &lt;/f1&gt;&lt;f2&gt;selezionare &lt;/f2&gt;&lt;f3&gt;una tabella, fate clic sul nome e poi clic sul pulsante &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Aggiungi&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
