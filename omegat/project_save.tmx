@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>"a" however yields only the relationship to the current values in this record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151142Z" creationid="manuel" creationdate="20180521T151142Z">
-        <seg>"a" tuttavia fornisce solo la relazione con i valori correnti in questo record.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T154806Z" creationid="manuel" creationdate="20180521T151142Z">
+        <seg>"a" tuttavia fornisce solo la relazione con i valori correnti in questo record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22705,8 +22705,8 @@
       <tuv lang="EN">
         <seg>It is more appropriate to pass on the parameter directly from the main form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150734Z" creationid="manuel" creationdate="20180521T150734Z">
-        <seg>È più appropriato passare il parametro direttamente dal modulo principale.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T154729Z" creationid="manuel" creationdate="20180521T150734Z">
+        <seg>È più appropriato passare il parametro direttamente dal formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
