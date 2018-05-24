@@ -8504,8 +8504,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The join conditions must be opened for editing to display all the desired records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T161712Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
-        <seg>&lt;f0&gt;Le condizioni di relazione devono essere aperte per la modifica per visualizzare tutti i record desiderati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T142026Z" creationid="Manuel Frassinetti" creationdate="20171216T175442Z">
+        <seg>&lt;f0&gt;Le condizioni di relazione devono essere aperte per la modifica per visualizzare tutti i record di dati desiderati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12496,8 +12496,8 @@
       <tuv lang="EN">
         <seg>But if you enter Subtitle into the query table, the record content of the Media table is reduced to only 2 Titles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174835Z" creationid="Manuel Frassinetti" creationdate="20171216T174835Z">
-        <seg>Ma se inserite sottotitoli nella tabella delle ricerca, il contenuto del record della tabella Supporto viene ridotto a soli 2 titoli.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141956Z" creationid="Manuel Frassinetti" creationdate="20171216T174835Z">
+        <seg>Ma se inserite sottotitoli nella tabella delle ricerca, il contenuto del record della tabella Media viene ridotto a soli 2 titoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,8 +15280,8 @@
       <tuv lang="EN">
         <seg>Even the path from a main form to a subform is not navigable by the built-in search function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172943Z" creationid="Manuel Frassinetti" creationdate="20171216T172943Z">
-        <seg>Anche il percorso da un formulario principale a un sotto-formulario non è navigabile tramite la funzione di ricerca integrata.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141923Z" creationid="Manuel Frassinetti" creationdate="20171216T172943Z">
+        <seg>Anche il percorso da un formulario principale a un sottoformulario non è navigabile tramite la funzione di ricerca integrata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34337,8 +34337,8 @@
       <tuv lang="EN">
         <seg>The simple query for the Title field from the Media table shows the test entries for this table, 9 records in all.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173525Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
-        <seg>La ricerca semplice per il campo Titolo dalla tabella Supporto mostra le voci di test per questa tabella, 9 record in tutto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141937Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
+        <seg>La ricerca semplice per il campo Titolo dalla tabella Media mostra le voci di test per questa tabella, 9 record in tutto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36289,8 +36289,8 @@
       <tuv lang="EN">
         <seg>This corresponds to the join condition that only those records for which the Media_ID field in the Subtitle table is equal to the ID field in the Media table should be shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T153211Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
-        <seg>Corrisponde alla condizione di relazione per cui devono essere visualizzati solo i record di dati per i quali il campo Supporto_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Supporto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T142048Z" creationid="Manuel Frassinetti" creationdate="20171216T175239Z">
+        <seg>Corrisponde alla condizione di relazione per cui devono essere visualizzati solo i record di dati per i quali il campo Media_ID nella tabella Sottotitoli è uguale al campo ID nella tabella Media.</seg>
       </tuv>
     </tu>
     <tu>
