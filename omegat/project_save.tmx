@@ -4502,6 +4502,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+A &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;to highlight the query's SQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095635Z" creationid="manuel" creationdate="20180524T095635Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+A &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per evidenziare l'SQL della ricerca.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+C&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to copy the SQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095727Z" creationid="manuel" creationdate="20180524T095727Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+C&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per copiare l'SQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Using queries to &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;bring together data from different tables, calculate results where necessary, and quickly filter a specific record from a mass of data&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105840Z" creationid="Marina Latini" creationdate="20171207T105840Z">
@@ -15006,6 +15022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit the query in SQL View.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095556Z" creationid="manuel" creationdate="20180524T095556Z">
+        <seg>Modificate la ricerca in vista SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing entries using forms and subforms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095631Z" creationid="Marina Latini" creationdate="20171207T095631Z">
@@ -17459,6 +17483,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162941Z" creationid="Marina Latini" creationdate="20171206T162941Z">
         <seg>Ottenere l'età attuale di qualcuno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting the SQL for the View:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095525Z" creationid="manuel" creationdate="20180524T095525Z">
+        <seg>Ottenere l'SQL per la vista:</seg>
       </tuv>
     </tu>
     <tu>
