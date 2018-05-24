@@ -7232,8 +7232,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is added, all "Names" from "Table1" are displayed even if they have no "Class".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T055128Z" creationid="manuel" creationdate="20180427T055128Z">
-        <seg>&lt;f0&gt;Se è aggiunta &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SINISTRA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, tutti "Nomi" dalla "Tabella1" sono mostrati anche se non hanno una "Classe".</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144006Z" creationid="manuel" creationdate="20180427T055128Z">
+        <seg>&lt;f0&gt;Se è aggiunta &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, tutti "Nomi" dalla "Tabella1" sono mostrati anche se non hanno una "Classe".</seg>
       </tuv>
     </tu>
     <tu>
@@ -20409,8 +20409,8 @@
       <tuv lang="EN">
         <seg>If, on the contrary, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;RIGHT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is added, all Classes are displayed even if they have no names in them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T055256Z" creationid="manuel" creationdate="20180427T055256Z">
-        <seg>Se, al contrario, è aggiunta &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;DESTRA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, tutte le classi sono mostrate anche se non contegono nomi.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144018Z" creationid="manuel" creationdate="20180427T055256Z">
+        <seg>Se, al contrario, è aggiunta &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;RIGHT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, tutte le classi sono mostrate anche se non contegono nomi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30977,8 +30977,8 @@
       <tuv lang="EN">
         <seg>The addition of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;INNER&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; does not alter this.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T054721Z" creationid="manuel" creationdate="20180427T054721Z">
-        <seg>L'aggiunta di un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;INTERNO&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; non altera nulla.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143837Z" creationid="manuel" creationdate="20180427T054721Z">
+        <seg>L'aggiunta di un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;INNER&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; non altera nulla.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
