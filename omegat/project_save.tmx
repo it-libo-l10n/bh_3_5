@@ -12358,6 +12358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But as one medium has three authors instead of one, the total number of records displayed will still be 15.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T070230Z" creationid="manuel" creationdate="20180524T070230Z">
+        <seg>Ma poiché un medium ha tre autori anziché uno, il numero totale di record di dati visualizzati sarà ancora 15.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But be careful!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221846Z" creationid="Marco Marega" creationdate="20180228T221846Z">
