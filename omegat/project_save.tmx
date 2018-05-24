@@ -21025,8 +21025,8 @@
       <tuv lang="EN">
         <seg>In practice this means that all media loaned to a specific person and returned can be retrieved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T062814Z" creationid="manuel" creationdate="20180507T062814Z">
-        <seg>In pratica ciò significa che tutti i supporti prestati a una persona specifica e restituiti possono essere recuperati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144939Z" creationid="manuel" creationdate="20180507T062814Z">
+        <seg>In pratica ciò significa che tutti i media prestati a una persona specifica e restituiti possono essere recuperati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21777,8 +21777,8 @@
       <tuv lang="EN">
         <seg>In the query result, the sum of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Input – Output&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is given for each person.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065634Z" creationid="manuel" creationdate="20180427T065535Z">
-        <seg>Nel risultato della ricerca, la somma di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;dato – uscita&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è restituito per ogni persona.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144755Z" creationid="manuel" creationdate="20180427T065535Z">
+        <seg>Nel risultato della ricerca, la somma di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;entrata – uscita&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; è restituito per ogni persona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27617,8 +27617,8 @@
       <tuv lang="EN">
         <seg>SELECT "Name", SUM("Input"-"Output") AS "Balance" FROM "Table1" GROUP BY "Name";</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065616Z" creationid="manuel" creationdate="20180427T064547Z">
-        <seg>SELECT "Nome", SUM("dato"-"uscita") AS "saldo" FROM "Tabella1" GROUP BY "Nome";</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144741Z" creationid="manuel" creationdate="20180427T064547Z">
+        <seg>SELECT "Nome", SUM("entrata"-"uscita") AS "saldo" FROM "Tabella1" GROUP BY "Nome";</seg>
       </tuv>
     </tu>
     <tu>
