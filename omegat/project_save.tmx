@@ -4494,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Views are a solution for many queries, if you want to get any results at all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T090952Z" creationid="manuel" creationdate="20180524T090952Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Le viste sono una soluzione per molte domande, se volete ottenere qualsiasi risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;WHILE&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oQuery_result.next&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T210141Z" creationid="Marco Marega" creationdate="20180328T210141Z">
