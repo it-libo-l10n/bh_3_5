@@ -22937,8 +22937,8 @@
       <tuv lang="EN">
         <seg>It prompts you to enter a reader number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T100959Z" creationid="manuel" creationdate="20180511T100959Z">
-        <seg>Vi richchieder un numero del lettore.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T153515Z" creationid="manuel" creationdate="20180511T100959Z">
+        <seg>Vi richiede di inserire un numero del lettore.</seg>
       </tuv>
     </tu>
     <tu>
