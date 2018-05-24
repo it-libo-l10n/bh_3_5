@@ -13862,6 +13862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a View from a query is rather easy and straight forward.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T092818Z" creationid="manuel" creationdate="20180524T092818Z">
+        <seg>Creare una vista da una ricerca è piuttosto semplice e diretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105354Z" creationid="Marina Latini" creationdate="20171207T105354Z">
@@ -35019,6 +35027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205729Z" creationid="Marco Marega" creationdate="20180328T205729Z">
         <seg>Poi la ricerca inizia a essere letta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then use the subselect on the View.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Corresponding examples are to be found in &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;C&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;hapter &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;8,&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt; Database Tasks.&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T092754Z" creationid="manuel" creationdate="20180524T092754Z">
+        <seg>Poi usate la sottoselezione sulla vista.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Esempi corrispondenti si trovano nel &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;Capitolo&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;8,&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt; Attività del database.&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
     </tu>
     <tu>
