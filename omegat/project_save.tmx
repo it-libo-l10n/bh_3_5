@@ -31503,6 +31503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database gives you no direct access to queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T081905Z" creationid="manuel" creationdate="20180524T081905Z">
+        <seg>Il database non consente l'accesso diretto alle ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database is found using the file browser and connected to LibreOffice in a similar way as for a simple form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181040Z" creationid="Elisabetta Manuele" creationdate="20180306T181040Z">
@@ -35799,6 +35807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This also applies to access using macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T081935Z" creationid="manuel" creationdate="20180524T081935Z">
+        <seg>Questo vale anche per l'accesso tramite macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This also shows that new entries are possible.&lt;/f23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T104714Z" creationid="Manuel Frassinetti" creationdate="20171202T104714Z">
@@ -39107,6 +39123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075816Z" creationid="manuel" creationdate="20180524T075816Z">
         <seg>Le viste in SQL sono più veloci delle ricerche, soprattutto per i database esterni, poiché sono ancorate direttamente nel database e il server restituisce solo i risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Views, on the other hand, can be accessed from &lt;f0&gt;both &lt;/f0&gt;macros and tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T082135Z" creationid="manuel" creationdate="20180524T082135Z">
+        <seg>Le visualizzazioni, d'altra parte, sono accessibili &lt;f0&gt;entrambi &lt;/f0&gt;da macro e tabelle.</seg>
       </tuv>
     </tu>
     <tu>
