@@ -2464,7 +2464,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;COUNT("Name")&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; counts all &lt;/f2&gt;&lt;f3&gt;entries&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;for the field Name&lt;/f5&gt;&lt;f6&gt;.&lt;br7/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T155115Z" creationid="manuel" creationdate="20180301T155115Z">
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143042Z" creationid="manuel" creationdate="20180301T155115Z">
         <seg>&lt;f0&gt;&lt;f1&gt;COUNT("Nome")&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; conta tutti gli &lt;/f2&gt;&lt;f3&gt;inserimenti&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;per il campo Nome&lt;/f5&gt;&lt;f6&gt;.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
@@ -6936,8 +6936,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Field names, calculations, record totals are all possible entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154442Z" creationid="manuel" creationdate="20180301T154442Z">
-        <seg>&lt;f0&gt;I nomei dei campi, i calcoli, il totoali dei record di dati sono tutti inserimenti possibili.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T142958Z" creationid="manuel" creationdate="20180301T154442Z">
+        <seg>&lt;f0&gt;I nomi dei campi, i calcoli, il totali dei record di dati sono tutti inserimenti possibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20593,8 +20593,8 @@
       <tuv lang="EN">
         <seg>In addition different functions are available for the field &lt;/f0&gt;&lt;f1&gt;shown&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154635Z" creationid="manuel" creationdate="20180301T154635Z">
-        <seg>In aggiunta differenti funzioni sono disponibli per i campo &lt;/f0&gt;&lt;f1&gt;mostrato&lt;/f1&gt;&lt;f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143009Z" creationid="manuel" creationdate="20180301T154635Z">
+        <seg>In aggiunta differenti funzioni sono disponibli per il campo &lt;/f0&gt;&lt;f1&gt;mostrato&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
