@@ -12296,8 +12296,8 @@
       <tuv lang="EN">
         <seg>Because of this, a Query 2 that relates to another Query 1 cannot be run by using &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Edit &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Run SQL command directly&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, since only the graphical user interface and not the database itself knows about Query 1.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T081015Z" creationid="manuel" creationdate="20180524T081015Z">
-        <seg>Per questo motivo, non è possibile eseguire una ricerca 2 correlata a un'altra ricerca 1 utilizzando &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;modifica &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;esegui direttamenta comando SQL&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, poiché solo l'interfaccia utente grafica e non il database stesso sono a conoscenza di ricerca 1.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T163256Z" creationid="manuel" creationdate="20180524T081015Z">
+        <seg>Per questo motivo, non è possibile eseguire una ricerca 2 correlata a un'altra ricerca 1 utilizzando &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Modifica &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Esegui direttamenta comando SQL&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, poiché solo l'interfaccia utente grafica e non il database stesso sono a conoscenza di ricerca 1.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
