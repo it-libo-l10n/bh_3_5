@@ -9766,6 +9766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A form refers after all to only one table, and the search function moves only through the underlying records for this form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055300Z" creationid="manuel" creationdate="20180524T055300Z">
+        <seg>Dopo tutto, un formulario si riferisce solo a una tabella e la funzione di ricerca si sposta solo attraverso i record di dati sottostanti per questo formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A frame around, for example, a set of option buttons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T205831Z" creationid="Marco Marega" creationdate="20171015T205831Z">
@@ -17227,6 +17235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163603Z" creationid="Marina Latini" creationdate="20171206T163603Z">
         <seg>Ottenere un bilanciamento per categorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting at all the data is simpler when you use queries, which can provide a picture of all the records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055400Z" creationid="manuel" creationdate="20180524T055400Z">
+        <seg>Ottenere tutti i dati è più semplice quando si utilizzano le ricerche, che possono fornire un'immagine di tutti i record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30003,6 +30019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140217Z" creationid="Marco Marega" creationdate="20180203T140217Z">
         <seg>La tabella &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt;, come la tabella &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt;, ha una relazione 1:1 con la tabella &lt;f4&gt;Reader&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;section&lt;/f0&gt; on “&lt;bf1&gt;Relationship definition in the query&lt;/bf1&gt;” suggests such a query construction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055559Z" creationid="manuel" creationdate="20180524T055559Z">
+        <seg>La &lt;f0&gt;sezione&lt;/f0&gt; su “&lt;bf1&gt;Definizione della relazione nella ricerca&lt;/bf1&gt;” suggerisce una tale costruzione di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
