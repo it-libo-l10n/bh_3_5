@@ -18441,8 +18441,8 @@
       <tuv lang="EN">
         <seg>However no query can be created without at least one table, so a &lt;f5&gt;selection&lt;/f5&gt; must be made at the beginning.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T110043Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
-        <seg>Tuttavia nessuna ricerca può essere creata senza almeno una tabella, quindi una  &lt;f5&gt;selezione&lt;/f5&gt; deve essere fatta all'inizio.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T101054Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
+        <seg>Tuttavia nessuna ricerca può essere creata senza almeno una tabella, quindi una &lt;f5&gt;selezione&lt;/f5&gt; deve essere fatta all'inizio.</seg>
       </tuv>
     </tu>
     <tu>
