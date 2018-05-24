@@ -4600,8 +4600,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;When using Design View Mode, a field is only visible if the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Visible&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; row contains a check mark for the field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T145736Z" creationid="Manuel Frassinetti" creationdate="20171214T180713Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Quando si usa il modo vista struttura, un campo è visibile solo se la riga &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Visibile&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; contiene una marcatura per il campo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T135532Z" creationid="Manuel Frassinetti" creationdate="20171214T180713Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Quando si usa il modo vista struttura, un campo è visibile solo se la riga &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;visibile&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; contiene una marcatura per il campo.</seg>
       </tuv>
     </tu>
     <tu>
