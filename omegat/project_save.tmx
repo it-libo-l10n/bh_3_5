@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;Table1 LEFT JOIN Table2 ON Table1.Field1 = Table2.Field1 LEFT JOIN Table3 ON Table2.Field1 = Table3.Field1 ...&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T063923Z" creationid="manuel" creationdate="20180524T063923Z">
+        <seg>&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;&lt;f16&gt;Tabella1 LEFT JOIN Tabella2 ON Tabella1.Campo1 = Tabella2.Campo1 LEFT JOIN Tabella3 ON Tabella2.Campo1 = Tabella3.Campo1 ...&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;f14&gt;Figure&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;t17&gt;43&lt;/t17&gt;&lt;/f16&gt;&lt;f18&gt; also contains an extra line for the entry of &lt;/f18&gt;&lt;f19&gt;a &lt;/f19&gt;&lt;f20&gt;new record, with the ID field already marked as &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;AutoField&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T170432Z" creationid="Manuel Frassinetti" creationdate="20171202T104636Z">
@@ -3706,6 +3714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T155218Z" creationid="Elisabetta Manuele" creationdate="20180412T155218Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Se i documenti del formulario sono ordinati in cartelle all'interno del file &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ODB &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, la macro per la modifica del formulario deve essere più complessa:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If there is a&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; LEFT JOIN &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;or a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; RIGHT JOIN&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, the assignment is defined directly after the two table names using&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; ON&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T063658Z" creationid="manuel" creationdate="20180524T063658Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Se c'è un&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; LEFT JOIN &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;o un&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; RIGHT JOIN&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, l'assegnazione viene definita direttamente dopo i due nomi di tabella utilizzando&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; ON&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33971,6 +33987,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T175839Z" creationid="Elisabetta Manuele" creationdate="20180429T175839Z">
         <seg>La sequenza è quella illustrata nel commento precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sequence is therefore always&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T063800Z" creationid="manuel" creationdate="20180524T063800Z">
+        <seg>La sequenza è quindi sempre&lt;br14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
