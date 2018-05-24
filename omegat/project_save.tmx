@@ -6696,8 +6696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click the icon highlighted (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Run SQL command directly&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;) to turn the Design V&lt;/f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;f5&gt;ew Off/On icon off.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180214T120942Z" creationid="manuel" creationdate="20180214T120942Z">
-        <seg>&lt;f0&gt;Fate clic sull'icona evidenziata (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Esegui direttamente il comando SQL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;) per selezionare l'icona Sì/no Vista &lt;/f3&gt;&lt;f4&gt;Struttura&lt;/f4&gt;&lt;f5&gt; su No.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T142706Z" creationid="manuel" creationdate="20180214T120942Z">
+        <seg>&lt;f0&gt;Fate clic sull'icona evidenziata (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Esegui direttamente il comando SQL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;) per selezionare l'icona Vista &lt;/f3&gt;&lt;f4&gt;struttura&lt;/f4&gt;&lt;f5&gt; sì/no su no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9608,8 +9608,8 @@
       <tuv lang="EN">
         <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;LIMIT 10 20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; starts at the 11th record and shows the following 20 records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T150810Z" creationid="manuel" creationdate="20180224T150810Z">
-        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;LIMIT 10 20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; inizia dall'undicesimo record di dati e mostra e mostra i successivi venti record di dati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T142754Z" creationid="manuel" creationdate="20180224T150810Z">
+        <seg>&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;LIMIT 10 20&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; inizia dall'undicesimo record di dati e mostra i successivi venti record di dati.</seg>
       </tuv>
     </tu>
     <tu>
