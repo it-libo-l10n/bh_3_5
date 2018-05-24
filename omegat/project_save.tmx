@@ -16223,6 +16223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For each Subtitle, the corresponding Title is searched for, and that is the end of the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T060916Z" creationid="manuel" creationdate="20180524T060916Z">
+        <seg>Per ogni sottotitolo, viene cercato il titolo corrispondente e questa è la fine della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each reader there is a single address.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151447Z" creationid="Marco Marega" creationdate="20180127T151447Z">
@@ -37671,6 +37679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Titles &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;without&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Subtitle are not shown.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T061032Z" creationid="manuel" creationdate="20180524T061032Z">
+        <seg>I titoli &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;senza&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; sottotitolo non sono mostrati.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access another table, you will need to switch the Explorer back on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T173845Z" creationid="Elisabetta Manuele" creationdate="20180307T173845Z">
@@ -39643,6 +39659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171016T203914Z" creationid="Marco Marega" creationdate="20171016T203914Z">
         <seg>All'interno di un formulario, per la navigazione normalmente viene usato il tasto &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;JOIN&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, b&lt;/f5&gt;&lt;f6&gt;oth tables displayed together yield &lt;/f6&gt;&lt;f7&gt;only&lt;/f7&gt;&lt;f8&gt; 8 records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T060850Z" creationid="manuel" creationdate="20180524T060850Z">
+        <seg>Senza un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;JOIN&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, entrambe&lt;/f5&gt;&lt;f6&gt; le tabelle visualizzate insieme producono &lt;/f6&gt;&lt;f7&gt;solo&lt;/f7&gt;&lt;f8&gt; 8 record di dati.</seg>
       </tuv>
     </tu>
     <tu>
