@@ -24473,8 +24473,8 @@
       <tuv lang="EN">
         <seg>Note that a comma and a space are inserted between "Surname" and "First_name".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072041Z" creationid="manuel" creationdate="20180507T072041Z">
-        <seg>Nota che una virgola e uno spazio sono inseriti tra "Cognome" e "Nome".</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T145035Z" creationid="manuel" creationdate="20180507T072041Z">
+        <seg>Notate che una virgola e uno spazio sono inseriti tra "Cognome" e "Nome".</seg>
       </tuv>
     </tu>
     <tu>
