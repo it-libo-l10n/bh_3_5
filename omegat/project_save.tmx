@@ -12486,6 +12486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But this enlarged data set can easily be scanned, since authors and subtitles are displayed in addition to the titles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075359Z" creationid="manuel" creationdate="20180524T075359Z">
+        <seg>Ma questo insieme di dati ampliato può essere facilmente scansionato, poiché gli autori e i sottotitoli vengono visualizzati in aggiunta ai titoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But what if a library catalog shows clearly the classification for an item, but does not show uniquely if this is a book, a CD or a DVD?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T195140Z" creationid="Marco Marega" creationdate="20180327T195140Z">
@@ -21347,6 +21355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T143755Z" creationid="Alessia Mazzarini" creationdate="20180328T143755Z">
         <seg>Nell'esempio riportato sopra, il grafico mostra molto poco all'inizio poiché, prima dell'introduzione del comando SQL, erano stati creati solo pochi prestiti di esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the example database, all of the media-dependent tables can be accessed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075438Z" creationid="manuel" creationdate="20180524T075438Z">
+        <seg>Nel database di esempio, è possibile accedere a tutte le tabelle dipendenti dai media.</seg>
       </tuv>
     </tu>
     <tu>
