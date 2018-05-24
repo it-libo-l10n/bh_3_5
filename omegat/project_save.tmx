@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is the SQL Mode for a View.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T094107Z" creationid="manuel" creationdate="20180524T094107Z">
+        <seg>(Questo è l modo SQL per una vista.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>([ALL | DISTINCT]] Expression) } [[AS] "display_name"]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180301T154337Z" creationid="manuel" creationdate="20180301T154337Z">
@@ -13466,6 +13474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T171141Z" creationid="Marina Latini" creationdate="20171207T171141Z">
         <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare le vostre impostazioni e chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the Design View On/OFF icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T094025Z" creationid="manuel" creationdate="20180524T094025Z">
+        <seg>Fate clic sull'icona Vista struttura sì/no.</seg>
       </tuv>
     </tu>
     <tu>
