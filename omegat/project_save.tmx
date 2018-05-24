@@ -29023,6 +29023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summari&lt;f0&gt;z&lt;/f0&gt;ing data with queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055051Z" creationid="manuel" creationdate="20180524T055051Z">
+        <seg>Riepilogo&lt;f0&gt;&lt;/f0&gt; dei dati con le ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summarizing data with queries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T172946Z" creationid="Marina Latini" creationdate="20171205T172946Z">
@@ -39123,6 +39131,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172341Z" creationid="Manuel Frassinetti" creationdate="20171216T172341Z">
         <seg>Quando i dati vengono cercati in tabelle o formulari, la ricerca è generalmente limitata a una tabella o a un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When data is searched for over a whole database, the use of simple form functions often leads to problems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055159Z" creationid="manuel" creationdate="20180524T055159Z">
+        <seg>Quando i dati vengono cercati su un intero database, l'uso di semplici funzioni del formulario spesso porta a problemi.</seg>
       </tuv>
     </tu>
     <tu>
