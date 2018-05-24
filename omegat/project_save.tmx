@@ -22927,6 +22927,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEFT JOIN "Subtitle" ON "Media"."ID" = "Subtitle"."Media_ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055804Z" creationid="manuel" creationdate="20180524T055804Z">
+        <seg>LEFT JOIN "Sottotitolo" ON "Media"."ID" = "Sottotitolo"."Media_ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LEFT JOIN "rel_Media_Author" ON "Media"."ID" = "rel_Media_Author"."Media_ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055851Z" creationid="manuel" creationdate="20180524T055851Z">
+        <seg>LEFT JOIN "rel_Media_Autore" ON "Media"."ID" = "rel_Media_Autore"."Media_ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LEFT(s,count)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181653Z" creationid="Elisabetta Manuele" creationdate="20180402T181653Z">
@@ -27227,6 +27243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T163803Z" creationid="manuel" creationdate="20180508T163803Z">
         <seg>SELECT "Media"."ID", "Media"."Titolo", "Categoria"."Categoria", "Categoria"."ID" AS "&lt;f0&gt;K&lt;/f0&gt;at&lt;f1&gt;_&lt;/f1&gt;ID" FROM "Media", "Categoria" WHERE "Media"."Categoria_ID" = "Categoria"."ID";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Media"."Title", "Subtitle"."Subtitle", "Author"."Author"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055711Z" creationid="manuel" creationdate="20180524T055711Z">
+        <seg>SELECT "Media"."Titolo", "Sottotitolo"."Sottotitolo", "Autore"."Autore"</seg>
       </tuv>
     </tu>
     <tu>
@@ -36387,6 +36411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150912Z" creationid="Manuel Frassinetti" creationdate="20171216T150912Z">
         <seg>Questa è una pratica comune nelle scuole e nelle biblioteche pubbliche che emettono prestiti solo per periodi brevi e fissi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is constructed for the example database as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055624Z" creationid="manuel" creationdate="20180524T055624Z">
+        <seg>Questo è costruito per il database di esempio come segue:</seg>
       </tuv>
     </tu>
     <tu>
