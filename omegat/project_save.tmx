@@ -7182,6 +7182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If a new query relates to another query, the SQL view in Base makes the other query look like a table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075947Z" creationid="manuel" creationdate="20180524T075947Z">
+        <seg>&lt;f0&gt;Se una nuova ricerca si riferisce a un'altra ricerca, la vista SQL in Base rende l'altra ricerca simile a una tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If a record is found in the Searchtmp table, it means that the result of the first query is greater than 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132414Z" creationid="Marco Marega" creationdate="20180414T132414Z">
@@ -12554,6 +12562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180315T220326Z" creationid="Alessia Mazzarini" creationdate="20180315T220326Z">
         <seg>Pulsanti per modificare il contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast queries are first sent to the server and processed there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075901Z" creationid="manuel" creationdate="20180524T075901Z">
+        <seg>Al contrario, le ricerche vengono prima inviate al server ed elaborate lì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39067,6 +39083,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180226T172743Z" creationid="steevie" creationdate="20180226T172743Z">
         <seg>Le viste sono preferibili soprattutto per sistemi di database esterni, poiché in questo caso il server lavora in maniera significativamente più veloce che in un'interrogazione che deve essere composta dalla GUI e poi inviata al server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Views in SQL are quicker than queries, especially for external databases, as they are anchored directly into the database and the server returns only the results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075816Z" creationid="manuel" creationdate="20180524T075816Z">
+        <seg>Le viste in SQL sono più veloci delle ricerche, soprattutto per i database esterni, poiché sono ancorate direttamente nel database e il server restituisce solo i risultati.</seg>
       </tuv>
     </tu>
     <tu>
