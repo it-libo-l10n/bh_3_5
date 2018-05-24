@@ -7528,8 +7528,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Instead of listing the media for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 0 separately, all the "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Recalls"."Date" fields have been &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;count&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;ed and the total of 8.00€ entered as the fine due.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T152429Z" creationid="Manuel Frassinetti" creationdate="20171216T164849Z">
-        <seg>&lt;f0&gt;Invece di elencare separatamente i supporti per il &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 1, tutti i campi  "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Richiami"."Data" sono stati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;conteggiati&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; e il totale di 8.00 € inserito come ammenda dovuta.&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141844Z" creationid="Manuel Frassinetti" creationdate="20171216T164849Z">
+        <seg>&lt;f0&gt;Invece di elencare separatamente i media per il &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 1, tutti i campi  "&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Richiami"."Data" sono stati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;conteggiati&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; e il totale di 8.00 € inserito come ammenda dovuta.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33953,8 +33953,8 @@
       <tuv lang="EN">
         <seg>The query now yields for each medium still on loan the fines that have accrued, based on the recall notices issued and the additional multiplication field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163812Z" creationid="Manuel Frassinetti" creationdate="20171216T162736Z">
-        <seg>La ricerca ora restituisce per ogni supporto ancora in prestito le ammende che sono maturate, in base agli avvisi di richiamo emessi e al campo di moltiplicazione aggiuntivo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141753Z" creationid="Manuel Frassinetti" creationdate="20171216T162736Z">
+        <seg>La ricerca ora restituisce per ogni media ancora in prestito le ammende che sono maturate, in base agli avvisi di richiamo emessi e al campo di moltiplicazione aggiuntivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35809,8 +35809,8 @@
       <tuv lang="EN">
         <seg>They were used in the previous query to create by grouping a separate record for each medium.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T163803Z" creationid="Manuel Frassinetti" creationdate="20171216T163803Z">
-        <seg>Sono stati utilizzati nella ricerca precedente per creare raggruppando un record separato per ciascun supporto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141824Z" creationid="Manuel Frassinetti" creationdate="20171216T163803Z">
+        <seg>Sono stati utilizzati nella ricerca precedente per creare raggruppando un record separato per ciascun media.</seg>
       </tuv>
     </tu>
     <tu>
