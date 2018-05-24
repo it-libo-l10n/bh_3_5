@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Click &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Create View&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T093659Z" creationid="manuel" creationdate="20180524T093659Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Fate clic su &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Crea vista&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Click the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; object in the Database section.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180524T093549Z" creationid="manuel" creationdate="20180524T093549Z">
@@ -13474,6 +13482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144739Z" creationid="Marco Marega" creationdate="20180303T144739Z">
         <seg>Un clic sull'icona &lt;f0&gt;Rimuovi filtro/&lt;/f0&gt;&lt;f1&gt;ordine&lt;/f1&gt; all'estrema destra, comporta l'eliminazione di tutti i filtri e gli ordinamenti esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close the Add Table dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T093901Z" creationid="manuel" creationdate="20180524T093901Z">
+        <seg>Chiudete la finestra di dialogo Aggiungi tabelle.</seg>
       </tuv>
     </tu>
     <tu>
