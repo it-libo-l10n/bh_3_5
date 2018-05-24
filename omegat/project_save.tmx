@@ -3830,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In the SQL Mode of the View &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;use &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Control+&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;V&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; to paste the SQL.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095811Z" creationid="manuel" creationdate="20180524T095811Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;In modo SQL della vista &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;usate &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Control+&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;V&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; per incollare l'SQL.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In the form there is a built-in filter whose activation can tell you which categories are not needed in the Media table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T160724Z" creationid="steevie" creationdate="20180216T160724Z">
