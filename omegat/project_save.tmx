@@ -19431,6 +19431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Author Table is linked without a&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; LEFT JOIN,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; the two Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;without&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; an Author will not be shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T070040Z" creationid="manuel" creationdate="20180524T070029Z">
+        <seg>Se la tabella autore è collegata senza un&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; LEFT JOIN,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; i due Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;senza&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; un autore non verrà mostrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the background is not defined as transparent, a background color can be defined for each field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164443Z" creationid="Alessia Mazzarini" creationdate="20180324T164443Z">
