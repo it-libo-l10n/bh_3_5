@@ -19215,6 +19215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If for example a Subselect is to be used on &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;of a query,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;create a &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;View&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; that gives you these results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T092554Z" creationid="manuel" creationdate="20180524T092554Z">
+        <seg>Se per esempio una sottoselezione deve essere utilizzata sui &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; risultati&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;di una ricerca,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;create una &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;vista&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; che vi fornisca questi risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If however a form within the same Base file is accessing the database, you only need:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T165139Z" creationid="Elisabetta Manuele" creationdate="20180412T165139Z">
