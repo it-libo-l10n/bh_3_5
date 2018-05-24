@@ -17713,8 +17713,8 @@
       <tuv lang="EN">
         <seg>Here all records are distinguishable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150651Z" creationid="manuel" creationdate="20180508T150651Z">
-        <seg>Qui tutti i record sono distinguibili.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152725Z" creationid="manuel" creationdate="20180508T150651Z">
+        <seg>Qui tutti i record di dati sono distinguibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37497,8 +37497,8 @@
       <tuv lang="EN">
         <seg>This query would show all first names and the primary key "ID" values that the form’s underlying table provides.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143045Z" creationid="manuel" creationdate="20180508T143045Z">
-        <seg>Questa ricerca mostrerebbe tutti i nomi di battesimo e i valori di "ID" della chiave primaria forniti dalla tabella sottostante del modulo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152502Z" creationid="manuel" creationdate="20180508T143045Z">
+        <seg>Questa ricerca mostrerebbe tutti i nomi di battesimo e i valori di "ID" della chiave primaria forniti dalla tabella sottostante del formulario.</seg>
       </tuv>
     </tu>
     <tu>
