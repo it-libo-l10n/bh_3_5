@@ -9118,6 +9118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;(They must be edited in a table or form.)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T082237Z" creationid="manuel" creationdate="20180524T082237Z">
+        <seg>&lt;f1&gt;(Devono essere modificati in una tabella o in un formulario.)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;&lt;s2/&gt;IDENTITY&lt;/f1&gt; means, that the field has the property AutoValue.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223950Z" creationid="Marco Marega" creationdate="20180224T223950Z">
@@ -18507,6 +18515,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160149Z" creationid="steevie" creationdate="20180206T080303Z">
         <seg>Tuttavia, non è evidente durante il normale utilizzo che questo record di dati non sia più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, no records can be edited in a view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T082204Z" creationid="manuel" creationdate="20180524T082204Z">
+        <seg>Tuttavia, nessun record di dati può essere modificato in una vista.</seg>
       </tuv>
     </tu>
     <tu>
