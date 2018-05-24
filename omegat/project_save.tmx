@@ -34905,8 +34905,8 @@
       <tuv lang="EN">
         <seg>The value that is finally saved in the form must not occur in the first position of the list box field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142928Z" creationid="manuel" creationdate="20180508T142928Z">
-        <seg>Il valore che viene infine salvato nel modulo non deve verificarsi nella prima posizione del campo della casella di riepilogo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T152409Z" creationid="manuel" creationdate="20180508T142928Z">
+        <seg>Il valore che viene infine salvato nel modulo non deve apparire nella prima posizione del campo della casella di riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
