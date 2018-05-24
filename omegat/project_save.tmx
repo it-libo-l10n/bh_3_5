@@ -20513,8 +20513,8 @@
       <tuv lang="EN">
         <seg>In SQL, field names should be placed in double quotes, as they may not be correctly recogni&lt;/f2&gt;&lt;f4&gt;z&lt;/f4&gt;&lt;f5&gt;ed otherwise.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T110449Z" creationid="manuel" creationdate="20180507T110449Z">
-        <seg>In SQL, i nomi dei campi devono essere inseriti tra virgolette, in quanto potrebbero non essere riconosciuti correttamente &lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;altrimenti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T151220Z" creationid="manuel" creationdate="20180507T110449Z">
+        <seg>In SQL, i nomi dei campi devono essere inseriti tra virgolette, in quanto potrebbero altrimenti non essere riconosciuti correttamente &lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27409,8 +27409,8 @@
       <tuv lang="EN">
         <seg>SELECT "First_name" FROM "Table1" EXCEPT SELECT "First_name" FROM "Table2";</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145040Z" creationid="manuel" creationdate="20180507T145040Z">
-        <seg>SELECT "Prima_nome" FROM "Tabella1" EXCEPT SELECT "Primo_nome" FROM "Tabella2";</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T151452Z" creationid="manuel" creationdate="20180507T145040Z">
+        <seg>SELECT "Primo_nome" FROM "Tabella1" EXCEPT SELECT "Primo_nome" FROM "Tabella2";</seg>
       </tuv>
     </tu>
     <tu>
