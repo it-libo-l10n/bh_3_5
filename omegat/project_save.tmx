@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A query created using &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Create Query in SQL View&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; has the disadvantage that it cannot be sorted or filtered using the GUI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T082526Z" creationid="manuel" creationdate="20180524T082526Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Una ricerca creata usando &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Crea ricerca in vista SQL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ha lo svantaggio che non può essere ordinata o filtrata usando la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A query may require a field that is not part of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; query output.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180110Z" creationid="Manuel Frassinetti" creationdate="20171206T180110Z">
@@ -35043,6 +35051,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T183037Z" creationid="Elisabetta Manuele" creationdate="20180306T183037Z">
         <seg>Esistono diverse alternative per l'inserimento di dati come testo: in tabelle, in campo dati singolo oppure come testo normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are therefore limits to its use.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T082551Z" creationid="manuel" creationdate="20180524T082551Z">
+        <seg>Ci sono quindi dei limiti al suo utilizzo.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
