@@ -7758,6 +7758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Now to show all Media including those &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;without&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; a Subtitle: Media is on the left side of the assignment, Subtitle on the right side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T061300Z" creationid="manuel" creationdate="20180524T061300Z">
+        <seg>&lt;f0&gt;Ora per mostrare tutti i media compresi quelli &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;senza&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; un sottotitolo: il media si trova sul lato sinistro dell'assegnazione, il sottotitolo sul lato destro..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;resent data in easy-to-read tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T181318Z" creationid="Alessia Mazzarini" creationdate="20180311T181318Z">
@@ -9602,6 +9610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151853Z" creationid="Marco Marega" creationdate="20180127T151853Z">
         <seg>Una relazione 1:1 non significa che per ogni record in una tabella ci sarà un record corrispondente in un'altra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LEFT JOIN&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will show every Title from Media, but only a Subtitle for those that have a Title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T061427Z" creationid="manuel" creationdate="20180524T061427Z">
+        <seg>Un &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LEFT JOIN&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; visualizzerà ogni titolo dal media, ma solo un sottotitolo per quelli che hanno un titolo.</seg>
       </tuv>
     </tu>
     <tu>
