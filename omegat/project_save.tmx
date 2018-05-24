@@ -8206,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The Media table contains a total of 9 Titles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T060510Z" creationid="manuel" creationdate="20180524T060510Z">
+        <seg>&lt;f0&gt;La tabella Media contiene un totale di 9 titoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The Report Builder is a plug-in.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T173951Z" creationid="Alessia Mazzarini" creationdate="20180411T173951Z">
@@ -17455,6 +17463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here all "Titles", "Subtitles" and "Authors" are shown together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T060416Z" creationid="manuel" creationdate="20180524T060416Z">
+        <seg>Qui tutti i "Titoli", "Sottotitoli" e "Autori" sono mostrati insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here all records are distinguishable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T150651Z" creationid="manuel" creationdate="20180508T150651Z">
@@ -22923,6 +22939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T181620Z" creationid="Elisabetta Manuele" creationdate="20180402T181620Z">
         <seg>LCASE(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LEFT JOIN "Author" ON "rel_Media_Author"."Author_ID" = "Author"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055921Z" creationid="manuel" creationdate="20180524T055921Z">
+        <seg>LEFT JOIN "Autore" ON "rel_Media_Autore"."Autore_ID" = "Autore"."ID"</seg>
       </tuv>
     </tu>
     <tu>
