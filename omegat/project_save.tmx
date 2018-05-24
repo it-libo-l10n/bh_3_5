@@ -10640,8 +10640,8 @@
       <tuv lang="EN">
         <seg>Addition of &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OUTER&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; need not be shown here.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T055400Z" creationid="manuel" creationdate="20180427T055400Z">
-        <seg>L'aggiunta di &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ESTERNO&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; non ha bisogno di essere mostrato qui.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144142Z" creationid="manuel" creationdate="20180427T055400Z">
+        <seg>L'aggiunta di &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OUTER&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; non ha bisogno di essere mostrato qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11080,8 +11080,8 @@
       <tuv lang="EN">
         <seg>All records from the first table are paired with all records from the second table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T062339Z" creationid="manuel" creationdate="20180427T062339Z">
-        <seg>Tutti i record della prima tabella sono associati a tutti i record della seconda tabella.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144223Z" creationid="manuel" creationdate="20180427T062339Z">
+        <seg>Tutti i record di dati della prima tabella sono associati a tutti i recorddi dati della seconda tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19657,8 +19657,8 @@
       <tuv lang="EN">
         <seg>If the conditions are formulated exactly as in the case of a simple JOIN, you get the same result:&lt;/f21&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063226Z" creationid="manuel" creationdate="20180427T063226Z">
-        <seg>Se le condizioni sono formulate esattamente come nel caso di un semplice JOIN, ottieni lo stesso risultato:&lt;/f21&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144323Z" creationid="manuel" creationdate="20180427T063226Z">
+        <seg>Se le condizioni sono formulate esattamente come nel caso di un semplice JOIN, ottenete lo stesso risultato:&lt;/f21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37945,8 +37945,8 @@
       <tuv lang="EN">
         <seg>Thus the above query yields all possible pairings of records from the first table with those of the second table except for pairings between records for the same player.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T062434Z" creationid="manuel" creationdate="20180427T062434Z">
-        <seg>Pertanto la ricerca sopra riportata restituisce tutti i possibili accoppiamenti di record dalla prima tabella con quelli della seconda tabella, ad eccezione degli accoppiamenti tra record per lo stesso giocatore.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144249Z" creationid="manuel" creationdate="20180427T062434Z">
+        <seg>Pertanto la ricerca sopra riportata restituisce tutti i possibili accoppiamenti di record di dati dalla prima tabella con quelli della seconda tabella, ad eccezione degli accoppiamenti tra record di dati per lo stesso giocatore.</seg>
       </tuv>
     </tu>
     <tu>
