@@ -8774,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Two titles of the Media table do not yet have an author entry or a Subtitle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T064015Z" creationid="manuel" creationdate="20180524T064015Z">
+        <seg>&lt;f0&gt;Due titoli della tabella Media non hanno ancora una voce dell'autore o un sottotitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Type of list contents&lt;/f0&gt;: Valuelist | Table | Query | SQL | SQL [Native] | Tablefields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T205222Z" creationid="Marco Marega" creationdate="20171101T205138Z">
@@ -11898,6 +11906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145629Z" creationid="manuel" creationdate="20180507T145629Z">
         <seg>Al momento questo lavora nel modo comando SQL diretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time one Title has a total of three Authors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T064153Z" creationid="manuel" creationdate="20180524T064153Z">
+        <seg>Allo stesso tempo, un titolo ha un totale di tre autori.</seg>
       </tuv>
     </tu>
     <tu>
