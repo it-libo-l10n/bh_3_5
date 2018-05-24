@@ -1944,8 +1944,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Basically they calculate over all values covered by the query, whereas &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; excludes records with the same values from the display.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103240Z" creationid="manuel" creationdate="20180302T103240Z">
-        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Da base esse calcolano tutti i valori coperti dalla ricerca, mentre  &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; esclude dal mostrare i record di dati con lo stesso valore.&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143336Z" creationid="manuel" creationdate="20180302T103240Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Di base esse calcolano tutti i valori coperti dalla ricerca, mentre  &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; esclude dal mostrare i record di dati con lo stesso valore.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8656,8 +8656,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The statistical functions do not allow the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; limitation to be used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102934Z" creationid="manuel" creationdate="20180302T102934Z">
-        <seg>&lt;f0&gt;Le funzioni statistiche non peremttono di usare la limitazione di  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143318Z" creationid="manuel" creationdate="20180302T102934Z">
+        <seg>&lt;f0&gt;Le funzioni statistiche non permettono di usare la limitazione di  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19281,8 +19281,8 @@
       <tuv lang="EN">
         <seg>If fields from several tables are entered into the query, a combination &lt;/f0&gt;&lt;f1&gt;of the field name &lt;/f1&gt;&lt;f2&gt;with the table name is necessary: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"Table_name"."Field_name"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T111216Z" creationid="manuel" creationdate="20180302T111216Z">
-        <seg>Se nella query vengono inseriti i campi di più tabelle, una combinazione &lt;/f0&gt;&lt;f1&gt;del nome del campo &lt;/f1&gt;&lt;f2&gt;con il nome della tabella è necessario: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"Tabella_nome"."Campo_nome"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143425Z" creationid="manuel" creationdate="20180302T111216Z">
+        <seg>Se nella ricerche vengono inseriti i campi di più tabelle, una combinazione &lt;/f0&gt;&lt;f1&gt;del nome del campo &lt;/f1&gt;&lt;f2&gt;con il nome della tabella è necessario: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;"Tabella_nome"."Campo_nome"&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
