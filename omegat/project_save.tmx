@@ -23663,6 +23663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Media becomes the decisive table for determining which records are to be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T061539Z" creationid="manuel" creationdate="20180524T061539Z">
+        <seg>Media diventa la tabella decisiva per determinare quali record di dati devono essere visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Media with a return date should be filtered out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T204244Z" creationid="Marco Marega" creationdate="20171213T204244Z">
@@ -37491,6 +37499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200823Z" creationid="Marco Marega" creationdate="20180327T200823Z">
         <seg>Questa vista mostra il contenuto del campo e, separato da un trattino, il numero di risultati per questo contenuto del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This was already planned when the table was constructed (see &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;C&lt;/f8&gt;&lt;f9&gt;hapter &lt;/f9&gt;&lt;f10&gt;3,&lt;/f10&gt;&lt;f11&gt; Tables).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T061758Z" creationid="manuel" creationdate="20180524T061758Z">
+        <seg>Questo era già pianificato quando la tabella è stata costruita (vedete &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;Capitolo&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;3,&lt;/f10&gt;&lt;f11&gt; Tabelle).</seg>
       </tuv>
     </tu>
     <tu>
