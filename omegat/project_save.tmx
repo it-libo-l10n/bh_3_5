@@ -32377,8 +32377,8 @@
       <tuv lang="EN">
         <seg>The following query calculates how many media have been loaned out, depending on the Reader_ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T175022Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
-        <seg>La seguente ricerca calcola quanti supporti sono stati prestati a seconda del Lettore_ID.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T134940Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
+        <seg>La seguente ricerca calcola quanti media sono stati prestati a seconda del Lettore_ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37465,8 +37465,8 @@
       <tuv lang="EN">
         <seg>This query is searching for records that do &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;not&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contain a return date.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; This field provides a criterion for the query but no useful visible data.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T173523Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
-        <seg>Questa ricerca cerca i record di dati che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce un criterio per la ricerca ma nessun utile dato visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T134919Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
+        <seg>Questa ricerca cerca i record di dati che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce un criterio per la ricerca ma nessun dato utile visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
