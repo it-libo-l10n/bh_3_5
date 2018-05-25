@@ -2056,8 +2056,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f7&gt;Queries&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T054643Z" creationid="manuel" creationdate="20180525T054643Z">
-        <seg>&lt;/f5&gt;&lt;f7&gt;Ricerche&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T160018Z" creationid="manuel" creationdate="20180525T054643Z">
+        <seg>&lt;/f5&gt;&lt;f7&gt;Query&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15184,8 +15184,8 @@
       <tuv lang="EN">
         <seg>Entering queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T144946Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
-        <seg>Inserimento di ricerche</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T160113Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
+        <seg>Inserimento di query</seg>
       </tuv>
     </tu>
     <tu>
@@ -17385,8 +17385,8 @@
       <tuv lang="EN">
         <seg>General information on queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084115Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
-        <seg>Informazioni generali sulle ricerche</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T160031Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
+        <seg>Informazioni generali sulle query</seg>
       </tuv>
     </tu>
     <tu>
@@ -26041,8 +26041,8 @@
       <tuv lang="EN">
         <seg>Queries to a database are the most powerful tool that we have to &lt;f0&gt;use&lt;/f0&gt; databases in a practical way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084135Z" creationid="Manuel Frassinetti" creationdate="20171125T160153Z">
-        <seg>Le ricerche su un database sono lo strumento più potente che abbiamo per &lt;f0&gt;utilizzare&lt;/f0&gt; in modo pratico i database.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T160043Z" creationid="Manuel Frassinetti" creationdate="20171125T160153Z">
+        <seg>Le query su un database sono lo strumento più potente che abbiamo per &lt;f0&gt;utilizzare&lt;/f0&gt; in modo pratico i database.</seg>
       </tuv>
     </tu>
     <tu>
