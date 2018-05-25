@@ -2016,8 +2016,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;FROM&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; shows the table which is to be used as the source of the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T171517Z" creationid="Manuel Frassinetti" creationdate="20171202T115011Z">
-        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;FROM&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; mostra la tabella che è usata come sorgente per la ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163523Z" creationid="Manuel Frassinetti" creationdate="20171202T115011Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;FROM&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; mostra la tabella che è usata come sorgente per la query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,8 +2184,8 @@
       <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; gives the conditions for the query, namely that the Return_date field is to be empty (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T171624Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
-        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; fornisce le condizioni per la ricerca, vale a dire che il campo Data_Rientro deve essere vuoto (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163540Z" creationid="Manuel Frassinetti" creationdate="20171202T115149Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;WHERE&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; fornisce le condizioni per la query, vale a dire che il campo Data_Rientro deve essere vuoto (&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;IS NULL&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9760,8 +9760,8 @@
       <tuv lang="EN">
         <seg>A basic rule is that no new entries are possible if the primary key in the queried table is not included in the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T110703Z" creationid="Manuel Frassinetti" creationdate="20171202T110703Z">
-        <seg>Una regola di base è che non sono possibili nuovi inserimenti se la chiave primaria nella tabella interrogata non è inclusa nella ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163416Z" creationid="Manuel Frassinetti" creationdate="20171202T110703Z">
+        <seg>Una regola di base è che non sono possibili nuovi inserimenti se la chiave primaria nella tabella interrogata non è inclusa nella query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17761,8 +17761,8 @@
       <tuv lang="EN">
         <seg>Here further tables or queries can subsequently be added and made visible in the graphical user interface.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T161520Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
-        <seg>Qui ulteriori tabelle o ricerche possono essere successivamente aggiunte e rese visibili nell'interfaccia utente grafica.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163643Z" creationid="Manuel Frassinetti" creationdate="20171202T161520Z">
+        <seg>Qui ulteriori tabelle o query possono essere successivamente aggiunte e rese visibili nell'interfaccia utente grafica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36425,8 +36425,8 @@
       <tuv lang="EN">
         <seg>This does not cause them to be renamed but only to appear under these names for the user of the query.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T111117Z" creationid="Manuel Frassinetti" creationdate="20171202T111117Z">
-        <seg>Questo non li fa rinominare ma solo apparire sotto questi nomi per l'utente della ricerca.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163432Z" creationid="Manuel Frassinetti" creationdate="20171202T111117Z">
+        <seg>Questo non li fa rinominare ma solo apparire sotto questi nomi per l'utente della query.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37713,8 +37713,8 @@
       <tuv lang="EN">
         <seg>This sort specification illustrates how the alias for the Loan_Date field can be used within the query itself.&lt;/f17&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T144024Z" creationid="Manuel Frassinetti" creationdate="20171202T144024Z">
-        <seg>Questa specifica di ordinamento illustra come l'alias del campo Prestito_Data può essere utilizzato all'interno della ricerca stessa.&lt;/f17&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163554Z" creationid="Manuel Frassinetti" creationdate="20171202T144024Z">
+        <seg>Questa specifica di ordinamento illustra come l'alias del campo Prestito_Data può essere utilizzato all'interno della query stessa.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38361,8 +38361,8 @@
       <tuv lang="EN">
         <seg>To show these in a query, the Reader table must be included.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T150146Z" creationid="Manuel Frassinetti" creationdate="20171202T150146Z">
-        <seg>Per visualizzarli in una ricerca, è necessario includere la tabella Lettore.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163617Z" creationid="Manuel Frassinetti" creationdate="20171202T150146Z">
+        <seg>Per visualizzarli in una query, è necessario includere la tabella Lettore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38713,8 +38713,8 @@
       <tuv lang="EN">
         <seg>Unfortunately the editor does not store these line breaks, so when the query is called up again, it will appear as a single continuous line breaking at the window edge.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T114645Z" creationid="Manuel Frassinetti" creationdate="20171202T114645Z">
-        <seg>Sfortunatamente l'editor non memorizza queste interruzioni di riga, quindi quando la ricerca viene richiamata di nuovo, apparirà come una singola interruzione di linea continua sul bordo della finestra.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163510Z" creationid="Manuel Frassinetti" creationdate="20171202T114645Z">
+        <seg>Sfortunatamente l'editor non memorizza queste interruzioni di riga, quindi quando la query viene richiamata di nuovo, apparirà come una singola interruzione di linea continua sul bordo della finestra.</seg>
       </tuv>
     </tu>
     <tu>
