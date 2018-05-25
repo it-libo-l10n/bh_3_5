@@ -6968,8 +6968,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;s&lt;/f2&gt;hows the basic divisions of the &lt;f3&gt;Query Design &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;: the graphical area displays the tables &lt;f5&gt;that&lt;/f5&gt; are to be linked to the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164316Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
-        <seg>&lt;f0&gt;La Figura &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;mostra&lt;/f2&gt; la divisione di base della finestra di dialogo della &lt;f3&gt;struttura ricerca &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;: l'area grafica delle tabelle &lt;f5&gt;che&lt;/f5&gt; sono collegate alla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162930Z" creationid="Manuel Frassinetti" creationdate="20171129T111207Z">
+        <seg>&lt;f0&gt;La Figura &lt;/f0&gt;&lt;t1&gt;42&lt;/t1&gt; &lt;f2&gt;mostra&lt;/f2&gt; la divisione di base della finestra di dialogo della &lt;f3&gt;struttura query &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;: l'area grafica delle tabelle &lt;f5&gt;che&lt;/f5&gt; sono collegate alla query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15889,8 +15889,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Areas of the &lt;f1&gt;Q&lt;/f1&gt;uery &lt;f2&gt;D&lt;/f2&gt;esign &lt;f3&gt;dialog&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T164228Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
-        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: Aree della finestra di &lt;f1&gt;dialogo&lt;/f1&gt;  &lt;f2&gt;della struttura&lt;/f2&gt; &lt;f3&gt;ricerca&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162916Z" creationid="Manuel Frassinetti" creationdate="20171129T110937Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: Aree della finestra di &lt;f1&gt;dialogo&lt;/f1&gt;  &lt;f2&gt;della struttura&lt;/f2&gt; &lt;f3&gt;query&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17825,8 +17825,8 @@
       <tuv lang="EN">
         <seg>Here one click allows you to add all fields from the underlying table to the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T115018Z" creationid="Manuel Frassinetti" creationdate="20171129T115018Z">
-        <seg>Qui un clic vi consente di aggiungere tutti i campi dalla tabella sottostante alla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163032Z" creationid="Manuel Frassinetti" creationdate="20171129T115018Z">
+        <seg>Qui un clic vi consente di aggiungere tutti i campi dalla tabella sottostante alla query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35017,8 +35017,8 @@
       <tuv lang="EN">
         <seg>Their relationships to each other in relation to the query may also be shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171129T111445Z" creationid="Manuel Frassinetti" creationdate="20171129T111445Z">
-        <seg>Possono anche essere mostrate le loro relazioni reciproche in relazione alla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163012Z" creationid="Manuel Frassinetti" creationdate="20171129T111445Z">
+        <seg>Possono anche essere mostrate le loro relazioni reciproche in relazione alla query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39489,8 +39489,8 @@
       <tuv lang="EN">
         <seg>When &lt;/f3&gt;&lt;f4&gt;you use &lt;/f4&gt;&lt;f5&gt;this field designation with the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;wildcard *&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; for all fields, the query becomes indistinguishable from the table.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T172937Z" creationid="Manuel Frassinetti" creationdate="20171130T172937Z">
-        <seg>Quando &lt;/f3&gt;&lt;f4&gt;usate &lt;/f4&gt;&lt;f5&gt;questo campo designato con il &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;carattere jolly  *&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; per tutti i campi, la richiesta diventa indistinguibile dalla tabella.&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163042Z" creationid="Manuel Frassinetti" creationdate="20171130T172937Z">
+        <seg>Quando &lt;/f3&gt;&lt;f4&gt;usate &lt;/f4&gt;&lt;f5&gt;questo campo designato con il &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;carattere jolly  *&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; per tutti i campi, la query diventa indistinguibile dalla tabella.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
