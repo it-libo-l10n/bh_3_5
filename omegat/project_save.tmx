@@ -1712,8 +1712,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Editing data in the query also edits data in the underlying table and the records contained in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;the&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165812Z" creationid="Manuel Frassinetti" creationdate="20171202T165812Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La modifica dei dati nella ricerca modifica anche i dati nella tabella sottostante e i record di dati contenuti  &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nella&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; tabella.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T164350Z" creationid="Manuel Frassinetti" creationdate="20171202T165812Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La modifica dei dati nella query modifica anche i dati nella tabella sottostante e i record di dati contenuti  &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nella&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3216,8 +3216,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Having a query that you can edit can create problems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T165628Z" creationid="Manuel Frassinetti" creationdate="20171202T165628Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Avere una ricerca che potete modificare può creare problemi.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T164334Z" creationid="Manuel Frassinetti" creationdate="20171202T165628Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Avere una query che potete modificare può creare problemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15288,8 +15288,8 @@
       <tuv lang="EN">
         <seg>Even when a query can be further edited, it is not so easy to use as a form with list boxes, which show the readers’ &lt;s0/&gt;names but contain the Reader_ID from the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172450Z" creationid="Manuel Frassinetti" creationdate="20171204T172450Z">
-        <seg>Anche quando una ricerca può essere ulteriormente modificata, non è così facile da usare come un formulario con caselle di riepilogo, che mostrano i nomi  &lt;s0/&gt;dei lettori ma contengono il Lettore_ID dalla tabella.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T164409Z" creationid="Manuel Frassinetti" creationdate="20171204T172450Z">
+        <seg>Anche quando una query può essere ulteriormente modificata, non è così facile da usare come un formulario con caselle di riepilogo, che mostrano i nomi  &lt;s0/&gt;dei lettori ma contengono il Lettore_ID dalla tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23545,8 +23545,8 @@
       <tuv lang="EN">
         <seg>List boxes cannot be added to a query; they are only usable in forms.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T172746Z" creationid="Manuel Frassinetti" creationdate="20171204T172746Z">
-        <seg>Le caselle di riepilogo non possono essere aggiunte alla ricerca; possono essere usate solo nei formulari.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T164446Z" creationid="Manuel Frassinetti" creationdate="20171204T172746Z">
+        <seg>Le caselle di riepilogo non possono essere aggiunte alla query; possono essere usate solo nei formulari.</seg>
       </tuv>
     </tu>
     <tu>
