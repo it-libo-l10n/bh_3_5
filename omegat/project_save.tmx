@@ -6472,8 +6472,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;As our simple form refers to the Loan table, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;we will f&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;irst explain the &lt;/f3&gt;&lt;f4&gt;creation&lt;/f4&gt;&lt;f5&gt; of a query using this table.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091415Z" creationid="Manuel Frassinetti" creationdate="20171127T091415Z">
-        <seg>&lt;f0&gt;Poiché il nostro semplice formulario si riferisce alla tabella Prestito, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;prima&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; spieghiamo la &lt;/f3&gt;&lt;f4&gt;creazione&lt;/f4&gt;&lt;f5&gt; di una richiesta utilizzando questa tabella.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162431Z" creationid="Manuel Frassinetti" creationdate="20171127T091415Z">
+        <seg>&lt;f0&gt;Poiché il nostro semplice formulario si riferisce alla tabella Prestito, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;prima&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; spieghiamo la &lt;/f3&gt;&lt;f4&gt;creazione&lt;/f4&gt;&lt;f5&gt; di una query utilizzando questa tabella.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10680,8 +10680,8 @@
       <tuv lang="EN">
         <seg>Additional tables and queries can be added later if required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T093442Z" creationid="Manuel Frassinetti" creationdate="20171127T093442Z">
-        <seg>Tabelle e richieste supplementari possono essere aggiunte in seguito se richiesto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162659Z" creationid="Manuel Frassinetti" creationdate="20171127T093442Z">
+        <seg>Tabelle e query supplementari possono essere aggiunte in seguito se richiesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15080,8 +15080,8 @@
       <tuv lang="EN">
         <seg>Either method&lt;/f6&gt; add&lt;f7&gt;s&lt;/f7&gt; &lt;f8&gt;t&lt;/f8&gt;&lt;f9&gt;he table&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;to the graphical area of the &lt;f11&gt;Q&lt;/f11&gt;uery &lt;f12&gt;Design dialog&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T164134Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
-        <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata della finestra di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della ricerca&lt;f12&gt;&lt;/f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162642Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
+        <seg>Entrambi i metodi&lt;/f6&gt; aggiungono&lt;f7&gt;&lt;/f7&gt; &lt;f8&gt;la&lt;/f8&gt;&lt;f9&gt; tabella&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;all'area grafica della schermata della finestra di dialogo &lt;f11&gt;struttura&lt;/f11&gt;della query&lt;f12&gt;&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18441,8 +18441,8 @@
       <tuv lang="EN">
         <seg>However no query can be created without at least one table, so a &lt;f5&gt;selection&lt;/f5&gt; must be made at the beginning.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T101054Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
-        <seg>Tuttavia nessuna ricerca può essere creata senza almeno una tabella, quindi una &lt;f5&gt;selezione&lt;/f5&gt; deve essere fatta all'inizio.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162708Z" creationid="Manuel Frassinetti" creationdate="20171129T110043Z">
+        <seg>Tuttavia nessuna query può essere creata senza almeno una tabella, quindi una &lt;f5&gt;selezione&lt;/f5&gt; deve essere fatta all'inizio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37857,8 +37857,8 @@
       <tuv lang="EN">
         <seg>This window allows multiple tables (and also views and queries) to be combined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T091724Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
-        <seg>Questa finestra permette di combinare più tabelle (e anche viste e richieste).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162450Z" creationid="Manuel Frassinetti" creationdate="20171127T091724Z">
+        <seg>Questa finestra permette di combinare più tabelle (e anche viste e query).</seg>
       </tuv>
     </tu>
     <tu>
