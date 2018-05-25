@@ -7480,8 +7480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the above test, special attention should be paid to the first column of the query result.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181349Z" creationid="Manuel Frassinetti" creationdate="20171130T181349Z">
-        <seg>&lt;f0&gt;Nel test precedente, un'attenzione particolare dovrebbe essere rivolta alla prima colonna del risultato della ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163339Z" creationid="Manuel Frassinetti" creationdate="20171130T181349Z">
+        <seg>&lt;f0&gt;Nel test precedente, un'attenzione particolare dovrebbe essere rivolta alla prima colonna del risultato della query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10256,8 +10256,8 @@
       <tuv lang="EN">
         <seg>A test run of a query is always useful before saving it, to clarify for the user whether the query actually achieves its goal.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180657Z" creationid="Manuel Frassinetti" creationdate="20171130T180657Z">
-        <seg>Un'esecuzione di prova di una ricerca è sempre utile prima di salvarla, per chiarire all'utente se la ricerca raggiunge effettivamente il suo obiettivo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163251Z" creationid="Manuel Frassinetti" creationdate="20171130T180657Z">
+        <seg>Un'esecuzione di prova di una query è sempre utile prima di salvarla, per chiarire all'utente se la query raggiunge effettivamente il suo obiettivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21057,8 +21057,8 @@
       <tuv lang="EN">
         <seg>In principle a query &lt;f0&gt;that&lt;/f0&gt; produces an error message in the underlying database cannot be saved &lt;f1&gt;until the error is corrected&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T181156Z" creationid="Manuel Frassinetti" creationdate="20171130T181156Z">
-        <seg>In linea di principio una ricerca &lt;f0&gt;che&lt;/f0&gt; genera un messaggio di errore non può essere salvata nel database sottostante &lt;f1&gt;fin tanto che l'errore non è corretto&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163329Z" creationid="Manuel Frassinetti" creationdate="20171130T181156Z">
+        <seg>In linea di principio una query &lt;f0&gt;che&lt;/f0&gt; genera un messaggio di errore non può essere salvata nel database sottostante &lt;f1&gt;fin tanto che l'errore non è corretto&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24865,8 +24865,8 @@
       <tuv lang="EN">
         <seg>Often a logical error prevents a query from retrieving any data at all.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171130T180742Z" creationid="Manuel Frassinetti" creationdate="20171130T180742Z">
-        <seg>Spesso un errore logico impedisce a una ricerca di recuperare tutti i dati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163305Z" creationid="Manuel Frassinetti" creationdate="20171130T180742Z">
+        <seg>Spesso un errore logico impedisce a una query di recuperare tutti i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26033,8 +26033,8 @@
       <tuv lang="EN">
         <seg>Queries in Design Mode can always be run as tests.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T151605Z" creationid="Manuel Frassinetti" creationdate="20171130T175923Z">
-        <seg>Le ricerche in modo bozza possono sempre essere eseguite come test.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163053Z" creationid="Manuel Frassinetti" creationdate="20171130T175923Z">
+        <seg>Le query in modo bozza possono sempre essere eseguite come test.</seg>
       </tuv>
     </tu>
     <tu>
