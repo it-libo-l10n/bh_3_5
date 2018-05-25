@@ -2408,8 +2408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A query may require a field that is not part of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; query output.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T180110Z" creationid="Manuel Frassinetti" creationdate="20171206T180110Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Un ricerca potrebbe richiedere una campo che non è parte  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; risultato della ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172334Z" creationid="Manuel Frassinetti" creationdate="20171206T180110Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Una query potrebbe richiedere una campo che non è parte  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; risultato della query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32377,8 +32377,8 @@
       <tuv lang="EN">
         <seg>The following query calculates how many media have been loaned out, depending on the Reader_ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T134940Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
-        <seg>La seguente ricerca calcola quanti media sono stati prestati a seconda del Lettore_ID.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172518Z" creationid="Manuel Frassinetti" creationdate="20171209T175022Z">
+        <seg>La seguente query calcola quanti media sono stati prestati a seconda del Lettore_ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34817,8 +34817,8 @@
       <tuv lang="EN">
         <seg>The use of functions allows a query to provide more than just a filtered view of the data in one or more tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T174801Z" creationid="Manuel Frassinetti" creationdate="20171209T174801Z">
-        <seg>L'uso delle funzioni permette ad una ricerca di fornire più di una semplice visualizzazione filtrata dei dati in una o più tabelle.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172432Z" creationid="Manuel Frassinetti" creationdate="20171209T174801Z">
+        <seg>L'uso delle funzioni permette ad una query di fornire più di una semplice visualizzazione filtrata dei dati in una o più tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37465,8 +37465,8 @@
       <tuv lang="EN">
         <seg>This query is searching for records that do &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;not&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contain a return date.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; This field provides a criterion for the query but no useful visible data.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T134919Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
-        <seg>Questa ricerca cerca i record di dati che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce un criterio per la ricerca ma nessun dato utile visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172406Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
+        <seg>Questa query cerca i record di dati che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce un criterio per la query ma nessun dato utile visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39089,8 +39089,8 @@
       <tuv lang="EN">
         <seg>Using functions in a query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171209T174137Z" creationid="Manuel Frassinetti" creationdate="20171209T174137Z">
-        <seg>Usare le funzioni in una ricerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172418Z" creationid="Manuel Frassinetti" creationdate="20171209T174137Z">
+        <seg>Usare le funzioni in una query</seg>
       </tuv>
     </tu>
     <tu>
