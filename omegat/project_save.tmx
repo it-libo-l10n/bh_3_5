@@ -7200,8 +7200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;n the main database window, click the Queries icon in the Databases section, then in the Tasks section, click &lt;f1&gt;Create Quer&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;y in Design View&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162856Z" creationid="Manuel Frassinetti" creationdate="20171125T174143Z">
-        <seg>&lt;f0&gt;Nella&lt;/f0&gt; finestra principale del database, fate click sull'icona Ricerche nella sezione Database, poi nella sezione Attività, fate click su&lt;f1&gt;Crea ricerca&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; in vista struttura&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162342Z" creationid="Manuel Frassinetti" creationdate="20171125T174143Z">
+        <seg>&lt;f0&gt;Nella&lt;/f0&gt; finestra principale del database, fate click sull'icona Query nella sezione Database, poi nella sezione Attività, fate click su&lt;f1&gt;Crea query&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; in vista struttura&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8384,8 +8384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The creation of queries using the Wizard is briefly described in &lt;/f0&gt;&lt;f1&gt;Chapter 8 of the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Getting Started&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; guide, &lt;/f4&gt;&lt;f5&gt;Getting Started with Base.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171127T084414Z" creationid="Manuel Frassinetti" creationdate="20171125T172903Z">
-        <seg>&lt;f0&gt;La creazione di ricerche utilizzando la procedura guidata è descritta brevemente nel &lt;/f0&gt;&lt;f1&gt;Capitolo 8 della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; , &lt;/f4&gt;&lt;f5&gt;Guida Introduttiva a Base.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162301Z" creationid="Manuel Frassinetti" creationdate="20171125T172903Z">
+        <seg>&lt;f0&gt;La creazione di query utilizzando la procedura guidata è descritta brevemente nel &lt;/f0&gt;&lt;f1&gt;Capitolo 8 della &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Guida Introduttiva&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; , &lt;/f4&gt;&lt;f5&gt;Guida Introduttiva a Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18073,8 +18073,8 @@
       <tuv lang="EN">
         <seg>Here we shall explain the direct creation of queries&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;D&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;esign &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;V&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;iew.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T162804Z" creationid="Manuel Frassinetti" creationdate="20171125T173748Z">
-        <seg>Qui spiegheremo la creazione diretta di ricerche&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;vista&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;struttura&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162312Z" creationid="Manuel Frassinetti" creationdate="20171125T173748Z">
+        <seg>Qui spiegheremo la creazione diretta di query&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;vista&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;struttura&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25081,8 +25081,8 @@
       <tuv lang="EN">
         <seg>One provides the basis for a design-view creation of the query; the other serves to add tables, views, or queries to the current query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171125T174628Z" creationid="Manuel Frassinetti" creationdate="20171125T174628Z">
-        <seg>Una fornisce le basi per una creazione della ricerca in vista struttura; l'altra serve per aggiungere tabelle, viste o ricerche alla ricerca corrente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162412Z" creationid="Manuel Frassinetti" creationdate="20171125T174628Z">
+        <seg>Una fornisce le basi per una creazione della query in vista struttura; l'altra serve per aggiungere tabelle, viste o query alla ricerca corrente.</seg>
       </tuv>
     </tu>
     <tu>
