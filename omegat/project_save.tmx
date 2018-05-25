@@ -32033,8 +32033,8 @@
       <tuv lang="EN">
         <seg>The fields are initially added to the end of the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T162515Z" creationid="Manuel Frassinetti" creationdate="20171202T162515Z">
-        <seg>I campi sono inizialmente aggiunti alla fine della ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163735Z" creationid="Manuel Frassinetti" creationdate="20171202T162515Z">
+        <seg>I campi sono inizialmente aggiunti alla fine della query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37457,8 +37457,8 @@
       <tuv lang="EN">
         <seg>This query is no longer suitable for use as a query that allows new entries into the resulting table, since it lacks the primary key for the added Reader table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T164849Z" creationid="Manuel Frassinetti" creationdate="20171202T164849Z">
-        <seg>Questa ricerca non è più adatta per l'uso come una ricerca che consente nuovi inserimenti nella tabella risultante, poiché manca la chiave primaria per la tabella Lettore aggiunta.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163805Z" creationid="Manuel Frassinetti" creationdate="20171202T164849Z">
+        <seg>Questa query non è più adatta per l'uso come una query che consente nuovi inserimenti nella tabella risultante, poiché manca la chiave primaria per la tabella Lettore aggiunta.</seg>
       </tuv>
     </tu>
     <tu>
