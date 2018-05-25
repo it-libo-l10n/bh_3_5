@@ -1648,8 +1648,8 @@
       <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;f14&gt;From version&lt;/f14&gt;&lt;f15&gt; 3.5.3, sorting from the SQL view is correctly registered and displayed in the graphical user interface, &lt;/f15&gt;&lt;f16&gt;including the fields that are used in the query but &lt;/f16&gt;&lt;f17&gt;are &lt;/f17&gt;&lt;f18&gt;not visible in the query output.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171206T175425Z" creationid="Manuel Frassinetti" creationdate="20171206T175425Z">
-        <seg>&lt;/f13&gt;&lt;f14&gt;Dalla versione&lt;/f14&gt;&lt;f15&gt; 3.5.3, l'ordinamento dalla vista SQL è correttamente registrato e mostrato nell'interfaccia grafica utente, &lt;/f15&gt;&lt;f16&gt;include i campi che sono stati usati nella ricerca ma &lt;/f16&gt;&lt;f17&gt;non sono &lt;/f17&gt;&lt;f18&gt;visibili nel risultato della ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172309Z" creationid="Manuel Frassinetti" creationdate="20171206T175425Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Dalla versione&lt;/f14&gt;&lt;f15&gt; 3.5.3, l'ordinamento dalla vista SQL è correttamente registrato e mostrato nell'interfaccia grafica utente, &lt;/f15&gt;&lt;f16&gt;include i campi che sono stati usati nella query ma &lt;/f16&gt;&lt;f17&gt;non sono &lt;/f17&gt;&lt;f18&gt;visibili nel risultato della query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7240,8 +7240,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If a field in the query has an alias, it can be referred to – for example in sorting – by this alias without a table name being given.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T181212Z" creationid="Manuel Frassinetti" creationdate="20171204T181212Z">
-        <seg>&lt;f0&gt;Se un campo nella ricerca ha un alias, può essere indirizzato, ad esempio nell'ordinamento, da questo alias senza che venga fornito un nome di tabella.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172221Z" creationid="Manuel Frassinetti" creationdate="20171204T181212Z">
+        <seg>&lt;f0&gt;Se un campo nella query ha un alias, può essere indirizzato, ad esempio nell'ordinamento, da questo alias senza che venga fornito un nome di tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34609,8 +34609,8 @@
       <tuv lang="EN">
         <seg>The table definition in the WHERE Formula is also superfluous, because stockID only occurs once (in the Dispatch table) and ID was clearly taken from the Stock table (from the position of the table in the query).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T172634Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
-        <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché il magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella ricerca).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172211Z" creationid="Manuel Frassinetti" creationdate="20171204T180850Z">
+        <seg>Anche la definizione della tabella nella formula WHERE è superflua, poiché il magazzinoID si verifica solo una volta (nella tabella Spedizione) e l'ID è stato preso chiaramente dalla tabella Magazzino (dalla posizione della tabella nella query).</seg>
       </tuv>
     </tu>
     <tu>
