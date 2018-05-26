@@ -8768,8 +8768,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This query di&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;plays all names that begin with an underscore.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T100645Z" creationid="manuel" creationdate="20180507T100645Z">
-        <seg>&lt;f0&gt;Questa ricerca &lt;/f0&gt;&lt;f1&gt;mostra&lt;/f1&gt;&lt;f2&gt; tutti i nomi che iniziano con un trattino basso.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152947Z" creationid="manuel" creationdate="20180507T100645Z">
+        <seg>&lt;f0&gt;Questa query &lt;/f0&gt;&lt;f1&gt;mostra&lt;/f1&gt;&lt;f2&gt; tutti i nomi che iniziano con un trattino basso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37505,8 +37505,8 @@
       <tuv lang="EN">
         <seg>This query yields all names beginning with A, B, C &lt;f0&gt;or&lt;/f0&gt; D (and also with the corresponding lower-case letters).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080330Z" creationid="manuel" creationdate="20180507T080330Z">
-        <seg>Questa ricerca restituisce tutti i nomi che iniziano con A, B, C &lt;f0&gt;o&lt;/f0&gt; D (e anche con le corrispondenti lettere minuscole).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152910Z" creationid="manuel" creationdate="20180507T080330Z">
+        <seg>Questa query restituisce tutti i nomi che iniziano con A, B, C &lt;f0&gt;o&lt;/f0&gt; D (e anche con le corrispondenti lettere minuscole).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37577,8 +37577,8 @@
       <tuv lang="EN">
         <seg>This requires either a list of values or a query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T080829Z" creationid="manuel" creationdate="20180507T080829Z">
-        <seg>Ciò richiede un elenco di valori o una ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152925Z" creationid="manuel" creationdate="20180507T080829Z">
+        <seg>Ciò richiede un elenco di valori o una query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41361,8 +41361,8 @@
       <tuv lang="EN">
         <seg>| EXISTS(Query_result)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T072959Z" creationid="manuel" creationdate="20180507T072959Z">
-        <seg>| EXISTS(risultato_ricerca)</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152850Z" creationid="manuel" creationdate="20180507T072959Z">
+        <seg>| EXISTS(risultato_query)</seg>
       </tuv>
     </tu>
     <tu>
