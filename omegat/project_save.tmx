@@ -6520,8 +6520,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Because the query is grouped by the entries of the field Class, EVERY will return a value for &lt;/f0&gt;&lt;f1&gt;the field, &lt;/f1&gt;&lt;f2&gt;Swimmer, for each class.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102026Z" creationid="manuel" creationdate="20180302T102026Z">
-        <seg>&lt;f0&gt;Poché la ricerca è raggruppata dagli inserimenti del campo Classe, EVERY resituirà un valore per &lt;/f0&gt;&lt;f1&gt;il campo, &lt;/f1&gt;&lt;f2&gt;Nuotatore, per ogni classe.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152118Z" creationid="manuel" creationdate="20180302T102026Z">
+        <seg>&lt;f0&gt;Poché la query è raggruppata dagli inserimenti del campo Classe, EVERY resituirà un valore per &lt;/f0&gt;&lt;f1&gt;il campo, &lt;/f1&gt;&lt;f2&gt;Nuotatore, per ogni classe.</seg>
       </tuv>
     </tu>
     <tu>
