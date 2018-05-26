@@ -7040,8 +7040,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;First let us examine the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;inner query&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, to which the outer query relates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163045Z" creationid="manuel" creationdate="20180521T152018Z">
-        <seg>&lt;f0&gt;Prima esaminiamo la &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;query interna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, a cui si riferisce la ricerca esterna.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163104Z" creationid="manuel" creationdate="20180521T152018Z">
+        <seg>&lt;f0&gt;Prima esaminiamo la &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;query interna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, a cui si riferisce la query esterna.</seg>
       </tuv>
     </tu>
     <tu>
