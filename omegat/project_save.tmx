@@ -7072,8 +7072,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For a&lt;/f0&gt;n explanation of the functions, &lt;f1&gt;see&lt;/f1&gt; &lt;f2&gt;“&lt;/f2&gt;&lt;bf3&gt;Query enhancement using SQL Mode&lt;/bf3&gt;“ &lt;f4&gt;on page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;134&lt;/bf6&gt;&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T175354Z" creationid="Manuel Frassinetti" creationdate="20171214T175354Z">
-        <seg>&lt;f0&gt;Per una&lt;/f0&gt; spiegazione delle funzioni, &lt;f1&gt;vedete&lt;/f1&gt; &lt;f2&gt;“&lt;/f2&gt;&lt;bf3&gt;Ricerche avanzate usando la modalità SQL&lt;/bf3&gt;“ &lt;f4&gt; a pagina &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;134&lt;/bf6&gt;&lt;/f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105122Z" creationid="Manuel Frassinetti" creationdate="20171214T175354Z">
+        <seg>&lt;f0&gt;Per una&lt;/f0&gt; spiegazione delle funzioni, &lt;f1&gt;vedete&lt;/f1&gt; &lt;f2&gt;“&lt;/f2&gt;&lt;bf3&gt;Query avanzate usando la modalità SQL&lt;/bf3&gt;“ &lt;f4&gt; a pagina &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;134&lt;/bf6&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8632,8 +8632,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The result of the query shows that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Reader_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;0' has a total of 3 media on loan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T135240Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
-        <seg>&lt;f0&gt;Il risultato della ricerca mostra che il  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;1' ha un totale di 3 media in prestito.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105047Z" creationid="Manuel Frassinetti" creationdate="20171214T174512Z">
+        <seg>&lt;f0&gt;Il risultato della query mostra che il  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lettore_ID '&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;1' ha un totale di 3 media in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8952,8 +8952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When a field is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associated with a function, &lt;/f3&gt;&lt;f4&gt;the number of rows in the query output is determined by the search conditions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181031Z" creationid="Manuel Frassinetti" creationdate="20171214T181031Z">
-        <seg>&lt;f0&gt;Quando un campo non &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;è&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associato con una funzione, &lt;/f3&gt;&lt;f4&gt;il numero di righe restituite nella ricerca è determinato dalle condizioni di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105235Z" creationid="Manuel Frassinetti" creationdate="20171214T181031Z">
+        <seg>&lt;f0&gt;Quando un campo non &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;è&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; associato con una funzione, &lt;/f3&gt;&lt;f4&gt;il numero di righe restituite nella query è determinato dalle condizioni di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19537,8 +19537,8 @@
       <tuv lang="EN">
         <seg>If one field in a query is &lt;f0&gt;associated with&lt;/f0&gt; a function, all the remaining fields mentioned in the query must also be associated with functions if they are to be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T180147Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
-        <seg>Se un campo in una ricerca è &lt;f0&gt;associato con&lt;/f0&gt; una funzione, tutti i campi rimanenti menzionati nella ricerca devono essere associati alle funzioni anche se devono essere visualizzati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105157Z" creationid="Manuel Frassinetti" creationdate="20171214T175747Z">
+        <seg>Se un campo in una query è &lt;f0&gt;associato con&lt;/f0&gt; una funzione, tutti i campi rimanenti menzionati nella query devono essere associati alle funzioni anche se devono essere visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39497,8 +39497,8 @@
       <tuv lang="EN">
         <seg>When a field is associated with a function, the number of rows in the query output is determined by whether there is any grouping or not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181244Z" creationid="Manuel Frassinetti" creationdate="20171214T181244Z">
-        <seg>Quando un campo è associato con una funziona, il numero di righe restituite nella ricerca è determinato da un eventuale presenza o meno di un raggruppamento.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105302Z" creationid="Manuel Frassinetti" creationdate="20171214T181244Z">
+        <seg>Quando un campo è associato con una funziona, il numero di righe restituite nella query è determinato da un eventuale presenza o meno di un raggruppamento.</seg>
       </tuv>
     </tu>
     <tu>
