@@ -1560,8 +1560,8 @@
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DISTINCT&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; refers to the whole of the record that is accessed by the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T180553Z" creationid="manuel" creationdate="20180224T180553Z">
-        <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DISTINCT&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; si riferisce all'intero record di dati a cui accede la ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T143325Z" creationid="manuel" creationdate="20180224T180553Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DISTINCT&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; si riferisce all'intero record di dati a cui accede la query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="EN">
         <seg>&lt;/f11&gt;&lt;f12&gt;Only Class and Swimmer are needed for this query.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T101738Z" creationid="manuel" creationdate="20180302T101738Z">
-        <seg>&lt;/f11&gt;&lt;f12&gt;Solo Classe e Nuotatore sono necessari per questa ricerca.&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T143508Z" creationid="manuel" creationdate="20180302T101738Z">
+        <seg>&lt;/f11&gt;&lt;f12&gt;Solo Classe e Nuotatore sono necessari per questa query.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,8 +2024,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;SELECT DISTINCT "Name" FROM "Table_name"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; suppresses query results &lt;/f8&gt;&lt;t9/&gt;&lt;f10&gt;that have the same content.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T175255Z" creationid="manuel" creationdate="20180224T175255Z">
-        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;SELECT DISTINCT "Nome" FROM "Tabella_nome"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; sopprime i risultati della ricerca &lt;/f8&gt;&lt;t9/&gt;&lt;f10&gt;che hanno lo stesso contenuto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T143309Z" creationid="manuel" creationdate="20180224T175255Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;SELECT DISTINCT "Nome" FROM "Tabella_nome"&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; sopprime i risultati della query &lt;/f8&gt;&lt;t9/&gt;&lt;f10&gt;che hanno lo stesso contenuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21145,8 +21145,8 @@
       <tuv lang="EN">
         <seg>In query search conditions, use either &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;TRUE&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;FALSE&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; or &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180301T173300Z" creationid="manuel" creationdate="20180301T173300Z">
-        <seg>Nelle condizioni di ricerca della ricerca, utilizzare entrambi &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;VERO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;FALSO&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; o &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T143432Z" creationid="manuel" creationdate="20180301T173300Z">
+        <seg>Nelle condizioni di ricerca della query, utilizzare entrambi &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;VERO&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;1&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;FALSO&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; o &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;.</seg>
       </tuv>
     </tu>
     <tu>
