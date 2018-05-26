@@ -34337,8 +34337,8 @@
       <tuv lang="EN">
         <seg>The simple query for the Title field from the Media table shows the test entries for this table, 9 records in all.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T141937Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
-        <seg>La ricerca semplice per il campo Titolo dalla tabella Media mostra le voci di test per questa tabella, 9 record in tutto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T110211Z" creationid="Manuel Frassinetti" creationdate="20171216T173525Z">
+        <seg>La query semplice per il campo Titolo dalla tabella Media mostra le voci di test per questa tabella, 9 record in tutto.</seg>
       </tuv>
     </tu>
     <tu>
