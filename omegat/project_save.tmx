@@ -2400,8 +2400,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;A query created using &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Create Query in SQL View&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; has the disadvantage that it cannot be sorted or filtered using the GUI.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T082526Z" creationid="manuel" creationdate="20180524T082526Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Una ricerca creata usando &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Crea ricerca in vista SQL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ha lo svantaggio che non può essere ordinata o filtrata usando la GUI.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T170729Z" creationid="manuel" creationdate="20180524T082526Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Una query creata usando &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Crea query in vista SQL&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; ha lo svantaggio che non può essere ordinata o filtrata usando la GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12296,8 +12296,8 @@
       <tuv lang="EN">
         <seg>Because of this, a Query 2 that relates to another Query 1 cannot be run by using &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Edit &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Run SQL command directly&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, since only the graphical user interface and not the database itself knows about Query 1.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T163256Z" creationid="manuel" creationdate="20180524T081015Z">
-        <seg>Per questo motivo, non è possibile eseguire una ricerca 2 correlata a un'altra ricerca 1 utilizzando &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Modifica &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Esegui direttamenta comando SQL&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, poiché solo l'interfaccia utente grafica e non il database stesso sono a conoscenza di ricerca 1.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T170620Z" creationid="manuel" creationdate="20180524T081015Z">
+        <seg>Per questo motivo, non è possibile eseguire una query 2 correlata a un'altra query 1 utilizzando &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Modifica &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Esegui direttamenta comando SQL&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, poiché solo l'interfaccia utente grafica e non il database stesso sono a conoscenza di query 1.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19305,8 +19305,8 @@
       <tuv lang="EN">
         <seg>If for example a Subselect is to be used on &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; result&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;of a query,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;create a &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;View&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; that gives you these results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T092554Z" creationid="manuel" creationdate="20180524T092554Z">
-        <seg>Se per esempio una sottoselezione deve essere utilizzata sui &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; risultati&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;di una ricerca,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;create una &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;vista&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; che vi fornisca questi risultati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T170810Z" creationid="manuel" creationdate="20180524T092554Z">
+        <seg>Se per esempio una sottoselezione deve essere utilizzata sui &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; risultati&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;di una query,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;create una &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;vista&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; che vi fornisca questi risultati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31649,8 +31649,8 @@
       <tuv lang="EN">
         <seg>The database gives you no direct access to queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T081905Z" creationid="manuel" creationdate="20180524T081905Z">
-        <seg>Il database non consente l'accesso diretto alle ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T170631Z" creationid="manuel" creationdate="20180524T081905Z">
+        <seg>Il database non consente l'accesso diretto alle query.</seg>
       </tuv>
     </tu>
     <tu>
