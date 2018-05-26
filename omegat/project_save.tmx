@@ -20609,8 +20609,8 @@
       <tuv lang="EN">
         <seg>In addition only the information relevant to the corresponding Receipt_ID needs to be filtered through the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160532Z" creationid="manuel" creationdate="20180508T160149Z">
-        <seg>Inoltre, solo le informazioni relative al Receipt_ID corrispondente devono essere filtrate attraverso il formulario.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T161327Z" creationid="manuel" creationdate="20180508T160149Z">
+        <seg>Inoltre, solo le informazioni relative al Oggetto_ID corrispondente devono essere filtrate attraverso il formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35961,8 +35961,8 @@
       <tuv lang="EN">
         <seg>This also applies to a query that links several tables together.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T160725Z" creationid="manuel" creationdate="20180508T160725Z">
-        <seg>Questo vale anche per una ricerca che collega più tabelle insieme.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T161358Z" creationid="manuel" creationdate="20180508T160725Z">
+        <seg>Questo vale anche per una query che collega più tabelle insieme.</seg>
       </tuv>
     </tu>
     <tu>
