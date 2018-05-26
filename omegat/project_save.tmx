@@ -7040,8 +7040,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;First let us examine the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;inner query&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, to which the outer query relates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T152018Z" creationid="manuel" creationdate="20180521T152018Z">
-        <seg>&lt;f0&gt;Prima esaminiamo la &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ricerca interna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, a cui si riferisce la ricerca esterna.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163045Z" creationid="manuel" creationdate="20180521T152018Z">
+        <seg>&lt;f0&gt;Prima esaminiamo la &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;query interna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, a cui si riferisce la ricerca esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10064,8 +10064,8 @@
       <tuv lang="EN">
         <seg>A query is required to set a lock against all readers who have received a third overdue notice for a medium.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151416Z" creationid="manuel" creationdate="20180521T151416Z">
-        <seg>È richiesta una riceca per impostare un blocco su tutti i lettori che hanno ricevuto una terza notifica in ritardo per un media.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163030Z" creationid="manuel" creationdate="20180521T151416Z">
+        <seg>È richiesta una query per impostare un blocco su tutti i lettori che hanno ricevuto una terza notifica in ritardo per un media.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13864,8 +13864,8 @@
       <tuv lang="EN">
         <seg>Correlated subqueries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171643Z" creationid="Marina Latini" creationdate="20171205T171643Z">
-        <seg>Sottoricerche correlate</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162904Z" creationid="Marina Latini" creationdate="20171205T171643Z">
+        <seg>Subquery correlate</seg>
       </tuv>
     </tu>
     <tu>
@@ -20577,8 +20577,8 @@
       <tuv lang="EN">
         <seg>In a query with parameters, the parameter must be the same in both query statements if it is to be recogni&lt;f0&gt;z&lt;/f0&gt;ed as a parameter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162716Z" creationid="manuel" creationdate="20180521T150252Z">
-        <seg>In una query con parametri, il parametro deve essere lo stesso in entrambe le istruzioni della ricerca se deve essere riconosciuto &lt;f0&gt;&lt;/f0&gt;come parametro.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162827Z" creationid="manuel" creationdate="20180521T150252Z">
+        <seg>In una query con parametri, il parametro deve essere lo stesso in entrambe le istruzioni della query se deve essere riconosciuto &lt;f0&gt;&lt;/f0&gt;come parametro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22065,8 +22065,8 @@
       <tuv lang="EN">
         <seg>In this way the current value of ID from the outer query can be evaluated within the subquery.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151226Z" creationid="manuel" creationdate="20180521T151226Z">
-        <seg>In questo modo il valore corrente dell'ID dalla ricerca esterna può essere valutato all'interno della sottoricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163003Z" creationid="manuel" creationdate="20180521T151226Z">
+        <seg>In questo modo il valore corrente dell'ID dalla query esterna può essere valutato all'interno della subquery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25985,8 +25985,8 @@
       <tuv lang="EN">
         <seg>Queries as source tables for queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171739Z" creationid="Marina Latini" creationdate="20171205T171739Z">
-        <seg>Ricerche come tabelle sorgente per ricerche</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163017Z" creationid="Marina Latini" creationdate="20171205T171739Z">
+        <seg>Query come tabelle sorgente per ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -39065,8 +39065,8 @@
       <tuv lang="EN">
         <seg>Using a still more refined query, an editable query allows one to even carry the running balance for the till:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150824Z" creationid="manuel" creationdate="20180521T150824Z">
-        <seg>Utilizzando una ricerca ancora più raffinata, una ricerca modificabile consente di portare addirittura il saldo in esecuzione per la cassa:</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162935Z" creationid="manuel" creationdate="20180521T150824Z">
+        <seg>Utilizzando una query ancora più raffinata, una query modificabile consente di portare addirittura il saldo in esecuzione per la cassa:</seg>
       </tuv>
     </tu>
     <tu>
