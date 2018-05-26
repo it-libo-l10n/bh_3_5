@@ -18881,8 +18881,8 @@
       <tuv lang="EN">
         <seg>INTERSECT [DISTINCT] Query_result</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T145329Z" creationid="manuel" creationdate="20180507T145329Z">
-        <seg>INTERSECT [DISTINCT] Risultato_ricerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153924Z" creationid="manuel" creationdate="20180507T145329Z">
+        <seg>INTERSECT [DISTINCT] Risultato_query</seg>
       </tuv>
     </tu>
     <tu>
@@ -19089,8 +19089,8 @@
       <tuv lang="EN">
         <seg>If a query involves two tables, each field name must be preceded by the name of the table:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161538Z" creationid="manuel" creationdate="20180507T161538Z">
-        <seg>Se una ricerca coinvolge due tabelle, ogni nome di campo deve essre preceduto dal nome della tabella:</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154027Z" creationid="manuel" creationdate="20180507T161538Z">
+        <seg>Se una query coinvolge due tabelle, ogni nome di campo deve essre preceduto dal nome della tabella:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23625,8 +23625,8 @@
       <tuv lang="EN">
         <seg>MINUS [DISTINCT] | EXCEPT [DISTINCT] Query_result</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T144949Z" creationid="manuel" creationdate="20180507T144949Z">
-        <seg>MINUS [DISTINCT] | EXCEPT [DISTINCT] Risultato_ricerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153906Z" creationid="manuel" creationdate="20180507T144949Z">
+        <seg>MINUS [DISTINCT] | EXCEPT [DISTINCT] Risultato_query</seg>
       </tuv>
     </tu>
     <tu>
@@ -26001,8 +26001,8 @@
       <tuv lang="EN">
         <seg>Queries can reproduce fields with changed names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T161255Z" creationid="manuel" creationdate="20180507T161255Z">
-        <seg>Le ricerche possono riprodurre campi con nome modificati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154013Z" creationid="manuel" creationdate="20180507T161255Z">
+        <seg>Le query possono riprodurre campi con nome modificati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26025,8 +26025,8 @@
       <tuv lang="EN">
         <seg>Queries for the creation of list box fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171349Z" creationid="Marina Latini" creationdate="20171205T171349Z">
-        <seg>Ricerche per la creazione di caselle di riepilogo</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154107Z" creationid="Marina Latini" creationdate="20171205T171349Z">
+        <seg>Query per la creazione di caselle di riepilogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -39073,8 +39073,8 @@
       <tuv lang="EN">
         <seg>Using an alias in a query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171139Z" creationid="Marina Latini" creationdate="20171205T171139Z">
-        <seg>Usare un alias in una ricerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154002Z" creationid="Marina Latini" creationdate="20171205T171139Z">
+        <seg>Usare un alias in una query</seg>
       </tuv>
     </tu>
     <tu>
