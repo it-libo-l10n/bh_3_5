@@ -18417,8 +18417,8 @@
       <tuv lang="EN">
         <seg>However it sometimes happens that queries using parameters in subforms are not updated, if data is changed or newly entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103002Z" creationid="manuel" creationdate="20180511T103002Z">
-        <seg>Tuttavia a volte capita che le ricerche che utilizzano i parametri nei sottoformulari non vengano aggiornate, se i dati vengono modificati o inseriti di recente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162440Z" creationid="manuel" creationdate="20180511T103002Z">
+        <seg>Tuttavia a volte capita che le query che utilizzano i parametri nei sottoformulari non vengano aggiornate, se i dati vengono modificati o inseriti di recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20577,8 +20577,8 @@
       <tuv lang="EN">
         <seg>In a query with parameters, the parameter must be the same in both query statements if it is to be recogni&lt;f0&gt;z&lt;/f0&gt;ed as a parameter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T150252Z" creationid="manuel" creationdate="20180521T150252Z">
-        <seg>In una ricerca con parametri, il parametro deve essere lo stesso in entrambe le istruzioni della ricerca se deve essere riconosciuto &lt;f0&gt;&lt;/f0&gt;come parametro.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162716Z" creationid="manuel" creationdate="20180521T150252Z">
+        <seg>In una query con parametri, il parametro deve essere lo stesso in entrambe le istruzioni della ricerca se deve essere riconosciuto &lt;f0&gt;&lt;/f0&gt;come parametro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28849,8 +28849,8 @@
       <tuv lang="EN">
         <seg>So for example, we could prevent library media from being loaned to individuals who are currently banned from borrowing media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103150Z" creationid="manuel" creationdate="20180511T103150Z">
-        <seg>Quindi, ad esempio, potremmo impedire che i supporti di libreria vengano prestati a persone che attualmente sono sospese dal prendere in prestito media.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162528Z" creationid="manuel" creationdate="20180511T103150Z">
+        <seg>Quindi, ad esempio, potremmo impedire che i media della libreria vengano prestati a persone che attualmente sono sospese dal prendere in prestito media.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29289,16 +29289,16 @@
       <tuv lang="EN">
         <seg>Subqueries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171621Z" creationid="Marina Latini" creationdate="20171205T171621Z">
-        <seg>Sottoricerche</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162545Z" creationid="Marina Latini" creationdate="20171205T171621Z">
+        <seg>Subquery</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Subqueries built into fields can always only return one record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T103520Z" creationid="manuel" creationdate="20180511T103520Z">
-        <seg>Le sottoricerche incorporate nei campi possono sempre restituire solo un record di dati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162558Z" creationid="manuel" creationdate="20180511T103520Z">
+        <seg>Le subquery incorporate nei campi possono sempre restituire solo un record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34505,8 +34505,8 @@
       <tuv lang="EN">
         <seg>The subquery yields precisely one value, namely the total balance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105013Z" creationid="steevie" creationdate="20180226T165414Z">
-        <seg>La sottoricerca produce esattamente un valore, cioè il saldo totale.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162626Z" creationid="steevie" creationdate="20180226T165414Z">
+        <seg>La subquery produce esattamente un valore, cioè il saldo totale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36977,8 +36977,8 @@
       <tuv lang="EN">
         <seg>This is still not comparable with the supermarket checkout form described in “&lt;bf0&gt;Queries as a basis for additional information in forms&lt;/bf0&gt;“.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105822Z" creationid="manuel" creationdate="20180511T105822Z">
-        <seg>Questo non è ancora paragonabile al formulario di uscita del supermercato descritto in “&lt;bf0&gt;Ricerche come base per ulteriori informazioni nei formulari&lt;/bf0&gt;“.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162644Z" creationid="manuel" creationdate="20180511T105822Z">
+        <seg>Questo non è ancora paragonabile al formulario di uscita del supermercato descritto in “&lt;bf0&gt;Query come base per ulteriori informazioni nei formulari&lt;/bf0&gt;“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37409,8 +37409,8 @@
       <tuv lang="EN">
         <seg>This query allows data entry (primary key included).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180511T104915Z" creationid="manuel" creationdate="20180511T104915Z">
-        <seg>Questa ricerca consente l'immissione di dati (chiave primaria inclusa).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162612Z" creationid="manuel" creationdate="20180511T104915Z">
+        <seg>Questa query consente l'immissione di dati (chiave primaria inclusa).</seg>
       </tuv>
     </tu>
     <tu>
