@@ -8120,8 +8120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes queries in Base cannot be carried out using the GUI, as particular commands may not be recogni&lt;/f0&gt;&lt;f1&gt;z&lt;/f1&gt;&lt;f2&gt;ed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T173630Z" creationid="Manuel Frassinetti" creationdate="20180116T173630Z">
-        <seg>&lt;f0&gt;A volte le ricerche in Base non possono essere eseguite utilizzando la GUI, in quanto alcuni comandi potrebbero non essere riconosciuti&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T130419Z" creationid="Manuel Frassinetti" creationdate="20180116T173630Z">
+        <seg>&lt;f0&gt;A volte le query in Base non possono essere eseguite utilizzando la GUI, in quanto alcuni comandi potrebbero non essere riconosciuti&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18337,8 +18337,8 @@
       <tuv lang="EN">
         <seg>However as long as hits are not being counted, this query can be used further as a basis for a search function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T170624Z" creationid="Manuel Frassinetti" creationdate="20180116T170624Z">
-        <seg>Tuttavia, finché non vengono contati gli elementi, questa ricerca può essere utilizzata ulteriormente come base per una funzione di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T130258Z" creationid="Manuel Frassinetti" creationdate="20180116T170624Z">
+        <seg>Tuttavia, finché non vengono contati gli elementi, questa query può essere utilizzata ulteriormente come base per una funzione di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26057,8 +26057,8 @@
       <tuv lang="EN">
         <seg>Query &lt;f0&gt;e&lt;/f0&gt;nhancement using SQL Mode</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T171742Z" creationid="Manuel Frassinetti" creationdate="20180116T171742Z">
-        <seg>Ricerche &lt;f0&gt;avanzate&lt;/f0&gt; usando il modo SQL</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T130314Z" creationid="Manuel Frassinetti" creationdate="20180116T171742Z">
+        <seg>Query &lt;f0&gt;avanzate&lt;/f0&gt; usando il modo SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -37321,8 +37321,8 @@
       <tuv lang="EN">
         <seg>This method has the disadvantage that &lt;/f17&gt;&lt;f18&gt;you can only work with the query in SQL Mode.&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T174225Z" creationid="Manuel Frassinetti" creationdate="20180116T174225Z">
-        <seg>Questo metodo ha lo svantaggio che &lt;/f17&gt;&lt;f18&gt;potete lavorare con le ricerche solo in modo SQL.&lt;/f18&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T130434Z" creationid="Manuel Frassinetti" creationdate="20180116T174225Z">
+        <seg>Questo metodo ha lo svantaggio che &lt;/f17&gt;&lt;f18&gt;potete lavorare con le query solo in modo SQL.&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
