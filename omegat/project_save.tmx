@@ -7256,8 +7256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If a new query relates to another query, the SQL view in Base makes the other query look like a table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075947Z" creationid="manuel" creationdate="20180524T075947Z">
-        <seg>&lt;f0&gt;Se una nuova ricerca si riferisce a un'altra ricerca, la vista SQL in Base rende l'altra ricerca simile a una tabella.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165900Z" creationid="manuel" creationdate="20180524T075947Z">
+        <seg>&lt;f0&gt;Se una nuova query si riferisce a un'altra query, la vista SQL in Base rende l'altra ricerca simile a una tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12656,8 +12656,8 @@
       <tuv lang="EN">
         <seg>By contrast queries are first sent to the server and processed there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075901Z" creationid="manuel" creationdate="20180524T075901Z">
-        <seg>Al contrario, le ricerche vengono prima inviate al server ed elaborate lì.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165842Z" creationid="manuel" creationdate="20180524T075901Z">
+        <seg>Al contrario, le query vengono prima inviate al server ed elaborate lì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24041,8 +24041,8 @@
       <tuv lang="EN">
         <seg>More rapid access to queries using table views</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173034Z" creationid="Marina Latini" creationdate="20171205T173034Z">
-        <seg>Accesso più rapido alle ricerche usando le viste delle tabelle</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165613Z" creationid="Marina Latini" creationdate="20171205T173034Z">
+        <seg>Accesso più rapido alle query usando le viste delle tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -39281,8 +39281,8 @@
       <tuv lang="EN">
         <seg>Views in SQL are quicker than queries, especially for external databases, as they are anchored directly into the database and the server returns only the results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T075816Z" creationid="manuel" creationdate="20180524T075816Z">
-        <seg>Le viste in SQL sono più veloci delle ricerche, soprattutto per i database esterni, poiché sono ancorate direttamente nel database e il server restituisce solo i risultati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165832Z" creationid="manuel" creationdate="20180524T075816Z">
+        <seg>Le viste in SQL sono più veloci delle query, soprattutto per i database esterni, poiché sono ancorate direttamente nel database e il server restituisce solo i risultati.</seg>
       </tuv>
     </tu>
     <tu>
