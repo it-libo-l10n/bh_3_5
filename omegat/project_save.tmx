@@ -8776,8 +8776,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This query yields all first names from table1 and Table2; the additional term &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; means that no duplicate first names will be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T140125Z" creationid="manuel" creationdate="20180507T140125Z">
-        <seg>&lt;f0&gt;Questa ricerca restituisce tutti i primi nomi dalla tabella1 e dalla tabella2; il termine addizionale &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; signfica che verranno mostrati nomi univoci.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153712Z" creationid="manuel" creationdate="20180507T140125Z">
+        <seg>&lt;f0&gt;Questa query restituisce tutti i primi nomi dalla tabella1 e dalla tabella2; il termine addizionale &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;DISTINCT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; signfica che verranno mostrati nomi univoci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11640,8 +11640,8 @@
       <tuv lang="EN">
         <seg>As a record can only have one value in each field, &lt;s0/&gt;only a query which yields precisely one value can be displayed in full.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102521Z" creationid="manuel" creationdate="20180507T102430Z">
-        <seg>Come un record di dati può avere solo un valore in ogni campo, &lt;s0/&gt;solo una ricerca che restituisce esattamente un valore può essere visualizzata completamente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153507Z" creationid="manuel" creationdate="20180507T102430Z">
+        <seg>Come un record di dati può avere solo un valore in ogni campo, &lt;s0/&gt;solo una query che restituisce esattamente un valore può essere visualizzata completamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16993,8 +16993,8 @@
       <tuv lang="EN">
         <seg>For this to work, all fields in both queries must match in type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111252Z" creationid="manuel" creationdate="20180507T111252Z">
-        <seg>Affinché questo funzioni, tutti i campi di entrambe le ricerche devono corrispondere nel tipo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153648Z" creationid="manuel" creationdate="20180507T111252Z">
+        <seg>Affinché questo funzioni, tutti i campi di entrambe le query devono corrispondere nel tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37161,16 +37161,16 @@
       <tuv lang="EN">
         <seg>This linkage of several queries functions only in direct SQL command mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111357Z" creationid="manuel" creationdate="20180507T111357Z">
-        <seg>Questo collegamento di più ricerche funziona solo in modo comando SQL diretta.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153700Z" creationid="manuel" creationdate="20180507T111357Z">
+        <seg>Questo collegamento di più query funziona solo in modo comando SQL diretta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This links queries so that the content of the second query is written under the first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111308Z" creationid="manuel" creationdate="20180507T111216Z">
-        <seg>Questo collega le ricerche in modo che il contenuto della seconda ricerca sia scritto sotto il primo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153633Z" creationid="manuel" creationdate="20180507T111216Z">
+        <seg>Questo collega le ricerche in modo che il contenuto della seconda query sia scritto sotto il primo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38577,8 +38577,8 @@
       <tuv lang="EN">
         <seg>UNION [ALL | DISTINCT] Query_result</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T111152Z" creationid="manuel" creationdate="20180507T111152Z">
-        <seg>UNION [ALL | DISTINCT] Risultato_ricerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153617Z" creationid="manuel" creationdate="20180507T111152Z">
+        <seg>UNION [ALL | DISTINCT] Risultato_query</seg>
       </tuv>
     </tu>
     <tu>
@@ -41377,8 +41377,8 @@
       <tuv lang="EN">
         <seg>| Query result which yields exactly one answer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102438Z" creationid="manuel" creationdate="20180507T102349Z">
-        <seg>| Risultato della ricerca che produce esattamente una risposta</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153454Z" creationid="manuel" creationdate="20180507T102349Z">
+        <seg>| Risultato della query che produce esattamente una risposta</seg>
       </tuv>
     </tu>
     <tu>
@@ -41401,8 +41401,8 @@
       <tuv lang="EN">
         <seg>| {ANY|ALL} (Queryresult which yields &lt;f0&gt;exactly one answer from &lt;/f0&gt;a whole column)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102836Z" creationid="manuel" creationdate="20180507T102836Z">
-        <seg>| {ANY|ALL} (Risultato della ricerca che produce &lt;f0&gt;esattamente una risposta da &lt;/f0&gt;una intera colonna)</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153537Z" creationid="manuel" creationdate="20180507T102836Z">
+        <seg>| {ANY|ALL} (Risultato della query che produce &lt;f0&gt;esattamente una risposta da &lt;/f0&gt;una intera colonna)</seg>
       </tuv>
     </tu>
     <tu>
