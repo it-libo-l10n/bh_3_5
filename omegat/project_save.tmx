@@ -17681,8 +17681,8 @@
       <tuv lang="EN">
         <seg>Here a query can help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153359Z" creationid="manuel" creationdate="20180508T153359Z">
-        <seg>Qui una ricerca può aiutare.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154539Z" creationid="manuel" creationdate="20180508T153359Z">
+        <seg>Qui una query può aiutare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34321,8 +34321,8 @@
       <tuv lang="EN">
         <seg>The shopper has very little information if there is no additional query result printed on the receipt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180508T152825Z" creationid="manuel" creationdate="20180508T152825Z">
-        <seg>L'acquirente ha pochissime informazioni se non vi sono ulteriori risultati di ricerche stampati sulla ricevuta.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154521Z" creationid="manuel" creationdate="20180508T152825Z">
+        <seg>L'acquirente ha pochissime informazioni se non vi sono ulteriori risultati della query stampati sulla ricevuta.</seg>
       </tuv>
     </tu>
     <tu>
