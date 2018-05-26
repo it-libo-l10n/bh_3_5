@@ -4512,8 +4512,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+A &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;to highlight the query's SQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095635Z" creationid="manuel" creationdate="20180524T095635Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+A &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per evidenziare l'SQL della ricerca.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T171010Z" creationid="manuel" creationdate="20180524T095635Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Usate &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+A &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per evidenziare l'SQL della query.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13928,8 +13928,8 @@
       <tuv lang="EN">
         <seg>Creating a View from a query is rather easy and straight forward.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T092818Z" creationid="manuel" creationdate="20180524T092818Z">
-        <seg>Creare una vista da una ricerca è piuttosto semplice e diretto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T170901Z" creationid="manuel" creationdate="20180524T092818Z">
+        <seg>Creare una vista da una query è piuttosto semplice e diretto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15032,8 +15032,8 @@
       <tuv lang="EN">
         <seg>Edit the query in SQL View.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T095556Z" creationid="manuel" creationdate="20180524T095556Z">
-        <seg>Modificate la ricerca in vista SQL.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T170951Z" creationid="manuel" creationdate="20180524T095556Z">
+        <seg>Modificate la query in vista SQL.</seg>
       </tuv>
     </tu>
     <tu>
