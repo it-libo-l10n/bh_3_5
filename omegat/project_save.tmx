@@ -7864,8 +7864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Only by using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT JOIN &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;will the query be instructed to use the Media &lt;/f3&gt;&lt;f4&gt;t&lt;/f4&gt;&lt;f5&gt;able to determine which records to show.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T073036Z" creationid="manuel" creationdate="20180524T073036Z">
-        <seg>&lt;f0&gt;Solo usando un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT JOIN &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;verrà richiesto alla ricerca di utilizzare la tabella media &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; per decidere quali record di dati mostrare.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165431Z" creationid="manuel" creationdate="20180524T073036Z">
+        <seg>&lt;f0&gt;Solo usando un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LEFT JOIN &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;verrà richiesto alla query di utilizzare la tabella media &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; per decidere quali record di dati mostrare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24625,8 +24625,8 @@
       <tuv lang="EN">
         <seg>Now the records without Subtitl&lt;/f5&gt;&lt;f6&gt;e&lt;/f6&gt;&lt;f7&gt; or Author appear again, giving a total of 17 records.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T073138Z" creationid="manuel" creationdate="20180524T073138Z">
-        <seg>Ora i record di dati senza sottotitolo&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt; o autore appaionoo ancora, dando un totale di 17 record di dati.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165441Z" creationid="manuel" creationdate="20180524T073138Z">
+        <seg>Ora i record di dati senza sottotitolo&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt; o autore appaiono ancora, dando un totale di 17 record di dati.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
