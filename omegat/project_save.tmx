@@ -8272,8 +8272,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;outer query&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; relates in this case only to the conditional formula from the inner query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T172502Z" creationid="manuel" creationdate="20180521T172502Z">
-        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ricerca esterna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; si riferisce solo alla formula condizionale dalla ricerca interna.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163645Z" creationid="manuel" creationdate="20180521T172502Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;query esterna&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; si riferisce solo alla formula condizionale dalla query interna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21065,8 +21065,8 @@
       <tuv lang="EN">
         <seg>In principle all fields in the inner query are available to the outer one.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180522T060323Z" creationid="manuel" creationdate="20180522T060323Z">
-        <seg>In linea di principio tutti i campi nella ricerca interna sono disponibili per quella esterna.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163704Z" creationid="manuel" creationdate="20180522T060323Z">
+        <seg>In linea di principio tutti i campi nella query interna sono disponibili per quella esterna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32841,8 +32841,8 @@
       <tuv lang="EN">
         <seg>The inner query is given an alias so that it can be linked to the &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Reader_ID&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; from the outer query.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180521T172323Z" creationid="manuel" creationdate="20180521T172323Z">
-        <seg>Alla ricerca interna viene fornito un alias in modo che possa essere collegato a &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Lettore_ID&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; dalla ricerca esterna.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163618Z" creationid="manuel" creationdate="20180521T172323Z">
+        <seg>Alla query interna viene fornito un alias in modo che possa essere collegato a &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Lettore_ID&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; dalla query esterna.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
