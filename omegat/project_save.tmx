@@ -8864,8 +8864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Two titles of the Media table do not yet have an author entry or a Subtitle.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T064015Z" creationid="manuel" creationdate="20180524T064015Z">
-        <seg>&lt;f0&gt;Due titoli della tabella Media non hanno ancora una voce dell'autore o un sottotitolo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165203Z" creationid="manuel" creationdate="20180524T064015Z">
+        <seg>&lt;f0&gt;Due titoli della tabella media non hanno ancora una voce dell'autore o un sottotitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11616,8 +11616,8 @@
       <tuv lang="EN">
         <seg>As Subtitles exist for two of the nine Titles, the query now displays &lt;s12/&gt;9 + 8 – 2 = 15 records.&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T061849Z" creationid="manuel" creationdate="20180524T061849Z">
-        <seg>Poiché i sottotitoli esistono per due dei nove titoli, ora viene visualizzata la ricerca &lt;s12/&gt;9 + 8 – 2 = 15 record di dati.&lt;/f11&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T164955Z" creationid="manuel" creationdate="20180524T061849Z">
+        <seg>Poiché i sottotitoli esistono per due dei nove titoli, ora viene visualizzata la query &lt;s12/&gt;9 + 8 – 2 = 15 record di dati.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19625,8 +19625,8 @@
       <tuv lang="EN">
         <seg>If the Author Table is linked without a&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; LEFT JOIN,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; the two Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;without&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; an Author will not be shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T070040Z" creationid="manuel" creationdate="20180524T070029Z">
-        <seg>Se la tabella autore è collegata senza un&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; LEFT JOIN,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; i due Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;senza&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; un autore non verrà mostrato.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165238Z" creationid="manuel" creationdate="20180524T070029Z">
+        <seg>Se la tabella autore è collegata senza un&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; LEFT JOIN,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; i due media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;senza&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; un autore non verranno mostrati.</seg>
       </tuv>
     </tu>
     <tu>
