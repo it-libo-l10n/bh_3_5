@@ -6552,8 +6552,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;By doing this, you determine how the query data is sorted and hence what data will be shown.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T174719Z" creationid="manuel" creationdate="20180224T174719Z">
-        <seg>&lt;f0&gt;In questo modo, si determina come vengono ordinati i dati della ricerca e quindi quali dati verranno mostrati.&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T143234Z" creationid="manuel" creationdate="20180224T174719Z">
+        <seg>&lt;f0&gt;In questo modo, si determina come vengono ordinati i dati della query e quindi quali dati verranno mostrati.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23465,8 +23465,8 @@
       <tuv lang="EN">
         <seg>Limiting the display of query results is only possible using direct SQL commands.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180224T171036Z" creationid="manuel" creationdate="20180224T171036Z">
-        <seg>Limitare la visualizzazione dei risultati della ricerca è possibile solo utilizzando comandi SQL diretti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T143215Z" creationid="manuel" creationdate="20180224T171036Z">
+        <seg>Limitare la visualizzazione dei risultati della query è possibile solo utilizzando comandi SQL diretti.</seg>
       </tuv>
     </tu>
     <tu>
