@@ -1784,8 +1784,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Its search condition (Criterion) is applied when the query is run, but it is not visible in the query output.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T150451Z" creationid="Manuel Frassinetti" creationdate="20171216T150451Z">
-        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;La sua condizione di ricerca (criterio) viene applicata quando viene eseguita la ricerca, ma non è visibile nel risultato della ricerca.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105533Z" creationid="Manuel Frassinetti" creationdate="20171216T150451Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;La sua condizione di ricerca (criterio) viene applicata quando viene eseguita la query, ma non è visibile nel risultato della query.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,8 +2192,8 @@
       <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;f9&gt;So, all of the visible fields must either be associated with a function or &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;not be associated with a function&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; to prevent this conflict in the query output.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115159Z" creationid="Manuel Frassinetti" creationdate="20171216T115159Z">
-        <seg>&lt;/f8&gt;&lt;f9&gt;Quindi, tutti i campi visibili devono essere associati a una funzione o  &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;non essere associati a una funzione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; per prevenire questo conflitto nel risultato della ricerca.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105342Z" creationid="Manuel Frassinetti" creationdate="20171216T115159Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;Quindi, tutti i campi visibili devono essere associati a una funzione o  &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;non essere associati a una funzione&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; per prevenire questo conflitto nel risultato della query.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6376,8 +6376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;After this, the complete query is listed &lt;/f0&gt;&lt;f1&gt;in the error message&lt;/f1&gt;&lt;f2&gt;, but unfortunately without the offending field being named specifically.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T115516Z" creationid="Manuel Frassinetti" creationdate="20171216T115516Z">
-        <seg>&lt;f0&gt;Dopo questo, la ricerca completa viene elencata &lt;/f0&gt;&lt;f1&gt;nel messaggio di errore&lt;/f1&gt;&lt;f2&gt;, ma sfortunatamente senza che il campo incriminato sia indicato chiaramente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105402Z" creationid="Manuel Frassinetti" creationdate="20171216T115516Z">
+        <seg>&lt;f0&gt;Dopo questo, la query completa viene elencata &lt;/f0&gt;&lt;f1&gt;nel messaggio di errore&lt;/f1&gt;&lt;f2&gt;, ma sfortunatamente senza che il campo incriminato sia indicato chiaramente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7496,8 +7496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the query shown above, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Loan&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Recalls&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tables are queried jointly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T151512Z" creationid="Manuel Frassinetti" creationdate="20171216T151512Z">
-        <seg>&lt;f0&gt;Nella ricerca mostrata sopra, le tabelle &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Richiami&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; sono richiamate congiuntamente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105555Z" creationid="Manuel Frassinetti" creationdate="20171216T151512Z">
+        <seg>&lt;f0&gt;Nella query mostrata sopra, le tabelle &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Prestito&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Richiami&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; sono richiamate congiuntamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20033,8 +20033,8 @@
       <tuv lang="EN">
         <seg>If there is no grouping, there is only one row in the query output.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171214T181853Z" creationid="Manuel Frassinetti" creationdate="20171214T181400Z">
-        <seg>Se non è presente un raggruppamento, è restituito come risultato della ricerca una sola riga.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105320Z" creationid="Manuel Frassinetti" creationdate="20171214T181400Z">
+        <seg>Se non è presente un raggruppamento, è restituito come risultato della query una sola riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32161,8 +32161,8 @@
       <tuv lang="EN">
         <seg>The fine for overdue &lt;/f8&gt;&lt;f9&gt;media&lt;/f9&gt;&lt;f10&gt; is set in the query to 2.00 €.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164928Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
-        <seg>La multa per il ritardo &lt;/f8&gt;&lt;f9&gt;medio&lt;/f9&gt;&lt;f10&gt; è impostato nella ricerca a 2.00 €.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105621Z" creationid="Manuel Frassinetti" creationdate="20171216T151920Z">
+        <seg>La multa per il ritardo &lt;/f8&gt;&lt;f9&gt;medio&lt;/f9&gt;&lt;f10&gt; è impostato nella query a 2.00 €.</seg>
       </tuv>
     </tu>
     <tu>
