@@ -16713,8 +16713,8 @@
       <tuv lang="EN">
         <seg>For such purposes, the data to be searched for are better collected by using a query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T173327Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
-        <seg>Per tali scopi, i dati da cercare vengono raccolti meglio utilizzando una ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105853Z" creationid="Manuel Frassinetti" creationdate="20171216T173327Z">
+        <seg>Per tali scopi, i dati da cercare vengono raccolti meglio utilizzando una query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26473,8 +26473,8 @@
       <tuv lang="EN">
         <seg>Relationship definition in the query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T172143Z" creationid="Manuel Frassinetti" creationdate="20171216T172143Z">
-        <seg>Definizione della relazione nella ricerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105832Z" creationid="Manuel Frassinetti" creationdate="20171216T172143Z">
+        <seg>Definizione della relazione nella query</seg>
       </tuv>
     </tu>
     <tu>
@@ -34121,8 +34121,8 @@
       <tuv lang="EN">
         <seg>The result of the query looks like this:&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T164329Z" creationid="Manuel Frassinetti" creationdate="20171216T164329Z">
-        <seg>Il risultato della ricerca è simile a questo:&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T105816Z" creationid="Manuel Frassinetti" creationdate="20171216T164329Z">
+        <seg>Il risultato della query è simile a questo:&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
