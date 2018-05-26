@@ -1944,8 +1944,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Basically they calculate over all values covered by the query, whereas &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; excludes records with the same values from the display.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T143336Z" creationid="manuel" creationdate="20180302T103240Z">
-        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Di base esse calcolano tutti i valori coperti dalla ricerca, mentre  &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; esclude dal mostrare i record di dati con lo stesso valore.&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152230Z" creationid="manuel" creationdate="20180302T103240Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Di base esse calcolano tutti i valori coperti dalla query, mentre  &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; esclude dal mostrare i record di dati con lo stesso valore.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4640,8 +4640,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;[AS] "display_name":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; The fields can be given a different designation (alias) within the query.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T103512Z" creationid="manuel" creationdate="20180302T103512Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;[AS] "mostra_nome":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; I campi possono ricevere una differente assegnazione (alias) all'interno della ricerca.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152242Z" creationid="manuel" creationdate="20180302T103512Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;[AS] "mostra_nome":&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; I campi possono ricevere una differente assegnazione (alias) all'interno della query.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,8 +8640,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The result of this query is to be written directly into a new table which is named here.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113423Z" creationid="manuel" creationdate="20180302T113346Z">
-        <seg>&lt;f0&gt;Il risultato di questa ricerca deve essere scritto direttamente in una nuova tabella che viene nominata qui.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152310Z" creationid="manuel" creationdate="20180302T113346Z">
+        <seg>&lt;f0&gt;Il risultato di questa query deve essere scritto direttamente in una nuova tabella che viene nominata qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32001,8 +32001,8 @@
       <tuv lang="EN">
         <seg>The field properties for the new table are defined from the field definitions contained in the query.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180302T113439Z" creationid="manuel" creationdate="20180302T113409Z">
-        <seg>Le proprietà del campo per la nuova tabella sono definite dalle definizioni di campo contenute nella ricerca.&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152322Z" creationid="manuel" creationdate="20180302T113409Z">
+        <seg>Le proprietà del campo per la nuova tabella sono definite dalle definizioni di campo contenute nella query.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37945,8 +37945,8 @@
       <tuv lang="EN">
         <seg>Thus the above query yields all possible pairings of records from the first table with those of the second table except for pairings between records for the same player.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180524T144249Z" creationid="manuel" creationdate="20180427T062434Z">
-        <seg>Pertanto la ricerca sopra riportata restituisce tutti i possibili accoppiamenti di record di dati dalla prima tabella con quelli della seconda tabella, ad eccezione degli accoppiamenti tra record di dati per lo stesso giocatore.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152502Z" creationid="manuel" creationdate="20180427T062434Z">
+        <seg>Pertanto la query sopra riportata restituisce tutti i possibili accoppiamenti di record di dati dalla prima tabella con quelli della seconda tabella, ad eccezione degli accoppiamenti tra record di dati per lo stesso giocatore.</seg>
       </tuv>
     </tu>
     <tu>
