@@ -2112,16 +2112,16 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;Each row of &lt;/f7&gt;&lt;f8&gt;the&lt;/f8&gt;&lt;f9&gt; query result contains a value from the “Name” table and the calculated balance for that specific value.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180427T065956Z" creationid="manuel" creationdate="20180427T065956Z">
-        <seg>&lt;/f6&gt;&lt;f7&gt;Per ogni riga &lt;/f7&gt;&lt;f8&gt;della&lt;/f8&gt;&lt;f9&gt; ricerca il risultato contiene un valore dal “Nome” della tabella e il saldo calcolato per quelo specifico valore.&lt;/f9&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152600Z" creationid="manuel" creationdate="20180427T065956Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Per ogni riga &lt;/f7&gt;&lt;f8&gt;della&lt;/f8&gt;&lt;f9&gt; query il risultato contiene un valore dal “Nome” della tabella e il saldo calcolato per quelo specifico valore.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;The difference is that the WHERE formula applies to the values of &lt;/f7&gt;&lt;f8&gt;selected&lt;/f8&gt;&lt;f9&gt; fields in the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180430T170352Z" creationid="manuel" creationdate="20180430T170352Z">
-        <seg>&lt;/f6&gt;&lt;f7&gt;La differenza è che la formula WHERE si applica ai valori dei campi &lt;/f7&gt;&lt;f8&gt;selezionati&lt;/f8&gt;&lt;f9&gt; nella ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152626Z" creationid="manuel" creationdate="20180430T170352Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;La differenza è che la formula WHERE si applica ai valori dei campi &lt;/f7&gt;&lt;f8&gt;selezionati&lt;/f8&gt;&lt;f9&gt; nella query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4384,8 +4384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The query results for the first one lists the names of people whose run-time has been less than 40 minutes at least one time and the minimum run-time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060417Z" creationid="manuel" creationdate="20180507T060417Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;I risultati della ricerca per il primo elencano i nomi di persone il cui tempo di esecuzione è stato inferiore a 40 minuti almeno una volta e il tempo di esecuzione minimo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152714Z" creationid="manuel" creationdate="20180507T060417Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I risultati della query per il primo elencano i nomi di persone il cui tempo di esecuzione è stato inferiore a 40 minuti almeno una volta e il tempo di esecuzione minimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33961,8 +33961,8 @@
       <tuv lang="EN">
         <seg>The query results for the second one lists the names of people who have a total greater output than input and their balance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061100Z" creationid="manuel" creationdate="20180507T061100Z">
-        <seg>I risultati della ricerca per il secondo elenca i nomi delle persone che hanno uscite maggiori rispetto alle entrate e al loro saldo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152734Z" creationid="manuel" creationdate="20180507T061100Z">
+        <seg>I risultati della query per il secondo elenca i nomi delle persone che hanno uscite maggiori rispetto alle entrate e al loro saldo.</seg>
       </tuv>
     </tu>
     <tu>
