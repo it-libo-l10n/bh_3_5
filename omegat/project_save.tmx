@@ -8392,8 +8392,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The data substrate for the form for media entry is in this case not a table but a query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154010Z" creationid="Marco Marega" creationdate="20171231T154010Z">
-        <seg>&lt;f0&gt;I dati sottostanti al formulario per l'inserimento dei supporti, in questo caso non derivano da una tabella, ma da una ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151119Z" creationid="Marco Marega" creationdate="20171231T154010Z">
+        <seg>&lt;f0&gt;I dati sottostanti al formulario per l'inserimento dei supporti, in questo caso non derivano da una tabella, ma da una query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,8 +16121,8 @@
       <tuv lang="EN">
         <seg>Filtering using a query is described in &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;5,&lt;/f1&gt; Queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225641Z" creationid="Marco Marega" creationdate="20171214T225641Z">
-        <seg>Il filtro con l'uso di una ricerca è descritto nel &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150919Z" creationid="Marco Marega" creationdate="20171214T225641Z">
+        <seg>Il filtro con l'uso di una query è descritto nel &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16777,8 +16777,8 @@
       <tuv lang="EN">
         <seg>For the SQL command, see &lt;f0&gt;C&lt;/f0&gt;hapter &lt;f1&gt;5,&lt;/f1&gt; Queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171212T193132Z" creationid="Marco Marega" creationdate="20171212T193132Z">
-        <seg>Per l'istruzione SQL, vedete il &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Ricerche.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150848Z" creationid="Marco Marega" creationdate="20171212T193132Z">
+        <seg>Per l'istruzione SQL, vedete il &lt;f0&gt;Capitolo&lt;/f0&gt; &lt;f1&gt;5,&lt;/f1&gt; Query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18425,8 +18425,8 @@
       <tuv lang="EN">
         <seg>However its data source can be another table or a query (or a SQL command).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T210111Z" creationid="Marco Marega" creationdate="20171215T210003Z">
-        <seg>Anche se la sua sorgente dei dati può essere un'altra tabella o una ricerca (o un comando SQL).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150935Z" creationid="Marco Marega" creationdate="20171215T210003Z">
+        <seg>Anche se la sua sorgente dei dati può essere un'altra tabella o una query (o un comando SQL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19289,8 +19289,8 @@
       <tuv lang="EN">
         <seg>If finally the query for the list box in the upper table control is selected, only those media are displayed which can actually be loaned out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215800Z" creationid="Marco Marega" creationdate="20171229T215529Z">
-        <seg>Infine, se viene selezionata la stessa ricerca della casella di riepilogo del campo di controllo tabella superiore, verranno visualizzati solo quei supporti che possono effettivamente essere concessi in prestito.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151004Z" creationid="Marco Marega" creationdate="20171229T215529Z">
+        <seg>Infine, se viene selezionata la stessa query della casella di riepilogo del campo di controllo tabella superiore, verranno visualizzati solo quei supporti che possono effettivamente essere concessi in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24001,8 +24001,8 @@
       <tuv lang="EN">
         <seg>More about this &lt;f0&gt;is &lt;/f0&gt;in &lt;f1&gt;Chapter 5,&lt;/f1&gt; Quer&lt;f2&gt;ies&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T215622Z" creationid="Marco Marega" creationdate="20171229T215622Z">
-        <seg>Maggiori informazioni su questo argomento &lt;f0&gt;si trovano &lt;/f0&gt;nel &lt;f1&gt;Capitolo 5,&lt;/f1&gt; &lt;f2&gt;Ricerche&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151016Z" creationid="Marco Marega" creationdate="20171229T215622Z">
+        <seg>Maggiori informazioni su questo argomento &lt;f0&gt;si trovano &lt;/f0&gt;nel &lt;f1&gt;Capitolo 5,&lt;/f1&gt; &lt;f2&gt;Query&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30833,8 +30833,8 @@
       <tuv lang="EN">
         <seg>The SQL query for the list field can now be created through the graphical user interface by clicking on the button at the right.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T220629Z" creationid="Marco Marega" creationdate="20171210T220629Z">
-        <seg>Ora potete creare la ricerca SQL per la casella di riepilogo mediante l'interfaccia grafica, facendo clic sul pulsante a destra.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150829Z" creationid="Marco Marega" creationdate="20171210T220629Z">
+        <seg>Ora potete creare la query SQL per la casella di riepilogo mediante l'interfaccia grafica, facendo clic sul pulsante a destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36545,8 +36545,8 @@
       <tuv lang="EN">
         <seg>This filtering is possible either by a query or directly using the form properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T225449Z" creationid="Marco Marega" creationdate="20171214T225449Z">
-        <seg>E' possibile applicare il filtro sia con una ricerca, che direttamente usando le proprietà del formulario.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150859Z" creationid="Marco Marega" creationdate="20171214T225449Z">
+        <seg>E' possibile applicare il filtro sia con una query, che direttamente usando le proprietà del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36593,8 +36593,8 @@
       <tuv lang="EN">
         <seg>This form, made by using queries, is significantly more complex in its structure than the previously shown version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163649Z" creationid="Marco Marega" creationdate="20171230T163649Z">
-        <seg>Questo formulario, realizzato usando le ricerche, nella sua struttura è sensibilmente più complesso rispetto alla versione illustrata in precedenza.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151039Z" creationid="Marco Marega" creationdate="20171230T163649Z">
+        <seg>Questo formulario, realizzato usando le query, nella sua struttura è sensibilmente più complesso rispetto alla versione illustrata in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40313,8 +40313,8 @@
       <tuv lang="EN">
         <seg>You can learn more about the essentials of this in &lt;f0&gt;Chapter 5,&lt;/f0&gt; Queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T163824Z" creationid="Marco Marega" creationdate="20171230T163824Z">
-        <seg>Potrete imparare di più sui principi che ne stanno alla base nel &lt;f0&gt;Capitolo 5,&lt;/f0&gt; Ricerche.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151045Z" creationid="Marco Marega" creationdate="20171230T163824Z">
+        <seg>Potrete imparare di più sui principi che ne stanno alla base nel &lt;f0&gt;Capitolo 5,&lt;/f0&gt; Query.</seg>
       </tuv>
     </tu>
     <tu>
