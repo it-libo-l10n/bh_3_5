@@ -16225,8 +16225,8 @@
       <tuv lang="EN">
         <seg>First variables are preallocated which can subsequently be altered by the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152311Z" creationid="Marco Marega" creationdate="20180415T091809Z">
-        <seg>Per prima cosa vengono preallocate le variabili che successiamente possono essere modificate dalla query.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152720Z" creationid="Marco Marega" creationdate="20180415T091809Z">
+        <seg>Per prima cosa vengono preallocate le variabili che successivamente possono essere modificate dalla query.</seg>
       </tuv>
     </tu>
     <tu>
