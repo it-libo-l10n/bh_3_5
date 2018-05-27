@@ -1440,8 +1440,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;""ID""&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; therefore means that the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field (with a single set of quotation marks for the SQL relationship) is accessed in the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151812Z" creationid="Marco Marega" creationdate="20180414T151812Z">
-        <seg>Perciò &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;""ID""&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; significa che nella ricerca viene fatto accesso al campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; (con un solo insieme di virgolette nella relazione SQL).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152134Z" creationid="Marco Marega" creationdate="20180414T151812Z">
+        <seg>Perciò &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;""ID""&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; significa che nella query viene fatto accesso al campo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;"ID"&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; (con un solo insieme di virgolette nella relazione SQL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,8 +7264,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If a record is found in the Searchtmp table, it means that the result of the first query is greater than 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132414Z" creationid="Marco Marega" creationdate="20180414T132414Z">
-        <seg>&lt;f0&gt;Se un record viene trovato nella tabella Searchtmp, significa che il risultato della prima ricerca è maggiore di 0.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152044Z" creationid="Marco Marega" creationdate="20180414T132414Z">
+        <seg>&lt;f0&gt;Se un record viene trovato nella tabella Searchtmp, significa che il risultato della prima query è maggiore di 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8608,16 +8608,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The query result is read in a loop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T153035Z" creationid="Marco Marega" creationdate="20180414T153035Z">
-        <seg>&lt;f0&gt;Il risultato della ricerca viene letto in un ciclo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152214Z" creationid="Marco Marega" creationdate="20180414T153035Z">
+        <seg>&lt;f0&gt;Il risultato della query viene letto in un ciclo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The query stored in the variable &lt;/f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;f2&gt; is now run and the result of the query is stored in the variable &lt;/f2&gt;&lt;f3&gt;oQuery_result&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152938Z" creationid="Marco Marega" creationdate="20180414T152938Z">
-        <seg>&lt;f0&gt;Ora viene eseguita la ricerca memorizzata nella variabile &lt;/f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;f2&gt;  ed il risultato viene memorizzato nella variabile &lt;/f2&gt;&lt;f3&gt;oQuery_result&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152201Z" creationid="Marco Marega" creationdate="20180414T152938Z">
+        <seg>&lt;f0&gt;Ora viene eseguita la query memorizzata nella variabile &lt;/f0&gt;&lt;f1&gt;stSql&lt;/f1&gt;&lt;f2&gt;  ed il risultato viene memorizzato nella variabile &lt;/f2&gt;&lt;f3&gt;oQuery_result&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12544,8 +12544,8 @@
       <tuv lang="EN">
         <seg>But the construction of this query will produce only one result.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195442Z" creationid="Marco Marega" creationdate="20180414T195442Z">
-        <seg>Ma la costruzione di questa ricerca produrrà un solo risultato.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152235Z" creationid="Marco Marega" creationdate="20180414T195442Z">
+        <seg>Ma la costruzione di questa query produrrà un solo risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16225,8 +16225,8 @@
       <tuv lang="EN">
         <seg>First variables are preallocated which can subsequently be altered by the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091809Z" creationid="Marco Marega" creationdate="20180415T091809Z">
-        <seg>Per prima cosa vengono preallocate le variabili che successiamente possono essere modificate dalla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152311Z" creationid="Marco Marega" creationdate="20180415T091809Z">
+        <seg>Per prima cosa vengono preallocate le variabili che successiamente possono essere modificate dalla query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18169,8 +18169,8 @@
       <tuv lang="EN">
         <seg>Here, as in GUI queries, several fields and records can be created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195415Z" creationid="Marco Marega" creationdate="20180414T195415Z">
-        <seg>Qui, come nelle ricerche della GUI, possono essere creati diversi campi e record.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152225Z" creationid="Marco Marega" creationdate="20180414T195415Z">
+        <seg>Qui, come nelle query della GUI, possono essere creati diversi campi e record.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19097,8 +19097,8 @@
       <tuv lang="EN">
         <seg>If a query yields no results, Basic assigns these integer variable a value of 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T091947Z" creationid="Marco Marega" creationdate="20180415T091947Z">
-        <seg>Se una ricerca non genera risultati, Basic assegna il valore 0 a queste variabili ti tipo intero.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152326Z" creationid="Marco Marega" creationdate="20180415T091947Z">
+        <seg>Se una query non genera risultati, Basic assegna il valore 0 a queste variabili ti tipo intero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19873,8 +19873,8 @@
       <tuv lang="EN">
         <seg>If the query yields precisely 0 (which will be the case if no records are present), then &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"Nr." = "Nr."&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132703Z" creationid="Marco Marega" creationdate="20180414T132703Z">
-        <seg>Se la ricerca restituisce esattamente 0 (che avverrà nel caso in cui non siano presenti dei record), allora &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"Nr." = "Nr."&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152058Z" creationid="Marco Marega" creationdate="20180414T132703Z">
+        <seg>Se la query restituisce esattamente 0 (che avverrà nel caso in cui non siano presenti dei record), allora &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;"Nr." = "Nr."&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20057,8 +20057,8 @@
       <tuv lang="EN">
         <seg>If there is no value in the field for the foreign key 'oField', it means that the query has failed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195935Z" creationid="Marco Marega" creationdate="20180414T195935Z">
-        <seg>Se non è presente un valore nel campo della chiave esterna 'oField', significa che la ricerca è fallita.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152303Z" creationid="Marco Marega" creationdate="20180414T195935Z">
+        <seg>Se non è presente un valore nel campo della chiave esterna 'oField', significa che la query è fallita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31329,8 +31329,8 @@
       <tuv lang="EN">
         <seg>The combobox must now be set to the text values resulting from the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195809Z" creationid="Marco Marega" creationdate="20180414T195809Z">
-        <seg>Ora la casella combinata deve essere impostata ai valori testuali risultanti dalla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152252Z" creationid="Marco Marega" creationdate="20180414T195809Z">
+        <seg>Ora la casella combinata deve essere impostata ai valori testuali risultanti dalla query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33305,8 +33305,8 @@
       <tuv lang="EN">
         <seg>The most general is that the combobox must be provided with a query that refers to two table fields from different tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T150157Z" creationid="Marco Marega" creationdate="20180414T150157Z">
-        <seg>La più generica è che la casella combinata debba essere riempita con una ricerca che fa riferimento a due campi da tabelle differenti.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152112Z" creationid="Marco Marega" creationdate="20180414T150157Z">
+        <seg>La più generica è che la casella combinata debba essere riempita con una query che fa riferimento a due campi da tabelle differenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37601,8 +37601,8 @@
       <tuv lang="EN">
         <seg>This result will be found in the first column &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(1)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; of the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T195522Z" creationid="Marco Marega" creationdate="20180414T195522Z">
-        <seg>Questo risultato si troverà nella prima colonna &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(1)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; della ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152243Z" creationid="Marco Marega" creationdate="20180414T195522Z">
+        <seg>Questo risultato si troverà nella prima colonna &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(1)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; della query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37881,8 +37881,8 @@
       <tuv lang="EN">
         <seg>This yields the following query:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152823Z" creationid="Marco Marega" creationdate="20180414T152823Z">
-        <seg>Questo produce la seguente ricerca:</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152146Z" creationid="Marco Marega" creationdate="20180414T152823Z">
+        <seg>Questo produce la seguente query:</seg>
       </tuv>
     </tu>
     <tu>
