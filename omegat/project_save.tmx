@@ -8800,8 +8800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This very complex query can be broken down.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200331Z" creationid="Marco Marega" creationdate="20180327T200331Z">
-        <seg>&lt;f0&gt;Questa ricerca molto complessa può essere spezzettata.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151337Z" creationid="Marco Marega" creationdate="20180327T200331Z">
+        <seg>&lt;f0&gt;Questa query molto complessa può essere spezzettata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23585,8 +23585,8 @@
       <tuv lang="EN">
         <seg>Listboxes that are to be influenced using this method can be supplied with content using various queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204750Z" creationid="Marco Marega" creationdate="20180326T204750Z">
-        <seg>Le caselle di riepilogo che devono essere influenzate usando questo metodo, possono essere fornite del contenuto usando diversi tipi di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151256Z" creationid="Marco Marega" creationdate="20180326T204750Z">
+        <seg>Le caselle di riepilogo che devono essere influenzate usando questo metodo, possono essere fornite del contenuto usando diversi tipi di query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33089,8 +33089,8 @@
       <tuv lang="EN">
         <seg>The listbox receives its content from a query relating to thi&lt;/f3&gt;&lt;f4&gt;s &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;VIEW.&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200448Z" creationid="Marco Marega" creationdate="20180327T200448Z">
-        <seg>La casella di riepilogo riceve i suoi contenuti da una ricerca collegata a &lt;/f3&gt;&lt;f4&gt;questa &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Vista.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151354Z" creationid="Marco Marega" creationdate="20180327T200448Z">
+        <seg>La casella di riepilogo riceve i suoi contenuti da una query collegata a &lt;/f3&gt;&lt;f4&gt;questa &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Vista.&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33921,8 +33921,8 @@
       <tuv lang="EN">
         <seg>The query in detail: The query presents two columns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200615Z" creationid="Marco Marega" creationdate="20180327T200615Z">
-        <seg>La ricerca nel dettaglio: La ricerca presenta due colonne.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151411Z" creationid="Marco Marega" creationdate="20180327T200615Z">
+        <seg>La query nel dettaglio: La query presenta due colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37785,8 +37785,8 @@
       <tuv lang="EN">
         <seg>This too is only possible using a comprehensive query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154310Z" creationid="Marco Marega" creationdate="20171231T154310Z">
-        <seg>Anche questo è possibile solo usando una ricerca adeguata.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151142Z" creationid="Marco Marega" creationdate="20171231T154310Z">
+        <seg>Anche questo è possibile solo usando una query adeguata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38041,8 +38041,8 @@
       <tuv lang="EN">
         <seg>To achieve this aim, the following query is constructed, which is no longer fed directly from the filter results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200237Z" creationid="Marco Marega" creationdate="20180327T200127Z">
-        <seg>La seguente ricerca è costruita per raggiungere questo scopo e non è più alimentata direttamente dai risultati del filtro.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151325Z" creationid="Marco Marega" creationdate="20180327T200127Z">
+        <seg>La query seguente è costruita per raggiungere questo scopo e non è più alimentata direttamente dai risultati del filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38433,8 +38433,8 @@
       <tuv lang="EN">
         <seg>To understand the background of this, it is therefore necessary to discuss the fundamentals of queries, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;covered in Chapter 5.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T154430Z" creationid="Marco Marega" creationdate="20171231T154430Z">
-        <seg>Per comprendere i retroscena di ciò, è quindi necessario introdurre le nozioni fondamentali sulle ricerche, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;trattate nel Capitolo 5.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151159Z" creationid="Marco Marega" creationdate="20171231T154430Z">
+        <seg>Per comprendere i retroscena di ciò, è quindi necessario introdurre le nozioni fondamentali sulle query, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;trattate nel Capitolo 5.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
