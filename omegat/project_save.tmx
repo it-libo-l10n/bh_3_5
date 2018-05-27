@@ -8600,8 +8600,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The query is constructed &lt;/f0&gt;&lt;f1&gt;such &lt;/f1&gt;&lt;f2&gt;that the results end up in the Searchtmp table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123913Z" creationid="Marco Marega" creationdate="20180404T123913Z">
-        <seg>&lt;f0&gt;La ricerca è strutturata &lt;/f0&gt;&lt;f1&gt;in modo &lt;/f1&gt;&lt;f2&gt;che il risultato finisca nella tabella Searchtmp.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151904Z" creationid="Marco Marega" creationdate="20180404T123913Z">
+        <seg>&lt;f0&gt;La query è strutturata &lt;/f0&gt;&lt;f1&gt;in modo &lt;/f1&gt;&lt;f2&gt;che il risultato finisca nella tabella Searchtmp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10104,8 +10104,8 @@
       <tuv lang="EN">
         <seg>A sample query is shown:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124320Z" creationid="Marco Marega" creationdate="20180404T124320Z">
-        <seg>Una ricerca i esempio è la seguente:</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151952Z" creationid="Marco Marega" creationdate="20180404T124320Z">
+        <seg>Una query di esempio è la seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10960,8 +10960,8 @@
       <tuv lang="EN">
         <seg>All case combinations are allowed for, since the content of the field in the query is converted to lower case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123829Z" creationid="Marco Marega" creationdate="20180404T123829Z">
-        <seg>Sono ammesse tutte le combinazioni di maiuscolo/minuscolo, dato che il contenuto del campo presente nella ricerca viene convertito in minuscolo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151855Z" creationid="Marco Marega" creationdate="20180404T123829Z">
+        <seg>Sono ammesse tutte le combinazioni di maiuscolo/minuscolo, dato che il contenuto del campo presente nella query viene convertito in minuscolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11680,8 +11680,8 @@
       <tuv lang="EN">
         <seg>As far as possible, the query should be constructed so that it can subsequently be edited.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124259Z" creationid="Marco Marega" creationdate="20180404T124259Z">
-        <seg>Per quanto possibile, la ricerca dovrebbe essere strutturata in modo da poter essere conseguentemente modificata.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151942Z" creationid="Marco Marega" creationdate="20180404T124259Z">
+        <seg>Per quanto possibile, la query dovrebbe essere strutturata in modo da poter essere conseguentemente modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19137,8 +19137,8 @@
       <tuv lang="EN">
         <seg>If a search term has been entered, the column names are read from the table being searched, so that the query can access the fields.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205048Z" creationid="Marco Marega" creationdate="20180328T205048Z">
-        <seg>Se è stato inserito un termine di ricerca, i nomi delle colonne vengono letti dalla tabella ricercata, in modo che la ricerca abbia accesso ai campi.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151808Z" creationid="Marco Marega" creationdate="20180328T205048Z">
+        <seg>Se è stato inserito un termine di ricerca, i nomi delle colonne vengono letti dalla tabella ricercata, in modo che la query abbia accesso ai campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23161,8 +23161,8 @@
       <tuv lang="EN">
         <seg>Its data source is a query, in this example Searchquery.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124110Z" creationid="Marco Marega" creationdate="20180404T124110Z">
-        <seg>La sua sorgente dati è una ricerca, in questo esempio è Searchquery.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151919Z" creationid="Marco Marega" creationdate="20180404T124110Z">
+        <seg>La sua sorgente dati è una query, in questo esempio è Searchquery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24345,8 +24345,8 @@
       <tuv lang="EN">
         <seg>No other table appears in the direct query; therefore no primary key from another table is needed and the query result remains editable.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203742Z" creationid="Marco Marega" creationdate="20180315T203742Z">
-        <seg>Nessun'altra tabella compare nella ricerca diretta; perciò non è necessaria alcuna chiave primaria da un'altra tabella ed il risultato della ricerca rimane modificabile.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T152020Z" creationid="Marco Marega" creationdate="20180315T203742Z">
+        <seg>Nessun'altra tabella compare nella query diretta; perciò non è necessaria alcuna chiave primaria da un'altra tabella ed il risultato della query rimane modificabile.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24617,8 +24617,8 @@
       <tuv lang="EN">
         <seg>Now the query is put together within a loop and subsequently applied to the table defined at the beginning.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T123718Z" creationid="Marco Marega" creationdate="20180404T123718Z">
-        <seg>La ricerca viene quindi inserita all'interno di un ciclo e conseguentemente applicata alla tabella definita all'inizio.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151837Z" creationid="Marco Marega" creationdate="20180404T123718Z">
+        <seg>La query viene quindi inserita all'interno di un ciclo e conseguentemente applicata alla tabella definita all'inizio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35105,8 +35105,8 @@
       <tuv lang="EN">
         <seg>Then the query begins to be read out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T205729Z" creationid="Marco Marega" creationdate="20180328T205729Z">
-        <seg>Poi la ricerca inizia a essere letta.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151823Z" creationid="Marco Marega" creationdate="20180328T205729Z">
+        <seg>Poi la query inizia a essere letta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36337,8 +36337,8 @@
       <tuv lang="EN">
         <seg>This creates a table that is to be evaluated by the query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180404T124201Z" creationid="Marco Marega" creationdate="20180404T124201Z">
-        <seg>Ciò crea una tabella che dev'essere presa in considerazione dalla ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151938Z" creationid="Marco Marega" creationdate="20180404T124201Z">
+        <seg>Ciò crea una tabella che dev'essere presa in considerazione dalla query.</seg>
       </tuv>
     </tu>
     <tu>
