@@ -8696,8 +8696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The table from which this information is drawn is actually a query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201543Z" creationid="Marco Marega" creationdate="20180327T201543Z">
-        <seg>&lt;f0&gt;La tabella dalla quale sono tratte queste informazioni in realtà è una ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151444Z" creationid="Marco Marega" creationdate="20180327T201543Z">
+        <seg>&lt;f0&gt;La tabella dalla quale sono tratte queste informazioni in realtà è una query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16153,8 +16153,8 @@
       <tuv lang="EN">
         <seg>Finally the whole query is sorted by the underlying field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T214913Z" creationid="Marco Marega" creationdate="20180327T214913Z">
-        <seg>Infine l'intera ricerca è ordinata in base al campo sottostante.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151609Z" creationid="Marco Marega" creationdate="20180327T214913Z">
+        <seg>Infine l'intera query è ordinata in base al campo sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18673,8 +18673,8 @@
       <tuv lang="EN">
         <seg>However, the corresponding query that must be set up can be very &lt;f0&gt;complicated&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203056Z" creationid="Marco Marega" creationdate="20180328T203056Z">
-        <seg>Però, la ricerca equivalente che deve essere impostate può essere molto &lt;f0&gt;complicata&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151657Z" creationid="Marco Marega" creationdate="20180328T203056Z">
+        <seg>Però, la query equivalente che deve essere impostate può essere molto &lt;f0&gt;complicata&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19961,8 +19961,8 @@
       <tuv lang="EN">
         <seg>If there are further filters, this query can be extended:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202251Z" creationid="Marco Marega" creationdate="20180327T202251Z">
-        <seg>Se ci sono ulteriori filtri, questa ricerca può essere estesa:</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151553Z" creationid="Marco Marega" creationdate="20180327T202251Z">
+        <seg>Se ci sono ulteriori filtri, questa query può essere estesa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22009,8 +22009,8 @@
       <tuv lang="EN">
         <seg>In this query the primary key fields are counted (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT COUNT( "ID" ) AS "Count"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201628Z" creationid="Marco Marega" creationdate="20180327T201628Z">
-        <seg>In questa ricerca vengono contati i campi della chiave primaria (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT COUNT( "ID" ) AS "Count"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151458Z" creationid="Marco Marega" creationdate="20180327T201628Z">
+        <seg>In questa query vengono contati i campi della chiave primaria (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT COUNT( "ID" ) AS "Count"&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32257,8 +32257,8 @@
       <tuv lang="EN">
         <seg>The following &lt;f0&gt;subroutine&lt;/f0&gt; reads the fields in a table, creates a query internally, and finally writes a list of primary key numbers of records in the table that are retrieved by this search term.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T203608Z" creationid="Marco Marega" creationdate="20180328T203608Z">
-        <seg>La seguente &lt;f0&gt;subroutine&lt;/f0&gt; legge i campi in una tabella, crea internamente una ricerca, ed infine scrive una lista di numeri di chiavi primarie dei record della tabella che sono stati recuperati in base al termine di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151720Z" creationid="Marco Marega" creationdate="20180328T203608Z">
+        <seg>La seguente &lt;f0&gt;subroutine&lt;/f0&gt; legge i campi in una tabella, crea internamente una query, ed infine scrive una lista di numeri di chiavi primarie dei record della tabella che sono stati recuperati in base al termine di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33129,8 +33129,8 @@
       <tuv lang="EN">
         <seg>The listboxes thus draw their content &lt;t0/&gt;from the query, which is presented as the filter result in the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201436Z" creationid="Marco Marega" creationdate="20180327T201436Z">
-        <seg>Le caselle di riepilogo perciò traggono il loro contenuto &lt;t0/&gt;dalla ricerca, che nel formulario viene presentata come il risultato del filtro.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151430Z" creationid="Marco Marega" creationdate="20180327T201436Z">
+        <seg>Le caselle di riepilogo perciò traggono il loro contenuto &lt;t0/&gt;dalla query, che nel formulario viene presentata come il risultato del filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33873,8 +33873,8 @@
       <tuv lang="EN">
         <seg>The queries for this more usable macro are naturally the same as those already presented in the previous section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180328T202934Z" creationid="Marco Marega" creationdate="20180328T202934Z">
-        <seg>Le ricerche di questa macro più usabile sono naturalmene le stesse di quelle presentate nella sezione precedente.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151635Z" creationid="Marco Marega" creationdate="20180328T202934Z">
+        <seg>Le query di questa macro più usabile sono naturalmene le stesse di quelle presentate nella sezione precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37441,8 +37441,8 @@
       <tuv lang="EN">
         <seg>This query in turn is based on a further sub-query:&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202002Z" creationid="Marco Marega" creationdate="20180327T202002Z">
-        <seg>A sua volta questa ricerca si basa su di un'ulteriore sub-query:&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151519Z" creationid="Marco Marega" creationdate="20180327T202002Z">
+        <seg>A sua volta questa query si basa su di un'ulteriore sub-query:&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37481,8 +37481,8 @@
       <tuv lang="EN">
         <seg>This query presents the term in the field itself as the second column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T201938Z" creationid="Marco Marega" creationdate="20180327T201938Z">
-        <seg>Questa ricerca presenta come seconda colonna il termine stesso del campo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151506Z" creationid="Marco Marega" creationdate="20180327T201938Z">
+        <seg>Questa query presenta come seconda colonna il termine stesso del campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39457,8 +39457,8 @@
       <tuv lang="EN">
         <seg>What the final query underlying the displayed form, actually looks like, can be seen from &lt;f0&gt;Chapter 8,&lt;/f0&gt; Database &lt;f1&gt;T&lt;/f1&gt;asks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T215101Z" creationid="Marco Marega" creationdate="20180327T215101Z">
-        <seg>Nel &lt;f0&gt;Capitolo 8,&lt;/f0&gt; Attività di Database &lt;f1&gt;&lt;/f1&gt;è possibile vedere come appare realmente la ricerca sottostante al formulario visualizzato.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151617Z" creationid="Marco Marega" creationdate="20180327T215101Z">
+        <seg>Nel &lt;f0&gt;Capitolo 8,&lt;/f0&gt; Attività di Database &lt;f1&gt;&lt;/f1&gt;è possibile vedere come appare realmente la query sottostante al formulario visualizzato.</seg>
       </tuv>
     </tu>
     <tu>
