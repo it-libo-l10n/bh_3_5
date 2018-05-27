@@ -10168,8 +10168,8 @@
       <tuv lang="EN">
         <seg>A simple form has form controls for writing or reading records from a single table or query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T200958Z" creationid="Marco Marega" creationdate="20171210T200958Z">
-        <seg>Un formulario semplice contiene i campi di controllo necessari a scrivere o leggere dei record di dati in una singola tabella o ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150815Z" creationid="Marco Marega" creationdate="20171210T200958Z">
+        <seg>Un formulario semplice contiene i campi di controllo necessari a scrivere o leggere dei record di dati in una singola tabella o query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18041,8 +18041,8 @@
       <tuv lang="EN">
         <seg>Here we are dealing with a query that is not visible in Base's query container but has in principle the same structure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T205210Z" creationid="Marco Marega" creationdate="20171014T205210Z">
-        <seg>Qui abbiamo a che fare con una query che non è visibile nella sezione Ricerche di Base, ma in linea di principio ha la medesima struttura.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150721Z" creationid="Marco Marega" creationdate="20171014T205210Z">
+        <seg>Qui abbiamo a che fare con una query che non è visibile nella sezione Query di Base, ma in linea di principio ha la medesima struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25961,8 +25961,8 @@
       <tuv lang="EN">
         <seg>Queries are not affected as they are not stored within HSQLDB.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214037Z" creationid="Marco Marega" creationdate="20180227T214037Z">
-        <seg>Le Ricerche non sono coinvolte in quanto non sono memorizzate all'interno di HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150533Z" creationid="Marco Marega" creationdate="20180227T214037Z">
+        <seg>Le Query non sono coinvolte in quanto non sono memorizzate all'interno di HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34913,8 +34913,8 @@
       <tuv lang="EN">
         <seg>The values entered can also be the result of a query (&lt;Select-Formula&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T215458Z" creationid="Marco Marega" creationdate="20180303T215458Z">
-        <seg>I valori inseriti possono anche essere il risultato di una ricerca(&lt;Formula-di-selezione&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150643Z" creationid="Marco Marega" creationdate="20180303T215458Z">
+        <seg>I valori inseriti possono anche essere il risultato di una query (&lt;Formula-di-selezione&gt;).</seg>
       </tuv>
     </tu>
     <tu>
