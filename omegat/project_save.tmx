@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26009,8 +26009,8 @@
       <tuv lang="EN">
         <seg>Queries cannot be created here.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144636Z" creationid="Marco Marega" creationdate="20180218T144636Z">
-        <seg>Le Ricerche non possono essere create da qui.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150337Z" creationid="Marco Marega" creationdate="20180218T144636Z">
+        <seg>Le Query non possono essere create da qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30817,8 +30817,8 @@
       <tuv lang="EN">
         <seg>The SQL commands are carried out in this case but the tables are not displayed (and therefore cannot be deleted) using the GUI, and data entered via SQL is likewise not visible to the query module of the GUI, unless the automatic deletion of the contents after the final commit is prevented.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210419Z" creationid="Marco Marega" creationdate="20180219T210419Z">
-        <seg>In questo caso i comandi SQL vengono eseguiti, ma, usando la GUI, le tabelle non vengono visualizzata (e quindi non possono essere cancellate), allo stesso modo i dati inseriti mediante SQL non sono visibili per il modulo ricerche della GUI, a meno che non sia disabilitata la cancellazione automatica dei contenuti dopo l'ultimo comando.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150505Z" creationid="Marco Marega" creationdate="20180219T210419Z">
+        <seg>In questo caso i comandi SQL vengono eseguiti, ma, usando la GUI, le tabelle non vengono visualizzata (e quindi non possono essere cancellate), allo stesso modo i dati inseriti mediante SQL non sono visibili nel modulo query della GUI, a meno che non sia disabilitata la cancellazione automatica dei contenuti dopo l'ultimo comando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38137,8 +38137,8 @@
       <tuv lang="EN">
         <seg>To display a different sequence requires a query.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143431Z" creationid="Marco Marega" creationdate="20180218T143431Z">
-        <seg>Per visualizzare una sequenza differente è necessaria una ricerca.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150313Z" creationid="Marco Marega" creationdate="20180218T143431Z">
+        <seg>Per visualizzare una sequenza differente è necessaria una query.</seg>
       </tuv>
     </tu>
     <tu>
