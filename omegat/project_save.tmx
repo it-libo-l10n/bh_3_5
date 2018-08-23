@@ -18999,6 +18999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a borrower was previously locked and has subsequently returned the overdue item(s), the lending area can be unlocked by clicking the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Refresh&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; button.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180823T223135Z" creationid="osvaldo" creationdate="20180823T223135Z">
+        <seg> &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Refresh&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; button.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a class has no names, it is also not displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180427T054543Z" creationid="manuel" creationdate="20180427T054543Z">
