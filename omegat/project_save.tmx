@@ -25295,6 +25295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the fields Return Date and Extension can be edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180823T222728Z" creationid="osvaldo" creationdate="20180823T222728Z">
+        <seg>È possibile modificare solo i campi Data di Restituzione ed Estensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the fields immediately necessary are shown in the upper table control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171214T224734Z" creationid="Marco Marega" creationdate="20171214T224734Z">
