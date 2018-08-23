@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In the lower section of the form (Return) it is not possible to delete a data row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180823T222234Z" creationid="osvaldo" creationdate="20180823T222234Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nella sezione inferiore del modulo (Indietro) non è possibile cancellare una riga di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In version 3.5.3 page settings were added in the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Format&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T111523Z" creationid="Elisabetta Manuele" creationdate="20180308T111416Z">
@@ -3914,6 +3922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T211250Z" creationid="Marco Marega" creationdate="20180315T211250Z">
         <seg>&lt;f0&gt;&lt;f1&gt;dichiarazione della Macro&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Media items selected for loan are added to the current loan details by clicking the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Refresh&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; button.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180823T222107Z" creationid="osvaldo" creationdate="20180823T222107Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Gli elementi multimediali selezionati per il prestito vengono aggiunti ai dettagli del prestito corrente facendo clic suk pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
