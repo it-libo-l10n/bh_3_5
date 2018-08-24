@@ -4430,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The third field, Reader_ID, stores the primary key of the Reader &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T212624Z" creationid="osvaldo" creationdate="20180824T212624Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il terzo campo, Reader_ID, memorizza la chiave primaria della tabella Reader &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;This &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;book&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; is based on an original German document, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;which&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; was translated by &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Hazel Russman &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;and Martin Fox.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085504Z" creationid="Marina Latini" creationdate="20171003T085504Z">
