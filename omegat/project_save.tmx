@@ -20151,6 +20151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this date is present and is later than the current date, the corresponding data set for the reader is shown in the bottom table of the form under Return.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T214806Z" creationid="osvaldo" creationdate="20180824T214806Z">
+        <seg>Se questa data è presente ed è successiva alla data corrente, il corrispondente insieme di dati per il lettore è mostrato nella tabella in basso del formulario Ritorna.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this event is not caught, a parameter query will follow the loading of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171015T202608Z" creationid="Marco Marega" creationdate="20171015T202608Z">
