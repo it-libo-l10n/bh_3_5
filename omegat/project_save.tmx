@@ -2526,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;D&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ata input &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;directly into a table&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T210832Z" creationid="osvaldo" creationdate="20180824T210832Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;mmissione di dati &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;direttamente in una tabella&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;DIM &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;oPath&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; AS OBJECT&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T170219Z" creationid="Elisabetta Manuele" creationdate="20180412T170219Z">
@@ -34731,6 +34739,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180206T074845Z" creationid="steevie" creationdate="20180206T074845Z">
         <seg>I risultati dell'interrogazione su riportata riportano informazioni essenziali sulle chiavi primarie delle varie tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table structure for such a form is relatively basic and easy to set up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211023Z" creationid="osvaldo" creationdate="20180824T211023Z">
+        <seg>La struttura della tabella per tale formulario è relativamente semplice e facile da configurare.</seg>
       </tuv>
     </tu>
     <tu>
