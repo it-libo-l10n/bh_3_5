@@ -4278,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Th&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;e fourth field &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;stores&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; the loan date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T214413Z" creationid="osvaldo" creationdate="20180824T214413Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;l quarto campo  &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;memorizza&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; la data del prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Loan &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;form has been extended to show additional information:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221934Z" creationid="osvaldo" creationdate="20180103T221934Z">
@@ -21699,6 +21707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180325T210928Z" creationid="Marco Marega" creationdate="20180325T210928Z">
         <seg>Nel navigatore formulario corrisponde concettualmente al livello superiore, quello di cui tutti i formulario sono sussidiari.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the form the Last name and First name of the reader are shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T214301Z" creationid="osvaldo" creationdate="20180824T214301Z">
+        <seg>Nel formulario sono mostrati Nome e Cognome del lettore.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
