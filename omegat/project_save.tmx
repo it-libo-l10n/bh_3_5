@@ -11158,6 +11158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All these functions can be carried out without using macros, when the form is set up and filled in the manner described.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T210631Z" creationid="osvaldo" creationdate="20180824T210631Z">
+        <seg>Tutte queste funzioni possono essere eseguite senza utilizzare macro, quando il modulo è impostato e compilato nel modo descritto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All these functions return 0, if the values within the group are all equal.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102644Z" creationid="manuel" creationdate="20180302T102644Z">
