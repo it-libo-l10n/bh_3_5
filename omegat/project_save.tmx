@@ -21695,6 +21695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the form the media id, title and author are shown in the drop&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;-&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;down menu.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T212355Z" creationid="osvaldo" creationdate="20180824T212355Z">
+        <seg>Nel formulario l'identificativo dell'oggetto multimediale, il titolo e l'autore sono mostrati nel &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;-&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;menu a tendina.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the general properties, in addition to the familiar fields, &lt;f2&gt;you can &lt;/f2&gt;choos&lt;f3&gt;e&lt;/f3&gt; a &lt;f4&gt;Chart type&lt;/f4&gt; (see the corresponding types in Calc).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T135808Z" creationid="Alessia Mazzarini" creationdate="20180328T135808Z">
