@@ -21871,6 +21871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the table shown above, the same data can be directly input in the rows and columns of the table as when using the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211133Z" creationid="osvaldo" creationdate="20180824T211133Z">
+        <seg>Nella tabella sopra riportata, gli stessi dati possono essere inseriti direttamente nelle righe e nelle colonne della tabella come quando si utilizza il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the table shown above, you can see a lot of records that are not necessary &lt;f0&gt;because&lt;/f0&gt; &lt;f1&gt;t&lt;/f1&gt;hese media are already on loan.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171215T205402Z" creationid="Marco Marega" creationdate="20171215T205402Z">
@@ -24075,6 +24083,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T162938Z" creationid="Alessia Mazzarini" creationdate="20180324T162443Z">
         <seg>Maggiori informazioni sulle espressioni condizionali si possono trovare in &lt;f1&gt;“&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Stampa condizionale&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;a pagina &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;bf11&gt;169&lt;/bf11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More on this topic can be found in the chapter on Tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211342Z" creationid="osvaldo" creationdate="20180824T211322Z">
+        <seg>Ulteriori informazioni su questo argomento sono disponibili nel capitolo relativo alle Tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32243,6 +32259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180328T143342Z" creationid="Alessia Mazzarini" creationdate="20180328T142716Z">
         <seg>La prima colonna dell'interrogazione fornisce le etichette per le colonne verticali nel grafico, mentre la seconda colonna riproduce il numero totale di prestiti, mostrato dall'altezza delle colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first field shows a primary key (“ID”) which is automatically generated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211229Z" creationid="osvaldo" creationdate="20180824T211229Z">
+        <seg>Il primo campo mostra una chiave primaria ("ID") che viene generata automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
