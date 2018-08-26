@@ -32159,6 +32159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entire data set is stored in an ODB file which has no file locking mechanism when opened by a user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T221020Z" creationid="osvaldo" creationdate="20180826T221020Z">
+        <seg>L'intero datasetè memorizzato in un file ODB che non ha alcun meccanismo di blocco dei file quando viene aperto da un utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The entry in string determines the units in which the difference is returned: ms=millisecond, ss=second, mi=minute, hh=hour, dd=day, mm=month, yy = year.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T183015Z" creationid="Elisabetta Manuele" creationdate="20180402T183015Z">
@@ -36251,6 +36259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T135501Z" creationid="Marco Marega" creationdate="20180414T135501Z">
         <seg>Questa &lt;f0&gt;subroutine&lt;/f0&gt; serve a visualizzare nella casella combinata il testo corrispondente al valore del campo invisibile contenente la chiave esterna del formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HSQLDB database can only be used by a single user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220922Z" creationid="osvaldo" creationdate="20180826T220922Z">
+        <seg>Questo database HSQLDB può essere utilizzato solo da un singolo utente.</seg>
       </tuv>
     </tu>
     <tu>
