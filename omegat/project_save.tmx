@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Queries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;getting information on data in tables&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202336Z" creationid="osvaldo" creationdate="20180826T202336Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Interrogazioni&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni dai dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;REM This &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;subroutine&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; sets the automatically incrementing primary key field mit the preset name of "ID" to the lowest possible value.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T152520Z" creationid="Elisabetta Manuele" creationdate="20180427T173323Z">
@@ -4410,6 +4418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T160311Z" creationid="steevie" creationdate="20180207T153135Z">
         <seg>&lt;f0&gt;&lt;f1&gt;La seguente finestra di dialogo è disponibile in &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Relazioni&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, facendo poi click col&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;-&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;tasto destro sul connettore tra due tabelle.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The input of th&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;i&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;s data permits the management of a simple library.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202222Z" creationid="osvaldo" creationdate="20180826T202222Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L'immissione di questi &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;  &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; dati permette la gestione di una semplice libreria.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
