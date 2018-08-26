@@ -21639,6 +21639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the data set above, the line with Media_ID '2' shows an extension of 7 days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211038Z" creationid="osvaldo" creationdate="20180826T211038Z">
+        <seg>Nel data set precedente, la linea con Media_ID '2' mostra una estensione di 7 giorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the database, you then create a new query to make the required data available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190312Z" creationid="Elisabetta Manuele" creationdate="20180306T190312Z">
