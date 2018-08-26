@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Reports&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentation of data&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211341Z" creationid="osvaldo" creationdate="20180826T211341Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Reports&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentazione dei dati&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;SELECT "Name", SUM("Input"-"Output") AS "Balance" FROM "Table1" GROUP BY "Name" &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;HAVING &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SUM("Input"-"Output") &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt; 0&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;;&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T061702Z" creationid="manuel" creationdate="20180507T061702Z">
