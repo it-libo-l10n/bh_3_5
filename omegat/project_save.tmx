@@ -31735,6 +31735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database contains a special table called Settings for this type of information.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T201857Z" creationid="osvaldo" creationdate="20180826T201857Z">
+        <seg>Per questo tipo di informazioni il database contiene una tabella speciale chiamata Settings.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database does not allow this, once the relationship has been created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214947Z" creationid="Marco Marega" creationdate="20180227T214947Z">
@@ -33395,6 +33403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180415T090446Z" creationid="Marco Marega" creationdate="20180415T090446Z">
         <seg>Viene controllata la lunghezza massima permessa per i campi interessati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The meaning of &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;the values &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1, 2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;and so on&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; is explained later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T201702Z" creationid="osvaldo" creationdate="20180826T201702Z">
+        <seg>Il significato dei &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;valori &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1, 2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;e così via&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; verrà spiegato dopo.</seg>
       </tuv>
     </tu>
     <tu>
