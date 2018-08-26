@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The reference to the Reader is established with the primary key of the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;table.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205515Z" creationid="osvaldo" creationdate="20180826T205515Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il riferimento al lettore viene stabilito con la chiave primaria della tabella &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The second field, Media_ID, store&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; the primary key of the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;table, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;a number which refers to the Media.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211942Z" creationid="osvaldo" creationdate="20180824T211752Z">
