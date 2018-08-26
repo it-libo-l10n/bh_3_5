@@ -4446,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The query shown above lists all media which &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;are&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; currently out on loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202849Z" creationid="osvaldo" creationdate="20180826T202849Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La query mostrata prima elenca tutti gli elementi multimediali che &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;sono&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; attualmente in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The range of persons shown can be filtered on last name to limit the detail shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222126Z" creationid="osvaldo" creationdate="20180103T222126Z">
