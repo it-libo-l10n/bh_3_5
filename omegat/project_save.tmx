@@ -20055,6 +20055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the table containing the items for this person exceeds the space on a page, it is extended to cover a succeeding page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220134Z" creationid="osvaldo" creationdate="20180826T220134Z">
+        <seg>Se la tabella contenente gli elementi per questa persona supera lo spazio di una pagina, viene estesa alla pagina successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the tables are emptied in preparation for normal usage or prior to handing the database on to another person, the primary key continues &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;to&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; increment from its current position instead of resetting itself to zero.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155027Z" creationid="steevie" creationdate="20180205T155027Z">
