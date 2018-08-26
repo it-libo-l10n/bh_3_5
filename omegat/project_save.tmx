@@ -35079,6 +35079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The value of the LoanDays field is calculated as the difference between the Loan_Date and the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205729Z" creationid="osvaldo" creationdate="20180826T205729Z">
+        <seg>Il valore del campo LoanDays viene calcolato come differenza tra Loan_Date e la data corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The value of the primary key field must be determined, so that it can be transferred to the main part of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T111312Z" creationid="Elisabetta Manuele" creationdate="20180412T111312Z">
