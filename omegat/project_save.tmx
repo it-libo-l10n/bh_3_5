@@ -21343,6 +21343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In such a report there may be multiple entries (overdue items) for a particular person.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T215843Z" creationid="osvaldo" creationdate="20180826T215843Z">
+        <seg>In tale rapporto possono esserci più voci (articoli scaduti) per una determinata persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In such cases it is better to use a macro, to allow the code to cover all the fields in one go.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T204040Z" creationid="MicrosoftSucks" creationdate="20180327T204040Z">
@@ -35161,8 +35169,8 @@
       <tuv lang="EN">
         <seg>The user of the database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;needs only to choose the Recall report and a recall letter can be printed out and sent to all persons who have a recall entry made in the form on the previous page.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T213015Z" creationid="osvaldo" creationdate="20180826T213015Z">
-        <seg>aThe user of the database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;needs only to choose the Recall report and a recall letter can be printed out and sent to all persons who have a recall entry made in the form on the previous page.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T215811Z" creationid="osvaldo" creationdate="20180826T213015Z">
+        <seg>L'utente del database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;deve solo scegliere il rapporto di richiamo e una lettera di richiamo può essere stampata e inviata a tutte le persone che hanno una voce di richiamo fatta nel modulo nella pagina precedente.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
