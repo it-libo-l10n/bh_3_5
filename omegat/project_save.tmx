@@ -33639,6 +33639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number of LoanDays is subtracted from the Loan Time to give the remaining number of days in the loan period.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T210035Z" creationid="osvaldo" creationdate="20180826T210035Z">
+        <seg>Il numero di LoanDays viene sottratto da Loan Time per fornire il restante numero di giorni nel periodo del prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The number of hits must be obtained in a different way.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200152Z" creationid="Marco Marega" creationdate="20180327T200152Z">
