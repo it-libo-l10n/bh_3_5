@@ -13478,6 +13478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 2&lt;f0&gt; &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220329Z" creationid="osvaldo" creationdate="20180826T220329Z">
+        <seg>Capitolo 2&lt;f0&gt; &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 3 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161531Z" creationid="Marina Latini" creationdate="20171205T161531Z">
@@ -18471,6 +18479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to create a new database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220351Z" creationid="osvaldo" creationdate="20180826T220351Z">
+        <seg>Come creare un nuovo database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to do this in principle is described in Chapter 8,&lt;f0&gt; Getting Started with Base,&lt;/f0&gt; in the &lt;f1&gt;Getting Starte&lt;/f1&gt;&lt;f2&gt;d with LibreOffice&lt;/f2&gt; book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223836Z" creationid="Marco Marega" creationdate="20180112T223836Z">
@@ -22699,6 +22715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143745Z" creationid="Marina Latini" creationdate="20171213T143745Z">
         <seg>È scritto in Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It automatically gathers together the data sets for printing and arranges the necessary accompanying text accordingly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220308Z" creationid="osvaldo" creationdate="20180826T220308Z">
+        <seg>Raccoglie automaticamente i dati per la stampa e dispone di conseguenza il testo di accompagnamento necessario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29579,6 +29603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T163204Z" creationid="steevie" creationdate="20180226T170540Z">
         <seg>Una tale query non è quindi adatta per l'uso giornaliero &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ma potrebbe essere necessaria nel &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;database &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;per operazioni di manutenzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such a report is more encompassing than a mail merge letter produced with Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220213Z" creationid="osvaldo" creationdate="20180826T220213Z">
+        <seg>Tale rapporto è più completo di una lettera di stampa unione prodotta con Writer.</seg>
       </tuv>
     </tu>
     <tu>
