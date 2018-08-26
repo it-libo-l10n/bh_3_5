@@ -4024,8 +4024,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Reports&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentation of data&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211341Z" creationid="osvaldo" creationdate="20180826T211341Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Reports&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentazione dei dati&lt;/f7&gt;&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211611Z" creationid="osvaldo" creationdate="20180826T211341Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Report&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentazione dei dati&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12434,6 +12434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214801Z" creationid="Marco Marega" creationdate="20180126T214801Z">
         <seg>Dato che i titoli possono avere più sottotitoli oppure, alle volte, nessuno, i sottotitoli sono memorizzati in una tabella separata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before an actual report in the form of a recall notice can be printed, the recall information must be entered into the Recall form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211606Z" creationid="osvaldo" creationdate="20180826T211606Z">
+        <seg>Prima di poter stampare un rapporto reale sotto forma di avviso di richiamo, le informazioni di richiamo devono essere inserite nel modulo Recall.</seg>
       </tuv>
     </tu>
     <tu>
