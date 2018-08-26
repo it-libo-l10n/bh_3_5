@@ -3984,8 +3984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Queries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;getting information on data in tables&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202336Z" creationid="osvaldo" creationdate="20180826T202336Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Interrogazioni&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni dai dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202603Z" creationid="osvaldo" creationdate="20180826T202336Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Query&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni dai dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
