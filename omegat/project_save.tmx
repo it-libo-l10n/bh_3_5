@@ -31391,6 +31391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basics of creating a database in LibreOffice are described in Chapter 8 of the &lt;f0&gt;Getting Started&lt;/f0&gt; guide, Getting Started with Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220704Z" creationid="osvaldo" creationdate="20180826T220633Z">
+        <seg>Le basi della creazione di un database in LibreOffice sono descritte nel Capitolo 8 della guida &lt;f0&gt;Getting Started&lt;/f0&gt;, Iniziare con Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basis for this filtering is an editable query (see the chapter on queries) and an additional table, in which the data to be filtered are stored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T210218Z" creationid="MicrosoftSucks" creationdate="20180218T210218Z">
