@@ -11118,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All media for which the Return_Date field is empty is listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T203558Z" creationid="osvaldo" creationdate="20180826T203558Z">
+        <seg>Vengono elencati tutti gli elementi multimediali per i quali il campo Return_Date è vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other records are excluded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T175305Z" creationid="Manuel Frassinetti" creationdate="20171216T175305Z">
