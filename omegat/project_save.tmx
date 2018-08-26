@@ -21447,6 +21447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Settings table a value of '1' for Extension corresponds to an extension of the loan period of 7 days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T210912Z" creationid="osvaldo" creationdate="20180826T210912Z">
+        <seg>Nella tabella Settings un valore pari a '1' per Extension corrisponde ad una estensione del periodo di prestito pari a 7 giorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above case a new table is created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115920Z" creationid="Elisabetta Manuele" creationdate="20180310T115920Z">
@@ -30875,6 +30883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170106Z" creationid="Marina Latini" creationdate="20171207T170106Z">
         <seg>Il sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Loan Time can vary with different media types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T210729Z" creationid="osvaldo" creationdate="20180826T210729Z">
+        <seg>Il tempo di prestito può variare in base a diversi elementi multimediali.</seg>
       </tuv>
     </tu>
     <tu>
