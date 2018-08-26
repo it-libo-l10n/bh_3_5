@@ -20895,6 +20895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, LibreOffice contains a version of the HSQL database engine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220847Z" creationid="osvaldo" creationdate="20180826T220847Z">
+        <seg>Inoltre, LibreOffice contiene una versione del motore di database HSQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, a default value can be specified to be used when nothing was entered into the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151734Z" creationid="Marco Marega" creationdate="20180203T151734Z">
@@ -31907,6 +31915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170851Z" creationid="Elisabetta Manuele" creationdate="20180403T170851Z">
         <seg>Il database 0 viene indirizzato con il nome &lt;f0&gt;firstdb&lt;/f0&gt;, anche se i singoli file nella cartella dati iniziano con &lt;f1&gt;db0&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database component of LibreOffice, called Base, provides a graphical interface for working with databases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220815Z" creationid="osvaldo" creationdate="20180826T220815Z">
+        <seg>La componente database di LibreOffice, chiamata Base, fornisce una interfaccia grafica per lavorare con i database.</seg>
       </tuv>
     </tu>
     <tu>
