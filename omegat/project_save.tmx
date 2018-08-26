@@ -35151,6 +35151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user of the database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;needs only to choose the Recall report and a recall letter can be printed out and sent to all persons who have a recall entry made in the form on the previous page.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T213015Z" creationid="osvaldo" creationdate="20180826T213015Z">
+        <seg>aThe user of the database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;needs only to choose the Recall report and a recall letter can be printed out and sent to all persons who have a recall entry made in the form on the previous page.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The value from the date field is stored in the &lt;f0&gt;Filter&lt;/f0&gt; table and transferred &lt;f1&gt;by&lt;/f1&gt; the linkages from subform to sub-subform.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T152810Z" creationid="Marco Marega" creationdate="20171230T152810Z">
