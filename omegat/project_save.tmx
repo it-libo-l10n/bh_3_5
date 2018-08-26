@@ -11750,6 +11750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As an additional overview, the medium name is included in the query together with the Media_ID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205236Z" creationid="osvaldo" creationdate="20180826T205236Z">
+        <seg>Come ulteriore panoramica, il nome dell'elemento multimediale viene incluso nella query insieme a Media_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an example we will again use the &lt;f0&gt;Addresses &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;database&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; Although the next selection field is headed &lt;f4&gt;Tables&lt;/f4&gt;, &lt;f5&gt;Tables and Queries&lt;/f5&gt; are both listed here, just as in the data source browser.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T184133Z" creationid="Elisabetta Manuele" creationdate="20180307T184133Z">
