@@ -22615,6 +22615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It calculates for each item how long it has been on loan and &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;the balance of t&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;he loan period.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T203428Z" creationid="osvaldo" creationdate="20180826T203428Z">
+        <seg>Calcola per ogni articolo per quanto tempo è stato in prestito ed &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;il saldo del&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; periodo di prestito.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can access databases created by many database programs, including Microsoft Access, MySQL, Oracle, and PostgreSQL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105120Z" creationid="Marina Latini" creationdate="20171207T105120Z">
