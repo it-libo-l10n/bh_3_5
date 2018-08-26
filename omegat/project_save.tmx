@@ -21895,6 +21895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the macro version, the date is automatically entered and the recall notice printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T212739Z" creationid="osvaldo" creationdate="20180826T212739Z">
+        <seg>Nella versione con macro, la data viene inserita automaticamente e viene stampato l'avviso di richiamo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the macro version, the field contents can be expanded by ne&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;w&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; content but an alteration of existing content is not possible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T173123Z" creationid="Elisabetta Manuele" creationdate="20180429T173123Z">
@@ -36883,6 +36891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171229T205024Z" creationid="Marco Marega" creationdate="20171229T205024Z">
         <seg>Anche questo formulario contiene dati che provengono dalla tabella "Loan"&lt;f0&gt;.&lt;/f0&gt; In questo caso i dati sono filtrati in modo da avere solo i record senza una data di restituzione vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This form, in the current database example without macros, requires user input to create recall notices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T212646Z" creationid="osvaldo" creationdate="20180826T212646Z">
+        <seg>Questo modulo, nell'esempio di database corrente senza macro, richiede l'input dell'utente per creare avvisi di richiamo.</seg>
       </tuv>
     </tu>
     <tu>
