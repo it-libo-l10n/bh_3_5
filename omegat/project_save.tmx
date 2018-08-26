@@ -16575,6 +16575,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For each media item to be recalled, the recall date and recall notice number is entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211937Z" creationid="osvaldo" creationdate="20180826T211937Z">
+        <seg>Per ogni elemento multimediale da richiamare, viene immessa la data di richiamo e il numero di avviso di richiamo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each reader there is a single address.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151447Z" creationid="Marco Marega" creationdate="20180127T151447Z">
@@ -34267,6 +34275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171202T145137Z" creationid="Manuel Frassinetti" creationdate="20171202T145137Z">
         <seg>I nomi dei lettori non sono chiari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The recall date defaults to the current date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T212029Z" creationid="osvaldo" creationdate="20180826T212029Z">
+        <seg>La data di richiamo per impostazione predefinita è la data corrente.</seg>
       </tuv>
     </tu>
     <tu>
