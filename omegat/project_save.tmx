@@ -34871,6 +34871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table in the form shows all persons who have borrowed items with a negative remaining loan time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211737Z" creationid="osvaldo" creationdate="20180826T211737Z">
+        <seg>La tabella nel modulo mostra tutte le persone che hanno preso in prestito oggetti con un tempo di prestito residuo negativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table is created complete with field names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T194145Z" creationid="Elisabetta Manuele" creationdate="20180308T194145Z">
