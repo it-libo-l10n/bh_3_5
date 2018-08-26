@@ -34287,6 +34287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The recall number is an integer incremented by 1 with each successive recall notice for a particular lender/media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T212548Z" creationid="osvaldo" creationdate="20180826T212548Z">
+        <seg>Il numero di richiamo è un numero incrementato di 1ad ogni successiva notifica di richiamo effettuata per un particolare prestatore/elemento multimediale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The record is saved and the filtering can be comprehended.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190053Z" creationid="MicrosoftSucks" creationdate="20180316T190053Z">
