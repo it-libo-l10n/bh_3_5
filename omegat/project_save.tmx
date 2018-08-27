@@ -12110,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assuming that access to a database is desired, the database must be set up to allow network connections &lt;f0&gt;with&lt;/f0&gt; a specific user name and password before external programs can connect to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T200938Z" creationid="osvaldo" creationdate="20180827T200938Z">
+        <seg>Assumendo che si voglia accedere un database, il database deve essere impostato per consentire le connessioni di rete &lt;f0&gt;con&lt;/f0&gt; un nome utente e una password specifici prima che i programmi esterni possano connettersi ad esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At least the receipt number can be included by using a query parameter:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180511T105952Z" creationid="manuel" creationdate="20180511T105952Z">
