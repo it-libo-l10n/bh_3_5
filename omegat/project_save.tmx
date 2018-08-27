@@ -4198,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Select the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Connect to an existing database&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205050Z" creationid="osvaldo" creationdate="20180827T205050Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Seleziona l'opzione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Connetti ad un database esistente&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Select&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Case&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDlg.Execute&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T182050Z" creationid="Elisabetta Manuele" creationdate="20180430T182050Z">
@@ -10130,6 +10138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T212330Z" creationid="Marco Marega" creationdate="20171029T212330Z">
         <seg>Una casella di riepilogo mostra all'utente dati differenti da ciò che viene effettivamente trasmesso alla &lt;f2&gt;&lt;f3&gt;tabella&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list of database formats is contained on the pull-down menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205229Z" creationid="osvaldo" creationdate="20180827T205229Z">
+        <seg>Un elenco di formati di database è contenuto nel menu a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28843,6 +28859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T171119Z" creationid="Marina Latini" creationdate="20171207T171119Z">
         <seg>Selezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X , &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa &lt;/f5&gt;per visualizzare le finestre di dialoo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select MySQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205241Z" creationid="osvaldo" creationdate="20180827T205241Z">
+        <seg>Seleziona MySQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
