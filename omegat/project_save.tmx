@@ -9950,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A database which is registered in LibreOffice can be accessed by other program components as a data source (for example, mail merge).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111234Z" creationid="osvaldo" creationdate="20180827T111234Z">
+        <seg>Un database registrato in LibreOffice può essere acceduto da altri componenti del programma come origine dei dati (ad esempio, mail merge).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog can be supplied at the beginning with the necessary data for appropriate tables and can be called up by several different forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T171510Z" creationid="Elisabetta Manuele" creationdate="20180429T171510Z">
