@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;General access to MySQL for versions of LibreOffice from 3.5 onwads is via JDBC or ODBC.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203910Z" creationid="osvaldo" creationdate="20180827T203910Z">
+        <seg>&lt;f0&gt;L'accesso generale a MySQL per le versioni di LibreOffice da 3.5 e successive è tramite JDBC o ODBC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Here the names and the corresponding classes are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T120056Z" creationid="manuel" creationdate="20180302T120056Z">
@@ -38611,6 +38619,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T214522Z" creationid="Marco Marega" creationdate="20171210T214502Z">
         <seg>Per regolare i singoli campi, dovete modificare il gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To be &lt;/f0&gt;able to use JDBC, it is necessary to install mysql-connector-java.jar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204036Z" creationid="osvaldo" creationdate="20180827T204036Z">
+        <seg>Per &lt;/f0&gt;poter usare JDBC, è necessario installare mysql-connector-java.jar.</seg>
       </tuv>
     </tu>
     <tu>
