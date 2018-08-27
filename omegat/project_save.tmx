@@ -19175,6 +19175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a database with multiple users is not planned, or the user wishes to gain some initial experience with a database, the internal database engine will suffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T110739Z" creationid="osvaldo" creationdate="20180827T110705Z">
+        <seg>Se non è pianificato l'uso di un database con più utenti, o l'utente desidera acquisire un'esperienza iniziale con un database, sarà sufficiente il motore del database interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a different archive is used, it can lead to the internal database suddenly becoming inaccessible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162305Z" creationid="Elisabetta Manuele" creationdate="20180403T161312Z">
