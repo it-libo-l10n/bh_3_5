@@ -11422,6 +11422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively the appropriate folder containing the Java archive can be set through &lt;f0&gt;Tools &gt; Options &gt; Java &gt; ClassPath&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204638Z" creationid="osvaldo" creationdate="20180827T204638Z">
+        <seg>In alternativa è possibile impostare la cartella appropriata contenente l'archivio Java attraverso &lt;f0&gt;Strumenti &gt; Opzioni &gt; Java &gt; Percorso Classe&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively you can group by initial letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082708Z" creationid="Alessia Mazzarini" creationdate="20180321T082708Z">
