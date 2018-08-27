@@ -36023,6 +36023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are used only to search for or report on existing data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203456Z" creationid="osvaldo" creationdate="20180827T203456Z">
+        <seg>Questi sono usati solo per cercare o presentare dati esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These can in any case be corrected later, after the *.odb file is created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203147Z" creationid="osvaldo" creationdate="20180827T203147Z">
