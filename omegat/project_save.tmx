@@ -29431,6 +29431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some database types (for example spreadsheets) do not allow new data to be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203220Z" creationid="osvaldo" creationdate="20180827T203220Z">
+        <seg>Alcuni tipi di database (ad esempio fogli di calcolo) non consentono l'inserimento di nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114105Z" creationid="Marina Latini" creationdate="20171213T114105Z">
@@ -31755,6 +31763,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215453Z" creationid="Marco Marega" creationdate="20180126T215453Z">
         <seg>Il collegamento tra un autore e, ad esempio, i libri che quell'autore ha scritto è ovvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The connection options will vary according to the type of database selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203024Z" creationid="osvaldo" creationdate="20180827T203024Z">
+        <seg>Le opzioni di connessione variano in base al tipo di database selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36003,6 +36019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T164758Z" creationid="Elisabetta Manuele" creationdate="20180429T181010Z">
         <seg>In particolare, l'indice della matrice in cui saranno scritti i valori della tabella ausiliaria, la chiave primaria predefinita, se non è necessaria la chiave esterna per una seconda tabella, e la tabella ausiliaria predefinita collegata a quella principale per codice postale e città, la tabella Postcode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These can in any case be corrected later, after the *.odb file is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203147Z" creationid="osvaldo" creationdate="20180827T203147Z">
+        <seg>Queste possono comunque essere corrette in seguito, dopo che è stato creato il file *.odb.</seg>
       </tuv>
     </tu>
     <tu>
