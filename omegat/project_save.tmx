@@ -36399,6 +36399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This Java Archive file is best copied into the same folder where the current java version used in LibreOffice is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204251Z" creationid="osvaldo" creationdate="20180827T204251Z">
+        <seg>Questo archivio Java è meglio copiarlo nella stessa cartella dove è istallata la versione di Java usata in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This Wizard allows the address field and the salutation to be constructed from a data source in small steps.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T174034Z" creationid="Elisabetta Manuele" creationdate="20180307T174034Z">
@@ -37419,6 +37427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224538Z" creationid="Marco Marega" creationdate="20180224T224538Z">
         <seg>Ciò è in contrasto con il valore predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is likely to be a subfolder like &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; for a Linux installation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204336Z" creationid="osvaldo" creationdate="20180827T204336Z">
+        <seg>È probabile che sia una sottocartella come &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; per una istallazione Linux.</seg>
       </tuv>
     </tu>
     <tu>
