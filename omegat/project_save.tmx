@@ -23007,6 +23007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible at some later stage to transfer the database to an external HSQLDB environment, where multiple users can have concurrent access to the database on the HSQLDB server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T110846Z" creationid="osvaldo" creationdate="20180827T110846Z">
+        <seg>In un secondo momento è possibile trasferire il database in un ambiente HSQLDB esterno, in cui più utenti possono avere accesso simultaneo al database sul server HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to loan out the same medium twice without it having been returned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171217T214947Z" creationid="Marco Marega" creationdate="20171217T214947Z">
@@ -31815,6 +31823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The creation of a new internal database is described in detail in Getting Started with Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111039Z" creationid="osvaldo" creationdate="20180827T111039Z">
+        <seg>La creazione di un nuovo database interno è descritta in dettaglio nella guida Iniziare con Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The creation of such queries is described in &lt;f1&gt;Chapter 5, &lt;/f1&gt;Queries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T211204Z" creationid="Marco Marega" creationdate="20171101T211204Z">
@@ -37233,8 +37249,8 @@
       <tuv lang="EN">
         <seg>This is described in the Appendix to this Handbook.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T100742Z" creationid="Elisabetta Manuele" creationdate="20180402T100742Z">
-        <seg>Gli stessi sono elencati nell'Appendice di questo manuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T110922Z" creationid="Elisabetta Manuele" creationdate="20180402T100742Z">
+        <seg>Questa procedura è descritta nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
