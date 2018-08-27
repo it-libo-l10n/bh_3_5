@@ -40135,6 +40135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When such a database is properly set up, a user may, depending on the available connection software (the database driver), create tables, input data, and query data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T201322Z" creationid="osvaldo" creationdate="20180827T201322Z">
+        <seg>Quando un tale database è impostato correttamente, un utente può, a seconda del software di connessione disponibile (il driver del database), creare tabelle, inserire dati e richiedere dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the Reader &lt;f3&gt;c&lt;/f3&gt;hanges, it must be reentered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171230T153511Z" creationid="Marco Marega" creationdate="20171230T153511Z">
