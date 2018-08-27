@@ -13854,6 +13854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection to an external database is only possible when the database already exists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204920Z" creationid="osvaldo" creationdate="20180827T204920Z">
+        <seg>La connessione a un database esterno è possibile solo quando il database esiste già.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Constraints can be given a name.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214744Z" creationid="Marco Marega" creationdate="20180222T214744Z">
@@ -14210,6 +14218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162051Z" creationid="Marina Latini" creationdate="20171205T162051Z">
         <seg>Creazione delle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creation of a new database is only possible in the internal HSQLDB format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204849Z" creationid="osvaldo" creationdate="20180827T204849Z">
+        <seg>La creazione di un nuovo database è possibile solo nel formato interno HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33747,6 +33763,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214642Z" creationid="Marco Marega" creationdate="20180126T214642Z">
         <seg>Il database media_without_macros elenca i titoli dei supporti in una tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The method of access to an existing MySQL database is shown in the following steps.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204722Z" creationid="osvaldo" creationdate="20180827T204722Z">
+        <seg>Il metodo di accesso a un database MySQL esistente viene mostrato nei seguenti passaggi.</seg>
       </tuv>
     </tu>
     <tu>
