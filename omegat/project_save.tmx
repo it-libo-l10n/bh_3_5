@@ -11550,6 +11550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An external database must exist before it can be accessed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111556Z" creationid="osvaldo" creationdate="20180827T111556Z">
+        <seg>Un database esterno deve esistere prima di poterlo accedere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An index speeds up searching and can also be used to prevent duplicate entries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135438Z" creationid="Marco Marega" creationdate="20180218T135438Z">
@@ -37987,6 +37995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180322T090257Z" creationid="Alessia Mazzarini" creationdate="20180322T090257Z">
         <seg>In questo caso il rettangolo è bianco invece che grigio.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This registration process can be carried out at a later stage if desired.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111507Z" creationid="osvaldo" creationdate="20180827T111507Z">
+        <seg>Se desiderato, questo processo di registrazione può essere effettuato in una fase successiva.</seg>
       </tuv>
     </tu>
     <tu>
