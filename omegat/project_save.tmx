@@ -6798,6 +6798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click on &lt;/f0&gt;&lt;f1&gt;File &gt; New &gt; Database&lt;/f1&gt;&lt;f2&gt; to open the Database Wizard and allow a connection to an existing database to be made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T202451Z" creationid="osvaldo" creationdate="20180827T202451Z">
+        <seg>&lt;f0&gt;Fare click su &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo &gt; Database&lt;/f1&gt;&lt;f2&gt; per aprire la procedura guidata  Database e consentire la realizzazione della connessione ad un database esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the icon highlighted (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Run SQL command directly&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;) to turn the Design V&lt;/f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;f5&gt;ew Off/On icon off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180524T142706Z" creationid="manuel" creationdate="20180214T120942Z">
