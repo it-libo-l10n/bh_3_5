@@ -13870,6 +13870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection to MySQL can be via ODBC or JDBC unless a native MySQL connector has been installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205323Z" creationid="osvaldo" creationdate="20180827T205323Z">
+        <seg>La connessione a MySQL può avvenire tramite ODBC o JDBC, a meno che non sia stato installato un connettore MySQL nativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection to an external database is only possible when the database already exists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204920Z" creationid="osvaldo" creationdate="20180827T204920Z">
