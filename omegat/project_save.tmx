@@ -29559,6 +29559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T202916Z" creationid="osvaldo" creationdate="20180827T202916Z">
+        <seg>Foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161450Z" creationid="Marina Latini" creationdate="20171205T161450Z">
@@ -33451,6 +33459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T215444Z" creationid="Marco Marega" creationdate="20171029T215444Z">
         <seg>Il campo della lista diventa quindi automaticamente un campo multi-linea, nel quale il valore correntemente selezionato viene evidenziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list of available database types varies according to operating system and user interface, but the following should always be available:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T202811Z" creationid="osvaldo" creationdate="20180827T202811Z">
+        <seg>L'elenco dei tipi di database disponibili varia in base al sistema operativo e all'interfaccia utente, ma quanto segue dovrebbe sempre essere disponibile:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
