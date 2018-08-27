@@ -32311,6 +32311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension was in the LibreOffice Extensions center under the Base Category but is not being developed at present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203801Z" creationid="osvaldo" creationdate="20180827T203801Z">
+        <seg>L'estensione era nel centro Estensioni LibreOffice sotto la categoria Base ma al momento non è più sviluppata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fact that this level is called &lt;f3&gt;Page header &lt;/f3&gt;&lt;f4&gt;does not imply that there is no space above it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T090837Z" creationid="Alessia Mazzarini" creationdate="20180321T090602Z">
@@ -35787,6 +35795,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T161436Z" creationid="Alessia Mazzarini" creationdate="20180403T161436Z">
         <seg>Il risultato della funzione viene calcolato direttamente all'interno della creazione guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an extension for MySQL, the MySQL Native Connector, which should allow Base to connect directly to a MySQL database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203619Z" creationid="osvaldo" creationdate="20180827T203619Z">
+        <seg>C'era un'estensione per MySQL, il connettore nativo MySQL, che avrebbe consentito a Base di connettersi direttamente a un database MySQL.</seg>
       </tuv>
     </tu>
     <tu>
