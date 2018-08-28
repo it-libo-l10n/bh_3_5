@@ -22231,6 +22231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case a direct connection to MySQL is possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T165926Z" creationid="osvaldo" creationdate="20180828T165926Z">
+        <seg>In questo caso è possibile una connessione diretta a MySQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case the column types match.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134711Z" creationid="Marco Marega" creationdate="20180228T134711Z">
