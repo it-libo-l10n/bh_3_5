@@ -4622,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Type in the JDBC driver class and click the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T222736Z" creationid="osvaldo" creationdate="20180828T222736Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Digitare la classe di driver JDBC e fare clic sul pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Use &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Control+A &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;to highlight the query's SQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T171010Z" creationid="manuel" creationdate="20180524T095635Z">
