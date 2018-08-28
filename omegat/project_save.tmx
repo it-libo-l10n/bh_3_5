@@ -23015,6 +23015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also possible to access a database with Base where the database is located on the website of an Internet Service Provider.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T220751Z" creationid="osvaldo" creationdate="20180828T220751Z">
+        <seg>È anche possibile accedere a un database con Base in cui il database si trova sul sito Web di un provider di servizi Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is always better to start off by fully utili&lt;f5&gt;z&lt;/f5&gt;ing the possibilities of the database and the provisions for configuring forms before trying to provide additional functionality with macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T203009Z" creationid="Marco Marega" creationdate="20180315T203009Z">
@@ -32235,6 +32243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180430T174505Z" creationid="Elisabetta Manuele" creationdate="20180430T174505Z">
         <seg>La voce predefinita per la tabella ausiliaria continua quindi ad essere Postcode; infine, la combinazione di codice postale e città costituisce la base della tabella Address, contenente una chiave esterna ricavata dalla tabella Postcode.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default port number will usually be correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T220842Z" creationid="osvaldo" creationdate="20180828T220842Z">
+        <seg>Il numero di porta predefinito sarà solitamente corretto.</seg>
       </tuv>
     </tu>
     <tu>
