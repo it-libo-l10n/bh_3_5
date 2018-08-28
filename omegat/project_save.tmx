@@ -19895,6 +19895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the MySQL server is on the same computer as LibreOffice, then the Server name can be set as localhost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215836Z" creationid="osvaldo" creationdate="20180828T215836Z">
+        <seg>Se il server MySQL si trova sullo stesso computer di LibreOffice, il nome del server può essere impostato come localhost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the background is not defined as transparent, a background color can be defined for each field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180324T164443Z" creationid="Alessia Mazzarini" creationdate="20180324T164443Z">
@@ -22323,6 +22331,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T132551Z" creationid="Marco Marega" creationdate="20180414T132551Z">
         <seg>In questo caso: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;"Nr." = '-1' &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;(qui abbiamo bisogno di un numero che non possa esistere come chiave primaria, quindi &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;'-1'&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; è un buon valore&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, select the Java connector JDBC.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215735Z" creationid="osvaldo" creationdate="20180828T215735Z">
+        <seg>In questo esempio, selezionare il connettore Java JDBC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25995,6 +26011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140527Z" creationid="Marco Marega" creationdate="20180203T140527Z">
         <seg>Altrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise the IP address of the server or its hostname on the network or internet must be input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215912Z" creationid="osvaldo" creationdate="20180828T215912Z">
+        <seg>In caso contrario, è necessario immettere l'indirizzo IP del server o il suo nome host sulla rete o su Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32155,6 +32179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181104Z" creationid="Elisabetta Manuele" creationdate="20180306T181104Z">
         <seg>Lo stesso database deve essere dotato di un nome opportunamente esplicativo per cui risulti agevole utilizzare semplicemente quello del file di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database name must be known and input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215802Z" creationid="osvaldo" creationdate="20180828T215802Z">
+        <seg>Il nome del database deve essere conosciuto e inserito.</seg>
       </tuv>
     </tu>
     <tu>
