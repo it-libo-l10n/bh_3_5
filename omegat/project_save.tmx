@@ -23415,6 +23415,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be better to manipulate the data in Base because Calc requires the input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;of the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; type of character encoding, whereas Base simply takes the appropriate encoding provided by the operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214344Z" creationid="osvaldo" creationdate="20180829T214344Z">
+        <seg>Potrebbe essere meglio manipolare i dati in Base perché Calc richiede l'input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tipo di codifica dei caratteri, mentre Base prende semplicemente la codifica appropriata fornita dal sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may be necessary to look at the &lt;f0&gt;script&lt;/f0&gt; file and test it for contradictions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104058Z" creationid="Elisabetta Manuele" creationdate="20180403T104058Z">
@@ -25467,6 +25475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T102908Z" creationid="manuel" creationdate="20180507T102908Z">
         <seg>Spesso esiste una condizione che confronta un'espressione con un intero gruppo di valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old dBase files may exhibit small decoding errors where special characters have been used.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214444Z" creationid="osvaldo" creationdate="20180829T214444Z">
+        <seg>I vecchi file dBase possono presentare piccoli errori di decodifica laddove sono stati utilizzati caratteri speciali.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
