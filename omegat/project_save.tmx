@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Queries must include in the MySQL syntax not only the table name but also the database which contains, for example, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the following code&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T211926Z" creationid="osvaldo" creationdate="20180829T211926Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Le query devono includere nella sintassi MySQL non solo il nome della tabella, ma anche il database che lo contiene, per esempio, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;il codice seguente&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Queries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;getting information on data in tables&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202603Z" creationid="osvaldo" creationdate="20180826T202336Z">
@@ -22723,6 +22731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T164842Z" creationid="Elisabetta Manuele" creationdate="20180412T164842Z">
         <seg>Invece di inserire nome utente e password in chiaro, viene richiamata la finestra di dialogo per la protezione tramite password:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of only the database input in Step 3 of the Wizard (see lower status bar), LibreOffice opens all databases that are available in MySQL to the user “robby”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T211726Z" creationid="osvaldo" creationdate="20180829T211726Z">
+        <seg>Invece del solo input del database nel Passaggio 3 della procedura guidata (vedere la barra di stato inferiore), LibreOffice apre tutti i database che sono disponibili in MySQL all'utente "robby".</seg>
       </tuv>
     </tu>
     <tu>
