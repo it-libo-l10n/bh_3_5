@@ -9998,6 +9998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog should pop up confirming that the connector is loaded and accessible using Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T101701Z" creationid="osvaldo" creationdate="20180829T101701Z">
+        <seg>A dialog should pop up confirming that the connector is loaded and accessible using Java.u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A different sort order to that in which the fields are displayed would only be confusing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143553Z" creationid="manuel" creationdate="20180508T143553Z">
