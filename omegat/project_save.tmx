@@ -19303,6 +19303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a direct connection was selected, this test will generate error messages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192255Z" creationid="osvaldo" creationdate="20180829T192255Z">
+        <seg>Se è stata selezionata una connessione diretta, questo test genererà messaggi di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a graphical control had been included, it would have been given a square field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T212005Z" creationid="Marco Marega" creationdate="20171210T212005Z">
