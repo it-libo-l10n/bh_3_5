@@ -10000,8 +10000,8 @@
       <tuv lang="EN">
         <seg>A dialog should pop up confirming that the connector is loaded and accessible using Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T101701Z" creationid="osvaldo" creationdate="20180829T101701Z">
-        <seg>A dialog should pop up confirming that the connector is loaded and accessible using Java.u</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T191844Z" creationid="osvaldo" creationdate="20180829T101701Z">
+        <seg>Dovrebbe apparire una finestra di dialogo che conferma che il connettore è caricato e accessibile usando Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33899,6 +33899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T104033Z" creationid="Elisabetta Manuele" creationdate="20180403T104033Z">
         <seg>Le informazioni più importanti, per quanto riguarda i dati, si trovano nel &lt;f0&gt;database&lt;/f0&gt; delle sottocartelle all'interno dei fil&lt;f1&gt;e&lt;/f1&gt; di &lt;f2&gt;dati&lt;/f2&gt; e &lt;f3&gt;script&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mysql-connector-java.jar file must either be in the same path as the version of Java in use in LibreOffice or directly linked in to LibreOffice.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T191942Z" creationid="osvaldo" creationdate="20180829T191942Z">
+        <seg>Il file mysql-connector-java.jar deve essere nello stesso percorso della versione di Java in uso in LibreOffice o direttamente collegata a LibreOffice.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
