@@ -13278,6 +13278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc or Excel spreadsheets can also be used as the table source for databases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214830Z" creationid="osvaldo" creationdate="20180829T214830Z">
+        <seg>Come sorgente della tabella per i database possono anche essere utilizzati fogli di calcolo Calc o Excel .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the arccosine of a number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180405T202418Z" creationid="Alessia Mazzarini" creationdate="20180405T202418Z">
