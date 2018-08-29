@@ -16647,6 +16647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a single database connection this does not make much sense, but it does give a visible indication of the direct connection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T211622Z" creationid="osvaldo" creationdate="20180829T211622Z">
+        <seg>Per una singola connessione al database questo non ha molto senso, ma dà un'indicazione visibile della connessione diretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all the other Titles, no subtitles exist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171216T174947Z" creationid="Manuel Frassinetti" creationdate="20171216T174947Z">
