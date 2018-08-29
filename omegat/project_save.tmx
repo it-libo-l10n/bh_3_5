@@ -12278,6 +12278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At this stage choose a name for the ODB database file and save it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193141Z" creationid="osvaldo" creationdate="20180829T193141Z">
+        <seg>A questo punto, occorre scegliere un nome per il file di database ODB e salvarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At times, however, they may become necessary for:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180315T201817Z" creationid="Marco Marega" creationdate="20180315T201817Z">
@@ -34091,6 +34099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180205T155845Z" creationid="steevie" creationdate="20180205T155845Z">
         <seg>Il nuovo valore dovrebbe essere quello che volete sia automaticamente creato per il successivo nuovo record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next picture is a view of the Base interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193326Z" creationid="osvaldo" creationdate="20180829T193326Z">
+        <seg>L'immagine seguente è una vista dell'interfaccia di base.</seg>
       </tuv>
     </tu>
     <tu>
