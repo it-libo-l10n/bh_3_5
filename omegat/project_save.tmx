@@ -4406,6 +4406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The dBase format is especially suitable for the exchange and extensive editing of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214031Z" creationid="osvaldo" creationdate="20180829T214031Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il formato dBase è particolarmente adatto per lo scambio e una vasta modifica dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The database is ta&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ken down and fre&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed from all accumulated waste &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;space&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155229Z" creationid="steevie" creationdate="20180205T154036Z">
@@ -21147,6 +21155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140015Z" creationid="Marco Marega" creationdate="20180203T140015Z">
         <seg>In aggiunta, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, spreadsheet calculations can directly access dBase tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214101Z" creationid="osvaldo" creationdate="20180829T214101Z">
+        <seg>Inoltre, i calcoli del foglio di calcolo possono accedere direttamente alle tabelle dBase.</seg>
       </tuv>
     </tu>
     <tu>
