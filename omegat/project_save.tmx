@@ -19247,6 +19247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If MySQL is not running at this time, an error message is shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192808Z" creationid="osvaldo" creationdate="20180829T192808Z">
+        <seg>Se MySQL non è in esecuzione in questo momento, viene visualizzato un messaggio di errore.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T131925Z" creationid="Marina Latini" creationdate="20171207T131925Z">
@@ -31023,6 +31031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Assistant ends the connection process with the storage of the ODB database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192951Z" creationid="osvaldo" creationdate="20180829T192951Z">
+        <seg>L'Assistente termina il processo di connessione con l'archiviazione del database ODB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Bibliography data source is included in LibreOffice by default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181637Z" creationid="Elisabetta Manuele" creationdate="20180306T181637Z">
@@ -31251,6 +31267,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191454Z" creationid="Elisabetta Manuele" creationdate="20180308T122836Z">
         <seg>A questo punto il campo per la stampa in serie verrà inserito nel documento di testo, come illustrato nella descrizione dettagliata resa visibile tramite il menu &lt;f1&gt;Visualizza &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Nomi di campo&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ODB database contains all the connection information needed to allow tables in the database to be accessed whenever the database is opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193025Z" creationid="osvaldo" creationdate="20180829T193025Z">
+        <seg>Il database ODB contiene tutte le informazioni di connessione necessarie per consentire l'accesso alle tabelle nel database ogni volta che viene aperto il database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32151,6 +32175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database can, if necessary, be registered at a later time to allow its use with Writer or Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192911Z" creationid="osvaldo" creationdate="20180829T192911Z">
+        <seg>Il database può, se necessario, essere registrato in un secondo momento per consentirne l'utilizzo con Writer o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database component of LibreOffice, called Base, provides a graphical interface for working with databases.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220815Z" creationid="osvaldo" creationdate="20180826T220815Z">
@@ -32747,6 +32779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T215715Z" creationid="Marco Marega" creationdate="20171216T215715Z">
         <seg>Il formulario definitivo dovrebbe apparire come nella figura &lt;f0&gt;sottostante.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The final step is registering the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192835Z" creationid="osvaldo" creationdate="20180829T192835Z">
+        <seg>Il passo finale è la registrazione del database.</seg>
       </tuv>
     </tu>
     <tu>
