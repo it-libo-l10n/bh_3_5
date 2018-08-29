@@ -12550,6 +12550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base uses the table data only for queries and mail merge applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T220128Z" creationid="osvaldo" creationdate="20180829T220128Z">
+        <seg>Base utilizza i dati della tabella solo per le query e le applicazioni di stampa guidata in serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base – a container for database content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161210Z" creationid="Marina Latini" creationdate="20171205T161210Z">
