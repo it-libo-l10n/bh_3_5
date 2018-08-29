@@ -24031,6 +24031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Links between the tables must be made in program code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212825Z" creationid="osvaldo" creationdate="20180829T212825Z">
+        <seg>I collegamenti tra le tabelle devono essere fatti nel codice del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List &lt;f0&gt;b&lt;/f0&gt;ox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171029T211226Z" creationid="Marco Marega" creationdate="20171029T211226Z">
@@ -27011,6 +27019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T142233Z" creationid="Marco Marega" creationdate="20180303T142233Z">
         <seg>Le espressioni regolari sono descritte in dettaglio nell'Aiuto di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relations are not supported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212845Z" creationid="osvaldo" creationdate="20180829T212845Z">
+        <seg>Le relazioni non sono supportate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32011,6 +32027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215453Z" creationid="Marco Marega" creationdate="20180126T215453Z">
         <seg>Il collegamento tra un autore e, ad esempio, i libri che quell'autore ha scritto è ovvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The connection is made to a specific folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212910Z" creationid="osvaldo" creationdate="20180829T212910Z">
+        <seg>La connessione viene effettuata in una cartella specifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41755,6 +41779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090829Z" creationid="Marina Latini" creationdate="20171003T090829Z">
         <seg>Database dBase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dBase databases have a format where all data is contained in separate, previously initialized tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212712Z" creationid="osvaldo" creationdate="20180829T212712Z">
+        <seg>I database dBase hanno un formato in cui tutti i dati sono contenuti in tabelle separate, precedentemente inizializzate.</seg>
       </tuv>
     </tu>
     <tu>
