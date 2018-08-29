@@ -15927,6 +15927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields with auto values may be created when setting up the structure of tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212456Z" creationid="osvaldo" creationdate="20180829T212456Z">
+        <seg>I campi con valori automatici possono essere creati quando si imposta la struttura delle tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;s0/&gt;&lt;seq1&gt;24&lt;/seq1&gt;: Available &lt;f2&gt;b&lt;/f2&gt;uttons on the Form Controls &lt;f3&gt;t&lt;/f3&gt;oolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171014T140521Z" creationid="Marco Marega" creationdate="20171014T140521Z">
@@ -20871,6 +20879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In MySQL the starting value of such fields defaults to 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212620Z" creationid="osvaldo" creationdate="20180829T212620Z">
+        <seg>In MySQL il valore iniziale di tali campi è impostato su 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In SQL this is expressed by the term &lt;f0&gt;NULL&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T150416Z" creationid="Marco Marega" creationdate="20180303T150416Z">
@@ -24499,6 +24515,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151016Z" creationid="Marco Marega" creationdate="20171229T215622Z">
         <seg>Maggiori informazioni su questo argomento &lt;f0&gt;si trovano &lt;/f0&gt;nel &lt;f1&gt;Capitolo 5,&lt;/f1&gt; &lt;f2&gt;Query&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More details are given in the chapter on Queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212353Z" creationid="osvaldo" creationdate="20180829T212353Z">
+        <seg>Maggiori dettagli sono forniti nel capitolo sulle Query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30211,6 +30235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210638Z" creationid="Marco Marega" creationdate="20180219T210638Z">
         <seg>Le tabelle create direttamente con SQL non vengono visualizzate immediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tables can be created and deleted in a database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212420Z" creationid="osvaldo" creationdate="20180829T212420Z">
+        <seg>Le tabelle possono essere create e cancellate in un database.</seg>
       </tuv>
     </tu>
     <tu>
