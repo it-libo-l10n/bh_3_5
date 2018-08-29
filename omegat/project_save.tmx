@@ -11150,6 +11150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DBF files in this folder will be included and shown in the ODB database and can be linked together using queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212943Z" creationid="osvaldo" creationdate="20180829T212943Z">
+        <seg>Tutti i file DBF in questa cartella saranno inclusi e mostrati nel database ODB e possono essere collegati tra loro tramite query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All case combinations are allowed for, since the content of the field in the query is converted to lower case.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T151855Z" creationid="Marco Marega" creationdate="20180404T123829Z">
