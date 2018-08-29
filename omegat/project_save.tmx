@@ -11086,6 +11086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again a connection test may be carried out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192216Z" creationid="osvaldo" creationdate="20180829T192216Z">
+        <seg>Anche in questo caso può essere effettuato un test di connessione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again the first record in the query is used for the preview.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180307T180435Z" creationid="Elisabetta Manuele" creationdate="20180307T180435Z">
@@ -32211,6 +32219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215802Z" creationid="osvaldo" creationdate="20180828T215802Z">
         <seg>Il nome del database deve essere conosciuto e inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database on the network should be protected with a user name and password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192116Z" creationid="osvaldo" creationdate="20180829T192116Z">
+        <seg>Il database sulla rete deve essere protetto con un nome utente e una password.</seg>
       </tuv>
     </tu>
     <tu>
