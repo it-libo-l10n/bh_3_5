@@ -4390,6 +4390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The connection test starts the authentication process using the user name previously input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192642Z" creationid="osvaldo" creationdate="20180829T192642Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il test di connessione avvia il processo di autenticazione utilizzando il nome utente precedentemente inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The database is ta&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ken down and fre&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ed from all accumulated waste &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;space&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T155229Z" creationid="steevie" creationdate="20180205T154036Z">
@@ -11018,6 +11026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T100957Z" creationid="Elisabetta Manuele" creationdate="20180502T100957Z">
         <seg>Dopodiché la query viene estesa con le condizioni aggiuntive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the correct password is input, a dialog announces the result of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; test.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192734Z" creationid="osvaldo" creationdate="20180829T192734Z">
+        <seg>Dopo aver inserito la password corretta, una finestra di dialogo annuncia il risultato &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40835,6 +40851,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T153806Z" creationid="Elisabetta Manuele" creationdate="20180429T173537Z">
         <seg>Senza macro, sarebbe necessario individuare i record &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;nella&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; tabella dei supporti (tramite un filtro) e modificarli singolarmente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without testing, Base will, at the end of the Assistant, open the database window and connection to MySQL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192600Z" creationid="osvaldo" creationdate="20180829T192600Z">
+        <seg>Senza ulteriori prove, Base alla fine della procedura guidata aprirà la finestra del database e la connessione a MySQL.</seg>
       </tuv>
     </tu>
     <tu>
