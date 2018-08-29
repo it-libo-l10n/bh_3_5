@@ -27129,8 +27129,8 @@
       <tuv lang="EN">
         <seg>Relationships between spreadsheets cannot be set up in Base, as Calc is not suitable for use as a relational database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215411Z" creationid="osvaldo" creationdate="20180829T215411Z">
-        <seg>.Le relazioni tra i fogli di calcolo non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215528Z" creationid="osvaldo" creationdate="20180829T215411Z">
+        <seg>Le relazioni tra i fogli di calcolo non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31239,6 +31239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Assistant will automatically seek a connection to an address book, for example as used in Thunderbird.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215606Z" creationid="osvaldo" creationdate="20180829T215606Z">
+        <seg>L'assistente cercherà automaticamente una connessione a una rubrica, ad esempio come utilizzata in Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Bibliography data source is included in LibreOffice by default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181637Z" creationid="Elisabetta Manuele" creationdate="20180306T181637Z">
@@ -31803,6 +31811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T142624Z" creationid="manuel" creationdate="20180508T142624Z">
         <seg>L'assegnazione di un alias per una tabella può essere eseguita più brevemente senza utilizzare il termine AS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The assistant will prompt for the location of the ODB file that will be produced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215636Z" creationid="osvaldo" creationdate="20180829T215636Z">
+        <seg>L'assistente richiederà la posizione del file ODB che verrà prodotto.</seg>
       </tuv>
     </tu>
     <tu>
