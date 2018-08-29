@@ -20007,6 +20007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Calc document is still open, it will be write protected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214935Z" creationid="osvaldo" creationdate="20180829T214935Z">
+        <seg>Se il documento Calc è ancora aperto, sarà protetto da scrittura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the MySQL server is on the same computer as LibreOffice, then the Server name can be set as localhost.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215836Z" creationid="osvaldo" creationdate="20180828T215836Z">
@@ -20795,6 +20803,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162048Z" creationid="steevie" creationdate="20180226T165405Z">
         <seg>Se, tuttavia, &lt;f0&gt; una subquery correlata (vedete pagina &lt;/f0&gt;&lt;s1/&gt;&lt;bf2&gt;145&lt;/bf2&gt;&lt;f3&gt;) è&lt;/f3&gt; usata, è necessario utilizzare un alias per la tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, however, a Calc spreadsheet is used, no editing of the table data will be possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214908Z" creationid="osvaldo" creationdate="20180829T214908Z">
+        <seg>Se, tuttavia, viene utilizzato un foglio elettronico di Calc, non sarà possibile modificare i dati della tabella.</seg>
       </tuv>
     </tu>
     <tu>
