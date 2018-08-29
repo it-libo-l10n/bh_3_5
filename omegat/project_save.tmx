@@ -35447,6 +35447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tables in the database are contained in the tree under the name of the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193411Z" creationid="osvaldo" creationdate="20180829T193411Z">
+        <seg>Le tabelle nel database sono contenute nell'albero sotto il nome del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tables that contain this information can be &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;accessed using "INFORMATION_SCHEMA"."SYSTEM_CROSSREFERENCE".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180429T180445Z" creationid="Elisabetta Manuele" creationdate="20180429T180445Z">
@@ -35715,6 +35723,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180327T171537Z" creationid="Alessia Mazzarini" creationdate="20180327T171458Z">
         <seg>L'impostazione Allineamento verticale non sembra avere effetto durante la fase di progettazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The view of the table tree can be closed by clicking on the database name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193439Z" creationid="osvaldo" creationdate="20180829T193439Z">
+        <seg>La vista dell'albero della tabella può essere chiusa facendo clic sul nome del database.</seg>
       </tuv>
     </tu>
     <tu>
