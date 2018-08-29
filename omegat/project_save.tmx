@@ -30279,6 +30279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tables in dBase have no primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213554Z" creationid="osvaldo" creationdate="20180829T213554Z">
+        <seg>Le tabelle in dBase non hanno chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tables in the table container are opened by double-clicking them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211731Z" creationid="Marco Marega" creationdate="20180301T211731Z">
