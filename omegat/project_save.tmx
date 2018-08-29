@@ -23103,6 +23103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also possible in every such case to specify an alias, made up from the database and table names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212308Z" creationid="osvaldo" creationdate="20180829T212308Z">
+        <seg>In ogni caso è anche possibile specificare un alias, composto dai nomi di database e tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is also possible to access a database with Base where the database is located on the website of an Internet Service Provider.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T220751Z" creationid="osvaldo" creationdate="20180828T220751Z">
