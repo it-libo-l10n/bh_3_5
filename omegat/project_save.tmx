@@ -4486,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The only questions to be answered are the location of the spreadsheet file and whether or not &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;it is password protected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215206Z" creationid="osvaldo" creationdate="20180829T215206Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Le uniche domande a cui rispondere sono la posizione del file del foglio di calcolo e se è o no &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;protetto da password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The query results for the first one lists the names of people whose run-time has been less than 40 minutes at least one time and the minimum run-time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152714Z" creationid="manuel" creationdate="20180507T060417Z">
