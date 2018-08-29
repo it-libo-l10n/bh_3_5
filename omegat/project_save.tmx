@@ -12526,6 +12526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base then opens the spreadsheet and includes all worksheets in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215248Z" creationid="osvaldo" creationdate="20180829T215248Z">
+        <seg>Base quindi apre il foglio di calcolo e include tutti i fogli di lavoro nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base – a container for database content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161210Z" creationid="Marina Latini" creationdate="20171205T161210Z">
@@ -27119,6 +27127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relationships between spreadsheets cannot be set up in Base, as Calc is not suitable for use as a relational database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215411Z" creationid="osvaldo" creationdate="20180829T215411Z">
+        <seg>.Le relazioni tra i fogli di calcolo non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Relationships between tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161641Z" creationid="Marina Latini" creationdate="20171205T161641Z">
@@ -33067,6 +33083,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143222Z" creationid="manuel" creationdate="20180508T143222Z">
         <seg>I nomi di battesimo appaiono non ordinati e, nel caso di nomi identici, è impossibile determinare quale persona è destinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first row is used for the field names and the worksheet names become the table names.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215335Z" creationid="osvaldo" creationdate="20180829T215335Z">
+        <seg>La prima riga viene utilizzata per i nomi dei campi e i nomi dei fogli di lavoro diventano i nomi delle tabelle.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
