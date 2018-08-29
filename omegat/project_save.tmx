@@ -22055,6 +22055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the following figure there are still some field types with the same type name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213830Z" creationid="osvaldo" creationdate="20180829T213830Z">
+        <seg>Nella figura seguente ci sono ancora alcuni tipi di campo con lo stesso tipo di nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the form control properties, on the line "Additional information" (tag), enter the name of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154617Z" creationid="Elisabetta Manuele" creationdate="20180412T154617Z">
@@ -30271,6 +30279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tables can be created and will then be copied as new files in the folder previously selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213644Z" creationid="osvaldo" creationdate="20180829T213644Z">
+        <seg>Le tabelle possono essere create e quindi copiate come nuovi file nella cartella precedentemente selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tables in &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;format (such as CSV) are not writable in internal databases that are set up purely in &lt;f5&gt;MEMORY&lt;/f5&gt;, while Base cannot access &lt;f6&gt;TEMPORARY&lt;/f6&gt; or &lt;f7&gt;TEMP&lt;/f7&gt; tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205902Z" creationid="Marco Marega" creationdate="20180219T205902Z">
@@ -34239,6 +34255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number of different field types for a new dBase table is clearly less than when the internal HSQLDB format is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213728Z" creationid="osvaldo" creationdate="20180829T213728Z">
+        <seg>Il numero di diversi tipi di campo per una nuova tabella dBase è chiaramente inferiore rispetto a quando viene utilizzato il formato HSQLDB interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The number of hits must be obtained in a different way.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200152Z" creationid="Marco Marega" creationdate="20180327T200152Z">
@@ -36651,6 +36675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T192347Z" creationid="Elisabetta Manuele" creationdate="20180308T193454Z">
         <seg>Possono continuare a lavorare al database anche mentre sviluppano altri formulari, senza la necessità di copiare complicati formulari esterni da un database a un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can in principle be described as corresponding to the worksheets in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213617Z" creationid="osvaldo" creationdate="20180829T213617Z">
+        <seg>In linea di principio, possono essere descritti come corrispondenti ai fogli di lavoro in Calc.</seg>
       </tuv>
     </tu>
     <tu>
