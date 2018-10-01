@@ -16975,6 +16975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if a series of records are sorted by name, records with the same name are not sorted randomly but according to their primary key, which is of course unique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T204042Z" creationid="Andrea" creationdate="20181001T204042Z">
+        <seg>Per esempio, se una serie di record sono ordinati per nome, i record con lo stesso nome non sono ordinati in modo casuale ma secondo la loro chiave primaria che naturalmente e' univoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if a value is changed from 3 to 4, all records from the &lt;f1&gt;Address &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt; that contain the foreign key &lt;f4&gt;Address.Street_ID&lt;/f4&gt; with the value 3, have it changed to 4.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221310Z" creationid="Marco Marega" creationdate="20180228T220816Z">
@@ -22807,6 +22815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way too, numbering can lead to a sorting of records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T204159Z" creationid="Andrea" creationdate="20181001T204159Z">
+        <seg>Anche in questo modo e' possibile ottenere un ordinamento di record per mezzo della numerazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way you can work on all the fields, one after another, without having to save in between.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171213T214628Z" creationid="Marco Marega" creationdate="20171213T214628Z">
@@ -22851,6 +22867,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T060212Z" creationid="manuel" creationdate="20180507T060212Z">
         <seg>Nel&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; secondo esempio, la condizione di ricerca richiede che il saldo di un individuo sia positivo.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incidentally, this sorting by line number can serve whatever purpose the users of the database want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T203843Z" creationid="Andrea" creationdate="20181001T203843Z">
+        <seg>Tra l'altro questo ordinamento secondo il numero di riga puo' servire all'utente del database per qualsiasi scopo.</seg>
       </tuv>
     </tu>
     <tu>
