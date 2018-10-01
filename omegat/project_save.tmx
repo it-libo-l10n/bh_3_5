@@ -17311,6 +17311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the same time (&lt;f0&gt;"Time" = "a"."Time"&lt;/f0&gt;) at least 1 is added, if there is a further person with the primary key ID, whose primary key is smaller than the primary key in the current record (&lt;f1&gt;"ID" &lt; "a"."ID"&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T203240Z" creationid="Andrea" creationdate="20181001T203240Z">
+        <seg>Per lo stesso tempo (&lt;f0&gt;"Time" = "a"."Time"&lt;/f0&gt;) viene sommato almeno 1 se esiste un'altra persona con ID come chiave primaria la cui chiave primaria sia minore della chiave primaria del record corrente (&lt;f1&gt;"ID" &lt; "a"."ID"&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For these field type descriptions, see the Appendix to this handbook.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224123Z" creationid="Marco Marega" creationdate="20180224T224123Z">
