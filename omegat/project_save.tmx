@@ -20111,6 +20111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If so, the place order is converted directly into a line number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202831Z" creationid="Andrea" creationdate="20181001T202831Z">
+        <seg>In questo caso il piazzamento viene convertito direttamente in un numero di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If so, you need to export them into another table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223551Z" creationid="Marco Marega" creationdate="20180112T223551Z">
@@ -26387,6 +26395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102219Z" creationid="manuel" creationdate="20180302T102219Z">
         <seg>Altrimenti EVERY restituisce FALSO perché almeno uno studente della classe non può nuotare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise a further value is added to the place order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202938Z" creationid="Andrea" creationdate="20181001T202938Z">
+        <seg>In caso contrario viene aggiunto un valore ulteriore al piazzamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35423,6 +35439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second column still gives the place order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202617Z" creationid="Andrea" creationdate="20181001T202617Z">
+        <seg>Nella seconda colonna contibua ad esserci il piazzamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second column transfers its content to the underlying table of the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200856Z" creationid="Marco Marega" creationdate="20180327T200856Z">
@@ -36003,6 +36027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T184157Z" creationid="Elisabetta Manuele" creationdate="20180306T184157Z">
         <seg>Potete anche assegnare uno stile di paragrafo al testo ottenuto con questo procedimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The third column checks first if only one person crossed the line with this time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202727Z" creationid="Andrea" creationdate="20181001T202727Z">
+        <seg>Nella terza colonna si controlla in primo luogo se una sola persona ha ottenuto il tempo corrente.</seg>
       </tuv>
     </tu>
     <tu>
