@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>("Calculation").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195958Z" creationid="Andrea" creationdate="20181001T195958Z">
+        <seg>("Calcolo").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;f1&gt;A&lt;/f1&gt;fter all, the listbox is constructed from the table content.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T223150Z" creationid="MicrosoftSucks" creationdate="20180316T223150Z">
@@ -10254,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A numbering for a corresponding grouping is also possible:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195844Z" creationid="Andrea" creationdate="20181001T195844Z">
+        <seg>E' possibile anche la numerazione per un raggruppamento corrispondente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A partial simplification for this &lt;/f6&gt;&lt;f7&gt;subroutine&lt;/f7&gt;&lt;f8&gt; is that all primary keys in this database carry the name ID.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T151927Z" creationid="Marco Marega" creationdate="20180414T151927Z">
@@ -16855,6 +16871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example the record contains field1, field2, and field3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195643Z" creationid="Andrea" creationdate="20181001T195643Z">
+        <seg>Per esempio se il record contenesse field1, field2 e field3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, 196 becomes 'Ä' ('Ä' has the hexadecimal value 00C4, which is 196 in decimals without leading zeros).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180406T202130Z" creationid="Alessia Mazzarini" creationdate="20180406T202130Z">
@@ -18227,6 +18251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180525T163032Z" creationid="Manuel Frassinetti" creationdate="20171129T115018Z">
         <seg>Qui un clic vi consente di aggiungere tutti i campi dalla tabella sottostante alla query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here one table contains different calculated numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195942Z" creationid="Andrea" creationdate="20181001T195942Z">
+        <seg>In questo caso una tabella contiene numeri ottenuti con calcoli differenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28183,6 +28215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "&lt;f0&gt;field1", "field2", "field3",&lt;/f0&gt; ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195716Z" creationid="Andrea" creationdate="20181001T195716Z">
+        <seg>SELECT "ID", "&lt;f0&gt;field1", "field2", "field3",&lt;/f0&gt; ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Amount", ( SELECT SUM( "Amount" ) FROM "Cash" WHERE "ID" &lt;= "a"."ID" ) AS "Balance" FROM "Cash" AS "a" ORDER BY "ID" ASC</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T151620Z" creationid="MicrosoftSucks" creationdate="20180501T150440Z">
@@ -28267,6 +28307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T180421Z" creationid="Andrea" creationdate="20181001T180421Z">
         <seg>SELECT "ID", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "ID",&lt;f0&gt; "Calculation", &lt;/f0&gt;( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" AND "Calculation" = "a"."Calculation" ) AS "Nr." FROM "Table" AS "a"&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ORDER BY "ID" ASC, "Nr." ASC&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195856Z" creationid="Andrea" creationdate="20181001T195856Z">
+        <seg>SELECT "ID",&lt;f0&gt; "Calculation", &lt;/f0&gt;( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" AND "Calculation" = "a"."Calculation" ) AS "Nr." FROM "Table" AS "a"&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ORDER BY "ID" ASC, "Nr." ASC&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32179,6 +32227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151047Z" creationid="Elisabetta Manuele" creationdate="20180412T151047Z">
         <seg>Le righe di commento riportano l'elenco dei parametri necessari per la &lt;f0&gt;subroutine&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The complete query would be:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195714Z" creationid="Andrea" creationdate="20181001T195714Z">
+        <seg>La query completa sarebbe:</seg>
       </tuv>
     </tu>
     <tu>
