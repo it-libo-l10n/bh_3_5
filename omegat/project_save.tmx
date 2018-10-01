@@ -7022,6 +7022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Each record to which you want to apply this query contains fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T181123Z" creationid="Andrea" creationdate="20181001T181123Z">
+        <seg>&lt;f0&gt;Tutti i record a cui volete applicare questa interrogazione contengono campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Empty string is NULL&lt;/f0&gt;: Whether an empty string should be treated as (NULL) or the content simply deleted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171017T194326Z" creationid="Marco Marega" creationdate="20171017T194326Z">
@@ -39183,6 +39191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply this query to the records, you must first add these fields to the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T181315Z" creationid="Andrea" creationdate="20181001T181315Z">
+        <seg>Per eseguire questa query ad un insieme di record, dovete prima aggiungere questi campi alla query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To be &lt;/f0&gt;able to use JDBC, it is necessary to install mysql-connector-java.jar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204036Z" creationid="osvaldo" creationdate="20180827T204036Z">
@@ -41475,6 +41491,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180320T180953Z" creationid="Alessia Mazzarini" creationdate="20180320T180953Z">
         <seg>Potete spostare un gruppo in alto o in basso nella lista o rimuoverlo completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can place them in whatever order you desire in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; clause.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T181320Z" creationid="Andrea" creationdate="20181001T181320Z">
+        <seg>You can place them in whatever order you desire in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; clause.</seg>
       </tuv>
     </tu>
     <tu>
