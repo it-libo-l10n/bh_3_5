@@ -37263,6 +37263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can actually be useful if, for example, the place order in a competition is to be depicted, since identical results will then lead to a joint position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T201037Z" creationid="Andrea" creationdate="20181001T201037Z">
+        <seg>Questa possibilita' peraltro potrebbe essere utile per esempio nel caso di piazzamenti in una gara, dove risultati identici potrebbero dare luogo a risultati ex-aequo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can also be specified using the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;IN&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; condition.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T103249Z" creationid="manuel" creationdate="20180507T103249Z">
