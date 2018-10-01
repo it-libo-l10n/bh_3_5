@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" = "a"."Time" ) = 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202533Z" creationid="Andrea" creationdate="20181001T202533Z">
+        <seg>( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" = "a"."Time" ) = 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table" WHERE "ID" IN</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200205Z" creationid="Marco Marega" creationdate="20180327T200205Z">
@@ -10710,6 +10718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AS "LineNumber" FROM "Table" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202539Z" creationid="Andrea" creationdate="20181001T202539Z">
+        <seg>AS "LineNumber" FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII(s)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T180704Z" creationid="Elisabetta Manuele" creationdate="20180402T180704Z">
@@ -13166,6 +13182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CASE WHEN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202531Z" creationid="Andrea" creationdate="20181001T202531Z">
+        <seg>CASE WHEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CASE WHEN expr1 THEN v1[WHEN expr2 THEN v2] [ELSE v4] END</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T101111Z" creationid="Elisabetta Manuele" creationdate="20180403T101111Z">
@@ -15338,6 +15362,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T202452Z" creationid="Marco Marega" creationdate="20180327T202452Z">
         <seg>ELSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ELSE (SELECT ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" ) + COUNT( "ID" ) FROM "Table" WHERE "Time" = "a"."Time" "ID" &lt; "a"."ID"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202535Z" creationid="Andrea" creationdate="20181001T202535Z">
+        <seg>ELSE (SELECT ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" ) + COUNT( "ID" ) FROM "Table" WHERE "Time" = "a"."Time" "ID" &lt; "a"."ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>END</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202536Z" creationid="Andrea" creationdate="20181001T202536Z">
+        <seg>END</seg>
       </tuv>
     </tu>
     <tu>
@@ -23799,6 +23839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It would be more problematic, if line numbers were required as well as a place order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202405Z" creationid="Andrea" creationdate="20181001T202223Z">
+        <seg>Sarebbe piu' complicato se oltre al piazzamento fosse richiesta anche la numerazione delle righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It would be nice if selecting a reader in one part of the form caused the media on loan to this reader to be displayed in another.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T215602Z" creationid="Marco Marega" creationdate="20171215T205147Z">
@@ -26551,6 +26599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202250Z" creationid="Andrea" creationdate="20181001T202223Z">
+        <seg>Cifre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please direct any comments or suggestions about this document to:&lt;f0&gt; &lt;/f0&gt;&lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085541Z" creationid="Marina Latini" creationdate="20171003T085541Z">
@@ -28363,6 +28419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T201342Z" creationid="Andrea" creationdate="20181001T201342Z">
         <seg>SELECT "ID", ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" ) AS "Place" FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "ID", ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" ) AS "Place",</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202529Z" creationid="Andrea" creationdate="20181001T202529Z">
+        <seg>SELECT "ID", ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" ) AS "Place",</seg>
       </tuv>
     </tu>
     <tu>
@@ -30383,6 +30447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>THEN ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202534Z" creationid="Andrea" creationdate="20181001T202534Z">
+        <seg>THEN ( SELECT COUNT( "ID" ) + 1 FROM "Table" WHERE "Time" &lt; "a"."Time" )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TIME</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102706Z" creationid="Elisabetta Manuele" creationdate="20180402T102706Z">
@@ -30883,6 +30955,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T214007Z" creationid="MicrosoftSucks" creationdate="20180218T214007Z">
         <seg>Questo significa che i campi senza voce titolo non verranno mai visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That might be useful if several records needed to be combined in one line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202526Z" creationid="Andrea" creationdate="20181001T202236Z">
+        <seg>Questa possibilita' sarebbe utile se fosse necessario combinare diversi record in una singola riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38507,6 +38587,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T185131Z" creationid="Elisabetta Manuele" creationdate="20180306T185131Z">
         <seg>Questo chiarisce quale campo è stato creato con il procedimento &lt;f4&gt;Inserisci dati come campi&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes possible place orders such as 1st Place, 2nd Place, 2nd Place, 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202142Z" creationid="Andrea" creationdate="20181001T202142Z">
+        <seg>In questo modo e' possibile avere classifiche del tipo 1° posto, 2° posto, 2° posto, 4° posto.</seg>
       </tuv>
     </tu>
     <tu>
