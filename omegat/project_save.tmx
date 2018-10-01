@@ -20463,6 +20463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the time is identical with that of another athlete, they are placed jointly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T201959Z" creationid="Andrea" creationdate="20181001T201959Z">
+        <seg>Se il tempo e' identico a quello di un altro atleta vengono considerati ex-aequo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the user's entry does not match the mask, the entry is rejected on leaving the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194154Z" creationid="Marco Marega" creationdate="20171125T194154Z">
@@ -30743,6 +30751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That covers all athletes who reached the winning post before the current athlete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T201729Z" creationid="Andrea" creationdate="20181001T201729Z">
+        <seg>In questo modo vengono presi in considerazione tutti gli atleti con posizioni inferiori a quella dell'atleta corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That creates a disturbing effect on the screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171205T225224Z" creationid="Marco Marega" creationdate="20171205T225224Z">
@@ -37599,6 +37615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This determines the place of the current athlete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T201854Z" creationid="Andrea" creationdate="20181001T201854Z">
+        <seg>In questo modo viene determinato il piazzamento dell'atleta corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This determines what characters can be entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T193727Z" creationid="Marco Marega" creationdate="20171125T193727Z">
@@ -39699,6 +39723,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182308Z" creationid="Elisabetta Manuele" creationdate="20180306T182308Z">
         <seg>Sulla destra della struttura ad albero dei nomi è visibile la tabella selezionata e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To this value is added the number 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T201800Z" creationid="Andrea" creationdate="20181001T201800Z">
+        <seg>A questo valore viene sommato il numero 1.</seg>
       </tuv>
     </tu>
     <tu>
