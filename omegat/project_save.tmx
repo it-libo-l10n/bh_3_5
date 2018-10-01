@@ -16847,6 +16847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For each calculated number, &lt;f0&gt;"Nr."&lt;/f0&gt; is separately expressed in ascending order after sorting on the ID field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T200206Z" creationid="Andrea" creationdate="20181001T200206Z">
+        <seg>Per ogni numero calcolato, &lt;f0&gt;"Nr."&lt;/f0&gt; e' espresso individualmente in ordine ascendente dopo l'ordinamento secondo il campo ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each media item to be recalled, the recall date and recall notice number is entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211937Z" creationid="osvaldo" creationdate="20180826T211937Z">
@@ -38587,6 +38595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T211249Z" creationid="Marco Marega" creationdate="20171216T211249Z">
         <seg>Questo previene la visualizzazione dei supporti che sono già stati restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This produces a numbering from 1 upwards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T200300Z" creationid="Andrea" creationdate="20181001T200300Z">
+        <seg>In questo modo viene generata una numerazione crescente a partire da 1.</seg>
       </tuv>
     </tu>
     <tu>
