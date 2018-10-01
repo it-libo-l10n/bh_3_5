@@ -11966,6 +11966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a simple example here once more is the first numbering query with one extra field:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T204650Z" creationid="Andrea" creationdate="20181001T204650Z">
+        <seg>Come semplice esempio ecco ancora la prima query di numerazione con un campo extra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an additional overview, the medium name is included in the query together with the Media_ID.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205236Z" creationid="osvaldo" creationdate="20180826T205236Z">
@@ -19583,6 +19591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a line-numbering query is created as a view, a further query can be applied to it without creating any problem.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T204527Z" creationid="Andrea" creationdate="20181001T204527Z">
+        <seg>Se una query per la numerazione delle righe viene creata sotto forma di vista, ad essa si puo' applicare una query ulteriore senza nessun problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a listbox is not NULL, it is taken into account by the filtering.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T205705Z" creationid="Marco Marega" creationdate="20180326T205705Z">
@@ -24299,6 +24315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T163718Z" creationid="Marina Latini" creationdate="20171206T163718Z">
         <seg>Numerazione delle righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line numbering is also a good prelude to the combining of individual records into a single record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T204316Z" creationid="Andrea" creationdate="20181001T204316Z">
+        <seg>La numerazione delle righe e' anche un ottimo preludio alla combinazione di diversi record in un record unico.</seg>
       </tuv>
     </tu>
     <tu>
