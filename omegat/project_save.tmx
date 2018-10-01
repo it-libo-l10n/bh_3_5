@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;If you have the records in a form, you need to modify the form so that the data for the form comes from this query.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195532Z" creationid="Andrea" creationdate="20181001T195532Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Se i campi sono all'interno di un formulario dovete modificarlo in modo che i dati per il formulario provengano da questa query.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Basically they calculate over all values covered by the query, whereas &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;DISTINCT&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; excludes records with the same values from the display.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T152230Z" creationid="manuel" creationdate="20180302T103240Z">
@@ -41497,8 +41505,8 @@
       <tuv lang="EN">
         <seg>You can place them in whatever order you desire in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; clause.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T181320Z" creationid="Andrea" creationdate="20181001T181320Z">
-        <seg>You can place them in whatever order you desire in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; clause.</seg>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195332Z" creationid="Andrea" creationdate="20181001T181320Z">
+        <seg>Possono essere inseriti in qualsiasi ordine all'interno della clausola &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
