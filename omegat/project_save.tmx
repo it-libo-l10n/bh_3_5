@@ -17647,6 +17647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From this a running line number is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T181013Z" creationid="Andrea" creationdate="20181001T181013Z">
+        <seg>Da questa operazione viene creato un numero di linea attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From this arises a 1:1 relationship between the reader and the individual school class assignment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151336Z" creationid="Marco Marega" creationdate="20180127T151336Z">
@@ -31403,6 +31411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180502T092428Z" creationid="Elisabetta Manuele" creationdate="20180502T092428Z">
         <seg>Il &lt;s0/&gt;valore ID della seconda casella di riepilogo è memorizzato nella variabile inLB2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ID field is read, and the second field is determined by a correlating sub-query, which seeks to determine how many field values in ID are smaller than or equal to the current field value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T180851Z" creationid="Andrea" creationdate="20181001T180851Z">
+        <seg>Il campo ID viene letto ed il secondo campo viene determinato per mezzo di una sottointerrogazione correlata, che cerca di determinare quanti valori nel campo ID sono minori o uguali al valore corrente del campo.</seg>
       </tuv>
     </tu>
     <tu>
