@@ -19687,6 +19687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a second person with the same time does exist, the ID determines which person has the lesser line number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T203647Z" creationid="Andrea" creationdate="20181001T203647Z">
+        <seg>Se una persona con lo stesso tempo esiste, l'ID determina quale persona ha il numero di riga minore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a second table field does not exist there can be only one table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T152810Z" creationid="Marco Marega" creationdate="20180414T152810Z">
@@ -38899,6 +38907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162355Z" creationid="manuel" creationdate="20180511T091206Z">
         <seg>Questa query mostra solo i media in prestito al lettore con il numero 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query therefore yields identical values for the place order so long as no second person with the same time exists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T203505Z" creationid="Andrea" creationdate="20181001T203505Z">
+        <seg>Questa query dunque genera valori identici per il piazzamento fino a che non esista una seconda persona con lo stesso tempo.</seg>
       </tuv>
     </tu>
     <tu>
