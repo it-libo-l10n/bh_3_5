@@ -17295,6 +17295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose the sort field must have a unique value in all records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T200637Z" creationid="Andrea" creationdate="20181001T200637Z">
+        <seg>Per questa ragione il campo per l'ordinamento deve avere un valore diverso in ogni record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose we need an additional setting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172206Z" creationid="Elisabetta Manuele" creationdate="20180403T172206Z">
@@ -20123,6 +20131,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215836Z" creationid="osvaldo" creationdate="20180828T215836Z">
         <seg>Se il server MySQL si trova sullo stesso computer di LibreOffice, il nome del server può essere impostato come localhost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the actual sort order within the query is to agree with the line numbers, an appropriate type of sorting must be mapped out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T200451Z" creationid="Andrea" creationdate="20181001T200451Z">
+        <seg>Se l'ordinamento effettivo deve concordare con la numerazione delle righe, e' necessario mappare il tipo di ordinamento appropriato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26339,6 +26355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180409T174252Z" creationid="Alessia Mazzarini" creationdate="20180409T174252Z">
         <seg>In caso contrario, l'intestazione del gruppo conterrà solo il valore corrispondente del primo campo del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise two place numbers will have the same value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T200757Z" creationid="Andrea" creationdate="20181001T200757Z">
+        <seg>Altrimenti esisterebbero due numeri ordinali con lo stesso valore.</seg>
       </tuv>
     </tu>
     <tu>
