@@ -28239,6 +28239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T180421Z" creationid="Andrea" creationdate="20181001T180421Z">
+        <seg>SELECT "ID", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Loan"."Reader_ID", '3rd Overdue – the reader is blacklisted' AS "Lock"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180521T151523Z" creationid="manuel" creationdate="20180521T151523Z">
