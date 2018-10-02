@@ -28463,6 +28463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Name", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T103550Z" creationid="Andrea" creationdate="20181002T103550Z">
+        <seg>SELECT "ID", "Name", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Number", "Price" FROM "Stock", "Dispatch" WHERE "Dispatch"."stockID" = "Stock"."ID"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20171204T175914Z" creationid="Manuel Frassinetti" creationdate="20171204T175914Z">
@@ -38931,6 +38939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180525T172406Z" creationid="Manuel Frassinetti" creationdate="20171206T180748Z">
         <seg>Questa query cerca i record di dati che  &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;non&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; contengono una data di rientro.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; Questo campo fornisce un criterio per la query ma nessun dato utile visibile.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This query is turned into the view '&lt;f0&gt;View1'&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T103624Z" creationid="Andrea" creationdate="20181002T103624Z">
+        <seg>Questa query viene trasformata nella vista '&lt;f0&gt;View1'&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
