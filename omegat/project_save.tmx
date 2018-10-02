@@ -21231,6 +21231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a few cases such a limit is clearly understandable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105353Z" creationid="Andrea" creationdate="20181002T105353Z">
+        <seg>In alcuni casi un limite del genere e' chiaramente comprensibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a query with parameters, the parameter must be the same in both query statements if it is to be recogni&lt;f0&gt;z&lt;/f0&gt;ed as a parameter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162827Z" creationid="manuel" creationdate="20180521T150252Z">
@@ -25227,6 +25235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T204931Z" creationid="Marco Marega" creationdate="20171026T204931Z">
         <seg>Non viene utilizzato come filtro proposto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No further names will appear even if the value of &lt;f0&gt;"Nr."&lt;/f0&gt; is greater than 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105316Z" creationid="Andrea" creationdate="20181002T105316Z">
+        <seg>Non compariranno altri nomi anche se il valore di &lt;f0&gt;"Nr."&lt;/f0&gt; dovesse essere maggiore di 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35279,6 +35295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query in the above example limits the parallel records that are to be converted into fields to 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105133Z" creationid="Andrea" creationdate="20181002T105133Z">
+        <seg>La query dell'esempio precedente limita a 3 il numero di record paralleli che devono essere convertiti in campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query is suitable for data entry since the primary key is included in the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T161922Z" creationid="manuel" creationdate="20180508T163223Z">
@@ -38659,6 +38683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T214214Z" creationid="osvaldo" creationdate="20180824T214214Z">
         <seg>Questa chiave è un numero che fa riferimento al lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This limit was chosen deliberately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105216Z" creationid="Andrea" creationdate="20181002T105216Z">
+        <seg>Questo limite e' stato scelto deliberatamente.</seg>
       </tuv>
     </tu>
     <tu>
