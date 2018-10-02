@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;Also the earliest &lt;s4/&gt;&lt;/f3&gt;&lt;t5/&gt;&lt;f6&gt;date &lt;/f6&gt;&lt;f7&gt;will always create an “Nr.” = 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T110051Z" creationid="Andrea" creationdate="20181002T110051Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;Inoltre la data &lt;s4/&gt;&lt;/f3&gt;&lt;t5/&gt;&lt;f6&gt;iniziale &lt;/f6&gt;&lt;f7&gt;creera' sempre “Nr.” = 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;When every person in a swimming class can swim, EVERY returns TRUE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180302T102128Z" creationid="manuel" creationdate="20180302T102128Z">
@@ -8954,6 +8962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180323T192122Z" creationid="Alessia Mazzarini" creationdate="20180323T191257Z">
         <seg>&lt;f0&gt;Queste righe hanno l'ulteriore svantaggio di venire rappresentate solo come righe sottilissime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This does require that the table contains a date field &lt;/f0&gt;&lt;f1&gt;with continuous dates&lt;/f1&gt;&lt;f2&gt; and a field for the events.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105946Z" creationid="Andrea" creationdate="20181002T105946Z">
+        <seg>&lt;f0&gt;Per ottenere questo e' necessario che la tabella contenga un campo di tipo data &lt;/f0&gt;&lt;f1&gt;con date continue&lt;/f1&gt;&lt;f2&gt; e un campo per gli eventi.</seg>
       </tuv>
     </tu>
     <tu>
