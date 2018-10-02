@@ -22807,6 +22807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way several records can be converted into adjacent fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104039Z" creationid="Andrea" creationdate="20181002T104039Z">
+        <seg>In questo modo diversi record possono essere convertiti in campi adiacenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way the Readers table is provided with the corresponding foreign key from the Gender table by using the option button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171126T211745Z" creationid="Marco Marega" creationdate="20171126T211745Z">
@@ -28555,6 +28563,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180524T055711Z" creationid="manuel" creationdate="20180524T055711Z">
         <seg>SELECT "Media"."Titolo", "Sottotitolo"."Sottotitolo", "Autore"."Autore"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Name" AS "Name_1", ( SELECT "Name" FROM "View1" WHERE "Nr." = 2 ) AS "Name_2", ( SELECT "Name" FROM "View1" WHERE "Nr." = 3 ) AS "Name_3" FROM "View1" &lt;s0/&gt;WHERE "Nr." = 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T103946Z" creationid="Andrea" creationdate="20181002T103946Z">
+        <seg>SELECT "Name" AS "Name_1", ( SELECT "Name" FROM "View1" WHERE "Nr." = 2 ) AS "Name_2", ( SELECT "Name" FROM "View1" WHERE "Nr." = 3 ) AS "Name_3" FROM "View1" &lt;s0/&gt;WHERE "Nr." = 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -35167,6 +35183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query can be used, for example, to put the first three names together in one line:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104217Z" creationid="Andrea" creationdate="20181002T103942Z">
+        <seg>La query puo' essere usata, per esempio, per raggruppare i primi tre cognomi in un'unica riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The query can now be enlarged to filter two fields:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180316T190731Z" creationid="MicrosoftSucks" creationdate="20180316T190731Z">
@@ -38835,6 +38859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T143947Z" creationid="manuel" creationdate="20180508T143947Z">
         <seg>Questo ora porta a una classificazione che corrisponde meglio alla normale abitudine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This numbering simply runs from the first to the last record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104153Z" creationid="Andrea" creationdate="20181002T104153Z">
+        <seg>Questa numerazione copre semplicemente i record dal primo all'ultimo.</seg>
       </tuv>
     </tu>
     <tu>
