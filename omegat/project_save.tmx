@@ -19783,6 +19783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If all these individuals are to be assigned the same surname, this can be carried out as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104455Z" creationid="Andrea" creationdate="20181002T104310Z">
+        <seg>Se a tutti questi individui deve essere assegnato lo stesso cognome si procede come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an index is created for one field only, the uniqueness applies to that field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141218Z" creationid="Marco Marega" creationdate="20180218T141218Z">
@@ -25455,6 +25463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now that the view has been created, the family can be assembled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104438Z" creationid="Andrea" creationdate="20181002T104438Z">
+        <seg>Ora che la vista e' stata creata, la famiglia puo' essere riunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now the &lt;f0&gt;content.xml&lt;/f0&gt; file must be extracted from the &lt;s1/&gt;*.odb archive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T165347Z" creationid="Elisabetta Manuele" creationdate="20180403T165347Z">
@@ -28471,6 +28487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "ID", "Name", "Surname", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" AND "Surname" = "a"."Surname") AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104313Z" creationid="Andrea" creationdate="20181002T104313Z">
+        <seg>SELECT "ID", "Name", "Surname", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" AND "Surname" = "a"."Surname") AS "Nr." FROM "Table" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "ID", "Name", ( SELECT COUNT( "ID" ) FROM "Table" WHERE "ID" &lt;= "a"."ID" ) AS "Nr." FROM "Table" AS "a"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T103550Z" creationid="Andrea" creationdate="20181002T103550Z">
@@ -28635,6 +28659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180216T162039Z" creationid="steevie" creationdate="20180216T162039Z">
         <seg>SELECT "Surname", "Firstname" FROM "Author" WHERE "ID" NOT IN (SELECT "Author_ID“ FROM "rel_Media_Author")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Surname", "Name" AS "Name_1", ( SELECT "Name" FROM "View1" WHERE "Nr." = 2 &lt;s0/&gt;AND "Surname" = "a"."Surname") AS "Name_2", ( SELECT "Name" FROM "View1" WHERE "Nr." = 3 &lt;s1/&gt;AND "Surname" = "a"."Surname") AS "Name_3" FROM "View1" AS "a" WHERE "Nr." = 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104517Z" creationid="Andrea" creationdate="20181002T104517Z">
+        <seg>SELECT "Surname", "Name" AS "Name_1", ( SELECT "Name" FROM "View1" WHERE "Nr." = 2 &lt;s0/&gt;AND "Surname" = "a"."Surname") AS "Name_2", ( SELECT "Name" FROM "View1" WHERE "Nr." = 3 &lt;s1/&gt;AND "Surname" = "a"."Surname") AS "Name_3" FROM "View1" AS "a" WHERE "Nr." = 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -35185,8 +35217,8 @@
       <tuv lang="EN">
         <seg>The query can be used, for example, to put the first three names together in one line:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104217Z" creationid="Andrea" creationdate="20181002T103942Z">
-        <seg>La query puo' essere usata, per esempio, per raggruppare i primi tre cognomi in un'unica riga:</seg>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104509Z" creationid="Andrea" creationdate="20181002T103942Z">
+        <seg>La query puo' essere usata, per esempio, per raggruppare i primi tre nomi in un'unica riga:</seg>
       </tuv>
     </tu>
     <tu>
