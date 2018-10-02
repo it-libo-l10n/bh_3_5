@@ -30127,6 +30127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, it is possible to store first names and surnames in one table, then to present the data in such a way that one field shows the surnames as family names while a second field contains all the relevant first names sequentially, separated by commas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112239Z" creationid="Andrea" creationdate="20181002T112239Z">
+        <seg>Per esempio e' possibile memorizzare nomi e cognomi in un'unica tabella e poi rappresentare i dati in modo che un primo campo mostri i cognomi mentre un secondo campo mostri in sequenza tutti i nomi separati da virgole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, it would seem more sensible to place the subforms &lt;f2&gt;Subtitle&lt;/f2&gt; and &lt;f3&gt;Author&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; as branches of &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;MainForm&lt;/f7&gt;&lt;/f6&gt; right at the beginning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171231T145416Z" creationid="Marco Marega" creationdate="20171231T145416Z">
@@ -38131,6 +38139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180411T185637Z" creationid="Alessia Mazzarini" creationdate="20180328T150620Z">
         <seg>Questo esempio n&lt;f1&gt;o&lt;/f1&gt;n è stato tradotto, poiché il rapporto non fa parte del database degli esempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This example is similar in many ways to line numbering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112333Z" creationid="Andrea" creationdate="20181002T112333Z">
+        <seg>Questo esempio e' simile sotto molti aspetti alla numerazione delle righe.</seg>
       </tuv>
     </tu>
     <tu>
