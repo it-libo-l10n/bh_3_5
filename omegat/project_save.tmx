@@ -9158,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using sub-queries, the first names of the group members are searched for one after another and combined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123252Z" creationid="Andrea" creationdate="20181002T123252Z">
+        <seg>&lt;f0&gt;Utilizzanto delle sottoqueries, i nomi dei membri del gruppo vengono ricercati uno dopo l'altro e combinati tra loro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Sorting and Grouping&lt;/f3&gt; or the corresponding button starts the grouping function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180316T181956Z" creationid="Alessia Mazzarini" creationdate="20180316T181817Z">
@@ -17859,6 +17867,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150757Z" creationid="Marco Marega" creationdate="20180127T150757Z">
         <seg>Dai record della classe, se necessario potete trovare gli indirizzi di coloro che hanno preso dei supporti in prestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the second sub-query onward you must ensure that &lt;/f0&gt;&lt;f1&gt;'NULL'&lt;/f1&gt;&lt;f2&gt; values do not set the whole combination to &lt;/f2&gt;&lt;f3&gt;'NULL'&lt;/f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123431Z" creationid="Andrea" creationdate="20181002T123431Z">
+        <seg>Dalla seconda sottoquery in avanti dovete assicurarvi che i valori &lt;/f0&gt;&lt;f1&gt;'NULL'&lt;/f1&gt;&lt;f2&gt; non impostino a &lt;/f2&gt;&lt;f3&gt;'NULL'&lt;/f3&gt;&lt;f4&gt;l'intera combinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31363,6 +31379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T210904Z" creationid="Marco Marega" creationdate="20171109T210904Z">
         <seg>Per questo motivo qui appare un Nome gruppo, all'interno del quale indirizzare le opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is why a result of &lt;/f4&gt;&lt;f5&gt;''&lt;/f5&gt;&lt;f6&gt; rather than &lt;/f6&gt;&lt;f7&gt;'NULL'&lt;/f7&gt;&lt;f8&gt; is shown.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123534Z" creationid="Andrea" creationdate="20181002T123534Z">
+        <seg>Questo e' il motivo per cui e' mostrato &lt;/f4&gt;&lt;f5&gt;''&lt;/f5&gt;&lt;f6&gt; come risultato piuttosto che &lt;/f6&gt;&lt;f7&gt;'NULL'&lt;/f7&gt;&lt;f8&gt; .&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
