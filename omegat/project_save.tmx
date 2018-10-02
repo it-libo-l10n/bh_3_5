@@ -15542,6 +15542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Egon</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112507Z" creationid="Andrea" creationdate="20181002T112507Z">
+        <seg>Egon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either method&lt;/f6&gt; add&lt;f7&gt;s&lt;/f7&gt; &lt;f8&gt;t&lt;/f8&gt;&lt;f9&gt;he table&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;to the graphical area of the &lt;f11&gt;Q&lt;/f11&gt;uery &lt;f12&gt;Design dialog&lt;/f12&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180525T162642Z" creationid="Manuel Frassinetti" creationdate="20171127T092808Z">
@@ -16727,10 +16735,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firstname</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112459Z" creationid="Andrea" creationdate="20181002T112459Z">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Firstname Surname&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111115Z" creationid="Andrea" creationdate="20181002T111115Z">
         <seg>Firstname Surname&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Firstnames</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112558Z" creationid="Andrea" creationdate="20181002T112558Z">
+        <seg>Nomi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18019,6 +18043,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171109T202820Z" creationid="Marco Marega" creationdate="20171109T202820Z">
         <seg>Scheda Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gerd</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112504Z" creationid="Andrea" creationdate="20181002T112504Z">
+        <seg>Gerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gerd, Volker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112607Z" creationid="Andrea" creationdate="20181002T112607Z">
+        <seg>Gerd, Volker</seg>
       </tuv>
     </tu>
     <tu>
@@ -24143,6 +24183,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Karin</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112501Z" creationid="Andrea" creationdate="20181002T112501Z">
+        <seg>Karin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Karin, Egon, Monika, Rita</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112600Z" creationid="Andrea" creationdate="20181002T112600Z">
+        <seg>Karin, Egon, Monika, Rita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171125T194247Z" creationid="Marco Marega" creationdate="20171125T194247Z">
@@ -24935,6 +24991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Monika</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112512Z" creationid="Andrea" creationdate="20181002T112512Z">
+        <seg>Monika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More about &lt;f1&gt;direct SQL Mode&lt;/f1&gt; can be found in &lt;f2&gt;C&lt;/f2&gt;hapter &lt;f3&gt;5,&lt;/f3&gt; Queries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171101T213048Z" creationid="Marco Marega" creationdate="20171101T213048Z">
@@ -25059,6 +25123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
         <seg>Database MySQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Müller</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112500Z" creationid="Andrea" creationdate="20181002T112500Z">
+        <seg>Müller</seg>
       </tuv>
     </tu>
     <tu>
@@ -28327,6 +28399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rita</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112520Z" creationid="Andrea" creationdate="20181002T112520Z">
+        <seg>Rita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Road&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111116Z" creationid="Andrea" creationdate="20181002T111116Z">
@@ -29411,6 +29491,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180321T082901Z" creationid="Alessia Mazzarini" creationdate="20180321T082901Z">
         <seg>Schmidt, Schulze, e Schulte riceverebbero un'unica notifica di riconsegna, cosa che non avrebbe senso in questo esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schneider</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112502Z" creationid="Andrea" creationdate="20181002T112502Z">
+        <seg>Schneider</seg>
       </tuv>
     </tu>
     <tu>
@@ -30659,6 +30747,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214818Z" creationid="Marco Marega" creationdate="20180227T214818Z">
         <seg>Supponete di voler eliminare una determinata via dalla tabella &lt;f0&gt;Street&lt;/f0&gt; della Figura &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, nella quale questo campo è collegato alla tabella &lt;f3&gt;Adress&lt;/f3&gt; come chiave esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Surname</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112453Z" creationid="Andrea" creationdate="20181002T112453Z">
+        <seg>Cognome</seg>
       </tuv>
     </tu>
     <tu>
@@ -34115,6 +34211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171210T210532Z" creationid="Marco Marega" creationdate="20171210T210532Z">
         <seg>Il gruppo dev'essere separato per poter far si che il formulario possa essere visualizzato come nella seguente illustrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The grouping into a common field is a kind of supplement to this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112443Z" creationid="Andrea" creationdate="20181002T112443Z">
+        <seg>Il raggruppamento in un campo comune e' una specie di aggiunta ad esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39127,6 +39231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This procedure can, within limits, be expressed in HSQLDB.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112611Z" creationid="Andrea" creationdate="20181002T112611Z">
+        <seg>This procedure can, within limits, be expressed in HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This produces a numbering from 1 upwards.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T200300Z" creationid="Andrea" creationdate="20181001T200300Z">
@@ -41087,6 +41199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Volker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112511Z" creationid="Andrea" creationdate="20181002T112511Z">
+        <seg>Volker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WEEK(date)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T095336Z" creationid="Elisabetta Manuele" creationdate="20180403T095336Z">
@@ -42731,6 +42851,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180427T063257Z" creationid="manuel" creationdate="20180427T063257Z">
         <seg>restituisce lo stesso risultato di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is converted by the query to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112549Z" creationid="Andrea" creationdate="20181002T112549Z">
+        <seg>e' trasformato dalla query in:</seg>
       </tuv>
     </tu>
     <tu>
