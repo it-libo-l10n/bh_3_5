@@ -12030,6 +12030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As in the original calendar only the date determines the field content, line numbering is used to number the days of each week continuously and then the weeks in the year become the records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105744Z" creationid="Andrea" creationdate="20181002T105744Z">
+        <seg>Come nel calendario originale, solo la data determina il contenuto del campo, la numerazione delle righe e' usataper contare in modo continuo i giorni di ciascuna settimana dopodiche' le settimane dell'anno diventano i record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As in the simpler form, we now enter for the list box contents &lt;f1&gt;Surname, Given name – ID Nr&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T175245Z" creationid="Marco Marega" creationdate="20171226T175245Z">
@@ -17019,6 +17027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T222214Z" creationid="Marco Marega" creationdate="20180303T222214Z">
         <seg>Ad esempio, se viene passato il valore della chiave primaria, verrà eliminato solo quel determinato record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if we are creating a calendar, the lines might represent the weeks of the year and the columns the weekdays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105511Z" creationid="Andrea" creationdate="20181002T105511Z">
+        <seg>Per esempio, se stiamo creando un calendario, le righe potrebbero rappresentare le settimane dell'anno e le colonne i giorni della settimana.</seg>
       </tuv>
     </tu>
     <tu>
