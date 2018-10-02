@@ -17191,6 +17191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For other databases, and for newer versions of HSQLDB, the &lt;f0&gt;Group_Concat()&lt;/f0&gt; command is available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111735Z" creationid="Andrea" creationdate="20181002T111735Z">
+        <seg>Per altri database e per le versioni piu' recenti di HSQLDB, e' disponibile il comando &lt;f0&gt;Group_Concat()&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For persons born after &lt;f0&gt;28 &lt;/f0&gt;Februa&lt;f1&gt;ry&lt;/f1&gt;, there will be an error of one day.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180501T143715Z" creationid="MicrosoftSucks" creationdate="20180501T143715Z">
@@ -23387,6 +23395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20180321T162509Z" creationid="steevie" creationdate="20180216T161652Z">
         <seg>Si può attivare e disattivare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be used to group individual fields in a record into one field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111826Z" creationid="Andrea" creationdate="20181002T111826Z">
+        <seg>Puo' essere usato per raggruppare campi individuali di un record in un unico campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31147,6 +31163,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T193731Z" creationid="Elisabetta Manuele" creationdate="20180308T193731Z">
         <seg>Questo è l'unico modo per assicurarsi un accesso al database immune da errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is the only way they will remain next to each other when read into the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111614Z" creationid="Andrea" creationdate="20181002T111614Z">
+        <seg>Questo e' l'unico modo per mantenerli uno di fianco all'altro quando vengono trasferiti al report.</seg>
       </tuv>
     </tu>
     <tu>
