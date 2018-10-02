@@ -22839,6 +22839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way all seven days of the week can be shown alongside each other and a corresponding calendar view created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T110621Z" creationid="Andrea" creationdate="20181002T110621Z">
+        <seg>In questo modo tutti i sette giorni della settimana possono essere rappresentati uno di fianco all'altro e viene creata la vista calendario corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way all variables can be determined.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180311T185348Z" creationid="Alessia Mazzarini" creationdate="20180311T185348Z">
@@ -30143,6 +30151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, if you want the calendar to begin on Monday, the earliest date must be on Monday.&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;Column 1 is then Monday, column 2 Tuesday and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T110357Z" creationid="Andrea" creationdate="20181002T110357Z">
+        <seg>Percio' se volete che il calendario cominci di lunedi', la prima data deve essere un lunedi'.&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;Dopodiche' la colonna 1 e' lunedi', la colonna 2 e' martedi' e cosi' via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, if you want, you can always return to the filtered state.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180303T144556Z" creationid="Marco Marega" creationdate="20180303T144556Z">
@@ -35931,6 +35947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171226T173728Z" creationid="Marco Marega" creationdate="20171226T173728Z">
         <seg>Le proprietà del formulario secondario sono immutate rispetto alla versione illustrata sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The subquery then ends at &lt;f9&gt;"Nr." = 7&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T110421Z" creationid="Andrea" creationdate="20181002T110421Z">
+        <seg>La sottoquery termina quando &lt;f9&gt;"Nr." = 7&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
