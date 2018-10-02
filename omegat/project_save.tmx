@@ -22871,6 +22871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way, in an address book, all members of one family ("Surname") can be collected together so that each address need be considered only once when sending a letter, but everyone who should receive the letter is listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104906Z" creationid="Andrea" creationdate="20181002T104906Z">
+        <seg>In questo modo, in una rubrica, tutti i membri di un'unica famiglia ("Surname") possono essere riuniti in modo che ogni indirizzo venga utilizzato una volta sola quando si invia una lettera, ma sono indicati anche tutti coloro che la devono ricevere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way, the records with the same &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Reader_ID&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; are grouped together.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180524T135208Z" creationid="Manuel Frassinetti" creationdate="20171209T180906Z">
@@ -40947,6 +40955,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171216T214029Z" creationid="Marco Marega" creationdate="20171216T214029Z">
         <seg>Nel formulario secondario il procedimento è simile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We need to be careful here, as we do not want an endlessly looping function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T105004Z" creationid="Andrea" creationdate="20181002T105004Z">
+        <seg>Qui bisogna stare attenti per evitare una funzione che esegua un ciclo infinito.</seg>
       </tuv>
     </tu>
     <tu>
