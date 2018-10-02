@@ -16727,6 +16727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firstname Surname&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111115Z" creationid="Andrea" creationdate="20181002T111115Z">
+        <seg>Firstname Surname&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Float</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T102139Z" creationid="Elisabetta Manuele" creationdate="20180402T102139Z">
@@ -28303,6 +28311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Road&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111116Z" creationid="Andrea" creationdate="20181002T111116Z">
+        <seg>Road&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Round brackets are allowed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T153632Z" creationid="Alessia Mazzarini" creationdate="20180403T153632Z">
@@ -28915,6 +28931,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102029Z" creationid="Elisabetta Manuele" creationdate="20180403T102029Z">
         <seg>SCELTA * FROM ″INFORMATION_SCHEMA″.″SYSTEM_ALIASES″</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT &lt;f0&gt;"Firstname"||' '||"Surname"||Char(13)||"Road"||Char(13)||"Town" FROM "Table"&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111051Z" creationid="Andrea" creationdate="20181002T111051Z">
+        <seg>SELECT &lt;f0&gt;"Firstname"||' '||"Surname"||Char(13)||"Road"||Char(13)||"Town" FROM "Table"&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30243,6 +30267,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Manuel Frassinetti" changedate="20180116T172930Z" creationid="Manuel Frassinetti" creationdate="20180116T172930Z">
         <seg>Qualche volta è anche il solo modo &lt;/f11&gt;&lt;t12/&gt;&lt;f13&gt;per inserire una ricerca nel database quando la GUI non può tradurre le vostre richieste nei necessari comandi SQL.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes it is useful to assemble several fields using a query and separate them by line breaks, &lt;s0/&gt;for example when reading a complete address into a report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T110954Z" creationid="Andrea" creationdate="20181002T110849Z">
+        <seg>Talvolta e' utile mettere insieme diversi campi usando un query e separarli con interruzioni riga, &lt;s0/&gt;per esempio quando si visualizza un indirizzo in un report.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34339,6 +34371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215547Z" creationid="Marco Marega" creationdate="20180126T215547Z">
         <seg>La biblioteca potrebbe contenere più di un libro di un autore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line break within the query is represented by &lt;f0&gt;'Char(13)'&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111049Z" creationid="Andrea" creationdate="20181002T110922Z">
+        <seg>L'interruzione riga e' rappresentata da &lt;f0&gt;'Char(13)'&lt;/f0&gt;all'interno della riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39543,6 +39583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This yields:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111114Z" creationid="Andrea" creationdate="20181002T111114Z">
+        <seg>Il risultato e':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This, however, will significantly bloat the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180327T205012Z" creationid="MicrosoftSucks" creationdate="20180327T205012Z">
@@ -40171,6 +40219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180508T153137Z" creationid="manuel" creationdate="20180508T153137Z">
         <seg>Totale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Town</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T111117Z" creationid="Andrea" creationdate="20181002T111117Z">
+        <seg>Town</seg>
       </tuv>
     </tu>
     <tu>
