@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>( SELECT "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 1 ) ||</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123109Z" creationid="Andrea" creationdate="20181002T123109Z">
+        <seg>( SELECT "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 1 ) ||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( SELECT "Table"."ID" FROM "Filter", "Table" WHERE "Table"."Field_2" = IFNULL( "Filter"."Filter_2", "Table"."Field_2" ) )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200207Z" creationid="Marco Marega" creationdate="20180327T200207Z">
@@ -10734,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AS "Firstnames"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123116Z" creationid="Andrea" creationdate="20181002T123116Z">
+        <seg>AS "Firstnames"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AS "LineNumber" FROM "Table" AS "a"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T202539Z" creationid="Andrea" creationdate="20181001T202539Z">
@@ -15998,6 +16014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FROM "View_Group" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123118Z" creationid="Andrea" creationdate="20181002T123118Z">
+        <seg>FROM "View_Group" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FROM ( SELECT COUNT( "ID" ) AS "Count", "Field_1" FROM "Table_Filter_result" GROUP BY "Field_1" )</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180326T204948Z" creationid="Marco Marega" creationdate="20180326T204948Z">
@@ -19419,6 +19443,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180327T200158Z" creationid="Marco Marega" creationdate="20180327T200158Z">
         <seg>IFNULL( "Field_1" || ' - ' || "Count", 'empty - ' || "Count" ) AS "Display",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 2 ), '' ) ||</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123110Z" creationid="Andrea" creationdate="20181002T123110Z">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 2 ), '' ) ||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 3 ), '' ) ||</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123112Z" creationid="Andrea" creationdate="20181002T123112Z">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 3 ), '' ) ||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 4 ), '' ) ||</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123114Z" creationid="Andrea" creationdate="20181002T123114Z">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 4 ), '' ) ||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 5 ), '' )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123115Z" creationid="Andrea" creationdate="20181002T123115Z">
+        <seg>IFNULL( ( SELECT ', ' || "Firstname" FROM "View_Group" WHERE "Surname" = "a"."Surname" AND "GroupNr" = 5 ), '' )</seg>
       </tuv>
     </tu>
     <tu>
@@ -24099,6 +24155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20180403T083337Z" creationid="Alessia Mazzarini" creationdate="20180403T083337Z">
         <seg>Sarebbe più semplice formulare l'interrogazione sottostante in modo che invece di NULL appaia 0 nei campi numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It yields an ascending numbered sequence, grouped by &lt;s0/&gt;&lt;f1&gt;Surname&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T122952Z" creationid="Andrea" creationdate="20181002T122952Z">
+        <seg>Il risultato e' una sequenza con numerazione crescente raggruppata secondo il campo &lt;s0/&gt;&lt;f1&gt;Surname&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28827,6 +28891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180507T071930Z" creationid="manuel" creationdate="20180507T071930Z">
         <seg>SELECT "Cognome" || ', ' || "Primo_nome" AS "Nome" FROM "Tabella_nome"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SELECT "Surname",</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123107Z" creationid="Andrea" creationdate="20181002T123107Z">
+        <seg>SELECT "Surname",</seg>
       </tuv>
     </tu>
     <tu>
@@ -39215,6 +39287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This numbering is necessary for the following query, so that in the example a maximum of 5 first names is listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T123106Z" creationid="Andrea" creationdate="20181002T123106Z">
+        <seg>Questa numerazione e' necessaria per l query seguente in modo che nell'esempio vengano riportati al massimo 5 nomi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This numbering simply runs from the first to the last record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104153Z" creationid="Andrea" creationdate="20181002T104153Z">
@@ -42299,6 +42379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181001T195332Z" creationid="Andrea" creationdate="20181001T181320Z">
         <seg>Possono essere inseriti in qualsiasi ordine all'interno della clausola &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;SELECT&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can read in the Queries chapter how this query accesses the field content in the same query line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T122844Z" creationid="Andrea" creationdate="20181002T122844Z">
+        <seg>Potete leggere nel capitolo Queries come questa query accede al contenuto dei campo all'interno della stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
