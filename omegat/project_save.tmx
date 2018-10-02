@@ -28839,6 +28839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SELECT "Surname", "Firstname", ( SELECT COUNT( "ID" ) FROM "Name" WHERE "ID" &lt;= "a"."ID" AND "Surname" = "a"."Surname" ) AS "GroupNr" FROM "Name" AS "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T122657Z" creationid="Andrea" creationdate="20181002T122657Z">
+        <seg>SELECT "Surname", "Firstname", ( SELECT COUNT( "ID" ) FROM "Name" WHERE "ID" &lt;= "a"."ID" AND "Surname" = "a"."Surname" ) AS "GroupNr" FROM "Name" AS "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SELECT "Surname", "Name" AS "Name_1", ( SELECT "Name" FROM "View1" WHERE "Nr." = 2 &lt;s0/&gt;AND "Surname" = "a"."Surname") AS "Name_2", ( SELECT "Name" FROM "View1" WHERE "Nr." = 3 &lt;s1/&gt;AND "Surname" = "a"."Surname") AS "Name_3" FROM "View1" AS "a" WHERE "Nr." = 1</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T104517Z" creationid="Andrea" creationdate="20181002T104517Z">
@@ -33815,6 +33823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example refers to a table called &lt;f0&gt;Name&lt;/f0&gt; with the fields &lt;f1&gt;ID, Firstname and Surname&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T122536Z" creationid="Andrea" creationdate="20181002T122536Z">
+        <seg>L'esempio seguente fa riferimento ad una tabella di nome &lt;f0&gt;Name&lt;/f0&gt; con campi &lt;f1&gt;ID, Firstname and Surname&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows this for the &lt;f1/&gt;&lt;f2&gt;sample&lt;/f2&gt;&lt;f3/&gt; database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T150602Z" creationid="Elisabetta Manuele" creationdate="20180412T150602Z">
@@ -33915,6 +33931,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="MicrosoftSucks" changedate="20180218T213147Z" creationid="MicrosoftSucks" creationdate="20180218T213147Z">
         <seg>La query seguente e' di sicuro modificabile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following query is first run on the table and saved as a view called &lt;f2&gt;View_Group.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T122656Z" creationid="Andrea" creationdate="20181002T122656Z">
+        <seg>La query seguente e' eseguita dapprima sulla tabella, poi salvata sotto forma di vista e chiamata &lt;f2&gt;View_Group.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39233,8 +39257,8 @@
       <tuv lang="EN">
         <seg>This procedure can, within limits, be expressed in HSQLDB.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T112611Z" creationid="Andrea" creationdate="20181002T112611Z">
-        <seg>This procedure can, within limits, be expressed in HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20181002T122439Z" creationid="Andrea" creationdate="20181002T112611Z">
+        <seg>Questa procedura puo', entro certi limiti, essere espressa in HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
