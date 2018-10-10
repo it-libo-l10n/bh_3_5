@@ -12672,8 +12672,8 @@
       <tuv lang="EN">
         <seg>Base – a container for database content</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T221056Z" creationid="Marina Latini" creationdate="20171205T161210Z">
-        <seg>Base – un contenitore per il contenuto del database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T074724Z" creationid="Marina Latini" creationdate="20171205T161210Z">
+        <seg>aaaaaaaaBase – un contenitore per il contenuto del database</seg>
       </tuv>
     </tu>
     <tu>
@@ -23433,8 +23433,8 @@
       <tuv lang="EN">
         <seg>Introduction to Base</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181009T095133Z" creationid="Marina Latini" creationdate="20171003T090001Z">
-        <seg>aaaaaaaaaaaaaaaIntroduzione a Base</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T074715Z" creationid="Marina Latini" creationdate="20171003T090001Z">
+        <seg>Introduzione a Base</seg>
       </tuv>
     </tu>
     <tu>
