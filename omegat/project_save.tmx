@@ -18041,8 +18041,8 @@
       <tuv lang="EN">
         <seg>General notes on the creation of a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090623Z" creationid="Marina Latini" creationdate="20171003T090623Z">
-        <seg>Note generali sulla creazione di un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T085045Z" creationid="Marina Latini" creationdate="20171003T090623Z">
+        <seg>aaaaaaaaaaaaaaNote generali sulla creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -27225,8 +27225,8 @@
       <tuv lang="EN">
         <seg>Queries – getting information on data in tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181010T080534Z" creationid="Marina Latini" creationdate="20171003T090508Z">
-        <seg>aaaaaaaaaaaaaRicerche – ottenere informazioni sui dati nelle tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T084946Z" creationid="Marina Latini" creationdate="20171003T090508Z">
+        <seg>Ricerche – ottenere informazioni sui dati nelle tabelle</seg>
       </tuv>
     </tu>
     <tu>
