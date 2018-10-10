@@ -12672,8 +12672,8 @@
       <tuv lang="EN">
         <seg>Base – a container for database content</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181010T074724Z" creationid="Marina Latini" creationdate="20171205T161210Z">
-        <seg>aaaaaaaaBase – un contenitore per il contenuto del database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T080316Z" creationid="Marina Latini" creationdate="20171205T161210Z">
+        <seg>Base – un contenitore per il contenuto dei database</seg>
       </tuv>
     </tu>
     <tu>
@@ -14808,8 +14808,8 @@
       <tuv lang="EN">
         <seg>Data input using forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221527Z" creationid="Marina Latini" creationdate="20171205T161311Z">
-        <seg>Inserimento dei dati utilizzando i formulari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T080407Z" creationid="Marina Latini" creationdate="20171205T161311Z">
+        <seg>Inserimento dei dati tramite i formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -27225,8 +27225,8 @@
       <tuv lang="EN">
         <seg>Queries – getting information on data in tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090508Z" creationid="Marina Latini" creationdate="20171003T090508Z">
-        <seg>Ricerche – ottenere informazioni sui dati nelle tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181010T080534Z" creationid="Marina Latini" creationdate="20171003T090508Z">
+        <seg>aaaaaaaaaaaaaRicerche – ottenere informazioni sui dati nelle tabelle</seg>
       </tuv>
     </tu>
     <tu>
