@@ -10824,8 +10824,8 @@
       <tuv lang="EN">
         <seg>Accessing external databases</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090747Z" creationid="Marina Latini" creationdate="20171003T090747Z">
-        <seg>Accedere a database esterni</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T082158Z" creationid="Marina Latini" creationdate="20171003T090747Z">
+        <seg>Accesso a database esterni</seg>
       </tuv>
     </tu>
     <tu>
@@ -18017,7 +18017,7 @@
       <tuv lang="EN">
         <seg>General information on tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T161620Z" creationid="Marina Latini" creationdate="20171205T161620Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T082413Z" creationid="Marina Latini" creationdate="20171205T161620Z">
         <seg>Informazioni generali sulle tabelle</seg>
       </tuv>
     </tu>
@@ -18041,8 +18041,8 @@
       <tuv lang="EN">
         <seg>General notes on the creation of a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181010T085045Z" creationid="Marina Latini" creationdate="20171003T090623Z">
-        <seg>aaaaaaaaaaaaaaNote generali sulla creazione di un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T081941Z" creationid="Marina Latini" creationdate="20171003T090623Z">
+        <seg>Note generali sulla creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -25337,8 +25337,8 @@
       <tuv lang="EN">
         <seg>New database using the internal HSQL engine</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090713Z" creationid="Marina Latini" creationdate="20171003T090713Z">
-        <seg>Nuovo database che utilizza il motore HSQL interno</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T082041Z" creationid="Marina Latini" creationdate="20171003T090713Z">
+        <seg>Nuovo database utilizzando il motore HSQL interno</seg>
       </tuv>
     </tu>
     <tu>
@@ -31041,8 +31041,8 @@
       <tuv lang="EN">
         <seg>Tables and relationships for the example database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162030Z" creationid="Marina Latini" creationdate="20171205T162030Z">
-        <seg>Tabelle e relazioni per il database di esempio</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T082738Z" creationid="Marina Latini" creationdate="20171205T162030Z">
+        <seg>aaaaaaaaaaaaaaaTabelle e relazioni per il database di esempio</seg>
       </tuv>
     </tu>
     <tu>
