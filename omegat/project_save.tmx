@@ -14496,8 +14496,8 @@
       <tuv lang="EN">
         <seg>Creation using the graphical user interface</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162125Z" creationid="Marina Latini" creationdate="20171205T162125Z">
-        <seg>Creazione usando l'interfaccia grafica</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181012T125141Z" creationid="Marina Latini" creationdate="20171205T162125Z">
+        <seg>Creazione tramite l'interfaccia grafica utente</seg>
       </tuv>
     </tu>
     <tu>
@@ -15288,8 +15288,8 @@
       <tuv lang="EN">
         <seg>Direct entry using SQL</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162329Z" creationid="Marina Latini" creationdate="20171205T162329Z">
-        <seg>Inserimento diretto usando SQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181012T125410Z" creationid="Marina Latini" creationdate="20171205T162329Z">
+        <seg>aaaaaaaaaaaaaaaInserimento diretto usando SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -15640,8 +15640,8 @@
       <tuv lang="EN">
         <seg>Entering data into tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162221Z" creationid="Marina Latini" creationdate="20171205T162221Z">
-        <seg>Inserire dei dati nelle tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181012T125311Z" creationid="Marina Latini" creationdate="20171205T162221Z">
+        <seg>Inserimento dei dati nelle tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -15728,8 +15728,8 @@
       <tuv lang="EN">
         <seg>Entry using the Base GUI</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180301T211615Z" creationid="Marina Latini" creationdate="20171205T162312Z">
-        <seg>Inserimento dati usando la GUI di Base</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181012T125405Z" creationid="Marina Latini" creationdate="20171205T162312Z">
+        <seg>Inserimento dati tramite la GUI di Base</seg>
       </tuv>
     </tu>
     <tu>
@@ -31041,8 +31041,8 @@
       <tuv lang="EN">
         <seg>Tables and relationships for the example database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181011T082738Z" creationid="Marina Latini" creationdate="20171205T162030Z">
-        <seg>aaaaaaaaaaaaaaaTabelle e relazioni per il database di esempio</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181012T124845Z" creationid="Marina Latini" creationdate="20171205T162030Z">
+        <seg>Tabelle e relazioni per il database di esempio</seg>
       </tuv>
     </tu>
     <tu>
