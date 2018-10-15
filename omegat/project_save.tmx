@@ -15288,8 +15288,8 @@
       <tuv lang="EN">
         <seg>Direct entry using SQL</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181012T125410Z" creationid="Marina Latini" creationdate="20171205T162329Z">
-        <seg>aaaaaaaaaaaaaaaInserimento diretto usando SQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T103111Z" creationid="Marina Latini" creationdate="20171205T162329Z">
+        <seg>Inserimento diretto usando SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -40497,8 +40497,8 @@
       <tuv lang="EN">
         <seg>Toolbars for form design</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162641Z" creationid="Marina Latini" creationdate="20171205T162641Z">
-        <seg>Barre degli strumenti per la progettazione del formulario</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T103331Z" creationid="Marina Latini" creationdate="20171205T162641Z">
+        <seg>aaaaaaaaaaaaaaaaaaBarre degli strumenti per la progettazione del formulario</seg>
       </tuv>
     </tu>
     <tu>
