@@ -15680,8 +15680,8 @@
       <tuv lang="EN">
         <seg>Entering queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180525T160113Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
-        <seg>Inserimento di query</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T083205Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
+        <seg>Inserimento di ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -18009,8 +18009,8 @@
       <tuv lang="EN">
         <seg>General information on queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181016T105742Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
-        <seg>aaaaaaaaaaaInformazioni generali sulle query</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T083132Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
+        <seg>Informazioni generali sulle ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -27129,8 +27129,8 @@
       <tuv lang="EN">
         <seg>Queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163642Z" creationid="Marina Latini" creationdate="20171205T163642Z">
-        <seg>Ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T083144Z" creationid="Marina Latini" creationdate="20171205T163642Z">
+        <seg>Ricerche (Query)</seg>
       </tuv>
     </tu>
     <tu>
