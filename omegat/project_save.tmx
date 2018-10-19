@@ -14464,8 +14464,8 @@
       <tuv lang="EN">
         <seg>Creating queries using the Query Design dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T163758Z" creationid="Marina Latini" creationdate="20171205T163758Z">
-        <seg>Creare ricerche utilizzando la finestra di dialogo struttura ricerca</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093311Z" creationid="Marina Latini" creationdate="20171205T163758Z">
+        <seg>Creazione di ricerche tramite la finestra di dialogo Query design (Struttura ricerca)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27201,8 +27201,8 @@
       <tuv lang="EN">
         <seg>Queries for the creation of list box fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154107Z" creationid="Marina Latini" creationdate="20171205T171349Z">
-        <seg>Query per la creazione di caselle di riepilogo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093514Z" creationid="Marina Latini" creationdate="20171205T171349Z">
+        <seg>aaaaaaaaaaaaaaQuery per la creazione di caselle di riepilogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -27241,8 +27241,8 @@
       <tuv lang="EN">
         <seg>Query enhancement using SQL Mode</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171030Z" creationid="Marina Latini" creationdate="20171205T170919Z">
-        <seg>Miglioramento delle ricerche usando la modalità SQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093407Z" creationid="Marina Latini" creationdate="20171205T170919Z">
+        <seg>Miglioramento delle ricerche tramite la modalità SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -41105,8 +41105,8 @@
       <tuv lang="EN">
         <seg>Using an alias in a query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T154002Z" creationid="Marina Latini" creationdate="20171205T171139Z">
-        <seg>Usare un alias in una query</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093510Z" creationid="Marina Latini" creationdate="20171205T171139Z">
+        <seg>Utilizzo di alias in una ricerca</seg>
       </tuv>
     </tu>
     <tu>
