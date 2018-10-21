@@ -4032,8 +4032,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Queries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;getting information on data in tables&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202603Z" creationid="osvaldo" creationdate="20180826T202336Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Query&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni dai dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094709Z" creationid="osvaldo" creationdate="20180826T202336Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Query (Ricerche)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni dai dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15680,8 +15680,8 @@
       <tuv lang="EN">
         <seg>Entering queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T083205Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
-        <seg>Inserimento di ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095027Z" creationid="Manuel Frassinetti" creationdate="20171125T165817Z">
+        <seg>Inserimento di query</seg>
       </tuv>
     </tu>
     <tu>
@@ -18009,8 +18009,8 @@
       <tuv lang="EN">
         <seg>General information on queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T083132Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
-        <seg>Informazioni generali sulle ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095017Z" creationid="Manuel Frassinetti" creationdate="20171125T155515Z">
+        <seg>Informazioni generali sulle query</seg>
       </tuv>
     </tu>
     <tu>
@@ -27129,8 +27129,8 @@
       <tuv lang="EN">
         <seg>Queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T083144Z" creationid="Marina Latini" creationdate="20171205T163642Z">
-        <seg>Ricerche (Query)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095004Z" creationid="Marina Latini" creationdate="20171205T163642Z">
+        <seg>Query (Ricerche)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27161,8 +27161,8 @@
       <tuv lang="EN">
         <seg>Queries as source tables for queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T163017Z" creationid="Marina Latini" creationdate="20171205T171739Z">
-        <seg>Query come tabelle sorgente per ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094435Z" creationid="Marina Latini" creationdate="20171205T171739Z">
+        <seg>aaaaaaaaaaaaaaaQuery come tabelle sorgente per ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -27225,8 +27225,8 @@
       <tuv lang="EN">
         <seg>Queries – getting information on data in tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181010T084946Z" creationid="Marina Latini" creationdate="20171003T090508Z">
-        <seg>Ricerche – ottenere informazioni sui dati nelle tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094616Z" creationid="Marina Latini" creationdate="20171003T090508Z">
+        <seg>Query (Ricerche) – ottenere informazioni sui dati nelle tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -30649,8 +30649,8 @@
       <tuv lang="EN">
         <seg>Subqueries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094030Z" creationid="Marina Latini" creationdate="20171205T171621Z">
-        <seg>aaaaaaaaaaaaaaaaaaSubquery</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094422Z" creationid="Marina Latini" creationdate="20171205T171621Z">
+        <seg>Subquery</seg>
       </tuv>
     </tu>
     <tu>
