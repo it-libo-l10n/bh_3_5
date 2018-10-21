@@ -14776,8 +14776,8 @@
       <tuv lang="EN">
         <seg>Data entry possibilities within queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171546Z" creationid="Marina Latini" creationdate="20171205T171546Z">
-        <seg>Possibilità d'immissione di dati all'interno di ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T093946Z" creationid="Marina Latini" creationdate="20171205T171546Z">
+        <seg>Possibilità di immissione di dati all'interno di ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -30649,8 +30649,8 @@
       <tuv lang="EN">
         <seg>Subqueries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162545Z" creationid="Marina Latini" creationdate="20171205T171621Z">
-        <seg>Subquery</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094030Z" creationid="Marina Latini" creationdate="20171205T171621Z">
+        <seg>aaaaaaaaaaaaaaaaaaSubquery</seg>
       </tuv>
     </tu>
     <tu>
@@ -40913,8 +40913,8 @@
       <tuv lang="EN">
         <seg>Use of parameters in queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T162252Z" creationid="Marina Latini" creationdate="20171205T171607Z">
-        <seg>Usare parametri nelle query</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094022Z" creationid="Marina Latini" creationdate="20171205T171607Z">
+        <seg>Utilizzo di parametri nelle ricerche</seg>
       </tuv>
     </tu>
     <tu>
