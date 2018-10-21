@@ -27153,8 +27153,8 @@
       <tuv lang="EN">
         <seg>Queries as a basis for additional information in forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T171448Z" creationid="Marina Latini" creationdate="20171205T171448Z">
-        <seg>Ricerche come base per ulteriori informazioni nei formulari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T093717Z" creationid="Marina Latini" creationdate="20171205T171448Z">
+        <seg>Ricerche come base per l'inserimento di ulteriori informazioni nei formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -27201,8 +27201,8 @@
       <tuv lang="EN">
         <seg>Queries for the creation of list box fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093514Z" creationid="Marina Latini" creationdate="20171205T171349Z">
-        <seg>aaaaaaaaaaaaaaQuery per la creazione di caselle di riepilogo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T093545Z" creationid="Marina Latini" creationdate="20171205T171349Z">
+        <seg>Ricerche per la creazione di caselle di riepilogo</seg>
       </tuv>
     </tu>
     <tu>
