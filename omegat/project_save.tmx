@@ -14464,8 +14464,8 @@
       <tuv lang="EN">
         <seg>Creating queries using the Query Design dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093311Z" creationid="Marina Latini" creationdate="20171205T163758Z">
-        <seg>Creazione di ricerche tramite la finestra di dialogo Query design (Struttura ricerca)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095055Z" creationid="Marina Latini" creationdate="20171205T163758Z">
+        <seg>Creazione di query tramite la finestra di dialogo Query design (Struttura ricerca)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14776,8 +14776,8 @@
       <tuv lang="EN">
         <seg>Data entry possibilities within queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T093946Z" creationid="Marina Latini" creationdate="20171205T171546Z">
-        <seg>Possibilità di immissione di dati all'interno di ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095322Z" creationid="Marina Latini" creationdate="20171205T171546Z">
+        <seg>Possibilità di immissione di dati all'interno di query</seg>
       </tuv>
     </tu>
     <tu>
@@ -27153,16 +27153,16 @@
       <tuv lang="EN">
         <seg>Queries as a basis for additional information in forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T093717Z" creationid="Marina Latini" creationdate="20171205T171448Z">
-        <seg>Ricerche come base per l'inserimento di ulteriori informazioni nei formulari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095218Z" creationid="Marina Latini" creationdate="20171205T171448Z">
+        <seg>Query come base per l'inserimento di ulteriori informazioni nei formulari</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Queries as source tables for queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094435Z" creationid="Marina Latini" creationdate="20171205T171739Z">
-        <seg>aaaaaaaaaaaaaaaQuery come tabelle sorgente per ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095358Z" creationid="Marina Latini" creationdate="20171205T171739Z">
+        <seg>aaaaaaaaaaaaaQuery come tabelle sorgente per ricerche</seg>
       </tuv>
     </tu>
     <tu>
@@ -27201,8 +27201,8 @@
       <tuv lang="EN">
         <seg>Queries for the creation of list box fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T093545Z" creationid="Marina Latini" creationdate="20171205T171349Z">
-        <seg>Ricerche per la creazione di caselle di riepilogo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095206Z" creationid="Marina Latini" creationdate="20171205T171349Z">
+        <seg>Query per la creazione di caselle di riepilogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -27241,8 +27241,8 @@
       <tuv lang="EN">
         <seg>Query enhancement using SQL Mode</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093407Z" creationid="Marina Latini" creationdate="20171205T170919Z">
-        <seg>Miglioramento delle ricerche tramite la modalità SQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095125Z" creationid="Marina Latini" creationdate="20171205T170919Z">
+        <seg>Miglioramento delle query tramite la modalità SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -40913,8 +40913,8 @@
       <tuv lang="EN">
         <seg>Use of parameters in queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T094022Z" creationid="Marina Latini" creationdate="20171205T171607Z">
-        <seg>Utilizzo di parametri nelle ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095336Z" creationid="Marina Latini" creationdate="20171205T171607Z">
+        <seg>Utilizzo di parametri nelle query</seg>
       </tuv>
     </tu>
     <tu>
@@ -41105,8 +41105,8 @@
       <tuv lang="EN">
         <seg>Using an alias in a query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T093510Z" creationid="Marina Latini" creationdate="20171205T171139Z">
-        <seg>Utilizzo di alias in una ricerca</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095143Z" creationid="Marina Latini" creationdate="20171205T171139Z">
+        <seg>Utilizzo di alias in una query</seg>
       </tuv>
     </tu>
     <tu>
