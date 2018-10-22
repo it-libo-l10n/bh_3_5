@@ -14472,8 +14472,8 @@
       <tuv lang="EN">
         <seg>Creating reports using the Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T173725Z" creationid="Marina Latini" creationdate="20171205T173725Z">
-        <seg>Creazione di rapporti usando il Report Builder</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181022T123502Z" creationid="Marina Latini" creationdate="20171205T173725Z">
+        <seg>Creazione di rapporti tramite il Report Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -18049,8 +18049,8 @@
       <tuv lang="EN">
         <seg>General properties of fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T175624Z" creationid="Marina Latini" creationdate="20171205T175624Z">
-        <seg>Proprietà generali dei comandi di campo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181022T123530Z" creationid="Marina Latini" creationdate="20171205T175624Z">
+        <seg>aaaaaaaaaaaaaaaaProprietà generali dei comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25145,8 +25145,8 @@
       <tuv lang="EN">
         <seg>More rapid access to queries using table views</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181022T121344Z" creationid="Marina Latini" creationdate="20171205T173034Z">
-        <seg>aaaaaaaaAccesso più rapido alle query usando le viste delle tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181022T123354Z" creationid="Marina Latini" creationdate="20171205T173034Z">
+        <seg>Accesso più rapido alle query tramite le viste delle tabelle</seg>
       </tuv>
     </tu>
     <tu>
