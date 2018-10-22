@@ -25145,8 +25145,8 @@
       <tuv lang="EN">
         <seg>More rapid access to queries using table views</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180526T165613Z" creationid="Marina Latini" creationdate="20171205T173034Z">
-        <seg>Accesso più rapido alle query usando le viste delle tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181022T121344Z" creationid="Marina Latini" creationdate="20171205T173034Z">
+        <seg>aaaaaaaaAccesso più rapido alle query usando le viste delle tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -27161,8 +27161,8 @@
       <tuv lang="EN">
         <seg>Queries as source tables for queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181021T095358Z" creationid="Marina Latini" creationdate="20171205T171739Z">
-        <seg>aaaaaaaaaaaaaQuery come tabelle sorgente per ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181022T121236Z" creationid="Marina Latini" creationdate="20171205T171739Z">
+        <seg>Query come tabelle sorgente per le query</seg>
       </tuv>
     </tu>
     <tu>
@@ -30777,8 +30777,8 @@
       <tuv lang="EN">
         <seg>Summarizing data with queries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T172946Z" creationid="Marina Latini" creationdate="20171205T172946Z">
-        <seg>Riepilogare i dati con le ricerche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181022T121340Z" creationid="Marina Latini" creationdate="20171205T172946Z">
+        <seg>Riepilogo dei dati con le query</seg>
       </tuv>
     </tu>
     <tu>
