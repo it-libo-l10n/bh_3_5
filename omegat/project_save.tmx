@@ -14096,8 +14096,8 @@
       <tuv lang="EN">
         <seg>Conditional print</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T154525Z" creationid="Marina Latini" creationdate="20171206T154525Z">
-        <seg>Stampa condizionale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181023T105750Z" creationid="Marina Latini" creationdate="20171206T154525Z">
+        <seg>aaaaaaaaaaaaaaaaStampa condizionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -14832,8 +14832,8 @@
       <tuv lang="EN">
         <seg>Data properties of fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181023T103018Z" creationid="Marina Latini" creationdate="20171205T175942Z">
-        <seg>aaaaaaaaaProrietà dei dati dei comandi di campo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181023T105656Z" creationid="Marina Latini" creationdate="20171205T175942Z">
+        <seg>Proprietà dei dati dei comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,8 +15656,8 @@
       <tuv lang="EN">
         <seg>Entering formulas</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105839Z" creationid="Marina Latini" creationdate="20171206T105839Z">
-        <seg>Inserimento Formule</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181023T103939Z" creationid="Marina Latini" creationdate="20171206T105839Z">
+        <seg>Inserimento di formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -17745,8 +17745,8 @@
       <tuv lang="EN">
         <seg>Formula entry for a field</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T110135Z" creationid="Marina Latini" creationdate="20171206T110135Z">
-        <seg>Inserimento di formule per un comandi di campo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181023T105618Z" creationid="Marina Latini" creationdate="20171206T110135Z">
+        <seg>Inserimento di formule per un comando di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18049,8 +18049,8 @@
       <tuv lang="EN">
         <seg>General properties of fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181023T102150Z" creationid="Marina Latini" creationdate="20171205T175624Z">
-        <seg>Proprietà generali dei campi</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181023T105645Z" creationid="Marina Latini" creationdate="20171205T175624Z">
+        <seg>Proprietà generali dei comandi di campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -41009,8 +41009,8 @@
       <tuv lang="EN">
         <seg>User-defined functions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T105855Z" creationid="Marina Latini" creationdate="20171206T105855Z">
-        <seg>Funzioni pesonalizzate</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181023T104013Z" creationid="Marina Latini" creationdate="20171206T105855Z">
+        <seg>Funzioni personalizzate</seg>
       </tuv>
     </tu>
     <tu>
