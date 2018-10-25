@@ -14096,8 +14096,8 @@
       <tuv lang="EN">
         <seg>Conditional print</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181023T105750Z" creationid="Marina Latini" creationdate="20171206T154525Z">
-        <seg>aaaaaaaaaaaaaaaaStampa condizionale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181025T091925Z" creationid="Marina Latini" creationdate="20171206T154525Z">
+        <seg>Stampa condizionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -14848,8 +14848,8 @@
       <tuv lang="EN">
         <seg>Data source browser</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T181349Z" creationid="Marina Latini" creationdate="20171206T160118Z">
-        <seg>Finestra di esplorazione sorgenti dati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181025T092234Z" creationid="Marina Latini" creationdate="20171206T160118Z">
+        <seg>aaaaaaaaaaaaaFinestra di esplorazione sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
