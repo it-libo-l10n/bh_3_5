@@ -14848,16 +14848,16 @@
       <tuv lang="EN">
         <seg>Data source browser</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181025T092234Z" creationid="Marina Latini" creationdate="20171206T160118Z">
-        <seg>aaaaaaaaaaaaaFinestra di esplorazione sorgenti dati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T082513Z" creationid="Marina Latini" creationdate="20171206T160118Z">
+        <seg>Finestra di esplorazione sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Data source of current document</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160324Z" creationid="Marina Latini" creationdate="20171206T160324Z">
-        <seg>Sorgente dati del documento corrente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T082728Z" creationid="Marina Latini" creationdate="20171206T160324Z">
+        <seg>aaaaaaaaaaaaaaaaaSorgente dati del documento corrente</seg>
       </tuv>
     </tu>
     <tu>
