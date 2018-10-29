@@ -14856,8 +14856,8 @@
       <tuv lang="EN">
         <seg>Data source of current document</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181026T082728Z" creationid="Marina Latini" creationdate="20171206T160324Z">
-        <seg>aaaaaaaaaaaaaaaaaSorgente dati del documento corrente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181029T133022Z" creationid="Marina Latini" creationdate="20171206T160324Z">
+        <seg>Sorgente dati del documento corrente</seg>
       </tuv>
     </tu>
     <tu>
@@ -15896,8 +15896,8 @@
       <tuv lang="EN">
         <seg>Explorer on/off</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T160336Z" creationid="Marina Latini" creationdate="20171206T160336Z">
-        <seg>Explorer on/off</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181029T133036Z" creationid="Marina Latini" creationdate="20171206T160336Z">
+        <seg>aaaaaaaaaaaaaaaaExplorer on/off</seg>
       </tuv>
     </tu>
     <tu>
