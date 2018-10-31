@@ -14448,8 +14448,8 @@
       <tuv lang="EN">
         <seg>Creating mail merge documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161730Z" creationid="Marina Latini" creationdate="20171206T161730Z">
-        <seg>Creazione di documenti in stampa in serie</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181031T080922Z" creationid="Marina Latini" creationdate="20171206T161730Z">
+        <seg>Creazione di documenti tramite la stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -15248,8 +15248,8 @@
       <tuv lang="EN">
         <seg>Direct creation of mail merge and label documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180311T191341Z" creationid="Marina Latini" creationdate="20171206T161822Z">
-        <seg>Creazione diretta di documenti per etichette e stampa in serie</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181031T080943Z" creationid="Marina Latini" creationdate="20171206T161822Z">
+        <seg>aaaaaaaaaaaaCreazione diretta di documenti per etichette e stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -15896,8 +15896,8 @@
       <tuv lang="EN">
         <seg>Explorer on/off</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181029T133036Z" creationid="Marina Latini" creationdate="20171206T160336Z">
-        <seg>aaaaaaaaaaaaaaaaExplorer on/off</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181031T080744Z" creationid="Marina Latini" creationdate="20171206T160336Z">
+        <seg>Explorer on/off</seg>
       </tuv>
     </tu>
     <tu>
