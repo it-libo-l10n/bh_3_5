@@ -14432,8 +14432,8 @@
       <tuv lang="EN">
         <seg>Creating form letters by selecting fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122908Z" creationid="Marina Latini" creationdate="20171206T161918Z">
-        <seg>Creazione di stampa in serie tramite i comandi di campo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T105330Z" creationid="Marina Latini" creationdate="20171206T161918Z">
+        <seg>Creazione di modelli di lettera tramite selezione dei campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15248,8 +15248,8 @@
       <tuv lang="EN">
         <seg>Direct creation of mail merge and label documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181031T080943Z" creationid="Marina Latini" creationdate="20171206T161822Z">
-        <seg>aaaaaaaaaaaaCreazione diretta di documenti per etichette e stampa in serie</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T105002Z" creationid="Marina Latini" creationdate="20171206T161822Z">
+        <seg>Creazione diretta di documenti per stampa in serie ed etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -15928,8 +15928,8 @@
       <tuv lang="EN">
         <seg>External forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T161936Z" creationid="Marina Latini" creationdate="20171206T161936Z">
-        <seg>Formulari esterni</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T105347Z" creationid="Marina Latini" creationdate="20171206T161936Z">
+        <seg>aaaaaaaaaaaaaaaaaaFormulari esterni</seg>
       </tuv>
     </tu>
     <tu>
