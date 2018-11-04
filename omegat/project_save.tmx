@@ -14432,8 +14432,8 @@
       <tuv lang="EN">
         <seg>Creating form letters by selecting fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181103T105330Z" creationid="Marina Latini" creationdate="20171206T161918Z">
-        <seg>Creazione di modelli di lettera tramite selezione dei campi</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T102636Z" creationid="Marina Latini" creationdate="20171206T161918Z">
+        <seg>Creazione di modelli di lettera tramite selezione dei comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15928,8 +15928,8 @@
       <tuv lang="EN">
         <seg>External forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181103T105347Z" creationid="Marina Latini" creationdate="20171206T161936Z">
-        <seg>aaaaaaaaaaaaaaaaaaFormulari esterni</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T102400Z" creationid="Marina Latini" creationdate="20171206T161936Z">
+        <seg>Formulari esterni</seg>
       </tuv>
     </tu>
     <tu>
