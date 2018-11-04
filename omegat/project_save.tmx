@@ -14192,8 +14192,8 @@
       <tuv lang="EN">
         <seg>Converting data from one database to another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162135Z" creationid="Marina Latini" creationdate="20171206T162135Z">
-        <seg>Converire dati da un database a un altro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T103802Z" creationid="Marina Latini" creationdate="20171206T162135Z">
+        <seg>aaaaaaaaaaaaaaaaConversione dei dati da un database a un altro</seg>
       </tuv>
     </tu>
     <tu>
@@ -15632,8 +15632,8 @@
       <tuv lang="EN">
         <seg>Entering data into Calc</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162027Z" creationid="Marina Latini" creationdate="20171206T162027Z">
-        <seg>Inserire dati in Calc</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T103554Z" creationid="Marina Latini" creationdate="20171206T162027Z">
+        <seg>Inserimento dei dati in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -15912,8 +15912,8 @@
       <tuv lang="EN">
         <seg>Exporting data from Calc into a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162105Z" creationid="Marina Latini" creationdate="20171206T162035Z">
-        <seg>Esportare dati da calc a un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T103743Z" creationid="Marina Latini" creationdate="20171206T162035Z">
+        <seg>Esportazione dei dati da Calc a un database</seg>
       </tuv>
     </tu>
     <tu>
