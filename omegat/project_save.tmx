@@ -14192,8 +14192,8 @@
       <tuv lang="EN">
         <seg>Converting data from one database to another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181104T103802Z" creationid="Marina Latini" creationdate="20171206T162135Z">
-        <seg>aaaaaaaaaaaaaaaaConversione dei dati da un database a un altro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T095532Z" creationid="Marina Latini" creationdate="20171206T162135Z">
+        <seg>Conversione dei dati da un database a un altro</seg>
       </tuv>
     </tu>
     <tu>
@@ -14784,8 +14784,8 @@
       <tuv lang="EN">
         <seg>Data filtering</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162311Z" creationid="Marina Latini" creationdate="20171206T162311Z">
-        <seg>Filtraggio dati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T100902Z" creationid="Marina Latini" creationdate="20171206T162311Z">
+        <seg>aaaaaaaaaaaaaaaFiltraggio dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -14936,8 +14936,8 @@
       <tuv lang="EN">
         <seg>Database tasks</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162227Z" creationid="Marina Latini" creationdate="20171206T162227Z">
-        <seg>Attività di database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T100812Z" creationid="Marina Latini" creationdate="20171206T162227Z">
+        <seg>Attività sui database</seg>
       </tuv>
     </tu>
     <tu>
@@ -18057,8 +18057,8 @@
       <tuv lang="EN">
         <seg>General remarks on database tasks</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T162259Z" creationid="Marina Latini" creationdate="20171206T162259Z">
-        <seg>Note generali sulle attività del database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T100857Z" creationid="Marina Latini" creationdate="20171206T162259Z">
+        <seg>Note generali riguardo alle attività sui database</seg>
       </tuv>
     </tu>
     <tu>
