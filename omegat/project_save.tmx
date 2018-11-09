@@ -18105,16 +18105,16 @@
       <tuv lang="EN">
         <seg>Getting a line break through a query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165431Z" creationid="Marina Latini" creationdate="20171206T165431Z">
-        <seg>Ottenere un'interruzione di riga attraverso un'interrogazione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181109T081538Z" creationid="Marina Latini" creationdate="20171206T165431Z">
+        <seg>aaaaaaaaaaaaaaaaaOttenere un'interruzione di riga attraverso un'interrogazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Getting a running balance by categories</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181108T090341Z" creationid="Marina Latini" creationdate="20171206T163603Z">
-        <seg>aaaaaaaaaaaOttenere un bilanciamento per categorie</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181109T081457Z" creationid="Marina Latini" creationdate="20171206T163603Z">
+        <seg>Ottenere un bilancio per categorie</seg>
       </tuv>
     </tu>
     <tu>
