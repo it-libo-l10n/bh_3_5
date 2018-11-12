@@ -18065,8 +18065,8 @@
       <tuv lang="EN">
         <seg>General remarks on macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165534Z" creationid="Marina Latini" creationdate="20171206T165534Z">
-        <seg>Note generali sulle macro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181112T095851Z" creationid="Marina Latini" creationdate="20171206T165534Z">
+        <seg>aaaaaaaaaaaaaaNote generali sulle macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -18105,8 +18105,8 @@
       <tuv lang="EN">
         <seg>Getting a line break through a query</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181109T081538Z" creationid="Marina Latini" creationdate="20171206T165431Z">
-        <seg>aaaaaaaaaaaaaaaaaOttenere un'interruzione di riga attraverso un'interrogazione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181112T095730Z" creationid="Marina Latini" creationdate="20171206T165431Z">
+        <seg>Ottenere un'interruzione di riga tramite una query</seg>
       </tuv>
     </tu>
     <tu>
@@ -18201,8 +18201,8 @@
       <tuv lang="EN">
         <seg>Grouping and summarizing</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171206T165452Z" creationid="Marina Latini" creationdate="20171206T165452Z">
-        <seg>Raggruppare e rieplilogare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181112T095832Z" creationid="Marina Latini" creationdate="20171206T165452Z">
+        <seg>Raggruppare e riepilogare</seg>
       </tuv>
     </tu>
     <tu>
