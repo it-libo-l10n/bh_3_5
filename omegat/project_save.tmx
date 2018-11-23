@@ -14024,8 +14024,8 @@
       <tuv lang="EN">
         <seg>Comboboxes as listboxes with an entry option</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180414T133117Z" creationid="Marina Latini" creationdate="20171207T094246Z">
-        <seg>Caselle combinate come liste di scelta con possibilità di inserimento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T075355Z" creationid="Marina Latini" creationdate="20171207T094246Z">
+        <seg>Caselle combinate come caselle di riepilogo con possibilità di inserimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -25313,8 +25313,8 @@
       <tuv lang="EN">
         <seg>Navigation from one form to another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T154538Z" creationid="Marina Latini" creationdate="20171207T094601Z">
-        <seg>Navigazione tra formulari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T075402Z" creationid="Marina Latini" creationdate="20171207T094601Z">
+        <seg>aaaaaaaaaaaaaaaaNavigazione tra formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -29617,8 +29617,8 @@
       <tuv lang="EN">
         <seg>Searching data records</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181114T143531Z" creationid="Marina Latini" creationdate="20171206T165647Z">
-        <seg>aaaaaaaaaaaaaaaaaaRicercare i record di dati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T074927Z" creationid="Marina Latini" creationdate="20171206T165647Z">
+        <seg>Ricerca dei record di dati</seg>
       </tuv>
     </tu>
     <tu>
