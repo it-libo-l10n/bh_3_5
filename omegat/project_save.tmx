@@ -14944,8 +14944,8 @@
       <tuv lang="EN">
         <seg>Database tasks expanded using macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162424Z" creationid="Marina Latini" creationdate="20171207T094916Z">
-        <seg>Ampliare le attività del database tramite macro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T084413Z" creationid="Marina Latini" creationdate="20171207T094916Z">
+        <seg>Ampliamento delle attività del database tramite macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -24873,8 +24873,8 @@
       <tuv lang="EN">
         <seg>Making a connection to a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T162443Z" creationid="Marina Latini" creationdate="20171207T094950Z">
-        <seg>Stabilire una connessione a un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T084419Z" creationid="Marina Latini" creationdate="20171207T094950Z">
+        <seg>aaaaaaaaaaaaaaaaStabilire una connessione a un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -25313,8 +25313,8 @@
       <tuv lang="EN">
         <seg>Navigation from one form to another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181123T075402Z" creationid="Marina Latini" creationdate="20171207T094601Z">
-        <seg>aaaaaaaaaaaaaaaaNavigazione tra formulari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T084227Z" creationid="Marina Latini" creationdate="20171207T094601Z">
+        <seg>Navigazione tra formulari</seg>
       </tuv>
     </tu>
     <tu>
