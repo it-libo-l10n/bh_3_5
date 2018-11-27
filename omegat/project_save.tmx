@@ -15096,8 +15096,8 @@
       <tuv lang="EN">
         <seg>Decreasing the table index for autovalue fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180427T172843Z" creationid="Marina Latini" creationdate="20171207T095158Z">
-        <seg>Decrementare l'indice della tabella per i campi a valore automatico</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T084323Z" creationid="Marina Latini" creationdate="20171207T095158Z">
+        <seg>aaaaaaaaaaaaaaaaDecrementare l'indice della tabella per i campi a valore automatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -24873,8 +24873,8 @@
       <tuv lang="EN">
         <seg>Making a connection to a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181126T084419Z" creationid="Marina Latini" creationdate="20171207T094950Z">
-        <seg>aaaaaaaaaaaaaaaaStabilire una connessione a un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T084106Z" creationid="Marina Latini" creationdate="20171207T094950Z">
+        <seg>Connessione a un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -29657,8 +29657,8 @@
       <tuv lang="EN">
         <seg>Securing your database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095007Z" creationid="Marina Latini" creationdate="20171207T095007Z">
-        <seg>Proteggere il database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T084154Z" creationid="Marina Latini" creationdate="20171207T095007Z">
+        <seg>Protezione del database</seg>
       </tuv>
     </tu>
     <tu>
