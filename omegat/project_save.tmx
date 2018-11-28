@@ -14048,8 +14048,8 @@
       <tuv lang="EN">
         <seg>Compacting a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095336Z" creationid="Marina Latini" creationdate="20171207T095336Z">
-        <seg>Compattare un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T095631Z" creationid="Marina Latini" creationdate="20171207T095336Z">
+        <seg>Compressione del database</seg>
       </tuv>
     </tu>
     <tu>
@@ -15096,8 +15096,8 @@
       <tuv lang="EN">
         <seg>Decreasing the table index for autovalue fields</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181127T084323Z" creationid="Marina Latini" creationdate="20171207T095158Z">
-        <seg>aaaaaaaaaaaaaaaaDecrementare l'indice della tabella per i campi a valore automatico</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T095343Z" creationid="Marina Latini" creationdate="20171207T095158Z">
+        <seg>Decrementare l'indice della tabella per campi a valore automatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -27881,8 +27881,8 @@
       <tuv lang="EN">
         <seg>Resetting autovalues</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095412Z" creationid="Marina Latini" creationdate="20171207T095412Z">
-        <seg>Ripristinare i valori automatici</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T095638Z" creationid="Marina Latini" creationdate="20171207T095412Z">
+        <seg>aaaaaaaaaaaaaaaaRipristinare i valori automatici</seg>
       </tuv>
     </tu>
     <tu>
