@@ -15528,8 +15528,8 @@
       <tuv lang="EN">
         <seg>Editing entries using forms and subforms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095631Z" creationid="Marina Latini" creationdate="20171207T095631Z">
-        <seg>Modificare le voci usando formulari e formulari secondari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T102219Z" creationid="Marina Latini" creationdate="20171207T095631Z">
+        <seg>Modifica delle voci tramite formulari e formulari secondari</seg>
       </tuv>
     </tu>
     <tu>
@@ -27193,8 +27193,8 @@
       <tuv lang="EN">
         <seg>Queries for finding orphan entries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095704Z" creationid="Marina Latini" creationdate="20171207T095704Z">
-        <seg>Interrogazioni per cercare voci orfane</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T102225Z" creationid="Marina Latini" creationdate="20171207T095704Z">
+        <seg>aaaaaaaaaaaaaaaaInterrogazioni per cercare voci orfane</seg>
       </tuv>
     </tu>
     <tu>
@@ -27881,8 +27881,8 @@
       <tuv lang="EN">
         <seg>Resetting autovalues</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181128T095638Z" creationid="Marina Latini" creationdate="20171207T095412Z">
-        <seg>aaaaaaaaaaaaaaaaRipristinare i valori automatici</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T101409Z" creationid="Marina Latini" creationdate="20171207T095412Z">
+        <seg>Ripristinare i valori automatici</seg>
       </tuv>
     </tu>
     <tu>
@@ -31097,16 +31097,16 @@
       <tuv lang="EN">
         <seg>Testing entries using relationship definition</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095536Z" creationid="Marina Latini" creationdate="20171207T095536Z">
-        <seg>Testare i valori usando la definizione delle relazioni</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T102140Z" creationid="Marina Latini" creationdate="20171207T095536Z">
+        <seg>Test delle voci tramite definizione delle relazioni</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Testing tables for unnecessary entries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095507Z" creationid="Marina Latini" creationdate="20171207T095507Z">
-        <seg>Testare le tabelle per voci non necessarie</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T102027Z" creationid="Marina Latini" creationdate="20171207T095507Z">
+        <seg>Test delle tabelle per voci non necessarie</seg>
       </tuv>
     </tu>
     <tu>
