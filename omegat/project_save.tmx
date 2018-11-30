@@ -14880,8 +14880,8 @@
       <tuv lang="EN">
         <seg>Data types for the table editor</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180402T101312Z" creationid="Marina Latini" creationdate="20171207T095929Z">
-        <seg>Tipi di dati per l'editor della tabella</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T082215Z" creationid="Marina Latini" creationdate="20171207T095929Z">
+        <seg>aaaaaaaaaaaaaaaTipi di dati per l'editor della tabella</seg>
       </tuv>
     </tu>
     <tu>
@@ -15552,8 +15552,8 @@
       <tuv lang="EN">
         <seg>Effect of listboxes and comboboxes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T095825Z" creationid="Marina Latini" creationdate="20171207T095825Z">
-        <seg>Effetto di liste di scelta e caselle combo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T082157Z" creationid="Marina Latini" creationdate="20171207T095825Z">
+        <seg>Effetto di caselle di riepilogo e caselle combinate</seg>
       </tuv>
     </tu>
     <tu>
@@ -27193,8 +27193,8 @@
       <tuv lang="EN">
         <seg>Queries for finding orphan entries</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181129T102557Z" creationid="Marina Latini" creationdate="20171207T095704Z">
-        <seg>aaaaaaaaaaaaaaInterrogazioni per cercare voci orfane</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T081604Z" creationid="Marina Latini" creationdate="20171207T095704Z">
+        <seg>Interrogazioni per cercare voci orfane</seg>
       </tuv>
     </tu>
     <tu>
