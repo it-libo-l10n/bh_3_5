@@ -12856,8 +12856,8 @@
       <tuv lang="EN">
         <seg>Built-in functions and stored procedures</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T100219Z" creationid="Marina Latini" creationdate="20171207T100219Z">
-        <seg>Funzioni integrate e procedure salvate</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181204T082003Z" creationid="Marina Latini" creationdate="20171207T100219Z">
+        <seg>aaaaaaaaaaaaaaaFunzioni integrate e procedure salvate</seg>
       </tuv>
     </tu>
     <tu>
@@ -14880,8 +14880,8 @@
       <tuv lang="EN">
         <seg>Data types for the table editor</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181130T082215Z" creationid="Marina Latini" creationdate="20171207T095929Z">
-        <seg>aaaaaaaaaaaaaaaTipi di dati per l'editor della tabella</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181204T081743Z" creationid="Marina Latini" creationdate="20171207T095929Z">
+        <seg>Tipi di dati per l'editor di tabella</seg>
       </tuv>
     </tu>
     <tu>
