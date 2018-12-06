@@ -13720,8 +13720,8 @@
       <tuv lang="EN">
         <seg>Changing the database connection to external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T164953Z" creationid="Marina Latini" creationdate="20171207T102844Z">
-        <seg>Modificare una connessione del database a un HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T075707Z" creationid="Marina Latini" creationdate="20171207T102844Z">
+        <seg>aaaaaaaaaaaaaaaModificare una connessione del database a un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
@@ -14104,8 +14104,8 @@
       <tuv lang="EN">
         <seg>Connecting a database to an external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T162831Z" creationid="Marina Latini" creationdate="20171207T102800Z">
-        <seg>Connettere un database a un HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T075703Z" creationid="Marina Latini" creationdate="20171207T102800Z">
+        <seg>Connessione di un database a un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
@@ -14920,8 +14920,8 @@
       <tuv lang="EN">
         <seg>Database repair for *.odb files</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T102905Z" creationid="Marina Latini" creationdate="20171207T102712Z">
-        <seg>Riparare i database per i file *.odb</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T075614Z" creationid="Marina Latini" creationdate="20171207T102712Z">
+        <seg>Riparazione di database per file *.odb</seg>
       </tuv>
     </tu>
     <tu>
@@ -23161,8 +23161,8 @@
       <tuv lang="EN">
         <seg>Information tables for HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181205T144802Z" creationid="Marina Latini" creationdate="20171207T102456Z">
-        <seg>aaaaaaaaaaaaaaaaaaTabelle informative per HSQLDB</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T075506Z" creationid="Marina Latini" creationdate="20171207T102456Z">
+        <seg>Tabelle informative per HSQLDB</seg>
       </tuv>
     </tu>
     <tu>
