@@ -11872,8 +11872,8 @@
       <tuv lang="EN">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice &lt;f0&gt;Base &lt;/f0&gt;will find this &lt;f1&gt;book&lt;/f1&gt; valuable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T103201Z" creationid="Marina Latini" creationdate="20171207T103201Z">
-        <seg>Chiunque voglia velocizzare l'utilizzo di LibreOffice &lt;f0&gt;Base &lt;/f0&gt;troverà questo &lt;f1&gt;libro&lt;/f1&gt; prezioso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T084822Z" creationid="Marina Latini" creationdate="20171207T103201Z">
+        <seg>aaaaaaaaaaaaaaaChiunque voglia velocizzare l'utilizzo di LibreOffice &lt;f0&gt;Base &lt;/f0&gt;troverà questo &lt;f1&gt;libro&lt;/f1&gt; prezioso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,8 +12464,8 @@
       <tuv lang="EN">
         <seg>Auto-incrementing values with external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T172229Z" creationid="Marina Latini" creationdate="20171207T103011Z">
-        <seg>Valori a incremento automatico con un HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T084754Z" creationid="Marina Latini" creationdate="20171207T103011Z">
+        <seg>Valori a incremento automatico con HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
@@ -13712,16 +13712,16 @@
       <tuv lang="EN">
         <seg>Changing the database connection for multi-user access</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180403T170006Z" creationid="Marina Latini" creationdate="20171207T102936Z">
-        <seg>Modificare una connessione al database per un accesso multiutente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T084521Z" creationid="Marina Latini" creationdate="20171207T102936Z">
+        <seg>Modifica della connessione del database per l'accesso multiutente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Changing the database connection to external HSQLDB</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181206T075707Z" creationid="Marina Latini" creationdate="20171207T102844Z">
-        <seg>aaaaaaaaaaaaaaaModificare una connessione del database a un HSQLDB esterno</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T084418Z" creationid="Marina Latini" creationdate="20171207T102844Z">
+        <seg>Modifica della connessione del database a un HSQLDB esterno</seg>
       </tuv>
     </tu>
     <tu>
@@ -41993,8 +41993,8 @@
       <tuv lang="EN">
         <seg>Who is this book for?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171003T070649Z" creationid="ldaghino" creationdate="20171003T070649Z">
-        <seg>Destinatari del manuale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T084817Z" creationid="ldaghino" creationdate="20171003T070649Z">
+        <seg>Destinatari della guida</seg>
       </tuv>
     </tu>
     <tu>
