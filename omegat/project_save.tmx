@@ -9624,8 +9624,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;&lt;f3&gt;Base uses the HSQLDB database engine to create database documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181210T101155Z" creationid="Marina Latini" creationdate="20171207T103726Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f2&gt;&lt;f3&gt;Base usa il motore HSQLDB per creare database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181211T075119Z" creationid="Marina Latini" creationdate="20171207T103726Z">
+        <seg>&lt;f2&gt;&lt;f3&gt;Base usa il motore HSQLDB per creare database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,8 +12632,8 @@
       <tuv lang="EN">
         <seg>Base includes additional functionality that allows you to create full data-driven applications.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105155Z" creationid="Marina Latini" creationdate="20171207T105155Z">
-        <seg>Base include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181211T075313Z" creationid="Marina Latini" creationdate="20171207T105155Z">
+        <seg>aaaaBase include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
