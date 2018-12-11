@@ -4600,8 +4600,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;This book introduces the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;features and&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; functions of Base, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;using two example databases.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105347Z" creationid="Marina Latini" creationdate="20171207T105347Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Questo libro introduce le &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;caratteristiche e &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;le funzioni di Base, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;usando due database di esempio.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181211T081621Z" creationid="Marina Latini" creationdate="20171207T105347Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Questa guida introduce le &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;caratteristiche e&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; le funzioni di Base, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;usando due database di esempio.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,8 +12632,8 @@
       <tuv lang="EN">
         <seg>Base includes additional functionality that allows you to create full data-driven applications.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181211T075313Z" creationid="Marina Latini" creationdate="20171207T105155Z">
-        <seg>aaaaBase include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181211T081300Z" creationid="Marina Latini" creationdate="20171207T105155Z">
+        <seg>Base include funzionalità aggiuntive che consentono di creare applicazioni complete basate sui dati.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14400,8 +14400,8 @@
       <tuv lang="EN">
         <seg>Creating a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105354Z" creationid="Marina Latini" creationdate="20171207T105354Z">
-        <seg>Creazione di un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181211T081623Z" creationid="Marina Latini" creationdate="20171207T105354Z">
+        <seg>aaaaaaaaaaaaaaaaCreazione di un database</seg>
       </tuv>
     </tu>
     <tu>
