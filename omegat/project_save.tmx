@@ -4720,8 +4720,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Using queries to &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;bring together data from different tables, calculate results where necessary, and quickly filter a specific record from a mass of data&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T105840Z" creationid="Marina Latini" creationdate="20171207T105840Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Uso di ricerche per &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;inserire dati da differenti tabelle, calcolare i risultati dove necessario e filtrare rapidamente un risultato specifico da una massa di dati&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181212T094831Z" creationid="Marina Latini" creationdate="20171207T105840Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Uso di ricerche per &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;inserire dati da differenti tabelle, calcolare i risultati dove necessario e filtrare rapidamente un risultato specifico da una massa di dati&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14400,8 +14400,8 @@
       <tuv lang="EN">
         <seg>Creating a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181211T081623Z" creationid="Marina Latini" creationdate="20171207T105354Z">
-        <seg>aaaaaaaaaaaaaaaaCreazione di un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181212T094707Z" creationid="Marina Latini" creationdate="20171207T105354Z">
+        <seg>Creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
