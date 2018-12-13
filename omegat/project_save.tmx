@@ -14472,8 +14472,8 @@
       <tuv lang="EN">
         <seg>Creating reports using the Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181213T114937Z" creationid="Marina Latini" creationdate="20171205T173725Z">
-        <seg>aaaaCreazione di rapporti tramite il Report Builder</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T133409Z" creationid="Marina Latini" creationdate="20171205T173725Z">
+        <seg>Creazione di rapporti tramite il Report Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -16609,8 +16609,8 @@
       <tuv lang="EN">
         <seg>Filtering and searching data</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T110029Z" creationid="Marina Latini" creationdate="20171207T110029Z">
-        <seg>Filtrare e ricercare dati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T133626Z" creationid="Marina Latini" creationdate="20171207T110029Z">
+        <seg>Filtraggio e ricerca dei dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -24569,8 +24569,8 @@
       <tuv lang="EN">
         <seg>Linking databases to other documents and external forms, including use in mail merge</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T110006Z" creationid="Marina Latini" creationdate="20171207T110006Z">
-        <seg>Collagare database ad altri documenti e formulari esterni, incluso l'uso in stampa in serie</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T133555Z" creationid="Marina Latini" creationdate="20171207T110006Z">
+        <seg>Collegare database ad altri documenti e formulari esterni, incluso l'uso nella stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -41129,8 +41129,8 @@
       <tuv lang="EN">
         <seg>Using macros to prevent input errors, simplify tasks, and improve usability of forms</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T111041Z" creationid="Marina Latini" creationdate="20171207T111041Z">
-        <seg>Uso di macro per prevenire errori di digitazione, semplificare le attività e migliorare l'usabilità dei formulari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T133712Z" creationid="Marina Latini" creationdate="20171207T111041Z">
+        <seg>aaaaaaaaaaaaaaaaUso di macro per prevenire errori di digitazione, semplificare le attività e migliorare l'usabilità dei formulari</seg>
       </tuv>
     </tu>
     <tu>
