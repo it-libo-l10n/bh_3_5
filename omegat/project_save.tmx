@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4720,8 +4720,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Using queries to &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;bring together data from different tables, calculate results where necessary, and quickly filter a specific record from a mass of data&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181212T094831Z" creationid="Marina Latini" creationdate="20171207T105840Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Uso di ricerche per &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;inserire dati da differenti tabelle, calcolare i risultati dove necessario e filtrare rapidamente un risultato specifico da una massa di dati&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T114935Z" creationid="Marina Latini" creationdate="20171207T105840Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Uso di query per &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;riunire dati da differenti tabelle, calcolare i risultati dove necessario e filtrare rapidamente un record specifico da un insieme di dati&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14472,8 +14472,8 @@
       <tuv lang="EN">
         <seg>Creating reports using the Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181022T123502Z" creationid="Marina Latini" creationdate="20171205T173725Z">
-        <seg>Creazione di rapporti tramite il Report Builder</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T114937Z" creationid="Marina Latini" creationdate="20171205T173725Z">
+        <seg>aaaaCreazione di rapporti tramite il Report Builder</seg>
       </tuv>
     </tu>
     <tu>
