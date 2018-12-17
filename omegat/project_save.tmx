@@ -7000,8 +7000,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Data source of c&lt;/f0&gt;urrent &lt;f1&gt;d&lt;/f1&gt;ocument</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T190502Z" creationid="Elisabetta Manuele" creationdate="20180306T190502Z">
-        <seg>&lt;f0&gt;Sorgente dati del &lt;f1&gt;d&lt;/f1&gt;ocumento a&lt;/f0&gt;ttuale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181217T081201Z" creationid="Elisabetta Manuele" creationdate="20180306T190502Z">
+        <seg>&lt;f0&gt;Sorgente dati&lt;/f0&gt; del documento a&lt;f1&gt;ttuale&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8480,8 +8480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TextDisplay&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;f5&gt; is called.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180412T151959Z" creationid="Elisabetta Manuele" creationdate="20180412T151630Z">
-        <seg>Viene richiamata &lt;f0&gt;la &lt;/f0&gt;&lt;f4&gt;subroutine&lt;/f4&gt;&lt;f5&gt; &lt;f1&gt;&lt;f2&gt;TextDisplay&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181217T090601Z" creationid="Elisabetta Manuele" creationdate="20180412T151630Z">
+        <seg>&lt;f0&gt;Viene richiamata la subroutine &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TextDisplay&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21633,8 +21633,8 @@
       <tuv lang="EN">
         <seg>In addition, you can choose whether to activate Tips, Extended &lt;f6&gt;T&lt;/f6&gt;ips, and the Help Agent (using &lt;f7&gt;Tools &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Options &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; LibreOffice &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; General&lt;/f16&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181217T080737Z" creationid="Marina Latini" creationdate="20171207T112623Z">
-        <seg>aaaaaaaaaaaaaaaaaaaInoltre, è possibile scegliere di attivare l'identificazione degli strumenti, i &lt;f6&gt;S&lt;/f6&gt;uggerimenti attivi e l'Assistente di aiuto (da &lt;f7&gt;Strumenti &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Opzioni &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; LibreOffice &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Generale&lt;/f16&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181217T090656Z" creationid="Marina Latini" creationdate="20171207T112623Z">
+        <seg>aaaaaaaaaaaaaaaaaaInoltre, è possibile scegliere di attivare l'identificazione degli strumenti, i &lt;f6&gt;S&lt;/f6&gt;uggerimenti attivi e l'Assistente di aiuto (da &lt;f7&gt;Strumenti &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Opzioni &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; LibreOffice &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Generale&lt;/f16&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23625,8 +23625,8 @@
       <tuv lang="EN">
         <seg>It is advisable, especially for the first tests, to choose &lt;f1&gt;Output&lt;/f1&gt; to a &lt;f2&gt;File&lt;/f2&gt;, which will save the labels as a document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180308T122325Z" creationid="Elisabetta Manuele" creationdate="20180308T122325Z">
-        <seg>È consigliabile, specie nei primi tentativi, scegliere &lt;f2&gt;File&lt;/f2&gt; come &lt;f1&gt;destinazione&lt;/f1&gt;, che consente di salvare le etichette come documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181217T081209Z" creationid="Elisabetta Manuele" creationdate="20180308T122325Z">
+        <seg>È consigliabile, specie nei primi tentativi, scegliere File come destinazione&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, che consente di salvare le etichette come documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26553,8 +26553,8 @@
       <tuv lang="EN">
         <seg>Only when you click on the &lt;f0&gt;T&lt;/f0&gt;ables folder is the database actually ac&lt;f1&gt;c&lt;/f1&gt;essed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180306T182157Z" creationid="Elisabetta Manuele" creationdate="20180306T182157Z">
-        <seg>L'ac&lt;f1&gt;c&lt;/f1&gt;esso effettivo al database è consentito solo selezionando la cartella &lt;f0&gt;T&lt;/f0&gt;abelle. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181217T081120Z" creationid="Elisabetta Manuele" creationdate="20180306T182157Z">
+        <seg>L'accesso effettivo al database è consentito solo selezionando la cartella &lt;f0&gt;T&lt;/f0&gt;abelle&lt;f1&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31593,8 +31593,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Copy &lt;/f0&gt;&lt;f1&gt;Table&lt;/f1&gt; &lt;f2&gt;d&lt;/f2&gt;ialog appears.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180310T115901Z" creationid="Elisabetta Manuele" creationdate="20180310T115901Z">
-        <seg>Si aprirà la finestra di &lt;f2&gt;d&lt;/f2&gt;ialogo &lt;f0&gt;Copia &lt;/f0&gt;&lt;f1&gt;tabella&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181217T090339Z" creationid="Elisabetta Manuele" creationdate="20180310T115901Z">
+        <seg>Si aprirà la finestra di dialogo &lt;f0&gt;Copia &lt;/f0&gt;&lt;f1&gt;tabella&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
