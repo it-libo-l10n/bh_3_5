@@ -9320,8 +9320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You&lt;/f0&gt; can get comprehensive online &lt;is1/&gt;support&lt;ie2/&gt; from the community through mailing lists &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;the Ask LibreOffice website&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T152036Z" creationid="Marina Latini" creationdate="20171207T152036Z">
-        <seg>&lt;f0&gt;Potete&lt;/f0&gt; ottenere &lt;is1/&gt;assistenza in rete&lt;ie2/&gt; dalla comunità attraverso le mailing list &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;il sito web di LibreOffice Ask&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T102638Z" creationid="Marina Latini" creationdate="20171207T152036Z">
+        <seg>&lt;f0&gt;Potete&lt;/f0&gt; ottenere &lt;is1/&gt;assistenza in rete&lt;ie2/&gt; dalla comunità attraverso le mailing list &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;il sito web di Ask LibreOffice&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26713,8 +26713,8 @@
       <tuv lang="EN">
         <seg>Other websites run by users also offer free tips and tutorials.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T162724Z" creationid="Marina Latini" creationdate="20171207T162724Z">
-        <seg>Anche altri siti web gestiti da utenti offrono gratuitamente consigli e tutorial.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T102810Z" creationid="Marina Latini" creationdate="20171207T162724Z">
+        <seg>Sono inoltre presenti in rete altri siti web gestiti da utenti, che offrono gratuitamente consigli e tutorial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29689,8 +29689,8 @@
       <tuv lang="EN">
         <seg>See &lt;t0&gt;Table 1&lt;/t0&gt; and this web page: &lt;a1&gt;http://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181219T100826Z" creationid="Marina Latini" creationdate="20171207T132044Z">
-        <seg>aaaaVedere la &lt;t0&gt;Tabella 1&lt;/t0&gt; e questa pagina web: &lt;a1&gt;http://it.libreoffice.org/supporto/&lt;/a1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T102112Z" creationid="Marina Latini" creationdate="20171207T132044Z">
+        <seg>Vedere la &lt;t0&gt;Tabella 1&lt;/t0&gt; e questa pagina web: &lt;a1&gt;http://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38505,8 +38505,8 @@
       <tuv lang="EN">
         <seg>This forum provides community support for LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164223Z" creationid="Marina Latini" creationdate="20171207T164223Z">
-        <seg>Questo forum fornisce supporto da parte della comunità per LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T102817Z" creationid="Marina Latini" creationdate="20171207T164223Z">
+        <seg>aaaaaaaaaaaaaaaaQuesto forum fornisce supporto da parte della comunità per LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
     </tu>
     <tu>
