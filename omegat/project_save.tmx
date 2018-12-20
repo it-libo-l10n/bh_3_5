@@ -1448,8 +1448,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://forum.openoffice.org/en/forum/&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164353Z" creationid="Marina Latini" creationdate="20171207T164353Z">
-        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://forum.openoffice.org/it/forum/&lt;/f3&gt;&lt;/a2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T102103Z" creationid="Marina Latini" creationdate="20171207T164353Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://forum.openoffice.org/en/forum/&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,8 +8112,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164450Z" creationid="Marina Latini" creationdate="20171207T164450Z">
-        <seg>&lt;f0&gt;Domande e risposte dalla comunità di LibreOffice&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T102317Z" creationid="Marina Latini" creationdate="20171207T164450Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;Domande e risposte dalla comunità di LibreOffice&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9008,8 +9008,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This site provides support for LibreOffice, among other programs:&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T164314Z" creationid="Marina Latini" creationdate="20171207T164314Z">
-        <seg>&lt;f0&gt;Questo sito fornisce supporto per LibreOffice e altri programmi:&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T101947Z" creationid="Marina Latini" creationdate="20171207T164314Z">
+        <seg>&lt;f0&gt;Il sito seguente fornisce supporto per LibreOffice e altri programmi:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38505,8 +38505,8 @@
       <tuv lang="EN">
         <seg>This forum provides community support for LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181219T102817Z" creationid="Marina Latini" creationdate="20171207T164223Z">
-        <seg>aaaaaaaaaaaaaaaaQuesto forum fornisce supporto da parte della comunità per LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T101746Z" creationid="Marina Latini" creationdate="20171207T164223Z">
+        <seg>Il forum seguente fornisce supporto da parte della comunità per LibreOffice: &lt;a5&gt;&lt;f6&gt;http://en.libreofficeforum.org/&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
     </tu>
     <tu>
