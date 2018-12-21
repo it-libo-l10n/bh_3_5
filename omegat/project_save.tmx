@@ -1432,16 +1432,16 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165536Z" creationid="Marina Latini" creationdate="20171207T165536Z">
-        <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082329Z" creationid="Marina Latini" creationdate="20171207T165536Z">
+        <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://ask.libreoffice.org/en/questions/&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165359Z" creationid="Marina Latini" creationdate="20171207T165359Z">
-        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://ask.libreoffice.org/it/questions/&lt;/f3&gt;&lt;/a2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T081341Z" creationid="Marina Latini" creationdate="20171207T165359Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://ask.libreoffice.org/en/questions/&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,8 +1768,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://wiki.documentfoundation.org/Faq&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165835Z" creationid="Marina Latini" creationdate="20171207T165835Z">
-        <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082529Z" creationid="Marina Latini" creationdate="20171207T165835Z">
+        <seg>&lt;/f1&gt;&lt;a3&gt;&lt;f4&gt;http://wiki.documentfoundation.org/Faq&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,8 +2320,8 @@
       <tuv lang="EN">
         <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/mailing-lists/&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170042Z" creationid="Marina Latini" creationdate="20171207T170042Z">
-        <seg>&lt;a1&gt;&lt;f2&gt;http://it.libreoffice.org/supporto/mailing-list/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082639Z" creationid="Marina Latini" creationdate="20171207T170042Z">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/mailing-lists/&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6648,8 +6648,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Answers to frequently asked questions&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165740Z" creationid="Marina Latini" creationdate="20171207T165740Z">
-        <seg>&lt;f0&gt;Risposte alle Domande frequenti&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082507Z" creationid="Marina Latini" creationdate="20171207T165740Z">
+        <seg>&lt;f0&gt;Risposte alle domande frequenti&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,8 +8112,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181220T102317Z" creationid="Marina Latini" creationdate="20171207T164450Z">
-        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;Domande e risposte dalla comunità di LibreOffice&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T075607Z" creationid="Marina Latini" creationdate="20171207T164450Z">
+        <seg>&lt;f0&gt;Domande e risposte dalla comunità di LibreOffice&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9144,8 +9144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;User guides, how-tos, and other documentation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T165517Z" creationid="Marina Latini" creationdate="20171207T165517Z">
-        <seg>&lt;f0&gt;Guide utente, istruzioni, e altra documentazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T081613Z" creationid="Marina Latini" creationdate="20171207T165517Z">
+        <seg>&lt;f0&gt;Guide utente, how-to e altra documentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23409,16 +23409,16 @@
       <tuv lang="EN">
         <seg>International Support</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170048Z" creationid="Marina Latini" creationdate="20171207T170048Z">
-        <seg>Supporto Internazionale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082656Z" creationid="Marina Latini" creationdate="20171207T170048Z">
+        <seg>Supporto internazionale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>International support</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170055Z" creationid="Marina Latini" creationdate="20171207T170055Z">
-        <seg>Supporto Internazionale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082714Z" creationid="Marina Latini" creationdate="20171207T170055Z">
+        <seg>Supporto internazionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -32169,8 +32169,8 @@
       <tuv lang="EN">
         <seg>The LibreOffice website in your language.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170106Z" creationid="Marina Latini" creationdate="20171207T170106Z">
-        <seg>Il sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181221T082721Z" creationid="Marina Latini" creationdate="20171207T170106Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaIl sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
