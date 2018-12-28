@@ -1576,8 +1576,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170505Z" creationid="Marina Latini" creationdate="20171207T170505Z">
-        <seg>&lt;/f0&gt;Contratti di assistenza possono essere acquistati presso un distributore o da una ditta di consulenza specializzata in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181228T082040Z" creationid="Marina Latini" creationdate="20171207T170505Z">
+        <seg>&lt;/f0&gt;Contratti di assistenza possono essere acquistati presso un rivenditore o da una ditta di consulenza specializzata in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24473,8 +24473,8 @@
       <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170527Z" creationid="Marina Latini" creationdate="20171207T170527Z">
-        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181228T082930Z" creationid="Marina Latini" creationdate="20171207T170527Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaLibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26873,8 +26873,8 @@
       <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181227T080640Z" creationid="Marina Latini" creationdate="20171003T085729Z">
-        <seg>aaaaaaaaaaaaaaaaSupporto e formazione a pagamento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181228T081645Z" creationid="Marina Latini" creationdate="20171003T085729Z">
+        <seg>Assistenza e formazione a pagamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -41513,8 +41513,8 @@
       <tuv lang="EN">
         <seg>What you see may be different</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T085739Z" creationid="Marina Latini" creationdate="20171003T085739Z">
-        <seg>Differenze nelle immagini presenti nel libro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181228T082918Z" creationid="Marina Latini" creationdate="20171003T085739Z">
+        <seg>Differenze nelle immagini presenti nella guida</seg>
       </tuv>
     </tu>
     <tu>
