@@ -11568,8 +11568,8 @@
       <tuv lang="EN">
         <seg>Also, some of the dialogs may be differ because of the settings selected in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170653Z" creationid="Marina Latini" creationdate="20171207T170653Z">
-        <seg>Anche alcune finestre di dialogo potrebbero essere differenti a causa delle impostazioni selezioante in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T075304Z" creationid="Marina Latini" creationdate="20171207T170653Z">
+        <seg>aaaaaaaaaaaaaaaAnche alcune finestre di dialogo potrebbero essere differenti a causa delle impostazioni selezioante in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24473,8 +24473,8 @@
       <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181228T082930Z" creationid="Marina Latini" creationdate="20171207T170527Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaLibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T075117Z" creationid="Marina Latini" creationdate="20171207T170527Z">
+        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali prevede diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34417,8 +34417,8 @@
       <tuv lang="EN">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170539Z" creationid="Marina Latini" creationdate="20171207T170539Z">
-        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T075228Z" creationid="Marina Latini" creationdate="20171207T170539Z">
+        <seg>Le illustrazioni di questa guida sono tratte da computer e sistemi operativi diversi.</seg>
       </tuv>
     </tu>
     <tu>
