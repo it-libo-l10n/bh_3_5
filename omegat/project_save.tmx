@@ -11568,8 +11568,8 @@
       <tuv lang="EN">
         <seg>Also, some of the dialogs may be differ because of the settings selected in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190102T075304Z" creationid="Marina Latini" creationdate="20171207T170653Z">
-        <seg>aaaaaaaaaaaaaaaAnche alcune finestre di dialogo potrebbero essere differenti a causa delle impostazioni selezioante in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190103T082808Z" creationid="Marina Latini" creationdate="20171207T170653Z">
+        <seg>Anche alcune delle finestre di dialogo potrebbero essere differenti a causa delle impostazioni selezionate in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26049,8 +26049,8 @@
       <tuv lang="EN">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt;LibreOffice &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170733Z" creationid="Marina Latini" creationdate="20171207T170733Z">
-        <seg>Su sistemi operativi Linux e Windows, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt;LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190103T082904Z" creationid="Marina Latini" creationdate="20171207T170733Z">
+        <seg>aaaaaaaaaaaaaaaaSu sistemi operativi Linux e Windows, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt;LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42353,8 +42353,8 @@
       <tuv lang="EN">
         <seg>You can either use dialogs from your computer system (default) or dialogs provided by LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170710Z" creationid="Marina Latini" creationdate="20171207T170710Z">
-        <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema (impostazione predefinita) sia le finestre di dialogo fornite da LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190103T082851Z" creationid="Marina Latini" creationdate="20171207T170710Z">
+        <seg>È possibile utilizzare sia le finestre di dialogo del sistema operativo in uso (impostazione predefinita) sia le finestre di dialogo rese disponibili da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
