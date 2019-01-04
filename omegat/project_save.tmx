@@ -29793,8 +29793,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Use LibreOffice dialogs&lt;/f0&gt; in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; &lt;f2&gt;and, in Linux &lt;/f2&gt;&lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Mac OS X operating systems only, &lt;/f4&gt;&lt;f5&gt;Print dialogs &lt;/f5&gt;to display the LibreOffice dialogs on your computer display.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190104T083036Z" creationid="Marina Latini" creationdate="20171207T171119Z">
-        <seg>aaaaSelezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X , &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa &lt;/f5&gt;per visualizzare le finestre di dialoo di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T093754Z" creationid="Marina Latini" creationdate="20171207T171119Z">
+        <seg>Selezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X, &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa&lt;/f5&gt; per visualizzare le finestre di dialogo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34409,8 +34409,8 @@
       <tuv lang="EN">
         <seg>The icons used to illustrate some of the many tools available in LibreOffice may differ from the ones used in this guide.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T171158Z" creationid="Marina Latini" creationdate="20171207T171158Z">
-        <seg>Le icone utilizzate per illustrare alcuni dei molti strumenti disponibili in LibreOffice potrebbero essere diverse da quelle utilizzate in questa guida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T093822Z" creationid="Marina Latini" creationdate="20171207T171158Z">
+        <seg>aaaaaaaaaaaaaaaaaLe icone utilizzate per illustrare alcuni dei molti strumenti disponibili in LibreOffice potrebbero essere diverse da quelle utilizzate in questa guida.</seg>
       </tuv>
     </tu>
     <tu>
