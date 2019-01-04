@@ -26049,8 +26049,8 @@
       <tuv lang="EN">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt;LibreOffice &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190103T082904Z" creationid="Marina Latini" creationdate="20171207T170733Z">
-        <seg>aaaaaaaaaaaaaaaaSu sistemi operativi Linux e Windows, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt;LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T082755Z" creationid="Marina Latini" creationdate="20171207T170733Z">
+        <seg>Su sistemi operativi Linux e Windows, accedete a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26065,8 +26065,8 @@
       <tuv lang="EN">
         <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T170813Z" creationid="Marina Latini" creationdate="20171207T170813Z">
-        <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T083034Z" creationid="Marina Latini" creationdate="20171207T170813Z">
+        <seg>Su sistema operativo Mac, accedete a &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Generale&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni generali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29793,8 +29793,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Use LibreOffice dialogs&lt;/f0&gt; in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; &lt;f2&gt;and, in Linux &lt;/f2&gt;&lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Mac OS X operating systems only, &lt;/f4&gt;&lt;f5&gt;Print dialogs &lt;/f5&gt;to display the LibreOffice dialogs on your computer display.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171207T171119Z" creationid="Marina Latini" creationdate="20171207T171119Z">
-        <seg>Selezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X , &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa &lt;/f5&gt;per visualizzare le finestre di dialoo di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T083036Z" creationid="Marina Latini" creationdate="20171207T171119Z">
+        <seg>aaaaSelezionate &lt;f0&gt;Utilizza finestre di dialogo LibreOffice&lt;/f0&gt; nelle sezioni &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; &lt;f2&gt;e, solamente in Linux &lt;/f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;f4&gt; Mac OS X , &lt;/f4&gt;&lt;f5&gt;Finestre di dialogo di stampa &lt;/f5&gt;per visualizzare le finestre di dialoo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
