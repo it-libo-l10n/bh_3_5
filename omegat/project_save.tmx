@@ -26073,8 +26073,8 @@
       <tuv lang="EN">
         <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; View&lt;/f0&gt; on the main menu bar to open the dialog for view options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112043Z" creationid="Marina Latini" creationdate="20171213T112043Z">
-        <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190107T103822Z" creationid="Marina Latini" creationdate="20171213T112043Z">
+        <seg>aaaaaaaaaaaaaaaaaaaSu sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34409,8 +34409,8 @@
       <tuv lang="EN">
         <seg>The icons used to illustrate some of the many tools available in LibreOffice may differ from the ones used in this guide.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190104T093822Z" creationid="Marina Latini" creationdate="20171207T171158Z">
-        <seg>aaaaaaaaaaaaaaaaaLe icone utilizzate per illustrare alcuni dei molti strumenti disponibili in LibreOffice potrebbero essere diverse da quelle utilizzate in questa guida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190107T103602Z" creationid="Marina Latini" creationdate="20171207T171158Z">
+        <seg>Le icone utilizzate per illustrare alcuni dei molti strumenti disponibili in LibreOffice potrebbero essere diverse da quelle utilizzate in questa guida.</seg>
       </tuv>
     </tu>
     <tu>
