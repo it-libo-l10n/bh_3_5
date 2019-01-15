@@ -21297,8 +21297,8 @@
       <tuv lang="EN">
         <seg>In &lt;f0&gt;User interface &gt; Icon size and style&lt;/f0&gt; select &lt;f1&gt;Galaxy&lt;/f1&gt; from the options available in the dro&lt;f2&gt;p&lt;/f2&gt;&lt;f3&gt;-&lt;/f3&gt;down list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112334Z" creationid="Marina Latini" creationdate="20171213T112334Z">
-        <seg>In &lt;f0&gt;Interfaccia utente &gt; Dimensione e stile delle icone&lt;/f0&gt; selezionate &lt;f1&gt;Galaxy&lt;/f1&gt; dalle opzioni disponibili nel men&lt;f2&gt;u&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.a tendina</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190115T081619Z" creationid="Marina Latini" creationdate="20171213T112334Z">
+        <seg>In &lt;f0&gt;Interfaccia utente &gt; Dimensione e stile delle icone&lt;/f0&gt; selezionate &lt;f1&gt;Galaxy&lt;/f1&gt; dalle opzioni disponibili nel men&lt;f2&gt;u&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt; a tendina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26073,8 +26073,8 @@
       <tuv lang="EN">
         <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; View&lt;/f0&gt; on the main menu bar to open the dialog for view options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190107T103822Z" creationid="Marina Latini" creationdate="20171213T112043Z">
-        <seg>aaaaaaaaaaaaaaaaaaaSu sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190115T080902Z" creationid="Marina Latini" creationdate="20171213T112043Z">
+        <seg>Su sistema operativo Mac, andate su &lt;f0&gt;LibreOffice &gt; Preferenze &gt; Vista&lt;/f0&gt;, sulla barra dei menu principale, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30417,8 +30417,8 @@
       <tuv lang="EN">
         <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the Galaxy &lt;f0&gt;set of &lt;/f0&gt;icon&lt;f1&gt;s&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112818Z" creationid="Marina Latini" creationdate="20171213T112818Z">
-        <seg>Alcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il &lt;f0&gt;set di &lt;/f0&gt;icon&lt;f1&gt;e Galaxy.&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190115T082226Z" creationid="Marina Latini" creationdate="20171213T112818Z">
+        <seg>aaaaaaaaaaaaaaaaAlcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il &lt;f0&gt;set di &lt;/f0&gt;icon&lt;f1&gt;e Galaxy.&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
