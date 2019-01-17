@@ -30417,8 +30417,8 @@
       <tuv lang="EN">
         <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the Galaxy &lt;f0&gt;set of &lt;/f0&gt;icon&lt;f1&gt;s&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190115T082226Z" creationid="Marina Latini" creationdate="20171213T112818Z">
-        <seg>aaaaaaaaaaaaaaaaAlcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il &lt;f0&gt;set di &lt;/f0&gt;icon&lt;f1&gt;e Galaxy.&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190117T080217Z" creationid="Marina Latini" creationdate="20171213T112818Z">
+        <seg>Alcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il &lt;f0&gt;set di &lt;/f0&gt;icon&lt;f1&gt;e Galaxy&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30457,8 +30457,8 @@
       <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112930Z" creationid="Marina Latini" creationdate="20171213T112930Z">
-        <seg>Alcuni tasti e voci di menu su un Mac sono differenti da quelli utilizzati in ambiente Windows e Linux.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190117T080411Z" creationid="Marina Latini" creationdate="20171213T112930Z">
+        <seg>Alcuni tasti e voci di menu su Mac sono diversi da quelli utilizzati in ambiente Windows e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36345,8 +36345,8 @@
       <tuv lang="EN">
         <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112938Z" creationid="Marina Latini" creationdate="20171213T112938Z">
-        <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190117T080418Z" creationid="Marina Latini" creationdate="20171213T112938Z">
+        <seg>aaaaaaaaaaaaaaaaLa tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
