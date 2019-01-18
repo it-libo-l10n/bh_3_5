@@ -6944,8 +6944,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Control+click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; and/or &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;right-click&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; depending on computer setup&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113215Z" creationid="Marina Latini" creationdate="20171213T113215Z">
-        <seg>&lt;f0&gt;Control+clic&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; e/o &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;clic con il pulsante secondario del mouse&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; in base all'impostazione del computer&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T075437Z" creationid="Marina Latini" creationdate="20171213T113215Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;Control+clic&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; e/o &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;clic con il pulsante secondario del mouse&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; in base all'impostazione del computer&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16881,8 +16881,8 @@
       <tuv lang="EN">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T112957Z" creationid="Marina Latini" creationdate="20171213T112957Z">
-        <seg>Per un elenco più dettagliato, consultate la Guida in linea dell'applicazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T075225Z" creationid="Marina Latini" creationdate="20171213T112957Z">
+        <seg>Per un elenco più dettagliato consultate la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36345,8 +36345,8 @@
       <tuv lang="EN">
         <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190117T080418Z" creationid="Marina Latini" creationdate="20171213T112938Z">
-        <seg>aaaaaaaaaaaaaaaaLa tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T075148Z" creationid="Marina Latini" creationdate="20171213T112938Z">
+        <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
