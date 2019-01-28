@@ -6944,8 +6944,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Control+click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; and/or &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;right-click&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; depending on computer setup&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190118T075437Z" creationid="Marina Latini" creationdate="20171213T113215Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;Control+clic&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; e/o &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;clic con il pulsante secondario del mouse&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; in base all'impostazione del computer&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190128T092701Z" creationid="Marina Latini" creationdate="20171213T113215Z">
+        <seg>&lt;f0&gt;Control+clic&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; e/o &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;clic con il pulsante destro del mouse&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; in base alle impostazioni del computer&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9384,8 +9384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113318Z" creationid="Marina Latini" creationdate="20171213T113318Z">
-        <seg>&lt;f0&gt;z&lt;/f0&gt; + &lt;f1&gt;T&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190128T092954Z" creationid="Marina Latini" creationdate="20171213T113318Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;z&lt;/f0&gt; + &lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14504,8 +14504,8 @@
       <tuv lang="EN">
         <seg>Ctrl (Control)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113233Z" creationid="Marina Latini" creationdate="20171213T113233Z">
-        <seg>Ctrl</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190128T092755Z" creationid="Marina Latini" creationdate="20171213T113233Z">
+        <seg>Ctrl (Control)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26561,16 +26561,16 @@
       <tuv lang="EN">
         <seg>Open a context menu</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113227Z" creationid="Marina Latini" creationdate="20171213T113227Z">
-        <seg>Aprire un menu contestuale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190128T092728Z" creationid="Marina Latini" creationdate="20171213T113227Z">
+        <seg>Apre un menu contestuale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open the Navigator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113308Z" creationid="Marina Latini" creationdate="20171213T113308Z">
-        <seg>Aprire il Navigatore</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190128T092948Z" creationid="Marina Latini" creationdate="20171213T113308Z">
+        <seg>Apre il Navigatore</seg>
       </tuv>
     </tu>
     <tu>
