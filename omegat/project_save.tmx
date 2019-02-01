@@ -9384,8 +9384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190128T092954Z" creationid="Marina Latini" creationdate="20171213T113318Z">
-        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;z&lt;/f0&gt; + &lt;f1&gt;T&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T075440Z" creationid="Marina Latini" creationdate="20171213T113318Z">
+        <seg>&lt;f0&gt;z&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26577,8 +26577,8 @@
       <tuv lang="EN">
         <seg>Open the Styles and Formatting window</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113330Z" creationid="Marina Latini" creationdate="20171213T113330Z">
-        <seg>Aprire la finestra Stili e formattazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T075603Z" creationid="Marina Latini" creationdate="20171213T113330Z">
+        <seg>Apre la finestra Stili e formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -36537,8 +36537,8 @@
       <tuv lang="EN">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;&lt;f1&gt;user interface&lt;/f1&gt; (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113353Z" creationid="Marina Latini" creationdate="20171213T113353Z">
-        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T075741Z" creationid="Marina Latini" creationdate="20171213T113353Z">
+        <seg>aaaaaaaaaaaaaaaaaaaI termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43297,8 +43297,8 @@
       <tuv lang="EN">
         <seg>user interface, parts of</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113340Z" creationid="Marina Latini" creationdate="20171213T113340Z">
-        <seg>Parti dell'interfaccia utente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T075714Z" creationid="Marina Latini" creationdate="20171213T113340Z">
+        <seg>interfaccia utente, parti della</seg>
       </tuv>
     </tu>
     <tu>
