@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23985,8 +23985,8 @@
       <tuv lang="EN">
         <seg>It provides controls for you to use to specify how to carry out an action.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113420Z" creationid="Marina Latini" creationdate="20171213T113420Z">
-        <seg>Vi fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190203T141936Z" creationid="Marina Latini" creationdate="20171213T113420Z">
+        <seg>Fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24217,8 +24217,8 @@
       <tuv lang="EN">
         <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113415Z" creationid="Marina Latini" creationdate="20171213T113415Z">
-        <seg>Il suo scopo è quello d'informarvi di qualcosa, o richiedervi un'immissione, oppure entrambe le cose.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190203T141856Z" creationid="Marina Latini" creationdate="20171213T113415Z">
+        <seg>Il suo scopo è quello di informarvi di qualcosa, o richiedervi un input, o entrambe le cose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36529,16 +36529,16 @@
       <tuv lang="EN">
         <seg>The technical names for common controls are shown in &lt;f1&gt;Figure &lt;/f1&gt;&lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T113455Z" creationid="Marina Latini" creationdate="20171213T113455Z">
-        <seg>I nomi tecnici per i controlli più comuni sono mostrati in &lt;f1&gt;Figura &lt;/f1&gt;&lt;t2&gt;1&lt;/t2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190203T141945Z" creationid="Marina Latini" creationdate="20171213T113455Z">
+        <seg>aaaaaaaaaaaaaaaaaaI nomi tecnici per i controlli più comuni sono mostrati in &lt;f1&gt;Figura &lt;/f1&gt;&lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;&lt;f1&gt;user interface&lt;/f1&gt; (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190201T075741Z" creationid="Marina Latini" creationdate="20171213T113353Z">
-        <seg>aaaaaaaaaaaaaaaaaaaI termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190203T141710Z" creationid="Marina Latini" creationdate="20171213T113353Z">
+        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (le parti del programma che vedete e utilizzate, a differenza del codice non visibile che ne permette il funzionamento) sono gli stessi presenti in altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
