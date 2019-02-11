@@ -11752,8 +11752,8 @@
       <tuv lang="EN">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114110Z" creationid="Marina Latini" creationdate="20171213T114110Z">
-        <seg>Un esempio di questo tipo è la finestra di dialogo Cerca e Sostituisci.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T095606Z" creationid="Marina Latini" creationdate="20171213T114110Z">
+        <seg>Un esempio di questo tipo è la finestra di dialogo Cerca e sostituisci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21761,8 +21761,8 @@
       <tuv lang="EN">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190207T081243Z" creationid="Marina Latini" creationdate="20171213T114056Z">
-        <seg>aaaaaaaaaaaaaaaaaaaGeneralmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) fino a quando la finestra di dialogo rimane aperta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T095348Z" creationid="Marina Latini" creationdate="20171213T114056Z">
+        <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) finché la finestra rimane aperta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37897,8 +37897,8 @@
       <tuv lang="EN">
         <seg>This book was written by volunteers from the LibreOffice community.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114117Z" creationid="Marina Latini" creationdate="20171213T114117Z">
-        <seg>Questo libro è stato scritto dai volontari della comunità di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T095614Z" creationid="Marina Latini" creationdate="20171213T114117Z">
+        <seg>aaaaaaaaaaaaaaaaaaQuesto libro è stato scritto dai volontari della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
