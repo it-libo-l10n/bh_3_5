@@ -7848,8 +7848,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114209Z" creationid="Marina Latini" creationdate="20171213T114209Z">
-        <seg>&lt;f0&gt;LibreOffice è distribuito sotto &lt;/f0&gt;la Lesser General Public License (LGPL), approvata &lt;is1/&gt;dall'Open Source Initiative (OSI)&lt;ie2/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190212T080059Z" creationid="Marina Latini" creationdate="20171213T114209Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;LibreOffice è distribuito sotto &lt;/f0&gt;la Lesser General Public License (LGPL), approvata &lt;is1/&gt;dall'Open Source Initiative (OSI)&lt;ie2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18945,8 +18945,8 @@
       <tuv lang="EN">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114143Z" creationid="Marina Latini" creationdate="20171213T114143Z">
-        <seg>Qual è la licenza di LibreOffice?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190212T075956Z" creationid="Marina Latini" creationdate="20171213T114143Z">
+        <seg>Licenza di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -27057,8 +27057,8 @@
       <tuv lang="EN">
         <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114124Z" creationid="Marina Latini" creationdate="20171213T114124Z">
-        <seg>I guadagni derivanti dalla vendita dell'edizione stampata saranno utilizzati a favore della comunità.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190212T075928Z" creationid="Marina Latini" creationdate="20171213T114124Z">
+        <seg>I guadagni derivanti dalla vendita dell'edizione stampata saranno devoluti alla comunità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37897,8 +37897,8 @@
       <tuv lang="EN">
         <seg>This book was written by volunteers from the LibreOffice community.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190211T095614Z" creationid="Marina Latini" creationdate="20171213T114117Z">
-        <seg>aaaaaaaaaaaaaaaaaaQuesto libro è stato scritto dai volontari della comunità di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190212T075838Z" creationid="Marina Latini" creationdate="20171213T114117Z">
+        <seg>Questa guida è stata scritta dai volontari della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43057,7 +43057,7 @@
       <tuv lang="EN">
         <seg>licensing of LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T114148Z" creationid="Marina Latini" creationdate="20171213T114148Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190212T080056Z" creationid="Marina Latini" creationdate="20171213T114148Z">
         <seg>licenza di LibreOffice</seg>
       </tuv>
     </tu>
