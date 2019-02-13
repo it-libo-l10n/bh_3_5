@@ -7848,8 +7848,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190212T080059Z" creationid="Marina Latini" creationdate="20171213T114209Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;LibreOffice è distribuito sotto &lt;/f0&gt;la Lesser General Public License (LGPL), approvata &lt;is1/&gt;dall'Open Source Initiative (OSI)&lt;ie2/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190213T080341Z" creationid="Marina Latini" creationdate="20171213T114209Z">
+        <seg>&lt;f0&gt;LibreOffice è distribuito sotto &lt;/f0&gt;la Lesser General Public License (LGPL), approvata &lt;is1/&gt;dall'Open Source Initiative (OSI)&lt;ie2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18953,8 +18953,8 @@
       <tuv lang="EN">
         <seg>How many computers may I install it on?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142323Z" creationid="Marina Latini" creationdate="20171213T142323Z">
-        <seg>Su quanti computer è possibile installarlo?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190213T080528Z" creationid="Marina Latini" creationdate="20171213T142323Z">
+        <seg>aaaaaaaaaaaaaaaaSu quanti computer è possibile installarlo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -32145,8 +32145,8 @@
       <tuv lang="EN">
         <seg>The LGPL &lt;i3/&gt;license is available from the LibreOffice website: &lt;a4&gt;http://www.libreoffice.org/download/license/&lt;/a4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145605Z" creationid="Marina Latini" creationdate="20171213T114409Z">
-        <seg>La licenza LGPL &lt;i3/&gt; è consultabile sul sito web di LibreOffice all'indirizzo: &lt;a4&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190213T080458Z" creationid="Marina Latini" creationdate="20171213T114409Z">
+        <seg>La licenza LGPL &lt;i3/&gt;è consultabile sul sito web di LibreOffice all'indirizzo: &lt;a4&gt;http://www.libreoffice.org/download/license/&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
