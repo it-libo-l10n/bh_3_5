@@ -10984,8 +10984,8 @@
       <tuv lang="EN">
         <seg>Additionally,&lt;f1&gt; t&lt;/f1&gt;&lt;f2&gt;here are over 70 &lt;/f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;f4&gt;pelling&lt;/f4&gt;, &lt;f5&gt;hyphenation&lt;/f5&gt;, and &lt;f6&gt;thesaurus&lt;/f6&gt; dictionaries &lt;f7&gt;available for languages, and dialects that do not have a localized program interface.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142609Z" creationid="Marina Latini" creationdate="20171213T142609Z">
-        <seg>Inoltre &lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;ono disponibili oltre 70 dizionari di &lt;/f2&gt;&lt;f3&gt;c&lt;/f3&gt;&lt;f4&gt;orrezione ortografica&lt;/f4&gt;, &lt;f5&gt;sillabazione&lt;/f5&gt;, e di &lt;f6&gt;sinonimi&lt;/f6&gt; &lt;f7&gt;per le lingue e anche per i dialetti per i quali non è ancora disponibile un'interfaccia localizzata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190214T075506Z" creationid="Marina Latini" creationdate="20171213T142609Z">
+        <seg>aaaaaaaaaaaaaaaaInoltre &lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;ono disponibili oltre 70 dizionari di &lt;/f2&gt;&lt;f3&gt;c&lt;/f3&gt;&lt;f4&gt;orrezione ortografica&lt;/f4&gt;, &lt;f5&gt;sillabazione&lt;/f5&gt;, e di &lt;f6&gt;sinonimi&lt;/f6&gt; &lt;f7&gt;per le lingue e anche per i dialetti per i quali non è ancora disponibile un'interfaccia localizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18953,8 +18953,8 @@
       <tuv lang="EN">
         <seg>How many computers may I install it on?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190213T080528Z" creationid="Marina Latini" creationdate="20171213T142323Z">
-        <seg>aaaaaaaaaaaaaaaaSu quanti computer è possibile installarlo?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190214T075148Z" creationid="Marina Latini" creationdate="20171213T142323Z">
+        <seg>Su quanti computer è possibile installarlo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24969,8 +24969,8 @@
       <tuv lang="EN">
         <seg>May I use LibreOffice in my business?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T142437Z" creationid="Marina Latini" creationdate="20171213T142437Z">
-        <seg>È possibile usare LibreOffice in ambieto lavorativo?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190214T075328Z" creationid="Marina Latini" creationdate="20171213T142437Z">
+        <seg>È possibile usare LibreOffice in un ambiente di lavoro?</seg>
       </tuv>
     </tu>
     <tu>
