@@ -1568,8 +1568,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;May I use programming code from LibreOffice in my program?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143659Z" creationid="Marina Latini" creationdate="20171213T143659Z">
-        <seg>&lt;/f0&gt;è possibile usare il codice sorgente di LibreOffice nel mio programma?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190218T080349Z" creationid="Marina Latini" creationdate="20171213T143659Z">
+        <seg>&lt;/f0&gt;È possibile usare il codice sorgente di LibreOffice nel mio programma?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19369,8 +19369,8 @@
       <tuv lang="EN">
         <seg>I am writing a software application&lt;f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143628Z" creationid="Marina Latini" creationdate="20171213T143628Z">
-        <seg>Sto scrivendo un'applicazione software&lt;f0&gt;,</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190218T080326Z" creationid="Marina Latini" creationdate="20171213T143628Z">
+        <seg>Sto scrivendo un'applicazione software&lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24457,8 +24457,8 @@
       <tuv lang="EN">
         <seg>LibreOffice is developed and maintained by volunteers and has the backing of several &lt;f0&gt;organizations&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190215T080655Z" creationid="Marina Latini" creationdate="20171213T143521Z">
-        <seg>aaaaaaaaaaaaaaaaLibreOffice è sviluppato e mantenuto da volontari ed è sostenuto da diverse &lt;f0&gt;organizzazioni&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190218T075947Z" creationid="Marina Latini" creationdate="20171213T143521Z">
+        <seg>LibreOffice è sviluppato e mantenuto da volontari ed è sostenuto da diverse &lt;f0&gt;organizzazioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27545,8 +27545,8 @@
       <tuv lang="EN">
         <seg>Read the license: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145438Z" creationid="Marina Latini" creationdate="20171213T143721Z">
-        <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190218T080510Z" creationid="Marina Latini" creationdate="20171213T143721Z">
+        <seg>Per leggere la licenza, visitate il sito: &lt;a2&gt;http://www.libreoffice.org/download/license/&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42009,8 +42009,8 @@
       <tuv lang="EN">
         <seg>Why do I need Java to run LibreOffice?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T143740Z" creationid="Marina Latini" creationdate="20171213T143740Z">
-        <seg>Perché è necessario avere Java per poter avviare LibreOffice?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190218T080517Z" creationid="Marina Latini" creationdate="20171213T143740Z">
+        <seg>aaaaaaaaaaaaaaPerché è necessario avere Java per poter avviare LibreOffice?</seg>
       </tuv>
     </tu>
     <tu>
