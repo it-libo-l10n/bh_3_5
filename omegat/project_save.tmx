@@ -40401,8 +40401,8 @@
       <tuv lang="EN">
         <seg>To start, check out this webpage: &lt;a0&gt;http://www.documentfoundation.org/contribution/&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145410Z" creationid="Marina Latini" creationdate="20171213T145410Z">
-        <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T100003Z" creationid="Marina Latini" creationdate="20171213T145410Z">
+        <seg>Per iniziare, date uno sguardo alla pagina web: &lt;a0&gt;http://www.documentfoundation.org/contribution/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42225,8 +42225,8 @@
       <tuv lang="EN">
         <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145503Z" creationid="Marina Latini" creationdate="20171213T145503Z">
-        <seg>Sì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T100058Z" creationid="Marina Latini" creationdate="20171213T145503Z">
+        <seg>aaaaaaaaaaaaaaSì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42369,8 +42369,8 @@
       <tuv lang="EN">
         <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190219T081042Z" creationid="Marina Latini" creationdate="20171213T145212Z">
-        <seg>aaaaaaaaaaaaaaaaPotete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T095834Z" creationid="Marina Latini" creationdate="20171213T145212Z">
+        <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
       </tuv>
     </tu>
     <tu>
