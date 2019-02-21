@@ -3864,8 +3864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190345Z" creationid="osvaldo" creationdate="20171012T190345Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Nelle attività giornaliere di ufficio, i fogli di calcolo vengono regolarmente utilizzati per aggregare insiemi di dati e per eseguire alcune analisi su di essi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190221T100133Z" creationid="osvaldo" creationdate="20171012T190345Z">
+        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Nelle attività giornaliere di ufficio, i fogli di calcolo vengono regolarmente utilizzati per aggregare insiemi di dati e per eseguire alcune analisi su di essi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21625,8 +21625,8 @@
       <tuv lang="EN">
         <seg>In addition, we request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171213T145521Z" creationid="Marina Latini" creationdate="20171213T145521Z">
-        <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190221T100022Z" creationid="Marina Latini" creationdate="20171213T145521Z">
+        <seg>Inoltre, vi chiediamo di condividere con il progetto parte dei profitti ottenuti dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42225,8 +42225,8 @@
       <tuv lang="EN">
         <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190220T100058Z" creationid="Marina Latini" creationdate="20171213T145503Z">
-        <seg>aaaaaaaaaaaaaaSì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190221T095848Z" creationid="Marina Latini" creationdate="20171213T145503Z">
+        <seg>Sì, a condizione che vengano rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
       </tuv>
     </tu>
     <tu>
