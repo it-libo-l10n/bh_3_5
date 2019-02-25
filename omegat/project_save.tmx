@@ -3864,8 +3864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In everyday office operation, spreadsheets are regularly used to aggregate sets of data and to perform some kind of analyses on them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190221T100133Z" creationid="osvaldo" creationdate="20171012T190345Z">
-        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Nelle attività giornaliere di ufficio, i fogli di calcolo vengono regolarmente utilizzati per aggregare insiemi di dati e per eseguire alcune analisi su di essi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190225T075955Z" creationid="osvaldo" creationdate="20171012T190345Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nelle attività quotidiane di ufficio i fogli elettronici vengono regolarmente utilizzati per aggregare insiemi di dati e per eseguire su tali dati qualche tipo di analisi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12200,8 +12200,8 @@
       <tuv lang="EN">
         <seg>As the data &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in a spreadsheet &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;is laid out in a table view, plainly visible and able to be edited or added to, many users ask why they should use a database instead of a spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T190931Z" creationid="osvaldo" creationdate="20171012T190853Z">
-        <seg>Dato che i dati &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in un foglio di calcolo &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sono disposti in una vista tabellare, visibili semplicemente e che possono essere modificati o aggiunti, molti utenti chiedono perché dovrebbero usare un database invece di un foglio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190225T080808Z" creationid="osvaldo" creationdate="20171012T190853Z">
+        <seg>Siccome i dati &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;in un foglio elettronico &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sono disposti in una vista tabellare, sono completamente visibili, e possono essere modificati e aggiunti, molti utenti si chiedono perché dovrebbero usare un database invece di un foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38553,8 +38553,8 @@
       <tuv lang="EN">
         <seg>This handbook explain&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; the differences between the two, beginning with a short section on what can be done with a database.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20171012T191206Z" creationid="osvaldo" creationdate="20171012T191206Z">
-        <seg>Questo manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190225T080812Z" creationid="osvaldo" creationdate="20171012T191206Z">
+        <seg>aaaaaaaaaaaaaaaaaaQuesto manuale spieg&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; la  differenza tra i due, cominciando con una breve sezione che spiega cosa può essere fatto con un database.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
