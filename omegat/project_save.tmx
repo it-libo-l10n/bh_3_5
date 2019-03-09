@@ -4376,8 +4376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Loan &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;form has been extended to show additional information:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T221934Z" creationid="osvaldo" creationdate="20180103T221934Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il formulario &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Prestito &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;è stato esteso per mostrare ulteriori informazioni:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190309T134503Z" creationid="osvaldo" creationdate="20180103T221934Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il formulario &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Loan (Prestito) &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;è stato esteso per mostrare ulteriori informazioni:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4552,8 +4552,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The range of persons shown can be filtered on last name to limit the detail shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222126Z" creationid="osvaldo" creationdate="20180103T222126Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;La serie di persone mostrata può essere filtrata in base al nome per limitare il dettaglio mostrato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190309T134824Z" creationid="osvaldo" creationdate="20180103T222126Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La serie di persone mostrate può essere filtrata in base al cognome per limitare il dettaglio mostrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19929,8 +19929,8 @@
       <tuv lang="EN">
         <seg>If a user inputs the letter “G” in the Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Last Name)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; field at the right of the Loan table, only persons whose last name begins with “G” will be shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180103T222418Z" creationid="osvaldo" creationdate="20180103T222418Z">
-        <seg>Se un utente inserisce la lettera "G" nel campo Filtro &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Cognome)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; alla destra della tabella dei prestiti, verranno visualizzate solo le persone il cui cognome inizia con "G".&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190309T134827Z" creationid="osvaldo" creationdate="20180103T222418Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaSe un utente inserisce la lettera "G" nel campo Filtro &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Cognome)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; alla destra della tabella dei prestiti, verranno visualizzate solo le persone il cui cognome inizia con "G".&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
