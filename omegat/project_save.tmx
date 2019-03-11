@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3984,8 +3984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;New borrower&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; information&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; can be input directly into the table fields of the form.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180129T065638Z" creationid="osvaldo" creationdate="20180104T173453Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Nuove informazioni&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; del prestatario&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; possono essere immesse direttamente nei campi della tabella del formulario.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T101127Z" creationid="osvaldo" creationdate="20180104T173453Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Nuove informazioni&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; del prestatario&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; possono essere immesse direttamente nei campi della tabella del formulario.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19929,8 +19929,8 @@
       <tuv lang="EN">
         <seg>If a user inputs the letter “G” in the Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Last Name)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; field at the right of the Loan table, only persons whose last name begins with “G” will be shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190309T134827Z" creationid="osvaldo" creationdate="20180103T222418Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaSe un utente inserisce la lettera "G" nel campo Filtro &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Cognome)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; alla destra della tabella dei prestiti, verranno visualizzate solo le persone il cui cognome inizia con "G".&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T101125Z" creationid="osvaldo" creationdate="20180103T222418Z">
+        <seg>Se un utente inserisce la lettera "G" nel campo Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(Last name)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; [Filtro (Cognome)] alla destra della tabella dei prestiti, verranno visualizzate solo le persone il cui cognome inizia per "G".&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
