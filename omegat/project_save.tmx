@@ -3984,8 +3984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;New borrower&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; information&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; can be input directly into the table fields of the form.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190311T104713Z" creationid="osvaldo" creationdate="20180104T173453Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Le informazioni riguardo a un nuovo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; mutuatario&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; possono essere immesse direttamente nei campi della tabella del formulario.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190312T121326Z" creationid="osvaldo" creationdate="20180104T173453Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Le informazioni riguardo a un nuovo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; prestatario&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; possono essere immesse direttamente nei campi della tabella del formulario.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
