@@ -3936,8 +3936,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Items on loan are shown in the lower area of the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180106T180201Z" creationid="osvaldo" creationdate="20180106T180201Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Gli articoli in prestito sono indicati nella parte inferiore del modulo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190312T093524Z" creationid="osvaldo" creationdate="20180106T180201Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Gli articoli in prestito sono indicati nella parte inferiore del modulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19665,8 +19665,8 @@
       <tuv lang="EN">
         <seg>If a &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;previously borrowed item&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; is overdue and must be returned th&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;is&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; area is blocked &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(no input possible&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;) and the title will indicate “Loan temporary locked!”.&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190312T080056Z" creationid="osvaldo" creationdate="20180106T180112Z">
-        <seg>aaaaSe un&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oggetto precedentemente preso in prestito&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; è in ritardo e deve essere restituito que&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sta&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; area è bloccata &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(nessuna digitazione è possibile&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;) e il titolo indicherà "Prestito temporaneamente bloccato!”.&lt;/f19&gt;&lt;/f18&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190312T093519Z" creationid="osvaldo" creationdate="20180106T180112Z">
+        <seg>Se un &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;elemento precedentemente preso in prestito&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; non è stato riconsegnato alla scadenza e deve essere restituito, que&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sta&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; area è bloccata &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(nessuna digitazione è possibile&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;) e il titolo indicherà "Loan temporary locked!" ("Prestito temporaneamente bloccato!”).&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
