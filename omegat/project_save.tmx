@@ -1752,8 +1752,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;The date for returning &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ch&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; borrowed item is compared with the current date &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;and the remaining loan duration shown&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180107T170536Z" creationid="osvaldo" creationdate="20180107T170536Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La data di restituzione di &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ci&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;scun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; oggetto affittato è confrontata con la data corrente &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;e viene mostrata la durata residua del prestito&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190312T093919Z" creationid="osvaldo" creationdate="20180107T170536Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;La data di restituzione di &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ci&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;scun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; oggetto affittato è confrontata con la data corrente &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;e viene mostrata la durata residua del prestito&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3936,8 +3936,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Items on loan are shown in the lower area of the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190312T093524Z" creationid="osvaldo" creationdate="20180106T180201Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Gli articoli in prestito sono indicati nella parte inferiore del modulo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190312T093914Z" creationid="osvaldo" creationdate="20180106T180201Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Gli articoli in prestito vengono mostrati nella parte inferiore del formulario.</seg>
       </tuv>
     </tu>
     <tu>
