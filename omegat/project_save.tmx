@@ -19681,8 +19681,8 @@
       <tuv lang="EN">
         <seg>If a borrower was previously locked and has subsequently returned the overdue item(s), the lending area can be unlocked by clicking the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Refresh&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; button.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T210431Z" creationid="osvaldo" creationdate="20180823T223135Z">
-        <seg>Se un prestatario è stato precedentemente bloccato e ha successivamente restituito gli articoli scaduti, l'area di prestito può essere sbloccata facendo clic sul pulsante&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt; </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190316T131509Z" creationid="osvaldo" creationdate="20180823T223135Z">
+        <seg>aaaaaaaaaaaaaaaaaaaSe un prestatario è stato precedentemente bloccato e ha successivamente restituito gli articoli scaduti, l'area di prestito può essere sbloccata facendo clic sul pulsante&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -26417,8 +26417,8 @@
       <tuv lang="EN">
         <seg>Only the fields Return Date and Extension can be edited.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180823T222728Z" creationid="osvaldo" creationdate="20180823T222728Z">
-        <seg>È possibile modificare solo i campi Data di Restituzione ed Estensione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190316T131505Z" creationid="osvaldo" creationdate="20180823T222728Z">
+        <seg>È possibile modificare solo i campi Return Date (Data di restituzione) ed Extension (Proroga).</seg>
       </tuv>
     </tu>
     <tu>
