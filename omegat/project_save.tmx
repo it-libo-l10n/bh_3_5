@@ -3896,8 +3896,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;In the lower section of the form (Return) it is not possible to delete a data row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190315T114944Z" creationid="osvaldo" creationdate="20180823T222234Z">
-        <seg>aaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Nella sezione inferiore del modulo (Indietro) non è possibile cancellare una riga di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190316T131109Z" creationid="osvaldo" creationdate="20180823T222234Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nella sezione inferiore del formulario (Return - Restituzione) non è possibile eliminare una riga di dati.</seg>
       </tuv>
     </tu>
     <tu>
