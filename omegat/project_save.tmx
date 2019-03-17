@@ -19681,8 +19681,8 @@
       <tuv lang="EN">
         <seg>If a borrower was previously locked and has subsequently returned the overdue item(s), the lending area can be unlocked by clicking the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Refresh&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; button.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190316T131509Z" creationid="osvaldo" creationdate="20180823T223135Z">
-        <seg>aaaaaaaaaaaaaaaaaaaSe un prestatario è stato precedentemente bloccato e ha successivamente restituito gli articoli scaduti, l'area di prestito può essere sbloccata facendo clic sul pulsante&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Aggiorna&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt; </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190317T111724Z" creationid="osvaldo" creationdate="20180823T223135Z">
+        <seg>Se un prestatario è stato precedentemente bloccato e ha successivamente restituito gli articoli non riconsegnati alla data di scadenza, l'area del prestito può essere sbloccata facendo clic sul pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Refresh (Aggiorna)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
