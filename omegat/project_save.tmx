@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2568,8 +2568,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;D&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;ata input &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;directly into a table&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190317T111855Z" creationid="osvaldo" creationdate="20180824T210832Z">
-        <seg>aaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;mmissione di dati &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;direttamente in una tabella&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T090424Z" creationid="osvaldo" creationdate="20180824T210832Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;mmissione di dati &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;direttamente in una tabella&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22737,8 +22737,8 @@
       <tuv lang="EN">
         <seg>In the table shown above, the same data can be directly input in the rows and columns of the table as when using the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211133Z" creationid="osvaldo" creationdate="20180824T211133Z">
-        <seg>Nella tabella sopra riportata, gli stessi dati possono essere inseriti direttamente nelle righe e nelle colonne della tabella come quando si utilizza il formulario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T090608Z" creationid="osvaldo" creationdate="20180824T211133Z">
+        <seg>aaaaaaaaaaaaaaaaNella tabella sopra riportata, gli stessi dati possono essere inseriti direttamente nelle righe e nelle colonne della tabella come quando si utilizza il formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36473,8 +36473,8 @@
       <tuv lang="EN">
         <seg>The table structure for such a form is relatively basic and easy to set up.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211023Z" creationid="osvaldo" creationdate="20180824T211023Z">
-        <seg>La struttura della tabella per tale formulario è relativamente semplice e facile da configurare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T090605Z" creationid="osvaldo" creationdate="20180824T211023Z">
+        <seg>La struttura della tabella per un formulario di questo tipo è relativamente semplice e facile da impostare.</seg>
       </tuv>
     </tu>
     <tu>
