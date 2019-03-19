@@ -4568,8 +4568,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The second field, Media_ID, store&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; the primary key of the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;table, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;a number which refers to the Media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211942Z" creationid="osvaldo" creationdate="20180824T211752Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il secondo campo, Media_ID, memorizz&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; la chiave primaria della tabella &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;un numero che si riferisce all'elemento multimediale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190319T082126Z" creationid="osvaldo" creationdate="20180824T211752Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Il secondo campo, Media_ID, memorizz&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; la chiave primaria della tabella &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Media &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;un numero che si riferisce all'elemento multimediale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22737,8 +22737,8 @@
       <tuv lang="EN">
         <seg>In the table shown above, the same data can be directly input in the rows and columns of the table as when using the form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190318T090608Z" creationid="osvaldo" creationdate="20180824T211133Z">
-        <seg>aaaaaaaaaaaaaaaaNella tabella sopra riportata, gli stessi dati possono essere inseriti direttamente nelle righe e nelle colonne della tabella come quando si utilizza il formulario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190319T081855Z" creationid="osvaldo" creationdate="20180824T211133Z">
+        <seg>Nella tabella sopra riportata, gli stessi dati possono essere inseriti direttamente nelle righe e nelle colonne della tabella come quando si utilizza il formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25137,8 +25137,8 @@
       <tuv lang="EN">
         <seg>More on this topic can be found in the chapter on Tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T211342Z" creationid="osvaldo" creationdate="20180824T211322Z">
-        <seg>Ulteriori informazioni su questo argomento sono disponibili nel capitolo relativo alle Tabelle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190319T082121Z" creationid="osvaldo" creationdate="20180824T211322Z">
+        <seg>Ulteriori informazioni su questo argomento sono disponibili nel capitolo relativo alle tabelle.</seg>
       </tuv>
     </tu>
     <tu>
