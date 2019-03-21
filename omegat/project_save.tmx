@@ -4576,8 +4576,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The third field, Reader_ID, stores the primary key of the Reader &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T212624Z" creationid="osvaldo" creationdate="20180824T212624Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il terzo campo, Reader_ID, memorizza la chiave primaria della tabella Reader &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190321T091336Z" creationid="osvaldo" creationdate="20180824T212624Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il terzo campo, Reader_ID, memorizza la chiave primaria della tabella Reader&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22537,8 +22537,8 @@
       <tuv lang="EN">
         <seg>In the form the media id, title and author are shown in the drop&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;-&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;down menu.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190321T084309Z" creationid="osvaldo" creationdate="20180824T212355Z">
-        <seg>aaaaNel formulario l'identificativo dell'oggetto multimediale, il titolo e l'autore sono mostrati nel &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;-&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;menu a tendina.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190321T091151Z" creationid="osvaldo" creationdate="20180824T212355Z">
+        <seg>Nel formulario l'identificativo dell'oggetto multimediale, il titolo e l'autore sono mostrati nel &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;menu a tendina.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39057,8 +39057,8 @@
       <tuv lang="EN">
         <seg>This key is a number which refers to the reader.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T214214Z" creationid="osvaldo" creationdate="20180824T214214Z">
-        <seg>Questa chiave è un numero che fa riferimento al lettore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190321T091338Z" creationid="osvaldo" creationdate="20180824T214214Z">
+        <seg>aaaaaaaaaaaaaaaaaaaQuesta chiave è un numero che fa riferimento al lettore.</seg>
       </tuv>
     </tu>
     <tu>
