@@ -4312,8 +4312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;he field marked Extension &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;contains&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; information about extensions of the loan for an item.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180824T215249Z" creationid="osvaldo" creationdate="20180824T215249Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;l campo contrassegnato Extension &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;contiene&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; informazioni sulle estensioni del prestito per un dato elemento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190401T124423Z" creationid="osvaldo" creationdate="20180824T215249Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;l campo contrassegnato Extension &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;contiene&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; informazioni sulle estensioni del prestito per un dato elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20881,8 +20881,8 @@
       <tuv lang="EN">
         <seg>If this date is present and is later than the current date, the corresponding data set for the reader is shown in the bottom table of the form under Return.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190401T110249Z" creationid="osvaldo" creationdate="20180824T214806Z">
-        <seg>aaaaSe questa data è presente ed è successiva alla data corrente, il corrispondente insieme di dati per il lettore è mostrato nella tabella in basso del formulario Ritorna.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190401T124734Z" creationid="osvaldo" creationdate="20180824T214806Z">
+        <seg>Se questa data è presente ed è successiva alla data corrente, il corrispondente insieme di dati per il lettore è mostrato nella tabella in basso del formulario, sotto Return (Restituzione).&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
