@@ -4312,8 +4312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;he field marked Extension &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;contains&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; information about extensions of the loan for an item.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190401T124423Z" creationid="osvaldo" creationdate="20180824T215249Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;l campo contrassegnato Extension &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;contiene&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; informazioni sulle estensioni del prestito per un dato elemento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T065248Z" creationid="osvaldo" creationdate="20180824T215249Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;l campo contrassegnato Extension &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;contiene&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; informazioni sulle estensioni del prestito per un dato articolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33169,8 +33169,8 @@
       <tuv lang="EN">
         <seg>The database contains a special table called Settings for this type of information.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T201857Z" creationid="osvaldo" creationdate="20180826T201857Z">
-        <seg>Per questo tipo di informazioni il database contiene una tabella speciale chiamata Settings.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T065758Z" creationid="osvaldo" creationdate="20180826T201857Z">
+        <seg>aaaaaaaaaaaaaaaPer questo tipo di informazioni il database contiene una tabella speciale chiamata Settings.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34937,8 +34937,8 @@
       <tuv lang="EN">
         <seg>The meaning of &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;the values &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1, 2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;and so on&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; is explained later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T201702Z" creationid="osvaldo" creationdate="20180826T201702Z">
-        <seg>Il significato dei &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;valori &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1, 2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;e così via&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; verrà spiegato dopo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T065754Z" creationid="osvaldo" creationdate="20180826T201702Z">
+        <seg>Il significato dei &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;valori &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;1, 2 &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;e così via&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; viene spiegato in seguito.</seg>
       </tuv>
     </tu>
     <tu>
