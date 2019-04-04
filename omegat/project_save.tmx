@@ -4032,8 +4032,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Queries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;getting information on data in tables&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190403T070050Z" creationid="osvaldo" creationdate="20180826T202336Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Query (Ricerche)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni dai dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190404T072503Z" creationid="osvaldo" creationdate="20180826T202336Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Query (Ricerche)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ottenere informazioni sui dati nelle tabelle&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4544,8 +4544,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The query shown above lists all media which &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;are&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; currently out on loan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T202849Z" creationid="osvaldo" creationdate="20180826T202849Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;La query mostrata prima elenca tutti gli elementi multimediali che &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;sono&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; attualmente in prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190404T073039Z" creationid="osvaldo" creationdate="20180826T202849Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La query mostrata precedentemente elenca tutti gli articoli multimediali &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; attualmente in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23473,8 +23473,8 @@
       <tuv lang="EN">
         <seg>It calculates for each item how long it has been on loan and &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;the balance of t&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;he loan period.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T203428Z" creationid="osvaldo" creationdate="20180826T203428Z">
-        <seg>Calcola per ogni articolo per quanto tempo è stato in prestito ed &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;il saldo del&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; periodo di prestito.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190404T073043Z" creationid="osvaldo" creationdate="20180826T203428Z">
+        <seg>aaaaaaaaaaaaaaaaCalcola per ogni articolo per quanto tempo è stato in prestito ed &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;il saldo del&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; periodo di prestito.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
