@@ -11352,8 +11352,8 @@
       <tuv lang="EN">
         <seg>All media for which the Return_Date field is empty is listed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T203558Z" creationid="osvaldo" creationdate="20180826T203558Z">
-        <seg>Vengono elencati tutti gli elementi multimediali per i quali il campo Return_Date è vuoto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T072208Z" creationid="osvaldo" creationdate="20180826T203558Z">
+        <seg>Vengono elencati tutti gli elementi multimediali per i quali il campo Return_Date (Data di restituzione) è vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,8 +12016,8 @@
       <tuv lang="EN">
         <seg>As an additional overview, the medium name is included in the query together with the Media_ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205236Z" creationid="osvaldo" creationdate="20180826T205236Z">
-        <seg>Come ulteriore panoramica, il nome dell'elemento multimediale viene incluso nella query insieme a Media_ID.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T072034Z" creationid="osvaldo" creationdate="20180826T205236Z">
+        <seg>aaaaaaaaaaaaaaaaaCome ulteriore panoramica, il nome dell'elemento multimediale viene incluso nella query insieme a Media_ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23473,8 +23473,8 @@
       <tuv lang="EN">
         <seg>It calculates for each item how long it has been on loan and &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;the balance of t&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;he loan period.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190404T073043Z" creationid="osvaldo" creationdate="20180826T203428Z">
-        <seg>aaaaaaaaaaaaaaaaCalcola per ogni articolo per quanto tempo è stato in prestito ed &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;il saldo del&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; periodo di prestito.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T071954Z" creationid="osvaldo" creationdate="20180826T203428Z">
+        <seg>Calcola per ogni articolo per quanto tempo è stato in prestito e &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;il saldo del&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; periodo di prestito.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
