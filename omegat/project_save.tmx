@@ -4560,8 +4560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The reference to the Reader is established with the primary key of the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;table.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205515Z" creationid="osvaldo" creationdate="20180826T205515Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il riferimento al lettore viene stabilito con la chiave primaria della tabella &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T094422Z" creationid="osvaldo" creationdate="20180826T205515Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Il riferimento al lettore viene stabilito con la chiave primaria della tabella &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11352,8 +11352,8 @@
       <tuv lang="EN">
         <seg>All media for which the Return_Date field is empty is listed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190405T072208Z" creationid="osvaldo" creationdate="20180826T203558Z">
-        <seg>Vengono elencati tutti gli elementi multimediali per i quali il campo Return_Date (Data di restituzione) è vuoto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T093519Z" creationid="osvaldo" creationdate="20180826T203558Z">
+        <seg>Vengono elencati tutti gli articoli multimediali per i quali il campo Return_Date (Data di restituzione) è vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,8 +12016,8 @@
       <tuv lang="EN">
         <seg>As an additional overview, the medium name is included in the query together with the Media_ID.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190405T072034Z" creationid="osvaldo" creationdate="20180826T205236Z">
-        <seg>aaaaaaaaaaaaaaaaaCome ulteriore panoramica, il nome dell'elemento multimediale viene incluso nella query insieme a Media_ID.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T094416Z" creationid="osvaldo" creationdate="20180826T205236Z">
+        <seg>Come ulteriore panoramica, il nome dell'articolo multimediale viene incluso nella query insieme al Media_ID.</seg>
       </tuv>
     </tu>
     <tu>
