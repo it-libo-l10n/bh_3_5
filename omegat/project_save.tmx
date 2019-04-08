@@ -4560,8 +4560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The reference to the Reader is established with the primary key of the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;table.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190408T094422Z" creationid="osvaldo" creationdate="20180826T205515Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Il riferimento al lettore viene stabilito con la chiave primaria della tabella &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T095231Z" creationid="osvaldo" creationdate="20180826T205515Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il riferimento al lettore viene stabilito con la chiave primaria della tabella &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Reader (Lettore)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36681,8 +36681,8 @@
       <tuv lang="EN">
         <seg>The value of the LoanDays field is calculated as the difference between the Loan_Date and the current date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T205729Z" creationid="osvaldo" creationdate="20180826T205729Z">
-        <seg>Il valore del campo LoanDays viene calcolato come differenza tra Loan_Date e la data corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T095235Z" creationid="osvaldo" creationdate="20180826T205729Z">
+        <seg>aaaaaaaaaaaaaaaaIl valore del campo LoanDays viene calcolato come differenza tra Loan_Date e la data corrente.</seg>
       </tuv>
     </tu>
     <tu>
