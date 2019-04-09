@@ -35137,8 +35137,8 @@
       <tuv lang="EN">
         <seg>The number of LoanDays is subtracted from the Loan Time to give the remaining number of days in the loan period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T210035Z" creationid="osvaldo" creationdate="20180826T210035Z">
-        <seg>Il numero di LoanDays viene sottratto da Loan Time per fornire il restante numero di giorni nel periodo del prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190409T070310Z" creationid="osvaldo" creationdate="20180826T210035Z">
+        <seg>aaaaIl numero di LoanDays (Giorni di prestito) viene sottratto dal Loan Time (Durata del prestito) per fornire il restante numero di giorni nel periodo del prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36681,8 +36681,8 @@
       <tuv lang="EN">
         <seg>The value of the LoanDays field is calculated as the difference between the Loan_Date and the current date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190408T095235Z" creationid="osvaldo" creationdate="20180826T205729Z">
-        <seg>aaaaaaaaaaaaaaaaIl valore del campo LoanDays viene calcolato come differenza tra Loan_Date e la data corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190409T065712Z" creationid="osvaldo" creationdate="20180826T205729Z">
+        <seg>Il valore del campo LoanDays (Giorni di prestito) viene calcolato come differenza tra Loan_Date (data del prestito) e la data corrente.</seg>
       </tuv>
     </tu>
     <tu>
