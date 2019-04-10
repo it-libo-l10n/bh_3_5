@@ -22177,8 +22177,8 @@
       <tuv lang="EN">
         <seg>In the Settings table a value of '1' for Extension corresponds to an extension of the loan period of 7 days.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T210912Z" creationid="osvaldo" creationdate="20180826T210912Z">
-        <seg>Nella tabella Settings un valore pari a '1' per Extension corrisponde ad una estensione del periodo di prestito pari a 7 giorni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T070821Z" creationid="osvaldo" creationdate="20180826T210912Z">
+        <seg>Nella tabella Settings (Impostazioni) un valore pari a '1' per Extension corrisponde a una estensione di 7 giorni del periodo di prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22369,8 +22369,8 @@
       <tuv lang="EN">
         <seg>In the data set above, the line with Media_ID '2' shows an extension of 7 days.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211038Z" creationid="osvaldo" creationdate="20180826T211038Z">
-        <seg>Nel data set precedente, la linea con Media_ID '2' mostra una estensione di 7 giorni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T070824Z" creationid="osvaldo" creationdate="20180826T211038Z">
+        <seg>aaaaaaaaaaaaaaaaNel data set precedente, la linea con Media_ID '2' mostra una estensione di 7 giorni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32177,8 +32177,8 @@
       <tuv lang="EN">
         <seg>The Loan Time can vary with different media types.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190409T070919Z" creationid="osvaldo" creationdate="20180826T210729Z">
-        <seg>aaaaaaaaaaaaaaaaIl tempo di prestito può variare in base a diversi elementi multimediali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T070445Z" creationid="osvaldo" creationdate="20180826T210729Z">
+        <seg>Il Loan Time (Durata del prestito) può variare in base ai diversi tipi di articoli multimediali.</seg>
       </tuv>
     </tu>
     <tu>
