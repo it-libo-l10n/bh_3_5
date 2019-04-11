@@ -12736,8 +12736,8 @@
       <tuv lang="EN">
         <seg>Before an actual report in the form of a recall notice can be printed, the recall information must be entered into the Recall form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211606Z" creationid="osvaldo" creationdate="20180826T211606Z">
-        <seg>Prima di poter stampare un rapporto reale sotto forma di avviso di richiamo, le informazioni di richiamo devono essere inserite nel modulo Recall.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190411T070125Z" creationid="osvaldo" creationdate="20180826T211606Z">
+        <seg>aaaaaaaaaaaaaaaaaaaPrima di poter stampare un rapporto reale sotto forma di avviso di richiamo, le informazioni di richiamo devono essere inserite nel modulo Recall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22369,8 +22369,8 @@
       <tuv lang="EN">
         <seg>In the data set above, the line with Media_ID '2' shows an extension of 7 days.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190410T070824Z" creationid="osvaldo" creationdate="20180826T211038Z">
-        <seg>aaaaaaaaaaaaaaaaNel data set precedente, la linea con Media_ID '2' mostra una estensione di 7 giorni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190411T065840Z" creationid="osvaldo" creationdate="20180826T211038Z">
+        <seg>Nell'insieme di dati precedente, la riga con Media_ID '2' mostra una estensione di 7 giorni.</seg>
       </tuv>
     </tu>
     <tu>
