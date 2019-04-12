@@ -17001,8 +17001,8 @@
       <tuv lang="EN">
         <seg>For each media item to be recalled, the recall date and recall notice number is entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211937Z" creationid="osvaldo" creationdate="20180826T211937Z">
-        <seg>Per ogni elemento multimediale da richiamare, viene immessa la data di richiamo e il numero di avviso di richiamo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T091532Z" creationid="osvaldo" creationdate="20180826T211937Z">
+        <seg>Per ogni articolo multimediale da richiamare, viene immessa la data di richiamo e il numero dell'avviso di richiamo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35761,16 +35761,16 @@
       <tuv lang="EN">
         <seg>The recall date defaults to the current date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T212029Z" creationid="osvaldo" creationdate="20180826T212029Z">
-        <seg>La data di richiamo per impostazione predefinita è la data corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T091623Z" creationid="osvaldo" creationdate="20180826T212029Z">
+        <seg>La data di richiamo è, per impostazione predefinita, la data corrente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The recall number is an integer incremented by 1 with each successive recall notice for a particular lender/media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T212548Z" creationid="osvaldo" creationdate="20180826T212548Z">
-        <seg>Il numero di richiamo è un numero incrementato di 1ad ogni successiva notifica di richiamo effettuata per un particolare prestatore/elemento multimediale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T091626Z" creationid="osvaldo" creationdate="20180826T212548Z">
+        <seg>aaaaaaaaaaaaaaaaaaIl numero di richiamo è un numero incrementato di 1ad ogni successiva notifica di richiamo effettuata per un particolare prestatore/elemento multimediale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36393,8 +36393,8 @@
       <tuv lang="EN">
         <seg>The table in the form shows all persons who have borrowed items with a negative remaining loan time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190412T083259Z" creationid="osvaldo" creationdate="20180826T211737Z">
-        <seg>aaaaLa tabella nel modulo mostra tutte le persone che hanno preso in prestito oggetti con un tempo di prestito residuo negativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T091205Z" creationid="osvaldo" creationdate="20180826T211737Z">
+        <seg>La tabella nel formulario mostra tutte le persone che hanno preso in prestito articoli con una durata residua del prestito negativa.</seg>
       </tuv>
     </tu>
     <tu>
