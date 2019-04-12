@@ -4072,8 +4072,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Reports&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentation of data&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211611Z" creationid="osvaldo" creationdate="20180826T211341Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Report&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentazione dei dati&lt;/f7&gt;&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T083015Z" creationid="osvaldo" creationdate="20180826T211341Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Rapporti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;p&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;resentazione dei dati&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12736,8 +12736,8 @@
       <tuv lang="EN">
         <seg>Before an actual report in the form of a recall notice can be printed, the recall information must be entered into the Recall form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190411T070125Z" creationid="osvaldo" creationdate="20180826T211606Z">
-        <seg>aaaaaaaaaaaaaaaaaaaPrima di poter stampare un rapporto reale sotto forma di avviso di richiamo, le informazioni di richiamo devono essere inserite nel modulo Recall.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T083257Z" creationid="osvaldo" creationdate="20180826T211606Z">
+        <seg>Prima di poter stampare un rapporto sotto forma di avviso di richiamo, è necessario inserire le informazioni di richiamo nel formulario Recall (Richiamo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36393,8 +36393,8 @@
       <tuv lang="EN">
         <seg>The table in the form shows all persons who have borrowed items with a negative remaining loan time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T211737Z" creationid="osvaldo" creationdate="20180826T211737Z">
-        <seg>La tabella nel modulo mostra tutte le persone che hanno preso in prestito oggetti con un tempo di prestito residuo negativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190412T083259Z" creationid="osvaldo" creationdate="20180826T211737Z">
+        <seg>aaaaLa tabella nel modulo mostra tutte le persone che hanno preso in prestito oggetti con un tempo di prestito residuo negativo.</seg>
       </tuv>
     </tu>
     <tu>
