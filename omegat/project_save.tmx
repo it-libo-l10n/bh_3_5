@@ -20681,8 +20681,8 @@
       <tuv lang="EN">
         <seg>If the table containing the items for this person exceeds the space on a page, it is extended to cover a succeeding page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220134Z" creationid="osvaldo" creationdate="20180826T220134Z">
-        <seg>Se la tabella contenente gli elementi per questa persona supera lo spazio di una pagina, viene estesa alla pagina successiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T104018Z" creationid="osvaldo" creationdate="20180826T220134Z">
+        <seg>aaaaaaaaaaaaaaaaaaSe la tabella contenente gli elementi per questa persona supera lo spazio di una pagina, viene estesa alla pagina successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22033,8 +22033,8 @@
       <tuv lang="EN">
         <seg>In such a report there may be multiple entries (overdue items) for a particular person.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T215843Z" creationid="osvaldo" creationdate="20180826T215843Z">
-        <seg>In tale rapporto possono esserci più voci (articoli scaduti) per una determinata persona.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T104351Z" creationid="osvaldo" creationdate="20180826T215843Z">
+        <seg>In tale rapporto potrebbero essere presenti più voci (articoli non riconsegnati alla data di scadenza) per una determinata persona.</seg>
       </tuv>
     </tu>
     <tu>
