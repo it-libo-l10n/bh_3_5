@@ -36657,8 +36657,8 @@
       <tuv lang="EN">
         <seg>The user of the database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;needs only to choose the Recall report and a recall letter can be printed out and sent to all persons who have a recall entry made in the form on the previous page.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190413T102421Z" creationid="osvaldo" creationdate="20180826T213015Z">
-        <seg>aaaaL'utente del database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;deve solo scegliere il rapporto di richiamo e una lettera di richiamo può essere stampata e inviata a tutte le persone che hanno una voce di richiamo fatta nel modulo nella pagina precedente.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T103922Z" creationid="osvaldo" creationdate="20180826T213015Z">
+        <seg>L'utente del database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;deve solo scegliere il rapporto di richiamo; dopodiché sarà possibile stampare una lettera di richiamo e inviarla a tutte le persone che hanno una voce di richiamo attiva nel formulario della pagina precedente.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
