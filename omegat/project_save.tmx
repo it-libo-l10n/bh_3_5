@@ -4320,8 +4320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;he recall notice is generated &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;by means of a query &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;from the &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;previously input d&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ata.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T215301Z" creationid="osvaldo" creationdate="20180826T215301Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;'avviso di richiamo viene generato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per mezzo di una query &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; dai &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; precedenti d&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ati di input.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T101625Z" creationid="osvaldo" creationdate="20180826T215301Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;'avviso di richiamo viene generato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per mezzo di una query &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; dai &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; precedenti d&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ati di input.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38489,8 +38489,8 @@
       <tuv lang="EN">
         <seg>This form, in the current database example without macros, requires user input to create recall notices.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190413T100441Z" creationid="osvaldo" creationdate="20180826T212646Z">
-        <seg>aaaaQuesto modulo, nell'esempio di database corrente senza macro, richiede l'input dell'utente per creare avvisi di richiamo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T101433Z" creationid="osvaldo" creationdate="20180826T212646Z">
+        <seg>Questo formulario, nell'esempio del database senza macro, richiede l'input dell'utente per creare avvisi di richiamo.</seg>
       </tuv>
     </tu>
     <tu>
