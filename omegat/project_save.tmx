@@ -4320,8 +4320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;he recall notice is generated &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;by means of a query &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;from the &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;previously input d&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ata.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190413T101625Z" creationid="osvaldo" creationdate="20180826T215301Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;'avviso di richiamo viene generato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per mezzo di una query &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; dai &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; precedenti d&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;ati di input.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T102419Z" creationid="osvaldo" creationdate="20180826T215301Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;'avviso di richiamo viene generato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;per mezzo di una query &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;sui &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;dati precedentemente &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;inseriti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36657,8 +36657,8 @@
       <tuv lang="EN">
         <seg>The user of the database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;needs only to choose the Recall report and a recall letter can be printed out and sent to all persons who have a recall entry made in the form on the previous page.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T215811Z" creationid="osvaldo" creationdate="20180826T213015Z">
-        <seg>L'utente del database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;deve solo scegliere il rapporto di richiamo e una lettera di richiamo può essere stampata e inviata a tutte le persone che hanno una voce di richiamo fatta nel modulo nella pagina precedente.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T102421Z" creationid="osvaldo" creationdate="20180826T213015Z">
+        <seg>aaaaL'utente del database &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;deve solo scegliere il rapporto di richiamo e una lettera di richiamo può essere stampata e inviata a tutte le persone che hanno una voce di richiamo fatta nel modulo nella pagina precedente.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
