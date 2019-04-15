@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18041,8 +18041,8 @@
       <tuv lang="EN">
         <seg>General notes on the creation of a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181011T081941Z" creationid="Marina Latini" creationdate="20171003T090623Z">
-        <seg>Note generali sulla creazione di un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T071631Z" creationid="Marina Latini" creationdate="20171003T090623Z">
+        <seg>aaaaaaaaaaaaaaaaaNote generali sulla creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -20681,8 +20681,8 @@
       <tuv lang="EN">
         <seg>If the table containing the items for this person exceeds the space on a page, it is extended to cover a succeeding page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190413T104018Z" creationid="osvaldo" creationdate="20180826T220134Z">
-        <seg>aaaaaaaaaaaaaaaaaaSe la tabella contenente gli elementi per questa persona supera lo spazio di una pagina, viene estesa alla pagina successiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T070624Z" creationid="osvaldo" creationdate="20180826T220134Z">
+        <seg>Se la tabella contenente gli articoli per tale persona supera lo spazio di una pagina allora la tabella viene estesa alla pagina successiva.</seg>
       </tuv>
     </tu>
     <tu>
