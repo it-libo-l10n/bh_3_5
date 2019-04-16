@@ -18041,8 +18041,8 @@
       <tuv lang="EN">
         <seg>General notes on the creation of a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190415T071631Z" creationid="Marina Latini" creationdate="20171003T090623Z">
-        <seg>aaaaaaaaaaaaaaaaaNote generali sulla creazione di un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T072500Z" creationid="Marina Latini" creationdate="20171003T090623Z">
+        <seg>Note generali sulla creazione di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -32601,8 +32601,8 @@
       <tuv lang="EN">
         <seg>The basics of creating a database in LibreOffice are described in Chapter 8 of the &lt;f0&gt;Getting Started&lt;/f0&gt; guide, Getting Started with Base.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220704Z" creationid="osvaldo" creationdate="20180826T220633Z">
-        <seg>Le basi della creazione di un database in LibreOffice sono descritte nel Capitolo 8 della guida &lt;f0&gt;Getting Started&lt;/f0&gt;, Iniziare con Base.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T073104Z" creationid="osvaldo" creationdate="20180826T220633Z">
+        <seg>Le basi della creazione di un database in LibreOffice sono descritte nel Capitolo 8 (Introduzione a Base) della &lt;f0&gt;Guida introduttiva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,8 +33161,8 @@
       <tuv lang="EN">
         <seg>The database component of LibreOffice, called Base, provides a graphical interface for working with databases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220815Z" creationid="osvaldo" creationdate="20180826T220815Z">
-        <seg>La componente database di LibreOffice, chiamata Base, fornisce una interfaccia grafica per lavorare con i database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T073106Z" creationid="osvaldo" creationdate="20180826T220815Z">
+        <seg>aaaaLa componente database di LibreOffice, chiamata Base, fornisce una interfaccia grafica per lavorare con i database.</seg>
       </tuv>
     </tu>
     <tu>
