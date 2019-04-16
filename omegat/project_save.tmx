@@ -33161,8 +33161,8 @@
       <tuv lang="EN">
         <seg>The database component of LibreOffice, called Base, provides a graphical interface for working with databases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190416T073106Z" creationid="osvaldo" creationdate="20180826T220815Z">
-        <seg>aaaaLa componente database di LibreOffice, chiamata Base, fornisce una interfaccia grafica per lavorare con i database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T073724Z" creationid="osvaldo" creationdate="20180826T220815Z">
+        <seg>Il componente database di LibreOffice, chiamato Base, fornisce un'interfaccia grafica per lavorare con i database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37721,8 +37721,8 @@
       <tuv lang="EN">
         <seg>This HSQLDB database can only be used by a single user.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T220922Z" creationid="osvaldo" creationdate="20180826T220922Z">
-        <seg>Questo database HSQLDB può essere utilizzato solo da un singolo utente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T073858Z" creationid="osvaldo" creationdate="20180826T220922Z">
+        <seg>aaaaaaaaaaaaaaaaaaaQuesto database HSQLDB può essere utilizzato solo da un singolo utente.</seg>
       </tuv>
     </tu>
     <tu>
