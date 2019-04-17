@@ -19713,8 +19713,8 @@
       <tuv lang="EN">
         <seg>If a database with multiple users is not planned, or the user wishes to gain some initial experience with a database, the internal database engine will suffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T110739Z" creationid="osvaldo" creationdate="20180827T110705Z">
-        <seg>Se non è pianificato l'uso di un database con più utenti, o l'utente desidera acquisire un'esperienza iniziale con un database, sarà sufficiente il motore del database interno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T083557Z" creationid="osvaldo" creationdate="20180827T110705Z">
+        <seg>Se non avete pianificato l'uso di un database con più utenti, o se ritenete che l'utente del database desideri solo acquisire un'esperienza iniziale con un database, il motore del database interno sarà sufficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23753,8 +23753,8 @@
       <tuv lang="EN">
         <seg>It is possible at some later stage to transfer the database to an external HSQLDB environment, where multiple users can have concurrent access to the database on the HSQLDB server.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T110846Z" creationid="osvaldo" creationdate="20180827T110846Z">
-        <seg>In un secondo momento è possibile trasferire il database in un ambiente HSQLDB esterno, in cui più utenti possono avere accesso simultaneo al database sul server HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T083603Z" creationid="osvaldo" creationdate="20180827T110846Z">
+        <seg>aaaaaaaaaaaaaaaaIn un secondo momento è possibile trasferire il database in un ambiente HSQLDB esterno, in cui più utenti possono avere accesso simultaneo al database sul server HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33425,8 +33425,8 @@
       <tuv lang="EN">
         <seg>The entire data set is stored in an ODB file which has no file locking mechanism when opened by a user.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190417T075759Z" creationid="osvaldo" creationdate="20180826T221020Z">
-        <seg>aaaaL'intero dataset è memorizzato in un file ODB che non ha alcun meccanismo di blocco dei file quando viene aperto da un utente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T082648Z" creationid="osvaldo" creationdate="20180826T221020Z">
+        <seg>L'intero insieme di dati è memorizzato in un file ODB che non ha alcun meccanismo di blocco quando viene aperto da un utente.</seg>
       </tuv>
     </tu>
     <tu>
