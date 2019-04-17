@@ -33425,8 +33425,8 @@
       <tuv lang="EN">
         <seg>The entire data set is stored in an ODB file which has no file locking mechanism when opened by a user.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180826T221020Z" creationid="osvaldo" creationdate="20180826T221020Z">
-        <seg>L'intero datasetè memorizzato in un file ODB che non ha alcun meccanismo di blocco dei file quando viene aperto da un utente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T075759Z" creationid="osvaldo" creationdate="20180826T221020Z">
+        <seg>aaaaL'intero dataset è memorizzato in un file ODB che non ha alcun meccanismo di blocco dei file quando viene aperto da un utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37721,8 +37721,8 @@
       <tuv lang="EN">
         <seg>This HSQLDB database can only be used by a single user.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190416T073858Z" creationid="osvaldo" creationdate="20180826T220922Z">
-        <seg>aaaaaaaaaaaaaaaaaaaQuesto database HSQLDB può essere utilizzato solo da un singolo utente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T075744Z" creationid="osvaldo" creationdate="20180826T220922Z">
+        <seg>Questo database HSQLDB può essere utilizzato solo da un singolo utente.</seg>
       </tuv>
     </tu>
     <tu>
