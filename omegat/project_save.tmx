@@ -10080,8 +10080,8 @@
       <tuv lang="EN">
         <seg>A database which is registered in LibreOffice can be accessed by other program components as a data source (for example, mail merge).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190418T073611Z" creationid="osvaldo" creationdate="20180827T111234Z">
-        <seg>aaaaUn database registrato in LibreOffice può essere acceduto da altri componenti del programma come origine dei dati (ad esempio, mail merge).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190418T081149Z" creationid="osvaldo" creationdate="20180827T111234Z">
+        <seg>Se un database è registrato in LibreOffice, è possibile accedervi da altri componenti del programma, utilizzandolo come origine dei dati (ad esempio per la stampa in serie).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11768,8 +11768,8 @@
       <tuv lang="EN">
         <seg>An external database must exist before it can be accessed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111556Z" creationid="osvaldo" creationdate="20180827T111556Z">
-        <seg>Un database esterno deve esistere prima di poterlo accedere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190418T081407Z" creationid="osvaldo" creationdate="20180827T111556Z">
+        <seg>aaaaaaaaaaaaaaaaUn database esterno deve esistere prima di poterlo accedere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39521,8 +39521,8 @@
       <tuv lang="EN">
         <seg>This registration process can be carried out at a later stage if desired.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111507Z" creationid="osvaldo" creationdate="20180827T111507Z">
-        <seg>Se desiderato, questo processo di registrazione può essere effettuato in una fase successiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190418T081323Z" creationid="osvaldo" creationdate="20180827T111507Z">
+        <seg>Se volete potete effettuare il processo di registrazione in una fase successiva.</seg>
       </tuv>
     </tu>
     <tu>
