@@ -10080,8 +10080,8 @@
       <tuv lang="EN">
         <seg>A database which is registered in LibreOffice can be accessed by other program components as a data source (for example, mail merge).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111234Z" creationid="osvaldo" creationdate="20180827T111234Z">
-        <seg>Un database registrato in LibreOffice può essere acceduto da altri componenti del programma come origine dei dati (ad esempio, mail merge).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190418T073611Z" creationid="osvaldo" creationdate="20180827T111234Z">
+        <seg>aaaaUn database registrato in LibreOffice può essere acceduto da altri componenti del programma come origine dei dati (ad esempio, mail merge).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23753,8 +23753,8 @@
       <tuv lang="EN">
         <seg>It is possible at some later stage to transfer the database to an external HSQLDB environment, where multiple users can have concurrent access to the database on the HSQLDB server.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190417T083603Z" creationid="osvaldo" creationdate="20180827T110846Z">
-        <seg>aaaaaaaaaaaaaaaaIn un secondo momento è possibile trasferire il database in un ambiente HSQLDB esterno, in cui più utenti possono avere accesso simultaneo al database sul server HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190418T073407Z" creationid="osvaldo" creationdate="20180827T110846Z">
+        <seg>È possibile trasferire in un secondo momento il database in un ambiente HSQLDB esterno, in cui più utenti possono avere accesso simultaneo al database sul server HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33033,8 +33033,8 @@
       <tuv lang="EN">
         <seg>The creation of a new internal database is described in detail in Getting Started with Base.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T111039Z" creationid="osvaldo" creationdate="20180827T111039Z">
-        <seg>La creazione di un nuovo database interno è descritta in dettaglio nella guida Iniziare con Base.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190418T073610Z" creationid="osvaldo" creationdate="20180827T111039Z">
+        <seg>La creazione di un nuovo database interno è descritta in dettaglio nell'Introduzione a Base.</seg>
       </tuv>
     </tu>
     <tu>
