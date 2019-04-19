@@ -6888,8 +6888,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click on &lt;/f0&gt;&lt;f1&gt;File &gt; New &gt; Database&lt;/f1&gt;&lt;f2&gt; to open the Database Wizard and allow a connection to an existing database to be made.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190419T075831Z" creationid="osvaldo" creationdate="20180827T202451Z">
-        <seg>aaaa&lt;f0&gt;Fare click su &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo &gt; Database&lt;/f1&gt;&lt;f2&gt; per aprire la procedura guidata  Database e consentire la realizzazione della connessione ad un database esistente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T082656Z" creationid="osvaldo" creationdate="20180827T202451Z">
+        <seg>&lt;f0&gt;Fate clic sulla voce &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo &gt; Database&lt;/f1&gt;&lt;f2&gt; per aprire la Creazione guidata database e consentire la connessione a un database esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34721,8 +34721,8 @@
       <tuv lang="EN">
         <seg>The list of available database types varies according to operating system and user interface, but the following should always be available:&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T202811Z" creationid="osvaldo" creationdate="20180827T202811Z">
-        <seg>L'elenco dei tipi di database disponibili varia in base al sistema operativo e all'interfaccia utente, ma quanto segue dovrebbe sempre essere disponibile:&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T082705Z" creationid="osvaldo" creationdate="20180827T202811Z">
+        <seg>aaaaaaaaaaaaaaaaL'elenco dei tipi di database disponibili varia in base al sistema operativo e all'interfaccia utente, ma quanto segue dovrebbe sempre essere disponibile:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42907,6 +42907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171026T211018Z" creationid="Marco Marega" creationdate="20171026T211018Z">
         <seg>corrispondono alle proprietà generali elencate a pagina &lt;bf0&gt;75&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dBase</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T082659Z" creationid="luke" creationdate="20190419T082659Z">
+        <seg>dBase</seg>
       </tuv>
     </tu>
     <tu>
