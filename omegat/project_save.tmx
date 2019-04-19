@@ -6888,8 +6888,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click on &lt;/f0&gt;&lt;f1&gt;File &gt; New &gt; Database&lt;/f1&gt;&lt;f2&gt; to open the Database Wizard and allow a connection to an existing database to be made.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T202451Z" creationid="osvaldo" creationdate="20180827T202451Z">
-        <seg>&lt;f0&gt;Fare click su &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo &gt; Database&lt;/f1&gt;&lt;f2&gt; per aprire la procedura guidata  Database e consentire la realizzazione della connessione ad un database esistente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T075831Z" creationid="osvaldo" creationdate="20180827T202451Z">
+        <seg>aaaa&lt;f0&gt;Fare click su &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo &gt; Database&lt;/f1&gt;&lt;f2&gt; per aprire la procedura guidata  Database e consentire la realizzazione della connessione ad un database esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12352,8 +12352,8 @@
       <tuv lang="EN">
         <seg>Assuming that access to a database is desired, the database must be set up to allow network connections &lt;f0&gt;with&lt;/f0&gt; a specific user name and password before external programs can connect to it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190419T072028Z" creationid="osvaldo" creationdate="20180827T200938Z">
-        <seg>aaaaAssumendo che si voglia accedere un database, il database deve essere impostato per consentire le connessioni di rete &lt;f0&gt;con&lt;/f0&gt; un nome utente e una password specifici prima che i programmi esterni possano connettersi ad esso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T075412Z" creationid="osvaldo" creationdate="20180827T200938Z">
+        <seg>Assumendo che si voglia accedere a un database, il database deve essere impostato per consentire le connessioni di rete &lt;f0&gt;con&lt;/f0&gt; un nome utente e una password specifici prima che i programmi esterni vi si possano connettere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41705,8 +41705,8 @@
       <tuv lang="EN">
         <seg>When such a database is properly set up, a user may, depending on the available connection software (the database driver), create tables, input data, and query data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T201322Z" creationid="osvaldo" creationdate="20180827T201322Z">
-        <seg>Quando un tale database è impostato correttamente, un utente può, a seconda del software di connessione disponibile (il driver del database), creare tabelle, inserire dati e richiedere dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T075829Z" creationid="osvaldo" creationdate="20180827T201322Z">
+        <seg>Quando un tale database è impostato correttamente, un utente può, a seconda del software di connessione disponibile (il driver del database), creare tabelle, inserire dati ed effettuare delle query.</seg>
       </tuv>
     </tu>
     <tu>
