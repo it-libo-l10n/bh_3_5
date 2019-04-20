@@ -25217,8 +25217,8 @@
       <tuv lang="EN">
         <seg>MySQL databases</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171003T090802Z" creationid="Marina Latini" creationdate="20171003T090802Z">
-        <seg>Database MySQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T112225Z" creationid="Marina Latini" creationdate="20171003T090802Z">
+        <seg>aaaaaaaaaaaaaaaaaaaDatabase MySQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -30481,8 +30481,8 @@
       <tuv lang="EN">
         <seg>Some database types (for example spreadsheets) do not allow new data to be entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190420T082635Z" creationid="osvaldo" creationdate="20180827T203220Z">
-        <seg>aaaaaaaaaaaaaaaaaaAlcuni tipi di database (ad esempio fogli di calcolo) non consentono l'inserimento di nuovi dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T111717Z" creationid="osvaldo" creationdate="20180827T203220Z">
+        <seg>Alcuni tipi di database (ad esempio i fogli elettronici) non consentono l'inserimento di nuovi dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37409,8 +37409,8 @@
       <tuv lang="EN">
         <seg>These are used only to search for or report on existing data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203456Z" creationid="osvaldo" creationdate="20180827T203456Z">
-        <seg>Questi sono usati solo per cercare o presentare dati esistenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T112154Z" creationid="osvaldo" creationdate="20180827T203456Z">
+        <seg>Questi sono usati solo per effettuare delle ricerche o per presentare dei rapporti relativamente ai dati esistenti.</seg>
       </tuv>
     </tu>
     <tu>
