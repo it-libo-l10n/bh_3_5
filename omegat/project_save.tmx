@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25217,8 +25217,8 @@
       <tuv lang="EN">
         <seg>MySQL databases</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190420T112225Z" creationid="Marina Latini" creationdate="20171003T090802Z">
-        <seg>aaaaaaaaaaaaaaaaaaaDatabase MySQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T075147Z" creationid="Marina Latini" creationdate="20171003T090802Z">
+        <seg>Database MySQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -37169,8 +37169,8 @@
       <tuv lang="EN">
         <seg>There was an extension for MySQL, the MySQL Native Connector, which should allow Base to connect directly to a MySQL database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203619Z" creationid="osvaldo" creationdate="20180827T203619Z">
-        <seg>C'era un'estensione per MySQL, il connettore nativo MySQL, che avrebbe consentito a Base di connettersi direttamente a un database MySQL.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T075415Z" creationid="osvaldo" creationdate="20180827T203619Z">
+        <seg>In passato era presente un'estensione per MySQL, il connettore nativo MySQL, che avrebbe consentito a Base di connettersi direttamente a un database MySQL.</seg>
       </tuv>
     </tu>
     <tu>
