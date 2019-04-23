@@ -37769,8 +37769,8 @@
       <tuv lang="EN">
         <seg>This Java Archive file is best copied into the same folder where the current java version used in LibreOffice is located.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204251Z" creationid="osvaldo" creationdate="20180827T204251Z">
-        <seg>Questo archivio Java è meglio copiarlo nella stessa cartella dove è istallata la versione di Java usata in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T085740Z" creationid="osvaldo" creationdate="20180827T204251Z">
+        <seg>È opportuno copiare questo archivio Java nella stessa cartella in cui è presente la versione di Java correntemente usata in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38825,8 +38825,8 @@
       <tuv lang="EN">
         <seg>This is likely to be a subfolder like &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; for a Linux installation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204336Z" creationid="osvaldo" creationdate="20180827T204336Z">
-        <seg>È probabile che sia una sottocartella come &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; per una istallazione Linux.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T085745Z" creationid="osvaldo" creationdate="20180827T204336Z">
+        <seg>aaaaaaaaaaaaaaaaÈ probabile che sia una sottocartella come &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; per una istallazione Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40113,8 +40113,8 @@
       <tuv lang="EN">
         <seg>To be &lt;/f0&gt;able to use JDBC, it is necessary to install mysql-connector-java.jar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190423T081420Z" creationid="osvaldo" creationdate="20180827T204036Z">
-        <seg>aaaaPer &lt;/f0&gt;poter usare JDBC, è necessario installare mysql-connector-java.jar.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T085102Z" creationid="osvaldo" creationdate="20180827T204036Z">
+        <seg>Per &lt;/f0&gt;poter usare JDBC, è necessario installare mysql-connector-java.jar.</seg>
       </tuv>
     </tu>
     <tu>
