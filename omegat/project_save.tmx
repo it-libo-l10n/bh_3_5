@@ -7376,8 +7376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;General access to MySQL for versions of LibreOffice from 3.5 onwads is via JDBC or ODBC.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203910Z" creationid="osvaldo" creationdate="20180827T203910Z">
-        <seg>&lt;f0&gt;L'accesso generale a MySQL per le versioni di LibreOffice da 3.5 e successive è tramite JDBC o ODBC.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T081418Z" creationid="osvaldo" creationdate="20180827T203910Z">
+        <seg>&lt;f0&gt;L'accesso generale a MySQL per le versioni di LibreOffice dalla 3.5 in avanti avviene tramite JDBC oppure ODBC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33537,8 +33537,8 @@
       <tuv lang="EN">
         <seg>The extension was in the LibreOffice Extensions center under the Base Category but is not being developed at present.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T203801Z" creationid="osvaldo" creationdate="20180827T203801Z">
-        <seg>L'estensione era nel centro Estensioni LibreOffice sotto la categoria Base ma al momento non è più sviluppata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T081155Z" creationid="osvaldo" creationdate="20180827T203801Z">
+        <seg>L'estensione si trovava nel Centro estensioni di LibreOffice, sotto la categoria Base, ma al momento non è più sviluppata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40113,8 +40113,8 @@
       <tuv lang="EN">
         <seg>To be &lt;/f0&gt;able to use JDBC, it is necessary to install mysql-connector-java.jar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204036Z" creationid="osvaldo" creationdate="20180827T204036Z">
-        <seg>Per &lt;/f0&gt;poter usare JDBC, è necessario installare mysql-connector-java.jar.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T081420Z" creationid="osvaldo" creationdate="20180827T204036Z">
+        <seg>aaaaPer &lt;/f0&gt;poter usare JDBC, è necessario installare mysql-connector-java.jar.</seg>
       </tuv>
     </tu>
     <tu>
