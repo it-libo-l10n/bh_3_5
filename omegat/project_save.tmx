@@ -4248,8 +4248,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Select the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Connect to an existing database&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; option.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205050Z" creationid="osvaldo" creationdate="20180827T205050Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Seleziona l'opzione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Connetti ad un database esistente&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190424T071529Z" creationid="osvaldo" creationdate="20180827T205050Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Selezionate l'opzione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Collega a un database esistente&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10256,8 +10256,8 @@
       <tuv lang="EN">
         <seg>A list of database formats is contained on the pull-down menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205229Z" creationid="osvaldo" creationdate="20180827T205229Z">
-        <seg>Un elenco di formati di database è contenuto nel menu a discesa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190424T071532Z" creationid="osvaldo" creationdate="20180827T205229Z">
+        <seg>aaaaaaaaaaaaaaaaUn elenco di formati di database è contenuto nel menu a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11616,8 +11616,8 @@
       <tuv lang="EN">
         <seg>Alternatively the appropriate folder containing the Java archive can be set through &lt;f0&gt;Tools &gt; Options &gt; Java &gt; ClassPath&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204638Z" creationid="osvaldo" creationdate="20180827T204638Z">
-        <seg>In alternativa è possibile impostare la cartella appropriata contenente l'archivio Java attraverso &lt;f0&gt;Strumenti &gt; Opzioni &gt; Java &gt; Percorso Classe&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190424T070543Z" creationid="osvaldo" creationdate="20180827T204638Z">
+        <seg>In alternativa è possibile impostare la cartella appropriata contenente l'archivio Java tramite &lt;f0&gt;Strumenti &gt; Opzioni &gt; Java &gt; Classpath&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14488,8 +14488,8 @@
       <tuv lang="EN">
         <seg>Creation of a new database is only possible in the internal HSQLDB format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204849Z" creationid="osvaldo" creationdate="20180827T204849Z">
-        <seg>La creazione di un nuovo database è possibile solo nel formato interno HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190424T071041Z" creationid="osvaldo" creationdate="20180827T204849Z">
+        <seg>La creazione di un nuovo database è possibile solo nel formato HSQLDB interno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35009,8 +35009,8 @@
       <tuv lang="EN">
         <seg>The method of access to an existing MySQL database is shown in the following steps.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T204722Z" creationid="osvaldo" creationdate="20180827T204722Z">
-        <seg>Il metodo di accesso a un database MySQL esistente viene mostrato nei seguenti passaggi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190424T070729Z" creationid="osvaldo" creationdate="20180827T204722Z">
+        <seg>Nei seguenti passaggi viene mostrato il metodo di accesso a un database MySQL già esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38825,8 +38825,8 @@
       <tuv lang="EN">
         <seg>This is likely to be a subfolder like &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; for a Linux installation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190423T085745Z" creationid="osvaldo" creationdate="20180827T204336Z">
-        <seg>aaaaaaaaaaaaaaaaÈ probabile che sia una sottocartella come &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; per una istallazione Linux.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190424T065854Z" creationid="osvaldo" creationdate="20180827T204336Z">
+        <seg>È probabile che si tratti di una sottocartella come &lt;f1&gt;...javapath.../lib/ext&lt;/f1&gt; per una installazione Linux.</seg>
       </tuv>
     </tu>
     <tu>
