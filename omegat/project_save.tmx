@@ -10256,8 +10256,8 @@
       <tuv lang="EN">
         <seg>A list of database formats is contained on the pull-down menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190424T071532Z" creationid="osvaldo" creationdate="20180827T205229Z">
-        <seg>aaaaaaaaaaaaaaaaUn elenco di formati di database è contenuto nel menu a discesa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190425T104047Z" creationid="osvaldo" creationdate="20180827T205229Z">
+        <seg>Nel menu a discesa è contenuto un elenco di formati di database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29841,8 +29841,8 @@
       <tuv lang="EN">
         <seg>Select MySQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205241Z" creationid="osvaldo" creationdate="20180827T205241Z">
-        <seg>Seleziona MySQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190425T104109Z" creationid="osvaldo" creationdate="20180827T205241Z">
+        <seg>Selezionate MySQL.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
