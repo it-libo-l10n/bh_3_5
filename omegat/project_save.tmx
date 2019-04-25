@@ -14112,8 +14112,8 @@
       <tuv lang="EN">
         <seg>Connection to MySQL can be via ODBC or JDBC unless a native MySQL connector has been installed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180827T205323Z" creationid="osvaldo" creationdate="20180827T205323Z">
-        <seg>La connessione a MySQL può avvenire tramite ODBC o JDBC, a meno che non sia stato installato un connettore MySQL nativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190425T104729Z" creationid="osvaldo" creationdate="20180827T205323Z">
+        <seg>La connessione a MySQL può avvenire tramite ODBC o JDBC, a meno che non abbiate installato un connettore nativo MySQL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22897,8 +22897,8 @@
       <tuv lang="EN">
         <seg>In this example, select the Java connector JDBC.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215735Z" creationid="osvaldo" creationdate="20180828T215735Z">
-        <seg>In questo esempio, selezionare il connettore Java JDBC.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190425T104903Z" creationid="osvaldo" creationdate="20180828T215735Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaIn questo esempio, selezionare il connettore Java JDBC.</seg>
       </tuv>
     </tu>
     <tu>
