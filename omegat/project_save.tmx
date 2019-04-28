@@ -20393,8 +20393,8 @@
       <tuv lang="EN">
         <seg>If the MySQL server is on the same computer as LibreOffice, then the Server name can be set as localhost.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215836Z" creationid="osvaldo" creationdate="20180828T215836Z">
-        <seg>Se il server MySQL si trova sullo stesso computer di LibreOffice, il nome del server può essere impostato come localhost.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T090828Z" creationid="osvaldo" creationdate="20180828T215836Z">
+        <seg>aaaaSe il server MySQL si trova sullo stesso computer di LibreOffice, il nome del server può essere impostato come localhost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22897,8 +22897,8 @@
       <tuv lang="EN">
         <seg>In this example, select the Java connector JDBC.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190425T104903Z" creationid="osvaldo" creationdate="20180828T215735Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaIn questo esempio, selezionare il connettore Java JDBC.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T090711Z" creationid="osvaldo" creationdate="20180828T215735Z">
+        <seg>In questo esempio, selezionate il connettore Java JDBC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33289,8 +33289,8 @@
       <tuv lang="EN">
         <seg>The database name must be known and input.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T215802Z" creationid="osvaldo" creationdate="20180828T215802Z">
-        <seg>Il nome del database deve essere conosciuto e inserito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T090826Z" creationid="osvaldo" creationdate="20180828T215802Z">
+        <seg>Dovete conoscere e inserire il nome del database.</seg>
       </tuv>
     </tu>
     <tu>
