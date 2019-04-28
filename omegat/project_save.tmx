@@ -4696,8 +4696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Type in the JDBC driver class and click the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T222736Z" creationid="osvaldo" creationdate="20180828T222736Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Digitare la classe di driver JDBC e fare clic sul pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T094452Z" creationid="osvaldo" creationdate="20180828T222736Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Digitare la classe di driver JDBC e fare clic sul pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23641,8 +23641,8 @@
       <tuv lang="EN">
         <seg>It is also possible to access a database with Base where the database is located on the website of an Internet Service Provider.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180828T220751Z" creationid="osvaldo" creationdate="20180828T220751Z">
-        <seg>È anche possibile accedere a un database con Base in cui il database si trova sul sito Web di un provider di servizi Internet.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T094411Z" creationid="osvaldo" creationdate="20180828T220751Z">
+        <seg>Con Base è anche possibile accedere a un database che si trova sul sito web di un provider di servizi Internet.</seg>
       </tuv>
     </tu>
     <tu>
