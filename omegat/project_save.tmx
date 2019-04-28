@@ -20393,8 +20393,8 @@
       <tuv lang="EN">
         <seg>If the MySQL server is on the same computer as LibreOffice, then the Server name can be set as localhost.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190428T090828Z" creationid="osvaldo" creationdate="20180828T215836Z">
-        <seg>aaaaSe il server MySQL si trova sullo stesso computer di LibreOffice, il nome del server può essere impostato come localhost.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T093712Z" creationid="osvaldo" creationdate="20180828T215836Z">
+        <seg>Se il server MySQL si trova sullo stesso computer in cui si trova LibreOffice, il nome del server può essere impostato come localhost.</seg>
       </tuv>
     </tu>
     <tu>
