@@ -19729,8 +19729,8 @@
       <tuv lang="EN">
         <seg>If a direct connection was selected, this test will generate error messages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192255Z" creationid="osvaldo" creationdate="20180829T192255Z">
-        <seg>Se è stata selezionata una connessione diretta, questo test genererà messaggi di errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T073701Z" creationid="osvaldo" creationdate="20180829T192255Z">
+        <seg>aaaaaaaaaaaaaaaaaaaSe è stata selezionata una connessione diretta, questo test genererà messaggi di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33297,8 +33297,8 @@
       <tuv lang="EN">
         <seg>The database on the network should be protected with a user name and password.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192116Z" creationid="osvaldo" creationdate="20180829T192116Z">
-        <seg>Il database sulla rete deve essere protetto con un nome utente e una password.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T073622Z" creationid="osvaldo" creationdate="20180829T192116Z">
+        <seg>Il database sulla rete dovrebbe essere protetto con un nome utente e una password.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35041,8 +35041,8 @@
       <tuv lang="EN">
         <seg>The mysql-connector-java.jar file must either be in the same path as the version of Java in use in LibreOffice or directly linked in to LibreOffice.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190429T072330Z" creationid="osvaldo" creationdate="20180829T191942Z">
-        <seg>aaaaIl file mysql-connector-java.jar deve essere nello stesso percorso della versione di Java in uso in LibreOffice o direttamente collegata a LibreOffice.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T073503Z" creationid="osvaldo" creationdate="20180829T191942Z">
+        <seg>Il file mysql-connector-java.jar deve essere nello stesso percorso della versione di Java in uso in LibreOffice oppure direttamente collegato a LibreOffice.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
