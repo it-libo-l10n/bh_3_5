@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4696,8 +4696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Type in the JDBC driver class and click the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190428T094452Z" creationid="osvaldo" creationdate="20180828T222736Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Digitare la classe di driver JDBC e fare clic sul pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Test class&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T071915Z" creationid="osvaldo" creationdate="20180828T222736Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Digitate la classe di driver JDBC e fate clic sul pulsante &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Prova la classe&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10096,8 +10096,8 @@
       <tuv lang="EN">
         <seg>A dialog should pop up confirming that the connector is loaded and accessible using Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T191844Z" creationid="osvaldo" creationdate="20180829T101701Z">
-        <seg>Dovrebbe apparire una finestra di dialogo che conferma che il connettore è caricato e accessibile usando Java.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T071919Z" creationid="osvaldo" creationdate="20180829T101701Z">
+        <seg>aaaaDovrebbe apparire una finestra di dialogo che conferma che il connettore è caricato e accessibile usando Java.</seg>
       </tuv>
     </tu>
     <tu>
