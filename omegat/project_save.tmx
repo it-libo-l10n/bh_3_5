@@ -11144,8 +11144,8 @@
       <tuv lang="EN">
         <seg>After the correct password is input, a dialog announces the result of &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; test.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192734Z" creationid="osvaldo" creationdate="20180829T192734Z">
-        <seg>Dopo aver inserito la password corretta, una finestra di dialogo annuncia il risultato &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; test.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190430T071822Z" creationid="osvaldo" creationdate="20180829T192734Z">
+        <seg>Dopo aver inserito la password corretta, una finestra di dialogo mostra il risultato &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19649,8 +19649,8 @@
       <tuv lang="EN">
         <seg>If MySQL is not running at this time, an error message is shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192808Z" creationid="osvaldo" creationdate="20180829T192808Z">
-        <seg>Se MySQL non è in esecuzione in questo momento, viene visualizzato un messaggio di errore.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190430T071825Z" creationid="osvaldo" creationdate="20180829T192808Z">
+        <seg>aaaaaaaaaaaaaaaaaaSe MySQL non è in esecuzione in questo momento, viene visualizzato un messaggio di errore.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19729,8 +19729,8 @@
       <tuv lang="EN">
         <seg>If a direct connection was selected, this test will generate error messages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190429T073701Z" creationid="osvaldo" creationdate="20180829T192255Z">
-        <seg>aaaaaaaaaaaaaaaaaaaSe è stata selezionata una connessione diretta, questo test genererà messaggi di errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190430T071000Z" creationid="osvaldo" creationdate="20180829T192255Z">
+        <seg>Se è stata selezionata una connessione diretta, questo test genererà messaggi di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42177,8 +42177,8 @@
       <tuv lang="EN">
         <seg>Without testing, Base will, at the end of the Assistant, open the database window and connection to MySQL.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192600Z" creationid="osvaldo" creationdate="20180829T192600Z">
-        <seg>Senza ulteriori prove, Base alla fine della procedura guidata aprirà la finestra del database e la connessione a MySQL.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190430T071348Z" creationid="osvaldo" creationdate="20180829T192600Z">
+        <seg>Senza ulteriori prove, Base, alla fine della procedura guidata, aprirà la finestra del database e la connessione a MySQL.</seg>
       </tuv>
     </tu>
     <tu>
