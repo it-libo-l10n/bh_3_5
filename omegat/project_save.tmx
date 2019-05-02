@@ -32009,8 +32009,8 @@
       <tuv lang="EN">
         <seg>The Assistant ends the connection process with the storage of the ODB database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192951Z" creationid="osvaldo" creationdate="20180829T192951Z">
-        <seg>L'Assistente termina il processo di connessione con l'archiviazione del database ODB.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T073747Z" creationid="osvaldo" creationdate="20180829T192951Z">
+        <seg>La procedura termina il processo di connessione con l'archiviazione del database ODB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32265,8 +32265,8 @@
       <tuv lang="EN">
         <seg>The ODB database contains all the connection information needed to allow tables in the database to be accessed whenever the database is opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193025Z" creationid="osvaldo" creationdate="20180829T193025Z">
-        <seg>Il database ODB contiene tutte le informazioni di connessione necessarie per consentire l'accesso alle tabelle nel database ogni volta che viene aperto il database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T073751Z" creationid="osvaldo" creationdate="20180829T193025Z">
+        <seg>aaaaaaaaaaaaaaaaIl database ODB contiene tutte le informazioni di connessione necessarie per consentire l'accesso alle tabelle nel database ogni volta che viene aperto il database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33193,7 +33193,7 @@
       <tuv lang="EN">
         <seg>The database can, if necessary, be registered at a later time to allow its use with Writer or Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192911Z" creationid="osvaldo" creationdate="20180829T192911Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T073538Z" creationid="osvaldo" creationdate="20180829T192911Z">
         <seg>Il database può, se necessario, essere registrato in un secondo momento per consentirne l'utilizzo con Writer o Calc.</seg>
       </tuv>
     </tu>
@@ -33801,8 +33801,8 @@
       <tuv lang="EN">
         <seg>The final step is registering the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190502T070702Z" creationid="osvaldo" creationdate="20180829T192835Z">
-        <seg>aaaaIl passo finale è la registrazione del database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T073036Z" creationid="osvaldo" creationdate="20180829T192835Z">
+        <seg>Il passo finale è la registrazione del database.</seg>
       </tuv>
     </tu>
     <tu>
