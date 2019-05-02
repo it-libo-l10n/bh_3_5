@@ -19649,8 +19649,8 @@
       <tuv lang="EN">
         <seg>If MySQL is not running at this time, an error message is shown.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190430T071825Z" creationid="osvaldo" creationdate="20180829T192808Z">
-        <seg>aaaaaaaaaaaaaaaaaaSe MySQL non è in esecuzione in questo momento, viene visualizzato un messaggio di errore.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T070701Z" creationid="osvaldo" creationdate="20180829T192808Z">
+        <seg>Se MySQL non è in esecuzione quando eseguite il test, viene visualizzato un messaggio di errore.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33801,8 +33801,8 @@
       <tuv lang="EN">
         <seg>The final step is registering the database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T192835Z" creationid="osvaldo" creationdate="20180829T192835Z">
-        <seg>Il passo finale è la registrazione del database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T070702Z" creationid="osvaldo" creationdate="20180829T192835Z">
+        <seg>aaaaIl passo finale è la registrazione del database.</seg>
       </tuv>
     </tu>
     <tu>
