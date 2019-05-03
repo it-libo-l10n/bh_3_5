@@ -32265,8 +32265,8 @@
       <tuv lang="EN">
         <seg>The ODB database contains all the connection information needed to allow tables in the database to be accessed whenever the database is opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190502T073751Z" creationid="osvaldo" creationdate="20180829T193025Z">
-        <seg>aaaaaaaaaaaaaaaaIl database ODB contiene tutte le informazioni di connessione necessarie per consentire l'accesso alle tabelle nel database ogni volta che viene aperto il database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T070839Z" creationid="osvaldo" creationdate="20180829T193025Z">
+        <seg>Il database ODB contiene tutte le informazioni di connessione necessarie per consentire l'accesso alle tabelle nel database ogni volta che il database viene aperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35153,8 +35153,8 @@
       <tuv lang="EN">
         <seg>The next picture is a view of the Base interface.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193326Z" creationid="osvaldo" creationdate="20180829T193326Z">
-        <seg>L'immagine seguente è una vista dell'interfaccia di base.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T071103Z" creationid="osvaldo" creationdate="20180829T193326Z">
+        <seg>L'immagine seguente è una vista dell'interfaccia di Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36833,8 +36833,8 @@
       <tuv lang="EN">
         <seg>The view of the table tree can be closed by clicking on the database name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T193439Z" creationid="osvaldo" creationdate="20180829T193439Z">
-        <seg>La vista dell'albero della tabella può essere chiusa facendo clic sul nome del database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T071159Z" creationid="osvaldo" creationdate="20180829T193439Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaaaLa vista dell'albero della tabella può essere chiusa facendo clic sul nome del database.</seg>
       </tuv>
     </tu>
     <tu>
