@@ -4024,8 +4024,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Queries must include in the MySQL syntax not only the table name but also the database which contains, for example, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;the following code&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T211926Z" creationid="osvaldo" creationdate="20180829T211926Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Le query devono includere nella sintassi MySQL non solo il nome della tabella, ma anche il database che lo contiene, per esempio, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;il codice seguente&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T101914Z" creationid="osvaldo" creationdate="20180829T211926Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Le query devono includere nella sintassi MySQL non solo il nome della tabella, ma anche il database che lo contiene, per esempio, &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;il codice seguente&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16905,8 +16905,8 @@
       <tuv lang="EN">
         <seg>For a single database connection this does not make much sense, but it does give a visible indication of the direct connection.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190505T095812Z" creationid="osvaldo" creationdate="20180829T211622Z">
-        <seg>aaaaPer una singola connessione al database questo non ha molto senso, ma dà un'indicazione visibile della connessione diretta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T101600Z" creationid="osvaldo" creationdate="20180829T211622Z">
+        <seg>Per una singola connessione al database ciò non ha molto senso, ma dà un'indicazione visibile della connessione diretta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23257,8 +23257,8 @@
       <tuv lang="EN">
         <seg>Instead of only the database input in Step 3 of the Wizard (see lower status bar), LibreOffice opens all databases that are available in MySQL to the user “robby”.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T211726Z" creationid="osvaldo" creationdate="20180829T211726Z">
-        <seg>Invece del solo input del database nel Passaggio 3 della procedura guidata (vedere la barra di stato inferiore), LibreOffice apre tutti i database che sono disponibili in MySQL all'utente "robby".</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T101910Z" creationid="osvaldo" creationdate="20180829T211726Z">
+        <seg>Invece di aprire solamente il database inserito nel passaggio 3 della procedura guidata (vedete la barra di stato in basso), LibreOffice apre tutti i database che sono disponibili in MySQL all'utente specificato durante la medesima procedura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43555,6 +43555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180526T153537Z" creationid="manuel" creationdate="20180507T102836Z">
         <seg>| {ANY|ALL} (Risultato della query che produce &lt;f0&gt;esattamente una risposta da &lt;/f0&gt;una intera colonna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>… FROM "myphplib"."ASB" AS "ASB", "myphplib"."Kategorien" AS "Kategorien"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T101915Z" creationid="luke" creationdate="20190505T101915Z">
+        <seg>… FROM "myphplib"."ASB" AS "ASB", "myphplib"."Kategorien" AS "Kategorien"</seg>
       </tuv>
     </tu>
     <tu>
