@@ -23633,8 +23633,8 @@
       <tuv lang="EN">
         <seg>It is also possible in every such case to specify an alias, made up from the database and table names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212308Z" creationid="osvaldo" creationdate="20180829T212308Z">
-        <seg>In ogni caso è anche possibile specificare un alias, composto dai nomi di database e tabelle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T110148Z" creationid="osvaldo" creationdate="20180829T212308Z">
+        <seg>In tali casi è anche possibile specificare un alias, composto dai nomi di database e tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25105,8 +25105,8 @@
       <tuv lang="EN">
         <seg>More details are given in the chapter on Queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212353Z" creationid="osvaldo" creationdate="20180829T212353Z">
-        <seg>Maggiori dettagli sono forniti nel capitolo sulle Query.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T110152Z" creationid="osvaldo" creationdate="20180829T212353Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaMaggiori dettagli sono forniti nel capitolo sulle Query.</seg>
       </tuv>
     </tu>
     <tu>
