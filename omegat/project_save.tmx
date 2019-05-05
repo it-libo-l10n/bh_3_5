@@ -16905,8 +16905,8 @@
       <tuv lang="EN">
         <seg>For a single database connection this does not make much sense, but it does give a visible indication of the direct connection.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T211622Z" creationid="osvaldo" creationdate="20180829T211622Z">
-        <seg>Per una singola connessione al database questo non ha molto senso, ma dà un'indicazione visibile della connessione diretta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T095812Z" creationid="osvaldo" creationdate="20180829T211622Z">
+        <seg>aaaaPer una singola connessione al database questo non ha molto senso, ma dà un'indicazione visibile della connessione diretta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36833,8 +36833,8 @@
       <tuv lang="EN">
         <seg>The view of the table tree can be closed by clicking on the database name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190503T071159Z" creationid="osvaldo" creationdate="20180829T193439Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaaaLa vista dell'albero della tabella può essere chiusa facendo clic sul nome del database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T095809Z" creationid="osvaldo" creationdate="20180829T193439Z">
+        <seg>La vista dell'albero della tabella può essere chiusa facendo clic sul nome del database.</seg>
       </tuv>
     </tu>
     <tu>
