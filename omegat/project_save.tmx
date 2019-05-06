@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21313,8 +21313,8 @@
       <tuv lang="EN">
         <seg>In MySQL the starting value of such fields defaults to 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212620Z" creationid="osvaldo" creationdate="20180829T212620Z">
-        <seg>In MySQL il valore iniziale di tali campi è impostato su 1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T091327Z" creationid="osvaldo" creationdate="20180829T212620Z">
+        <seg>In MySQL il valore iniziale di tali campi è impostato, in modo predefinito, su 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25105,8 +25105,8 @@
       <tuv lang="EN">
         <seg>More details are given in the chapter on Queries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190505T110152Z" creationid="osvaldo" creationdate="20180829T212353Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaMaggiori dettagli sono forniti nel capitolo sulle Query.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T090719Z" creationid="osvaldo" creationdate="20180829T212353Z">
+        <seg>Maggiori dettagli sono forniti nel capitolo sulle Query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31097,8 +31097,8 @@
       <tuv lang="EN">
         <seg>Tables can be created and deleted in a database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212420Z" creationid="osvaldo" creationdate="20180829T212420Z">
-        <seg>Le tabelle possono essere create e cancellate in un database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T090941Z" creationid="osvaldo" creationdate="20180829T212420Z">
+        <seg>In un database le tabelle possono essere create ed eliminate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42969,8 +42969,8 @@
       <tuv lang="EN">
         <seg>dBase databases have a format where all data is contained in separate, previously initialized tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212712Z" creationid="osvaldo" creationdate="20180829T212712Z">
-        <seg>I database dBase hanno un formato in cui tutti i dati sono contenuti in tabelle separate, precedentemente inizializzate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T091349Z" creationid="osvaldo" creationdate="20180829T212712Z">
+        <seg>aaaaaaaaaaaaaaaaaaaI database dBase hanno un formato in cui tutti i dati sono contenuti in tabelle separate, precedentemente inizializzate.</seg>
       </tuv>
     </tu>
     <tu>
