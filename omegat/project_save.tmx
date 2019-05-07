@@ -31105,8 +31105,8 @@
       <tuv lang="EN">
         <seg>Tables can be created and will then be copied as new files in the folder previously selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213644Z" creationid="osvaldo" creationdate="20180829T213644Z">
-        <seg>Le tabelle possono essere create e quindi copiate come nuovi file nella cartella precedentemente selezionata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190507T070638Z" creationid="osvaldo" creationdate="20180829T213644Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaLe tabelle possono essere create e quindi copiate come nuovi file nella cartella precedentemente selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32953,8 +32953,8 @@
       <tuv lang="EN">
         <seg>The connection is made to a specific folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T212910Z" creationid="osvaldo" creationdate="20180829T212910Z">
-        <seg>La connessione viene effettuata in una cartella specifica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190507T065934Z" creationid="osvaldo" creationdate="20180829T212910Z">
+        <seg>La connessione viene effettuata verso una cartella specifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37657,8 +37657,8 @@
       <tuv lang="EN">
         <seg>They can in principle be described as corresponding to the worksheets in Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213617Z" creationid="osvaldo" creationdate="20180829T213617Z">
-        <seg>In linea di principio, possono essere descritti come corrispondenti ai fogli di lavoro in Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190507T070635Z" creationid="osvaldo" creationdate="20180829T213617Z">
+        <seg>In linea di principio, possono essere descritte come corrispondenti ai fogli di lavoro in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42969,8 +42969,8 @@
       <tuv lang="EN">
         <seg>dBase databases have a format where all data is contained in separate, previously initialized tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190506T091349Z" creationid="osvaldo" creationdate="20180829T212712Z">
-        <seg>aaaaaaaaaaaaaaaaaaaI database dBase hanno un formato in cui tutti i dati sono contenuti in tabelle separate, precedentemente inizializzate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190507T065550Z" creationid="osvaldo" creationdate="20180829T212712Z">
+        <seg>I database dBase hanno un formato in cui tutti i dati sono contenuti in tabelle separate, precedentemente inizializzate.</seg>
       </tuv>
     </tu>
     <tu>
