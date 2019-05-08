@@ -23897,8 +23897,8 @@
       <tuv lang="EN">
         <seg>It may be better to manipulate the data in Base because Calc requires the input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;of the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; type of character encoding, whereas Base simply takes the appropriate encoding provided by the operating system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190508T084723Z" creationid="osvaldo" creationdate="20180829T214344Z">
-        <seg>aaaaPotrebbe essere meglio manipolare i dati in Base perché Calc richiede l'input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tipo di codifica dei caratteri, mentre Base prende semplicemente la codifica appropriata fornita dal sistema operativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T091950Z" creationid="osvaldo" creationdate="20180829T214344Z">
+        <seg>Potrebbe essere opportuno manipolare i dati in Base, in quanto Calc richiede l'input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tipo di codifica dei caratteri, mentre Base prende semplicemente la codifica appropriata fornita dal sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26057,8 +26057,8 @@
       <tuv lang="EN">
         <seg>Old dBase files may exhibit small decoding errors where special characters have been used.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214444Z" creationid="osvaldo" creationdate="20180829T214444Z">
-        <seg>I vecchi file dBase possono presentare piccoli errori di decodifica laddove sono stati utilizzati caratteri speciali.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T091955Z" creationid="osvaldo" creationdate="20180829T214444Z">
+        <seg>aaaaaaaaaaaaaaaaI vecchi file dBase possono presentare piccoli errori di decodifica laddove sono stati utilizzati caratteri speciali.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
