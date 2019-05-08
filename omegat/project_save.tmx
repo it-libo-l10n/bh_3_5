@@ -22505,8 +22505,8 @@
       <tuv lang="EN">
         <seg>In the following figure there are still some field types with the same type name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T213830Z" creationid="osvaldo" creationdate="20180829T213830Z">
-        <seg>Nella figura seguente ci sono ancora alcuni tipi di campo con lo stesso tipo di nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T080704Z" creationid="osvaldo" creationdate="20180829T213830Z">
+        <seg>aaaaNella figura seguente ci sono ancora alcuni tipi di campo con lo stesso tipo di nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31105,8 +31105,8 @@
       <tuv lang="EN">
         <seg>Tables can be created and will then be copied as new files in the folder previously selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190507T070638Z" creationid="osvaldo" creationdate="20180829T213644Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaLe tabelle possono essere create e quindi copiate come nuovi file nella cartella precedentemente selezionata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T080445Z" creationid="osvaldo" creationdate="20180829T213644Z">
+        <seg>Le tabelle possono essere create e quindi copiate come nuovi file nella cartella precedentemente selezionata.</seg>
       </tuv>
     </tu>
     <tu>
