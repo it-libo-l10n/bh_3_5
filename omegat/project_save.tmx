@@ -4448,8 +4448,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The dBase format is especially suitable for the exchange and extensive editing of data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214031Z" creationid="osvaldo" creationdate="20180829T214031Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Il formato dBase è particolarmente adatto per lo scambio e una vasta modifica dei dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T084050Z" creationid="osvaldo" creationdate="20180829T214031Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Il formato dBase è particolarmente adatto per lo scambio e la modifica estensiva dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21585,8 +21585,8 @@
       <tuv lang="EN">
         <seg>In addition, spreadsheet calculations can directly access dBase tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214101Z" creationid="osvaldo" creationdate="20180829T214101Z">
-        <seg>Inoltre, i calcoli del foglio di calcolo possono accedere direttamente alle tabelle dBase.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T084721Z" creationid="osvaldo" creationdate="20180829T214101Z">
+        <seg>Inoltre, per effettuare calcoli in un foglio elettronico è possibile accedere direttamente alle tabelle dBase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22505,8 +22505,8 @@
       <tuv lang="EN">
         <seg>In the following figure there are still some field types with the same type name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190508T080704Z" creationid="osvaldo" creationdate="20180829T213830Z">
-        <seg>aaaaNella figura seguente ci sono ancora alcuni tipi di campo con lo stesso tipo di nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T083555Z" creationid="osvaldo" creationdate="20180829T213830Z">
+        <seg>Nella figura seguente vi sono ancora alcuni tipi di campo con lo stesso tipo di nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23897,8 +23897,8 @@
       <tuv lang="EN">
         <seg>It may be better to manipulate the data in Base because Calc requires the input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;of the&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; type of character encoding, whereas Base simply takes the appropriate encoding provided by the operating system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214344Z" creationid="osvaldo" creationdate="20180829T214344Z">
-        <seg>Potrebbe essere meglio manipolare i dati in Base perché Calc richiede l'input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tipo di codifica dei caratteri, mentre Base prende semplicemente la codifica appropriata fornita dal sistema operativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T084723Z" creationid="osvaldo" creationdate="20180829T214344Z">
+        <seg>aaaaPotrebbe essere meglio manipolare i dati in Base perché Calc richiede l'input &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;del&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; tipo di codifica dei caratteri, mentre Base prende semplicemente la codifica appropriata fornita dal sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
