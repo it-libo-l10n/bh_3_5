@@ -4528,8 +4528,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;The only questions to be answered are the location of the spreadsheet file and whether or not &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;it is password protected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215206Z" creationid="osvaldo" creationdate="20180829T215206Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Le uniche domande a cui rispondere sono la posizione del file del foglio di calcolo e se è o no &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;protetto da password.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T071050Z" creationid="osvaldo" creationdate="20180829T215206Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Le uniche domande a cui rispondere sono quelle relative alla posizione del file del foglio elettronico e se il file è &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;protetto da password o meno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12656,8 +12656,8 @@
       <tuv lang="EN">
         <seg>Base then opens the spreadsheet and includes all worksheets in the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215248Z" creationid="osvaldo" creationdate="20180829T215248Z">
-        <seg>Base quindi apre il foglio di calcolo e include tutti i fogli di lavoro nel documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T071053Z" creationid="osvaldo" creationdate="20180829T215248Z">
+        <seg>aaaaaaaaaaaaaaaaaaBase quindi apre il foglio di calcolo e include tutti i fogli di lavoro nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13440,8 +13440,8 @@
       <tuv lang="EN">
         <seg>Calc or Excel spreadsheets can also be used as the table source for databases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214830Z" creationid="osvaldo" creationdate="20180829T214830Z">
-        <seg>Come sorgente della tabella per i database possono anche essere utilizzati fogli di calcolo Calc o Excel .</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T070331Z" creationid="osvaldo" creationdate="20180829T214830Z">
+        <seg>Come tabella sorgente per i database possono anche essere utilizzati fogli elettronici di Calc o Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20385,8 +20385,8 @@
       <tuv lang="EN">
         <seg>If the Calc document is still open, it will be write protected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214935Z" creationid="osvaldo" creationdate="20180829T214935Z">
-        <seg>Se il documento Calc è ancora aperto, sarà protetto da scrittura.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T070654Z" creationid="osvaldo" creationdate="20180829T214935Z">
+        <seg>Se il documento di Calc è ancora aperto, sarà protetto da scrittura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21201,8 +21201,8 @@
       <tuv lang="EN">
         <seg>If, however, a Calc spreadsheet is used, no editing of the table data will be possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T214908Z" creationid="osvaldo" creationdate="20180829T214908Z">
-        <seg>Se, tuttavia, viene utilizzato un foglio elettronico di Calc, non sarà possibile modificare i dati della tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T070540Z" creationid="osvaldo" creationdate="20180829T214908Z">
+        <seg>Se viene utilizzato un foglio elettronico di Calc, non sarà tuttavia possibile modificare i dati della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26057,8 +26057,8 @@
       <tuv lang="EN">
         <seg>Old dBase files may exhibit small decoding errors where special characters have been used.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190508T091955Z" creationid="osvaldo" creationdate="20180829T214444Z">
-        <seg>aaaaaaaaaaaaaaaaI vecchi file dBase possono presentare piccoli errori di decodifica laddove sono stati utilizzati caratteri speciali.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T070031Z" creationid="osvaldo" creationdate="20180829T214444Z">
+        <seg>I vecchi file dBase potrebbero presentare piccoli errori di decodifica laddove sono stati utilizzati caratteri speciali.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
