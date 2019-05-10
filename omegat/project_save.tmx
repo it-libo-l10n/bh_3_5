@@ -12656,8 +12656,8 @@
       <tuv lang="EN">
         <seg>Base then opens the spreadsheet and includes all worksheets in the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190509T071053Z" creationid="osvaldo" creationdate="20180829T215248Z">
-        <seg>aaaaaaaaaaaaaaaaaaBase quindi apre il foglio di calcolo e include tutti i fogli di lavoro nel documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T074318Z" creationid="osvaldo" creationdate="20180829T215248Z">
+        <seg>Base apre quindi il foglio elettronico e include tutti i fogli di lavoro nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27705,8 +27705,8 @@
       <tuv lang="EN">
         <seg>Relationships between spreadsheets cannot be set up in Base, as Calc is not suitable for use as a relational database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215528Z" creationid="osvaldo" creationdate="20180829T215411Z">
-        <seg>Le relazioni tra i fogli di calcolo non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T074431Z" creationid="osvaldo" creationdate="20180829T215411Z">
+        <seg>aaaaLe relazioni tra i fogli di calcolo non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale.</seg>
       </tuv>
     </tu>
     <tu>
