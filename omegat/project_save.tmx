@@ -11440,8 +11440,8 @@
       <tuv lang="EN">
         <seg>All tables are shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215831Z" creationid="osvaldo" creationdate="20180829T215831Z">
-        <seg>Sono mostrate tutte le tabelle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T081600Z" creationid="osvaldo" creationdate="20180829T215831Z">
+        <seg>Vengono mostrate tutte le tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12064,8 +12064,8 @@
       <tuv lang="EN">
         <seg>As in Calc, the tables are not editable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215933Z" creationid="osvaldo" creationdate="20180829T215933Z">
-        <seg>Come in Calc, le tabelle non sono editabili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T081604Z" creationid="osvaldo" creationdate="20180829T215933Z">
+        <seg>aaaaaaaaaaaaaaaaaaCome in Calc, le tabelle non sono editabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27705,8 +27705,8 @@
       <tuv lang="EN">
         <seg>Relationships between spreadsheets cannot be set up in Base, as Calc is not suitable for use as a relational database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190510T074431Z" creationid="osvaldo" creationdate="20180829T215411Z">
-        <seg>aaaaLe relazioni tra i fogli di calcolo non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T080413Z" creationid="osvaldo" creationdate="20180829T215411Z">
+        <seg>Le relazioni tra fogli elettronici non possono essere impostate in Base, poiché Calc non è adatto per l'uso come database relazionale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32017,8 +32017,8 @@
       <tuv lang="EN">
         <seg>The Assistant will automatically seek a connection to an address book, for example as used in Thunderbird.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215606Z" creationid="osvaldo" creationdate="20180829T215606Z">
-        <seg>L'assistente cercherà automaticamente una connessione a una rubrica, ad esempio come utilizzata in Thunderbird.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T081411Z" creationid="osvaldo" creationdate="20180829T215606Z">
+        <seg>La procedura guidata cercherà automaticamente una connessione a una rubrica, ad esempio quella utilizzata in Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32601,8 +32601,8 @@
       <tuv lang="EN">
         <seg>The assistant will prompt for the location of the ODB file that will be produced.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T215636Z" creationid="osvaldo" creationdate="20180829T215636Z">
-        <seg>L'assistente richiederà la posizione del file ODB che verrà prodotto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T081524Z" creationid="osvaldo" creationdate="20180829T215636Z">
+        <seg>Verrà quindi richiesta la posizione del file ODB da generare.</seg>
       </tuv>
     </tu>
     <tu>
