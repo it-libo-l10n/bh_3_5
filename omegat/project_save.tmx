@@ -1560,8 +1560,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tables&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190513T090635Z" creationid="Marco Marega" creationdate="20180109T210555Z">
-        <seg>aaaa&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tabelle&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T091111Z" creationid="Marco Marega" creationdate="20180109T210555Z">
+        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tabelle&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15008,8 +15008,8 @@
       <tuv lang="EN">
         <seg>Databases store data in tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T210627Z" creationid="Marco Marega" creationdate="20180109T210627Z">
-        <seg>I Database memorizzano i dati in delle tabelle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T091142Z" creationid="Marco Marega" creationdate="20180109T210627Z">
+        <seg>aaaaaaaaaaaaaaaaaaaI Database memorizzano i dati in delle tabelle.</seg>
       </tuv>
     </tu>
     <tu>
