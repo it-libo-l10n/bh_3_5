@@ -1560,8 +1560,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tables&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180109T210555Z" creationid="Marco Marega" creationdate="20180109T210555Z">
-        <seg>&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tabelle&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T090635Z" creationid="Marco Marega" creationdate="20180109T210555Z">
+        <seg>aaaa&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;Tabelle&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12064,8 +12064,8 @@
       <tuv lang="EN">
         <seg>As in Calc, the tables are not editable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190510T081604Z" creationid="osvaldo" creationdate="20180829T215933Z">
-        <seg>aaaaaaaaaaaaaaaaaaCome in Calc, le tabelle non sono editabili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T090404Z" creationid="osvaldo" creationdate="20180829T215933Z">
+        <seg>Come in Calc, le tabelle non sono modificabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12664,8 +12664,8 @@
       <tuv lang="EN">
         <seg>Base uses the table data only for queries and mail merge applications.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20180829T220128Z" creationid="osvaldo" creationdate="20180829T220128Z">
-        <seg>Base utilizza i dati della tabella solo per le query e le applicazioni di stampa guidata in serie.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T090555Z" creationid="osvaldo" creationdate="20180829T220128Z">
+        <seg>Base utilizza i dati delle tabelle solo per le query e le applicazioni di stampa in serie.</seg>
       </tuv>
     </tu>
     <tu>
