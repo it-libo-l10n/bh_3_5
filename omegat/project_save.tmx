@@ -15216,8 +15216,8 @@
       <tuv lang="EN">
         <seg>Details of which data types are available can be obtained from the Table Design window in Base.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T070514Z" creationid="Marco Marega" creationdate="20180112T222331Z">
-        <seg>aaaaDettagli su quali tipi di dati sono disponibili in Base si possono ottenere dalla finestra Table Design.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T070837Z" creationid="Marco Marega" creationdate="20180112T222331Z">
+        <seg>Dettagli su quali tipi di dati sono disponibili in Base si possono ottenere dalla finestra Table Design.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37601,8 +37601,8 @@
       <tuv lang="EN">
         <seg>They are shown in the Appendix to this handbook.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222433Z" creationid="Marco Marega" creationdate="20180112T222433Z">
-        <seg>Gli stessi sono elencati nell'Appendice di questo manuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T070840Z" creationid="Marco Marega" creationdate="20180112T222433Z">
+        <seg>aaaaaaaaaaaaaaaaaaaGli stessi sono elencati nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
