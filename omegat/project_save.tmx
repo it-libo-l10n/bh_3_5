@@ -10400,8 +10400,8 @@
       <tuv lang="EN">
         <seg>A simple address book for private use can be created in this way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222712Z" creationid="Marco Marega" creationdate="20180112T222712Z">
-        <seg>In questo modo è possibile creare una semplice rubrica per un uso privato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070136Z" creationid="Marco Marega" creationdate="20180112T222712Z">
+        <seg>In questo modo è possibile creare una semplice rubrica per uso privato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,8 +11280,8 @@
       <tuv lang="EN">
         <seg>All data elements are entered independently, which can lead to multiple entry of the same data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222629Z" creationid="Marco Marega" creationdate="20180112T222629Z">
-        <seg>Tutti gli elementi dei dati vengono inseriti indipendentemente, il che può portare a inserimenti multipli degli stessi dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070033Z" creationid="Marco Marega" creationdate="20180112T222629Z">
+        <seg>Tutti gli elementi dei dati vengono inseriti indipendentemente, cosa che può portare a inserimenti multipli degli stessi dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19321,8 +19321,8 @@
       <tuv lang="EN">
         <seg>However, the address book of a school or a sports association could contain so much repetition of postcodes and locations that these fields are better placed in one or even two separate tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223011Z" creationid="Marco Marega" creationdate="20180112T223011Z">
-        <seg>Però, la rubrica di una scuola o di un'associazione sportiva potrebbe contenere così tante ripetizioni dei codici di avviamento postali e delle località, che sarebbe meglio inserire questi campi in una o anche due tabelle separate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070527Z" creationid="Marco Marega" creationdate="20180112T223011Z">
+        <seg>Comunque la rubrica di una scuola o di un'associazione sportiva potrebbe contenere così tante ripetizioni dei codici di avviamento postale e delle località, che sarebbe meglio posizionare questi campi in una o anche due tabelle separate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21281,8 +21281,8 @@
       <tuv lang="EN">
         <seg>Improve filtering of data in the displayed tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223249Z" creationid="Marco Marega" creationdate="20180112T223249Z">
-        <seg>Migliorare l'applicazione di filtri sui dati delle tabelle visualizzate</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070948Z" creationid="Marco Marega" creationdate="20180112T223249Z">
+        <seg>Migliorare l'applicazione di filtri sui dati nelle tabelle visualizzate</seg>
       </tuv>
     </tu>
     <tu>
@@ -30041,8 +30041,8 @@
       <tuv lang="EN">
         <seg>Simple databases are based on only one table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T222500Z" creationid="Marco Marega" creationdate="20180112T222500Z">
-        <seg>I database più semplici si basano su di una sola tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T065806Z" creationid="Marco Marega" creationdate="20180112T222500Z">
+        <seg>I database più semplici si basano su una sola tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30665,8 +30665,8 @@
       <tuv lang="EN">
         <seg>Storing data in separate tables helps:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223039Z" creationid="Marco Marega" creationdate="20180112T223039Z">
-        <seg>Memorizzare i dati in tabelle separate aiuta a:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070631Z" creationid="Marco Marega" creationdate="20180112T223039Z">
+        <seg>La memorizzazione dei dati in tabelle separate consente di:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37601,8 +37601,8 @@
       <tuv lang="EN">
         <seg>They are shown in the Appendix to this handbook.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T070840Z" creationid="Marco Marega" creationdate="20180112T222433Z">
-        <seg>aaaaaaaaaaaaaaaaaaaGli stessi sono elencati nell'Appendice di questo manuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T065730Z" creationid="Marco Marega" creationdate="20180112T222433Z">
+        <seg>Sono anche elencati nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41681,8 +41681,8 @@
       <tuv lang="EN">
         <seg>When creating a table, you should always consider whether multiple repetitions, especially of text or images (which consume a lot of storage) may occur in the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223446Z" creationid="Marco Marega" creationdate="20180112T223446Z">
-        <seg>Quando create una tabella, dovete sempre considerare se in essa potrebbero verificarsi delle ripetizioni multiple, in particolare di testo o immagini (le quali occupano molta memoria).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070951Z" creationid="Marco Marega" creationdate="20180112T223446Z">
+        <seg>aaaaaaaaaaaaaaaaaaQuando create una tabella, dovete sempre considerare se in essa potrebbero verificarsi delle ripetizioni multiple, in particolare di testo o immagini (le quali occupano molta memoria).</seg>
       </tuv>
     </tu>
     <tu>
