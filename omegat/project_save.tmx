@@ -14144,8 +14144,8 @@
       <tuv lang="EN">
         <seg>Constructing the tables for this database is an extensive job, as it covers not only the addition of items into a media library but also the subsequent loan of them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224440Z" creationid="Marco Marega" creationdate="20180112T224440Z">
-        <seg>La costruzione delle tabelle per questo database è un lavoro esteso, in quanto comprende non solo l'aggiunta degli articoli in una libreria dei supporti, ma anche il loro successivo prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T090129Z" creationid="Marco Marega" creationdate="20180112T224440Z">
+        <seg>La costruzione delle tabelle per questo database è un lavoro esteso, in quanto comprende non solo l'aggiunta degli articoli in una libreria multimediale, ma anche il loro successivo prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35017,8 +35017,8 @@
       <tuv lang="EN">
         <seg>The more relationships there are between tables, the more complex is the design task.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224622Z" creationid="Marco Marega" creationdate="20180112T224622Z">
-        <seg>Più relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T090203Z" creationid="Marco Marega" creationdate="20180112T224622Z">
+        <seg>aaaaaaaaaaaaaaaaaaPiù relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
       </tuv>
     </tu>
     <tu>
