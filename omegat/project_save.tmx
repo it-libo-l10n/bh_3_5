@@ -18985,8 +18985,8 @@
       <tuv lang="EN">
         <seg>How to do this in principle is described in Chapter 8,&lt;f0&gt; Getting Started with Base,&lt;/f0&gt; in the &lt;f1&gt;Getting Starte&lt;/f1&gt;&lt;f2&gt;d with LibreOffice&lt;/f2&gt; book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223836Z" creationid="Marco Marega" creationdate="20180112T223836Z">
-        <seg>Le linee di principio su come farlo sono descritte nel Capitolo 8,&lt;f0&gt; Introduzione a Base,&lt;/f0&gt; della &lt;f1&gt;Guida introduttiva&lt;/f1&gt;&lt;f2&gt; a LibreOffice&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T075004Z" creationid="Marco Marega" creationdate="20180112T223836Z">
+        <seg>aaaaLe linee di principio su come farlo sono descritte nel Capitolo 8,&lt;f0&gt; Introduzione a Base,&lt;/f0&gt; della &lt;f1&gt;Guida introduttiva&lt;/f1&gt;&lt;f2&gt; a LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20329,8 +20329,8 @@
       <tuv lang="EN">
         <seg>If so, you need to export them into another table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T223551Z" creationid="Marco Marega" creationdate="20180112T223551Z">
-        <seg>Se così è, avrete bisogno di esportarle in un'altra tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T075001Z" creationid="Marco Marega" creationdate="20180112T223551Z">
+        <seg>In tal caso, dovrete esportarle in un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41681,8 +41681,8 @@
       <tuv lang="EN">
         <seg>When creating a table, you should always consider whether multiple repetitions, especially of text or images (which consume a lot of storage) may occur in the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T070951Z" creationid="Marco Marega" creationdate="20180112T223446Z">
-        <seg>aaaaaaaaaaaaaaaaaaQuando create una tabella, dovete sempre considerare se in essa potrebbero verificarsi delle ripetizioni multiple, in particolare di testo o immagini (le quali occupano molta memoria).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T074509Z" creationid="Marco Marega" creationdate="20180112T223446Z">
+        <seg>Quando create una tabella, dovreste sempre considerare se nella stessa potrebbero verificarsi delle ripetizioni multiple, in particolare di testo o immagini (che occupano molta memoria).</seg>
       </tuv>
     </tu>
     <tu>
