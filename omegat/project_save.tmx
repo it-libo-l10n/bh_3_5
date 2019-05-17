@@ -12728,8 +12728,8 @@
       <tuv lang="EN">
         <seg>Because titles can have multiple subtitles or sometimes none at all, the subtitles are stored in a separate table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214801Z" creationid="Marco Marega" creationdate="20180126T214801Z">
-        <seg>Dato che i titoli possono avere più sottotitoli oppure, alle volte, nessuno, i sottotitoli sono memorizzati in una tabella separata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190517T101358Z" creationid="Marco Marega" creationdate="20180126T214801Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaDato che i titoli possono avere più sottotitoli oppure, alle volte, nessuno, i sottotitoli sono memorizzati in una tabella separata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16305,8 +16305,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Relationship diagram for the example database media_without_macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T225008Z" creationid="Marco Marega" creationdate="20180112T225008Z">
-        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Diagramma delle relazioni per il database di esempio media_without_macros</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190517T101226Z" creationid="Marco Marega" creationdate="20180112T225008Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: diagramma delle relazioni per il database di esempio Media_senza_Macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -16593,8 +16593,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt; shows the overall table structure of this example database as an overview, scaled to fit the page size of this document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224918Z" creationid="Marco Marega" creationdate="20180112T224918Z">
-        <seg>Figura &lt;t0&gt;2&lt;/t0&gt; visualizza una panoramica della struttura complessiva delle tabelle di questo database di esempio, ridotta in modo da adattarsi alle dimensioni della pagina di questo documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190517T101005Z" creationid="Marco Marega" creationdate="20180112T224918Z">
+        <seg>La &lt;t0&gt;Figura 2&lt;/t0&gt; mostra una panoramica della struttura complessiva delle tabelle di questo database di esempio, ridotta in modo da adattarsi alle dimensioni della pagina di questo documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35001,8 +35001,8 @@
       <tuv lang="EN">
         <seg>The media_without_macros database lists the titles of the media in one table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214642Z" creationid="Marco Marega" creationdate="20180126T214642Z">
-        <seg>Il database media_without_macros elenca i titoli dei supporti in una tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190517T101353Z" creationid="Marco Marega" creationdate="20180126T214642Z">
+        <seg>Il database Media_senza_Macro elenca i titoli dei supporti in una tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35017,8 +35017,8 @@
       <tuv lang="EN">
         <seg>The more relationships there are between tables, the more complex is the design task.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190516T090203Z" creationid="Marco Marega" creationdate="20180112T224622Z">
-        <seg>aaaaaaaaaaaaaaaaaaPiù relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190517T100654Z" creationid="Marco Marega" creationdate="20180112T224622Z">
+        <seg>Più relazioni ci sono tra le tabelle, più complesso diventa il lavoro di progettazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40385,8 +40385,8 @@
       <tuv lang="EN">
         <seg>To read the content, zoom the page to 200%.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180112T224936Z" creationid="Marco Marega" creationdate="20180112T224936Z">
-        <seg>Per leggere il contenuto, ingrandite la pagina al 200%.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190517T101110Z" creationid="Marco Marega" creationdate="20180112T224936Z">
+        <seg>Per leggerne il contenuto, ingrandite la pagina al 200%.</seg>
       </tuv>
     </tu>
     <tu>
