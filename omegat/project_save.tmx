@@ -10072,8 +10072,8 @@
       <tuv lang="EN">
         <seg>A database for a library might contain a table for authors’ names and a table for the media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215408Z" creationid="Marco Marega" creationdate="20180126T215408Z">
-        <seg>Un database per una biblioteca può contenere una tabella per i nomi degli autori e una tabella per i supporti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T081919Z" creationid="Marco Marega" creationdate="20180126T215408Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaUn database per una biblioteca può contenere una tabella per i nomi degli autori e una tabella per i supporti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12728,8 +12728,8 @@
       <tuv lang="EN">
         <seg>Because titles can have multiple subtitles or sometimes none at all, the subtitles are stored in a separate table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190517T101358Z" creationid="Marco Marega" creationdate="20180126T214801Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaDato che i titoli possono avere più sottotitoli oppure, alle volte, nessuno, i sottotitoli sono memorizzati in una tabella separata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T080635Z" creationid="Marco Marega" creationdate="20180126T214801Z">
+        <seg>Dato che i titoli possono avere più sottotitoli oppure, a volte, nessuno, i sottotitoli sono memorizzati in una tabella separata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16377,8 +16377,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Example 1:n relationship; n:m relationship</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215227Z" creationid="Marco Marega" creationdate="20180126T215227Z">
-        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Esempio di relazione 1:n; relazione n:m</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T081904Z" creationid="Marco Marega" creationdate="20180126T215227Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: esempio di relazione 1:n; relazione n:m</seg>
       </tuv>
     </tu>
     <tu>
@@ -24913,8 +24913,8 @@
       <tuv lang="EN">
         <seg>Many subtitles may be assigned to one medium, for example the many track titles for a music CD.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214953Z" creationid="Marco Marega" creationdate="20180126T214953Z">
-        <seg>Molti sottotitoli possono essere assegnati a un supporto, ad esempio le molte tracce di un CD musicale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T081058Z" creationid="Marco Marega" creationdate="20180126T214953Z">
+        <seg>È possibile assegnare più sottotitoli a un supporto, ad esempio i titoli delle diverse tracce di un CD musicale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35473,8 +35473,8 @@
       <tuv lang="EN">
         <seg>The primary key for the &lt;f0&gt;Media&lt;/f0&gt; table is stored as a foreign key in the &lt;f1&gt;Subtitle&lt;/f1&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215058Z" creationid="Marco Marega" creationdate="20180126T215058Z">
-        <seg>La chiave primaria della tabella &lt;f0&gt;Media&lt;/f0&gt; nella tabella &lt;f1&gt;Subtitle&lt;/f1&gt; viene memorizzata come chiave esterna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T081454Z" creationid="Marco Marega" creationdate="20180126T215058Z">
+        <seg>La chiave primaria della tabella &lt;f0&gt;Media&lt;/f0&gt; viene memorizzata come chiave esterna nella tabella &lt;f1&gt;Subtitle&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39585,8 +39585,8 @@
       <tuv lang="EN">
         <seg>This relationship is known as one-to-many (1:n).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T214843Z" creationid="Marco Marega" creationdate="20180126T214843Z">
-        <seg>Questa relazione è conosciuta come uno a molti (1:n).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T080744Z" creationid="Marco Marega" creationdate="20180126T214843Z">
+        <seg>Questa relazione è detta uno a molti (1:n).</seg>
       </tuv>
     </tu>
     <tu>
