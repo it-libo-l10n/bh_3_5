@@ -10072,8 +10072,8 @@
       <tuv lang="EN">
         <seg>A database for a library might contain a table for authors’ names and a table for the media.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190520T081919Z" creationid="Marco Marega" creationdate="20180126T215408Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaUn database per una biblioteca può contenere una tabella per i nomi degli autori e una tabella per i supporti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T082134Z" creationid="Marco Marega" creationdate="20180126T215408Z">
+        <seg>Un database per una biblioteca potrebbe contenere una tabella per i nomi degli autori e una tabella per i supporti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32945,8 +32945,8 @@
       <tuv lang="EN">
         <seg>The connection between an author and, for example, books that author has written, is obvious.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T215453Z" creationid="Marco Marega" creationdate="20180126T215453Z">
-        <seg>Il collegamento tra un autore e, ad esempio, i libri che quell'autore ha scritto è ovvio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T082139Z" creationid="Marco Marega" creationdate="20180126T215453Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaIl collegamento tra un autore e, ad esempio, i libri che quell'autore ha scritto è ovvio.</seg>
       </tuv>
     </tu>
     <tu>
