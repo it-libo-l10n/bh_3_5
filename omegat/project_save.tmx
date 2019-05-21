@@ -23929,8 +23929,8 @@
       <tuv lang="EN">
         <seg>It might also contain books with multiple authors.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190521T071314Z" creationid="Marco Marega" creationdate="20180126T215630Z">
-        <seg>aaaaPotrebbe anche contenere libri con molteplici autori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T072552Z" creationid="Marco Marega" creationdate="20180126T215630Z">
+        <seg>Potrebbe anche contenere libri con più autori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38913,8 +38913,8 @@
       <tuv lang="EN">
         <seg>This is represented in Figure &lt;t0&gt;3&lt;/t0&gt; by the &lt;f1&gt;rel_Media_Author&lt;/f1&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220007Z" creationid="Marco Marega" creationdate="20180126T220007Z">
-        <seg>Nella Figura &lt;t0&gt;3&lt;/t0&gt; questa è rappresentata dalla tabella &lt;f1&gt;rel_Media_Author&lt;/f1&gt; table.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T072910Z" creationid="Marco Marega" creationdate="20180126T220007Z">
+        <seg>Nella &lt;t0&gt;Figura 3&lt;/t0&gt; questa è rappresentata dalla tabella &lt;f1&gt;rel_Media_Author&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40009,8 +40009,8 @@
       <tuv lang="EN">
         <seg>Thus, in practice, the n:m relationship is solved by treating it as two 1:n relationships.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220109Z" creationid="Marco Marega" creationdate="20180126T220109Z">
-        <seg>Perciò, in pratica, la relazione n:m viene risolta trattandola come due relazioni 1:n.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T072919Z" creationid="Marco Marega" creationdate="20180126T220109Z">
+        <seg>aaaaaaaaaaaaaaaaPerciò, in pratica, la relazione n:m viene risolta trattandola come due relazioni 1:n.</seg>
       </tuv>
     </tu>
     <tu>
