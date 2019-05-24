@@ -16857,8 +16857,8 @@
       <tuv lang="EN">
         <seg>For a given value for Media_ID, there is only one title of the media and one ISBN.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220810Z" creationid="Marco Marega" creationdate="20180126T220810Z">
-        <seg>Per un determinato valore di Media_ID, esiste un solo titolo del supporto e un codice ISBN.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T083253Z" creationid="Marco Marega" creationdate="20180126T220810Z">
+        <seg>Per un determinato valore di Media_ID, esiste un solo titolo del supporto e un solo codice ISBN.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30281,8 +30281,8 @@
       <tuv lang="EN">
         <seg>So this pair meets the requirements for the primary key for the intermediate table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190524T075234Z" creationid="Marco Marega" creationdate="20180126T220714Z">
-        <seg>aaaaPerciò questa coppia rispetta i requisiti per essere la chiave primaria della tabella intermedia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T082916Z" creationid="Marco Marega" creationdate="20180126T220714Z">
+        <seg>Perciò questa coppia rispetta i requisiti per essere la chiave primaria della tabella intermedia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39217,8 +39217,8 @@
       <tuv lang="EN">
         <seg>This makes the pair unique.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221113Z" creationid="Marco Marega" creationdate="20180126T221113Z">
-        <seg>Questo rende la coppia univoca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T084259Z" creationid="Marco Marega" creationdate="20180126T221113Z">
+        <seg>aaaaaaaaaaaaaaaaaaQuesto rende la coppia univoca.</seg>
       </tuv>
     </tu>
     <tu>
