@@ -22561,8 +22561,8 @@
       <tuv lang="EN">
         <seg>In the intermediate table, the &lt;f0&gt;Media_ID&lt;/f0&gt; can occur more than once, as can the &lt;f1&gt;Author_ID&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T220237Z" creationid="Marco Marega" creationdate="20180126T220237Z">
-        <seg>Nella tabella intermedia, i valori nel campo &lt;f0&gt;Media_ID&lt;/f0&gt; possono ricorrere più di una volta, così come quelli nel campo &lt;f1&gt;Author_ID&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T073008Z" creationid="Marco Marega" creationdate="20180126T220237Z">
+        <seg>aaaaNella tabella intermedia, i valori nel campo &lt;f0&gt;Media_ID&lt;/f0&gt; possono ricorrere più di una volta, così come quelli nel campo &lt;f1&gt;Author_ID&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40009,8 +40009,8 @@
       <tuv lang="EN">
         <seg>Thus, in practice, the n:m relationship is solved by treating it as two 1:n relationships.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190521T072919Z" creationid="Marco Marega" creationdate="20180126T220109Z">
-        <seg>aaaaaaaaaaaaaaaaPerciò, in pratica, la relazione n:m viene risolta trattandola come due relazioni 1:n.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T073006Z" creationid="Marco Marega" creationdate="20180126T220109Z">
+        <seg>Perciò, in pratica, la relazione n:m viene risolta trattandola come due relazioni 1:n.</seg>
       </tuv>
     </tu>
     <tu>
