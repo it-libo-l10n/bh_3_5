@@ -16457,8 +16457,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example 1:1 relationship</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180126T221151Z" creationid="Marco Marega" creationdate="20180126T221151Z">
-        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Esempio di relazione 1:1</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190525T170418Z" creationid="Marco Marega" creationdate="20180126T221151Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: esempio di relazione 1:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -39217,8 +39217,8 @@
       <tuv lang="EN">
         <seg>This makes the pair unique.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190524T084259Z" creationid="Marco Marega" creationdate="20180126T221113Z">
-        <seg>aaaaaaaaaaaaaaaaaaQuesto rende la coppia univoca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190525T170321Z" creationid="Marco Marega" creationdate="20180126T221113Z">
+        <seg>Ciò rende la coppia univoca.</seg>
       </tuv>
     </tu>
     <tu>
