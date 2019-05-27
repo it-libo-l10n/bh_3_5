@@ -17009,8 +17009,8 @@
       <tuv lang="EN">
         <seg>For each reader there is a single address.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151447Z" creationid="Marco Marega" creationdate="20180127T151447Z">
-        <seg>Per ogni utente c'è un singolo indirizzo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T092444Z" creationid="Marco Marega" creationdate="20180127T151447Z">
+        <seg>Per ogni utente vi è un singolo indirizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17897,8 +17897,8 @@
       <tuv lang="EN">
         <seg>From this arises a 1:1 relationship between the reader and the individual school class assignment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151336Z" creationid="Marco Marega" creationdate="20180127T151336Z">
-        <seg>Da questo deriva una relazione 1:1 tra l'utente e l'assegnazione dei singoli individui nella classe.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T092231Z" creationid="Marco Marega" creationdate="20180127T151336Z">
+        <seg>Da ciò deriva una relazione 1:1 tra l'utente e l'assegnazione individuale alla classe scolastica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20769,8 +20769,8 @@
       <tuv lang="EN">
         <seg>If there are multiple readers at the same address, this structure would require the address to be entered again, since the primary key of the &lt;f0&gt;Reader&lt;/f0&gt; table is entered directly as the primary key in the &lt;f1&gt;Address&lt;/f1&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151628Z" creationid="Marco Marega" creationdate="20180127T151509Z">
-        <seg>Se ci sono più utenti con lo stesso indirizzo, questa struttura richiede che l'indirizzo venga inserito di nuovo, in quanto la chiave primaria della tabella &lt;f0&gt;Reader&lt;/f0&gt; viene inserita direttamente come chiave primaria nella tabella &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T092447Z" creationid="Marco Marega" creationdate="20180127T151509Z">
+        <seg>aaaaSe ci sono più utenti con lo stesso indirizzo, questa struttura richiede che l'indirizzo venga inserito di nuovo, in quanto la chiave primaria della tabella &lt;f0&gt;Reader&lt;/f0&gt; viene inserita direttamente come chiave primaria nella tabella &lt;f1&gt;Address&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21361,8 +21361,8 @@
       <tuv lang="EN">
         <seg>In a database for a public library, the addresses of readers are required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151408Z" creationid="Marco Marega" creationdate="20180127T151408Z">
-        <seg>Nel database per una biblioteca pubblica, gli indirizzi degli utenti sono necessari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T092353Z" creationid="Marco Marega" creationdate="20180127T151408Z">
+        <seg>In un database per una biblioteca pubblica gli indirizzi degli utenti sono necessari.</seg>
       </tuv>
     </tu>
     <tu>
