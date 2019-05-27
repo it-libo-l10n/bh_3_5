@@ -35977,8 +35977,8 @@
       <tuv lang="EN">
         <seg>The school class relationship of pupils is separated from the reader table, because mapping to classes is not appropriate in all areas.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151042Z" creationid="Marco Marega" creationdate="20180127T151042Z">
-        <seg>La relazione tra la classe e gli alunni è separata dalla tabella degli utenti, dato che mappare le classi non è appropriato in tutti i contesti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T090758Z" creationid="Marco Marega" creationdate="20180127T151042Z">
+        <seg>La relazione tra la classe e gli alunni è separata dalla tabella degli utenti, dato che mappare le classi non è appropriato in tutti i settori.</seg>
       </tuv>
     </tu>
     <tu>
