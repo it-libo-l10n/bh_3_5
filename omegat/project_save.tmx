@@ -9960,8 +9960,8 @@
       <tuv lang="EN">
         <seg>A 1:1 relationship does not signify that for every record in a table, there will be a corresponding record in another table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151853Z" creationid="Marco Marega" creationdate="20180127T151853Z">
-        <seg>Una relazione 1:1 non significa che per ogni record in una tabella ci sarà un record corrispondente in un'altra tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T095408Z" creationid="Marco Marega" creationdate="20180127T151853Z">
+        <seg>aaaaaaaaaaaaaaaaaaUna relazione 1:1 non significa che per ogni record in una tabella ci sarà un record corrispondente in un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27073,8 +27073,8 @@
       <tuv lang="EN">
         <seg>Primary key and foreign key are one and the same in the &lt;f2&gt;Address&lt;/f2&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151739Z" creationid="Marco Marega" creationdate="20180127T151512Z">
-        <seg>Nella tabella &lt;f2&gt;Address&lt;/f2&gt; la chiave primaria e a chiave esterna sono una sola.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T095332Z" creationid="Marco Marega" creationdate="20180127T151512Z">
+        <seg>Nella tabella &lt;f2&gt;Address&lt;/f2&gt; la chiave primaria e la chiave esterna corrispondono.</seg>
       </tuv>
     </tu>
     <tu>
