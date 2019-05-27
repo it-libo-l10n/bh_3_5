@@ -20769,8 +20769,8 @@
       <tuv lang="EN">
         <seg>If there are multiple readers at the same address, this structure would require the address to be entered again, since the primary key of the &lt;f0&gt;Reader&lt;/f0&gt; table is entered directly as the primary key in the &lt;f1&gt;Address&lt;/f1&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190527T092447Z" creationid="Marco Marega" creationdate="20180127T151509Z">
-        <seg>aaaaSe ci sono più utenti con lo stesso indirizzo, questa struttura richiede che l'indirizzo venga inserito di nuovo, in quanto la chiave primaria della tabella &lt;f0&gt;Reader&lt;/f0&gt; viene inserita direttamente come chiave primaria nella tabella &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T094742Z" creationid="Marco Marega" creationdate="20180127T151509Z">
+        <seg>Se sono presenti più utenti con lo stesso indirizzo, questa struttura richiede che l'indirizzo venga nuovamente inserito, in quanto la chiave primaria della tabella &lt;f0&gt;Reader&lt;/f0&gt; viene inserita direttamente come chiave primaria nella tabella &lt;f1&gt;Address&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
