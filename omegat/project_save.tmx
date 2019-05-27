@@ -12912,8 +12912,8 @@
       <tuv lang="EN">
         <seg>But for a school database, the school class is also required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150813Z" creationid="Marco Marega" creationdate="20180127T150534Z">
-        <seg>Ma per il database di una scuola, è richiesta anche la classe.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T083717Z" creationid="Marco Marega" creationdate="20180127T150534Z">
+        <seg>Ma, ad esempio, per il database di una scuola è richiesta anche la classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17865,8 +17865,8 @@
       <tuv lang="EN">
         <seg>From the school class records, you can find borrowers’ addresses where necessary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T150757Z" creationid="Marco Marega" creationdate="20180127T150757Z">
-        <seg>Dai record della classe, se necessario potete trovare gli indirizzi di coloro che hanno preso dei supporti in prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T083719Z" creationid="Marco Marega" creationdate="20180127T150757Z">
+        <seg>aaaaDai record della classe, se necessario potete trovare gli indirizzi di coloro che hanno preso dei supporti in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22953,8 +22953,8 @@
       <tuv lang="EN">
         <seg>In this table only the fields that are directly necessary were planned in advance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190525T170618Z" creationid="Marco Marega" creationdate="20180127T150309Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaIn questa tabella solamente i campi che sono strettamente necessari sono stati pianificati in anticipo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T083559Z" creationid="Marco Marega" creationdate="20180127T150309Z">
+        <seg>In questa tabella solamente i campi strettamente necessari sono stati pianificati in anticipo.</seg>
       </tuv>
     </tu>
     <tu>
