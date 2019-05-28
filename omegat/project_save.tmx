@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8424,8 +8424,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tables and relationships for the&lt;/f0&gt;&lt;f1&gt; example database&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152238Z" creationid="Marco Marega" creationdate="20180127T152238Z">
-        <seg>&lt;f0&gt;Tabelle e relazioni del &lt;/f0&gt;&lt;f1&gt;database di esempio&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T070313Z" creationid="Marco Marega" creationdate="20180127T152238Z">
+        <seg>&lt;f0&gt;Tabelle e relazioni del&lt;/f0&gt;&lt;f1&gt; database di esempio&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9960,8 +9960,8 @@
       <tuv lang="EN">
         <seg>A 1:1 relationship does not signify that for every record in a table, there will be a corresponding record in another table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190527T095408Z" creationid="Marco Marega" creationdate="20180127T151853Z">
-        <seg>aaaaaaaaaaaaaaaaaaUna relazione 1:1 non significa che per ogni record in una tabella ci sarà un record corrispondente in un'altra tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T065620Z" creationid="Marco Marega" creationdate="20180127T151853Z">
+        <seg>Una relazione 1:1 non significa che per ogni record in una tabella vi sarà un record corrispondente in un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12864,8 +12864,8 @@
       <tuv lang="EN">
         <seg>But &lt;f0&gt;at most&lt;/f0&gt;&lt;f1&gt; there will be only one corresponding record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T151948Z" creationid="Marco Marega" creationdate="20180127T151948Z">
-        <seg>Bensì che, &lt;f0&gt;al massimo&lt;/f0&gt;&lt;f1&gt;, ci sarà solamente un record corrispondente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T065813Z" creationid="Marco Marega" creationdate="20180127T151948Z">
+        <seg>Bensì che, &lt;f0&gt;al massimo&lt;/f0&gt;&lt;f1&gt;, vi sarà un solo record corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16753,8 +16753,8 @@
       <tuv lang="EN">
         <seg>First, media must be added into the database so that a library can work with them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152653Z" creationid="Marco Marega" creationdate="20180127T152653Z">
-        <seg>Per prima cosa i supporti devono essere inseriti nel database cosicché la biblioteca possa utilizzarli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T070910Z" creationid="Marco Marega" creationdate="20180127T152653Z">
+        <seg>Per prima cosa è necessario inserire i supporti nel database, in modo che la biblioteca possa utilizzarli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19249,8 +19249,8 @@
       <tuv lang="EN">
         <seg>However, for a simple summary of a media collection at home, you could create easier databases with the wizard; that might be sufficient for home use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153009Z" creationid="Marco Marega" creationdate="20180127T153009Z">
-        <seg>Comunque, per un semplice elenco di una collezione casalinga, potete creare facilmente dei database con la proceduta guidata; questi dovrebbero essere sufficienti per un uso domestico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T070914Z" creationid="Marco Marega" creationdate="20180127T153009Z">
+        <seg>aaaaaaaaaaaaaaaaComunque, per un semplice elenco di una collezione casalinga, potete creare facilmente dei database con la proceduta guidata; questi dovrebbero essere sufficienti per un uso domestico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24993,8 +24993,8 @@
       <tuv lang="EN">
         <seg>Media addition table</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152525Z" creationid="Marco Marega" creationdate="20180127T152525Z">
-        <seg>Tabella di aggiunta dei supporti (Media)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T070651Z" creationid="Marco Marega" creationdate="20180127T152525Z">
+        <seg>Tabella di aggiunta dei supporti</seg>
       </tuv>
     </tu>
     <tu>
@@ -33505,8 +33505,8 @@
       <tuv lang="EN">
         <seg>The example database (media_without_macros) must satisfy three requirements: media additions and removals, loans, and user administration.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T152410Z" creationid="Marco Marega" creationdate="20180127T152410Z">
-        <seg>Il database di esempio (media_without_macros) deve soddisfare tre requisiti: l'aggiunta e l'eliminazione dei supporti, i prestiti e l'amministrazione degli utenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T070440Z" creationid="Marco Marega" creationdate="20180127T152410Z">
+        <seg>Il database di esempio (Media_senza_Macro) deve soddisfare tre requisiti: l'aggiunta e l'eliminazione dei supporti, i prestiti e l'amministrazione degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
