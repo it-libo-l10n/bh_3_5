@@ -11984,8 +11984,8 @@
       <tuv lang="EN">
         <seg>As a CD can contain several pieces of music, a record of the individual pieces in the main table would require a lot of additional fields (Subtitle 1, Subtitle 2, etc.) or the same item would have to be entered many times.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153933Z" creationid="Marco Marega" creationdate="20180127T153933Z">
-        <seg>Siccome un CD può contenere numerosi brani musicali, un record per le singole tracce all'interno della tabella principale richiederebbe molti campi aggiuntivi (Subtitle 1, Subtitle 2, ecc.) oppure lo stesso articolo dovrebbe essere inserito molte volte.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T083716Z" creationid="Marco Marega" creationdate="20180127T153933Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaSiccome un CD può contenere numerosi brani musicali, un record per le singole tracce all'interno della tabella principale richiederebbe molti campi aggiuntivi (Subtitle 1, Subtitle 2, ecc.) oppure lo stesso articolo dovrebbe essere inserito molte volte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17561,8 +17561,8 @@
       <tuv lang="EN">
         <seg>For this reason, planned fields in the table include the title, the ISBN, an image of the cover, and the year of publication.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190529T082144Z" creationid="Marco Marega" creationdate="20180127T153417Z">
-        <seg>aaaaPer questo motivo i campi previsti nella tabella comprendono: il titolo, il codice ISBN, un'immagine della copertina e l'anno di pubblicazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T083014Z" creationid="Marco Marega" creationdate="20180127T153417Z">
+        <seg>Per questo motivo i campi previsti nella tabella comprendono: il titolo, il codice ISBN, un'immagine della copertina e l'anno di pubblicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30401,8 +30401,8 @@
       <tuv lang="EN">
         <seg>So, for instance, librarians might want to include fields for the size (number of pages), the series title, and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153607Z" creationid="Marco Marega" creationdate="20180127T153607Z">
-        <seg>Ad esempio, i gestori della biblioteca potrebbero voler inserire dei campi per la lunghezza (numero di pagine), il titolo della serie e così via.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T083616Z" creationid="Marco Marega" creationdate="20180127T153607Z">
+        <seg>Ad esempio, i bibliotecari potrebbero voler inserire dei campi per la lunghezza di un libro (numero di pagine), il titolo di una serie e così via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34769,8 +34769,8 @@
       <tuv lang="EN">
         <seg>The list of fields can be extended if required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153447Z" creationid="Marco Marega" creationdate="20180127T153447Z">
-        <seg>Se necessario la lista dei campi può essere estesa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T083135Z" creationid="Marco Marega" creationdate="20180127T153447Z">
+        <seg>Se necessario l'elenco dei campi può essere esteso.</seg>
       </tuv>
     </tu>
     <tu>
