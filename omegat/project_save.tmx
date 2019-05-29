@@ -19249,8 +19249,8 @@
       <tuv lang="EN">
         <seg>However, for a simple summary of a media collection at home, you could create easier databases with the wizard; that might be sufficient for home use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T070914Z" creationid="Marco Marega" creationdate="20180127T153009Z">
-        <seg>aaaaaaaaaaaaaaaaComunque, per un semplice elenco di una collezione casalinga, potete creare facilmente dei database con la proceduta guidata; questi dovrebbero essere sufficienti per un uso domestico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T072648Z" creationid="Marco Marega" creationdate="20180127T153009Z">
+        <seg>Comunque, per un semplice elenco di una collezione casalinga, potete creare facilmente dei database con la proceduta guidata; questi dovrebbero essere sufficienti per un uso domestico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22945,8 +22945,8 @@
       <tuv lang="EN">
         <seg>In this table all fields that are directly entered are assumed not to be also in use for other media with the same content.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153243Z" creationid="Marco Marega" creationdate="20180127T153243Z">
-        <seg>In questa tabella tutti i campi vengono inseriti direttamente e si presume che non vengano usati per altri supporti con lo stesso contenuto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T073120Z" creationid="Marco Marega" creationdate="20180127T153243Z">
+        <seg>aaaaIn questa tabella tutti i campi vengono inseriti direttamente e si presume che non vengano usati per altri supporti con lo stesso contenuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32737,8 +32737,8 @@
       <tuv lang="EN">
         <seg>The central table for &lt;t0&gt;Media addition&lt;/t0&gt; is the &lt;f1&gt;Media&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;table (see Figure &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;5&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153113Z" creationid="Marco Marega" creationdate="20180127T153113Z">
-        <seg>La tabella centrale per l'&lt;t0&gt;inserimento dei supporti&lt;/t0&gt; è la tabella &lt;f1&gt;Media&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; (vedete la Figura &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;5&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T073037Z" creationid="Marco Marega" creationdate="20180127T153113Z">
+        <seg>La tabella centrale per l'&lt;t0&gt;inserimento dei supporti&lt;/t0&gt; è la tabella &lt;f1&gt;Media&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; (vedete la &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;Figura 5&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
