@@ -17561,8 +17561,8 @@
       <tuv lang="EN">
         <seg>For this reason, planned fields in the table include the title, the ISBN, an image of the cover, and the year of publication.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T153417Z" creationid="Marco Marega" creationdate="20180127T153417Z">
-        <seg>Per questo motivo i campi previsti nella tabella comprendono: il titolo, il codice ISBN, un'immagine della copertina e l'anno di pubblicazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T082144Z" creationid="Marco Marega" creationdate="20180127T153417Z">
+        <seg>aaaaPer questo motivo i campi previsti nella tabella comprendono: il titolo, il codice ISBN, un'immagine della copertina e l'anno di pubblicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22945,8 +22945,8 @@
       <tuv lang="EN">
         <seg>In this table all fields that are directly entered are assumed not to be also in use for other media with the same content.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190529T073120Z" creationid="Marco Marega" creationdate="20180127T153243Z">
-        <seg>aaaaIn questa tabella tutti i campi vengono inseriti direttamente e si presume che non vengano usati per altri supporti con lo stesso contenuto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T082114Z" creationid="Marco Marega" creationdate="20180127T153243Z">
+        <seg>In questa tabella tutti i campi vengono inseriti direttamente e si presume che non vengano usati per altri supporti con lo stesso contenuto.</seg>
       </tuv>
     </tu>
     <tu>
