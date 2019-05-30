@@ -26217,8 +26217,8 @@
       <tuv lang="EN">
         <seg>One item can have several authors, and one author might have created several items.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071741Z" creationid="Marco Marega" creationdate="20180127T154518Z">
-        <seg>aaaaUn articolo può avere molti autori e un autore può aver creato numerosi articoli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T080310Z" creationid="Marco Marega" creationdate="20180127T154518Z">
+        <seg>Un singolo articolo può avere molti autori e un singolo autore può avere creato numerosi articoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39569,8 +39569,8 @@
       <tuv lang="EN">
         <seg>This relationship is controlled by the &lt;f0&gt;rel_Media_Author&lt;/f0&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154550Z" creationid="Marco Marega" creationdate="20180127T154550Z">
-        <seg>Questa relazione è gestita dalla tabella &lt;f0&gt;rel_Media_Author&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T080313Z" creationid="Marco Marega" creationdate="20180127T154550Z">
+        <seg>aaaaaaaaaaaaaaaaaQuesta relazione è gestita dalla tabella &lt;f0&gt;rel_Media_Author&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
