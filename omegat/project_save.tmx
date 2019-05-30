@@ -23065,8 +23065,8 @@
       <tuv lang="EN">
         <seg>In this way, the total duration of the CD can be calculated and displayed in a summary if necessary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154412Z" creationid="Marco Marega" creationdate="20180127T154412Z">
-        <seg>Cos' facendo, se necessario, è possibile calcolare la durata totale del CD e visualizzarla in un riepilogo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071700Z" creationid="Marco Marega" creationdate="20180127T154412Z">
+        <seg>Così facendo, se necessario, è possibile calcolare la durata totale del CD e visualizzarla in un riepilogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26217,8 +26217,8 @@
       <tuv lang="EN">
         <seg>One item can have several authors, and one author might have created several items.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154518Z" creationid="Marco Marega" creationdate="20180127T154518Z">
-        <seg>Un articolo può avere molti autori e un autore può aver creato numerosi articoli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071741Z" creationid="Marco Marega" creationdate="20180127T154518Z">
+        <seg>aaaaUn articolo può avere molti autori e un autore può aver creato numerosi articoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31897,8 +31897,8 @@
       <tuv lang="EN">
         <seg>The &lt;f1&gt;Length&lt;/f1&gt; field must first be defined as a time field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071110Z" creationid="Marco Marega" creationdate="20180127T154314Z">
-        <seg>aaaaIl campo &lt;f1&gt;Length&lt;/f1&gt; dev'essere definito come un campo di tipo ora.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071559Z" creationid="Marco Marega" creationdate="20180127T154314Z">
+        <seg>Il campo &lt;f1&gt;Length&lt;/f1&gt; deve essere definito come un campo di tipo Ora.</seg>
       </tuv>
     </tu>
     <tu>
