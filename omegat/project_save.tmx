@@ -11984,8 +11984,8 @@
       <tuv lang="EN">
         <seg>As a CD can contain several pieces of music, a record of the individual pieces in the main table would require a lot of additional fields (Subtitle 1, Subtitle 2, etc.) or the same item would have to be entered many times.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190529T083716Z" creationid="Marco Marega" creationdate="20180127T153933Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaSiccome un CD può contenere numerosi brani musicali, un record per le singole tracce all'interno della tabella principale richiederebbe molti campi aggiuntivi (Subtitle 1, Subtitle 2, ecc.) oppure lo stesso articolo dovrebbe essere inserito molte volte.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T070749Z" creationid="Marco Marega" creationdate="20180127T153933Z">
+        <seg>Siccome un CD può contenere numerosi brani musicali, un record per le singole tracce all'interno della tabella principale richiederebbe molti campi aggiuntivi (Subtitle 1, Subtitle 2, ecc.) oppure lo stesso articolo dovrebbe essere inserito più volte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31897,8 +31897,8 @@
       <tuv lang="EN">
         <seg>The &lt;f1&gt;Length&lt;/f1&gt; field must first be defined as a time field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154314Z" creationid="Marco Marega" creationdate="20180127T154314Z">
-        <seg>Il campo &lt;f1&gt;Length&lt;/f1&gt; dev'essere definito come un campo di tipo ora.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071110Z" creationid="Marco Marega" creationdate="20180127T154314Z">
+        <seg>aaaaIl campo &lt;f1&gt;Length&lt;/f1&gt; dev'essere definito come un campo di tipo ora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31913,8 +31913,8 @@
       <tuv lang="EN">
         <seg>The &lt;f1&gt;Subtitle&lt;/f1&gt; table therefore stands in a&lt;f2&gt; n:1 relationship &lt;/f2&gt;to the &lt;f3&gt;Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;table&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154027Z" creationid="Marco Marega" creationdate="20180127T154027Z">
-        <seg>Perciò la tabella &lt;f1&gt;Subtitle&lt;/f1&gt; sta in una relazione &lt;f2&gt; n:1 &lt;/f2&gt;con la tabella &lt;f3&gt;Media &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T070938Z" creationid="Marco Marega" creationdate="20180127T154027Z">
+        <seg>Perciò la tabella &lt;f1&gt;Subtitle&lt;/f1&gt; sta in una relazione&lt;f2&gt; n:1 &lt;/f2&gt;con la tabella &lt;f3&gt;Media&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33705,8 +33705,8 @@
       <tuv lang="EN">
         <seg>The fields of the &lt;f0&gt;Subtitle&lt;/f0&gt; table are (in addition to the subtitle itself) the sequence number of the subtitle and the duration of the track.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180127T154143Z" creationid="Marco Marega" creationdate="20180127T154143Z">
-        <seg>I campi della tabella &lt;f0&gt;Subtitle&lt;/f0&gt; sono (oltre al sottotitolo stesso) il numero del sottotitolo nella sequenza e la durata della traccia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T071107Z" creationid="Marco Marega" creationdate="20180127T154143Z">
+        <seg>I campi della tabella &lt;f0&gt;Subtitle&lt;/f0&gt; sono (oltre al sottotitolo stesso) il numero sequenziale del sottotitolo e la durata della traccia.</seg>
       </tuv>
     </tu>
     <tu>
