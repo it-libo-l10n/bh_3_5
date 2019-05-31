@@ -9856,8 +9856,8 @@
       <tuv lang="EN">
         <seg>&lt;s1/&gt;For larger libraries, general systems for libraries are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222809Z" creationid="Marco Marega" creationdate="20180128T222809Z">
-        <seg>&lt;s1/&gt;Per biblioteche più grandi sono disponibili dei sistemi standard.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T071910Z" creationid="Marco Marega" creationdate="20180128T222809Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;s1/&gt;Per biblioteche più grandi sono disponibili dei sistemi standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13624,7 +13624,7 @@
       <tuv lang="EN">
         <seg>Category, Mediastyle, Town and Publisher have a 1:n relationship.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222556Z" creationid="Marco Marega" creationdate="20180128T222556Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T071758Z" creationid="Marco Marega" creationdate="20180128T222556Z">
         <seg>Category (Categoria), Mediastyle (Tipo di supporto), Town (Città) e Publisher (Editore) hanno una relazione 1:n.</seg>
       </tuv>
     </tu>
@@ -17345,8 +17345,8 @@
       <tuv lang="EN">
         <seg>For the &lt;f0&gt;Category,&lt;/f0&gt; a small library can use something like Art or Biology.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222651Z" creationid="Marco Marega" creationdate="20180128T222651Z">
-        <seg>Per la &lt;f0&gt;Categoria (Category),&lt;/f0&gt; una piccola biblioteca puù usare qualcosa tipo Arte o Biologia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T071907Z" creationid="Marco Marega" creationdate="20180128T222651Z">
+        <seg>Per la &lt;f0&gt;Categoria (Category)&lt;/f0&gt;, una piccola biblioteca può usare qualcosa tipo Arte o Biologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31969,8 +31969,8 @@
       <tuv lang="EN">
         <seg>The &lt;f3&gt;rel_Media_Author&lt;/f3&gt; table includes an additional sorting (Author_Sort) of authors, for example by the sequence in which they are named in the book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T070510Z" creationid="Marco Marega" creationdate="20180128T222148Z">
-        <seg>aaaaLa tabella &lt;f3&gt;rel_Media_Author&lt;/f3&gt; comprende in aggiunta l'ordinamento degli autori (Author_Sort), ad esempio in base alla sequenza nella quale sono menzionati nel libro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T071029Z" creationid="Marco Marega" creationdate="20180128T222148Z">
+        <seg>La tabella &lt;f3&gt;rel_Media_Author&lt;/f3&gt; comprende in aggiunta l'ordinamento degli autori (Author_Sort), ad esempio in base alla sequenza in cui sono menzionati nel libro.</seg>
       </tuv>
     </tu>
     <tu>
