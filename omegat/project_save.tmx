@@ -18305,8 +18305,8 @@
       <tuv lang="EN">
         <seg>Hence both fields appear under Category.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205136Z" creationid="Marco Marega" creationdate="20180128T222932Z">
-        <seg>Perciò nella tabella delle categorie (Category) compaiono entrambi i campi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T151931Z" creationid="Marco Marega" creationdate="20180128T222932Z">
+        <seg>Perciò entrambi i campi Category (Categoria) e Description (Descrizione) compaiono nella tabella Category.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31745,8 +31745,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Mediastyle&lt;/f0&gt; is linked to the &lt;f1&gt;loan period &lt;/f1&gt;&lt;f2&gt;Loantime.&lt;/f2&gt; For example, video DVDs might on principle have a loan period of 7 days, but books might be loaned for 21 days.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205212Z" creationid="Marco Marega" creationdate="20180128T223128Z">
-        <seg>Il &lt;f0&gt;Tipo di supporto (Mediastyle)&lt;/f0&gt; è collegato al &lt;f1&gt;periodo di prestito &lt;/f1&gt;&lt;f2&gt;(Loantime).&lt;/f2&gt; Ad esempio, i DVD video potrebbero, in linea di principio, avere un periodo di prestito di 7 giorni, mentre i libri potrebbero essere prestati per 21 giorni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T151934Z" creationid="Marco Marega" creationdate="20180128T223128Z">
+        <seg>aaaaIl &lt;f0&gt;Tipo di supporto (Mediastyle)&lt;/f0&gt; è collegato al &lt;f1&gt;periodo di prestito &lt;/f1&gt;&lt;f2&gt;(Loantime).&lt;/f2&gt; Ad esempio, i DVD video potrebbero, in linea di principio, avere un periodo di prestito di 7 giorni, mentre i libri potrebbero essere prestati per 21 giorni.</seg>
       </tuv>
     </tu>
     <tu>
