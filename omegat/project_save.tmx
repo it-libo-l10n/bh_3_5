@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9856,8 +9856,8 @@
       <tuv lang="EN">
         <seg>&lt;s1/&gt;For larger libraries, general systems for libraries are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T071910Z" creationid="Marco Marega" creationdate="20180128T222809Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;s1/&gt;Per biblioteche più grandi sono disponibili dei sistemi standard.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T150540Z" creationid="Marco Marega" creationdate="20180128T222809Z">
+        <seg>&lt;s1/&gt;Per biblioteche più grandi sono disponibili dei sistemi standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37537,8 +37537,8 @@
       <tuv lang="EN">
         <seg>These systems provide both abbreviations and complete descriptions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180128T222832Z" creationid="Marco Marega" creationdate="20180128T222832Z">
-        <seg>Questi sistemi forniscono sia delle abbreviazioni che le descrizioni complete.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T150543Z" creationid="Marco Marega" creationdate="20180128T222832Z">
+        <seg>aaaaQuesti sistemi forniscono sia delle abbreviazioni che le descrizioni complete.</seg>
       </tuv>
     </tu>
     <tu>
