@@ -30057,8 +30057,8 @@
       <tuv lang="EN">
         <seg>Since &lt;f0&gt;Publishers&lt;/f0&gt; also recur frequently, a separate table is provided for them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205909Z" creationid="Marco Marega" creationdate="20180202T205909Z">
-        <seg>Dato che anche gli Editori &lt;f0&gt;(Publisher)&lt;/f0&gt; si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T155109Z" creationid="Marco Marega" creationdate="20180202T205909Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaDato che anche gli Editori &lt;f0&gt;(Publisher)&lt;/f0&gt; si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31833,8 +31833,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Town&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; t&lt;/f2&gt;&lt;/f1&gt;able serves not only to store location data from the media but also to store the locations used in the addresses of users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190601T153059Z" creationid="Marco Marega" creationdate="20180202T205653Z">
-        <seg>La tabella &lt;f0&gt;Town&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; (Città)&lt;/f2&gt;&lt;/f1&gt; non serve solamente per memorizzare i dati relativi all'ubicazione dei supporti, ma anche per memorizzare i luoghi usati negli indirizzi degli utenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T155106Z" creationid="Marco Marega" creationdate="20180202T205653Z">
+        <seg>La tabella &lt;f0&gt;Town&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; (Città)&lt;/f2&gt;&lt;/f1&gt; non serve solamente per memorizzare i dati relativi a luoghi estrapolati dai supporti, ma anche per memorizzare i luoghi usati negli indirizzi degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
