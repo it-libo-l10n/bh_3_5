@@ -20585,8 +20585,8 @@
       <tuv lang="EN">
         <seg>If the loan period is linked to any other criteria, there will be corresponding changes in your methodology.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205338Z" creationid="Marco Marega" creationdate="20180202T205201Z">
-        <seg>Se il periodo di prestito fosse collegato a qualsiasi altro criterio, ci sarebbero di conseguenza delle modifiche nella vostra metodologia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T152925Z" creationid="Marco Marega" creationdate="20180202T205201Z">
+        <seg>Se il periodo di prestito fosse collegato a qualsiasi altro criterio, ci sarebbero di conseguenza delle modifiche nella metodologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31745,8 +31745,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Mediastyle&lt;/f0&gt; is linked to the &lt;f1&gt;loan period &lt;/f1&gt;&lt;f2&gt;Loantime.&lt;/f2&gt; For example, video DVDs might on principle have a loan period of 7 days, but books might be loaned for 21 days.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190601T151934Z" creationid="Marco Marega" creationdate="20180128T223128Z">
-        <seg>aaaaIl &lt;f0&gt;Tipo di supporto (Mediastyle)&lt;/f0&gt; è collegato al &lt;f1&gt;periodo di prestito &lt;/f1&gt;&lt;f2&gt;(Loantime).&lt;/f2&gt; Ad esempio, i DVD video potrebbero, in linea di principio, avere un periodo di prestito di 7 giorni, mentre i libri potrebbero essere prestati per 21 giorni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T152812Z" creationid="Marco Marega" creationdate="20180128T223128Z">
+        <seg>Il &lt;f0&gt;Mediastyle&lt;/f0&gt; (tipo di supporto) è collegato al &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Loantime&lt;/f2&gt; (periodo di prestito). Ad esempio, i DVD video potrebbero, in linea di principio, avere un periodo di prestito di 7 giorni, mentre i libri potrebbero essere prestati per 21 giorni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31833,8 +31833,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Town&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; t&lt;/f2&gt;&lt;/f1&gt;able serves not only to store location data from the media but also to store the locations used in the addresses of users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T205653Z" creationid="Marco Marega" creationdate="20180202T205653Z">
-        <seg>La &lt;f0&gt;tabella &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Città (Town)&lt;/f2&gt;&lt;/f1&gt; non serve solamente per memorizzare i dati relativi all'ubicazione dei supporti, ma anche per memorizzare i luoghi usati negli indirizzi degli utenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T153059Z" creationid="Marco Marega" creationdate="20180202T205653Z">
+        <seg>La tabella &lt;f0&gt;Town&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; (Città)&lt;/f2&gt;&lt;/f1&gt; non serve solamente per memorizzare i dati relativi all'ubicazione dei supporti, ma anche per memorizzare i luoghi usati negli indirizzi degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
