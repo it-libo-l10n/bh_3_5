@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21681,8 +21681,8 @@
       <tuv lang="EN">
         <seg>In case you need to find out retrospectively who has taken out a book (for example, if someone notices during the loan process that the book is damaged, or if you wish to make a list of the most popular media), the &lt;f2&gt;Loan_Date&lt;/f2&gt; in the loan record is not simply deleted during the return process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210648Z" creationid="Marco Marega" creationdate="20180202T210648Z">
-        <seg>Nel caso abbiate la necessità di ritrovare retroattivamente chi aveva preso in prestito un libro (ad esempio, perché qualcuno durante il prestito segnala che il libro è danneggiato, oppure perché desiderate redigere una lista dei supporti più popolari), nel record del prestito, la data iniziale &lt;f2&gt;(Loan_Date)&lt;/f2&gt; non viene cancellata durante la procedura di reso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T104459Z" creationid="Marco Marega" creationdate="20180202T210648Z">
+        <seg>aaaaNel caso abbiate la necessità di ritrovare retroattivamente chi aveva preso in prestito un libro (ad esempio, perché qualcuno durante il prestito segnala che il libro è danneggiato, oppure perché desiderate redigere una lista dei supporti più popolari), nel record del prestito, la data iniziale &lt;f2&gt;(Loan_Date)&lt;/f2&gt; non viene cancellata durante la procedura di reso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24681,8 +24681,8 @@
       <tuv lang="EN">
         <seg>Loan table</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210041Z" creationid="Marco Marega" creationdate="20180202T210041Z">
-        <seg>Tabella dei prestiti (Loan)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T104146Z" creationid="Marco Marega" creationdate="20180202T210041Z">
+        <seg>Tabella Loan (Prestiti)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30057,8 +30057,8 @@
       <tuv lang="EN">
         <seg>Since &lt;f0&gt;Publishers&lt;/f0&gt; also recur frequently, a separate table is provided for them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190601T155109Z" creationid="Marco Marega" creationdate="20180202T205909Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaDato che anche gli Editori &lt;f0&gt;(Publisher)&lt;/f0&gt; si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T103440Z" creationid="Marco Marega" creationdate="20180202T205909Z">
+        <seg>Dato che anche i &lt;f0&gt;Publishers&lt;/f0&gt; (Editori) si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31729,8 +31729,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Media&lt;/f0&gt; table has in total four foreign keys and one primary key, which is used as a foreign key in two tables, as shown in Figure &lt;t1&gt;5&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210019Z" creationid="Marco Marega" creationdate="20180202T210019Z">
-        <seg>La tabella &lt;f0&gt;Media&lt;/f0&gt; in totale ha quattro chiavi esterne e una chiave primaria, che è usata come chiave esterna in due tabelle, così come mostrato nella Figura &lt;t1&gt;5&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T103944Z" creationid="Marco Marega" creationdate="20180202T210019Z">
+        <seg>La tabella &lt;f0&gt;Media&lt;/f0&gt; in totale ha quattro chiavi esterne e una chiave primaria, che è usata come chiave esterna in due tabelle, come mostrato nella &lt;t1&gt;Figura 5&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32745,8 +32745,8 @@
       <tuv lang="EN">
         <seg>The central table is &lt;f0&gt;Loan&lt;/f0&gt; (see Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210114Z" creationid="Marco Marega" creationdate="20180202T210114Z">
-        <seg>La tabella centrale è quella dei prestiti &lt;f0&gt;(Loan)&lt;/f0&gt; (vedete la Figura &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T104333Z" creationid="Marco Marega" creationdate="20180202T210114Z">
+        <seg>La tabella &lt;f0&gt;Loan&lt;/f0&gt; (Prestiti) è la tabella centrale (vedete la &lt;t1&gt;Figura 6&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
