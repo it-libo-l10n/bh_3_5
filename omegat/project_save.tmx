@@ -21681,8 +21681,8 @@
       <tuv lang="EN">
         <seg>In case you need to find out retrospectively who has taken out a book (for example, if someone notices during the loan process that the book is damaged, or if you wish to make a list of the most popular media), the &lt;f2&gt;Loan_Date&lt;/f2&gt; in the loan record is not simply deleted during the return process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190603T104459Z" creationid="Marco Marega" creationdate="20180202T210648Z">
-        <seg>aaaaNel caso abbiate la necessità di ritrovare retroattivamente chi aveva preso in prestito un libro (ad esempio, perché qualcuno durante il prestito segnala che il libro è danneggiato, oppure perché desiderate redigere una lista dei supporti più popolari), nel record del prestito, la data iniziale &lt;f2&gt;(Loan_Date)&lt;/f2&gt; non viene cancellata durante la procedura di reso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T122945Z" creationid="Marco Marega" creationdate="20180202T210648Z">
+        <seg>Nel caso abbiate la necessità di ritrovare chi ha preso in prestito un libro (ad esempio, perché qualcuno durante il prestito segnala che il libro è danneggiato, oppure perché desiderate redigere una lista dei supporti più popolari), nel record del prestito la &lt;f2&gt;Loan_Date&lt;/f2&gt; (data del prestito) non viene cancellata durante la procedura di reso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23193,8 +23193,8 @@
       <tuv lang="EN">
         <seg>Instead a &lt;f3&gt;Return_Date&lt;/f3&gt; is recorded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T210726Z" creationid="Marco Marega" creationdate="20180202T210726Z">
-        <seg>Piuttosto viene registrata una data di restituzione &lt;f3&gt;(Return_Date)&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T122950Z" creationid="Marco Marega" creationdate="20180202T210726Z">
+        <seg>aaaaaaaaaaaaaaaaPiuttosto viene registrata una data di restituzione &lt;f3&gt;(Return_Date)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
