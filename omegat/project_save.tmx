@@ -12288,8 +12288,8 @@
       <tuv lang="EN">
         <seg>As well as an extension period in weeks, there is an extra field in the loan record that enables media to be loaned using a barcode scanner (&lt;f0&gt;Media_ID_BC&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211646Z" creationid="Marco Marega" creationdate="20180202T211646Z">
-        <seg>Così come c'è un campo per i periodi di proroga espressi in settimane, nel record relativo ad un prestito, c'è n'è uno aggiuntivo che abilita l'erogazione del prestito di un supporto mediante l'uso di uno scanner di codici a barre (&lt;f0&gt;Media_ID_BC&lt;/f0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T073307Z" creationid="Marco Marega" creationdate="20180202T211646Z">
+        <seg>Così come è presente un campo per i periodi di proroga espressi in settimane, nel record relativo a un prestito vi è un campo aggiuntivo che abilita l'erogazione del prestito di un supporto mediante l'uso di uno scanner di codici a barre (&lt;f0&gt;Media_ID_BC&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12600,8 +12600,8 @@
       <tuv lang="EN">
         <seg>Barcodes contain, in addition to the individual Media_ID, a check digit which the scanner can use to determine if the value scanned in is correct.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211907Z" creationid="Marco Marega" creationdate="20180202T211907Z">
-        <seg>I codici a barre, oltre al singolo codice identificativo (Media_ID), contengono un carattere numerico di controllo, che lo scanner può utilizzare per determinare se il valore letto è corretto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T073309Z" creationid="Marco Marega" creationdate="20180202T211907Z">
+        <seg>aaaaaaaaaaaaaaaaaaI codici a barre, oltre al singolo codice identificativo (Media_ID), contengono un carattere numerico di controllo, che lo scanner può utilizzare per determinare se il valore letto è corretto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15512,8 +15512,8 @@
       <tuv lang="EN">
         <seg>Each reminder is separately entered into the &lt;f0&gt;Recall&lt;/f0&gt; table so that the total number of reminders can be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211252Z" creationid="Marco Marega" creationdate="20180202T211252Z">
-        <seg>Ciascun sollecito viene inserito distintamente nella tabella dei richiami &lt;f0&gt;(Recall)&lt;/f0&gt; in modo che sia possibile determinare il numero complessivo di solleciti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T072701Z" creationid="Marco Marega" creationdate="20180202T211252Z">
+        <seg>Ciascun sollecito viene inserito separatamente nella tabella &lt;f0&gt;Recall&lt;/f0&gt; (Richiamo), in modo che sia possibile determinare il numero complessivo di solleciti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23193,8 +23193,8 @@
       <tuv lang="EN">
         <seg>Instead a &lt;f3&gt;Return_Date&lt;/f3&gt; is recorded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190603T122950Z" creationid="Marco Marega" creationdate="20180202T210726Z">
-        <seg>aaaaaaaaaaaaaaaaPiuttosto viene registrata una data di restituzione &lt;f3&gt;(Return_Date)&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T071354Z" creationid="Marco Marega" creationdate="20180202T210726Z">
+        <seg>Viene invece registrata una data di restituzione &lt;f3&gt;(Return_Date)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30025,8 +30025,8 @@
       <tuv lang="EN">
         <seg>Similarly, Reminders are integrated into the loan procedure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T211055Z" creationid="Marco Marega" creationdate="20180202T211055Z">
-        <seg>Analogamente, i solleciti (Reminder) sono integrati nella procedura relativa al prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T071702Z" creationid="Marco Marega" creationdate="20180202T211055Z">
+        <seg>Analogamente, i solleciti (Reminders) sono integrati nella procedura relativa al prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30057,8 +30057,8 @@
       <tuv lang="EN">
         <seg>Since &lt;f0&gt;Publishers&lt;/f0&gt; also recur frequently, a separate table is provided for them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190603T103440Z" creationid="Marco Marega" creationdate="20180202T205909Z">
-        <seg>Dato che anche i &lt;f0&gt;Publishers&lt;/f0&gt; (Editori) si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T071419Z" creationid="Marco Marega" creationdate="20180202T205909Z">
+        <seg>Dato che anche gli &lt;f0&gt;Editori&lt;/f0&gt; (Publishers) si ripetono frequentemente, per loro è prevista una tabella separata.</seg>
       </tuv>
     </tu>
     <tu>
