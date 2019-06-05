@@ -22249,8 +22249,8 @@
       <tuv lang="EN">
         <seg>In the actual reader table, only the name, an optional lock, and a foreign key linking to the Gender table are included in the plan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T212952Z" creationid="Marco Marega" creationdate="20180202T212952Z">
-        <seg>Nello schema della tabella effettiva degli utenti, sono presenti solo il nome, un blocco opzionale, e una chiave esterna per il collegamento alla tabella del genere (Gender).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T103114Z" creationid="Marco Marega" creationdate="20180202T212952Z">
+        <seg>aaaaaaaaaaaaaaaaNello schema della tabella effettiva degli utenti, sono presenti solo il nome, un blocco opzionale, e una chiave esterna per il collegamento alla tabella del genere (Gender).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24073,8 +24073,8 @@
       <tuv lang="EN">
         <seg>It would be better if the primary key of the Media table could be directly entered in barcode form, or if a macro were used to remove the check digit from the entered barcode number before storage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190605T101326Z" creationid="Marco Marega" creationdate="20180202T212355Z">
-        <seg>aaaaSarebbe preferibile se la chiave primaria della tabella Media potesse essere inserita direttamente come codice a barre, o se, prima di memorizzarlo, venisse utilizzata una macro per rimuovere la cifra di controllo dal numero del codice a barre.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T102750Z" creationid="Marco Marega" creationdate="20180202T212355Z">
+        <seg>Sarebbe preferibile se la chiave primaria della tabella Media potesse essere inserita direttamente come codice a barre, o se, prima del salvataggio, venisse utilizzata una macro per rimuovere il carattere numerico di controllo dal numero del codice a barre inserito.</seg>
       </tuv>
     </tu>
     <tu>
