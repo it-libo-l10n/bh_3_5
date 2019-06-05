@@ -12600,8 +12600,8 @@
       <tuv lang="EN">
         <seg>Barcodes contain, in addition to the individual Media_ID, a check digit which the scanner can use to determine if the value scanned in is correct.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190604T073309Z" creationid="Marco Marega" creationdate="20180202T211907Z">
-        <seg>aaaaaaaaaaaaaaaaaaI codici a barre, oltre al singolo codice identificativo (Media_ID), contengono un carattere numerico di controllo, che lo scanner può utilizzare per determinare se il valore letto è corretto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T100035Z" creationid="Marco Marega" creationdate="20180202T211907Z">
+        <seg>I codici a barre, oltre al singolo codice identificativo (Media_ID), contengono un carattere numerico di controllo, che lo scanner può utilizzare per determinare se il valore letto è corretto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37921,8 +37921,8 @@
       <tuv lang="EN">
         <seg>This barcode field is in&lt;f1&gt;c&lt;/f1&gt;luded here only for test purposes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180202T212123Z" creationid="Marco Marega" creationdate="20180202T212123Z">
-        <seg>Questo campo per i codici a barre è stato&lt;f1&gt;incluso&lt;/f1&gt; solo a scopo di prova.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T100037Z" creationid="Marco Marega" creationdate="20180202T212123Z">
+        <seg>aaaaQuesto campo per i codici a barre è stato&lt;f1&gt;incluso&lt;/f1&gt; solo a scopo di prova.</seg>
       </tuv>
     </tu>
     <tu>
