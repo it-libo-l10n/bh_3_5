@@ -18625,8 +18625,8 @@
       <tuv lang="EN">
         <seg>Here there is no need for addresses, as the pupils can be contacted through the school.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135113Z" creationid="Marco Marega" creationdate="20180203T135113Z">
-        <seg>In queste non c'è necessità di avere gli indirizzi, in quanto gli allievi possono essere contattati tramite la scuola.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190606T072513Z" creationid="Marco Marega" creationdate="20180203T135113Z">
+        <seg>aaaaIn queste non c'è necessità di avere gli indirizzi, in quanto gli allievi possono essere contattati tramite la scuola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32753,8 +32753,8 @@
       <tuv lang="EN">
         <seg>The chain of tables shown in Figure &lt;t0&gt;6&lt;/t0&gt; is designed for school libraries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190606T072259Z" creationid="Marco Marega" creationdate="20180203T135006Z">
-        <seg>aaaaIl concatenamento di tabelle mostrato nella Figura &lt;t0&gt;6&lt;/t0&gt; è concepita per biblioteche scolastiche.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190606T072510Z" creationid="Marco Marega" creationdate="20180203T135006Z">
+        <seg>Il concatenamento di tabelle mostrato nella &lt;t0&gt;Figura 6&lt;/t0&gt; è concepito per biblioteche scolastiche.</seg>
       </tuv>
     </tu>
     <tu>
