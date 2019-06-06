@@ -16561,8 +16561,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Loan</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T134718Z" creationid="Marco Marega" creationdate="20180203T134718Z">
-        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Prestito (Loan)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190606T071801Z" creationid="Marco Marega" creationdate="20180203T134718Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Loan (Prestito)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17593,8 +17593,8 @@
       <tuv lang="EN">
         <seg>For this table design, two scenarios are envisaged.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T134930Z" creationid="Marco Marega" creationdate="20180203T134930Z">
-        <seg>Per la progettazione di questa tabella si possono prevedere due scenari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190606T072258Z" creationid="Marco Marega" creationdate="20180203T134930Z">
+        <seg>Per la progettazione di questa tabella si prevedono due scenari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22249,8 +22249,8 @@
       <tuv lang="EN">
         <seg>In the actual reader table, only the name, an optional lock, and a foreign key linking to the Gender table are included in the plan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190605T103114Z" creationid="Marco Marega" creationdate="20180202T212952Z">
-        <seg>aaaaaaaaaaaaaaaaNello schema della tabella effettiva degli utenti, sono presenti solo il nome, un blocco opzionale, e una chiave esterna per il collegamento alla tabella del genere (Gender).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190606T071553Z" creationid="Marco Marega" creationdate="20180202T212952Z">
+        <seg>Nello schema della tabella effettiva degli utenti, sono presenti solo il nome, un blocco opzionale e una chiave esterna per il collegamento alla tabella Gender (Genere).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32753,8 +32753,8 @@
       <tuv lang="EN">
         <seg>The chain of tables shown in Figure &lt;t0&gt;6&lt;/t0&gt; is designed for school libraries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135702Z" creationid="Marco Marega" creationdate="20180203T135006Z">
-        <seg>Il concatenamento di tabelle mostrato nella Figura &lt;t0&gt;6&lt;/t0&gt; è concepita per biblioteche scolastiche.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190606T072259Z" creationid="Marco Marega" creationdate="20180203T135006Z">
+        <seg>aaaaIl concatenamento di tabelle mostrato nella Figura &lt;t0&gt;6&lt;/t0&gt; è concepita per biblioteche scolastiche.</seg>
       </tuv>
     </tu>
     <tu>
