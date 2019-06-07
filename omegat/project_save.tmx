@@ -2024,8 +2024,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;The writing of reminders can then be automated as far as possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135919Z" creationid="Marco Marega" creationdate="20180203T135919Z">
-        <seg>&lt;/f4&gt;La scrittura dei solleciti può quindi essere automatizzata il più possibile.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T070859Z" creationid="Marco Marega" creationdate="20180203T135919Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;/f4&gt;La scrittura dei solleciti può quindi essere automatizzata il più possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16569,8 +16569,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Readers - a School class chain and an Address chain</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135642Z" creationid="Marco Marega" creationdate="20180203T135642Z">
-        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Utenti (Readers) - concatenamento di una Classe scolastica e degli indirizzi (Address)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T070453Z" creationid="Marco Marega" creationdate="20180203T135642Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: utenti (readers) - concatenamento di una classe scolastica e degli indirizzi</seg>
       </tuv>
     </tu>
     <tu>
@@ -27737,8 +27737,8 @@
       <tuv lang="EN">
         <seg>Reminders do not need to be sent out by post but can be distributed internally.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190606T072958Z" creationid="Marco Marega" creationdate="20180203T135226Z">
-        <seg>aaaaaaaaaaaaaaaaNon c'è bisogno di inviare i solleciti per posta, dato che possono essere distribuiti internamente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T065800Z" creationid="Marco Marega" creationdate="20180203T135226Z">
+        <seg>Non c'è bisogno di inviare i solleciti per posta, dato che possono essere distribuiti internamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29737,8 +29737,8 @@
       <tuv lang="EN">
         <seg>See Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135426Z" creationid="Marco Marega" creationdate="20180203T135426Z">
-        <seg>Vedete la Figura &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T065937Z" creationid="Marco Marega" creationdate="20180203T135426Z">
+        <seg>Vedete la &lt;t0&gt;Figura 7&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31681,8 +31681,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Gender &lt;/f0&gt;&lt;f1&gt;table ensures that the correct &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Salutation&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; is used in reminders.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135827Z" creationid="Marco Marega" creationdate="20180203T135827Z">
-        <seg>La tabella del genere &lt;f0&gt;(Gender) &lt;/f0&gt;&lt;f1&gt;assicura che nei solleciti venga utilizzata la formula di saluto corretta&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;(Salutation)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T070856Z" creationid="Marco Marega" creationdate="20180203T135827Z">
+        <seg>La tabella &lt;f0&gt;Gender&lt;/f0&gt;&lt;f1&gt; (genere) assicura che nei solleciti venga utilizzata la formula di saluto corretta &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;(Salutation)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31993,8 +31993,8 @@
       <tuv lang="EN">
         <seg>The Address chain is necessary in the case of public libraries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T135344Z" creationid="Marco Marega" creationdate="20180203T135344Z">
-        <seg>Il concatenamento con gli indirizzi (Address) è necessario nel caso di una biblioteca pubblica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T065901Z" creationid="Marco Marega" creationdate="20180203T135344Z">
+        <seg>Il concatenamento con gli indirizzi è necessario nel caso di una biblioteca pubblica.</seg>
       </tuv>
     </tu>
     <tu>
