@@ -26785,8 +26785,8 @@
       <tuv lang="EN">
         <seg>Otherwise the &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;could be put directly into the pupil table; the same would be true of the complete content of the address table in a public library system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140527Z" creationid="Marco Marega" creationdate="20180203T140527Z">
-        <seg>Altrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T121137Z" creationid="Marco Marega" creationdate="20180203T140527Z">
+        <seg>aaaaaaaaaaaaaaaaaaaAltrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31857,8 +31857,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt; table, like the &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt; table, has a 1:1 relationship with the &lt;f4&gt;Reader&lt;/f4&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190610T092255Z" creationid="Marco Marega" creationdate="20180203T140217Z">
-        <seg>aaaaaaaaLa tabella &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt;, come la tabella &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt;, ha una relazione 1:1 con la tabella &lt;f4&gt;Reader&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T120841Z" creationid="Marco Marega" creationdate="20180203T140217Z">
+        <seg>La tabella &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt;, come la tabella &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt;, ha una relazione 1:1 con la tabella &lt;f4&gt;Reader&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39857,8 +39857,8 @@
       <tuv lang="EN">
         <seg>This was chosen because either the school class or the address might be required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140334Z" creationid="Marco Marega" creationdate="20180203T140334Z">
-        <seg>Questa scelta è stata fatta in quanto può essere richiesta sia la classe della scuola, sia l'indirizzo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T121135Z" creationid="Marco Marega" creationdate="20180203T140334Z">
+        <seg>Questa scelta è stata fatta in quanto potrebbero essere richiesti sia la classe della scuola, sia l'indirizzo.</seg>
       </tuv>
     </tu>
     <tu>
