@@ -2024,8 +2024,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;The writing of reminders can then be automated as far as possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T070859Z" creationid="Marco Marega" creationdate="20180203T135919Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;/f4&gt;La scrittura dei solleciti può quindi essere automatizzata il più possibile.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T091451Z" creationid="Marco Marega" creationdate="20180203T135919Z">
+        <seg>&lt;/f4&gt;La scrittura dei solleciti può quindi essere automatizzata il più possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21577,8 +21577,8 @@
       <tuv lang="EN">
         <seg>In addition, some given names can be equally masculine or feminine.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140015Z" creationid="Marco Marega" creationdate="20180203T140015Z">
-        <seg>In aggiunta, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T091453Z" creationid="Marco Marega" creationdate="20180203T140015Z">
+        <seg>aaaaIn aggiunta, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
       </tuv>
     </tu>
     <tu>
