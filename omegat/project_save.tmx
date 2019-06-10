@@ -21577,8 +21577,8 @@
       <tuv lang="EN">
         <seg>In addition, some given names can be equally masculine or feminine.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190610T091453Z" creationid="Marco Marega" creationdate="20180203T140015Z">
-        <seg>aaaaIn aggiunta, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T092001Z" creationid="Marco Marega" creationdate="20180203T140015Z">
+        <seg>Inoltre, alcuni nomi possono essere indifferentemente sia maschili che femminili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31857,8 +31857,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt; table, like the &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt; table, has a 1:1 relationship with the &lt;f4&gt;Reader&lt;/f4&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140217Z" creationid="Marco Marega" creationdate="20180203T140217Z">
-        <seg>La tabella &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt;, come la tabella &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt;, ha una relazione 1:1 con la tabella &lt;f4&gt;Reader&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T092255Z" creationid="Marco Marega" creationdate="20180203T140217Z">
+        <seg>aaaaaaaaLa tabella &lt;f0&gt;rel_Reader_Schoolclass&lt;/f0&gt;, come la tabella &lt;f1&gt;A&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ddress&lt;/f3&gt;&lt;/f2&gt;, ha una relazione 1:1 con la tabella &lt;f4&gt;Reader&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37281,8 +37281,8 @@
       <tuv lang="EN">
         <seg>Therefore the separate listing of gender is required even when reminders are written out by hand.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T140135Z" creationid="Marco Marega" creationdate="20180203T140135Z">
-        <seg>Perciò è necessaria tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T092251Z" creationid="Marco Marega" creationdate="20180203T140135Z">
+        <seg>Perciò è necessario tenere separata la lista dei generi, anche quando i solleciti vengono scritti manualmente.</seg>
       </tuv>
     </tu>
     <tu>
