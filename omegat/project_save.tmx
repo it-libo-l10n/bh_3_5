@@ -9976,8 +9976,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;School class&lt;/f0&gt; usually consists of a year designation and a stream suffix.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145848Z" creationid="Marco Marega" creationdate="20180203T145645Z">
-        <seg>Una Classe scolastica &lt;f0&gt;(School class)&lt;/f0&gt; di solito viene memorizzata con l'anno di avvio e un suffisso progressivo per il corso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T071633Z" creationid="Marco Marega" creationdate="20180203T145645Z">
+        <seg>Una &lt;f0&gt;classe scolastica&lt;/f0&gt; di solito viene memorizzata con l'anno di avvio e un suffisso progressivo per il corso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26785,8 +26785,8 @@
       <tuv lang="EN">
         <seg>Otherwise the &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;could be put directly into the pupil table; the same would be true of the complete content of the address table in a public library system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190610T121137Z" creationid="Marco Marega" creationdate="20180203T140527Z">
-        <seg>aaaaaaaaaaaaaaaaaaaAltrimenti il campo &lt;f5&gt;Schoolclass_ID &lt;/f5&gt;poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T070553Z" creationid="Marco Marega" creationdate="20180203T140527Z">
+        <seg>Altrimenti il campo &lt;f5&gt;Schoolclass_ID&lt;/f5&gt; poteva essere inserito direttamente nella tabella degli alunni; lo stesso sarebbe vero anche per l'intero contenuto della tabella degli indirizzi di un sistema bibliotecario pubblico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31505,8 +31505,8 @@
       <tuv lang="EN">
         <seg>That way, if readers move up a class at the end of each school year, you can simply change the year entry for everyone.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150048Z" creationid="Marco Marega" creationdate="20180203T150048Z">
-        <seg>In questo modo, se un utente avanza di una classe alla fine di ogni anno scolastico, potete semplicemente modificare l'anno inserito per ognuno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T071911Z" creationid="Marco Marega" creationdate="20180203T150048Z">
+        <seg>aaaaaaaaaaaaaaaaaaaIn questo modo, se un utente avanza di una classe alla fine di ogni anno scolastico, potete semplicemente modificare l'anno inserito per ognuno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36857,8 +36857,8 @@
       <tuv lang="EN">
         <seg>The year is in a separate &lt;f4&gt;Grade&lt;/f4&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T145837Z" creationid="Marco Marega" creationdate="20180203T145837Z">
-        <seg>L'anno in una tabella separata &lt;f4&gt;Grade&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T071909Z" creationid="Marco Marega" creationdate="20180203T145837Z">
+        <seg>L'anno si trova nella tabella separata &lt;f4&gt;Grade&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
