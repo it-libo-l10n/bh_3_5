@@ -6760,7 +6760,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;reating tables&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150719Z" creationid="Marco Marega" creationdate="20180203T150719Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T074220Z" creationid="Marco Marega" creationdate="20180203T150719Z">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;reazione delle tabelle&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -15280,8 +15280,8 @@
       <tuv lang="EN">
         <seg>Direct entry of SQL commands becomes necessary when, for example, a field must subsequently be inserted at a particular position, or a standard value must be set after the table has been saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151131Z" creationid="Marco Marega" creationdate="20180203T150913Z">
-        <seg>L'inserimento diretto di comandi SQL diventa necessario, ad esempio, quando in un secondo tempo un campo deve essere inserito in una particolare posizione, oppure deve essere impostato un valore predefinito dopo che la tabella è stata salvata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T074416Z" creationid="Marco Marega" creationdate="20180203T150913Z">
+        <seg>aaaaaaaaaaaaaaaaaaaL'inserimento diretto di comandi SQL diventa necessario, ad esempio, quando in un secondo tempo un campo deve essere inserito in una particolare posizione, oppure deve essere impostato un valore predefinito dopo che la tabella è stata salvata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18969,8 +18969,8 @@
       <tuv lang="EN">
         <seg>How this table structure is put to use is explained further in the Chapter 4,&lt;f0&gt; Forms, in this handbook&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150659Z" creationid="Marco Marega" creationdate="20180203T150659Z">
-        <seg>Come questa struttura di tabelle viene fatta funzionare è maggiormente spiegato nel Capitolo 4,&lt;f0&gt; Formulari, di questo manuale&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T073839Z" creationid="Marco Marega" creationdate="20180203T150659Z">
+        <seg>Il funzionamento di questa struttura di tabelle è spiegato dettagliatamente nel Capitolo 4 &lt;f0&gt;(Formulari) di questo manuale&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25161,8 +25161,8 @@
       <tuv lang="EN">
         <seg>Most LibreOffice users will generally use the graphical user interface (GUI) exclusively to create tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150847Z" creationid="Marco Marega" creationdate="20180203T150847Z">
-        <seg>La maggior parte degli utenti di LibreOffice, per creare le tabelle, solitamente userà esclusivamente l'interfaccia grafica (GUI).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T074413Z" creationid="Marco Marega" creationdate="20180203T150847Z">
+        <seg>La maggior parte degli utenti di LibreOffice di solito usa esclusivamente l'interfaccia grafica (GUI) per creare le tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30153,8 +30153,8 @@
       <tuv lang="EN">
         <seg>So compared with the &lt;f2&gt;Address &lt;/f2&gt;&lt;f3&gt;t&lt;/f3&gt;able, the &lt;f4&gt;Postcode&lt;/f4&gt; table contains significantly fewer records and the &lt;f5&gt;Town&lt;/f5&gt; table even fewer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T070612Z" creationid="Marco Marega" creationdate="20180203T150504Z">
-        <seg>aaaaQuindi se confrontata con la tabella &lt;f2&gt;Address &lt;/f2&gt;, la &lt;f3&gt;tabella&lt;/f3&gt; &lt;f4&gt;Postcode&lt;/f4&gt; contiene molti meno record e la tabella &lt;f5&gt;Town&lt;/f5&gt; ancora di meno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T073646Z" creationid="Marco Marega" creationdate="20180203T150504Z">
+        <seg>Quindi, se confrontata con la tabella &lt;f2&gt;Address&lt;/f2&gt;, la &lt;f3&gt;tabella&lt;/f3&gt; &lt;f4&gt;Postcode&lt;/f4&gt; contiene molti meno record e la tabella &lt;f5&gt;Town&lt;/f5&gt; ancora di meno.</seg>
       </tuv>
     </tu>
     <tu>
