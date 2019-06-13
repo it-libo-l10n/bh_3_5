@@ -9560,8 +9560,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Street&lt;/f1&gt; is stored separately because street names within an area are often repeated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150228Z" creationid="Marco Marega" creationdate="20180203T150228Z">
-        <seg>La via &lt;f1&gt;(Street)&lt;/f1&gt; è memorizzata separatamente in quanto i nomi delle strade in una determinata area spesso di ripetono.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T070342Z" creationid="Marco Marega" creationdate="20180203T150228Z">
+        <seg>La &lt;f1&gt;via&lt;/f1&gt; (Street) è memorizzata separatamente in quanto i nomi delle strade in una determinata area spesso si ripetono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30153,8 +30153,8 @@
       <tuv lang="EN">
         <seg>So compared with the &lt;f2&gt;Address &lt;/f2&gt;&lt;f3&gt;t&lt;/f3&gt;able, the &lt;f4&gt;Postcode&lt;/f4&gt; table contains significantly fewer records and the &lt;f5&gt;Town&lt;/f5&gt; table even fewer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150504Z" creationid="Marco Marega" creationdate="20180203T150504Z">
-        <seg>Quindi se confrontata con la tabella &lt;f2&gt;Address &lt;/f2&gt;, la &lt;f3&gt;tabella&lt;/f3&gt; &lt;f4&gt;Postcode&lt;/f4&gt; contiene molti meno record e la tabella &lt;f5&gt;Town&lt;/f5&gt; ancora di meno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T070612Z" creationid="Marco Marega" creationdate="20180203T150504Z">
+        <seg>aaaaQuindi se confrontata con la tabella &lt;f2&gt;Address &lt;/f2&gt;, la &lt;f3&gt;tabella&lt;/f3&gt; &lt;f4&gt;Postcode&lt;/f4&gt; contiene molti meno record e la tabella &lt;f5&gt;Town&lt;/f5&gt; ancora di meno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31505,8 +31505,8 @@
       <tuv lang="EN">
         <seg>That way, if readers move up a class at the end of each school year, you can simply change the year entry for everyone.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T071911Z" creationid="Marco Marega" creationdate="20180203T150048Z">
-        <seg>aaaaaaaaaaaaaaaaaaaIn questo modo, se un utente avanza di una classe alla fine di ogni anno scolastico, potete semplicemente modificare l'anno inserito per ognuno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T065853Z" creationid="Marco Marega" creationdate="20180203T150048Z">
+        <seg>In questo modo, se gli utenti avanzano di una classe alla fine di ogni anno scolastico, potete semplicemente modificare l'anno inserito per ciascuno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31617,8 +31617,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Address&lt;/f0&gt; is also divided.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T150120Z" creationid="Marco Marega" creationdate="20180203T150120Z">
-        <seg>Anche l'indirizzo &lt;f0&gt;(Address)&lt;/f0&gt; è separato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T065942Z" creationid="Marco Marega" creationdate="20180203T150120Z">
+        <seg>Anche &lt;f0&gt;l'indirizzo&lt;/f0&gt; (Address) è separato.</seg>
       </tuv>
     </tu>
     <tu>
