@@ -10840,8 +10840,8 @@
       <tuv lang="EN">
         <seg>According to the type, the size of the field in characters can also be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151638Z" creationid="Marco Marega" creationdate="20180203T151638Z">
-        <seg>A seconda del tipo, può essere fissata anche la dimensione del campo in caratteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T083204Z" creationid="Marco Marega" creationdate="20180203T151638Z">
+        <seg>A seconda del tipo, è possibile fissare la dimensione del campo in caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16073,8 +16073,8 @@
       <tuv lang="EN">
         <seg>Field Name and Field Type are entered into the upper area of the Table Design window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T152105Z" creationid="Marco Marega" creationdate="20180203T152105Z">
-        <seg>Nome campo e Tipo campo sono inseriti nell'area superiore della finestra Table Design.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T083808Z" creationid="Marco Marega" creationdate="20180203T152105Z">
+        <seg>aaaaaaaaaaaaaaaaNome campo e Tipo campo sono inseriti nell'area superiore della finestra Table Design.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21545,8 +21545,8 @@
       <tuv lang="EN">
         <seg>In addition, a default value can be specified to be used when nothing was entered into the field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151734Z" creationid="Marco Marega" creationdate="20180203T151734Z">
-        <seg>In aggiunta, può essere specificato un valore predefinito da utilizzare quando non viene inserito nulla nel campo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T083436Z" creationid="Marco Marega" creationdate="20180203T151734Z">
+        <seg>In aggiunta, è possibile specificare un valore predefinito da utilizzare quando non viene inserito nulla nel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22153,8 +22153,8 @@
       <tuv lang="EN">
         <seg>In the Base GUI, the terms for a column are described somewhat differently, as shown below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180203T151900Z" creationid="Marco Marega" creationdate="20180203T151900Z">
-        <seg>Nella GUI di Base, i termini che descrivono una colonna sono leggermente diversi di come visualizzati qui sotto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T083701Z" creationid="Marco Marega" creationdate="20180203T151900Z">
+        <seg>Nella GUI di Base, i termini che descrivono una colonna sono leggermente diversi, come mostrato qui sotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23121,8 +23121,8 @@
       <tuv lang="EN">
         <seg>Individual columns are largely defined by the field, the type, and the rules that determine if the field can be empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190614T072137Z" creationid="Marco Marega" creationdate="20180203T151457Z">
-        <seg>aaaaLe singole colonne sono definite principalmente dal campo, dal tipo e dalle regole che determinano se il campo può essere vuoto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T082644Z" creationid="Marco Marega" creationdate="20180203T151457Z">
+        <seg>Le singole colonne sono definite principalmente dal campo, dal tipo e dalle regole che determinano se il campo può essere vuoto.</seg>
       </tuv>
     </tu>
     <tu>
