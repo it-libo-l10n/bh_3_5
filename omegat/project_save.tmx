@@ -14496,8 +14496,8 @@
       <tuv lang="EN">
         <seg>Creation using the graphical user interface</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181012T125141Z" creationid="Marina Latini" creationdate="20171205T162125Z">
-        <seg>Creazione tramite l'interfaccia grafica utente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T093513Z" creationid="Marina Latini" creationdate="20171205T162125Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaCreazione tramite l'interfaccia grafica utente</seg>
       </tuv>
     </tu>
     <tu>
@@ -29241,8 +29241,8 @@
       <tuv lang="EN">
         <seg>SQL default values do &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; appear &lt;/f3&gt;&lt;f4&gt;when editing table properties.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214443Z" creationid="Marco Marega" creationdate="20180204T214443Z">
-        <seg>I valori predefiniti in SQL &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;non&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; compaiono &lt;/f3&gt;&lt;f4&gt;quando di modificano le proprietà della tabella.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T093511Z" creationid="Marco Marega" creationdate="20180204T214443Z">
+        <seg>I valori predefiniti in SQL &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;non&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; compaiono &lt;/f3&gt;&lt;f4&gt;quando si modificano le proprietà della tabella.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
