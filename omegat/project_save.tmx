@@ -7016,8 +7016,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Default values: The term "Default value" in the GUI does not mean what the database user &lt;/f0&gt;&lt;f1&gt;generally understands as a default value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T090134Z" creationid="Marco Marega" creationdate="20180204T214057Z">
-        <seg>aaaa&lt;f0&gt;Valori predefiniti: Il termine "Valore predefinito" della GUI non significa quello che gli utenti del database &lt;/f0&gt;&lt;f1&gt;di solito intendono per valore predefinito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T092704Z" creationid="Marco Marega" creationdate="20180204T214057Z">
+        <seg>&lt;f0&gt;Valori predefiniti: il termine "Valore predefinito" della GUI non significa ciò che gli utenti di database &lt;/f0&gt;&lt;f1&gt;di solito intendono per valore predefinito.</seg>
       </tuv>
     </tu>
     <tu>
