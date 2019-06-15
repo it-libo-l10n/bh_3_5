@@ -38897,8 +38897,8 @@
       <tuv lang="EN">
         <seg>This is possible only by using the appropriate SQL command (see “&lt;bf4&gt;Direct entry of SQL commands&lt;/bf4&gt;” on page &lt;bf5&gt;43&lt;/bf5&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T213928Z" creationid="Marco Marega" creationdate="20180204T213928Z">
-        <seg>Ciò è possibile solo usando il comando SQL appropriato (vedete “&lt;bf4&gt;Inserimento diretto di comandi SQL&lt;/bf4&gt;” a pagina &lt;bf5&gt;43&lt;/bf5&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T084001Z" creationid="Marco Marega" creationdate="20180204T213928Z">
+        <seg>aaaaCiò è possibile solo usando il comando SQL appropriato (vedete “&lt;bf4&gt;Inserimento diretto di comandi SQL&lt;/bf4&gt;” a pagina &lt;bf5&gt;43&lt;/bf5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
