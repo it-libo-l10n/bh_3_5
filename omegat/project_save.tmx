@@ -39737,8 +39737,8 @@
       <tuv lang="EN">
         <seg>This signifies that a necessary field is missing from the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215119Z" creationid="Marco Marega" creationdate="20180204T215055Z">
-        <seg>Questo significa che un campo necessario non è presente nella tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T120533Z" creationid="Marco Marega" creationdate="20180204T215055Z">
+        <seg>Ciò significa che un campo necessario non è presente nella tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41265,8 +41265,8 @@
       <tuv lang="EN">
         <seg>Usually this field is given the abbreviation &lt;f1&gt;ID&lt;/f1&gt; and the data type INTEGER and allowed to run as an AutoValue.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215421Z" creationid="Marco Marega" creationdate="20180204T215421Z">
-        <seg>Di solito a questo campo viene assegnata l'abbreviazione &lt;f1&gt;ID&lt;/f1&gt;, il tipo di dati INTEGER e viene attivato l'incremento di Valore automatico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T120721Z" creationid="Marco Marega" creationdate="20180204T215421Z">
+        <seg>aaaaDi solito a questo campo viene assegnata l'abbreviazione &lt;f1&gt;ID&lt;/f1&gt;, il tipo di dati INTEGER e viene attivato l'incremento di Valore automatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41641,8 +41641,8 @@
       <tuv lang="EN">
         <seg>When a table design is saved, you may be asked if a primary key should be created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T215100Z" creationid="Marco Marega" creationdate="20180204T215021Z">
-        <seg>Quando la struttura di una tabella viene salvata, potrebbe esservi chiesto se è da creare una chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T120359Z" creationid="Marco Marega" creationdate="20180204T215021Z">
+        <seg>Quando la struttura di una tabella viene salvata, potrebbe esservi richiesto se desiderate creare una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
