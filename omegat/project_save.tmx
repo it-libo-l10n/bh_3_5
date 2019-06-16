@@ -41265,8 +41265,8 @@
       <tuv lang="EN">
         <seg>Usually this field is given the abbreviation &lt;f1&gt;ID&lt;/f1&gt; and the data type INTEGER and allowed to run as an AutoValue.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190616T120721Z" creationid="Marco Marega" creationdate="20180204T215421Z">
-        <seg>aaaaDi solito a questo campo viene assegnata l'abbreviazione &lt;f1&gt;ID&lt;/f1&gt;, il tipo di dati INTEGER e viene attivato l'incremento di Valore automatico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T133659Z" creationid="Marco Marega" creationdate="20180204T215421Z">
+        <seg>Di solito a questo campo viene assegnata l'abbreviazione &lt;f1&gt;ID&lt;/f1&gt; e il tipo di dati INTEGER; viene inoltre attivato l'incremento di valore automatico.</seg>
       </tuv>
     </tu>
     <tu>
