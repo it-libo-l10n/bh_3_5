@@ -14496,8 +14496,8 @@
       <tuv lang="EN">
         <seg>Creation using the graphical user interface</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T093513Z" creationid="Marina Latini" creationdate="20171205T162125Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaCreazione tramite l'interfaccia grafica utente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T115613Z" creationid="Marina Latini" creationdate="20171205T162125Z">
+        <seg>Creazione tramite l'interfaccia grafica utente</seg>
       </tuv>
     </tu>
     <tu>
@@ -14912,8 +14912,8 @@
       <tuv lang="EN">
         <seg>Database creation using the graphical user interface is described in detail in Chapter 8,&lt;f0&gt; Getting Started with Base,&lt;/f0&gt; in the &lt;f1&gt;Getting Starte&lt;/f1&gt;&lt;f2&gt;d with LibreOffice&lt;/f2&gt; book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214825Z" creationid="Marco Marega" creationdate="20180204T214825Z">
-        <seg>La creazione di database utilizzando l'interfaccia grafica viene descritta in dettaglio nel Capitolo 8,&lt;f0&gt; Introduzione a Base,&lt;/f0&gt; nella &lt;f1&gt;Guida Introduttiva&lt;/f1&gt;&lt;f2&gt; a LibreOffice&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T115832Z" creationid="Marco Marega" creationdate="20180204T214825Z">
+        <seg>La creazione di database utilizzando l'interfaccia grafica è descritta in dettaglio nel Capitolo 8 &lt;f0&gt;(Introduzione a Base)&lt;/f0&gt;, nella &lt;f1&gt;Guida introduttiva&lt;/f1&gt;&lt;f2&gt; a LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37241,8 +37241,8 @@
       <tuv lang="EN">
         <seg>Therefore only the main sources of error are described here.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180204T214859Z" creationid="Marco Marega" creationdate="20180204T214859Z">
-        <seg>Perciò qui vengono descritte solamente le principali fonti di errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T115834Z" creationid="Marco Marega" creationdate="20180204T214859Z">
+        <seg>aaaaPerciò qui vengono descritte solamente le principali fonti di errore.</seg>
       </tuv>
     </tu>
     <tu>
