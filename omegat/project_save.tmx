@@ -12704,8 +12704,8 @@
       <tuv lang="EN">
         <seg>Basic rules for naming fields in the table: no two fields may have the same name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T090526Z" creationid="Marco Marega" creationdate="20180204T220300Z">
-        <seg>aaaaRegole base per i nomi dei campi in una tabella: due campi non possono avere lo stesso nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T093756Z" creationid="Marco Marega" creationdate="20180204T220300Z">
+        <seg>Una delle regole base per i nomi dei campi in una tabella prevede che due campi non possono avere lo stesso nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37017,8 +37017,8 @@
       <tuv lang="EN">
         <seg>There are limits to the changes you can make in the field type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135002Z" creationid="Marco Marega" creationdate="20180218T135002Z">
-        <seg>Ci sono dei limiti alle modifiche che potete apportare al tipo di campo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T093922Z" creationid="Marco Marega" creationdate="20180218T135002Z">
+        <seg>aaaaaaaaaaaaaaaaCi sono dei limiti alle modifiche che potete apportare al tipo di campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37329,8 +37329,8 @@
       <tuv lang="EN">
         <seg>Therefore you cannot have a second field with the name &lt;f0&gt;ID&lt;/f0&gt; as a foreign key in the Address table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145627Z" creationid="Marco Marega" creationdate="20180218T134933Z">
-        <seg>Quindi nella tabella Adress non potete avere un secondo campo con il nome &lt;f0&gt;ID&lt;/f0&gt; come chiave esterna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T093913Z" creationid="Marco Marega" creationdate="20180218T134933Z">
+        <seg>Quindi nella tabella Address non potete avere un secondo campo con il nome &lt;f0&gt;ID&lt;/f0&gt; come chiave esterna.</seg>
       </tuv>
     </tu>
     <tu>
