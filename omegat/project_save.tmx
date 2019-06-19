@@ -20065,8 +20065,8 @@
       <tuv lang="EN">
         <seg>If information from another table is to be pulled through into this one (for example, an address database with separate post codes and locations), you must include in the table a field of the same data type as the primary key of the other table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T071700Z" creationid="Marco Marega" creationdate="20180204T215821Z">
-        <seg>aaaaSe delle informazioni di un'alta tabella vanno richiamate attraverso questa tabella (ad esempio, un database di indirizzi con codici postali e località separate), dovete inserire nella tabella un campo con lo stesso tipo di dati della chiave primaria dell'altra tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T075434Z" creationid="Marco Marega" creationdate="20180204T215821Z">
+        <seg>Se delle informazioni di un'altra tabella devono essere richiamate attraverso questa tabella (ad esempio, un database di indirizzi con codici postali e località separate), dovete inserire nella tabella un campo con lo stesso tipo di dati della chiave primaria dell'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
