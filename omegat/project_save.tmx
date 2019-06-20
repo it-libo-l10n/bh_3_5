@@ -11792,8 +11792,8 @@
       <tuv lang="EN">
         <seg>An upgrade (longer text field, larger numeric range) is unproblematic as all the values already entered will fit the new type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135139Z" creationid="Marco Marega" creationdate="20180218T135139Z">
-        <seg>Un incremento (un campo di testo più lungo, un tipo numerico più esteso) non è problematico in quanto tutti i valori già inseriti troveranno spazio nel nuovo tipo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T071305Z" creationid="Marco Marega" creationdate="20180218T135139Z">
+        <seg>Un incremento (un campo di testo più lungo, un tipo numerico più esteso) non è problematico, in quanto tutti i valori già inseriti troveranno spazio nel nuovo tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30529,8 +30529,8 @@
       <tuv lang="EN">
         <seg>Sometimes it is useful to index other fields or a combination of other fields in addition to the primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140118Z" creationid="Marco Marega" creationdate="20180218T135347Z">
-        <seg>Alle volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri campi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T071948Z" creationid="Marco Marega" creationdate="20180218T135347Z">
+        <seg>aaaaAlle volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37017,8 +37017,8 @@
       <tuv lang="EN">
         <seg>There are limits to the changes you can make in the field type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T093922Z" creationid="Marco Marega" creationdate="20180218T135002Z">
-        <seg>aaaaaaaaaaaaaaaaCi sono dei limiti alle modifiche che potete apportare al tipo di campo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T070638Z" creationid="Marco Marega" creationdate="20180218T135002Z">
+        <seg>Esistono dei limiti alle modifiche che potete apportare al tipo di campo.</seg>
       </tuv>
     </tu>
     <tu>
