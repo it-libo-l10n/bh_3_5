@@ -11776,8 +11776,8 @@
       <tuv lang="EN">
         <seg>An index speeds up searching and can also be used to prevent duplicate entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135438Z" creationid="Marco Marega" creationdate="20180218T135438Z">
-        <seg>Un indice velocizza le ricerche e può essere usato anche per prevenire l'inserimento di valori duplicati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T072524Z" creationid="Marco Marega" creationdate="20180218T135438Z">
+        <seg>Un indice velocizza la ricerca e può essere usato anche per prevenire l'inserimento di valori duplicati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15488,8 +15488,8 @@
       <tuv lang="EN">
         <seg>Each index has a defined sort order.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135654Z" creationid="Marco Marega" creationdate="20180218T135654Z">
-        <seg>Ogni indice ha un suo ordine ben definito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T072528Z" creationid="Marco Marega" creationdate="20180218T135654Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaOgni indice ha un suo ordine ben definito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30529,8 +30529,8 @@
       <tuv lang="EN">
         <seg>Sometimes it is useful to index other fields or a combination of other fields in addition to the primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190620T071948Z" creationid="Marco Marega" creationdate="20180218T135347Z">
-        <seg>aaaaAlle volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri campi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T072407Z" creationid="Marco Marega" creationdate="20180218T135347Z">
+        <seg>A volte, in aggiunta alla chiave primaria, è utile indicizzare altri campi o una combinazione di altri campi.</seg>
       </tuv>
     </tu>
     <tu>
