@@ -15488,8 +15488,8 @@
       <tuv lang="EN">
         <seg>Each index has a defined sort order.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190620T072528Z" creationid="Marco Marega" creationdate="20180218T135654Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaOgni indice ha un suo ordine ben definito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T070552Z" creationid="Marco Marega" creationdate="20180218T135654Z">
+        <seg>Ogni indice ha un ordinamento definito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16577,16 +16577,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Access to Index Design</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140156Z" creationid="Marco Marega" creationdate="20180218T140107Z">
-        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Accesso alla Struttura indice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T071434Z" creationid="Marco Marega" creationdate="20180218T140107Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: accesso alla Struttura indice</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Creating a new Index</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140334Z" creationid="Marco Marega" creationdate="20180218T140334Z">
-        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Creazione di un nuovo indice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T072257Z" creationid="Marco Marega" creationdate="20180218T140334Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: creazione di un nuovo indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -19921,8 +19921,8 @@
       <tuv lang="EN">
         <seg>If a table is displayed without sorting, the sort order will be according to the content of the fields specified in the index.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T135900Z" creationid="Marco Marega" creationdate="20180218T135900Z">
-        <seg>Se una tabella viene visualizzata senza specificare l'ordinamento, l'ordine corrisponderà a quello del contenuto dei campi specificati nell'indice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T070941Z" creationid="Marco Marega" creationdate="20180218T135900Z">
+        <seg>Se una tabella viene visualizzata senza specificare l'ordinamento, questo corrisponderà al contenuto dei campi specificati nell'indice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26121,8 +26121,8 @@
       <tuv lang="EN">
         <seg>On the Indexes dialog (Figure &lt;t0&gt;9&lt;/t0&gt;), click &lt;f1&gt;New Index&lt;/f1&gt; to create an index in addition to the primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140428Z" creationid="Marco Marega" creationdate="20180218T140428Z">
-        <seg>Nella finestra di dialogo Indici (Figura &lt;t0&gt;9&lt;/t0&gt;), fate clic su &lt;f1&gt;Nuovo indice&lt;/f1&gt; per creare un indice in aggiunta alla chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T072302Z" creationid="Marco Marega" creationdate="20180218T140428Z">
+        <seg>aaaaaaaaaaaaaaaaNella finestra di dialogo Indici (Figura &lt;t0&gt;9&lt;/t0&gt;), fate clic su &lt;f1&gt;Nuovo indice&lt;/f1&gt; per creare un indice in aggiunta alla chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26617,8 +26617,8 @@
       <tuv lang="EN">
         <seg>Open the table for editing by right-clicking and using the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140238Z" creationid="Marco Marega" creationdate="20180218T140238Z">
-        <seg>Aprite la tabella per modificarla facendo clic con il pulsante destro del mouse e usando il menu contestuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T072015Z" creationid="Marco Marega" creationdate="20180218T140238Z">
+        <seg>Aprite la tabella per la modifica facendo clic con il pulsante destro del mouse e scegliendo poi la voce apposita dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36985,8 +36985,8 @@
       <tuv lang="EN">
         <seg>Then you can access index creation with &lt;f0&gt;Tools &gt; Index Design&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140311Z" creationid="Marco Marega" creationdate="20180218T140311Z">
-        <seg>Poi potete accedere alla creazione dell'indice con &lt;f0&gt;Strumenti &gt; Struttura indice&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T072212Z" creationid="Marco Marega" creationdate="20180218T140311Z">
+        <seg>Potete poi accedere alla creazione dell'indice tramite la voce &lt;f0&gt;Strumenti &gt; Struttura indice&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
