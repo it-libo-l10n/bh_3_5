@@ -26121,8 +26121,8 @@
       <tuv lang="EN">
         <seg>On the Indexes dialog (Figure &lt;t0&gt;9&lt;/t0&gt;), click &lt;f1&gt;New Index&lt;/f1&gt; to create an index in addition to the primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190621T072302Z" creationid="Marco Marega" creationdate="20180218T140428Z">
-        <seg>aaaaaaaaaaaaaaaaNella finestra di dialogo Indici (Figura &lt;t0&gt;9&lt;/t0&gt;), fate clic su &lt;f1&gt;Nuovo indice&lt;/f1&gt; per creare un indice in aggiunta alla chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T070817Z" creationid="Marco Marega" creationdate="20180218T140428Z">
+        <seg>Nella finestra di dialogo Indici (&lt;t0&gt;Figura 9&lt;/t0&gt;), fate clic sul pulsante &lt;f1&gt;Nuovo indice&lt;/f1&gt; per creare un indice in aggiunta alla chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31889,8 +31889,8 @@
       <tuv lang="EN">
         <seg>The &lt;f1&gt;Index field&lt;/f1&gt; specifies which field or fields are to be used for this index.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T140631Z" creationid="Marco Marega" creationdate="20180218T140631Z">
-        <seg>Il &lt;f1&gt;Campo indice&lt;/f1&gt; specifica quale campo o quali campi devono essere usati per questo indice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T070938Z" creationid="Marco Marega" creationdate="20180218T140631Z">
+        <seg>aaaaIl &lt;f1&gt;Campo indice&lt;/f1&gt; specifica quale campo o quali campi devono essere usati per questo indice.</seg>
       </tuv>
     </tu>
     <tu>
