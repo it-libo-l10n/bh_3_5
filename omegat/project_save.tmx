@@ -19049,8 +19049,8 @@
       <tuv lang="EN">
         <seg>However in Figure &lt;t0&gt;10&lt;/t0&gt;, the Index detail &lt;f1&gt;Unique&lt;/f1&gt; has been checked, so that the &lt;f2&gt;LastName&lt;/f2&gt; field together with the &lt;f3&gt;FirstName&lt;/f3&gt; field can only have entries that do not already occur in that combination.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190625T080730Z" creationid="Marco Marega" creationdate="20180218T141054Z">
-        <seg>aaaaIn ogni caso nella Figura &lt;t0&gt;10&lt;/t0&gt;, la casella &lt;f1&gt;Univoco&lt;/f1&gt; dell'Indice è stata selezionata, in modo che la combinazione dei campi &lt;f2&gt;LastName (Cognome)&lt;/f2&gt; e &lt;f3&gt;FirstName (Nome)&lt;/f3&gt; possa avere valori che non siano già presenti nella stessa combinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T080828Z" creationid="Marco Marega" creationdate="20180218T141054Z">
+        <seg>aaaaaaaaaaaaaaaaIn ogni caso nella Figura &lt;t0&gt;10&lt;/t0&gt;, la casella &lt;f1&gt;Univoco&lt;/f1&gt; dell'Indice è stata selezionata, in modo che la combinazione dei campi &lt;f2&gt;LastName (Cognome)&lt;/f2&gt; e &lt;f3&gt;FirstName (Nome)&lt;/f3&gt; possa avere valori che non siano già presenti nella stessa combinazione.</seg>
       </tuv>
     </tu>
     <tu>
