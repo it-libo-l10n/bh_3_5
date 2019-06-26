@@ -19049,8 +19049,8 @@
       <tuv lang="EN">
         <seg>However in Figure &lt;t0&gt;10&lt;/t0&gt;, the Index detail &lt;f1&gt;Unique&lt;/f1&gt; has been checked, so that the &lt;f2&gt;LastName&lt;/f2&gt; field together with the &lt;f3&gt;FirstName&lt;/f3&gt; field can only have entries that do not already occur in that combination.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190625T080828Z" creationid="Marco Marega" creationdate="20180218T141054Z">
-        <seg>aaaaaaaaaaaaaaaaIn ogni caso nella Figura &lt;t0&gt;10&lt;/t0&gt;, la casella &lt;f1&gt;Univoco&lt;/f1&gt; dell'Indice è stata selezionata, in modo che la combinazione dei campi &lt;f2&gt;LastName (Cognome)&lt;/f2&gt; e &lt;f3&gt;FirstName (Nome)&lt;/f3&gt; possa avere valori che non siano già presenti nella stessa combinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T075547Z" creationid="Marco Marega" creationdate="20180218T141054Z">
+        <seg>In ogni caso nella &lt;t0&gt;Figura 10&lt;/t0&gt;, la casella &lt;f1&gt;Univoco&lt;/f1&gt;, relativa all'Indice, è stata selezionata, in modo che la combinazione dei campi &lt;f2&gt;LastName&lt;/f2&gt; (Cognome) e &lt;f3&gt;FirstName&lt;/f3&gt; (Nome) possa solamente avere valori che non siano già presenti nella stessa combinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19953,8 +19953,8 @@
       <tuv lang="EN">
         <seg>If an index is created for one field only, the uniqueness applies to that field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141218Z" creationid="Marco Marega" creationdate="20180218T141218Z">
-        <seg>Se un indice viene creato per un solo campo, l'univocità si applica a quel campo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T075938Z" creationid="Marco Marega" creationdate="20180218T141218Z">
+        <seg>aaaaSe un indice viene creato per un solo campo, l'univocità si applica a quel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30321,8 +30321,8 @@
       <tuv lang="EN">
         <seg>So, for example, Robert Müller and Robert Maier are possible, and likewise Robert Müller and Eva Müller.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141132Z" creationid="Marco Marega" creationdate="20180218T141132Z">
-        <seg>Quindi, ad esempio, Robert Müller e Robert Maier sono possibili, così come Robert Müller e Eva Müller.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T075935Z" creationid="Marco Marega" creationdate="20180218T141132Z">
+        <seg>Quindi, ad esempio, Robert Müller e Robert Maier sono possibili, così come Robert Müller ed Eva Müller.</seg>
       </tuv>
     </tu>
     <tu>
