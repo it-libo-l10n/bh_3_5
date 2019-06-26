@@ -19953,8 +19953,8 @@
       <tuv lang="EN">
         <seg>If an index is created for one field only, the uniqueness applies to that field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190626T075938Z" creationid="Marco Marega" creationdate="20180218T141218Z">
-        <seg>aaaaSe un indice viene creato per un solo campo, l'univocità si applica a quel campo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T080751Z" creationid="Marco Marega" creationdate="20180218T141218Z">
+        <seg>Se un indice viene creato per un solo campo, l'univocità si applica a quel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22905,8 +22905,8 @@
       <tuv lang="EN">
         <seg>In this field each value may occur only once.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141342Z" creationid="Marco Marega" creationdate="20180218T141342Z">
-        <seg>In questo campo ogni valore può essere presente solo una volta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T080837Z" creationid="Marco Marega" creationdate="20180218T141342Z">
+        <seg>aaaaIn questo campo ogni valore può essere presente solo una volta.</seg>
       </tuv>
     </tu>
     <tu>
