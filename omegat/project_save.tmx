@@ -10976,8 +10976,8 @@
       <tuv lang="EN">
         <seg>Additionally, in the case of primary keys, the field cannot be NULL under any circumstances.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141726Z" creationid="Marco Marega" creationdate="20180218T141442Z">
-        <seg>In aggiunta, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere vuoto (ZERO).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T081722Z" creationid="Marco Marega" creationdate="20180218T141442Z">
+        <seg>Inoltre, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere NULL (zero).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,8 +11760,8 @@
       <tuv lang="EN">
         <seg>An exceptional circumstance for a unique index is when there is no entry into a field (the field is NULL).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T141739Z" creationid="Marco Marega" creationdate="20180218T141719Z">
-        <seg>Una circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è ZERO).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T081727Z" creationid="Marco Marega" creationdate="20180218T141719Z">
+        <seg>aaaaaaaaaaaaaaaaUna circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è ZERO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22905,8 +22905,8 @@
       <tuv lang="EN">
         <seg>In this field each value may occur only once.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190626T080837Z" creationid="Marco Marega" creationdate="20180218T141342Z">
-        <seg>aaaaIn questo campo ogni valore può essere presente solo una volta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190626T081229Z" creationid="Marco Marega" creationdate="20180218T141342Z">
+        <seg>In questo campo ogni valore può essere presente solo una volta.</seg>
       </tuv>
     </tu>
     <tu>
