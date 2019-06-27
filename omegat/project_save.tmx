@@ -7992,8 +7992,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NULL &lt;/f0&gt;&lt;f1&gt;is used in databases to designate an empty cell, one that contains nothing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142331Z" creationid="Marco Marega" creationdate="20180218T142331Z">
-        <seg>Nei database &lt;f0&gt;ZERO&lt;/f0&gt;&lt;f1&gt; è utilizzato per indicare una cella vuota, che non contiene niente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T074023Z" creationid="Marco Marega" creationdate="20180218T142331Z">
+        <seg>&lt;f0&gt;NULL&lt;/f0&gt;&lt;f1&gt; è utilizzato nei database per indicare una cella vuota, che non contiene niente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25433,8 +25433,8 @@
       <tuv lang="EN">
         <seg>No calculation is possible using a NULL field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142414Z" creationid="Marco Marega" creationdate="20180218T142414Z">
-        <seg>Con un campo a ZERO non è possibile effettuare alcun calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T074025Z" creationid="Marco Marega" creationdate="20180218T142414Z">
+        <seg>aaaaCon un campo a ZERO non è possibile effettuare alcun calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30065,8 +30065,8 @@
       <tuv lang="EN">
         <seg>Since NULL can have any arbitrary value, an index using two fields is always allowed to have the same entry repeatedly in one of the fields as long as there is no entry in the other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190627T070129Z" creationid="Marco Marega" creationdate="20180218T142022Z">
-        <seg>aaaaDato che ZERO potrebbe assumere qualunque valore arbitrario, a un indice che utilizza due campi è sempre permesso di avere dei valori ripetuti in uno dei campi fintanto che non ci sono valori nell'altro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T071552Z" creationid="Marco Marega" creationdate="20180218T142022Z">
+        <seg>Dato che NULL potrebbe assumere qualunque valore arbitrario, a un indice che utilizza due campi è sempre permesso di avere dei valori ripetuti in uno dei campi, fintanto che non ci sono valori nell'altro.</seg>
       </tuv>
     </tu>
     <tu>
