@@ -10976,8 +10976,8 @@
       <tuv lang="EN">
         <seg>Additionally, in the case of primary keys, the field cannot be NULL under any circumstances.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190626T081722Z" creationid="Marco Marega" creationdate="20180218T141442Z">
-        <seg>Inoltre, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere NULL (zero).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T080742Z" creationid="Marco Marega" creationdate="20180218T141442Z">
+        <seg>Inoltre, nel caso delle chiavi primarie, il campo non può, in nessun caso, essere NULL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,8 +11760,8 @@
       <tuv lang="EN">
         <seg>An exceptional circumstance for a unique index is when there is no entry into a field (the field is NULL).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190627T070111Z" creationid="Marco Marega" creationdate="20180218T141719Z">
-        <seg>Una circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è NULL [zero]).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T080751Z" creationid="Marco Marega" creationdate="20180218T141719Z">
+        <seg>Una circostanza eccezionale per un indice univoco si verifica quando non ci sono valori nel campo (il campo è NULL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15832,8 +15832,8 @@
       <tuv lang="EN">
         <seg>Example: In a media database, the media number and the loan date are entered when the item is loaned out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142647Z" creationid="Marco Marega" creationdate="20180218T142647Z">
-        <seg>Esempio: In un database di supporti, il numero del supporto e la data del prestito vengono inserite quando l'articolo viene preso in prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T081142Z" creationid="Marco Marega" creationdate="20180218T142647Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaEsempio: In un database di supporti, il numero del supporto e la data del prestito vengono inserite quando l'articolo viene preso in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25433,8 +25433,8 @@
       <tuv lang="EN">
         <seg>No calculation is possible using a NULL field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190627T074025Z" creationid="Marco Marega" creationdate="20180218T142414Z">
-        <seg>aaaaCon un campo a ZERO non è possibile effettuare alcun calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T080718Z" creationid="Marco Marega" creationdate="20180218T142414Z">
+        <seg>Con un campo impostato a NULL non è possibile effettuare alcun calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38185,8 +38185,8 @@
       <tuv lang="EN">
         <seg>This contrasts with spreadsheets, in which empty fields automatically contain the value 0 (zero)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142532Z" creationid="Marco Marega" creationdate="20180218T142532Z">
-        <seg>Questo differisce dai fogli elettronici, nei quali le celle vuote automaticamente contengono il valore 0 (zero)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190627T081140Z" creationid="Marco Marega" creationdate="20180218T142532Z">
+        <seg>In questo i database differiscono dai fogli elettronici, nei quali le celle vuote contengono automaticamente il valore 0 (zero)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
