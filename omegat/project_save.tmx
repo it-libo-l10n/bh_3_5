@@ -22785,8 +22785,8 @@
       <tuv lang="EN">
         <seg>In theory, an index using the fields Media_ID and ReturnDate could easily prevent the same item from being loaned out repeatedly without the return date being noted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190628T073546Z" creationid="Marco Marega" creationdate="20180218T142916Z">
-        <seg>aaaaIn teoria, un indice che usa i campi Media_ID e ReturnDate potrebbe facilmente prevenire che lo stesso articolo venga dato in prestito ripetutamente senza che prima sia annotata la data del reso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190628T075125Z" creationid="Marco Marega" creationdate="20180218T142916Z">
+        <seg>In teoria, un indice che usa i campi Media_ID e ReturnDate potrebbe facilmente evitare che lo stesso articolo venga dato in prestito ripetutamente senza che prima sia annotata la data del reso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24529,8 +24529,8 @@
       <tuv lang="EN">
         <seg>Limitations of graphical table design</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143320Z" creationid="Marco Marega" creationdate="20180218T143320Z">
-        <seg>Limitazioni della progettazione della tabella in modalità grafica</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190628T075559Z" creationid="Marco Marega" creationdate="20180218T143320Z">
+        <seg>Limitazioni della progettazione di una tabella in modalità grafica</seg>
       </tuv>
     </tu>
     <tu>
@@ -36057,8 +36057,8 @@
       <tuv lang="EN">
         <seg>The sequence of fields in a table cannot be changed after the database has been saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143356Z" creationid="Marco Marega" creationdate="20180218T143356Z">
-        <seg>La sequenza dei campi in una tabella non può essere modificata dopo che il database è stato salvato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190628T075602Z" creationid="Marco Marega" creationdate="20180218T143356Z">
+        <seg>aaaaaaaaaaaaaaaaaaLa sequenza dei campi in una tabella non può essere modificata dopo che il database è stato salvato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40833,8 +40833,8 @@
       <tuv lang="EN">
         <seg>Unfortunately this will not work because the return date initially has no value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143013Z" creationid="Marco Marega" creationdate="20180218T143013Z">
-        <seg>Sfortunatamente ciò non funziona poichè la data di reso inizialmente non ha un valore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190628T075240Z" creationid="Marco Marega" creationdate="20180218T143013Z">
+        <seg>Sfortunatamente ciò non funziona poiché la data di reso inizialmente non ha un valore.</seg>
       </tuv>
     </tu>
     <tu>
