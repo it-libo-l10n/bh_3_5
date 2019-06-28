@@ -15832,8 +15832,8 @@
       <tuv lang="EN">
         <seg>Example: In a media database, the media number and the loan date are entered when the item is loaned out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190627T081142Z" creationid="Marco Marega" creationdate="20180218T142647Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaEsempio: In un database di supporti, il numero del supporto e la data del prestito vengono inserite quando l'articolo viene preso in prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190628T071919Z" creationid="Marco Marega" creationdate="20180218T142647Z">
+        <seg>Esempio: in un database di supporti, il numero del supporto e la data del prestito vengono inserite quando l'articolo viene preso in prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41793,8 +41793,8 @@
       <tuv lang="EN">
         <seg>When the item is returned, a return date is entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T142716Z" creationid="Marco Marega" creationdate="20180218T142716Z">
-        <seg>Quando l'articolo viene restituito, viene inserita la data del reso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190628T071921Z" creationid="Marco Marega" creationdate="20180218T142716Z">
+        <seg>aaaaQuando l'articolo viene restituito, viene inserita la data del reso.</seg>
       </tuv>
     </tu>
     <tu>
