@@ -19241,7 +19241,7 @@
       <tuv lang="EN">
         <seg>However, fields already created cannot be moved by this method either.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143635Z" creationid="Marco Marega" creationdate="20180218T143635Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T070221Z" creationid="Marco Marega" creationdate="20180218T143635Z">
         <seg>In ogni caso, i campi già creati non possono essere spostati nemmeno con questo metodo.</seg>
       </tuv>
     </tu>
@@ -26433,8 +26433,8 @@
       <tuv lang="EN">
         <seg>Only the entry of direct SQL commands can insert a field into a specific position in the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190701T063122Z" creationid="Marco Marega" creationdate="20180218T143536Z">
-        <seg>aaaaSolamente l'inserimento diretto di comandi SQL permette di inserire un campo in una specifica posizione all'interno della tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T070004Z" creationid="Marco Marega" creationdate="20180218T143536Z">
+        <seg>Solamente l'inserimento diretto di comandi SQL permette di inserire un campo in una specifica posizione all'interno della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35609,8 +35609,8 @@
       <tuv lang="EN">
         <seg>The properties of the tables must be set at the beginning: for example which fields must not be NULL and which must contain a standard value (Default).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143759Z" creationid="Marco Marega" creationdate="20180218T143759Z">
-        <seg>Le proprietà delle tabelle devono essere impostate all'inizio: ad esempio quali campi non possono essere a ZERO e quali devono contenere un valore predefinito (Default).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T070223Z" creationid="Marco Marega" creationdate="20180218T143759Z">
+        <seg>aaaaLe proprietà delle tabelle devono essere impostate all'inizio: ad esempio quali campi non possono essere a ZERO e quali devono contenere un valore predefinito (Default).</seg>
       </tuv>
     </tu>
     <tu>
