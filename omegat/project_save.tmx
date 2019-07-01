@@ -31385,8 +31385,8 @@
       <tuv lang="EN">
         <seg>That is only possible with directly entered SQL commands.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144147Z" creationid="Marco Marega" creationdate="20180218T144147Z">
-        <seg>Ciò è possibile solo con comandi SQL inseriti direttamente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T094919Z" creationid="Marco Marega" creationdate="20180218T144147Z">
+        <seg>aaaaaaaaaaaaaaaaCiò è possibile solo con comandi SQL inseriti direttamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33377,8 +33377,8 @@
       <tuv lang="EN">
         <seg>The default values set here have nothing to do with the default values within the database itself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143926Z" creationid="Marco Marega" creationdate="20180218T143926Z">
-        <seg>I valori predefiniti impostati qui non hanno nulla a che fare con i valori predefiniti all'interno del database in se.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T094344Z" creationid="Marco Marega" creationdate="20180218T143926Z">
+        <seg>I valori predefiniti impostati qui non hanno nulla a che fare con i valori predefiniti all'interno del database in sé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37521,8 +37521,8 @@
       <tuv lang="EN">
         <seg>These properties cannot subsequently be changed using the GUI.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190701T075154Z" creationid="Marco Marega" creationdate="20180218T143829Z">
-        <seg>aaaaConseguentemente queste proprietà non possono essere modificate usando la GUI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T094236Z" creationid="Marco Marega" creationdate="20180218T143829Z">
+        <seg>Conseguentemente queste proprietà non possono essere modificate usando la GUI.</seg>
       </tuv>
     </tu>
     <tu>
