@@ -35609,8 +35609,8 @@
       <tuv lang="EN">
         <seg>The properties of the tables must be set at the beginning: for example which fields must not be NULL and which must contain a standard value (Default).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190701T070223Z" creationid="Marco Marega" creationdate="20180218T143759Z">
-        <seg>aaaaLe proprietà delle tabelle devono essere impostate all'inizio: ad esempio quali campi non possono essere a ZERO e quali devono contenere un valore predefinito (Default).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T075152Z" creationid="Marco Marega" creationdate="20180218T143759Z">
+        <seg>Le proprietà delle tabelle devono essere impostate all'inizio: ad esempio quali campi non possono essere NULL e quali devono contenere un valore predefinito (Default).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37521,8 +37521,8 @@
       <tuv lang="EN">
         <seg>These properties cannot subsequently be changed using the GUI.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T143829Z" creationid="Marco Marega" creationdate="20180218T143829Z">
-        <seg>Conseguentemente queste proprietà non possono essere modificate usando la GUI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190701T075154Z" creationid="Marco Marega" creationdate="20180218T143829Z">
+        <seg>aaaaConseguentemente queste proprietà non possono essere modificate usando la GUI.</seg>
       </tuv>
     </tu>
     <tu>
