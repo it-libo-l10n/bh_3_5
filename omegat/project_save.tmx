@@ -10496,8 +10496,8 @@
       <tuv lang="EN">
         <seg>A summary of the possible commands for the built-in HSQLDB engine can be found at &lt;a0&gt;http://www.hsqldb.org/doc/1.8/guide/ch09.html&lt;/a0&gt;&lt;f1&gt;.&lt;/f1&gt; The contents are described in the following sections.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T145214Z" creationid="Marco Marega" creationdate="20180218T145214Z">
-        <seg>Un riepilogo dei possibili comandi accettati dal motore di database integrato HSQLDB si può trovare all'indirizzo &lt;a0&gt;http://www.hsqldb.org/doc/1.8/guide/ch09.html&lt;/a0&gt;&lt;f1&gt;.&lt;/f1&gt; I contenuti sono descritti nelle sezioni che seguono.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T101811Z" creationid="Marco Marega" creationdate="20180218T145214Z">
+        <seg>aaaaaaaaaaaaaaaaaaUn riepilogo dei possibili comandi accettati dal motore di database integrato HSQLDB si può trovare all'indirizzo &lt;a0&gt;http://www.hsqldb.org/doc/1.8/guide/ch09.html&lt;/a0&gt;&lt;f1&gt;.&lt;/f1&gt; I contenuti sono descritti nelle sezioni che seguono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16169,8 +16169,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Dialog for direct entry of SQL commands</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144954Z" creationid="Marco Marega" creationdate="20180218T144954Z">
-        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Finestra di dialogo per l'inserimento diretto di comandi SQL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T101808Z" creationid="Marco Marega" creationdate="20180218T144954Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: finestra di dialogo per l'inserimento diretto di comandi SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -17449,8 +17449,8 @@
       <tuv lang="EN">
         <seg>For these, the Query Design window offers an extra possibility of editing the query in SQL Mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144924Z" creationid="Marco Marega" creationdate="20180218T144924Z">
-        <seg>Per queste, la finestra Query Design offre la possibilità aggiuntiva di modificare la ricerca in vista SQL.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T101504Z" creationid="Marco Marega" creationdate="20180218T144924Z">
+        <seg>Per fare ciò, la finestra Query Design offre la possibilità aggiuntiva di modificare la query in modalità SQL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27225,8 +27225,8 @@
       <tuv lang="EN">
         <seg>Queries cannot be created here.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150337Z" creationid="Marco Marega" creationdate="20180218T144636Z">
-        <seg>Le Query non possono essere create da qui.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T100259Z" creationid="Marco Marega" creationdate="20180218T144636Z">
+        <seg>Le query non possono essere create da questa finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34849,8 +34849,8 @@
       <tuv lang="EN">
         <seg>The lower area shows the result or, if appropriate, the reason why the command failed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144620Z" creationid="Marco Marega" creationdate="20180218T144620Z">
-        <seg>L'area inferiore visualizza il risultato, o, se del caso, il motivo per cui il comando ha fallito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T095631Z" creationid="Marco Marega" creationdate="20180218T144620Z">
+        <seg>L'area inferiore mostra il risultato, oppure, se del caso, il motivo per cui il comando ha fallito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42489,8 +42489,8 @@
       <tuv lang="EN">
         <seg>You can then enter commands into the upper area of the window (shown in Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190702T092439Z" creationid="Marco Marega" creationdate="20180218T144519Z">
-        <seg>aaaaPoi potete inserire i comandi nell'area superiore della finestra (mostrata nella Figura &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T094657Z" creationid="Marco Marega" creationdate="20180218T144519Z">
+        <seg>Potete poi inserire i comandi nell'area superiore della finestra (mostrata nella &lt;t0&gt;Figura 11&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
