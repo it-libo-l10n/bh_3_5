@@ -31385,8 +31385,8 @@
       <tuv lang="EN">
         <seg>That is only possible with directly entered SQL commands.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190701T101358Z" creationid="Marco Marega" creationdate="20180218T144147Z">
-        <seg>aaaaaaaaaaaaaaaCiò è possibile solo con comandi SQL inseriti direttamente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T092032Z" creationid="Marco Marega" creationdate="20180218T144147Z">
+        <seg>Ciò è possibile solo con comandi SQL inseriti direttamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40225,8 +40225,8 @@
       <tuv lang="EN">
         <seg>To enter SQL commands directly, go to &lt;f0&gt;Tools &gt; &lt;/f0&gt;&lt;f1&gt;SQL&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144222Z" creationid="Marco Marega" creationdate="20180218T144222Z">
-        <seg>Per inserire direttamente dei comandi SQL, andate in &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;SQL&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T092437Z" creationid="Marco Marega" creationdate="20180218T144222Z">
+        <seg>Per inserire direttamente dei comandi SQL, scegliete la voce &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;SQL&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42489,8 +42489,8 @@
       <tuv lang="EN">
         <seg>You can then enter commands into the upper area of the window (shown in Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180218T144519Z" creationid="Marco Marega" creationdate="20180218T144519Z">
-        <seg>Poi potete inserire i comandi nell'area superiore della finestra (mostrata nella Figura &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190702T092439Z" creationid="Marco Marega" creationdate="20180218T144519Z">
+        <seg>aaaaPoi potete inserire i comandi nell'area superiore della finestra (mostrata nella Figura &lt;t0&gt;11&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
