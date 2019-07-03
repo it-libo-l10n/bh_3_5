@@ -10408,8 +10408,8 @@
       <tuv lang="EN">
         <seg>A simple command to create a usable table is:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203952Z" creationid="Marco Marega" creationdate="20180219T203952Z">
-        <seg>Un semplice comando per creare una tabella utilizzabile è:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190703T102641Z" creationid="Marco Marega" creationdate="20180219T203952Z">
+        <seg>aaaaaaaaaaaaaaaaaaaUn semplice comando per creare una tabella utilizzabile è:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33089,8 +33089,8 @@
       <tuv lang="EN">
         <seg>The currently available server version is 2.2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T203731Z" creationid="Marco Marega" creationdate="20180219T203731Z">
-        <seg>La versione attualmente disponibile del server è la 2.2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190703T102102Z" creationid="Marco Marega" creationdate="20180219T203731Z">
+        <seg>La versione server attualmente disponibile è la 2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41945,8 +41945,8 @@
       <tuv lang="EN">
         <seg>Where necessary, these are dealt with in the section “Working with external HSQLDB” in the Appendix to this handbook.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190703T091621Z" creationid="Marco Marega" creationdate="20180218T145529Z">
-        <seg>aaaaSe necessario, questi sono trattati nella sezione “Lavorare con database HSQLDB esterni” nell'Appendice di questo manuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190703T101857Z" creationid="Marco Marega" creationdate="20180218T145529Z">
+        <seg>Se necessario, questi sono trattati nella sezione “Lavorare con database HSQLDB esterni”, nell'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
