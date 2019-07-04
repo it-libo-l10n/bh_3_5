@@ -10408,8 +10408,8 @@
       <tuv lang="EN">
         <seg>A simple command to create a usable table is:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190703T102641Z" creationid="Marco Marega" creationdate="20180219T203952Z">
-        <seg>aaaaaaaaaaaaaaaaaaaUn semplice comando per creare una tabella utilizzabile è:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T090556Z" creationid="Marco Marega" creationdate="20180219T203952Z">
+        <seg>Un semplice comando per creare una tabella utilizzabile è:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13376,8 +13376,8 @@
       <tuv lang="EN">
         <seg>CREATE TABLE "Test" ("ID" INT PRIMARY KEY, "Text" VARCHAR(50));</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204052Z" creationid="Marco Marega" creationdate="20180219T204052Z">
-        <seg>CREATE TABLE "Prova" ("ID" INT PRIMARY KEY, "Testo" VARCHAR(50));</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T090558Z" creationid="Marco Marega" creationdate="20180219T204052Z">
+        <seg>aaaaCREATE TABLE "Prova" ("ID" INT PRIMARY KEY, "Testo" VARCHAR(50));</seg>
       </tuv>
     </tu>
     <tu>
