@@ -6800,8 +6800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CREATE TABLE "Test"&lt;/f0&gt;: Create a table with the name "Test".&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204132Z" creationid="Marco Marega" creationdate="20180219T204132Z">
-        <seg>&lt;f0&gt;CREATE TABLE "Prova"&lt;/f0&gt;: Crea una tabella con il nome "Prova".&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T094709Z" creationid="Marco Marega" creationdate="20180219T204132Z">
+        <seg>&lt;f0&gt;CREATE TABLE "Prova"&lt;/f0&gt;: crea una tabella con il nome "Prova".&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9608,8 +9608,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;( )&lt;/f2&gt;: with the specified field names, field types and options.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204233Z" creationid="Marco Marega" creationdate="20180219T204233Z">
-        <seg>&lt;f2&gt;( )&lt;/f2&gt;: con i nomi, i tipi e le opzioni dei campi specificati.&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T094711Z" creationid="Marco Marega" creationdate="20180219T204233Z">
+        <seg>aaaa&lt;f2&gt;( )&lt;/f2&gt;: con i nomi, i tipi e le opzioni dei campi specificati.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13376,8 +13376,8 @@
       <tuv lang="EN">
         <seg>CREATE TABLE "Test" ("ID" INT PRIMARY KEY, "Text" VARCHAR(50));</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190704T090558Z" creationid="Marco Marega" creationdate="20180219T204052Z">
-        <seg>aaaaCREATE TABLE "Prova" ("ID" INT PRIMARY KEY, "Testo" VARCHAR(50));</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T094237Z" creationid="Marco Marega" creationdate="20180219T204052Z">
+        <seg>CREATE TABLE "Prova" ("ID" INT PRIMARY KEY, "Testo" VARCHAR(50));</seg>
       </tuv>
     </tu>
     <tu>
