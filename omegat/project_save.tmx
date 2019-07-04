@@ -9608,8 +9608,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;( )&lt;/f2&gt;: with the specified field names, field types and options.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190704T094711Z" creationid="Marco Marega" creationdate="20180219T204233Z">
-        <seg>aaaa&lt;f2&gt;( )&lt;/f2&gt;: con i nomi, i tipi e le opzioni dei campi specificati.&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T101544Z" creationid="Marco Marega" creationdate="20180219T204233Z">
+        <seg>&lt;f2&gt;( )&lt;/f2&gt;: con i nomi dei campi, i tipi di campi e le opzioni specificati.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9728,8 +9728,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;"ID" INT PRIMARY KEY, "Text" VARCHAR(50)&lt;/f4&gt;: Field name "ID" with the numeric type integer as the primary key, field name "Text" with the text type variable text length and the text size limited to 50 characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204533Z" creationid="Marco Marega" creationdate="20180219T204533Z">
-        <seg>&lt;f4&gt;"ID" INT PRIMARY KEY, "Testo" VARCHAR(50)&lt;/f4&gt;: un campo di nome "ID" di tipo numerico intero come chiave primaria, un campo di nome "Testo" di tipo testo con una lunghezza variabile, limitata a 50 caratteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T102127Z" creationid="Marco Marega" creationdate="20180219T204533Z">
+        <seg>&lt;f4&gt;"ID" INT PRIMARY KEY, "Testo" VARCHAR(50)&lt;/f4&gt;: un campo di nome "ID" di tipo numerico intero come chiave primaria, un campo di nome "Testo" di tipo testo con lunghezza variabile, limitata a 50 caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33361,8 +33361,8 @@
       <tuv lang="EN">
         <seg>The default setting is &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB creates all tables in core memory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T204847Z" creationid="Marco Marega" creationdate="20180219T204847Z">
-        <seg>L'impostazione predefinita è &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB crea tutte le tabelle in memoria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190704T102435Z" creationid="Marco Marega" creationdate="20180219T204847Z">
+        <seg>aaaaaaaaaaaaaaaaaaaL'impostazione predefinita è &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB crea tutte le tabelle in memoria.</seg>
       </tuv>
     </tu>
     <tu>
