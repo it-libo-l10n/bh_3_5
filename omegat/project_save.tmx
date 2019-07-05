@@ -11832,8 +11832,8 @@
       <tuv lang="EN">
         <seg>Another possibility would be to write the tables to the hard drive and use memory only to buffer access to the hard drive (&lt;f1&gt;CACHED&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205216Z" creationid="Marco Marega" creationdate="20180219T205216Z">
-        <seg>Un'altra possibilità sarebbe quella di scrivere le tabelle sul disco fisso e usare la memoria solo per accedere ai dati sul disco fisso (&lt;f1&gt;CACHED&lt;/f1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T070429Z" creationid="Marco Marega" creationdate="20180219T205216Z">
+        <seg>Un'altra possibilità sarebbe quella di scrivere le tabelle sul disco fisso e usare la memoria solo per bufferizzare l'accesso al disco fisso (&lt;f1&gt;CACHED&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31113,8 +31113,8 @@
       <tuv lang="EN">
         <seg>Tables in &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;format (such as CSV) are not writable in internal databases that are set up purely in &lt;f5&gt;MEMORY&lt;/f5&gt;, while Base cannot access &lt;f6&gt;TEMPORARY&lt;/f6&gt; or &lt;f7&gt;TEMP&lt;/f7&gt; tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205902Z" creationid="Marco Marega" creationdate="20180219T205902Z">
-        <seg>Le tabelle in formato &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt; (come quelle in CSV) non sono scrivibili nei database interni, che sono create puramente in &lt;f5&gt;MEMORY&lt;/f5&gt;, mentre Base non può accedere a tabelle di tipo &lt;f6&gt;TEMPORARY&lt;/f6&gt; o &lt;f7&gt;TEMP&lt;/f7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T071154Z" creationid="Marco Marega" creationdate="20180219T205902Z">
+        <seg>Le tabelle in formato &lt;f2&gt;TEXT&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;(come quelle in CSV) non sono scrivibili nei database interni, che sono creati puramente in &lt;f5&gt;MEMORY&lt;/f5&gt;, mentre Base non può accedere a tabelle di tipo &lt;f6&gt;TEMPORARY&lt;/f6&gt; o &lt;f7&gt;TEMP&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32345,8 +32345,8 @@
       <tuv lang="EN">
         <seg>The SQL commands are carried out in this case but the tables are not displayed (and therefore cannot be deleted) using the GUI, and data entered via SQL is likewise not visible to the query module of the GUI, unless the automatic deletion of the contents after the final commit is prevented.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150505Z" creationid="Marco Marega" creationdate="20180219T210419Z">
-        <seg>In questo caso i comandi SQL vengono eseguiti, ma, usando la GUI, le tabelle non vengono visualizzata (e quindi non possono essere cancellate), allo stesso modo i dati inseriti mediante SQL non sono visibili nel modulo query della GUI, a meno che non sia disabilitata la cancellazione automatica dei contenuti dopo l'ultimo comando.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T071156Z" creationid="Marco Marega" creationdate="20180219T210419Z">
+        <seg>aaaaIn questo caso i comandi SQL vengono eseguiti, ma, usando la GUI, le tabelle non vengono visualizzata (e quindi non possono essere cancellate), allo stesso modo i dati inseriti mediante SQL non sono visibili nel modulo query della GUI, a meno che non sia disabilitata la cancellazione automatica dei contenuti dopo l'ultimo comando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33361,8 +33361,8 @@
       <tuv lang="EN">
         <seg>The default setting is &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB creates all tables in core memory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190704T102435Z" creationid="Marco Marega" creationdate="20180219T204847Z">
-        <seg>aaaaaaaaaaaaaaaaaaaL'impostazione predefinita è &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB crea tutte le tabelle in memoria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T065116Z" creationid="Marco Marega" creationdate="20180219T204847Z">
+        <seg>L'impostazione predefinita è &lt;f0&gt;MEMORY&lt;/f0&gt;: HSQLDB crea tutte le tabelle in memoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39689,8 +39689,8 @@
       <tuv lang="EN">
         <seg>This setting also applies to the tables that are written into the embedded database by LibreOffice Base.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T205015Z" creationid="Marco Marega" creationdate="20180219T205015Z">
-        <seg>Questa impostazione si applica alle tabelle che vengono scritte nel database incorporato di LibreOffice Base.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T065235Z" creationid="Marco Marega" creationdate="20180219T205015Z">
+        <seg>Questa impostazione si applica anche alle tabelle che vengono scritte nel database incorporato di LibreOffice Base.</seg>
       </tuv>
     </tu>
     <tu>
