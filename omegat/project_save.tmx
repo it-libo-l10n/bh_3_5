@@ -35233,8 +35233,8 @@
       <tuv lang="EN">
         <seg>The only SQL function allowed is&lt;f1&gt; CURRENT_USER&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211104Z" creationid="Marco Marega" creationdate="20180219T211104Z">
-        <seg>L'unica funzione SQL permessa è &lt;f1&gt; CURRENT_USER&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190706T093908Z" creationid="Marco Marega" creationdate="20180219T211104Z">
+        <seg>aaaaaaaaaaaaaaaaaL'unica funzione SQL permessa è &lt;f1&gt; CURRENT_USER&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
