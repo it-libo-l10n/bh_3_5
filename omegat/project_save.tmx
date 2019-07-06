@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31089,8 +31089,8 @@
       <tuv lang="EN">
         <seg>Tables built directly with SQL are not immediately displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190705T073941Z" creationid="Marco Marega" creationdate="20180219T210638Z">
-        <seg>aaaaaaaaaaaaaaaaLe tabelle create direttamente con SQL non vengono visualizzate immediatamente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190706T084814Z" creationid="Marco Marega" creationdate="20180219T210638Z">
+        <seg>Le tabelle create direttamente con SQL non vengono visualizzate immediatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42585,8 +42585,8 @@
       <tuv lang="EN">
         <seg>You must either use &lt;f0&gt;View &gt; &lt;/f0&gt;&lt;f1&gt;Refresh Tables&lt;/f1&gt; or simply close the database and then reopen it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T210737Z" creationid="Marco Marega" creationdate="20180219T210737Z">
-        <seg>Dovete indifferentemente usare &lt;f0&gt;Visualizza &gt; &lt;/f0&gt;&lt;f1&gt;Ricarica tabelle&lt;/f1&gt; o semplicemente chiudere e riaprire il database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190706T084816Z" creationid="Marco Marega" creationdate="20180219T210737Z">
+        <seg>aaaaDovete indifferentemente usare &lt;f0&gt;Visualizza &gt; &lt;/f0&gt;&lt;f1&gt;Ricarica tabelle&lt;/f1&gt; o semplicemente chiudere e riaprire il database.</seg>
       </tuv>
     </tu>
     <tu>
