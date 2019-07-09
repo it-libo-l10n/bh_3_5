@@ -6808,8 +6808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211759Z" creationid="Marco Marega" creationdate="20180219T211759Z">
-        <seg>&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T081914Z" creationid="Marco Marega" creationdate="20180219T211759Z">
+        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42593,8 +42593,8 @@
       <tuv lang="EN">
         <seg>You must ensure that the date follows the American conventions (yyyy-mm-dd), that time has the format hh:mm:ss, and that a combined date/time value has the format yyyy-mm-dd hh:mm:ss.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190709T080452Z" creationid="Marco Marega" creationdate="20180219T211733Z">
-        <seg>aaaaDovete assicurarvi che le date seguano le convenzioni Americane (yyyy-mm-dd), che gli orari abbiano il formato hh:mm:ss, e che le combinazioni dei valori di date e orari abbiano il formato yyyy-mm-dd hh:mm:ss.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T081800Z" creationid="Marco Marega" creationdate="20180219T211733Z">
+        <seg>Dovete assicurarvi che le date seguano le convenzioni Americane (yyyy-mm-dd), che gli orari abbiano il formato hh:mm:ss, e che i valori combinati di date e orari abbiano il formato yyyy-mm-dd hh:mm:ss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43009,8 +43009,8 @@
       <tuv lang="EN">
         <seg>for the current date</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211758Z" creationid="Marco Marega" creationdate="20180219T211758Z">
-        <seg>per la data attuale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T081910Z" creationid="Marco Marega" creationdate="20180219T211758Z">
+        <seg>per la data corrente</seg>
       </tuv>
     </tu>
     <tu>
