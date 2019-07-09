@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16977,8 +16977,8 @@
       <tuv lang="EN">
         <seg>For date and time fields, a date, a time, or a combination of the two can be entered in single quotes or else &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212753Z" creationid="Marco Marega" creationdate="20180219T211608Z">
-        <seg>Per i campi data e orario, possono essere inserite tra virgolette singole: date, orari, o combinazioni dei due, o altrimenti &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T071843Z" creationid="Marco Marega" creationdate="20180219T211608Z">
+        <seg>aaaaPer i campi data e orario, possono essere inserite tra virgolette singole: date, orari, o combinazioni dei due, o altrimenti &lt;f0&gt;NULL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35233,8 +35233,8 @@
       <tuv lang="EN">
         <seg>The only SQL function allowed is&lt;f1&gt; CURRENT_USER&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190706T093908Z" creationid="Marco Marega" creationdate="20180219T211104Z">
-        <seg>aaaaaaaaaaaaaaaaaL'unica funzione SQL permessa è &lt;f1&gt; CURRENT_USER&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T071625Z" creationid="Marco Marega" creationdate="20180219T211104Z">
+        <seg>L'unica funzione SQL permessa è &lt;f1&gt;CURRENT_USER&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39377,8 +39377,8 @@
       <tuv lang="EN">
         <seg>This only makes sense if HSQLDB is being used as an external Server database with several users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211148Z" creationid="Marco Marega" creationdate="20180219T211148Z">
-        <seg>Questo a senso solo se HSQLDB viene usato come server esterno di database con più utenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T071841Z" creationid="Marco Marega" creationdate="20180219T211148Z">
+        <seg>Ciò ha senso solo se HSQLDB viene usato come server di database esterno con più utenti.</seg>
       </tuv>
     </tu>
     <tu>
