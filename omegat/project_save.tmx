@@ -6808,8 +6808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190709T081914Z" creationid="Marco Marega" creationdate="20180219T211759Z">
-        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T090716Z" creationid="Marco Marega" creationdate="20180219T211759Z">
+        <seg>&lt;f0&gt;CURRENT_DATE, TODAY, CURDATE()&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16929,8 +16929,8 @@
       <tuv lang="EN">
         <seg>For boolean Fields (yes/no) the expressions &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt; can be entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212800Z" creationid="Marco Marega" creationdate="20180219T212052Z">
-        <seg>Per i campi di tipo Booleano (si/no) possono essere inserite le espressioni &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T092158Z" creationid="Marco Marega" creationdate="20180219T212052Z">
+        <seg>Per i campi di tipo Booleano (si/no) è possibile inserire le espressioni &lt;f0&gt;FALSE, TRUE, NULL&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37505,8 +37505,8 @@
       <tuv lang="EN">
         <seg>These must be entered without single quotes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212126Z" creationid="Marco Marega" creationdate="20180219T212126Z">
-        <seg>Queste devono essere inserite senza virgolette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T092201Z" creationid="Marco Marega" creationdate="20180219T212126Z">
+        <seg>aaaaaaaaaaaaaaaaaaaQueste devono essere inserite senza virgolette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43001,8 +43001,8 @@
       <tuv lang="EN">
         <seg>for the current data time stamp</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T211945Z" creationid="Marco Marega" creationdate="20180219T211854Z">
-        <seg>per la marcatura temporale con l'orario corrente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T091214Z" creationid="Marco Marega" creationdate="20180219T211854Z">
+        <seg>per la marcatura con data e orario corrente</seg>
       </tuv>
     </tu>
     <tu>
