@@ -17241,8 +17241,8 @@
       <tuv lang="EN">
         <seg>For numeric fields, any valid number in the range, or NULL is possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T212806Z" creationid="Marco Marega" creationdate="20180219T212232Z">
-        <seg>Per i campi numerici è ammesso qualsiasi numero nell'intervallo, oppure NULL.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190711T090808Z" creationid="Marco Marega" creationdate="20180219T212232Z">
+        <seg>aaaaPer i campi numerici è ammesso qualsiasi numero nell'intervallo, oppure NULL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37505,8 +37505,8 @@
       <tuv lang="EN">
         <seg>These must be entered without single quotes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190710T092201Z" creationid="Marco Marega" creationdate="20180219T212126Z">
-        <seg>aaaaaaaaaaaaaaaaaaaQueste devono essere inserite senza virgolette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190711T090806Z" creationid="Marco Marega" creationdate="20180219T212126Z">
+        <seg>Queste devono essere inserite senza virgolette singole.</seg>
       </tuv>
     </tu>
     <tu>
