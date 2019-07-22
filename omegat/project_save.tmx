@@ -10280,8 +10280,8 @@
       <tuv lang="EN">
         <seg>A mixed system &lt;s1/&gt;consisting of the numbers 0 to 9 and the letters a to f provides 16 possible digits for each column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190722T093547Z" creationid="Marco Marega" creationdate="20180219T213428Z">
-        <seg>aaaaUn sistema misto &lt;s1/&gt;formato da numeri da 0 a 9 e da lettere da a ad f che rendono disponibili 16 possibili cifre per ciascuna colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T093904Z" creationid="Marco Marega" creationdate="20180219T213428Z">
+        <seg>Un sistema misto &lt;s1/&gt;formato da numeri da 0 a 9 e da lettere da a a f, che rendono disponibili 16 possibili cifre per ciascuna colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42113,8 +42113,8 @@
       <tuv lang="EN">
         <seg>With two columns, you can have 16*16=256 possible values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213505Z" creationid="Marco Marega" creationdate="20180219T213505Z">
-        <seg>Con due colonne, potete avere 16*16=256 valori diversi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T093906Z" creationid="Marco Marega" creationdate="20180219T213505Z">
+        <seg>aaaaCon due colonne, potete avere 16*16=256 valori diversi.</seg>
       </tuv>
     </tu>
     <tu>
