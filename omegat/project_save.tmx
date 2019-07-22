@@ -7984,8 +7984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NOT NULL:&lt;/f0&gt; The field value cannot be &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213043Z" creationid="Marco Marega" creationdate="20180219T213043Z">
-        <seg>&lt;f0&gt;NOT NULL:&lt;/f0&gt; Il valore del campo non può essere &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T091142Z" creationid="Marco Marega" creationdate="20180219T213043Z">
+        <seg>&lt;f0&gt;NOT NULL:&lt;/f0&gt; il valore del campo non può essere &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10280,8 +10280,8 @@
       <tuv lang="EN">
         <seg>A mixed system &lt;s1/&gt;consisting of the numbers 0 to 9 and the letters a to f provides 16 possible digits for each column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180219T213428Z" creationid="Marco Marega" creationdate="20180219T213428Z">
-        <seg>Un sistema misto &lt;s1/&gt;formato da numeri da 0 a 9 e da lettere da a ad f che rendono disponibili 16 possibili cifre per ciascuna colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T093547Z" creationid="Marco Marega" creationdate="20180219T213428Z">
+        <seg>aaaaUn sistema misto &lt;s1/&gt;formato da numeri da 0 a 9 e da lettere da a ad f che rendono disponibili 16 possibili cifre per ciascuna colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12032,8 +12032,8 @@
       <tuv lang="EN">
         <seg>As binary fields in practice need only be entered for images, you need to know the binary code of the image that is to serve as a default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190722T073916Z" creationid="Marco Marega" creationdate="20180219T213020Z">
-        <seg>aaaaDato che in pratica c'è il bisogno di inserire dei campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T091004Z" creationid="Marco Marega" creationdate="20180219T213020Z">
+        <seg>Siccome in pratica è necessario inserire i campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
       </tuv>
     </tu>
     <tu>
