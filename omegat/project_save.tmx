@@ -12032,8 +12032,8 @@
       <tuv lang="EN">
         <seg>As binary fields in practice need only be entered for images, you need to know the binary code of the image that is to serve as a default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190711T093948Z" creationid="Marco Marega" creationdate="20180219T213020Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaDato che in pratica c'è il bisogno di inserire dei campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T073916Z" creationid="Marco Marega" creationdate="20180219T213020Z">
+        <seg>aaaaDato che in pratica c'è il bisogno di inserire dei campi binari solo per le immagini, dovete conoscere il codice binario dell'immagine da passare come predefinita.</seg>
       </tuv>
     </tu>
     <tu>
