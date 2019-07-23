@@ -14136,8 +14136,8 @@
       <tuv lang="EN">
         <seg>Constraints define conditions that must be fulfilled when data is entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214728Z" creationid="Marco Marega" creationdate="20180222T214728Z">
-        <seg>I vincoli definiscono delle condizioni che devono essere rispettate quando vengono inseriti i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T075718Z" creationid="Marco Marega" creationdate="20180222T214728Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaI vincoli definiscono delle condizioni che devono essere rispettate quando vengono inseriti i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27353,8 +27353,8 @@
       <tuv lang="EN">
         <seg>REFERENCES "other_table_name" ( "Field_name_1" [,"Field_name 2"...])</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T214607Z" creationid="Marco Marega" creationdate="20180222T214607Z">
-        <seg>REFERENCES "nome_altra_tabella" ( "Nome_campo 1" [,"Nome_campo 2"...])</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T075525Z" creationid="Marco Marega" creationdate="20180222T214607Z">
+        <seg>REFERENCES "nome_altra_tabella" ( "Nome_campo_1" [,"Nome_campo 2"...])</seg>
       </tuv>
     </tu>
     <tu>
@@ -40657,8 +40657,8 @@
       <tuv lang="EN">
         <seg>UNIQUE ( "Field_name 1" [,"Field_name 2"...] ) |</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190722T101630Z" creationid="Marco Marega" creationdate="20180222T214506Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaUNIQUE ( "Nome_campo 1" [,"Nome_campo 2"...] ) |</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T075304Z" creationid="Marco Marega" creationdate="20180222T214506Z">
+        <seg>UNIQUE ( "Nome_campo 1" [,"Nome_campo 2"...] ) |</seg>
       </tuv>
     </tu>
     <tu>
