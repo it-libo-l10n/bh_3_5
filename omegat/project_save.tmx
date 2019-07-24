@@ -9720,8 +9720,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;PRIMARY KEY ("Field_name"): &lt;/f3&gt;the field value must be unique and cannot be &lt;f4&gt;NULL&lt;/f4&gt; (primary key)&lt;br5/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190724T073412Z" creationid="Marco Marega" creationdate="20180222T214914Z">
-        <seg>aaaa&lt;f3&gt;PRIMARY KEY ("Nome_campo"): &lt;/f3&gt; il valore inserito nel campo deve essere univoco e non può essere  &lt;f4&gt;NULL&lt;/f4&gt; (chiave primaria)&lt;br5/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190724T081913Z" creationid="Marco Marega" creationdate="20180222T214914Z">
+        <seg>&lt;f3&gt;PRIMARY KEY ("Nome_campo"): &lt;/f3&gt;il valore inserito nel campo deve essere univoco e non può essere &lt;f4&gt;NULL&lt;/f4&gt; (chiave primaria)&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9824,8 +9824,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;FOREIGN KEY ("Field_name") REFERENCES &lt;"other_table_name"&gt; ("Field_name"): &lt;/f6&gt;The specified fields of this table are linked to the fields of another table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215049Z" creationid="Marco Marega" creationdate="20180222T215049Z">
-        <seg>&lt;f6&gt;FOREIGN KEY ("Nome_campo") REFERENCES &lt;"nome_altra_tabella"&gt; ("Nome_campo"): &lt;/f6&gt;I campi specificati di questa tabella sono collegati ai campi di un'altra tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190724T082152Z" creationid="Marco Marega" creationdate="20180222T215049Z">
+        <seg>&lt;f6&gt;FOREIGN KEY ("Nome_campo") REFERENCES &lt;"nome_altra_tabella"&gt; ("Nome_campo"): &lt;/f6&gt;i campi specificati di questa tabella sono collegati ai campi di un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33657,8 +33657,8 @@
       <tuv lang="EN">
         <seg>The field value must be tested for referential integrity as foreign keys; that is, there must be a corresponding primary key in the other table, if a value is entered here.&lt;br7/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215349Z" creationid="Marco Marega" creationdate="20180222T215349Z">
-        <seg>L'integrità referenziale come chiave esterna del valore del campo dev'essere verificata; il che significa che, se qui viene inserito un valore, nell'altra tabella deve esserci una chiave primaria corrispondente.&lt;br7/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190724T082155Z" creationid="Marco Marega" creationdate="20180222T215349Z">
+        <seg>aaaaaaaaaaaaaaaaaL'integrità referenziale come chiave esterna del valore del campo dev'essere verificata; il che significa che, se qui viene inserito un valore, nell'altra tabella deve esserci una chiave primaria corrispondente.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
