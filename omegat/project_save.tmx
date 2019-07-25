@@ -9832,8 +9832,8 @@
       <tuv lang="EN">
         <seg>&lt;f8&gt;[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}]:&lt;/f8&gt; In the case of a foreign key, this specifies what is to happen if, for example, the foreign record is deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215502Z" creationid="Marco Marega" creationdate="20180222T215502Z">
-        <seg>&lt;f8&gt;[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}]:&lt;/f8&gt; Nel caso di una chiave esterna, questo specifica cosa deve succedere se, ad esempio, il record esterno viene cancellato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T071432Z" creationid="Marco Marega" creationdate="20180222T215502Z">
+        <seg>&lt;f8&gt;[ON {DELETE | UPDATE} {CASCADE | SET DEFAULT | SET NULL}]:&lt;/f8&gt; nel caso di una chiave esterna, questo specifica cosa deve succedere se, ad esempio, il record esterno viene eliminato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23889,8 +23889,8 @@
       <tuv lang="EN">
         <seg>It makes no sense, in a loan table for a library, to have a user number for which the user no longer exists.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215600Z" creationid="Marco Marega" creationdate="20180222T215600Z">
-        <seg>Nella tabella dei prestiti di una biblioteca non ha senso avere un numero relativo ad un utente che non esiste più.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T071654Z" creationid="Marco Marega" creationdate="20180222T215600Z">
+        <seg>Nella tabella dei prestiti di una biblioteca non ha senso avere un numero relativo a un utente che non esiste più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33057,8 +33057,8 @@
       <tuv lang="EN">
         <seg>The corresponding record must be modified so that the relationship between the tables remains valid.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215642Z" creationid="Marco Marega" creationdate="20180222T215642Z">
-        <seg>Il record corrispondente dev'essere modificato in modo che la relazione tra le tabelle rimanga valida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T071915Z" creationid="Marco Marega" creationdate="20180222T215642Z">
+        <seg>Il record corrispondente deve essere modificato in modo che la relazione tra le tabelle rimanga valida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33657,8 +33657,8 @@
       <tuv lang="EN">
         <seg>The field value must be tested for referential integrity as foreign keys; that is, there must be a corresponding primary key in the other table, if a value is entered here.&lt;br7/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190724T082155Z" creationid="Marco Marega" creationdate="20180222T215349Z">
-        <seg>aaaaaaaaaaaaaaaaaL'integrità referenziale come chiave esterna del valore del campo dev'essere verificata; il che significa che, se qui viene inserito un valore, nell'altra tabella deve esserci una chiave primaria corrispondente.&lt;br7/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T071043Z" creationid="Marco Marega" creationdate="20180222T215349Z">
+        <seg>L'integrità referenziale come chiave esterna del valore del campo deve essere verificata; ciò significa che, se qui viene inserito un valore, nell'altra tabella deve esservi una chiave primaria corrispondente.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41257,8 +41257,8 @@
       <tuv lang="EN">
         <seg>Usually the record is simply deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215700Z" creationid="Marco Marega" creationdate="20180222T215700Z">
-        <seg>Di solito il record viene semplicemente cancellato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T071918Z" creationid="Marco Marega" creationdate="20180222T215700Z">
+        <seg>aaaaaaaaaaaaaaaaaDi solito il record viene semplicemente cancellato.</seg>
       </tuv>
     </tu>
     <tu>
