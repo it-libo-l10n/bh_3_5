@@ -9408,8 +9408,8 @@
       <tuv lang="EN">
         <seg>&lt;f11&gt;CHECK(&lt;Search_condition&gt;): &lt;/f11&gt;Formulated as a &lt;f12&gt;WHERE &lt;/f12&gt;condition, but only for the current record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T215921Z" creationid="Marco Marega" creationdate="20180222T215921Z">
-        <seg>&lt;f11&gt;CHECK(&lt;Criteri_di_ricerca&gt;): &lt;/f11&gt;Formulati come una condizione &lt;f12&gt;WHERE &lt;/f12&gt;, ma che riguarda solo il record corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190726T084617Z" creationid="Marco Marega" creationdate="20180222T215921Z">
+        <seg>&lt;f11&gt;CHECK(&lt;Criteri_di_ricerca&gt;): &lt;/f11&gt;formulati come una condizione &lt;f12&gt;WHERE &lt;/f12&gt;, ma che riguarda solo il record corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41257,8 +41257,8 @@
       <tuv lang="EN">
         <seg>Usually the record is simply deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190725T071918Z" creationid="Marco Marega" creationdate="20180222T215700Z">
-        <seg>aaaaaaaaaaaaaaaaaDi solito il record viene semplicemente cancellato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190726T084204Z" creationid="Marco Marega" creationdate="20180222T215700Z">
+        <seg>Di solito il record viene semplicemente eliminato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42609,8 +42609,8 @@
       <tuv lang="EN">
         <seg>You need constraints when the relationship between tables or the index for certain fields must be defined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222116Z" creationid="Marco Marega" creationdate="20180222T222116Z">
-        <seg>Avete bisogno di vincoli quando la relazione tra le tabelle o l'indice di determinati campi deve essere definito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190726T084618Z" creationid="Marco Marega" creationdate="20180222T222116Z">
+        <seg>aaaaAvete bisogno di vincoli quando la relazione tra le tabelle o l'indice di determinati campi deve essere definito.</seg>
       </tuv>
     </tu>
     <tu>
