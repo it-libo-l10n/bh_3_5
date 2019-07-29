@@ -32993,8 +32993,8 @@
       <tuv lang="EN">
         <seg>The content of tables of the type &lt;f0&gt;TEMPORARY&lt;/f0&gt; or &lt;f1&gt;TEMP&lt;/f1&gt; is erased by default when you have finished working with a particular record (&lt;f2&gt;ON COMMIT DELETE ROWS&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190726T090224Z" creationid="Marco Marega" creationdate="20180222T222330Z">
-        <seg>aaaaaaaaaaaaaaaaIl contenuto delle tabella del tipo &lt;f0&gt;TEMPORARY&lt;/f0&gt; o &lt;f1&gt;TEMP&lt;/f1&gt; in modo predefinito viene cancellato quando avete finito di lavorare con un determinato record (&lt;f2&gt;ON COMMIT DELETE ROWS&lt;/f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T070954Z" creationid="Marco Marega" creationdate="20180222T222330Z">
+        <seg>Il contenuto delle tabelle di tipo &lt;f0&gt;TEMPORARY&lt;/f0&gt; o &lt;f1&gt;TEMP&lt;/f1&gt; viene eliminato in modo predefinito quando avete finito di lavorare con un determinato record (&lt;f2&gt;ON COMMIT DELETE ROWS&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37849,8 +37849,8 @@
       <tuv lang="EN">
         <seg>This allows you to create temporary records, which contain information for other actions to be carried out at the same time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222456Z" creationid="Marco Marega" creationdate="20180222T222456Z">
-        <seg>Questo consente di creare dei record temporanei, che contengono le informazioni necessari ad eseguire ulteriori azioni in contemporanea.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T070956Z" creationid="Marco Marega" creationdate="20180222T222456Z">
+        <seg>aaaaQuesto consente di creare dei record temporanei, che contengono le informazioni necessari ad eseguire ulteriori azioni in contemporanea.</seg>
       </tuv>
     </tu>
     <tu>
