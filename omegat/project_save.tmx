@@ -21097,8 +21097,8 @@
       <tuv lang="EN">
         <seg>If you want a table of this type to contain data available for a whole session (from opening a database to closing it), choose &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190729T075725Z" creationid="Marco Marega" creationdate="20180222T222607Z">
-        <seg>aaaaSe desiderate che una tabella di questo tipo mantenga i dati disponibili per un'intera sessione (dall'apertura del database fino alla sua chiusura), scegliete &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T081051Z" creationid="Marco Marega" creationdate="20180222T222607Z">
+        <seg>Se desiderate che una tabella di questo tipo mantenga i dati disponibili per un'intera sessione (dall'apertura del database fino alla sua chiusura), scegliete &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30545,8 +30545,8 @@
       <tuv lang="EN">
         <seg>Sometimes you might wish to insert an additional field into a particular position in the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222143Z" creationid="Marco Marega" creationdate="20180224T222143Z">
-        <seg>Alle volte potreste voler aggiungere un campo in una determinata posizione all'interno della tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T081324Z" creationid="Marco Marega" creationdate="20180224T222143Z">
+        <seg>A volte potreste voler inserire un campo aggiuntivo in una determinata posizione all'interno della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30865,8 +30865,8 @@
       <tuv lang="EN">
         <seg>Suppose you have a table called &lt;f0&gt;Addresses&lt;/f0&gt; with fields &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222257Z" creationid="Marco Marega" creationdate="20180224T222257Z">
-        <seg>Supponete di avere una tabella denominata &lt;f0&gt;Adress&lt;/f0&gt; con i campi &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, e via dicendo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T081330Z" creationid="Marco Marega" creationdate="20180224T222257Z">
+        <seg>aaaaaaaaaaaaaaaaSupponete di avere una tabella denominata &lt;f0&gt;Adress&lt;/f0&gt; con i campi &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, e via dicendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31049,8 +31049,8 @@
       <tuv lang="EN">
         <seg>Table modification</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222638Z" creationid="Marco Marega" creationdate="20180222T222638Z">
-        <seg>Modifica di una Tabella</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T081114Z" creationid="Marco Marega" creationdate="20180222T222638Z">
+        <seg>Modifica di una tabella</seg>
       </tuv>
     </tu>
     <tu>
