@@ -21097,8 +21097,8 @@
       <tuv lang="EN">
         <seg>If you want a table of this type to contain data available for a whole session (from opening a database to closing it), choose &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180222T222607Z" creationid="Marco Marega" creationdate="20180222T222607Z">
-        <seg>Se desiderate che una tabella di questo tipo mantenga i dati disponibili per un'intera sessione (dall'apertura del database fino alla sua chiusura), scegliete &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T075725Z" creationid="Marco Marega" creationdate="20180222T222607Z">
+        <seg>aaaaSe desiderate che una tabella di questo tipo mantenga i dati disponibili per un'intera sessione (dall'apertura del database fino alla sua chiusura), scegliete &lt;f0&gt;ON COMMIT PRESERVE ROWS&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37849,8 +37849,8 @@
       <tuv lang="EN">
         <seg>This allows you to create temporary records, which contain information for other actions to be carried out at the same time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190729T070956Z" creationid="Marco Marega" creationdate="20180222T222456Z">
-        <seg>aaaaQuesto consente di creare dei record temporanei, che contengono le informazioni necessari ad eseguire ulteriori azioni in contemporanea.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T075723Z" creationid="Marco Marega" creationdate="20180222T222456Z">
+        <seg>Ciò vi consente di creare dei record temporanei, che contengono le informazioni necessarie ad eseguire contemporaneamente ulteriori azioni.</seg>
       </tuv>
     </tu>
     <tu>
