@@ -6512,8 +6512,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ALTER TABLE "Addresses"&lt;/f0&gt;: Alter the table with the name "Addresses".&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222454Z" creationid="Marco Marega" creationdate="20180224T222454Z">
-        <seg>&lt;f0&gt;ALTER TABLE "Address"&lt;/f0&gt;: Modifica la tabella denominata "Address".&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T071814Z" creationid="Marco Marega" creationdate="20180224T222454Z">
+        <seg>&lt;f0&gt;ALTER TABLE "Address"&lt;/f0&gt;: modifica la tabella denominata "Address".&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9632,8 +9632,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;ADD "First Name" VARCHAR(25)&lt;/f2&gt;: insert the field "FirstName" with a length of 25 characters.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222522Z" creationid="Marco Marega" creationdate="20180224T222522Z">
-        <seg>&lt;f2&gt;ADD "First Name" VARCHAR(25)&lt;/f2&gt;: inserisce il campo "FirstName" della lunghezza di 25 caratteri.&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T072030Z" creationid="Marco Marega" creationdate="20180224T222522Z">
+        <seg>&lt;f2&gt;ADD "First Name" VARCHAR(25)&lt;/f2&gt;: inserisce il campo "First Name" della lunghezza di 25 caratteri.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30865,8 +30865,8 @@
       <tuv lang="EN">
         <seg>Suppose you have a table called &lt;f0&gt;Addresses&lt;/f0&gt; with fields &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190729T081330Z" creationid="Marco Marega" creationdate="20180224T222257Z">
-        <seg>aaaaaaaaaaaaaaaaSupponete di avere una tabella denominata &lt;f0&gt;Adress&lt;/f0&gt; con i campi &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, e via dicendo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T071107Z" creationid="Marco Marega" creationdate="20180224T222257Z">
+        <seg>Supponete di avere una tabella denominata &lt;f0&gt;Address&lt;/f0&gt; con i campi &lt;f1&gt;ID&lt;/f1&gt;, &lt;f2&gt;Name&lt;/f2&gt;, &lt;f3&gt;Street&lt;/f3&gt;, e via dicendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35417,8 +35417,8 @@
       <tuv lang="EN">
         <seg>The possibility of specifying the position of additional fields after the creation of the table is not available in the GUI.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222629Z" creationid="Marco Marega" creationdate="20180224T222629Z">
-        <seg>La possibilità di specificare la posizione dei campi aggiuntivi dopo la creazione della tabella non è disponibile nella GUI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T072102Z" creationid="Marco Marega" creationdate="20180224T222629Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaaaLa possibilità di specificare la posizione dei campi aggiuntivi dopo la creazione della tabella non è disponibile nella GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42617,8 +42617,8 @@
       <tuv lang="EN">
         <seg>You realize that perhaps it would be sensible to distinguish first names and last names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T222421Z" creationid="Marco Marega" creationdate="20180224T222421Z">
-        <seg>Vi rendete conto che forse sarebbe opportuno tenere separato il nome dal cognome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T071415Z" creationid="Marco Marega" creationdate="20180224T222421Z">
+        <seg>Vi rendete conto che forse sarebbe sensato tenere separato il nome dal cognome.</seg>
       </tuv>
     </tu>
     <tu>
