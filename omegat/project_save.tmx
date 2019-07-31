@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35417,8 +35417,8 @@
       <tuv lang="EN">
         <seg>The possibility of specifying the position of additional fields after the creation of the table is not available in the GUI.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190730T072102Z" creationid="Marco Marega" creationdate="20180224T222629Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaaaLa possibilità di specificare la posizione dei campi aggiuntivi dopo la creazione della tabella non è disponibile nella GUI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T053315Z" creationid="Marco Marega" creationdate="20180224T222629Z">
+        <seg>La possibilità di specificare la posizione dei campi aggiuntivi dopo la creazione della tabella non è disponibile nell'interfaccia grafica.</seg>
       </tuv>
     </tu>
     <tu>
