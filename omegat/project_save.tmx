@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10672,8 +10672,8 @@
       <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" ALTER COLUMN "Field_name" RENAME TO "New_field_name"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223217Z" creationid="Marco Marega" creationdate="20180224T223217Z">
-        <seg>ALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" RENAME TO "Nuovo_nome_campo"</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T071752Z" creationid="Marco Marega" creationdate="20180224T223217Z">
+        <seg>aaaaaaaaaaaaaaaaaaALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" RENAME TO "Nuovo_nome_campo"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19177,8 +19177,8 @@
       <tuv lang="EN">
         <seg>However this does not take place if the field is involved in a view or as a foreign key in another table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223153Z" creationid="Marco Marega" creationdate="20180224T223153Z">
-        <seg>Questo non ha però effetto se il campo è utilizzato in una vista o come chiave esterna in un'altra tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T071749Z" creationid="Marco Marega" creationdate="20180224T223153Z">
+        <seg>Ciò non avviene però se il campo è utilizzato in una vista o come chiave esterna in un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32521,8 +32521,8 @@
       <tuv lang="EN">
         <seg>The additional designation &lt;f0&gt;COLUMN&lt;/f0&gt; is not necessary in cases where no alternative choices are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190731T053553Z" creationid="Marco Marega" creationdate="20180224T222932Z">
-        <seg>aaaaaaaaaaaaaaaaaIl titolo aggiuntivo &lt;f0&gt;COLUMN&lt;/f0&gt; non è necessario nei casi in cui non sono disponibili scelte alternative.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T070846Z" creationid="Marco Marega" creationdate="20180224T222932Z">
+        <seg>Il titolo aggiuntivo &lt;f0&gt;COLUMN&lt;/f0&gt; non è necessario nei casi in cui non sono disponibili scelte alternative.</seg>
       </tuv>
     </tu>
     <tu>
