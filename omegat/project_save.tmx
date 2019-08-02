@@ -8008,8 +8008,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NULL&lt;/f0&gt; removes an existing default value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190801T073435Z" creationid="Marco Marega" creationdate="20180224T223343Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;NULL&lt;/f0&gt; rimuove un valore predefinito esistente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T071621Z" creationid="Marco Marega" creationdate="20180224T223343Z">
+        <seg>&lt;f0&gt;NULL&lt;/f0&gt; rimuove un valore predefinito esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33617,8 +33617,8 @@
       <tuv lang="EN">
         <seg>The field must already be a primary key field to accept the property &lt;f0&gt;IDENTITY&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T223855Z" creationid="Marco Marega" creationdate="20180224T223855Z">
-        <seg>Il campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T072215Z" creationid="Marco Marega" creationdate="20180224T223855Z">
+        <seg>aaaaIl campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
