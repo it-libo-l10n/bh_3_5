@@ -17441,8 +17441,8 @@
       <tuv lang="EN">
         <seg>For these field type descriptions, see the Appendix to this handbook.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224123Z" creationid="Marco Marega" creationdate="20180224T224123Z">
-        <seg>Per la descrizione di questi tipi di campo, vedete l'Appendice di questo manuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T080137Z" creationid="Marco Marega" creationdate="20180224T224123Z">
+        <seg>aaaaaaaaaaaaaaaaaaaPer la descrizione di questi tipi di campo, vedete l'Appendice di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33617,8 +33617,8 @@
       <tuv lang="EN">
         <seg>The field must already be a primary key field to accept the property &lt;f0&gt;IDENTITY&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190802T072215Z" creationid="Marco Marega" creationdate="20180224T223855Z">
-        <seg>aaaaIl campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T075714Z" creationid="Marco Marega" creationdate="20180224T223855Z">
+        <seg>Il campo, per accettare la proprietà &lt;f0&gt;IDENTITY&lt;/f0&gt;, deve essere già una chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38905,8 +38905,8 @@
       <tuv lang="EN">
         <seg>This is possible only for &lt;f3&gt;INTEGER&lt;/f3&gt; or &lt;f4&gt;BIGINT&lt;/f4&gt; fields.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T224032Z" creationid="Marco Marega" creationdate="20180224T224032Z">
-        <seg>Questa è possibile solo per i campi &lt;f3&gt;INTEGER&lt;/f3&gt; o &lt;f4&gt;BIGINT&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T080134Z" creationid="Marco Marega" creationdate="20180224T224032Z">
+        <seg>Ciò è possibile solo per i campi &lt;f3&gt;INTEGER&lt;/f3&gt; o &lt;f4&gt;BIGINT&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
