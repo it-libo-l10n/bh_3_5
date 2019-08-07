@@ -21657,8 +21657,8 @@
       <tuv lang="EN">
         <seg>In all cases the change will have effect only if it is possible in principle (for example a change from &lt;f0&gt;NOT NULL&lt;/f0&gt; to &lt;f1&gt;NULL&lt;/f1&gt;) and the existing values can all be translated (for example a change from &lt;f2&gt;TINYINT&lt;/f2&gt; to &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225010Z" creationid="Marco Marega" creationdate="20180224T225010Z">
-        <seg>In ogni caso la modifica avrà effetto solo se di regola è possibile (ad esempio una modifica da &lt;f0&gt;NOT NULL&lt;/f0&gt; a &lt;f1&gt;NULL&lt;/f1&gt;) e tutti i valori esistenti possono essere tradotti (ad esempio una modifica da &lt;f2&gt;TINYINT&lt;/f2&gt; a &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T071254Z" creationid="Marco Marega" creationdate="20180224T225010Z">
+        <seg>aaaaIn ogni caso la modifica avrà effetto solo se di regola è possibile (ad esempio una modifica da &lt;f0&gt;NOT NULL&lt;/f0&gt; a &lt;f1&gt;NULL&lt;/f1&gt;) e tutti i valori esistenti possono essere tradotti (ad esempio una modifica da &lt;f2&gt;TINYINT&lt;/f2&gt; a &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35625,8 +35625,8 @@
       <tuv lang="EN">
         <seg>The property &lt;f0&gt;NOT NULL&lt;/f0&gt; continues into the new definition, if not otherwise defined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190806T072806Z" creationid="Marco Marega" creationdate="20180224T224431Z">
-        <seg>aaaaaaaaaaaaaaaaLa proprietà &lt;f0&gt;NOT NULL&lt;/f0&gt; rimane nella nuova definizione, a meno che non via diversamente definita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T071103Z" creationid="Marco Marega" creationdate="20180224T224431Z">
+        <seg>La proprietà &lt;f0&gt;NOT NULL&lt;/f0&gt; rimane nella nuova definizione, a meno che non sia diversamente definita.</seg>
       </tuv>
     </tu>
     <tu>
