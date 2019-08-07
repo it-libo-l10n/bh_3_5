@@ -10680,8 +10680,8 @@
       <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" ALTER COLUMN "Field_name" RESTART WITH &lt;New_field_value&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225046Z" creationid="Marco Marega" creationdate="20180224T225046Z">
-        <seg>ALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" RESTART WITH &lt;Nuovo_valore_campo&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T081001Z" creationid="Marco Marega" creationdate="20180224T225046Z">
+        <seg>aaaaALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" RESTART WITH &lt;Nuovo_valore_campo&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21657,8 +21657,8 @@
       <tuv lang="EN">
         <seg>In all cases the change will have effect only if it is possible in principle (for example a change from &lt;f0&gt;NOT NULL&lt;/f0&gt; to &lt;f1&gt;NULL&lt;/f1&gt;) and the existing values can all be translated (for example a change from &lt;f2&gt;TINYINT&lt;/f2&gt; to &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190807T071254Z" creationid="Marco Marega" creationdate="20180224T225010Z">
-        <seg>aaaaIn ogni caso la modifica avrà effetto solo se di regola è possibile (ad esempio una modifica da &lt;f0&gt;NOT NULL&lt;/f0&gt; a &lt;f1&gt;NULL&lt;/f1&gt;) e tutti i valori esistenti possono essere tradotti (ad esempio una modifica da &lt;f2&gt;TINYINT&lt;/f2&gt; a &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T080959Z" creationid="Marco Marega" creationdate="20180224T225010Z">
+        <seg>In ogni caso la modifica avrà effetto solo se è possibile in linea di principio (ad esempio una modifica da &lt;f0&gt;NOT NULL&lt;/f0&gt; a &lt;f1&gt;NULL&lt;/f1&gt;) e tutti i valori esistenti possono essere tradotti (ad esempio una modifica da &lt;f2&gt;TINYINT&lt;/f2&gt; a &lt;f3&gt;INTEGER&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
