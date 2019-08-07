@@ -10680,8 +10680,8 @@
       <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" ALTER COLUMN "Field_name" RESTART WITH &lt;New_field_value&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190807T081001Z" creationid="Marco Marega" creationdate="20180224T225046Z">
-        <seg>aaaaALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" RESTART WITH &lt;Nuovo_valore_campo&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T082219Z" creationid="Marco Marega" creationdate="20180224T225046Z">
+        <seg>ALTER TABLE "Nome_tabella" ALTER COLUMN "Nome_campo" RESTART WITH &lt;Nuovo_valore_campo&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23569,8 +23569,8 @@
       <tuv lang="EN">
         <seg>It determines the next value for a field with the Autovalue function set.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T225148Z" creationid="Marco Marega" creationdate="20180224T225148Z">
-        <seg>Determina il valore successivo di un campo con la funzione Valore automatico attiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T082320Z" creationid="Marco Marega" creationdate="20180224T225148Z">
+        <seg>aaaaaaaaaaaaaaaaaaDetermina il valore successivo di un campo con la funzione Valore automatico attiva.</seg>
       </tuv>
     </tu>
     <tu>
