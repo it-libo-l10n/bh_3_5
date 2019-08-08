@@ -31713,8 +31713,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Loan&lt;/f0&gt; table needs to be protected from input errors.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230003Z" creationid="Marco Marega" creationdate="20180224T230003Z">
-        <seg>La tabella &lt;f0&gt;Loan&lt;/f0&gt; deve essere protetta da errori di inserimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T083303Z" creationid="Marco Marega" creationdate="20180224T230003Z">
+        <seg>aaaaaaaaaaaaaaaaaLa tabella &lt;f0&gt;Loan&lt;/f0&gt; deve essere protetta da errori di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
