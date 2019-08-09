@@ -17161,8 +17161,8 @@
       <tuv lang="EN">
         <seg>For example, you must prevent a return date being given that is earlier than the loan date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230056Z" creationid="Marco Marega" creationdate="20180224T230056Z">
-        <seg>Ad esempio, dovete prevenire che venga indicata una data di restituzione precedente alla data del prestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T073637Z" creationid="Marco Marega" creationdate="20180224T230056Z">
+        <seg>Ad esempio, è necessario evitare che venga indicata una data di restituzione anteriore alla data del prestito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25697,8 +25697,8 @@
       <tuv lang="EN">
         <seg>Now if this error occurs during the return process, you will get an error message &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180224T230217Z" creationid="Marco Marega" creationdate="20180224T230217Z">
-        <seg>Ora, se durante la fase di restituzione dovesse verificarsi questo errore, otterreste un messaggio di errore &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T073639Z" creationid="Marco Marega" creationdate="20180224T230217Z">
+        <seg>aaaaOra, se durante la fase di restituzione dovesse verificarsi questo errore, otterreste un messaggio di errore &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31713,8 +31713,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Loan&lt;/f0&gt; table needs to be protected from input errors.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190808T083303Z" creationid="Marco Marega" creationdate="20180224T230003Z">
-        <seg>aaaaaaaaaaaaaaaaaLa tabella &lt;f0&gt;Loan&lt;/f0&gt; deve essere protetta da errori di inserimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T073253Z" creationid="Marco Marega" creationdate="20180224T230003Z">
+        <seg>La tabella &lt;f0&gt;Loan&lt;/f0&gt; deve essere protetta da errori di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
