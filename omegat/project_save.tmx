@@ -10624,8 +10624,8 @@
       <tuv lang="EN">
         <seg>ADD [CONSTRAINT "Constraint_name"] UNIQUE ("Field_name1", "Field_name2" ...);</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231444Z" creationid="Marco Marega" creationdate="20180226T231444Z">
-        <seg>ADD [CONSTRAINT "Nome_vincolo"] UNIQUE ("Nome_campo1", "Nome_campo2" ...);</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T081926Z" creationid="Marco Marega" creationdate="20180226T231444Z">
+        <seg>aaaaaaaaaaaaaaaaaaADD [CONSTRAINT "Nome_vincolo"] UNIQUE ("Nome_campo1", "Nome_campo2" ...);</seg>
       </tuv>
     </tu>
     <tu>
@@ -25697,8 +25697,8 @@
       <tuv lang="EN">
         <seg>Now if this error occurs during the return process, you will get an error message &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T074051Z" creationid="Marco Marega" creationdate="20180224T230217Z">
-        <seg>aaaaOra, se questo errore dovesse verificarsi durante la fase di restituzione, otterreste un messaggio di errore &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T081905Z" creationid="Marco Marega" creationdate="20180224T230217Z">
+        <seg>Ora, se questo errore dovesse verificarsi durante la fase di restituzione, otterreste un messaggio di errore di violazione di vincolo (&lt;f1&gt;Check constraint violation&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
