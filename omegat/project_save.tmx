@@ -25697,8 +25697,8 @@
       <tuv lang="EN">
         <seg>Now if this error occurs during the return process, you will get an error message &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T073639Z" creationid="Marco Marega" creationdate="20180224T230217Z">
-        <seg>aaaaOra, se durante la fase di restituzione dovesse verificarsi questo errore, otterreste un messaggio di errore &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T074051Z" creationid="Marco Marega" creationdate="20180224T230217Z">
+        <seg>aaaaOra, se questo errore dovesse verificarsi durante la fase di restituzione, otterreste un messaggio di errore &lt;f1&gt;Check constraint violation …&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
