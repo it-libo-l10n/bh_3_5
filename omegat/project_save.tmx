@@ -10128,8 +10128,8 @@
       <tuv lang="EN">
         <seg>A field can therefore have the same value repeatedly without causing any problems, if the other field in each of the records is &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231838Z" creationid="Marco Marega" creationdate="20180226T231838Z">
-        <seg>Perciò, se l'altro campo di ciascun record è &lt;f1&gt;NULL&lt;/f1&gt;, un campo può contenere ripetutamente lo stesso valore senza causare problemi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T091506Z" creationid="Marco Marega" creationdate="20180226T231838Z">
+        <seg>aaaaaaaaaaaaaaaaaPerciò, se l'altro campo di ciascun record è &lt;f1&gt;NULL&lt;/f1&gt;, un campo può contenere ripetutamente lo stesso valore senza causare problemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10624,8 +10624,8 @@
       <tuv lang="EN">
         <seg>ADD [CONSTRAINT "Constraint_name"] UNIQUE ("Field_name1", "Field_name2" ...);</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T081926Z" creationid="Marco Marega" creationdate="20180226T231444Z">
-        <seg>aaaaaaaaaaaaaaaaaaADD [CONSTRAINT "Nome_vincolo"] UNIQUE ("Nome_campo1", "Nome_campo2" ...);</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T090953Z" creationid="Marco Marega" creationdate="20180226T231444Z">
+        <seg>ADD [CONSTRAINT "Nome_vincolo"] UNIQUE ("Nome_campo1", "Nome_campo2" ...);</seg>
       </tuv>
     </tu>
     <tu>
@@ -20305,8 +20305,8 @@
       <tuv lang="EN">
         <seg>If several fields are named, this condition applies to the combination rather than the individual fields.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231636Z" creationid="Marco Marega" creationdate="20180226T231636Z">
-        <seg>Se sono specificati più campi, questa condizione si applica alla combinazione anzichè ai singoli campi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T091435Z" creationid="Marco Marega" creationdate="20180226T231636Z">
+        <seg>Se sono specificati più campi, questa condizione si applica alla combinazione anziché ai singoli campi.</seg>
       </tuv>
     </tu>
     <tu>
