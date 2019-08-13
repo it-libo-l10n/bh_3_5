@@ -10128,8 +10128,8 @@
       <tuv lang="EN">
         <seg>A field can therefore have the same value repeatedly without causing any problems, if the other field in each of the records is &lt;f1&gt;NULL&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190812T091506Z" creationid="Marco Marega" creationdate="20180226T231838Z">
-        <seg>aaaaaaaaaaaaaaaaaPerciò, se l'altro campo di ciascun record è &lt;f1&gt;NULL&lt;/f1&gt;, un campo può contenere ripetutamente lo stesso valore senza causare problemi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190813T070244Z" creationid="Marco Marega" creationdate="20180226T231838Z">
+        <seg>Perciò, se l'altro campo di ciascun record è &lt;f1&gt;NULL&lt;/f1&gt;, un campo può contenere ripetutamente lo stesso valore senza causare problemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10992,8 +10992,8 @@
       <tuv lang="EN">
         <seg>Adds a primary key, optionally with a constraint, to a table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232216Z" creationid="Marco Marega" creationdate="20180226T232216Z">
-        <seg>Aggiunge a una tabella una chiave primaria, facoltativamente con un vincolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190813T070705Z" creationid="Marco Marega" creationdate="20180226T232216Z">
+        <seg>aaaaaaaaaaaaaaaaaaAggiunge a una tabella una chiave primaria, facoltativamente con un vincolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38161,8 +38161,8 @@
       <tuv lang="EN">
         <seg>This command will not work if there is already a &lt;f0&gt;UNIQUE&lt;/f0&gt; condition for the same field combination.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T231943Z" creationid="Marco Marega" creationdate="20180226T231852Z">
-        <seg>Questo comando non funziona se esiste già una condizione &lt;f0&gt;UNIQUE&lt;/f0&gt; per la stessa combinazione di campi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190813T070512Z" creationid="Marco Marega" creationdate="20180226T231852Z">
+        <seg>Questo comando non funzionerà se esiste già una condizione &lt;f0&gt;UNIQUE&lt;/f0&gt; per la stessa combinazione di campi.</seg>
       </tuv>
     </tu>
     <tu>
