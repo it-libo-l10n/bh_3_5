@@ -10992,8 +10992,8 @@
       <tuv lang="EN">
         <seg>Adds a primary key, optionally with a constraint, to a table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190813T070705Z" creationid="Marco Marega" creationdate="20180226T232216Z">
-        <seg>aaaaaaaaaaaaaaaaaaAggiunge a una tabella una chiave primaria, facoltativamente con un vincolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190814T071617Z" creationid="Marco Marega" creationdate="20180226T232216Z">
+        <seg>Aggiunge a una tabella una chiave primaria, facoltativamente con un vincolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27345,8 +27345,8 @@
       <tuv lang="EN">
         <seg>REFERENCES "Table_name_of_another_table" ("Field_name1_other_table", "Field_name2_other_table" ...)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232547Z" creationid="Marco Marega" creationdate="20180226T232547Z">
-        <seg>REFERENCES "Nome_di_un_altra_tabella" ("Nome_campo1_altra_tabella", "Nome_campo2_altra_tabella" ...)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190814T072258Z" creationid="Marco Marega" creationdate="20180226T232547Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaREFERENCES "Nome_di_un_altra_tabella" ("Nome_campo1_altra_tabella", "Nome_campo2_altra_tabella" ...)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36369,8 +36369,8 @@
       <tuv lang="EN">
         <seg>The syntax of the constraint is the same as when a table is created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232251Z" creationid="Marco Marega" creationdate="20180226T232251Z">
-        <seg>La sintassi per il vincolo è la stessa di quando la tabella viene creata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190814T072041Z" creationid="Marco Marega" creationdate="20180226T232251Z">
+        <seg>La sintassi per il vincolo è la stessa usata per la creazione di una tabella.</seg>
       </tuv>
     </tu>
     <tu>
