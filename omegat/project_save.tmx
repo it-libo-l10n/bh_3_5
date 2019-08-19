@@ -27345,8 +27345,8 @@
       <tuv lang="EN">
         <seg>REFERENCES "Table_name_of_another_table" ("Field_name1_other_table", "Field_name2_other_table" ...)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190814T072258Z" creationid="Marco Marega" creationdate="20180226T232547Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaREFERENCES "Nome_di_un_altra_tabella" ("Nome_campo1_altra_tabella", "Nome_campo2_altra_tabella" ...)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190819T095215Z" creationid="Marco Marega" creationdate="20180226T232547Z">
+        <seg>REFERENCES "Nome_di_una_altra_tabella" ("Nome_campo1_altra_tabella", "Nome_campo2_altra_tabella" ...)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35257,8 +35257,8 @@
       <tuv lang="EN">
         <seg>The operation will terminate with an error message, if any value in the table does not have a corresponding value in the table containing that primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212728Z" creationid="Marco Marega" creationdate="20180227T212728Z">
-        <seg>Se nessun valore nella tabella ha un corrispondente valore nella tabella che contiene la chiave primaria, l'operazione terminerà con un messaggio di errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190819T095556Z" creationid="Marco Marega" creationdate="20180227T212728Z">
+        <seg>aaaaaaaaaaaaaaaaSe nessun valore nella tabella ha un corrispondente valore nella tabella che contiene la chiave primaria, l'operazione terminerà con un messaggio di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36361,8 +36361,8 @@
       <tuv lang="EN">
         <seg>The syntax is the same as when a table is created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180226T232623Z" creationid="Marco Marega" creationdate="20180226T232623Z">
-        <seg>La sintassi è la stessa di quando la tabella viene creata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190819T095551Z" creationid="Marco Marega" creationdate="20180226T232623Z">
+        <seg>La sintassi è la stessa usata per la creazione di una tabella.</seg>
       </tuv>
     </tu>
     <tu>
