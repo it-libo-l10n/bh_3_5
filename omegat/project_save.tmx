@@ -15856,8 +15856,8 @@
       <tuv lang="EN">
         <seg>Example: The &lt;f0&gt;Name&lt;/f0&gt; and &lt;f1&gt;Address&lt;/f1&gt; tables are to be linked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212933Z" creationid="Marco Marega" creationdate="20180227T212820Z">
-        <seg>Esempio: Le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Adress&lt;/f1&gt; vanno collegate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071051Z" creationid="Marco Marega" creationdate="20180227T212820Z">
+        <seg>aaaaEsempio: Le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Adress&lt;/f1&gt; vanno collegate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35257,8 +35257,8 @@
       <tuv lang="EN">
         <seg>The operation will terminate with an error message, if any value in the table does not have a corresponding value in the table containing that primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190819T095556Z" creationid="Marco Marega" creationdate="20180227T212728Z">
-        <seg>aaaaaaaaaaaaaaaaSe nessun valore nella tabella ha un corrispondente valore nella tabella che contiene la chiave primaria, l'operazione terminerà con un messaggio di errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071049Z" creationid="Marco Marega" creationdate="20180227T212728Z">
+        <seg>Se nessun valore nella tabella ha un corrispondente valore nella tabella contenente la chiave primaria, l'operazione terminerà con un messaggio di errore.</seg>
       </tuv>
     </tu>
     <tu>
