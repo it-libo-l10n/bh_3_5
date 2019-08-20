@@ -15856,8 +15856,8 @@
       <tuv lang="EN">
         <seg>Example: The &lt;f0&gt;Name&lt;/f0&gt; and &lt;f1&gt;Address&lt;/f1&gt; tables are to be linked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071300Z" creationid="Marco Marega" creationdate="20180227T212820Z">
-        <seg>Esempio: le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Adress&lt;/f1&gt; vanno collegate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071620Z" creationid="Marco Marega" creationdate="20180227T212820Z">
+        <seg>Esempio: le tabelle &lt;f0&gt;Name&lt;/f0&gt; e &lt;f1&gt;Address&lt;/f1&gt; vanno collegate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20737,8 +20737,8 @@
       <tuv lang="EN">
         <seg>If the value "1" is found in &lt;f6&gt;Address_ID&lt;/f6&gt; but not in the &lt;f7&gt;ID&lt;/f7&gt; field of the &lt;f8&gt;Address&lt;/f8&gt; table, the link will not work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213059Z" creationid="Marco Marega" creationdate="20180227T213059Z">
-        <seg>Se il valore "1" è presente in &lt;f6&gt;Adress_ID&lt;/f6&gt; ma non nel campo &lt;f7&gt;ID&lt;/f7&gt; della tabella &lt;f8&gt;Adress&lt;/f8&gt;, il collegamento non funzionerà.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071836Z" creationid="Marco Marega" creationdate="20180227T213059Z">
+        <seg>aaaaaaaaaaaaaaaaSe il valore "1" è presente in &lt;f6&gt;Adress_ID&lt;/f6&gt; ma non nel campo &lt;f7&gt;ID&lt;/f7&gt; della tabella &lt;f8&gt;Adress&lt;/f8&gt;, il collegamento non funzionerà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,8 +31945,8 @@
       <tuv lang="EN">
         <seg>The &lt;f2&gt;Name&lt;/f2&gt; table contains a field with the name &lt;f3&gt;Address_ID&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071301Z" creationid="Marco Marega" creationdate="20180227T212825Z">
-        <seg>aaaaLa tabella&lt;f2&gt;Name&lt;/f2&gt; contiene un campo denominato &lt;f3&gt;Adress_ID&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071716Z" creationid="Marco Marega" creationdate="20180227T212825Z">
+        <seg>La tabella &lt;f2&gt;Name&lt;/f2&gt; contiene un campo denominato &lt;f3&gt;Address_ID&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36737,8 +36737,8 @@
       <tuv lang="EN">
         <seg>The value of this should be linked to the field &lt;f4&gt;ID&lt;/f4&gt; in the &lt;f5&gt;Address&lt;/f5&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T212930Z" creationid="Marco Marega" creationdate="20180227T212828Z">
-        <seg>Il valore di questo dovrebbe essere collegato al campo &lt;f4&gt;ID&lt;/f4&gt; della tabella &lt;f5&gt;Adress&lt;/f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071830Z" creationid="Marco Marega" creationdate="20180227T212828Z">
+        <seg>Il valore di questo dovrebbe essere collegato al campo &lt;f4&gt;ID&lt;/f4&gt; della tabella &lt;f5&gt;Address&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
