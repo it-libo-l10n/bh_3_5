@@ -20737,8 +20737,8 @@
       <tuv lang="EN">
         <seg>If the value "1" is found in &lt;f6&gt;Address_ID&lt;/f6&gt; but not in the &lt;f7&gt;ID&lt;/f7&gt; field of the &lt;f8&gt;Address&lt;/f8&gt; table, the link will not work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190820T071836Z" creationid="Marco Marega" creationdate="20180227T213059Z">
-        <seg>aaaaaaaaaaaaaaaaSe il valore "1" è presente in &lt;f6&gt;Adress_ID&lt;/f6&gt; ma non nel campo &lt;f7&gt;ID&lt;/f7&gt; della tabella &lt;f8&gt;Adress&lt;/f8&gt;, il collegamento non funzionerà.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T072913Z" creationid="Marco Marega" creationdate="20180227T213059Z">
+        <seg>Se il valore "1" è presente in &lt;f6&gt;Address_ID&lt;/f6&gt; ma non nel campo &lt;f7&gt;ID&lt;/f7&gt; della tabella &lt;f8&gt;Address&lt;/f8&gt;, il collegamento non funzionerà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38153,8 +38153,8 @@
       <tuv lang="EN">
         <seg>This command removes the named constraint (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;) from a table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213221Z" creationid="Marco Marega" creationdate="20180227T213221Z">
-        <seg>Questo comando rimuove dalla tabella il vincolo specificato (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T073101Z" creationid="Marco Marega" creationdate="20180227T213221Z">
+        <seg>aaaaQuesto comando rimuove dalla tabella il vincolo specificato (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
