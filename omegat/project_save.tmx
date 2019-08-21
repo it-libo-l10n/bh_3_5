@@ -10736,8 +10736,8 @@
       <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" RENAME TO "new_table_name";</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213243Z" creationid="Marco Marega" creationdate="20180227T213243Z">
-        <seg>ALTER TABLE "Nome_tabella" RENAME TO "nuovo_nome_tabella";</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T081921Z" creationid="Marco Marega" creationdate="20180227T213243Z">
+        <seg>aaaaaaaaaaaaaaaaaALTER TABLE "Nome_tabella" RENAME TO "nuovo_nome_tabella";</seg>
       </tuv>
     </tu>
     <tu>
@@ -38153,8 +38153,8 @@
       <tuv lang="EN">
         <seg>This command removes the named constraint (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;) from a table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190821T073101Z" creationid="Marco Marega" creationdate="20180227T213221Z">
-        <seg>aaaaQuesto comando rimuove dalla tabella il vincolo specificato (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T081918Z" creationid="Marco Marega" creationdate="20180227T213221Z">
+        <seg>Questo comando rimuove dalla tabella il vincolo specificato (&lt;f0&gt;UNIQUE&lt;/f0&gt;, &lt;f1&gt;CHECK&lt;/f1&gt;, &lt;f2&gt;FOREIGN KEY&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
