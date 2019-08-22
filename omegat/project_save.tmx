@@ -7440,8 +7440,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;IF EXISTS&lt;/f0&gt; prevents an error occurring if this table does not exist.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213414Z" creationid="Marco Marega" creationdate="20180227T213414Z">
-        <seg>&lt;f0&gt;IF EXISTS&lt;/f0&gt; previene il verificarsi di un errore nel caso in cui la tabella non esista.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T070806Z" creationid="Marco Marega" creationdate="20180227T213414Z">
+        <seg>&lt;f0&gt;IF EXISTS&lt;/f0&gt; evita il verificarsi di un errore nel caso in cui la tabella non esista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8144,8 +8144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RESTRICT&lt;/f0&gt; is the default arrangement and need not be explicitly chosen; it means that deletion does not occur if the table is linked to another table by the use of a foreign key or there is an active view of this table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213943Z" creationid="Marco Marega" creationdate="20180227T213943Z">
-        <seg>&lt;f0&gt;RESTRICT&lt;/f0&gt; è l'impostazione predefinita e non è necessario sceglierla esplicitamente; significa che l'eliminazione non ha luogo se la tabella è collegata a un'altra tabella mediante l'uso di una chiave esterna, oppure se esiste una vista attiva di questa tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T070808Z" creationid="Marco Marega" creationdate="20180227T213943Z">
+        <seg>aaaaaaaaaaaaaaaaaa&lt;f0&gt;RESTRICT&lt;/f0&gt; è l'impostazione predefinita e non è necessario sceglierla esplicitamente; significa che l'eliminazione non ha luogo se la tabella è collegata a un'altra tabella mediante l'uso di una chiave esterna, oppure se esiste una vista attiva di questa tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10736,8 +10736,8 @@
       <tuv lang="EN">
         <seg>ALTER TABLE "Table_name" RENAME TO "new_table_name";</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190821T081921Z" creationid="Marco Marega" creationdate="20180227T213243Z">
-        <seg>aaaaaaaaaaaaaaaaaALTER TABLE "Nome_tabella" RENAME TO "nuovo_nome_tabella";</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T070211Z" creationid="Marco Marega" creationdate="20180227T213243Z">
+        <seg>ALTER TABLE "Nome_tabella" RENAME TO "nuovo_nome_tabella";</seg>
       </tuv>
     </tu>
     <tu>
@@ -15160,8 +15160,8 @@
       <tuv lang="EN">
         <seg>Deleting tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213311Z" creationid="Marco Marega" creationdate="20180227T213311Z">
-        <seg>Eliminare tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T070407Z" creationid="Marco Marega" creationdate="20180227T213311Z">
+        <seg>Eliminazione di tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -16681,8 +16681,8 @@
       <tuv lang="EN">
         <seg>Finally this command changes only the name of a table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T213258Z" creationid="Marco Marega" creationdate="20180227T213258Z">
-        <seg>Infine questo comando modifica solo il nome della tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T070335Z" creationid="Marco Marega" creationdate="20180227T213258Z">
+        <seg>Infine questo comando modifica solo il nome di una tabella.</seg>
       </tuv>
     </tu>
     <tu>
