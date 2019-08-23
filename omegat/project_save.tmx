@@ -11512,8 +11512,8 @@
       <tuv lang="EN">
         <seg>All views referring to the named table are also completely deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214252Z" creationid="Marco Marega" creationdate="20180227T214252Z">
-        <seg>Anche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190823T082730Z" creationid="Marco Marega" creationdate="20180227T214252Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaAnche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
       </tuv>
     </tu>
     <tu>
