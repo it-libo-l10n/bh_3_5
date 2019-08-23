@@ -8144,8 +8144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RESTRICT&lt;/f0&gt; is the default arrangement and need not be explicitly chosen; it means that deletion does not occur if the table is linked to another table by the use of a foreign key or there is an active view of this table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190822T070808Z" creationid="Marco Marega" creationdate="20180227T213943Z">
-        <seg>aaaaaaaaaaaaaaaaaa&lt;f0&gt;RESTRICT&lt;/f0&gt; è l'impostazione predefinita e non è necessario sceglierla esplicitamente; significa che l'eliminazione non ha luogo se la tabella è collegata a un'altra tabella mediante l'uso di una chiave esterna, oppure se esiste una vista attiva di questa tabella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190823T081447Z" creationid="Marco Marega" creationdate="20180227T213943Z">
+        <seg>&lt;f0&gt;RESTRICT&lt;/f0&gt; è l'impostazione predefinita e non deve essere necessariamente esplicitata; significa che l'eliminazione non ha luogo se la tabella è collegata a un'altra tabella mediante l'uso di una chiave esterna, oppure se esiste una vista attiva di questa tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27177,8 +27177,8 @@
       <tuv lang="EN">
         <seg>Queries are not affected as they are not stored within HSQLDB.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T150533Z" creationid="Marco Marega" creationdate="20180227T214037Z">
-        <seg>Le Query non sono coinvolte in quanto non sono memorizzate all'interno di HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190823T081710Z" creationid="Marco Marega" creationdate="20180227T214037Z">
+        <seg>Le query non sono coinvolte in quanto non sono memorizzate all'interno di HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
