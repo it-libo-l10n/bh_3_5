@@ -11512,8 +11512,8 @@
       <tuv lang="EN">
         <seg>All views referring to the named table are also completely deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190823T082730Z" creationid="Marco Marega" creationdate="20180227T214252Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaAnche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T090013Z" creationid="Marco Marega" creationdate="20180227T214252Z">
+        <seg>Anche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24585,8 +24585,8 @@
       <tuv lang="EN">
         <seg>Linking tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marina Latini" changedate="20171205T162211Z" creationid="Marina Latini" creationdate="20171205T162211Z">
-        <seg>Collegare tabelle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T090055Z" creationid="Marina Latini" creationdate="20171205T162211Z">
+        <seg>Collegamento delle tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -36689,8 +36689,8 @@
       <tuv lang="EN">
         <seg>The user must then ensure during data entry, that the relationships between the tables remain correct.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214509Z" creationid="Marco Marega" creationdate="20180227T214509Z">
-        <seg>L'utente dovrebbe quindi assicurarsi durante l'inserimento dei dati, che tutte le relazioni tra le tabelle rimangano corrette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T090332Z" creationid="Marco Marega" creationdate="20180227T214509Z">
+        <seg>L'utente dovrebbe quindi assicurarsi, durante l'inserimento dei dati, che tutte le relazioni tra le tabelle rimangano corrette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39825,8 +39825,8 @@
       <tuv lang="EN">
         <seg>This usually occurs through the use of suitable input forms that manage this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214612Z" creationid="Marco Marega" creationdate="20180227T214612Z">
-        <seg>Questo di solito si ottiene attraverso l'uso di adeguati formulari di inserimento che gestiscano questo aspetto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T090334Z" creationid="Marco Marega" creationdate="20180227T214612Z">
+        <seg>aaaaaaaaaaaaaaaaQuesto di solito si ottiene attraverso l'uso di adeguati formulari di inserimento che gestiscano questo aspetto.</seg>
       </tuv>
     </tu>
     <tu>
