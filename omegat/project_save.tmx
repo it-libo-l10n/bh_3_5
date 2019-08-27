@@ -15152,8 +15152,8 @@
       <tuv lang="EN">
         <seg>Deleting records in linked tables is not a simple matter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214654Z" creationid="Marco Marega" creationdate="20180227T214654Z">
-        <seg>Eliminare dei record nelle tabelle collegate non è una questione semplice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T075425Z" creationid="Marco Marega" creationdate="20180227T214654Z">
+        <seg>L'eliminazione di record nelle tabelle collegate non è una questione semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30881,8 +30881,8 @@
       <tuv lang="EN">
         <seg>Suppose you wish to delete a particular street from the &lt;f0&gt;Street&lt;/f0&gt; table in Figure &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, where this field is linked with the &lt;f3&gt;Address&lt;/f3&gt; table as a foreign key in that table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214818Z" creationid="Marco Marega" creationdate="20180227T214818Z">
-        <seg>Supponete di voler eliminare una determinata via dalla tabella &lt;f0&gt;Street&lt;/f0&gt; della Figura &lt;t1&gt;7&lt;/t1&gt;&lt;t2/&gt;, nella quale questo campo è collegato alla tabella &lt;f3&gt;Adress&lt;/f3&gt; come chiave esterna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T075858Z" creationid="Marco Marega" creationdate="20180227T214818Z">
+        <seg>Supponete di voler eliminare una determinata via dalla tabella &lt;f0&gt;Street&lt;/f0&gt; della &lt;t1&gt;Figura 7&lt;/t1&gt;&lt;t2/&gt;, nella quale questo campo è collegato alla tabella &lt;f3&gt;Address&lt;/f3&gt; come chiave esterna in tale tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33217,8 +33217,8 @@
       <tuv lang="EN">
         <seg>The database does not allow this, once the relationship has been created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214947Z" creationid="Marco Marega" creationdate="20180227T214947Z">
-        <seg>Una volta che la relazione è stata creata, il database non lo permette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T080128Z" creationid="Marco Marega" creationdate="20180227T214947Z">
+        <seg>aaaaaaaaaaaaaaaaaaUna volta che la relazione è stata creata, il database non lo permette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35841,8 +35841,8 @@
       <tuv lang="EN">
         <seg>The references in the &lt;f4&gt;Address &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;table&lt;/f6&gt;&lt;/f5&gt; would disappear.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214840Z" creationid="Marco Marega" creationdate="20180227T214840Z">
-        <seg>I riferimenti nella tabella &lt;f4&gt;Adress &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt; scomparirebbero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T080125Z" creationid="Marco Marega" creationdate="20180227T214840Z">
+        <seg>I riferimenti nella tabella &lt;f4&gt;Address&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt; scomparirebbero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39825,8 +39825,8 @@
       <tuv lang="EN">
         <seg>This usually occurs through the use of suitable input forms that manage this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T090334Z" creationid="Marco Marega" creationdate="20180227T214612Z">
-        <seg>aaaaaaaaaaaaaaaaQuesto di solito si ottiene attraverso l'uso di adeguati formulari di inserimento che gestiscano questo aspetto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T075334Z" creationid="Marco Marega" creationdate="20180227T214612Z">
+        <seg>Ciò di solito si ottiene tramite l'uso di adeguati formulari di inserimento che permettono di gestire questo aspetto.</seg>
       </tuv>
     </tu>
     <tu>
