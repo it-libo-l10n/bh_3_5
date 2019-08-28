@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21777,8 +21777,8 @@
       <tuv lang="EN">
         <seg>In order to delete the &lt;f7&gt;Street&lt;/f7&gt;, the precondition must be fulfilled, that it is no longer referenced in the &lt;f8&gt;Address &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;table&lt;/f10&gt;&lt;/f9&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215133Z" creationid="Marco Marega" creationdate="20180227T215133Z">
-        <seg>Affinché sia possibile eliminare la &lt;f7&gt;via&lt;/f7&gt;, dev'essere soddisfatta il prerequisito che questa non sia più referenziata all'interno della tabella &lt;f8&gt;Adress &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T132611Z" creationid="Marco Marega" creationdate="20180227T215133Z">
+        <seg>Per poter eliminare la &lt;f7&gt;via&lt;/f7&gt;, deve essere soddisfatto il prerequisito che questa non sia più referenziata all'interno della tabella &lt;f8&gt;Address&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33217,8 +33217,8 @@
       <tuv lang="EN">
         <seg>The database does not allow this, once the relationship has been created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190827T080128Z" creationid="Marco Marega" creationdate="20180227T214947Z">
-        <seg>aaaaaaaaaaaaaaaaaaUna volta che la relazione è stata creata, il database non lo permette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T132255Z" creationid="Marco Marega" creationdate="20180227T214947Z">
+        <seg>Il database non lo permette, una volta che la relazione è stata creata.</seg>
       </tuv>
     </tu>
     <tu>
