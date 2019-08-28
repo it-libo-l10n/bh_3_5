@@ -12688,8 +12688,8 @@
       <tuv lang="EN">
         <seg>Basic links are made using &lt;f0&gt;Tools &gt; &lt;/f0&gt;&lt;f1&gt;Relationships&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215511Z" creationid="Marco Marega" creationdate="20180227T215511Z">
-        <seg>I collegamenti elementari vengono impostati usando &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;Relazioni&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T132854Z" creationid="Marco Marega" creationdate="20180227T215511Z">
+        <seg>I collegamenti di base vengono impostati tramite la voce di menu &lt;f0&gt;Strumenti &gt; &lt;/f0&gt;&lt;f1&gt;Relazioni&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38249,8 +38249,8 @@
       <tuv lang="EN">
         <seg>This creates a connection line from the primary key in one table to the defined foreign key in the other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215558Z" creationid="Marco Marega" creationdate="20180227T215558Z">
-        <seg>Questo crea una linee di collegamento tra la chiave primaria in una tabella e la chiave esterna in un'altra.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T133141Z" creationid="Marco Marega" creationdate="20180227T215558Z">
+        <seg>Ciò crea una linea di collegamento fra la chiave primaria in una tabella e la chiave esterna definita in un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42569,8 +42569,8 @@
       <tuv lang="EN">
         <seg>You may receive the following error message when creating such a link:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215658Z" creationid="Marco Marega" creationdate="20180227T215658Z">
-        <seg>Quando create un collegamento di questo tipo potreste ricevere il seguente messaggio di errore:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T133145Z" creationid="Marco Marega" creationdate="20180227T215658Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaQuando create un collegamento di questo tipo potreste ricevere il seguente messaggio di errore:</seg>
       </tuv>
     </tu>
     <tu>
