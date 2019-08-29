@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6904,8 +6904,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Column types do not match in statement&lt;/f0&gt;—As the SQL command is displayed as well, the reference is clearly to the columns &lt;f1&gt;Address.str_ID&lt;/f1&gt; and &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134212Z" creationid="Marco Marega" creationdate="20180228T134212Z">
-        <seg>&lt;f0&gt;Il tipo di colonna non trova corrispondenza in statement&lt;/f0&gt;— Dato che viene visualizzato anche il comando SQL, il riferimento è chiaramente alle colonne &lt;f1&gt;Adress.str_ID&lt;/f1&gt; e &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T071433Z" creationid="Marco Marega" creationdate="20180228T134212Z">
+        <seg>&lt;f0&gt;Il tipo colonna non trova corrispondenza in statement&lt;/f0&gt;— Dato che viene visualizzato anche il comando SQL, il riferimento è chiaramente alle colonne &lt;f1&gt;Address.str_ID&lt;/f1&gt; e &lt;f2&gt;Street.ID&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17313,8 +17313,8 @@
       <tuv lang="EN">
         <seg>For test purposes one of these fields was defined as an Integer, the other as Tiny Integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134443Z" creationid="Marco Marega" creationdate="20180228T134443Z">
-        <seg>A scopo di prova uno di questi campi è stato creato come Intero (INTEGER) e l'altro come Intero molto piccolo (TINY INTEGER).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T072006Z" creationid="Marco Marega" creationdate="20180228T134443Z">
+        <seg>A scopo di test uno di questi campi è stato creato come Intero (Integer) e l'altro come Intero molto piccolo (Tiny integer).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37233,8 +37233,8 @@
       <tuv lang="EN">
         <seg>Therefore no link could be created since the one field cannot have the same value as the other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134601Z" creationid="Marco Marega" creationdate="20180228T134601Z">
-        <seg>Perciò il collegamento non può essere creato dato che un campo non può contenere gli stessi valori dell'altro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T072009Z" creationid="Marco Marega" creationdate="20180228T134601Z">
+        <seg>aaaaaaaaaaaaaaaaaPerciò il collegamento non può essere creato dato che un campo non può contenere gli stessi valori dell'altro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39289,8 +39289,8 @@
       <tuv lang="EN">
         <seg>This message shows some text in English and the internal SQL command that caused the error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T215757Z" creationid="Marco Marega" creationdate="20180227T215757Z">
-        <seg>Questo messaggio visualizza del testo e il comando SQL che ha causato l'errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T071006Z" creationid="Marco Marega" creationdate="20180227T215757Z">
+        <seg>Questo messaggio visualizza del testo e il comando interno SQL che ha causato l'errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42569,8 +42569,8 @@
       <tuv lang="EN">
         <seg>You may receive the following error message when creating such a link:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190828T133145Z" creationid="Marco Marega" creationdate="20180227T215658Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaQuando create un collegamento di questo tipo potreste ricevere il seguente messaggio di errore:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T070758Z" creationid="Marco Marega" creationdate="20180227T215658Z">
+        <seg>Quando create un collegamento di questo tipo potreste ricevere il seguente messaggio di errore:</seg>
       </tuv>
     </tu>
     <tu>
