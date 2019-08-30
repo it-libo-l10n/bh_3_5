@@ -7752,8 +7752,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Integrity constraint violation – no parent 1, table: Address ...&lt;/f0&gt; —The integrity of the relationship is not ensured.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T135041Z" creationid="Marco Marega" creationdate="20180228T135041Z">
-        <seg>&lt;f0&gt;Violazione del vincolo di integrità– senza genitore 1, tabella: Adress ...&lt;/f0&gt; — L'integrità della relazione non è assicurata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T070642Z" creationid="Marco Marega" creationdate="20180228T135041Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;Violazione del vincolo di integrità– senza genitore 1, tabella: Adress ...&lt;/f0&gt; — L'integrità della relazione non è assicurata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12880,8 +12880,8 @@
       <tuv lang="EN">
         <seg>But again there is an error:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T134802Z" creationid="Marco Marega" creationdate="20180228T134802Z">
-        <seg>Ma c'è di nuovo un errore:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T070639Z" creationid="Marco Marega" creationdate="20180228T134802Z">
+        <seg>Ma si presenta nuovamente un errore:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37233,8 +37233,8 @@
       <tuv lang="EN">
         <seg>Therefore no link could be created since the one field cannot have the same value as the other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T072009Z" creationid="Marco Marega" creationdate="20180228T134601Z">
-        <seg>aaaaaaaaaaaaaaaaaPerciò il collegamento non può essere creato dato che un campo non può contenere gli stessi valori dell'altro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T070209Z" creationid="Marco Marega" creationdate="20180228T134601Z">
+        <seg>Perciò il collegamento non può essere creato siccome un campo non può contenere gli stessi valori dell'altro.</seg>
       </tuv>
     </tu>
     <tu>
