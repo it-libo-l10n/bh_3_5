@@ -20553,8 +20553,8 @@
       <tuv lang="EN">
         <seg>If the foreign key field contains an entry that is not present in the parent table (the table containing the primary key), this is an invalid entry.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T095431Z" creationid="Marco Marega" creationdate="20180228T135433Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaSe il campo della chiave esterna contiene un valore che non è presente nella tabella genitore (la tabella che contiene la chiave primaria), questo è un valore non valido.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T083211Z" creationid="Marco Marega" creationdate="20180228T135433Z">
+        <seg>Se il campo della chiave esterna contiene un valore non presente nella tabella genitore (la tabella contenente la chiave primaria), questo sarà un valore non valido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20577,8 +20577,8 @@
       <tuv lang="EN">
         <seg>If the linking is carried out successfully and subsequently there is an attempt to enter a similarly invalid record into the table, you get the following error message:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213045Z" creationid="Marco Marega" creationdate="20180228T213045Z">
-        <seg>Se il collegamento viene realizzato con successo e successivamente vi è un tentativo di inserire nella tabella un simile record non valido, otterrete il seguente messaggio di errore:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T083214Z" creationid="Marco Marega" creationdate="20180228T213045Z">
+        <seg>aaaaSe il collegamento viene realizzato con successo e successivamente vi è un tentativo di inserire nella tabella un simile record non valido, otterrete il seguente messaggio di errore:</seg>
       </tuv>
     </tu>
     <tu>
