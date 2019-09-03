@@ -12648,8 +12648,8 @@
       <tuv lang="EN">
         <seg>Base refuses to accept the value 1 for the field &lt;f0&gt;str_ID&lt;/f0&gt; after the link has been made because the &lt;f1&gt;Street&lt;/f1&gt; table contains no such&lt;f2&gt; v&lt;/f2&gt;alue in the ID field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213429Z" creationid="Marco Marega" creationdate="20180228T213429Z">
-        <seg>Dopo che il collegamento è stato creato, Base si rifiuta di accettare il valore 1 nel campo &lt;f0&gt;str_ID&lt;/f0&gt; perché la tabella &lt;f1&gt;Street&lt;/f1&gt;, nel campo ID, non contiene lo stesso &lt;f2&gt; valore&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T090520Z" creationid="Marco Marega" creationdate="20180228T213429Z">
+        <seg>aaaaDopo che il collegamento è stato creato, Base si rifiuta di accettare il valore 1 nel campo &lt;f0&gt;str_ID&lt;/f0&gt; perché la tabella &lt;f1&gt;Street&lt;/f1&gt;, nel campo ID, non contiene lo stesso &lt;f2&gt; valore&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20577,8 +20577,8 @@
       <tuv lang="EN">
         <seg>If the linking is carried out successfully and subsequently there is an attempt to enter a similarly invalid record into the table, you get the following error message:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190903T083214Z" creationid="Marco Marega" creationdate="20180228T213045Z">
-        <seg>aaaaSe il collegamento viene realizzato con successo e successivamente vi è un tentativo di inserire nella tabella un simile record non valido, otterrete il seguente messaggio di errore:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T090422Z" creationid="Marco Marega" creationdate="20180228T213045Z">
+        <seg>Se il collegamento viene realizzato con successo e successivamente vi è un tentativo di inserire nella tabella un simile record non valido, otterrete il seguente messaggio di errore:</seg>
       </tuv>
     </tu>
     <tu>
