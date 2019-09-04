@@ -20369,8 +20369,8 @@
       <tuv lang="EN">
         <seg>If the &lt;f2&gt;primary key of a record&lt;/f2&gt; in this table is &lt;f3&gt;altered (Update)&lt;/f3&gt;, the following actions might take place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214001Z" creationid="Marco Marega" creationdate="20180228T214001Z">
-        <seg>Se la &lt;f2&gt;chiave primaria di un record&lt;/f2&gt; di questa tabella viene &lt;f3&gt;modificata (Update)&lt;/f3&gt;, possono aver luogo le seguenti azioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T101129Z" creationid="Marco Marega" creationdate="20180228T214001Z">
+        <seg>aaaaaaaaaaaaaaaaaSe la &lt;f2&gt;chiave primaria di un record&lt;/f2&gt; di questa tabella viene &lt;f3&gt;modificata (Update)&lt;/f3&gt;, possono aver luogo le seguenti azioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21833,8 +21833,8 @@
       <tuv lang="EN">
         <seg>In our case this is the &lt;f1&gt;Street &lt;/f1&gt;table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213836Z" creationid="Marco Marega" creationdate="20180228T213836Z">
-        <seg>Nel nostro caso si tratta della tabella &lt;f1&gt;Street &lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T101127Z" creationid="Marco Marega" creationdate="20180228T213836Z">
+        <seg>In questo caso si tratta della tabella &lt;f1&gt;Street&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35553,8 +35553,8 @@
       <tuv lang="EN">
         <seg>The properties of a link can be edited so that the deletion of a record from the &lt;f0&gt;Street&lt;/f0&gt; table will simultaneously&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;set to&lt;/f3&gt;&lt;/f2&gt; NULL the corresponding entries in the &lt;f4&gt;Ad&lt;/f4&gt;&lt;f5&gt;dress&lt;/f5&gt; table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190904T085409Z" creationid="Marco Marega" creationdate="20180228T213645Z">
-        <seg>aaaaLe proprietà di un collegamento possono essere modificate in modo che la cancellazione di un record dalla tabella &lt;f0&gt;Street&lt;/f0&gt; imposti simultaneamente &lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt; NULL le voci corrispondenti nella tabella &lt;f4&gt;Ad&lt;/f4&gt;&lt;f5&gt;ress&lt;/f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T100620Z" creationid="Marco Marega" creationdate="20180228T213645Z">
+        <seg>Le proprietà di un collegamento possono essere modificate in modo che l'eliminazione di un record dalla tabella &lt;f0&gt;Street&lt;/f0&gt; imposti simultaneamente&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt; NULL le voci corrispondenti nella tabella &lt;f4&gt;Add&lt;/f4&gt;&lt;f5&gt;ress&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35617,8 +35617,8 @@
       <tuv lang="EN">
         <seg>The properties shown in Figure &lt;t0&gt;12&lt;/t0&gt; always relate to an action linked to the change in a record from the table containing the corresponding primary key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T213813Z" creationid="Marco Marega" creationdate="20180228T213813Z">
-        <seg>Le proprietà illustrate nella Figura &lt;t0&gt;12&lt;/t0&gt; si riferiscono sempre a un'azione collegata alla modifica di un record della tabella che contiene la corrispondente chiave primaria.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T101013Z" creationid="Marco Marega" creationdate="20180228T213813Z">
+        <seg>Le proprietà mostrate nella &lt;t0&gt;Figura 12&lt;/t0&gt; si riferiscono sempre a un'azione collegata alla modifica di un record della tabella contenente la corrispondente chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
