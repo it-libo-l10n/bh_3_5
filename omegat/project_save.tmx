@@ -13744,8 +13744,8 @@
       <tuv lang="EN">
         <seg>Changing the primary key &lt;f0&gt;Street.ID&lt;/f0&gt; is not allowed in this case, as it would break the relationship between the tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190905T075651Z" creationid="Marco Marega" creationdate="20180228T214210Z">
-        <seg>aaaaIn questo caso non è permesso modificare la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt;, in quanto ciò interromperebbe la relazione tra le due tabelle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T082707Z" creationid="Marco Marega" creationdate="20180228T214210Z">
+        <seg>In questo caso non è permesso modificare la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt;, in quanto ciò interromperebbe la relazione tra le due tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20617,8 +20617,8 @@
       <tuv lang="EN">
         <seg>If the primary key &lt;f0&gt;Street.ID&lt;/f0&gt; is changed, the foreign key is automatically changed to its new value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220314Z" creationid="Marco Marega" creationdate="20180228T220314Z">
-        <seg>Se la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt; viene modificata, la chiave esterna viene automaticamente modificata al nuovo valore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T082826Z" creationid="Marco Marega" creationdate="20180228T220314Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaaSe la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt; viene modificata, la chiave esterna viene automaticamente modificata al nuovo valore.</seg>
       </tuv>
     </tu>
     <tu>
