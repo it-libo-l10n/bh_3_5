@@ -13744,8 +13744,8 @@
       <tuv lang="EN">
         <seg>Changing the primary key &lt;f0&gt;Street.ID&lt;/f0&gt; is not allowed in this case, as it would break the relationship between the tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T214210Z" creationid="Marco Marega" creationdate="20180228T214210Z">
-        <seg>In questo caso non è permesso modificare la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt;, in quanto ciò interromperebbe la relazione tra le due tabelle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T075651Z" creationid="Marco Marega" creationdate="20180228T214210Z">
+        <seg>aaaaIn questo caso non è permesso modificare la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt;, in quanto ciò interromperebbe la relazione tra le due tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20369,8 +20369,8 @@
       <tuv lang="EN">
         <seg>If the &lt;f2&gt;primary key of a record&lt;/f2&gt; in this table is &lt;f3&gt;altered (Update)&lt;/f3&gt;, the following actions might take place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190904T101129Z" creationid="Marco Marega" creationdate="20180228T214001Z">
-        <seg>aaaaaaaaaaaaaaaaaSe la &lt;f2&gt;chiave primaria di un record&lt;/f2&gt; di questa tabella viene &lt;f3&gt;modificata (Update)&lt;/f3&gt;, possono aver luogo le seguenti azioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T075639Z" creationid="Marco Marega" creationdate="20180228T214001Z">
+        <seg>Se la &lt;f2&gt;chiave primaria di un record&lt;/f2&gt; di questa tabella viene &lt;f3&gt;modificata (Update)&lt;/f3&gt;, possono aver luogo le seguenti azioni.</seg>
       </tuv>
     </tu>
     <tu>
