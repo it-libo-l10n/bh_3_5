@@ -16185,8 +16185,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Editing the properties of a relationship</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220834Z" creationid="Marco Marega" creationdate="20180228T220834Z">
-        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Modificare le proprietà di una relazione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T074456Z" creationid="Marco Marega" creationdate="20180228T220834Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: modifica delle proprietà di una relazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -17081,8 +17081,8 @@
       <tuv lang="EN">
         <seg>For example, if a value is changed from 3 to 4, all records from the &lt;f1&gt;Address &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;/f2&gt; that contain the foreign key &lt;f4&gt;Address.Street_ID&lt;/f4&gt; with the value 3, have it changed to 4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T221310Z" creationid="Marco Marega" creationdate="20180228T220816Z">
-        <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Adress &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Adress.Street_ID&lt;/f4&gt; con il valore 3, verranno modificate in 4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T074404Z" creationid="Marco Marega" creationdate="20180228T220816Z">
+        <seg>Ad esempio, se un valore viene modificato da 3 a 4, tutti i record della tabella &lt;f1&gt;Address&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt; che contengono la chiave esterna &lt;f4&gt;Address.Street_ID&lt;/f4&gt; con valore 3 verranno modificati in 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20617,8 +20617,8 @@
       <tuv lang="EN">
         <seg>If the primary key &lt;f0&gt;Street.ID&lt;/f0&gt; is changed, the foreign key is automatically changed to its new value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190905T082826Z" creationid="Marco Marega" creationdate="20180228T220314Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaaSe la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt; viene modificata, la chiave esterna viene automaticamente modificata al nuovo valore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T073506Z" creationid="Marco Marega" creationdate="20180228T220314Z">
+        <seg>Se la chiave primaria &lt;f0&gt;Street.ID&lt;/f0&gt; viene modificata, la chiave esterna viene automaticamente modificata al nuovo valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29881,8 +29881,8 @@
       <tuv lang="EN">
         <seg>Set null</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220854Z" creationid="Marco Marega" creationdate="20180228T220854Z">
-        <seg>Imposta zero</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T074459Z" creationid="Marco Marega" creationdate="20180228T220854Z">
+        <seg>aaaaaaaaaaaaaaaaaaImposta zero</seg>
       </tuv>
     </tu>
     <tu>
@@ -38377,8 +38377,8 @@
       <tuv lang="EN">
         <seg>This ensures that the linkage is not damaged.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180228T220656Z" creationid="Marco Marega" creationdate="20180228T220656Z">
-        <seg>Questo garantisce che il collegamento non venga danneggiato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T073945Z" creationid="Marco Marega" creationdate="20180228T220656Z">
+        <seg>Ciò assicura che il collegamento non venga danneggiato.</seg>
       </tuv>
     </tu>
     <tu>
