@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11512,8 +11512,8 @@
       <tuv lang="EN">
         <seg>All views referring to the named table are also completely deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T090013Z" creationid="Marco Marega" creationdate="20180227T214252Z">
-        <seg>Anche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T124025Z" creationid="Marco Marega" creationdate="20180227T214252Z">
+        <seg>aaaaaaaaaaaaaaaaAnche tutte le viste che si riferiscono alla tabella indicata saranno completamente cancellate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20073,7 +20073,7 @@
       <tuv lang="EN">
         <seg>If instead you choose &lt;f0&gt;CASCADE&lt;/f0&gt;, all links to the table "Table_name" are deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180227T214122Z" creationid="Marco Marega" creationdate="20180227T214122Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T123950Z" creationid="Marco Marega" creationdate="20180227T214122Z">
         <seg>Se invece scegliete &lt;f0&gt;CASCADE&lt;/f0&gt;, tutti i collegamenti alla tabella "Nome tabella" saranno cancellati.</seg>
       </tuv>
     </tu>
